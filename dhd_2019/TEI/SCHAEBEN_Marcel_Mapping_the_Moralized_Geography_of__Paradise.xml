@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mapping the Moralized Geography of 'Paradise Lost': Prototypenbildung am Beispiel einer geo-kritischen Erschließung von Miltons Werk</title>
+                <author>
+                    <persName>
+                        <surname>Schaeben</surname>
+                        <forename>Marcel</forename>
+                    </persName>
+                    <affiliation>Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland</affiliation>
+                    <email>m.schaeben@uni-koeln.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>El Khatib</surname>
+                        <forename>Randa</forename>
+                    </persName>
+                    <affiliation>Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
+                    <email>elkhatib.randa@gmail.com</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015-10-04T22:02:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Posterpräsentation</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Literary Mapping</term>
+                    <term>Deep Maps</term>
+                    <term>Visualisierung</term>
+                    <term>Georektifizierung</term>
+                    <term>Prototyp</term>
+                    <term>Web-App</term>
+                    <term>Karte</term>
+                    <term>Leaflet</term>
+                    <term>Literatur der frühen Neuzeit</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Gestaltung</term>
+                    <term>Programmierung</term>
+                    <term>Webentwicklung</term>
+                    <term>Visualisierung</term>
+                    <term>Literatur</term>
+                    <term>Karte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p style="text-align:left; ">Seit Anbeginn des digitalen Zeitalters untersuchen GeisteswissenschaftlerInnen mögliche Weiterentwicklungen und Alternativen zum Medium der Printedition. Bis heute entstanden und entstehen zahlreiche innovative und komplexe digitale Editionen von Texten, die angereichert durch Hyperlinks, Suchfunktionen, umfangreiche Register u.a. neue kritische Zugänge zu etwa literarischen Werken, historischen Quellen oder verschiedensten Materialarten wie z.B. Briefkorrespondenzen oder Tagebüchern bieten. Der primäre Zugangsweg, den digitale Editionen zu ihrem Gegenstand bieten, ist jedoch nach wie vor das Medium 
+                <hi rend="italic">Text</hi>: ein oder mehrere Textquellen sowie der kritische oder Sachapparat. Digitale Methoden bieten GeisteswissenschaftlerInnen jedoch die Möglichkeit, mit alternativen Zugängen zum Editionsgegenstand zu experimentieren.
+            </p>
+            <p style="text-align:left; ">Das 1667 veröffentlichte epische Gedicht 
+                <hi rend="italic" xml:space="preserve">Paradise Lost </hi>von John Milton ist eine Neuerzählung des biblischen Buch Genesis, welches die Geschichte des Höllensturzes, der Versuchung von Adam und Eva und ihre Vertreibung aus dem Garten Eden enthält. Darin erwähnt Milton biblische, aber auch zahlreiche nicht-biblische Orte. Diese illustriert er durchweg mit Kommentaren und Anspielungen, die sich aus klassisch-mythologischen, biblischen sowie (Milton-)zeitgenössischen Ansichten zu diesen Orten speisen und deren Quellen weit über den biblischen Text hinausgehen. Milton zeigt eine tiefe Kenntnis „alter“ sowie „neuer“ Geographie, mithilfe derer er seinem Werk eine enorme raum-zeitliche Komplexität und Tiefe verleiht. Charakteristisch ist, dass Milton den Orten eine moralische Wertigkeit zuweist: die meisten Erwähnungen von Ortsnamen werden durch seinen literarischen Kommentar moralisch kontextualisiert und lassen eine positive oder negative Konnotation erkennen.
+            </p>
+            <p style="text-align:left; ">Der Prototyp einer Web-App 
+                <hi rend="italic">Exploring the Moralized Geography of Paradise Lost</hi> soll, aufbauend auf Praktiken der 
+                <hi rend="italic">Literary Geography</hi> im Allgemeinen sowie der 
+                <hi rend="italic">Literary Cartography</hi> im Speziellen (Piatti 2016: 89), diese unterschiedlichen räumlichen und zeitlichen Dimensionen der literarischen Geographie 
+                <hi rend="italic">Paradise Losts</hi> erstmals visuell explorativ zugänglich machen und dabei den Kern einer geo-kritischen Edition bilden, die sowohl im pädagogischen, als auch im geisteswissenschaftlich-epistemologischen Kontext Wirkung entfalten kann. 
+            </p>
+            <figure>
+                <graphic n="1001" width="15.991416666666666cm" height="10.556944444444444cm" url="Pictures/690e47cfa047c07942ff5186f48696de.png" rend="inline"/>
+            </figure>
+            <p style="text-align:left; ">Abb. 1: Hauptansicht mit eingeblendetem Kommentar und Textpassagen.</p>
+            <p style="text-align:left; ">Den zentralen Zugang zum Werk bildet hierbei der räumlich-geographische. Erwähnte Orte wurden manuell geokodiert und als Marker auf eine digitale Karte gelegt. Ein besonderes Augenmerk liegt auf Miltons moralischer Kontextualisierung: positiv, negativ sowie neutral konnotierte Orte werden farblich markiert; mehrere sich widersprechende Erwähnungen eines Ortes werden durch Farbtonnuancen oder alternativ durch Kreisdiagramme, die optional an die Stelle eines Markers treten können, visualisiert (Abb. 2).</p>
+            <figure>
+                <graphic n="1002" width="15.991416666666666cm" height="10.534027777777778cm" url="Pictures/ceace39ca95f8e6cf6c3bdabf55a6479.png" rend="inline"/>
+            </figure>
+            <p style="text-align:left; ">Abb. 2: Kreisdiagramme zur Illustration mehrerer Erwähnungen eines Ortes mit unterschiedlichen moralischen Konnotationen.</p>
+            <p style="text-align:left; ">Zur Illustration der unterschiedlichen Temporalitäten, die Miltons Geographie zugrunde liegen, können verschiedene historische Karten eingeblendet und über die Basis-Weltkarte gelegt werden, die durch die Technik der Georektifizierung an das Mercator-Koordinatensystem angepasst wurden. Gruppen thematisch verwandter Orte sowie die Anzahl der Erwähnungen der einzelnen Orte werden visuell hervorgehoben. Weiterhin enthält der Prototyp für jeden Ort die entsprechenden Passagen des Gedichts, in denen er erwähnt wird. Es kann zwischen vier Basis-Weltkarten gewählt werden, die je unterschiedliche topographische oder politische Charakteristiken hervortreten lassen. Ortsmarker für solche Orte, die im Buch der Genesis erwähnt werden, lassen sich optional zusätzlich einblenden, um einen Vergleich biblischer Geographie mit Miltons literarischer Geographie zu ermöglichen. Um die Dichte der Vielzahl visualisierter Faktoren zu entzerren, lassen sich bis zu vier synchronisierte Instanzen der Karte nebeneinander anzeigen, die unabhängig voneinander konfiguriert werden können (Abb. 3).</p>
+            <figure>
+                <graphic n="1003" width="15.991416666666666cm" height="10.592197222222222cm" url="Pictures/b2e8743f514c5d0b1856130e0b192900.png" rend="inline"/>
+            </figure>
+            <p style="text-align:left; ">Abb. 3: Vier unterschiedlich konfigurierte, synchronisierte Karten.</p>
+            <p style="text-align:left; ">Galey und Ruecker (2010: 406) argumentieren, dass ein experimenteller, digitaler Prototyp, ähnlich wie kritische Printeditionen und andere Produkte geisteswissenschaftlicher Forschung, als eine Art Verdinglichung einer Theorie bzw. einer Hypothese verstanden werden kann. Mit unserem Prototyp wollen wir verdeutlichen, dass digitale Kartographie weit mehr ermöglicht als die reine Illustration geographischer Zusammenhänge (Cooper und Gregory 2011: 90). Der Entwicklungsprozess eines digitalen kartenbasierten Prototyps ist ein Prozess kritischer Interpretation; sein Ergebnis wiederum versteht sich als Mittel zur weiteren kritischen Interpretation.</p>
+            <p style="text-align:left; ">In unserem Prototyp wird die durch den kartographischen Ansatz zunächst postulierte Beziehung zwischen realem und literarischem Ort durch editorische Kommentare sowie unterschiedliche Visualisierungen unmittelbar problematisiert. Im Sinne einer 
+                <hi rend="italic">Deep Map</hi> (Bodenhamer 2016: 212ff) sollen die diskursiven und ideologischen Dimensionen der 
+                <hi rend="italic">literarischen Topographie</hi> des Werks, und damit die sozialen und kulturellen Implikationen, die in Miltons literarische Geographie eingegangen sind (Hess-Lüttich 2017: 9), zugänglich gemacht werden. Damit soll ein Beitrag zur Bildung von Argumenten, Hypothesen und Fragestellungen auf der Grundlage des räumlich-zeitlichen Aspekts des Werks geleistet werden. Die in die Entwicklung des Prototyps selbst eingegangenen Vorannahmen sollen transparent dargestellt und diskutiert werden. Durch flexible Konfigurationsmöglichkeiten im Benutzerinterface wird es BenutzerInnen ermöglicht, selbst mit unterschiedlichen Visualisierungsmöglichkeiten einzelner Faktoren zu experimentieren.
+            </p>
+            <p style="text-align:left; ">Auf unserem Poster präsentieren wir den aktuellen Stand unseres Prototyps und illustrieren Probleme und Herausforderungen, die sich bei der Visualisierung der unterschiedlichen Faktoren ergeben. Beispielhaft wird gezeigt, wie sich anhand des Prototyps für bestimmte Thesen über Miltons literarische Geographie argumentieren lässt.</p>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Bodenhamer, David J.</hi>
+                        <hi style="font-size:10pt" xml:space="preserve"> (2016): “Making the Invisible Visible: Place, Spatial Stories and Deep Maps”, in: Cooper, David / Donaldson, Christopher / Murrieta-Flores, Patricia (eds.): </hi>
+                        <hi rend="italic" style="font-size:10pt">Literary Mapping in the Digital Age</hi>
+                        <hi style="font-size:10pt">. London / New York: Routledge 207-220.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Cooper, David / Gregory, Ian N.</hi>
+                        <hi style="font-size:10pt" xml:space="preserve"> (2011): “Mapping the English Lake District: A Literary GIS”, in: </hi>
+                        <hi rend="italic" style="font-size:10pt">Transactions of the Institute of British Geographers</hi>
+                        <hi style="font-size:10pt"> 36 (1): 89-108.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Galey, Alan / Ruecker, Stan</hi>
+                        <hi style="font-size:10pt" xml:space="preserve">(2010): “How a Prototype Argues”, in: </hi>
+                        <hi rend="italic" style="font-size:10pt">Literary and Linguistic Computing</hi>
+                        <hi style="font-size:10pt"> 25 (4): 405-24.</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Hess-Lüttich, Ernest W. B</hi>
+                        <hi style="font-size:10pt" xml:space="preserve">. (2017): „Spatial Turn: On the Concept of Space in Cultural Geography and Literary Theory“, in: </hi>
+                        <hi rend="italic" style="font-size:10pt">Meta-Carto-Semiotics</hi>
+                        <hi style="font-size:10pt" xml:space="preserve"> 5 (1): 27-37 http://ojs.meta-carto-semiotics.org/index.php/mcs/article/view/21 [letzter Zugriff 15. Oktober 2018].</hi>
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold" style="font-size:10pt">Piatti, Barbara</hi>
+                        <hi style="font-size:10pt" xml:space="preserve"> (2016): “Mapping Fiction: The Theories, Tools and Potentials of Literary Cartography”, in: Cooper, David / Donaldson, Christopher / Murrieta-Flores, Patricia (eds.): </hi>
+                        <hi rend="italic" style="font-size:10pt">Literary Mapping in the Digital Age</hi>
+                        <hi style="font-size:10pt">. London / New York: Routledge 106-119.</hi>
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

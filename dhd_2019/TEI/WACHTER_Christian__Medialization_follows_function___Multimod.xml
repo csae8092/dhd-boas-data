@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>„Medialization follows function!“ Multimodaler Hypertext als Publikationsmedium (nicht nur) für die Geschichtswissenschaft</title>
+                <author>
+                    <persName>
+                        <surname>Wachter</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <email>christian.wachter@stud.uni-goettingen.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-01-13T16:52:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Posterpräsentation</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Hypertext</term>
+                    <term>E-Publishing</term>
+                    <term>Wissensrepräsentation</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Gestaltung</term>
+                    <term>Kommunikation</term>
+                    <term>Schreiben</term>
+                    <term>Veröffentlichung</term>
+                    <term>Multimodale Kommunikation</term>
+                    <term>Visualisierung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head>Wissenschaftliches Publizieren: Knowledge Design wird im Mediendesign sichtbar</head>
+                <p style="text-align:left;">Vermittlung von Wissen ist immer an den Gebrauch von Medien gebunden. Dabei haben selbige stets Einfluss auf die Semantik der Botschaften. Gerade im wissenschaftlichen Kontext gilt es, diese Wirkung der 
+                    <hi rend="italic">Medienästhetik</hi> (zum Begriff s. Schnell 2000, 2001) beim Gestalten von Publikationen zu beachten und reflektiert einzusetzen. Hier gilt schließlich Klaus Krippendorffs Leitsatz: „Design is making sense of things” (Krippendorff 2006: xiii).
+                </p>
+                <p style="text-align:left;">So benutzen Geisteswissenschaftler*innen sinnvollerweise traditionell typografische Publikationsformen. Immerhin ermöglichen tendenziell linear gestaltete Narrative eine präzise Vermittlung logischer Argumentationsverläufe. Diese werden isomorph im Textfluss symbolisch repräsentiert und können von Leser*innen eng nachvollzogen werden. Die textsprachliche Modalität macht diese direkte Vermittlung möglich.</p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Hypertext erweitert den Möglichkeitsspielraum, Wissen zu medialisieren</head>
+                <p style="text-align:left;">Wenn jedoch komplexere, pluralistisch angelegte Zusammenhänge vermittelt werden sollen, leistet 
+                    <hi rend="italic">Hypertext</hi> als ein unlineares Medium eindeutig mehr: Gleichzeitigkeiten, Verflechtungen, Perspektivenpluralismus oder Anschlussfähigkeit an weitere Methoden sind insbesondere zu nennen. Sie können mit Hypertext auf eine explizite Weise vermittelt werden, wie es mit der Typografie nicht möglich ist. Dies ist die Kernaussage meines Promotionsprojektes, das ich mit dem präsentierten Poster vorstelle. Das Projekt ist als 
+                    <hi rend="italic">medientheoretischer Beitrag zur Grundlagenforschung des E-Publishing</hi> gedacht.
+                </p>
+                <p style="text-align:left;">Dabei liegt der Fokus auf der Geschichtswissenschaft, da ich Strategien und Ziele der Wissenserzeugung innerhalb meiner eigenen Disziplin reflektiere und davon abhebend frage, welche mediale Vermittlungsform sich im Einzelfall als adäquat erweist. Diese grundlegende Blickrichtung motiviert den Titel „Medialization follows function!“
+                    <note place="foot" xml:id="ftn1" n="1">
+                        <p rend="footnote text"> Er ist an den architektonischen Gestaltungsgrundsatz „Form follows function“ angelehnt, der von Louis H. Sullivan berühmt gemacht wurde (Sullivan 1896).</p>
+                    </note>. Weil in anderen Disziplinen ganz ähnliche Strategien und Ziele der argumentativ-logischen Wissensgestaltung und ‑vermittlung bestehen, soll das präsentierte Poster auch zu einem Ausblick über die Geschichtswissenschaft hinaus anregen.
+                </p>
+                <p style="text-align:left;">In der historischen Metatheorie wurden nicht nur die textuell-narrativen Bedingungen der Repräsentation von Geschichte bereits besprochen (s. einführend Crivellari et al. 2004; Haas 2004; Rüsen 2013: 191-220; Stopka 2018). Darüber hinaus wurden etwa auch Visualität als produktive Erweiterung der Ausdrucksmöglichkeiten (v.a. Haas 2006; Staley 2014) sowie Hypertext als Medium zur pluralistischen Darstellung von Geschichte(n) (v.a. Krameritsch 2007, 2009) ins Spiel gebracht. Krameritschs Beiträge stellen essenzielle Grundlagenarbeiten dar, an der sich mein Dissertationsprojekt methodisch und inhaltlich stark orientiert. Anders als Krameritsch geht es mir jedoch weniger um kollaborative Praxen der Wissenserzeugung in der Postmoderne oder um die Abbildung einer geschichtswissenschaftlichen Diskurs- und Wissenslandschaft mithilfe von netzwerkartigen Hypertexten. Vielmehr untersuche ich, wie einzelne Wissensangebote für sich hypertextuell publiziert werden können. Wo sich Krameritsch doch hierauf bezieht, sind es wiederum netzwerkartige, von Benutzer*innen relativ frei zu navigierende Hypertexte, für die er als innovative Vermittlungsformen votiert. Auf der Basis meiner theoretischen Reflexionen gelange ich hingegen zu visualisierten, 
+                    <hi rend="italic">multilinear</hi> gestalteten Hypertexten als vielversprechendste Varianten. Sie lösen m.E. deutlich stärker die historiografische Kernaufgabe ein, Geschichte(n) als (pluralistische) Zusammenhänge narrativ strukturiert zu vermitteln. 
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Theoretische Fundierung</head>
+                <p style="text-align:left;">Den Beginn macht eine epistemologische Grundlegung, die von einem non-dualistischen konstruktivistischen Wissensbegriff (vgl. zusammenfassend Weber 2010: 183-184) ausgeht. Dieses Wissensverständnis verlangt, in Publikationen stets Material und Verfahren zu explizieren, mit denen konstruiert wird; nur so werden die Wissensprodukte epistemisch überhaupt nachvollziehbar (vgl. Ceccato nach Zitterbarth 1991: 77). Im Kern geht es dabei natürlich nicht um Auflistungen parzellierter Einzelinformationen, sondern um das interpretierende, logisch-argumentative Herausstellen Sinn-voller Beziehungen zwischen Informationen. 
+                    <hi rend="italic">Sinnzusammenhänge</hi> mit ihren 
+                    <hi rend="italic">Kohärenzstrukturen</hi> stellen so die eigentlichen Wissensangebote (nicht nur) der Historiografie dar (vgl. Haas 2004: 233). Weil das Knowledge Design beim Publizieren symbolisch in ein Mediendesign überführt wird, folgen in der Dissertation medientheoretische Reflexionen, die schwerpunktmäßig die besondere Eignung, aber auch Grenzen von Hypertext für die Repräsentation explizit von Zusammenhängen (vgl. Storrer 2000, 2004; Winko 2005, 2008) adressieren. Insgesamt operationalisiere ich transdisziplinär Forschungsergebnisse v.a. aus der Literaturwissenschaft, den Medienwissenschaften sowie der Informatik. Die Multimodalitätsforschung (anschließend an Kress / van Leeuwen 2001) wird insbesondere in bild-linguistischer Prägung einbezogen. Texte, Bilder und Text-Bild-Kombinationen lassen sich daran ansetzend als Komplexe aus verknüpften Propositionen fassen (s. zusammenfassend Große 2011: 118-122). Narrative Texte geben die Propositionen semantisch explizit und hauptsächlich monosequenziert an, was medienästhetisch zu einer entsprechend sukzessiven Rezeption (z.B. von Argumentationslinien) führt. Sämtliche Zusammenhänge werden jedoch erst am Ende der Lektüre oder bei hoher Komplexität doch lediglich partiell erkennbar. Dementgegen können Bilder pluralistisch verknüpfte Propositionen simultan darstellen, wobei die Zusammenhänge semantisch unterdeterminiert bleiben. Sie werden allerdings ganzheitlich und nicht sukzessive wahrgenommen (vgl. Stöckl 2011: 48-49). Beide Modalitäten bieten gewissermaßen Vor‑ und Nachteile für die Wissensvermittlung.
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Multimodaler Hypertext kombiniert konstruktiv verschiedene Medienästhetiken</head>
+                <p style="text-align:left;">Genau hier erweist sich die multimodale Kombination aus 
+                    <hi rend="italic">textueller Darstellung in Knoten und Kanten</hi> mit einem 
+                    <hi rend="italic">Mapping der Gesamtstruktur</hi> eines Hypertextes als vielversprechend. Logische Zusammenhänge werden nämlich über Knoten und Kanten hinweg als narrative Pfade repräsentiert – mehrfach nebeneinander sowie verknüpft, daher multilinear. Gleichzeitig wird ein ikonischer Überblick über die gesamte Kohärenzstruktur gegeben. Die Nachteile der einen Modalität werden weitreichend durch die Vorteile der anderen kompensiert, was besonders relevant ist, wenn Zusammenhänge aufgrund der in ihnen angelegten Pluralität kaum linear darzustellen sind. Auch die Einbindung von Video‑ oder Bildelementen erweitert den medienästhetischen Gestaltungsspielraum. Wird das Mapping im User Interface als interaktives navigatorisches Mittel genutzt, können Knoten und Kanten vom visualisierten Kohärenzgerüst ausgehend direkt angesteuert werden. Ein derartiges Prinzip haben E-Publishing-Tools wie 
+                    <hi rend="italic">Scalar</hi> (The Alliance for Networking Visual Culture: https://scalar.me/anvc/scalar/) längst umgesetzt, weswegen ich sie im Promotionsprojekt evaluativ heranziehe.
+                </p>
+                <p style="text-align:left; ">Als eine Hauptaussage des Projektes kann gelten, dass derlei Hypertexte mitnichten allein medienpädagogisch bedeutsam sind, sondern auch eine genuin epistemische Relevanz besitzen. Schließlich verrät das multimodale Mediendesign direkt etwas über die Konstruktionsweisen und ‑bedingungen von komplexen, pluralistischen Wissensangeboten. In dieser Hinsicht möchte ich mit dem Promotionsprojekt einen theoretischen Beitrag leisten, um ein reflektiertes E-Publishing sowie die (Weiter‑)Entwicklung von E-Publishing-Tools zu unterstützen.</p>
+            </div>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl>
+                        <hi rend="bold">The Alliance for Networking Visual Culture</hi>: 
+                        <hi rend="italic">Scalar</hi> https://scalar.me/anvc/scalar/ [letzter Zugriff 29. Dezember 2018].
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold">Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf</hi> (2004): "Einleitung. Die Medialität der Geschichte und die Historizität der Medien", in: Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (eds.): 
+                        <hi rend="italic">Die Medien der Geschichte</hi>. Historizität und Medialität in interdisziplinärer Perspektive (= Historische Kulturwissenschaft 4). Konstanz: UVK Verlagsgesellschaft 9-45.
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold">Große, Franziska</hi> (2011): 
+                        <hi rend="italic">Bild-Linguistik</hi>. Grundbegriffe und Methoden der linguistischen Bildanalyse in Text- und Diskursumgebungen (= Germanistische Arbeiten zu Sprache und Kulturgeschichte 50). Frankfurt a.M. / Berlin / Bern / Brüssel / New York / Oxford / Wien: Peter Lang.
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold">Haas, Stefan</hi> (2004): "Designing Knowledge. Theoretische und pragmatische Perspektiven der medialen Bedingungen der Erkenntnisformulierung und ‑vermittlung in den Kultur‑ und Sozialwissenschaften", in: Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (eds.): 
+                        <hi rend="italic">Die Medien der Geschichte</hi>. Historizität und Medialität in interdisziplinärer Perspektive (= Historische Kulturwissenschaft 4). Konstanz: UVK Verlagsgesellschaft 211-236.
+                    </bibl>
+                    <bibl>
+                        <hi rend="bold">Haas, Stefan</hi> (2006): "Vom Schreiben in Bildern. Visualität, Narrativität und digitale Medien in den historischen Wissenschaften", in: 
+                        <hi rend="italic">zeitenblicke</hi> 5, vol. 3: http://www.zeitenblicke.de/2006/3/Haas*index_html [letzter Zugriff 5. November 2013].
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Krameritsch, Jakob</hi> (2007): 
+                        <hi rend="italic">Geschichte(n) im Netzwerk</hi>. Hypertext und dessen Potenziale für die Produktion, Repräsentation und Rezeption der historischen Erzählung. Münster / München: Waxmann.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Krameritsch, Jakob</hi> (2009): "Die fünf Typen des historischen Erzählens – im Zeitalter digitaler Medien", in: 
+                        <hi rend="italic">Zeithistorische Forschungen / Studies in Contemporary History</hi> 6, vol. 3: 413-432.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Kress, Gunther / van Leeuwen, Theo</hi> (2001): 
+                        <hi rend="italic">Multimodal Discourse</hi>. The Modes and Media of Contemporary Communication. London / New York: Arnold / Oxford University Press.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Krippendorff, Klaus</hi> (2006): 
+                        <hi rend="italic">The Semantic Turn</hi>. A New Foundation for Design. Boca Raton / London / New York: Taylor &amp; Francis.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Rüsen, Jörn</hi> (2013): 
+                        <hi rend="italic">Historik</hi>. Theorie der Geschichtswissenschaft. Köln / Weimar / Wien: Böhlau.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Schnell, Ralf</hi> (2000): 
+                        <hi rend="italic">Medienästhetik</hi>. Zu Geschichte und Theorie audiovisueller Wahrnehmungsformen. Stuttgart: J.B. Metzler.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Schnell, Ralf</hi> (2001): "Medienästhetik", in: Schanze, Helmut (ed.): 
+                        <hi rend="italic">Handbuch der Mediengeschichte</hi>. Stuttgart: Kröner 72-95.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Staley, David J.</hi> (2014): 
+                        <hi rend="italic">Computers, Visualization, and History</hi>. How New Technology Will Transform Our Understanding of the Past. Armonk / London: M.E. Sharpe.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Stöckl, Hartmut</hi> (2011): "Sprache-Bild-Texte lesen. Bausteine zur Methodik einer Grundkompetenz", in: Diekmannshenke, Hajo / Klemm, Michael / Stöckl, Hartmut (eds.): 
+                        <hi rend="italic">Bildlinguistik</hi>. Theorien – Methoden – Fallbeispiele (= Philologische Studien und Quellen 228). Berlin: Erich Schmidt Verlag 45-70.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Stopka, Katja</hi> (2018): "Geschichte und Literatur", in: Busse, Laura / Enderle, Wilfried / Hohls, Rüdiger / Meyer, Thomas / Prellwitz, Jens / Schuhmann, Annette (eds.): 
+                        <hi rend="italic">Clio-Guide</hi>. Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften (= Historisches Forum 23 / Veröffentlichungen von Clio-online 2). Berlin: Clio-online und Humboldt-Universität zu Berlin E.5-1-E.5-19.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Storrer, Angelika</hi> (2000): "Was ist 'hyper' am Hypertext?", in: Kallmeyer, Werner (ed.): 
+                        <hi rend="italic">Sprache und neue Medien</hi> (= Institut für deutsche Sprache. Jahrbuch 1999). Berlin: De Gruyter 222-249.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Storrer, Angelika</hi> (2004): "Kohärenz in Hypertexten", in: 
+                        <hi rend="italic">Zeitschrift für germanistische Linguistik</hi> 31, vol. 2: 274-292.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Sullivan, Louis H.</hi> (1896): "The Tall Office Building Artistically Considered", in: 
+                        <hi rend="italic">Lippincott’s Magazine</hi> 57: 403-409.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Weber, Stefan</hi> (2010): "Konstruktivistische Medientheorien", in: Weber, Stefan (ed.): 
+                        <hi rend="italic">Theorien der Medien</hi>. Von der Kulturkritik bis zum Konstruktivismus (= UTB 2424). Konstanz: UVK Verlagsgesellschaft 170-188.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Winko, Simone</hi> (2005): "Hyper – Text – Literatur. Digitale Literatur als Herausforderung an die Literaturwissenschaft", in: Segeberg, Harro / Winko, Simone (eds.): 
+                        <hi rend="italic">Digitalität und Literalität</hi>. Zur Zukunft der Literatur. München: W. Fink 137-157.
+                    </bibl>
+                    <bibl style="text-align:left;">
+                        <hi rend="bold">Winko, Simone</hi> (2008): "Lost in hypertext? Autorkonzepte und neue Medien", in: Jannidis, Fotis / Lauer, Gerhard / Martinez, Matias / Winko, Simone (eds.): 
+                        <hi rend="italic">Rückkehr des Autors</hi>. Zur Erneuerung eines umstrittenen Begriffs (= Studien und Texte zur Sozialgeschichte der Literatur 71). Tübingen: Max Niemeyer Verlag 511-533.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold">Zitterbarth, Walter</hi> (1991): "Der Erlanger Konstruktivismus in seiner Beziehung zum konstruktiven Realismus", in: Peschl, Markus F. (ed.): 
+                        <hi rend="italic">Formen des Konstruktivismus in der Diskussion</hi>. Materialien zu den "Acht Vorlesungen über den Konstruktiven Realismus" (= Cognitive Science 2). Wien: Wiener Universitätsverlag 73-87.
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

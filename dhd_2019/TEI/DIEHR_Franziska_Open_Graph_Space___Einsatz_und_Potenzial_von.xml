@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">
+                    <title type="main">Open Graph Space – Einsatz und Potenzial von Graphentechnologien in den digitalen Geisteswissenschaften</title>
+                    <title type="sub">Call for Participation</title>
+                </title>
+                <author>
+                    <persName>
+                        <surname>Diehr</surname>
+                        <forename>Franziska</forename>
+                    </persName>
+                    <affiliation>Stiftung Preußischer Kulturbesitz</affiliation>
+                    <email>f.diehr@smb.spk-berlin.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Brodhun</surname>
+                        <forename>Maximilian</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>brodhun@sub.uni-goettingen.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Kuczera</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <email>andreas.kuczera@adwmainz.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Kollatz</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <email>thomas.kollatz@adwmainz.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Wübbena</surname>
+                        <forename>Thorsten</forename>
+                    </persName>
+                    <affiliation>Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</affiliation>
+                    <email>wuebbena@kunst.uni-frankfurt.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Efer</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <affiliation>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland; Universität Leipzig, Deutschland</affiliation>
+                    <email>efer@saw-leipzig.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-01-08T07:41:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Graphentechnologien</term>
+                    <term>Open Space</term>
+                    <term>Community-Bildung</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Beziehungsanalyse</term>
+                    <term>Kommunikation</term>
+                    <term>Community-Bildung</term>
+                    <term>Kollaboration</term>
+                    <term>Projekte</term>
+                    <term>Forschungsprozess</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Die AG Graphentechnologie des DHd Verbands lädt alle Graph-Enthusiasten und solche, die es werden möchten, zum ersten “Open Graph Space” ein. Hier treten die Beteiligten in einen offenen Austausch von Erfahrungen, Fragestellungen und Ideen rund um das Thema Graphentechnologien in den digitalen Geisteswissenschaften. Als agiles Format mit selbstorganisierendem Charakter wird allen Teilnehmenden die Gelegenheit zu aktiver Beteiligung geboten, da hier jeder selbst Themen vorschlägt. Ob praxisorientiertes Problem oder theoretische Fragestellung – der Raum ist für alle Impulse offen! </p>
+            <p>Da ein “Open Space” von der agilen Durchführung geprägt ist und Themen ad hoc vorgeschlagen werden, sind im Vorfeld keine umfangreichen Ausarbeitungen einzureichen; Sie müssen sich lediglich bei der DHd 2019 für die Teilnahme am Workshop “Open Graph Space” registrieren. Wir möchten Sie aber gern dazu anregen, Ihre Ideen, Impulse, Problemstellungen etc. so vorzuhalten, dass Sie sie Anderen verständlich vermitteln können. Dies gibt uns die Möglichkeit, bei der Veranstaltung schnell in die Session-Planung einzusteigen.</p>
+            <p>Die Ergebnisse und Eindrücke des “Open Graph Space” möchten wir in einer frei zugänglichen Publikation bündeln, damit sie auch über die Veranstaltung hinaus als Anregung zum weiteren fachlichen Austausch dienen.</p>
+            <p>Die AG Graphentechnologien freut sich über Ihre Ideen, kreativen Impulse und vor allem Ihre aktive Teilnahme! </p>
+            <p>
+                <hi style="font-size:12pt" xml:space="preserve">Bei Fragen oder Anmerkungen wenden Sie sich gern an: </hi>
+                <hi rend="color(141412)" style="font-size:12pt">graphentechnologien@adwmainz.de</hi>
+            </p>
+        </body>
+    </text>
+</TEI>

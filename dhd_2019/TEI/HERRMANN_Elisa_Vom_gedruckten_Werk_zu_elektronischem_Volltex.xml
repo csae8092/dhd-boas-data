@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">
+                    <title type="main">Vom gedruckten Werk zu elektronischem Volltext als Forschungsgrundlage</title>
+                    <title type="sub"> Lorem ipsum</title>
+                </title>
+                <author>
+                    <persName>
+                        <surname>Boenig</surname>
+                        <forename>Matthias</forename>
+                    </persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <email>boenig@bbaw.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Herrmann</surname>
+                        <forename>Elisa</forename>
+                    </persName>
+                    <affiliation>Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <email>elisa.herrmann@hab.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Hartmann</surname>
+                        <forename>Volker</forename>
+                    </persName>
+                    <affiliation>Steinbuch Centre for Computing / KIT</affiliation>
+                    <email>volker.hartmann@kit.edu</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-10-15T07:01:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>OCR</term>
+                    <term>Digitalisierung</term>
+                    <term>Forschungsdaten</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Umwandlung</term>
+                    <term>Einführung</term>
+                    <term>Infrastruktur</term>
+                    <term>Forschungsprozess</term>
+                    <term>Text</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p style="text-align:left; ">Lorem ipsum</p>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl style="text-align:left; "> Lorem ipsum</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

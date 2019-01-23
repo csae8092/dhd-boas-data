@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">
+                    <title type="main">Versionskontrolle mit Git + Kollaboratives Arbeiten im Web mit GitHub</title>
+                    <title type="sub"/>
+                </title>
+                <author>
+                    <persName>
+                        <surname>Druskat</surname>
+                        <forename>Stephan</forename>
+                    </persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <email>stephan.druskat@hu-berlin.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Rockenberger</surname>
+                        <forename>Annika</forename>
+                    </persName>
+                    <affiliation>Nasjonalbiblioteket, Oslo, Norwegen</affiliation>
+                    <email>annika.rockenberger@nb.no</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-01-09T18:28:29.868061306</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from an OASIS Open Document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Git</term>
+                    <term>Versionskontrolle</term>
+                    <term>kollaboratives Arbeiten</term>
+                    <term>GitHub</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Programmierung</term>
+                    <term>Kollaboration</term>
+                    <term>Einführung</term>
+                    <term>Lehre</term>
+                    <term>Daten</term>
+                    <term>Software</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">
+                    <title type="main">Qualitätsstandards und Interdisziplinarität in der Kuration audiovisueller (Sprach-)Daten</title>
+                    <title type="sub">Dieser Beitrag ist leer</title>
+                </title>
+                <author>
+                    <persName>
+                        <surname>Schmidt</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <email>thomas.schmidt@ids-mannheim.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Blumtritt</surname>
+                        <forename>Jonathan</forename>
+                    </persName>
+                    <affiliation>Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
+                    <email>jonathan.blumtritt@uni-koeln.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Hedeland</surname>
+                        <forename>Hanna</forename>
+                    </persName>
+                    <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <email>hanna.hedeland@uni-hamburg.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Gorisch</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <email>gorisch@ids-mannheim.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Rau</surname>
+                        <forename>Felix</forename>
+                    </persName>
+                    <affiliation>Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
+                    <email>f.rau@uni-koeln.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Wörner</surname>
+                        <forename>Kai</forename>
+                    </persName>
+                    <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <email>kai.woerner@uni-hamburg.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-10-12T08:00:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Forschungsdatenmanagement</term>
+                    <term>Kuration</term>
+                    <term>Qualitätssicherung</term>
+                    <term>audiovisuell</term>
+                    <term>Sprachkorpora</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Transkription</term>
+                    <term>Annotieren</term>
+                    <term>Archivierung</term>
+                    <term>Multimedia</term>
+                    <term>Ton</term>
+                    <term>Video</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p style="text-align:left; ">Dieser Beitrag ist leer. Er enthält nichts. Er ist bar jeden Inhalts. Lesen Sie diesen Beitrag nicht, es würde nichts nützen!</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Standardisierte Medien. Ein Paradigmenwechsel in den Geisteswissenschaften</title>
+                <author>
+                    <persName>
+                        <surname>Althof</surname>
+                        <forename>Daniel</forename>
+                    </persName>
+                    <affiliation>BBAW, Deutschland</affiliation>
+                    <email>daniel.althof@bbaw.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-01-13T17:37:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Vortrag</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Theorie</term>
+                    <term>Grundlagen</term>
+                    <term>Standardisierung</term>
+                    <term>Standard</term>
+                    <term>Medien</term>
+                    <term>Zeichen</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Theoretisierung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head>Medien</head>
+                <p style="text-align:left; ">Medien eröffnen nach Luhmann ein spezifisches Spektrum von Differenzen. 
+                    <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Seel</Author><Year>1998</Year><RecNum>24</RecNum><DisplayText>(Seel 1998)</DisplayText><record><rec-number>24</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1523991455">24</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Martin Seel</author></authors><secondary-authors><author>Sybille Krämer</author></secondary-authors></contributors><titles><title>Medien der Realität und Realität der Medien</title><secondary-title>Medien Computer Realität</secondary-title></titles><dates><year>1998</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>(Seel 1998) Text, Bild, Ton sind Medien, weil in ihnen spezifische Unterschiede (wie Worte, Stufungen von Helligkeit, Farben, Tönen) gemacht werden können. In der Bereitstellung liegt die Leistung dieses Mediums. 
+                    <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Seel</Author><Year>1998</Year><RecNum>24</RecNum><Pages>244</Pages><DisplayText>(Seel 1998: 244)</DisplayText><record><rec-number>24</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1523991455">24</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Martin Seel</author></authors><secondary-authors><author>Sybille Krämer</author></secondary-authors></contributors><titles><title>Medien der Realität und Realität der Medien</title><secondary-title>Medien Computer Realität</secondary-title></titles><dates><year>1998</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>(Seel 1998: 244) Diese Differenzen lassen sich zu Zeichen formen, die 
+                    <hi rend="italic">Bedeutung tragen.</hi> Die Geisteswissenschaften (GW) erforschen diese Zeichen. Medien formen so unseren Zugang zur Wirklichkeit. Mehr noch: Wirklichkeit gibt es nicht jenseits von Medien. 
+                    <hi rend="italic">Durch Medien ereignet sich Gegebensein.</hi>
+                    <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Seel</Author><Year>1998</Year><RecNum>24</RecNum><Pages>248</Pages><DisplayText>(Seel 1998: 248)</DisplayText><record><rec-number>24</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1523991455">24</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Martin Seel</author></authors><secondary-authors><author>Sybille Krämer</author></secondary-authors></contributors><titles><title>Medien der Realität und Realität der Medien</title><secondary-title>Medien Computer Realität</secondary-title></titles><dates><year>1998</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>(Seel 1998: 248) GW untersuchen diesen Zeichen-vermittelten Zugang zur Wirklichkeit.
+                </p>
+                <p style="text-align:left; ">Im Diskurs um Medien kommt dem Computer eine Sonderrolle zu. Er ist nicht nur ein Instrument zur Berechnung. Er ist auch nicht nur ein Apparat zur Übertragung von Informationen. Er ist ein Supermedium. Denn er enthält nicht andere Medien, sondern transformiert alles in sich und generiert alles dynamisch aus sich.
+                    <note place="foot" xml:id="ftn1" n="1">
+                        <p rend="footnote text"> Aus technischer Sicht 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Coy</Author><Year>1994</Year><RecNum>41</RecNum><Pages>30</Pages><DisplayText>Coy 1994: 30</DisplayText><record><rec-number>41</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1537730838">41</key></foreign-keys><ref-type name="Edited Book">28</ref-type><contributors><authors><author>Coy, Wolfgang</author></authors><secondary-authors><author>Bolz, Norbert</author><author>Kittler, Friedrich</author><author>Tholen, Christoph</author></secondary-authors></contributors><titles><title>Aus der Vorgeschichte des Mediums Computer</title><secondary-title>Computer als Medium</secondary-title></titles><pages>19-37</pages><dates><year>1994</year></dates><pub-location>München</pub-location><publisher>Wilhelm Fink Verlag</publisher><urls></urls></record></Cite></EndNote>?>Coy 1994: 30; Aus philosophischer Perspektive 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Seel</Author><Year>1998</Year><RecNum>24</RecNum><Pages>258f</Pages><DisplayText>Seel 1998: 258f</DisplayText><record><rec-number>24</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1523991455">24</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Martin Seel</author></authors><secondary-authors><author>Sybille Krämer</author></secondary-authors></contributors><titles><title>Medien der Realität und Realität der Medien</title><secondary-title>Medien Computer Realität</secondary-title></titles><dates><year>1998</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>Seel 1998: 258f und 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Berry</Author><Year>2011</Year><RecNum>1</RecNum><Pages>9f</Pages><DisplayText>Berry 2011: 9f</DisplayText><record><rec-number>1</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1515879321">1</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Berry, David M.</author></authors></contributors><titles><title>Philosophy of Software. Code and Mediation in the Digital Age</title><short-title>The Philosophy of Software</short-title></titles><dates><year>2011</year></dates><pub-location>Basingstoke, Hampshire</pub-location><publisher>Palgrave Macmillan UK</publisher><urls></urls></record></Cite></EndNote>?>Berry 2011: 9f oder sehr ausführlich 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Robben</Author><Year>2006</Year><RecNum>42</RecNum><DisplayText>Robben 2006</DisplayText><record><rec-number>42</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1537732156">42</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Robben, Bernard</author></authors></contributors><titles><title>Der Computer als Medium. Eine transdisziplinäre Theorie</title></titles><dates><year>2006</year></dates><pub-location>Bielefeld</pub-location><publisher>transcript Verlag</publisher><urls></urls></record></Cite></EndNote>?>Robben 2006.
+                        </p>
+                    </note> Text, Bild, Ton sind vom Computer selbst generierte Differenzsysteme, 
+                    <hi rend="italic">die auf ein und dasselbe digitale Verfahren zurückgehen</hi>. Indem die heterogenen Medien (wie Text, Bild, Ton) durch den Computer transformiert werden, verschmelzen der kommunikative Aspekt des Mediums, ein Mittler von Bedeutung zu sein, d.h. Bedeutung zu 
+                    <hi rend="italic">tragen</hi>, mit dem technischen Aspekt des Mediums, ein Mittel (zur Übertragung) zu sein und so Bedeutung zu 
+                    <hi rend="italic">übertragen</hi>. 
+                    <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Krämer</Author><Year>1998</Year><RecNum>25</RecNum><Pages>84f</Pages><DisplayText>(Krämer 1998: 84f)</DisplayText><record><rec-number>25</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1523991818">25</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Sybille Krämer</author></authors><secondary-authors><author>Sybiller Krämer</author></secondary-authors></contributors><titles><title>Das Medium als Spur und als Apparat</title><secondary-title>Medien Computer Realität</secondary-title></titles><dates><year>1998</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>(Krämer 1998: 84f) Der Computer, verstanden als ein rechnendes Medium bzw. medialer Rechner, vermittelt auf eine neuartige Weise, weil sich Gegebensein nicht nur ereignet, sondern er die spezifischen Differenzen aktiv reproduziert. 
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Die Standardisierung</head>
+                <p style="text-align:left; ">Der Vortrag möchte dieser Transformation nachgehen und die Implikationen für die Arbeit in den GW herausarbeiten. Dabei nutzt der Vortrag die Standardisierung in den DH als ein Vehikel für die Überlegungen, gleich wohl nicht über Standardisierung referieren. Die Standardisierung ist ein Angelpunkt für die Gewährleistung derjenigen Funktionalitäten, die eine digitale Reproduktion von Inhalten ermöglichen. Das Spektrum reicht von rein technischen Standards für Datenspeicherung oder Datenaustausch bis zu »inhaltlichen« Standards für die Strukturierung von Daten. Entscheidend jedoch ist der Umstand, dass diese Ebenen nicht getrennt werden können, sondern sich überlagern und gegenseitig durchdringen. Die Standards ermöglichen also jene Verschmelzung des technischen und des kommunikativen Aspekts, die den Computer auszeichnet.
+                    <note place="foot" xml:id="ftn2" n="2">
+                        <p rend="footnote text"> Hier kommen zwei Aspekte zusammen, die sich in der Medientheorie lange Zeit als Oppositionen entwickelt haben. Auf der einen Seite das Verständnis des Computers als Werkzeug. Auf der anderen Seite das Verständnis des Computers als Medium.</p>
+                    </note> Sie sind technische Grundlage und zugleich inhaltliche Basis für das Tragen und Übertragen von Bedeutung. Technische, syntaktische und semantische Ebene wirken unaufhebbar ineinander. Semantik wird technisch realisiert und Technik auf Semantik hin entworfen.
+                </p>
+                <p style="text-align:left; ">Und diese Verschmelzung verändert den Umgang mit den Zeichen, ja sogar die Natur des Zeichens selbst, um dessen Verstehen es in den GW grundsätzlich geht. Anders formuliert: Der Vortrag möchte einen Paradigmenwechsel konstatieren, der darin besteht, dass das Zeichen und die Erforschung der Zeichen in den GW eine tiefgreifende Transformation dadurch erfahren, dass sie aus den analogen Medien in ein digitales Supermedium transferiert werden. </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Der Paradigmenwechsel</head>
+                <p style="text-align:left; ">Was die Digitalisierung für die DH leistet, ist damit vergleichbar mit der Mathematisierung und Formalisierung der Naturwissenschaften (NW) im 19. Jahrhundert. Diese Umwälzung in den NW lässt sich Ideengeschichtlich nachverfolgen in ihrem Siegeszug, der mit der Umstellung vom scholastischen, deduktiven Verfahren auf das experimentelle, induktive Verfahren begann. Die Ablösung des aristotelischen Weltbildes, in dem metaphysische Erwägungen über das Sein und Seiendes im Vordergrund standen, durch ein funktionalistisches und kausales Weltbild
+                    <note place="foot" xml:id="ftn3" n="3">
+                        <p rend="footnote text"> Zentrale Figuren sind hier F. Bacon und G. Galilei. Vgl. 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Wandschneider</Author><Year>2004</Year><RecNum>36</RecNum><Pages>55ff</Pages><DisplayText>Wandschneider 2004: 55ff</DisplayText><record><rec-number>36</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1536000898">36</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Dieter Wandschneider</author></authors><secondary-authors><author>Vittorio Hösle</author></secondary-authors></contributors><titles><title>Technikphilosophie</title><secondary-title>Faszination Philosophie</secondary-title></titles><dates><year>2004</year></dates><pub-location>Bamberg</pub-location><publisher>Buchners Verlag</publisher><urls></urls></record></Cite></EndNote>?>Wandschneider 2004: 55ff.
+                        </p>
+                    </note> ist der Katalysator für eine Formalisierung der Erkenntnis, die nicht durch die Auslegung von Zeichen (und Begriffen) gewonnen wird, sondern auf Freilegung quantifizierbarer Entitäten beruht, deren Verhältnisse sich 
+                    <hi rend="italic">berechnen</hi> lassen.
+                </p>
+                <p style="text-align:left; ">Was also für die NW die Rückführung der Sachverhalte auf Zahlen war, ist für die GW die Rückführung der Zeichen auf Bits und Bytes, realisiert in multiplen Standards. In der NW ist das Ziel die umfassende 
+                    <hi rend="italic">Berechenbarkeit</hi>. In den DH steht dagegen die 
+                    <hi rend="italic">Abbildbarkeit</hi> im Vordergrund. Die Formalisierung ändert den Modus des Erkennens in den NW vom Verstehen zum Berechnen. Die Digitalisierung ändert den Modus des Erschließens vom Zeichen-Lesen zur Zeichen-Verarbeitung. Hier gilt es im Vortrag die Strukturen genau zu untersuchen und zu vergleichen. 
+                </p>
+                <p style="text-align:left; ">Die Rolle des Computers wird sodann von entscheidender Bedeutung sein. Denn aufgrund seiner Funktion als Supermedium führt er die spezifischen Unterschiede aller Medien zurück auf die logisch minimale Differenz von 0 und 1. Dies wird mit der Absicht zu untersuchen sein, das Ersetzen der Medien-spezifischen Materialität durch frei konstruierbare Interaktivität im Mediendiskurs einzuordnen. Das formale Zeichensystem des Computers ist vor diesem Hintergrund als ein Hybrid zu sehen. Als Zeichen herkömmlicher Natur steht es für ein anderes und gibt etwas zu verstehen. Es sagt etwas. Es vermittelt etwas – passiv. Es ist ein Medium einer Botschaft. Aber als formales Zeichen wird es aktiv, bildet nicht nur ab, sondern implementiert vermittelst der involvierten Standards selbst eine Logik, die das vertretene Zeichen nochmals mit Gehalt anreichert. Die mit den Standards technisch, syntaktisch und semantisch in das Zeichen selbst eingeschleuste Logik bestimmt das Zeichen über sein Gegebensein hinaus unaufhebbar. Das Zeichen bildet nicht nur die Relation zu allen übrigen Zeichen ab, sondern ebenso die durch seine technische Reproduzierbarkeit eingeschleppte Verfasstheit.
+                    <note place="foot" xml:id="ftn4" n="4">
+                        <p rend="footnote text"> Vgl. P. F. Stefan: „Die Bedingungen des Sag- und Zeigbaren gehen unmittelbar konstitutiv in das Denkbare ein. Darstellung und Herstellung bilden einen Funktionszusammenhang.“ (
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Stefan</Author><Year>2000</Year><RecNum>37</RecNum><DisplayText>Stefan 2000</DisplayText><record><rec-number>37</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1537560804">37</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Peter Friedrich Stefan</author></authors><secondary-authors><author>Bernhard E. Brüdeck</author></secondary-authors></contributors><titles><title>Denken am Modell – Gestaltung im Kontext bildender Wissenschaft</title><secondary-title>Der digitale Wahn</secondary-title></titles><dates><year>2000</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>Stefan 2000). B. Doltzer widmet diesem Zusammenhang eine ganze Monographie, in der er den wechselseitigen Zusammenhang von „Medien und Wissen, Wissen und Technik“ offenlegt, „der sich zeigt, wenn man beide Seiten, Diskurs 
+                            <hi rend="italic">und</hi> Medium, als verkörpertes Wissen begreift.“ (
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Doltzer</Author><Year>2006</Year><RecNum>40</RecNum><Pages>9</Pages><DisplayText>Doltzer 2006: 9</DisplayText><record><rec-number>40</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1537696180">40</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Bernhard J. Doltzer</author></authors></contributors><titles><title>Diskurs und Medium. Zur Archäologie der Computerkultur</title></titles><dates><year>2006</year></dates><pub-location>München</pub-location><publisher>Wilhelm Fink Verlag</publisher><urls></urls></record></Cite></EndNote>?>Doltzer 2006: 9) Die hier formulierte These geht über die von S. Krämer formulierte hinaus, die auf einen „Überschuß an Sinn“ aufmerksam macht, der jedem Medium qua der „medialen Materialität“ unwillkürlich inneliegt (
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Krämer</Author><Year>1998</Year><RecNum>25</RecNum><Pages>78f</Pages><DisplayText>Krämer 1998: 78f</DisplayText><record><rec-number>25</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1523991818">25</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Sybille Krämer</author></authors><secondary-authors><author>Sybiller Krämer</author></secondary-authors></contributors><titles><title>Das Medium als Spur und als Apparat</title><secondary-title>Medien Computer Realität</secondary-title></titles><dates><year>1998</year></dates><pub-location>Frankfurt/M.</pub-location><publisher>Suhrkamp</publisher><urls></urls></record></Cite></EndNote>?>Krämer 1998: 78f).
+                        </p>
+                    </note> So kann also gesagt werden, dass der Computer als Super-Medium ein spezifisches Spektrum von Differenzen im Rahmen der implementierten Standards eröffnet. Der Computer stellt Gegebensein her und holt dabei das Zeichen selbst aus der ideell-geistigen Assoziation in die real-technische Verlinkung. Nichts Geringeres als die vollständige Abbildung ist das Ziel. Zudem transformiert der Computer das Zeichen aus der Oberfläche in die Tiefen-Schichtungen der multiplen Standards.
+                    <note place="foot" xml:id="ftn5" n="5">
+                        <p rend="footnote text"> Zur Thematik von Oberfläche und Tiefe vgl. 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Burkhardt</Author><Year>2015</Year><RecNum>44</RecNum><Pages>73ff</Pages><DisplayText>Burkhardt 2015: 73ff</DisplayText><record><rec-number>44</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1539573761">44</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Marcus Burkhardt</author></authors></contributors><titles><title>Digitale Datenbanken. Einen Medientheorie im Zeitalter von Big Data</title></titles><dates><year>2015</year></dates><pub-location>Bielefeld</pub-location><publisher>transcript Verlag</publisher><urls></urls></record></Cite></EndNote>?>Burkhardt 2015: 73ff.
+                        </p>
+                    </note> Die Syntax-Semantik-Distinktion der Zeichen wird grundiert mit einer technischen Dimension. 
+                </p>
+                <p style="text-align:left; ">War anfangs festgehalten, dass der Computer zwei wichtige Aspekte eines Mediums vereint, also sowohl Bedeutung zu tragen als auch Bedeutung zu übertragen, so soll am Ende des Vortrages einsichtig gemacht worden sein, dass das digitale Zeichen (als Forschungsgegenstand der GW) über die Standardisierung selbst diese beiden Aspekte vereint. An dieser Stelle soll auch klar werden, dass die Digitalisierung in der Tat trotz aller Unterschiede zur Formalisierung entscheidende Gemeinsamkeiten mit dieser hat. Denn es geht bei der umfassenden Abbildbarkeit von Zeichen zugleich auch um eine automatisierbare (und so berechenbare) Verarbeitung, die keine (äußerliche) Manipulation von Zeichen ist, sondern (immanente) Weiterverarbeitung an Hand einer in den Zeichen selbst liegenden Logik. Das Zeichen wird wie die Zahl zur Sache selbst.
+                    <note place="foot" xml:id="ftn6" n="6">
+                        <p rend="footnote text"> Die Zahl verweist auf kein anderes, sondern steht für sich selbst. Die Zahl ist Teil eines Symbolsystems, das seine Bedeutung qua Regeln definiert. Formal-logische Systeme generell, die aus einem Vokabular (aus Zeichen) und Transformationsregeln bestehen, die die Herstellung weiterer gültiger Ausdrücke beschreiben, heißen generell Kalkül. Das Dezimalsystem und die darauf definierten Rechenregeln ist z.B. ein solches Kalkül. Ein Kalkül verzichtet auf die Bedeutung dessen, was er repräsentiert. Die Zeichen haben nur eine Kalkül-interne Bedeutung, die durch ihre Transformationsregeln bestimmt sind (vgl. 
+                            <?biblio ADDIN EN.CITE <EndNote><Cite><Author>Krämer</Author><Year>1988</Year><RecNum>33</RecNum><Pages>60</Pages><DisplayText>Krämer 1988: 60</DisplayText><record><rec-number>33</rec-number><foreign-keys><key app="EN" db-id="pdxdp520yv00w5ezt0k5xwwf02x5p2p5efs2" timestamp="1528838183">33</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Krämer, Sybille</author></authors></contributors><titles><title>Symbolische Maschinen. Die Idee der Formalisierung in geschichtlichem Abriß</title></titles><dates><year>1988</year></dates><pub-location>Darmstadt</pub-location><publisher>Wissenschaftliche Buchgesellschaft</publisher><urls></urls></record></Cite></EndNote>?>Krämer 1988: 60).
+                        </p>
+                    </note> Das Zeichen wird in formale Strukturen überführt und tendenziell damit identisch. Insofern es die GW selbst sind, die nun als digitale die Zeichen reproduzieren, annotieren und manipulieren, ereignet sich nun nicht mehr Gegebensein, auf das sich die GW beziehen, sondern das Gegebensein und die Zeichen selbst werden von den GW aktiv gestaltet. Und das ändert das Verständnis und die Richtung geisteswissenschaftlicher Forschung nachhaltig.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

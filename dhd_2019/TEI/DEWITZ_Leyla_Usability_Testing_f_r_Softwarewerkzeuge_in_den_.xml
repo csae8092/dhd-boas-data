@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Usability-Testing für Softwarewerkzeuge in den Digital Humanities am Beispiel von Bildrepositorien</title>
+                <author>
+                    <persName>
+                        <surname>Dewitz</surname>
+                        <forename>Leyla</forename>
+                    </persName>
+                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                    <email>leyla.dewitz@tu-dresden.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Münster</surname>
+                        <forename>Sander</forename>
+                    </persName>
+                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                    <email>sander.muenster@tu-dresden.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Niebling</surname>
+                        <forename>Florian</forename>
+                    </persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <email>florian.niebling@uni-wuerzburg.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-10-01T09:25:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>User Experience</term>
+                    <term>Usability</term>
+                    <term>Evaluierung</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Einführung</term>
+                    <term>3D-Bilder</term>
+                    <term>Methoden</term>
+                    <term>Projekte</term>
+                    <term>Forschung</term>
+                    <term>Werkzeuge</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head> </head>
+            </div>
+        </body>
+    </text>
+</TEI>

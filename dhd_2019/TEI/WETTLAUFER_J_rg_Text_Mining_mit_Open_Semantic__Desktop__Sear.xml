@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Text Mining mit Open Semantic (Desktop) Search – eine digitalen Such- und Annotationsumgebung für informationsgetriebene Fragestellungen in den Geisteswissenschaften.</title>
+                <author>
+                    <persName>
+                        <surname>Wettlaufer</surname>
+                        <forename>Jörg</forename>
+                    </persName>
+                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <email>jwettla@gwdg.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Ziehe</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <email>stefan.ziehe@stud.uni-goettingen.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Mandalka</surname>
+                        <forename>Markus</forename>
+                    </persName>
+                    <affiliation>Freier Journalist und Informatiker, Berlin</affiliation>
+                    <email>info@opensemanticsearch.org</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-10-13T16:53:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Apache Solr</term>
+                    <term>Linked Open Data</term>
+                    <term>Open Semantic Search</term>
+                    <term>NER</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Entdeckung</term>
+                    <term>Sammlung</term>
+                    <term>Inhaltsanalyse</term>
+                    <term>Annotieren</term>
+                    <term>benannte Entitäten (named entities)</term>
+                    <term>Werkzeuge</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p style="text-align:left; ">DAS ist eine leere dhc Datei.</p>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

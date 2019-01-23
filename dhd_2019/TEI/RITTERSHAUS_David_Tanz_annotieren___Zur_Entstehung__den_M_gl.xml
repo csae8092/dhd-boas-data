@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tanz annotieren - Zur Entstehung, den Möglichkeiten und den Perspektiven digitaler Methoden in der Tanzwissenschaft</title>
+                <author>
+                    <persName>
+                        <surname>Rittershaus</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <affiliation>Hochschule Mainz - University of Applied Sciences, Deutschland</affiliation>
+                    <email>david.rittershaus@hs-mainz.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-01-11T16:15:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Vortrag</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Tanz</term>
+                    <term>Tanzwissenschaft</term>
+                    <term>Annotation</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Aufzeichnung</term>
+                    <term>Annotieren</term>
+                    <term>Archivierung</term>
+                    <term>Daten</term>
+                    <term>Text</term>
+                    <term>Video</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head>Der Choreograph William Forsythe und die digitalen Technologien </head>
+                <p style="text-align:left; ">In seiner gut dreißigjährigen Schaffensphase in Frankfurt am Main initiierte und unterstützte der Choreograph William Forsythe mehrere Großprojekte, die sich intensiv mit den Möglichkeiten zur digitalen Aufzeichnung, Archivierung, Vermittlung und Publikation von Tanz auseinandersetzten. Es sind im Laufe dieser Projekte Softwareanwendungen entstanden, die in ihrer heutigen Weiterentwicklung die Verwendung in der Tanzpraxis erlauben. Angesichts der insgesamt wachsenden Sammlungen tanzbezogener Daten stellt sich daher die Frage, ob und in welcher Form digitale Methoden auch in der Tanzwissenschaft zum Tragen kommen können. Im Folgenden soll anhand der Initiativen William Forsythes die Entwicklung nachgezeichnet werden, um anschließend grundlegende Fragen bezüglich der Möglichkeiten digitaler Methoden für die Tanzwissenschaft zu diskutieren.</p>
+                <p style="text-align:left; ">In den insgesamt zwanzig Jahren (1984-2004) unter Forsythes Leitung wurde das Frankfurter Ballett zu einem der bedeutendsten Tanzensembles der Welt. Obwohl Forsythe sich dem Ballett verbunden sah, entwickelte er immer mehr eine eigene Bewegungssprache (Siegmund 2011). Forsythe suchte daher auch nach neuen Möglichkeiten der Aufzeichnung und Vermittlung für seinen Tanz, der sich gar nicht oder nur schwer mit „herkömmlicher“ Tanznotation (Jeschke, 2010) erfassen lässt. Er wandte sich dafür bereits in den 1990er Jahren digitalen Technologien zu. So entstand in dieser Zeit in Zusammenarbeit mit dem Zentrum für Kunst und Medien in Karlsruhe (ZKM) die CD-ROM 
+                    <hi rend="italic">Improvisation Technologies: a tool for the analytical dance eye</hi>. Sie beinhaltet knapp 65 Videos in denen Forsythe Bewegungen vorführt und erläutert. Die Videos werden von Grafiken überlagert, die räumliche Relationen und Bezüge in und um den Körper herum veranschaulichen und sich als Annotationen beschreiben lassen (DeLahunta &amp; Jenett 2017: 68). 
+                </p>
+                <p style="text-align:left; ">Die Möglichkeiten digitaler Technologien nutzte Forsythe für seine Zwecke mit seinem neuen Ensemble 
+                    <hi rend="italic">The Forsythe Company</hi> von 2005 an verstärkt. Gemeinsam mit einem Team der Ohio State University wurden die inneren organisatorischen Strukturen der Choreographie 
+                    <hi rend="italic">One Flat Thing, reproduced</hi> herausgearbeitet, visualisiert und unter dem Titel 
+                    <hi rend="italic">Synchronous Objects</hi> publiziert
+                    <note place="foot" xml:id="ftn1" n="1">
+                        <p style="text-align:left;">
+                            <ref target="https://synchronousobjects.osu.edu/">https://synchronousobjects.osu.edu/</ref>, zuletzt aufgerufen am 23.09.2018.
+                        </p>
+                    </note>. Annotationen dienen hier, wie DeLahunta und Jenett darlegen, zu Zwecken der Repräsentation: “[…] not only to draw attention to two key choreographic structuring components, the cueing and alignment systems, but also as a part of instructional videos.“ (DeLahunta &amp; Jenett 2017: 70). 
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>
+                    <hi rend="italic">Piecemaker</hi> - Software zur Prozessdokumentation im Tanz
+                </head>
+                <p style="text-align:left; ">Beinahe gleichzeitig entwickelte das Ensemblemitglied David Kern eine webbasierte Anwendung, die er 
+                    <hi rend="italic">Piecemaker</hi> nannte, und die von 2008 bis 2014 
+                    <hi rend="italic">The Forsythe Company</hi> zur digitalen Aufzeichnung von Proben und Aufführungen diente. Die Webanwendung ermöglichte es zeitgleich Videos und schriftliche Anmerkungen zu erfassen und verband beides automatisch miteinander, so dass die Anmerkungen als Videoannotationen gespeichert wurden. In der Zeit der Nutzung von 
+                    <hi rend="italic">Piecemaker</hi> durch die Forsythe Company ist ein ausgesprochen umfangreiches und einzigartiges digitales Archiv entstanden, das von einigen Stücken die Entstehung beinahe vollständig dokumentiert. 
+                </p>
+                <figure>
+                    <graphic n="1001" width="16.016111111111112cm" height="7.9375cm" url="Pictures/8516eaec6d6e5b1253b871d61df513eb.jpeg" rend="inline"/>
+                    <head>Version 1 der 
+                        <hi rend="italic">Piecemaker</hi>-Webanwendung, wie sie von 
+                        <hi rend="italic" xml:space="preserve">The Forsythe Company </hi>verwendet wurde.
+                    </head>
+                </figure>
+                <p style="text-align:left; ">Mit dem Projekt 
+                    <hi rend="italic">Motion Bank</hi>
+                    <note place="foot" xml:id="ftn2" n="2">
+                        <p style="text-align:left;">
+                            <ref target="http://www.motionbank.org/">http://www.motionbank.org/</ref>, zuletzt aufgerufen am 23.09.2018.
+                        </p>
+                    </note> gelang es Forsythe ein weiteres großes Vorhaben zur Erforschung digitaler Tanzaufzeichnung zu initiieren. 
+                    <hi rend="italic">Motion Bank</hi> übernahm die 
+                    <hi rend="italic">Piecemaker</hi> Anwendung und entwickelte sie weiter, um Choreographien einiger bedeutender Künstler*innen des Zeitgenössischen Tanzes aufzuzeichnen und zu annotieren (DeLahunta &amp; Jenett 2017: 73). Die Ergebnisse wurden in Form sogenannter 
+                    <hi rend="italic">Online Scores</hi> im Web veröffentlicht
+                    <note place="foot" xml:id="ftn3" n="3">
+                        <p style="text-align:left;">
+                            <ref target="http://scores.motionbank.org/">http://scores.motionbank.org/</ref>, zuletzt aufgerufen am 23.09.2018.
+                        </p>
+                    </note> und gewähren einen Einblick in die Konzepte und die Praxis der jeweiligen Choreograph*innen. Nach dem Ende der Förderung durch die Kulturstiftung des Bundes gelang es Florian Jenett 
+                    <hi rend="italic">Motion Bank</hi> 2016 als Forschungsprojekt an der Hochschule Mainz zu etablieren
+                    <note place="foot" xml:id="ftn4" n="4">
+                        <p style="text-align:left;">
+                            <ref target="https://medium.com/motion-bank/motion-bank-at-hochschule-mainz-c89ef4a61643">https://medium.com/motion-bank/motion-bank-at-hochschule-mainz-c89ef4a61643</ref>, zuletzt aufgerufen am 23.09.2018.
+                        </p>
+                    </note>, wo er es gemeinsam mit Scott DeLahunta leitet. Im Rahmen der Forschungsarbeit konnten seither die 
+                    <hi rend="italic">Piecemaker</hi> Anwendung und die Publikationsplattform zum 
+                    <hi rend="italic">Motion Bank Web System</hi> weiterentwickelt und dessen Einsatz mit verschiedenen Partnern in der Tanzpraxis erprobt werden. Dabei wird der Ansatz verfolgt den Tanzschaffenden eine niederschwellige und freie Software an die Hand zu geben, mit der sie ihre eigene Praxis aufzeichnen und annotieren können. 
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Tanz annotieren</head>
+                <p style="text-align:left; ">Das Besondere an 
+                    <hi rend="italic">Piecemaker</hi> ist, dass die Annotationen zwar auch anhand eines Videos erstellt werden können, vor allem aber im Tanzstudio mit dem Blick auf das Geschehen im Raum aufgezeichnet werden. Dieses Verfahren zur Annotation von Tanz nennen wir Live-Annotation und es unterscheidet sich von der Post-Annotation, bei der Annotationen nachträglich bzw. anhand zeitbasierter Medien hinzugefügt werden. Die über sechs Jahre hinweg entstandenen Annotationen im Tanzstudio der Forsythe Company, wurden größtenteils von der Dramaturgin des Ensembles, Freya Vass-Rhee, als Live-Annotationen erstellt. Sie hielt darin Anweisungen des Choreographen, Diskussionen des Ensembles, Szenenabläufe, Licht- und Musikeinsätze usw. fest. Die Annotationen sind dabei keineswegs „in einer algorithmischen Strenge, Konsequenz und Ausnahmslosigkeit […] formalisiert“ (Rapp 2017, S. 256), die eine maschinelle Auswertung ohne weiteres zulassen würde. Eine „Ontologie“ liegt ihnen nicht zugrunde. Dennoch bringen sie Metadaten mit sich, die es ermöglichen, die Daten in verschiedenen Benutzeroberflächen strukturiert zu veranschaulichen. Die Annotationen selbst enthalten für Tanzforschende Informationen, die sich aus dem Video alleine nicht erschließen lassen, sondern die Anwesenheit bei der Probe oder der Aufführung voraussetzen oder Innenansichten der beteiligten Künstler*innen wiederspiegeln. Ein großes Potenzial der Annotation zeitbasierter Medien im Tanz ist die Versammlung unterschiedlicher Perspektiven wie Innen- und Außensicht, Nähe zum Geschehen (Live-Annotation) und Distanz (Post-Annotation). 
+                </p>
+                <p style="text-align:left; ">Zu der aktuellen Überarbeitung und der Integration von 
+                    <hi rend="italic">Piecemaker</hi> in das 
+                    <hi rend="italic">Motion Bank Web System</hi> gehört auch die Änderung der Datenstrukur, die nun auf dem Web Annotation Data Model des W3C
+                    <note place="foot" xml:id="ftn5" n="5">
+                        <p style="text-align:left;">
+                            <ref target="https://www.w3.org/TR/annotation-model/">https://www.w3.org/TR/annotation-model/</ref>, zuletzt aufgerufen am 23.09.2018.
+                        </p>
+                    </note> aufbaut und mit Linked Data kompatibel ist. So ist es theoretisch in Zukunft möglich verschiedene Datensätze zu verlinken oder mit anderen digitalen Tanzarchiven, wie bspw. dem digitalen Pina Bausch Archiv (Thull 2014), zu verbinden. Dafür müssten jedoch überhaupt erst Top-Level-Ontologies geschaffen werden. Angesichts der Heterogenität der Ansätze und Konzepte im zeitgenössischen Tanz, die sich oftmals dezidiert versuchen einer Kategorisierung zu entziehen und nicht mehr auf ein standardisiertes Bewegungsrepertoire zurückgreifen, ergeben sich für die Schaffung von „Ontologien“ auf unterschiedlichen Ebenen einige Problemstellungen, die auch auf grundsätzliche Fragen digitaler Wissensrepräsentation verweisen.
+                </p>
+                <figure>
+                    <graphic n="1002" width="16.016111111111112cm" height="8.163766666666668cm" url="Pictures/6f175669bbabc49070ff50e92653f34d.png" rend="inline"/>
+                    <head>Ansicht aus der derzeitigen Weiterentwicklung von 
+                        <hi rend="italic" xml:space="preserve">Piecemaker, </hi>inzwischen Teil des 
+                        <hi rend="italic">Motion Bank Systems.</hi> Live-annotierte Probe der tanzmainz Compagnie am Staatstheater Mainz mit Choreograph Taneli Törmä.
+                    </head>
+                </figure>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Tanzwissenschaft als kritische Wissenschaft </head>
+                <p style="text-align:left; ">Wenn es für die Geisteswissenschaften ein “systembedingtes Primat des Individuellen vor dem Allgemeinen“ (Jannidis 2017: 107) gibt, gilt das für die Erforschung des Zeitgenössischen Tanzes allemal: Ihn selbst charakterisieren „Diffusionen heterogener Tanzstile und choreographischer Verfahren“, ein fortlaufender Wandel von Formen in einem Prozess ständiger „Überarbeitung und Um-Schreibung“ (Traub 2001: 181-184). Die Tanz- und Theaterwissenschaft hat es mit Singulärem zu tun, will sie es damit aufnehmen, so der Theaterwissenschaftler Nikolaus Müller-Schöll, muss sie „[…] zu allererst die mit ihrem Namen gesetzten Voraussetzungen – das Theater wie die Wissenschaft – radikal in Frage stellen.“ (Müller-Schöll 2016: 150). Die Tanzwissenschaftlerin Gabriele Klein sieht gerade in dem Finden einer Sprache für dynamische Vorgänge eine Herausforderung für Wissenschaftler*innen, die scheitern muss. Daher sei Tanzwissenschaft immer auch Wissenschaftskritik „[…] insofern, als sie sich gegen ein Wissen wendet, das dynamische Vorgänge über statische Konzepte zu fassen versucht.“ (Klein 2007: 33). Tanzwissen, über das Tänzer aufgrund körperlicher Erfahrung verfügen, kennzeichnet Klein als „spezifisches narratives Wissen“ (Klein 2007: 32). Vor diesem Hintergrund bleiben Fragen bezüglich der quantitativen bzw. maschinellen Auswertung tanzbezogener Daten offen, beispielsweise inwiefern damit verbundene Verfahren der Kategorisierungen und Formalisierung gerade die Spezifik eliminieren, die Tanz auszeichnet, oder inwiefern die Komplexität zeitgenössischer Tanzpraxis reduziert wird, die von der Tanzwissenschaft sonst narrativ abgebildet werden kann. Als kritische Wissenschaft, die immer auch ihre eigenen Grundbedingungen reflektiert, muss die Tanzwissenschaft, will sie mit digitalen Methoden arbeiten, sich mit den offenen Fragen digitaler Wissensrepräsentation auseinandersetzen: </p>
+                <quote>„[...] there is a lot of work to be done on unpicking the normative values which underlie the kinds of schema and classification embedded within the algorithmic data structures of linked data. Indeed, the fragmentation of knowledge into chunks that can be composed and recomposed at will points to the nature of a computational episteme which privileges knowledge divided into non-narrative shards of information […]. Additionally, the political economy of linked data, and linked open data, raises important questions for the way in which humanities knowledge is converted into data lakes that become a kind of oil for a postmodern capitalism.“ (Berry &amp; Fagerjord 2017: 77)</quote>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>Fazit</head>
+                <p style="text-align:left; ">Der Einsatz digitaler Methoden und ihre Erforschung stehen in der Tanzwissenschaft noch am Anfang. Während mit der maschinellen und quantitativen Auswertung tanzbezogener Daten noch viele offene Fragen verbunden sind, zeichnen sich neue Möglichkeiten qualitativer Auswertung durch die diagrammatischen Text-Bild-Verbünde (Krämer 2016) der Benutzeroberflächen einer Annotationssoftware wie 
+                    <hi rend="italic">Piecemaker</hi> und des 
+                    <hi rend="italic" xml:space="preserve">Motion Bank Systems </hi>ab. Sie beruhen auch auf quantitativen Verfahren, bei denen bisher vorranging aus den Metadaten Benutzeransichten mit einfachen Visualisierungen zur Betrachtung der Daten abgeleitet werden und somit digital unterstützte qualitative Arbeitsweisen eröffnen. Zukünftig soll das 
+                    <hi rend="italic">Motion Bank System</hi> die Möglichkeit bieten individuelle, kontextspezifisch Vokabularien anzulegen, um diese bei der Annotation mit 
+                    <hi rend="italic">Piecemaker</hi> anwenden zu können. Während sich die Diskussionen rund um die Erstellung solcher Vokabularien im Praxisfeld zeitgenössischen Tanzes und der Tanzausbildung bereits als fruchtbar erweisen
+                    <note place="foot" xml:id="ftn6" n="6">
+                        <p rend="footnote text" style="text-align:left;">
+                            <ref target="https://medium.com/motion-bank/developing-vocabularies-for-dance-education-e4c4584950a8">https://medium.com/motion-bank/developing-vocabularies-for-dance-education-e4c4584950a8</ref>, zuletzt aufgerufen am 08.01.2019.
+                        </p>
+                    </note>, ist noch offen ob und inwiefern sie sich für tanzwissenschaftliche quantitative Methoden eignen oder ob sie in erster Linie dazu dienen können umfangreiche Inhalte in der Software im Zuge einer vorrangig qualitativen Auswertung besser zu filtern, zu strukturieren und zu sortieren.
+                </p>
+            </div>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Berry, David M. / Fagerjord, Anders </hi>(2017): „Knowledge Representation and Archives.“ In: Berry, David M. / Fagerjord, Anders (eds.): Digital Humanities. Knowledge and Critique in a Digital Age. Cambridge, Malden: Polity 60-79.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">DeLahunta, Scott / Jenett, Florian </hi>(2017): „Making digital choreographic object interrelate. A focus on coding practices.“ in: Beyes, Timon / Leeker, Martina / Schipper, Imanuel (eds.): Performing the digital: performativity and performance studies in digital cultures. Bielefeld: transcript Verlag 63-79.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Jannidis, Fotis </hi>(2017): „Grundlagen der Datenmodellierung“ in: Jannidis, Fotis /Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 99-108.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Jeschke, Claudia </hi>(2010): „Tanz-Notate: Bilder. Texte. Wissen.“ in: Brandstetter, Gabriele / Hofmann, Franck / Maar, Kirsten (eds.): Notationen und choreographisches Denken. Freiburg: Rombach 47-65.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Klein, Gabriele </hi>(2007): „Tanz in der Wissensgesellschaft.“ in: Gehm, Sabine / Husemann, Pirkko / von Wilcke, Katharina (eds.): Wissen in Bewegung. Perspektiven der künstlerischen und wissenschaftlichen Forschung im Tanz. Bielefeld: transcript 25-36.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold">Krämer, Sybille</hi> (2016): Figuration, Anschauung, Erkenntnis. Grundlinien einer Diagrammatologie. Frankfurt am Main: Suhrkamp. 
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Müller-Schöll, Nikolaus </hi>(2016): „Das Problem und Potential des Singulären. Theaterforschung als kritische Wissenschaft.“ in: Cairo, Milena / Hannemann, Moritz / Haß, Ulrike / Schäfer, Judith (eds.): Episteme des Theaters. Aktuelle Kontexte von Wissenschaft, Kunst und Öffentlichkeit. Bielefeld: transcript 139-150.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Rapp, Andrea </hi>(2017): „Manuelle und automatische Annotationen“ in: Jannidis, Fotis /Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler 253-267.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Siegmund, Gerald </hi>(2011): „Of monsters and puppets. Willam Forsythe’s work after the ‚Robert Scott Complex‘“ in: Spier, Steven (ed.): William Forsythe and the Practice of Choreography. London, New York: Routledge 20-37.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Thull, Bernhard </hi>(2014): „Das digitale Pina Bausch Archiv“ in: Pina Bausch Stiftung (ed.): Tanz erben. Bielefeld: transcript 59-73.
+                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <hi rend="bold" xml:space="preserve">Traub, Susanne </hi>(2001): „Zeitgenössischer Tanz“ in: Dahms, Sibylle / Jeschke, Claudia / Woitas, Monika. (eds.): Tanz. Kassel: Bärenreiter Metzler 181-188.
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">
+                    <title type="main">Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title>
+                    <title type="sub"/>
+                </title>
+                <author>
+                    <persName>
+                        <surname>Kremer</surname>
+                        <forename>Gerhard</forename>
+                    </persName>
+                    <affiliation>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <email>gerhard.kremer@ims.uni-stuttgart.de</email>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Jung</surname>
+                        <forename>Kerstin</forename>
+                    </persName>
+                    <affiliation>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <email>kerstin.jung@ims.uni-stuttgart.de</email>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-01-10T11:57:45.849952925</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Prof. Dr. Alexander Mehler</publisher>
+                <address>
+                    <addrLine>Goethe-Universität Frankfurt am Main</addrLine>
+                    <addrLine>Text Technology Lab, Fachbereich für Informatik und Mathematik</addrLine>
+                    <addrLine>Robert-Mayer-Straße 10</addrLine>
+                    <addrLine>60325 Frankfurt am Main</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from an OASIS Open Document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>maschinelle Lernverfahren</term>
+                    <term>Entitätenreferenzen</term>
+                    <term>Reflexion</term>
+                    <term>Korpus</term>
+                    <term>Evaluation</term>
+                    <term>Programmiercode</term>
+                    <term>Methodik</term>
+                    <term>Praxiserfahrung</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Programmierung</term>
+                    <term>Inhaltsanalyse</term>
+                    <term>Annotieren</term>
+                    <term>Lehre</term>
+                    <term>Organisation</term>
+                    <term>Methoden</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head/>
+            </div>
+        </body>
+    </text>
+</TEI>

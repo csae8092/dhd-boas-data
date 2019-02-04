@@ -67,6 +67,8 @@
                 <org xml:id="org__12">
                     <orgName>Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</orgName>
+                    <orgName type="abbr">BBAW</orgName>
+                    <idno type="GND"></idno>
                 </org>
                 <org xml:id="org__13">
                     <orgName>Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg,
@@ -138,7 +140,7 @@
                     <orgName>FH Potsdam, Deutschland</orgName>
                 </org>
                 <org xml:id="org__33">
-                    <orgName>Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</orgName>
+                    <orgName>Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel, Deutschland</orgName>
                 </org>
                 <org xml:id="org__34">
                     <orgName>Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</orgName>
@@ -179,21 +181,13 @@
                 <org xml:id="org__45">
                     <orgName>Germanisches Nationalmuseum</orgName>
                 </org>
-                <org xml:id="org__46">
-                    <orgName>Goethe University of Frankfurt, Deutschland</orgName>
-                </org>
                 <org xml:id="org__47">
                     <orgName>Goethe Universität Frankfurt am Main, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/35074-6</idno>
                 </org>
                 <org xml:id="org__48">
                     <orgName>Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut,
                         Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</orgName>
-                </org>
-                <org xml:id="org__49">
-                    <orgName>Goethe Universität Frankfurt, Deutschland</orgName>
-                </org>
-                <org xml:id="org__50">
-                    <orgName>Goethe-Universität Frankfurt, Deutschland</orgName>
                 </org>
                 <org xml:id="org__51">
                     <orgName>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
@@ -404,11 +398,9 @@
                 <org xml:id="org__114">
                     <orgName>Universität Graz, Österreich</orgName>
                 </org>
-                <org xml:id="org__115">
-                    <orgName>Universität Hamburg</orgName>
-                </org>
                 <org xml:id="org__116">
                     <orgName>Universität Hamburg, Deutschland</orgName>
+                    <idno type="GND">35534-3</idno>
                 </org>
                 <org xml:id="org__117">
                     <orgName>Universität Heidelberg, Interdisziplinäres Zentrum für

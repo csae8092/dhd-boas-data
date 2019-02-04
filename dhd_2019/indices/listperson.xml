@@ -32,21 +32,14 @@
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__abrami@em.uni-frankfurt.de">
-                    <persName>
-                        <surname>Abrami</surname>
-                        <forename>Giuseppe</forename>
-                    </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Goethe Universität Frankfurt, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__adelmann@informatik.uni-hamburg.de">
                     <persName>
                         <surname>Adelmann</surname>
                         <forename>Benedikt</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__daniel.althof@bbaw.de">
                     <persName>
@@ -2219,6 +2212,8 @@
                     </persName>
                     <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog
                         August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <idno>http://d-nb.info/gnd/1053806175</idno>
                 </person>
                 <person xml:id="person__steyer@hab.de">
                     <persName>

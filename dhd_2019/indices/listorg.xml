@@ -52,23 +52,17 @@
                 <org xml:id="org__7">
                     <orgName>Akademie der Wissenschaften und der Literatur, Mainz</orgName>
                 </org>
-                <org xml:id="org__8">
-                    <orgName>BBAW, Deutschland</orgName>
-                </org>
-                <org xml:id="org__9">
+               <org xml:id="org__9">
                     <orgName>Bergische Universität Wuppertal, Deutschland</orgName>
                 </org>
                 <org xml:id="org__10">
                     <orgName>Berlin</orgName>
                 </org>
-                <org xml:id="org__11">
-                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
-                </org>
                 <org xml:id="org__12">
                     <orgName>Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</orgName>
                     <orgName type="abbr">BBAW</orgName>
-                    <idno type="GND"></idno>
+                    <idno type="GND">http://d-nb.info/gnd/2131094-4</idno>
                 </org>
                 <org xml:id="org__13">
                     <orgName>Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg,
@@ -316,6 +310,7 @@
                 <org xml:id="org__89">
                     <orgName>Niedersächsische Staats- und Universitätsbibliothek, Göttingen,
                         Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2020450-4</idno>
                 </org>
                 <org xml:id="org__90">
                     <orgName>RWTH Aachen, Deutschland</orgName>
@@ -487,14 +482,8 @@
                 <org xml:id="org__144">
                     <orgName>unabhängiger Wissenschaftler</orgName>
                 </org>
-                <org xml:id="org__145">
-                    <orgName>ÖAW, Wien</orgName>
-                </org>
                 <org xml:id="org__146">
                     <orgName>Österreichische Akademie der Wissenschaften, Wien, Österreich</orgName>
-                </org>
-                <org xml:id="org__147">
-                    <orgName>Österreichische Akademie der Wissenschaften, Österreich</orgName>
                 </org>
             </listOrg>
         </body>

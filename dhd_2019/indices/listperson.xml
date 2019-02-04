@@ -46,7 +46,8 @@
                         <surname>Althof</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>BBAW, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
                 </person>
                 <person xml:id="person__peter.andorfer@oeaw.ac.at">
                     <persName>
@@ -58,10 +59,10 @@
                 </person>
                 <person xml:id="person__angelika.hechtl@wu.ac.at">
                     <persName>
-                        <surname>Angelika</surname>
-                        <forename>Hechtl</forename>
+                        <surname>Hechtl</surname>
+                        <forename>Angelika</forename>
                     </persName>
-                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek
+                    <affiliation ref="#org__89">Niedersächsische Staats- und Universitätsbibliothek
                         Göttingen</affiliation>
                 </person>
                 <person xml:id="person__artika@bbaw.de">

@@ -193,7 +193,7 @@
                         <surname>Bragagnolo</surname>
                         <forename>Manuela</forename>
                     </persName>
-                    <affiliation>Max-Planck-Institut für europäische Rechtsgeschichte,
+                    <affiliation ref="#org__85">Max-Planck-Institut für europäische Rechtsgeschichte,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__c.brandenberger@access.uzh.ch">
@@ -201,7 +201,7 @@
                         <surname>Brandenbeger</surname>
                         <forename>Christina</forename>
                     </persName>
-                    <affiliation>Sprache und Raum Laboratorium, Universität Zürich,
+                    <affiliation ref="#org__95">Sprache und Raum Laboratorium, Universität Zürich,
                         Schweiz</affiliation>
                 </person>
                 <person xml:id="person__julia.brandt@hs-mainz.de">

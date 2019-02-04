@@ -70,7 +70,7 @@
                         <surname>Artika</surname>
                         <forename>Farah</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__anne.baillot@univ-lemans.fr">
@@ -78,14 +78,15 @@
                         <surname>Baillot</surname>
                         <forename>Anne</forename>
                     </persName>
-                    <affiliation>Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1065904681</idno>
                 </person>
                 <person xml:id="person__markusbald92@gmail.com">
                     <persName>
                         <surname>Bald</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__loic.barrault@univ-lemans.fr">
                     <persName>

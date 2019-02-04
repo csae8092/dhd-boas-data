@@ -254,11 +254,9 @@
                     <orgName>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv
                         Mainz</orgName>
                 </org>
-                <org xml:id="org__72">
-                    <orgName>Julius-Maximilians-Universität Würzburg</orgName>
-                </org>
                 <org xml:id="org__73">
                     <orgName>Julius-Maximilians-Universität Würzburg, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/36189-6</idno>
                 </org>
                 <org xml:id="org__74">
                     <orgName>Karl-Franzens-Universität Graz</orgName>
@@ -299,13 +297,6 @@
                 </org>
                 <org xml:id="org__86">
                     <orgName>Nasjonalbiblioteket, Oslo, Norwegen</orgName>
-                </org>
-                <org xml:id="org__87">
-                    <orgName>Niedersächsische Staats- und Universitätsbibliothek Göttingen</orgName>
-                </org>
-                <org xml:id="org__88">
-                    <orgName>Niedersächsische Staats- und Universitätsbibliothek Göttingen,
-                        Deutschland</orgName>
                 </org>
                 <org xml:id="org__89">
                     <orgName>Niedersächsische Staats- und Universitätsbibliothek, Göttingen,
@@ -451,9 +442,6 @@
                 </org>
                 <org xml:id="org__134">
                     <orgName>Universität Wien, Österreich</orgName>
-                </org>
-                <org xml:id="org__135">
-                    <orgName>Universität Würzburg, Deutschland</orgName>
                 </org>
                 <org xml:id="org__136">
                     <orgName>Universität Zürich, Schweiz</orgName>

@@ -93,64 +93,67 @@
                         <surname>Barrault</surname>
                         <forename>Loïc</forename>
                     </persName>
-                    <affiliation>Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                 </person>
                 <person xml:id="person__Gabriele.Bartz@oeaw.ac.at">
                     <persName>
                         <surname>Bartz</surname>
                         <forename>Gabriele</forename>
                     </persName>
-                    <affiliation>ÖAW, Wien</affiliation>
+                    <affiliation ref="#org__146">ÖAW, Wien</affiliation>
                 </person>
                 <person xml:id="person__johanna.barzen@iaas.uni-stuttgart.de">
                     <persName>
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__josip.batinic@ids-mannheim.de">
                     <persName>
                         <surname>Batinic</surname>
                         <forename>Josip</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__baumartz@stud.uni-frankfurt.de">
                     <persName>
                         <surname>Baumartz</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Goethe University of Frankfurt, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__baumgarten@hab.de">
                     <persName>
                         <surname>Baumgarten</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0003-0801-9462</idno>
                 </person>
                 <person xml:id="person__bernhard.bermeitinger@uni-passau.de">
                     <persName>
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0002-2524-1850</idno>
                 </person>
                 <person xml:id="person__biemann@informatik.uni-hamburg.de">
                     <persName>
                         <surname>Biemann</surname>
                         <forename>Chris</forename>
                     </persName>
-                    <affiliation>Language Technology Group, Universität Hamburg,
+                    <affiliation ref="#org__78">Language Technology Group, Universität Hamburg,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/13395255X</idno>
                 </person>
                 <person xml:id="person__mark-jan.bludau@fh-potsdam.de">
                     <persName>
                         <surname>Bludau</surname>
                         <forename>Mark-Jan</forename>
                     </persName>
-                    <affiliation>Urban Complexity Lab, Fachhochschule Potsdam,
+                    <affiliation ref="#org__140">Urban Complexity Lab, Fachhochschule Potsdam,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__jonathan.blumtritt@uni-koeln.de">
@@ -2215,7 +2218,7 @@
                     <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog
                         August Bibliothek Wolfenbüttel</affiliation>
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
-                    <idno>http://d-nb.info/gnd/1053806175</idno>
+                    <idno type="URL">http://d-nb.info/gnd/1053806175</idno>
                 </person>
                 <person xml:id="person__steyer@hab.de">
                     <persName>

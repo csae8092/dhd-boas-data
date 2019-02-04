@@ -187,11 +187,9 @@
                     <orgName>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
                         Deutschland</orgName>
                 </org>
-                <org xml:id="org__52">
-                    <orgName>Herzog August Bibliothek Wolfenbüttel</orgName>
-                </org>
                 <org xml:id="org__53">
                     <orgName>Herzog August Bibliothek Wolfenbüttel, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/8989-8</idno>
                 </org>
                 <org xml:id="org__54">
                     <orgName>Higher School of Economics, Moskau, Russland</orgName>
@@ -214,6 +212,7 @@
                 </org>
                 <org xml:id="org__60">
                     <orgName>Institut für Deutsche Sprache, Mannheim, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2013759-X</idno>
                 </org>
                 <org xml:id="org__61">
                     <orgName>Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische
@@ -275,6 +274,7 @@
                 </org>
                 <org xml:id="org__79">
                     <orgName>Le Mans Université, Frankreich</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2093869-X</idno>
                 </org>
                 <org xml:id="org__80">
                     <orgName>Ludwig-Maximilians-Universität München, Deutschland</orgName>
@@ -415,6 +415,7 @@
                 </org>
                 <org xml:id="org__125">
                     <orgName>Universität Passau, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/13388-7</idno>
                 </org>
                 <org xml:id="org__126">
                     <orgName>Universität Potsdam</orgName>
@@ -431,11 +432,9 @@
                 <org xml:id="org__130">
                     <orgName>Universität St. Gallen, Schweiz</orgName>
                 </org>
-                <org xml:id="org__131">
-                    <orgName>Universität Stuttgart</orgName>
-                </org>
                 <org xml:id="org__132">
                     <orgName>Universität Stuttgart, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/36186-0</idno>
                 </org>
                 <org xml:id="org__133">
                     <orgName>Universität Wien</orgName>
@@ -472,6 +471,7 @@
                 </org>
                 <org xml:id="org__146">
                     <orgName>Österreichische Akademie der Wissenschaften, Wien, Österreich</orgName>
+                    <orgName type="abbr">ÖAW, Wien, Österreich</orgName>
                 </org>
             </listOrg>
         </body>

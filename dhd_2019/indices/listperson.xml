@@ -161,45 +161,32 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation>Data Center for the Humanities, Universität zu Köln,
+                    <affiliation ref="#org__24">Data Center for the Humanities, Universität zu Köln,
                         Deutschland</affiliation>
-                </person>
-                <person xml:id="person__jonathan.blumtritt@uni-koeln.de">
-                    <persName>
-                        <surname>Blumtritt</surname>
-                        <forename>Jonathan</forename>
-                    </persName>
-                    <affiliation>Data Center for the Humanities (DCH), Universität zu Köln,
-                        Deutschland</affiliation>
-                </person>
-                <person xml:id="person__jonathan.blumtritt@uni-koeln.de">
-                    <persName>
-                        <surname>Blumtritt</surname>
-                        <forename>Jonathan</forename>
-                    </persName>
-                    <affiliation>Data Center for the Humanities, Universität zu Köln</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0002-1438-379X</idno>
                 </person>
                 <person xml:id="person__boenig@bbaw.de">
                     <persName>
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                 </person>
                 <person xml:id="person__bartosz.bogacz@iwr.uni-heidelberg.de">
                     <persName>
                         <surname>Bogacz</surname>
                         <forename>Bartosz</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für
+                    <affiliation ref="#org__117">Universität Heidelberg, Interdisziplinäres Zentrum für
                         wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1069952796</idno>
                 </person>
                 <person xml:id="person__fethi.bougares@univ-lemans.fr">
                     <persName>
                         <surname>Bougares</surname>
                         <forename>Fethi</forename>
                     </persName>
-                    <affiliation>Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                 </person>
                 <person xml:id="person__bragagnolo@rg.mpg.de">
                     <persName>

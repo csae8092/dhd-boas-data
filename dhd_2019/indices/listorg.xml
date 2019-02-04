@@ -97,13 +97,6 @@
                 <org xml:id="org__21">
                     <orgName>Computer Vision Lab, TU Wien</orgName>
                 </org>
-                <org xml:id="org__22">
-                    <orgName>Data Center for the Humanities (DCH), Universität zu Köln,
-                        Deutschland</orgName>
-                </org>
-                <org xml:id="org__23">
-                    <orgName>Data Center for the Humanities, Universität zu Köln</orgName>
-                </org>
                 <org xml:id="org__24">
                     <orgName>Data Center for the Humanities, Universität zu Köln,
                         Deutschland</orgName>
@@ -386,11 +379,12 @@
                 </org>
                 <org xml:id="org__116">
                     <orgName>Universität Hamburg, Deutschland</orgName>
-                    <idno type="GND">35534-3</idno>
+                    <idno type="GND">http://d-nb.info/gnd/35534-3</idno>
                 </org>
                 <org xml:id="org__117">
-                    <orgName>Universität Heidelberg, Interdisziplinäres Zentrum für
-                        wissenschaftliches Rechnen, Heidelberg</orgName>
+                    <orgName>Interdisziplinäres Zentrum für
+                        wissenschaftliches Rechnen, Universität Heidelberg, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2122795-0</idno>
                 </org>
                 <org xml:id="org__118">
                     <orgName>Universität Heidelberg; Universität Stuttgart</orgName>

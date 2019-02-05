@@ -209,37 +209,31 @@
                         <surname>Brandt</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
+                    <affiliation ref="#org__55">Hochschule Mainz – University of Applied Sciences</affiliation>
                 </person>
                 <person xml:id="person__uwe.breitenbuecher@iaas.uni-stuttgart.de">
                     <persName>
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__brodhun@sub.uni-goettingen.de">
                     <persName>
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek, Göttingen,
+                    <affiliation ref="#org__89">Niedersächsische Staats- und Universitätsbibliothek, Göttingen,
                         Deutschland</affiliation>
-                </person>
-                <person xml:id="person__brodhun@sub.uni-goettingen.de">
-                    <persName>
-                        <surname>Brodhun</surname>
-                        <forename>Maximilian</forename>
-                    </persName>
-                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen,
-                        Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1169954073</idno>
                 </person>
                 <person xml:id="person__brunner@ids-mannheim.de">
                     <persName>
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1071999273</idno>
                 </person>
                 <person xml:id="person__viktoria.brueggemann@fh-potsdam.de">
                     <persName>

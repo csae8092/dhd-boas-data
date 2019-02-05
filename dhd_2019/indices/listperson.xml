@@ -240,7 +240,7 @@
                         <surname>Brüggemann</surname>
                         <forename>Viktoria</forename>
                     </persName>
-                    <affiliation>Urban Complexity Lab, Fachhochschule Potsdam,
+                    <affiliation ref="#org__140">Urban Complexity Lab, Fachhochschule Potsdam,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__bruening@faustedition.de">
@@ -248,43 +248,37 @@
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
                     </persName>
-                    <affiliation>Freies Deutsches Hochstift / Frankfurter
+                    <affiliation ref="#org__40">Freies Deutsches Hochstift / Frankfurter
                         Goethe-Museum</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1070804975</idno>
                 </person>
                 <person xml:id="person__bbuff@mail.upb.de">
                     <persName>
                         <surname>Buff</surname>
                         <forename>Bianca</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__severin.jo.burg@gmail.com">
                     <persName>
                         <surname>Burg</surname>
                         <forename>Severin</forename>
                     </persName>
-                    <affiliation>Università di Bologna, Italien</affiliation>
+                    <affiliation ref="#org__108">Università di Bologna, Italien</affiliation>
                 </person>
                 <person xml:id="person__burghardt@informatik.uni-leipzig.de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Universität Leipzig</affiliation>
-                </person>
-                <person xml:id="person__burghardt@informatik.uni-leipzig.de">
-                    <persName>
-                        <surname>Burghardt</surname>
-                        <forename>Manuel</forename>
-                    </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__121">Universität Leipzig</affiliation>
                 </person>
                 <person xml:id="person__annabusch@uni-potsdam.de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation>Theodor-Fontane-Archiv, Universität Potsdam,
+                    <affiliation ref="#org__106">Theodor-Fontane-Archiv, Universität Potsdam,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__fbaeumer@mail.upb.de">
@@ -292,92 +286,96 @@
                         <surname>Bäumer</surname>
                         <forename>Frederik Simon</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__kristin.buehrig@uni-hamburg.de">
                     <persName>
                         <surname>Bührig</surname>
                         <forename>Kristin</forename>
                     </persName>
-                    <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
+                    <affiliation ref="#org__51">Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/114563527</idno>
                 </person>
                 <person xml:id="person__martina.buergermeister@uni-graz.at">
                     <persName>
                         <surname>Bürgermeister</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__74">Universität Graz, Österreich</affiliation>
                 </person>
                 <person xml:id="person__jose.calvo@morethanbooks.eu">
                     <persName>
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__carla.soekefeld@studium.uni-hamburg.de">
                     <persName>
                         <surname>Carla</surname>
                         <forename>Sökefeld</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__cmil@hashtable.de">
                     <persName>
                         <surname>Carsten</surname>
                         <forename>Milling</forename>
                     </persName>
-                    <affiliation>Berlin</affiliation>
+                    <affiliation ref="#org__10">Berlin</affiliation>
                 </person>
                 <person xml:id="person__jonas.christen@zhdk.ch">
                     <persName>
                         <surname>Christen</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation>Zürcher Hochschule der Künste, Schweiz</affiliation>
+                    <affiliation ref="#org__143">Zürcher Hochschule der Künste, Schweiz</affiliation>
                 </person>
                 <person xml:id="person__vincent.christlein@fau.de">
                     <persName>
                         <surname>Christlein</surname>
                         <forename>Vincent</forename>
                     </persName>
-                    <affiliation>FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__41">FAU Erlangen, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1107595517</idno>
                 </person>
                 <person xml:id="person__maria.christoforaki@uni-passau.de">
                     <persName>
                         <surname>Christoforaki</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__contact@christopherkittel.eu">
                     <persName>
                         <surname>Christopher</surname>
                         <forename>Kittel</forename>
                     </persName>
-                    <affiliation>Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__74">Karl-Franzens-Universität Graz</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0002-1894-5040</idno>
                 </person>
                 <person xml:id="person__Cremer@MaxWeberStiftung.de">
                     <persName>
                         <surname>Cremer</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation>Max Weber Stiftung, Bonn</affiliation>
+                    <affiliation ref="#org__84">Max Weber Stiftung, Bonn</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0001-8251-9727</idno>
                 </person>
                 <person xml:id="person__vincenzo.damiani@uni-wuerzburg.de">
                     <persName>
                         <surname>Damiani</surname>
                         <forename>Vincenzo</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__david.schmidt@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>David</surname>
                         <forename>Schmidt</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence,
+                    <affiliation ref="#org__16">Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__Jan-Oliver.Decker@Uni-Passau.De">
@@ -385,36 +383,33 @@
                         <surname>Decker</surname>
                         <forename>Jan-Oliver</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1132284627</idno>
                 </person>
                 <person xml:id="person__leyla.dewitz@tu-dresden.de">
                     <persName>
                         <surname>Dewitz</surname>
                         <forename>Leyla</forename>
                     </persName>
-                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__104">Technische Universität Dresden, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1066209782</idno>
                 </person>
                 <person xml:id="person__katja.diederichs@uni-bonn.de">
                     <persName>
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
+                    <affiliation ref="#org__91">Rheinische Friedrich-Wilhelms-Universität, Abteilung für
                         Altamerikanistik, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1169862977</idno>
                 </person>
                 <person xml:id="person__f.diehr@smb.spk-berlin.de">
                     <persName>
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__f.diehr@smb.spk-berlin.de">
-                    <persName>
-                        <surname>Diehr</surname>
-                        <forename>Franziska</forename>
-                    </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz</affiliation>
+                    <affiliation ref="#org__99">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1155094263</idno>
                 </person>
                 <person xml:id="person__diem@cvl.tuwien.ac.at">
                     <persName>

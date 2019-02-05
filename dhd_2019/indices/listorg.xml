@@ -120,9 +120,6 @@
                     <orgName>Electronic Textual Cultures Lab, University of Victoria,
                         Canada</orgName>
                 </org>
-                <org xml:id="org__31">
-                    <orgName>FAU Erlangen, Deutschland</orgName>
-                </org>
                 <org xml:id="org__32">
                     <orgName>FH Potsdam, Deutschland</orgName>
                 </org>
@@ -152,9 +149,12 @@
                 <org xml:id="org__40">
                     <orgName>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</orgName>
                 </org>
+                <idno type="GND">http://d-nb.info/gnd/1005950-7</idno>
                 <org xml:id="org__41">
                     <orgName>Friedrich-Alexander-Universität Erlangen-Nürnberg,
                         Deutschland</orgName>
+                    <orgName type="abbr">FAU Erlangen</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2000862-4</idno>
                 </org>
                 <org xml:id="org__42">
                     <orgName>Friedrich-Schiller-Universität Jena, Deutschland</orgName>
@@ -179,6 +179,7 @@
                 <org xml:id="org__51">
                     <orgName>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
                         Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/111925079X</idno>
                 </org>
                 <org xml:id="org__53">
                     <orgName>Herzog August Bibliothek Wolfenbüttel, Deutschland</orgName>
@@ -243,7 +244,8 @@
                     <idno type="GND">http://d-nb.info/gnd/36189-6</idno>
                 </org>
                 <org xml:id="org__74">
-                    <orgName>Karl-Franzens-Universität Graz</orgName>
+                    <orgName>Karl-Franzens-Universität Graz, Österreich</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/36157-4</idno>
                 </org>
                 <org xml:id="org__75">
                     <orgName>Karlsruher Institut für Technologie, Deutschland</orgName>
@@ -270,9 +272,6 @@
                 <org xml:id="org__82">
                     <orgName>Martin-Luther-Universität Halle-Wittenberg, Deutschland</orgName>
                 </org>
-                <org xml:id="org__83">
-                    <orgName>Max Weber Stiftung</orgName>
-                </org>
                 <org xml:id="org__84">
                     <orgName>Max Weber Stiftung, Bonn</orgName>
                 </org>
@@ -295,6 +294,7 @@
                 <org xml:id="org__91">
                     <orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
                         Altamerikanistik, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/1103815075</idno>
                 </org>
                 <org xml:id="org__92">
                     <orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
@@ -317,14 +317,9 @@
                 <org xml:id="org__97">
                     <orgName>Steinbuch Centre for Computing / KIT</orgName>
                 </org>
-                <org xml:id="org__98">
-                    <orgName>Stiftung Preußischer Kulturbesitz</orgName>
-                </org>
                 <org xml:id="org__99">
-                    <orgName>Stiftung Preußischer Kulturbesitz, Berlin</orgName>
-                </org>
-                <org xml:id="org__100">
-                    <orgName>Stiftung Preußischer Kulturbesitz, Deutschland</orgName>
+                    <orgName>Stiftung Preußischer Kulturbesitz, Berlin, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/35353-X</idno>
                 </org>
                 <org xml:id="org__101">
                     <orgName>Sächsische Akademie der Wissenschaften zu Leipzig,
@@ -334,23 +329,23 @@
                     <orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland;
                         Universität Leipzig, Deutschland</orgName>
                 </org>
-                <org xml:id="org__103">
-                    <orgName>TU Dresden, Deutschland</orgName>
-                </org>
                 <org xml:id="org__104">
                     <orgName>Technische Universität Dresden, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024114-8</idno>
                 </org>
                 <org xml:id="org__105">
                     <orgName>Technische Universität Hamburg, Deutschland</orgName>
                 </org>
                 <org xml:id="org__106">
                     <orgName>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2003047-2</idno>
                 </org>
                 <org xml:id="org__107">
                     <orgName>ULB Darmstadt, Deutschland</orgName>
                 </org>
                 <org xml:id="org__108">
                     <orgName>Università di Bologna, Italien</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/112454-7</idno>
                 </org>
                 <org xml:id="org__109">
                     <orgName>Universität Bern, Schweiz</orgName>
@@ -360,15 +355,6 @@
                 </org>
                 <org xml:id="org__111">
                     <orgName>Universität Bonn, Abteilung für Altamerikanistik, Deutschland</orgName>
-                </org>
-                <org xml:id="org__112">
-                    <orgName>Universität Erlangen</orgName>
-                </org>
-                <org xml:id="org__113">
-                    <orgName>Universität Graz</orgName>
-                </org>
-                <org xml:id="org__114">
-                    <orgName>Universität Graz, Österreich</orgName>
                 </org>
                 <org xml:id="org__116">
                     <orgName>Universität Hamburg, Deutschland</orgName>
@@ -385,11 +371,9 @@
                 <org xml:id="org__119">
                     <orgName>Universität Hildesheim, Deutschland</orgName>
                 </org>
-                <org xml:id="org__120">
-                    <orgName>Universität Leipzig</orgName>
-                </org>
                 <org xml:id="org__121">
                     <orgName>Universität Leipzig, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024343-1</idno>
                 </org>
                 <org xml:id="org__122">
                     <orgName>Universität Luxemburg</orgName>
@@ -399,6 +383,7 @@
                 </org>
                 <org xml:id="org__124">
                     <orgName>Universität Paderborn, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/64857-7</idno>
                 </org>
                 <org xml:id="org__125">
                     <orgName>Universität Passau, Deutschland</orgName>

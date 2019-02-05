@@ -416,28 +416,23 @@
                         <surname>Diem</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Computer Vision Lab, TU Wien</affiliation>
-                </person>
-                <person xml:id="person__diem@caa.tuwien.ac.at">
-                    <persName>
-                        <surname>Diem</surname>
-                        <forename>Markus</forename>
-                    </persName>
-                    <affiliation>Vienna University of Technology, Computer Vision Lab</affiliation>
+                    <affiliation ref="#org__21">Computer Vision Lab, TU Wien</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1107613647</idno>
                 </person>
                 <person xml:id="person__mail@dimpel.de">
                     <persName>
                         <surname>Dimpel</surname>
                         <forename>Friedrich</forename>
                     </persName>
-                    <affiliation>Universität Erlangen</affiliation>
+                    <affiliation ref="#org__41">Universität Erlangen</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1111656460</idno>
                 </person>
                 <person xml:id="person__teodora.dogaru@bbaw.de">
                     <persName>
                         <surname>Dogaru</surname>
                         <forename>Teodora</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__swantje.dogunke@klassik-stiftung.de">
@@ -445,7 +440,7 @@
                         <surname>Dogunke</surname>
                         <forename>Swantje</forename>
                     </persName>
-                    <affiliation>Forschungsverbund MWW | Klassik Stiftung Weimar,
+                    <affiliation ref="#org__34">Forschungsverbund MWW | Klassik Stiftung Weimar,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__simon.donig@uni-passau.de">
@@ -453,51 +448,55 @@
                         <surname>Donig</surname>
                         <forename>Simon</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__stephan.druskat@hu-berlin.de">
                     <persName>
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__58">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0003-4925-7248</idno>
                 </person>
                 <person xml:id="person__ddubray@uni-potsdam.de">
                     <persName>
                         <surname>Dubray</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__127">Universität Potsdam, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__dumont@bbaw.de">
                     <persName>
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1034877364</idno>
                 </person>
                 <person xml:id="person__alexander.dunst@gmail.com">
                     <persName>
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__p.daengeli@uni-koeln.de">
                     <persName>
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Bern, Schweiz; Cologne Center for
+                    <affiliation ref="#org__109">Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__19">Cologne Center for
                         eHumanities</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0003-3576-7474</idno>
                 </person>
                 <person xml:id="person__doerk@fh-potsdam.de">
                     <persName>
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
                     </persName>
-                    <affiliation>Urban Complexity Lab, Fachhochschule Potsdam,
+                    <affiliation ref="#org__140">Urban Complexity Lab, Fachhochschule Potsdam,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__efer@saw-leipzig.de">
@@ -505,8 +504,9 @@
                         <surname>Efer</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland;
-                        Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__101">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1125649186</idno>
                 </person>
                 <person xml:id="person__elkhatib.randa@gmail.com">
                     <persName>

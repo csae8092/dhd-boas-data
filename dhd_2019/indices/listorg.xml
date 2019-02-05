@@ -95,7 +95,7 @@
                         Universität zu Köln</orgName>
                 </org>
                 <org xml:id="org__21">
-                    <orgName>Computer Vision Lab, TU Wien</orgName>
+                    <orgName>Computer Vision Lab, Technische Universität Wien, Österreich</orgName>
                 </org>
                 <org xml:id="org__24">
                     <orgName>Data Center for the Humanities, Universität zu Köln,
@@ -128,6 +128,7 @@
                 </org>
                 <org xml:id="org__34">
                     <orgName>Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/6045529-9</idno>
                 </org>
                 <org xml:id="org__35">
                     <orgName>Forschungsverbund MWW, Deutschland</orgName>
@@ -324,6 +325,7 @@
                 <org xml:id="org__101">
                     <orgName>Sächsische Akademie der Wissenschaften zu Leipzig,
                         Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/37863-X</idno>
                 </org>
                 <org xml:id="org__102">
                     <orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland;
@@ -389,11 +391,9 @@
                     <orgName>Universität Passau, Deutschland</orgName>
                     <idno type="GND">http://d-nb.info/gnd/13388-7</idno>
                 </org>
-                <org xml:id="org__126">
-                    <orgName>Universität Potsdam</orgName>
-                </org>
                 <org xml:id="org__127">
                     <orgName>Universität Potsdam, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2120681-8</idno>
                 </org>
                 <org xml:id="org__128">
                     <orgName>Universität Regensburg, Deutschland</orgName>

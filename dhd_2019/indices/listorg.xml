@@ -78,6 +78,7 @@
                 <org xml:id="org__16">
                     <orgName>Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/6032476-4</idno>
                 </org>
                 <org xml:id="org__17">
                     <orgName>Chair of Literary Computing, Universität Würzburg,
@@ -210,8 +211,7 @@
                         Karl-Franzens-Universität Graz</orgName>
                 </org>
                 <org xml:id="org__63">
-                    <orgName>Institut für Dokumentologie und Editorik (IDE); Universität zu
-                        Köln</orgName>
+                    <orgName>Institut für Dokumentologie und Editorik (IDE)</orgName>
                 </org>
                 <org xml:id="org__64">
                     <orgName>Institut für Dokumentologie und Editorik (IDE); Österreichische

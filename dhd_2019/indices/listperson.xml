@@ -513,7 +513,7 @@
                         <surname>El Khatib</surname>
                         <forename>Randa</forename>
                     </persName>
-                    <affiliation>Electronic Textual Cultures Lab, University of Victoria,
+                    <affiliation ref="#org__30">Electronic Textual Cultures Lab, University of Victoria,
                         Canada</affiliation>
                 </person>
                 <person xml:id="person__engelberg@ids-mannheim.de">
@@ -521,43 +521,47 @@
                         <surname>Engelberg</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1028645139</idno>
                 </person>
                 <person xml:id="person__holger.essler@uni-wuerzburg.de">
                     <persName>
                         <surname>Essler</surname>
                         <forename>Holger</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/136871259</idno>
                 </person>
                 <person xml:id="person__stefan.evert@fau.de">
                     <persName>
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg,
+                    <affiliation ref="#org__41">Friedrich-Alexander-Universität Erlangen-Nürnberg,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1139663577</idno>
                 </person>
                 <person xml:id="person__bjoern.eyselein@uni-wuerzburg.de">
                     <persName>
                         <surname>Eyeselein</surname>
                         <forename>Björn</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__fankhauser@ids-mannheim.de">
                     <persName>
                         <surname>Fankhauser</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1152239015</idno>
                 </person>
                 <person xml:id="person__felix.feldmann@iwr.uni-heidelberg.de">
                     <persName>
                         <surname>Feldmann</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für
+                    <affiliation ref="#org__117">Universität Heidelberg, Interdisziplinäres Zentrum für
                         wissenschaftliches Rechnen, Heidelberg</affiliation>
                 </person>
                 <person xml:id="person__anne.ferger@uni-hamburg.de">
@@ -565,15 +569,17 @@
                         <surname>Ferger</surname>
                         <forename>Anne</forename>
                     </persName>
-                    <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
+                    <affiliation ref="#org__51">Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
                         Deutschland</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0002-1382-2658</idno>
                 </person>
                 <person xml:id="person__franz.fischer@uni-koeln.de">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Universität zu
+                    <affiliation ref="#org__63">Institut für Dokumentologie und Editorik (IDE)</affiliation>
+                    <affiliation ref="#org__138">Universität zu
                         Köln</affiliation>
                 </person>
                 <person xml:id="person__frafis@gmail.com">
@@ -581,29 +587,30 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__54">Higher School of Economics, Moskau, Russland</affiliation>
                 </person>
                 <person xml:id="person__christian.forney@hist.unibe.ch">
                     <persName>
                         <surname>Forney</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__109">Universität Bern, Schweiz</affiliation>
                 </person>
                 <person xml:id="person__frank.puppe@informatik.uni-wuerzburg.de">
                     <persName>
-                        <surname>Frank</surname>
-                        <forename>Puppe</forename>
+                        <surname>Puppe</surname>
+                        <forename>Frank</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence,
+                    <affiliation ref="#org__16">Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/17410085X</idno>
                 </person>
                 <person xml:id="person__stfranke@bbaw.de">
                     <persName>
                         <surname>Franke</surname>
                         <forename>Stefanie</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__lina.franken@uni-hamburg.de">
@@ -611,28 +618,30 @@
                         <surname>Franken</surname>
                         <forename>Lina</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__frick@ids-mannheim.de">
                     <persName>
                         <surname>Frick</surname>
                         <forename>Elena</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1141319446</idno>
                 </person>
                 <person xml:id="person__henrike.fricke@hab.de">
                     <persName>
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__henrike.fricke@hab.de">
                     <persName>
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
                     </persName>
-                    <affiliation>Forschungsverbund MWW, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Forschungsverbund MWW, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1136452885</idno>
                 </person>
                 <person xml:id="person__christiane.fritze@onb.ac.at">
                     <persName>

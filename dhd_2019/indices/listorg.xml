@@ -214,8 +214,9 @@
                     <orgName>Institut für Dokumentologie und Editorik (IDE)</orgName>
                 </org>
                 <org xml:id="org__64">
-                    <orgName>Institut für Dokumentologie und Editorik (IDE); Österreichische
+                    <orgName>Österreichische
                         Nationalbibliothek</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2020893-5</idno>
                 </org>
                 <org xml:id="org__65">
                     <orgName>Institut für Geoinformatik, WWU Münster, Deutschland</orgName>
@@ -234,11 +235,13 @@
                     <orgName>Johann Wolfgang Goethe-Universität Frankfurt am Main</orgName>
                 </org>
                 <org xml:id="org__70">
-                    <orgName>Johannes Gutenberg-Universität Mainz</orgName>
+                    <orgName>Johannes Gutenberg-Universität Mainz, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024320-0</idno>
                 </org>
                 <org xml:id="org__71">
-                    <orgName>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv
-                        Mainz</orgName>
+                    <orgName>Universitätsarchiv
+                        Mainz, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/3004401-7</idno>
                 </org>
                 <org xml:id="org__73">
                     <orgName>Julius-Maximilians-Universität Würzburg, Deutschland</orgName>

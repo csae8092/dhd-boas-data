@@ -634,12 +634,6 @@
                         <forename>Henrike</forename>
                     </persName>
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__henrike.fricke@hab.de">
-                    <persName>
-                        <surname>Fricke-Steyer</surname>
-                        <forename>Henrike</forename>
-                    </persName>
                     <affiliation ref="#org__35">Forschungsverbund MWW, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1136452885</idno>
                 </person>
@@ -648,43 +642,47 @@
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Österreichische
+                    <affiliation ref="#org__63">Institut für Dokumentologie und Editorik (IDE)</affiliation>
+                    <affiliation ref="#org__64">Österreichische
                         Nationalbibliothek</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1018377743</idno>
                 </person>
                 <person xml:id="person__gasch@ids-mannheim.de">
                     <persName>
                         <surname>Gasch</surname>
                         <forename>Joachim</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1012429997</idno>
                 </person>
                 <person xml:id="person__geelhaar@em.uni-frankfurt.de">
                     <persName>
                         <surname>Geelhaar</surname>
                         <forename>Tim</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt am Main, Deutschland</affiliation>
+                    <affiliation ref="#org_47">Goethe Universität Frankfurt am Main, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1120022568</idno>
                 </person>
                 <person xml:id="person__geierhos@mail.upb.de">
                     <persName>
                         <surname>Geierhos</surname>
                         <forename>Michaela</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__a.geipel@deutsches-museum.de">
                     <persName>
                         <surname>Geipel</surname>
                         <forename>Andrea</forename>
                     </persName>
-                    <affiliation>Deutsches Museum, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Deutsches Museum, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__kgenzel@uni-potsdam.de">
                     <persName>
                         <surname>Genzel</surname>
                         <forename>Kristina</forename>
                     </persName>
-                    <affiliation>Theodor-Fontane-Archiv, Universität Potsdam,
+                    <affiliation ref="#org__106">Theodor-Fontane-Archiv, Universität Potsdam,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__dgerhard@students.uni-mainz.de">
@@ -692,7 +690,8 @@
                         <surname>Gerhards</surname>
                         <forename>Donata</forename>
                     </persName>
-                    <affiliation>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv
+                    <affiliation ref="#org__70">Johannes Gutenberg-Universität, Deutschland</affiliation>
+                    <affiliation ref="#org__71">Universitätsarchiv
                         Mainz</affiliation>
                 </person>
                 <person xml:id="person__evelyn.gius@uni-hamburg.de">
@@ -700,49 +699,46 @@
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
                     </persName>
-                    <affiliation>Universität Hamburg</affiliation>
-                </person>
-                <person xml:id="person__evelyn.gius@uni-hamburg.de">
-                    <persName>
-                        <surname>Gius</surname>
-                        <forename>Evelyn</forename>
-                    </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__116">Universität Hamburg</affiliation>
+                    <idno type="GND">http://d-nb.info/gnd/1084241307</idno>
                 </person>
                 <person xml:id="person__gleim@em.uni-frankfurt.de">
                     <persName>
                         <surname>Gleim</surname>
                         <forename>Rüdiger</forename>
                     </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Goethe University of Frankfurt, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__k.glinka@smb.spk-berlin.de">
                     <persName>
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__99">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <idno type="URL">https://orcid.org/0000-0002-4232-8907</idno>
                 </person>
                 <person xml:id="person__Markus.Gneiss@oeaw.ac.at">
                     <persName>
                         <surname>Gneiß</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>ÖAW, Wien</affiliation>
+                    <affiliation ref="#org__146">ÖAW, Wien</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1129263967</idno>
                 </person>
                 <person xml:id="person__gorisch@ids-mannheim.de">
                     <persName>
                         <surname>Gorisch</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1152329022</idno>
                 </person>
                 <person xml:id="person__grabsch@bbaw.de">
                     <persName>
                         <surname>Grabsch</surname>
                         <forename>Sascha</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__sgronemeyer@uni-bonn.de">
@@ -2200,8 +2196,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog
-                        August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1053806175</idno>
                 </person>

@@ -746,60 +746,65 @@
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
                     </persName>
-                    <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
-                        Altamerikanistik, Deutschland; La Trobe University, Department of
+                    <affiliation ref="#org__91">Rheinische Friedrich-Wilhelms-Universität, Abteilung für
+                        Altamerikanistik, Deutschland; </affiliation>
+                    <affiliation ref="#org__92">La Trobe University, Department of
                         Archaeology and History, Australien</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1155600487</idno>
                 </person>
                 <person xml:id="person__p.grosse@gnm.de">
                     <persName>
                         <surname>Grosse</surname>
                         <forename>Peggy</forename>
                     </persName>
-                    <affiliation>Germanisches Nationalmuseum</affiliation>
+                    <affiliation type="#org__45">Germanisches Nationalmuseum</affiliation>
                 </person>
                 <person xml:id="person__ngrube@uni-bonn.de">
                     <persName>
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>
                     </persName>
-                    <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
+                    <affiliation ref="#org__91">Rheinische Friedrich-Wilhelms-Universität, Abteilung für
                         Altamerikanistik, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/110726553</idno>
                 </person>
                 <person xml:id="person__svenjasimone.guhr@stud.uni-goettingen.de">
                     <persName>
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
                     </persName>
-                    <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__mgoedel@uni-koeln.de">
                     <persName>
                         <surname>Gödel</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__guenther.goerz@fau.de">
                     <persName>
                         <surname>Görz</surname>
                         <forename>Günther</forename>
                     </persName>
-                    <affiliation>Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg,
+                    <affiliation ref="#org__147">Bibliotheca Hertziana, Roma, Italien</affiliation>
+                    <affiliation ref="#org__41">FAU Erlangen-Nürnberg,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/10853572X</idno>
                 </person>
                 <person xml:id="person__germaine.goetzelmann@kit.edu">
                     <persName>
                         <surname>Götzelmann</surname>
                         <forename>Germaine</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__haaf@bbaw.de">
                     <persName>
                         <surname>Haaf</surname>
                         <forename>Susanne</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                    <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__maximilian@cis.uni-muenchen.de">

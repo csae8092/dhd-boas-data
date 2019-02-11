@@ -65,7 +65,7 @@
                     <idno type="GND">http://d-nb.info/gnd/2131094-4</idno>
                 </org>
                 <org xml:id="org__13">
-                    <orgName>Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg,
+                    <orgName>FAU Erlangen-Nürnberg,
                         Deutschland</orgName>
                 </org>
                 <org xml:id="org__14">
@@ -169,6 +169,7 @@
                 </org>
                 <org xml:id="org__45">
                     <orgName>Germanisches Nationalmuseum</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/36441-1</idno>
                 </org>
                 <org xml:id="org__47">
                     <orgName>Goethe Universität Frankfurt am Main, Deutschland</orgName>
@@ -301,8 +302,7 @@
                     <idno type="GND">http://d-nb.info/gnd/1103815075</idno>
                 </org>
                 <org xml:id="org__92">
-                    <orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
-                        Altamerikanistik, Deutschland; La Trobe University, Department of
+                    <orgName>La Trobe University, Department of
                         Archaeology and History, Australien</orgName>
                 </org>
                 <org xml:id="org__93">
@@ -425,6 +425,7 @@
                 </org>
                 <org xml:id="org__138">
                     <orgName>Universität zu Köln, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024231-1</idno>
                 </org>
                 <org xml:id="org__139">
                     <orgName>Universitätsbibliothek Leipzig, Deutschland</orgName>
@@ -447,6 +448,10 @@
                 <org xml:id="org__146">
                     <orgName>Österreichische Akademie der Wissenschaften, Wien, Österreich</orgName>
                     <orgName type="abbr">ÖAW, Wien, Österreich</orgName>
+                </org>
+                <org xml:id="org__147">
+                    <orgName>Bibliotheca Hertziana, Roma, Italien</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/1001520-6</idno>
                 </org>
             </listOrg>
         </body>

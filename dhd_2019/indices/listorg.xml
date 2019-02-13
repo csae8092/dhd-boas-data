@@ -45,6 +45,7 @@
                 </org>
                <org xml:id="org__9">
                     <orgName>Bergische Universität Wuppertal, Deutschland</orgName>
+                    <idno type="URL">http://d-nb.info/gnd/64944-2</idno>
                 </org>
                 <org xml:id="org__10">
                     <orgName>Berlin</orgName>
@@ -98,6 +99,7 @@
                 </org>
                 <org xml:id="org__26">
                     <orgName>Deutsches Historisches Institut Paris, Frankreich</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2008670-2</idno>
                 </org>
                 <org xml:id="org__27">
                     <orgName>Deutsches Museum, Deutschland</orgName>
@@ -114,6 +116,7 @@
                 </org>
                 <org xml:id="org__32">
                     <orgName>FH Potsdam, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/5105272-6</idno>
                 </org>
                 <org xml:id="org__33">
                     <orgName>Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel, Deutschland</orgName>
@@ -158,6 +161,7 @@
                 </org>
                 <org xml:id="org__44">
                     <orgName>Georg-August-Universität Göttingen, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024315-7</idno>
                 </org>
                 <org xml:id="org__45">
                     <orgName>Germanisches Nationalmuseum</orgName>
@@ -352,6 +356,7 @@
                 </org>
                 <org xml:id="org__111">
                     <orgName>Universität Bonn, Abteilung für Altamerikanistik, Deutschland</orgName>
+                    <idno type="URL">http://d-nb.info/gnd/1103815075</idno>
                 </org>
                 <org xml:id="org__116">
                     <orgName>Universität Hamburg, Deutschland</orgName>
@@ -375,6 +380,7 @@
                 </org>
                 <org xml:id="org__122">
                     <orgName>Universität Luxemburg</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/16033783-5</idno>
                 </org>
                 <org xml:id="org__123">
                     <orgName>Universität Osnabrück, Deutschland</orgName>
@@ -418,6 +424,7 @@
                 </org>
                 <org xml:id="org__137">
                     <orgName>Universität des Saarlandes, Saarbrücken, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024427-7</idno>
                 </org>
                 <org xml:id="org__138">
                     <orgName>Universität zu Köln, Deutschland</orgName>

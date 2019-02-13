@@ -145,8 +145,8 @@
                 </org>
                 <org xml:id="org__40">
                     <orgName>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/1005950-7</idno>
                 </org>
-                <idno type="GND">http://d-nb.info/gnd/1005950-7</idno>
                 <org xml:id="org__41">
                     <orgName>Friedrich-Alexander-Universität Erlangen-Nürnberg,
                         Deutschland</orgName>
@@ -155,6 +155,7 @@
                 </org>
                 <org xml:id="org__42">
                     <orgName>Friedrich-Schiller-Universität Jena, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/36164-1</idno>
                 </org>
                 <org xml:id="org__43">
                     <orgName>GCDH, Universität Göttingen, Deutschland</orgName>
@@ -220,6 +221,7 @@
                 </org>
                 <org xml:id="org__66">
                     <orgName>Institut für Linguistik, Universität zu Köln</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/6501970-2</idno>
                 </org>
                 <org xml:id="org__67">
                     <orgName>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,

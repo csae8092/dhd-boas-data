@@ -1049,26 +1049,19 @@
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/114523525</idno>
                 </person>
-                <person xml:id="person__fotis.jannidis@uni-wuerzburg.de">
-                    <persName>
-                        <surname>Jannidis</surname>
-                        <forename>Fotis</forename>
-                    </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg</affiliation>
-                </person>
                 <person xml:id="person__karolina.jara@hs-mainz.de">
                     <persName>
                         <surname>Jara</surname>
                         <forename>Karolina</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
+                    <affiliation ref="#org__55">Hochschule Mainz – University of Applied Sciences</affiliation>
                 </person>
                 <person xml:id="person__julian.jarosch@adwmainz.de">
                     <persName>
                         <surname>Jarosch</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz,
+                    <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__kerstin.jung@ims.uni-stuttgart.de">
@@ -1076,7 +1069,7 @@
                         <surname>Jung</surname>
                         <forename>Kerstin</forename>
                     </persName>
-                    <affiliation>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
+                    <affiliation ref="#org__67">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__kampkaspar@hab.de">
@@ -1084,21 +1077,21 @@
                         <surname>Kampkaspar</surname>
                         <forename>Dario</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__katharina.krueger@uni-hamburg.de">
                     <persName>
                         <surname>Katharina</surname>
                         <forename>Krüger</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__sebastian.kempf@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>Kempf</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence,
+                    <affiliation ref="#org__16">Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__wolfgang.kesselheim@ds.uzh.ch">
@@ -1106,15 +1099,9 @@
                         <surname>Kesselheim</surname>
                         <forename>Wolfgang</forename>
                     </persName>
-                    <affiliation>Sprache und Raum Laboratorium, Universität Zürich,
+                    <affiliation ref="#org__95">Sprache und Raum Laboratorium, Universität Zürich,
                         Schweiz</affiliation>
-                </person>
-                <person xml:id="person__wolfgang.kesselheim@ds.uzh.ch">
-                    <persName>
-                        <surname>Kesselheim</surname>
-                        <forename>Wolfgang</forename>
-                    </persName>
-                    <affiliation>Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__136">Universität Zürich, Schweiz</affiliation>
                 </person>
                 <person xml:id="person__dkilinc@uni-goettingen.de">
                     <persName>

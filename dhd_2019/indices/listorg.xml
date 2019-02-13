@@ -41,16 +41,7 @@
                 <org xml:id="org__4">
                     <orgName>Akademie der Wissenschaften und der Literatur Mainz,
                         Deutschland</orgName>
-                </org>
-                <org xml:id="org__5">
-                    <orgName>Akademie der Wissenschaften und der Literatur | Mainz</orgName>
-                </org>
-                <org xml:id="org__6">
-                    <orgName>Akademie der Wissenschaften und der Literatur | Mainz,
-                        Deutschland</orgName>
-                </org>
-                <org xml:id="org__7">
-                    <orgName>Akademie der Wissenschaften und der Literatur, Mainz</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/35487-9</idno>
                 </org>
                <org xml:id="org__9">
                     <orgName>Bergische Universität Wuppertal, Deutschland</orgName>
@@ -229,9 +220,7 @@
                 <org xml:id="org__67">
                     <orgName>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
                         Deutschland</orgName>
-                </org>
-                <org xml:id="org__68">
-                    <orgName>JGU Mainz, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/5028688-2</idno>
                 </org>
                 <org xml:id="org__69">
                     <orgName>Johann Wolfgang Goethe-Universität Frankfurt am Main</orgName>

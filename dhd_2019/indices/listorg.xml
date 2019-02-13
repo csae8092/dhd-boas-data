@@ -144,6 +144,7 @@
                 </org>
                 <org xml:id="org__38">
                     <orgName>Freie Universität Berlin, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/5032221-7</idno>
                 </org>
                 <org xml:id="org__39">
                     <orgName>Freier Journalist und Informatiker, Berlin</orgName>
@@ -254,9 +255,7 @@
                 </org>
                 <org xml:id="org__75">
                     <orgName>Karlsruher Institut für Technologie, Deutschland</orgName>
-                </org>
-                <org xml:id="org__76">
-                    <orgName>LMU München, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/10141290-3</idno>
                 </org>
                 <org xml:id="org__77">
                     <orgName>Landesarchiv Baden-Württemberg, Deutschland</orgName>
@@ -270,12 +269,14 @@
                 </org>
                 <org xml:id="org__80">
                     <orgName>Ludwig-Maximilians-Universität München, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2002585-3</idno>
                 </org>
                 <org xml:id="org__81">
                     <orgName>MLU Halle/Wittenberg, Deutschland</orgName>
                 </org>
                 <org xml:id="org__82">
                     <orgName>Martin-Luther-Universität Halle-Wittenberg, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024276-1</idno>
                 </org>
                 <org xml:id="org__84">
                     <orgName>Max Weber Stiftung, Bonn</orgName>
@@ -317,9 +318,11 @@
                 </org>
                 <org xml:id="org__96">
                     <orgName>Staatsarchiv des Kantons Zürich, Schweiz</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2132392-6</idno>
                 </org>
                 <org xml:id="org__97">
                     <orgName>Steinbuch Centre for Computing / KIT</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/10202117-X</idno>
                 </org>
                 <org xml:id="org__99">
                     <orgName>Stiftung Preußischer Kulturbesitz, Berlin, Deutschland</orgName>
@@ -375,6 +378,7 @@
                 </org>
                 <org xml:id="org__119">
                     <orgName>Universität Hildesheim, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/16032318-6</idno>
                 </org>
                 <org xml:id="org__121">
                     <orgName>Universität Leipzig, Deutschland</orgName>
@@ -406,6 +410,7 @@
                 </org>
                 <org xml:id="org__130">
                     <orgName>Universität St. Gallen, Schweiz</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/5149015-8</idno>
                 </org>
                 <org xml:id="org__132">
                     <orgName>Universität Stuttgart, Deutschland</orgName>
@@ -416,9 +421,11 @@
                 </org>
                 <org xml:id="org__134">
                     <orgName>Universität Wien, Österreich</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2024703-5</idno>
                 </org>
                 <org xml:id="org__136">
                     <orgName>Universität Zürich, Schweiz</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/36190-2</idno>
                 </org>
                 <org xml:id="org__137">
                     <orgName>Universität des Saarlandes, Saarbrücken, Deutschland</orgName>
@@ -429,6 +436,7 @@
                 </org>
                 <org xml:id="org__139">
                     <orgName>Universitätsbibliothek Leipzig, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/30026-3</idno>
                 </org>
                 <org xml:id="org__140">
                     <orgName>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</orgName>
@@ -448,6 +456,7 @@
                 <org xml:id="org__146">
                     <orgName>Österreichische Akademie der Wissenschaften, Wien, Österreich</orgName>
                     <orgName type="abbr">ÖAW, Wien, Österreich</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/1001454-8</idno>
                 </org>
                 <org xml:id="org__147">
                     <orgName>Bibliotheca Hertziana, Roma, Italien</orgName>

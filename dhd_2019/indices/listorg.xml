@@ -61,11 +61,13 @@
                         Deutschland</orgName>
                 </org>
                 <org xml:id="org__14">
-                    <orgName>Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin,
+                    <orgName>TU Berlin, Berlin,
                         Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2114678-0</idno>
                 </org>
                 <org xml:id="org__15">
-                    <orgName>Center für Digitale Systeme</orgName>
+                    <orgName>Center für Digitale Systeme, Freie Universität Berlin, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/5528770-0</idno>
                 </org>
                 <org xml:id="org__16">
                     <orgName>Chair of Applied Computer Science and Artificial Intelligence,
@@ -128,6 +130,7 @@
                 </org>
                 <org xml:id="org__35">
                     <orgName>Forschungsverbund MWW, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/1081741007</idno>
                 </org>
                 <org xml:id="org__36">
                     <orgName>Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August
@@ -175,7 +178,12 @@
                 </org>
                 <org xml:id="org__48">
                     <orgName>Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut,
-                        Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</orgName>
+                        Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2035181-1</idno>
+                </org>
+                <org xml:id="org__49">
+                    <orgName>Deutsches Forum für Kunstgeschichte Paris, Frankreich</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/10000955-4</idno>
                 </org>
                 <org xml:id="org__51">
                     <orgName>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
@@ -308,6 +316,7 @@
                 <org xml:id="org__94">
                     <orgName>Römisch-Germanische Kommission des Deutschen Archäologischen
                         Instituts</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/25966-4</idno>
                 </org>
                 <org xml:id="org__95">
                     <orgName>Sprache und Raum Laboratorium, Universität Zürich, Schweiz</orgName>
@@ -339,6 +348,7 @@
                 </org>
                 <org xml:id="org__105">
                     <orgName>Technische Universität Hamburg, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2067664-5</idno>
                 </org>
                 <org xml:id="org__106">
                     <orgName>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</orgName>
@@ -346,6 +356,7 @@
                 </org>
                 <org xml:id="org__107">
                     <orgName>ULB Darmstadt, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/10073682-8</idno>
                 </org>
                 <org xml:id="org__108">
                     <orgName>Università di Bologna, Italien</orgName>
@@ -353,6 +364,7 @@
                 </org>
                 <org xml:id="org__109">
                     <orgName>Universität Bern, Schweiz</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2023768-6</idno>
                 </org>
                 <org xml:id="org__110">
                     <orgName>Universität Bern, Schweiz; Cologne Center for eHumanities</orgName>
@@ -387,6 +399,7 @@
                 </org>
                 <org xml:id="org__123">
                     <orgName>Universität Osnabrück, Deutschland</orgName>
+                    <idno type="GND">http://d-nb.info/gnd/2041141-8</idno>
                 </org>
                 <org xml:id="org__124">
                     <orgName>Universität Paderborn, Deutschland</orgName>

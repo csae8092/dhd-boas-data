@@ -2113,103 +2113,91 @@
                         <surname>Staecker</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>ULB Darmstadt, Deutschland</affiliation>
+                    <affiliation ref="#org__107">ULB Darmstadt, Deutschland</affiliation>
+                    <idno type="URL">http://orcid.org/0000-0002-1509-6960</idno>
                 </person>
                 <person xml:id="person__steyer@hab.de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
-                    <idno type="URL">http://d-nb.info/gnd/1053806175</idno>
-                </person>
-                <person xml:id="person__steyer@hab.de">
-                    <persName>
-                        <surname>Steyer</surname>
-                        <forename>Timo</forename>
-                    </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__steyer@hab.de">
-                    <persName>
-                        <surname>Steyer</surname>
-                        <forename>Timo</forename>
-                    </persName>
-                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August
+                    <affiliation ref="#org__35">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August
                         Bibliothek Wolfenbüttel</affiliation>
-                </person>
-                <person xml:id="person__steyer@hab.de">
-                    <persName>
-                        <surname>Steyer</surname>
-                        <forename>Timo</forename>
-                    </persName>
-                    <affiliation>Forschungsverbund MWW | Herzog August Bibliothek
-                        Wolfenbüttel</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1053806175</idno>
                 </person>
                 <person xml:id="person__tobias.strauss@uni-rostock.de">
                     <persName>
                         <surname>Strauß</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation>Universität Rostock CITLab</affiliation>
+                    <affiliation ref="#org__18">Universität Rostock CITLab</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1136294554</idno>
                 </person>
                 <person xml:id="person__martin.stuber@hist.unibe.ch">
                     <persName>
                         <surname>Stuber</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__109">Universität Bern, Schweiz</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1063318475</idno>
                 </person>
                 <person xml:id="person__ssoering@cedis.fu-berlin.de">
                     <persName>
                         <surname>Söring</surname>
                         <forename>Sibylle</forename>
                     </persName>
-                    <affiliation>Center für Digitale Systeme</affiliation>
+                    <affiliation ref="#org__15">Center für Digitale Systeme</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1111528799</idno>
                 </person>
                 <person xml:id="person__martin.thiering@campus.tu-berlin.de">
                     <persName>
                         <surname>Thiering</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin,
+                    <affiliation ref="#org__147">Bibliotheca Hertziana, Roma, Italien</affiliation>
+                    <affiliation ref="#org__14">TU Berlin, Berlin,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1057925225</idno>
                 </person>
                 <person xml:id="person__thorsten.vitt@uni-wuerzburg.de">
                     <persName>
-                        <surname>Thorsten</surname>
-                        <forename>Vitt</forename>
+                        <surname>Vitt</surname>
+                        <forename>Thorsten</forename>
                     </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1139665731</idno>
                 </person>
                 <person xml:id="person__tolle@dbis.cs.uni-frankfurt.de">
                     <persName>
                         <surname>Tolle</surname>
                         <forename>Karsten</forename>
                     </persName>
-                    <affiliation>Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
+                    <affiliation ref="#org__47">Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/131793543</idno>
                 </person>
                 <person xml:id="person__danah.tonne@kit.edu">
                     <persName>
                         <surname>Tonne</surname>
                         <forename>Danah</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1083284215</idno>
                 </person>
                 <person xml:id="person__toscano-r@outlook.de">
                     <persName>
                         <surname>Toscano</surname>
                         <forename>Roberta</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__patrick.toschka@adwmainz.de">
                     <persName>
                         <surname>Toschka</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz,
+                    <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__marjam.trautmann@adwmainz.de">
@@ -2217,29 +2205,31 @@
                         <surname>Trautmann</surname>
                         <forename>Marjam</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/117383284X</idno>
                 </person>
                 <person xml:id="person__trilcke@uni-potsdam.de">
                     <persName>
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
                     </persName>
-                    <affiliation>Theodor-Fontane-Archiv, Universität Potsdam,
+                    <affiliation ref="#org__106">Theodor-Fontane-Archiv, Universität Potsdam,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/139145117</idno>
                 </person>
                 <person xml:id="person__tu@ids-mannheim.de">
                     <persName>
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__enes.tuerkoglu@uni-koeln.de">
                     <persName>
                         <surname>Türkoglu</surname>
                         <forename>Enes</forename>
                     </persName>
-                    <affiliation>Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung
+                    <affiliation ref="#org__20">Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung
                         der Universität zu Köln</affiliation>
                 </person>
                 <person xml:id="person__peter.uhrig@uos.de">
@@ -2247,106 +2237,88 @@
                         <surname>Uhrig</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Osnabrück, Deutschland</affiliation>
+                    <affiliation ref="#org__123">Universität Osnabrück, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1161612807</idno>
                 </person>
                 <person xml:id="person__sabine.ullrich@campus.lmu.de">
                     <persName>
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
                     </persName>
-                    <affiliation>LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__80">LMU München, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__martin.unold@gmail.com">
                     <persName>
                         <surname>Unold</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Hochschule Mainz, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__uslu@em.uni-frankfurt.de">
                     <persName>
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__uslu@em.uni-frankfurt.de">
-                    <persName>
-                        <surname>Uslu</surname>
-                        <forename>Tolga</forename>
-                    </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Goethe-Universität Frankfurt, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__hanna.varachkina@stud.uni-goettingen.de">
                     <persName>
                         <surname>Varachkina</surname>
                         <forename>Hanna</forename>
                     </persName>
-                    <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__gunter.vasold@uni-graz.at">
                     <persName>
                         <surname>Vasold</surname>
                         <forename>Gunter</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__74">Universität Graz, Österreich</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/115310614</idno>
                 </person>
                 <person xml:id="person__michael.vauth@tuhh.de">
                     <persName>
                         <surname>Vauth</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation>Technische Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__105">Technische Universität Hamburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__blerta.veseli@stud-mail.uni-wuerzburg.de">
                     <persName>
                         <surname>Veseli</surname>
                         <forename>Blerta</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__thorsten.vitt@uni-wuerzburg.de">
-                    <persName>
-                        <surname>Vitt</surname>
-                        <forename>Thorsten</forename>
-                    </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__georg.vogeler@uni-graz.at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
-                </person>
-                <person xml:id="person__georg.vogeler@uni-graz.at">
-                    <persName>
-                        <surname>Vogeler</surname>
-                        <forename>Georg</forename>
-                    </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE);
-                        Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__74">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__63">Institut für Dokumentologie und Editorik (IDE)</affiliation>
                 </person>
                 <person xml:id="person__armin.volkmann@asia-europe.uni-heidelberg.de">
                     <persName>
                         <surname>Volkmann</surname>
                         <forename>Armin</forename>
                     </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz, Berlin</affiliation>
+                    <affiliation ref="#org__99">Stiftung Preußischer Kulturbesitz, Berlin</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/132343622</idno>
                 </person>
                 <person xml:id="person__christian.wachter@stud.uni-goettingen.de">
                     <persName>
                         <surname>Wachter</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__wagner@rg.mpg.de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Max-Planck-Institut für europäische Rechtsgeschichte,
+                    <affiliation ref="#org__85">Max-Planck-Institut für europäische Rechtsgeschichte,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__ewagner@uni-bonn.de">
@@ -2354,8 +2326,9 @@
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
+                    <affiliation ref="#org__91">Rheinische Friedrich-Wilhelms-Universität, Abteilung für
                         Altamerikanistik, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1124546839</idno>
                 </person>
                 <person xml:id="person__walkowski@nowalkowski.de">
                     <persName>
@@ -2363,129 +2336,137 @@
                         <forename>Niels-Oliver</forename>
                     </persName>
                     <affiliation>unabhängiger Wissenschaftler</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1023378671</idno>
                 </person>
                 <person xml:id="person__f.wallner@rz.uni-leipzig.de">
                     <persName>
                         <surname>Wallner</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__walter.scholger@uni-graz.at">
-                    <persName>
-                        <surname>Walter</surname>
-                        <forename>Scholger</forename>
-                    </persName>
-                    <affiliation>Universität Graz</affiliation>
+                    <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1151359483</idno>
                 </person>
                 <person xml:id="person__lino.wehrheim@ur.de">
                     <persName>
                         <surname>Wehrheim</surname>
                         <forename>Lino</forename>
                     </persName>
-                    <affiliation>Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__128">Universität Regensburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__weichsel@uni-mainz.de">
                     <persName>
                         <surname>Weichselbaumer</surname>
                         <forename>Nikolaus</forename>
                     </persName>
-                    <affiliation>JGU Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__70">JGU Mainz, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/142623571</idno>
                 </person>
                 <person xml:id="person__max.weidemann@uni-rostock.de">
                     <persName>
                         <surname>Weidemann</surname>
                         <forename>Max</forename>
                     </persName>
-                    <affiliation>Citlab, Universität Rostock</affiliation>
+                    <affiliation ref="#org__18">Citlab, Universität Rostock</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1050572076</idno>
                 </person>
                 <person xml:id="person__lukas.weimer@uni-wuerzburg.de">
                     <persName>
                         <surname>Weimer</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1124824774</idno>
                 </person>
                 <person xml:id="person__jwettla@gwdg.de">
                     <persName>
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/121084280</idno>
                 </person>
                 <person xml:id="person__christoph.wick@uni-wuerzburg.de">
                     <persName>
                         <surname>Wick</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__david.wigg-wolf@dainst.de">
                     <persName>
                         <surname>Wigg-Wolf</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Römisch-Germanische Kommission des Deutschen Archäologischen
+                    <affiliation ref="#org__94">Römisch-Germanische Kommission des Deutschen Archäologischen
                         Instituts</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/131383663</idno>
                 </person>
                 <person xml:id="person__marcus.willand@gs.uni-heidelberg.de">
                     <persName>
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg; Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__117">Universität Heidelberg</affiliation>
+                    <affiliation ref="#org__132">Universität Stuttgart</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1050009495</idno>
                 </person>
                 <person xml:id="person__florian.windhager@donau-uni.ac.at">
                     <persName>
                         <surname>Windhager</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation>Donau Universität Krems, Österreich</affiliation>
+                    <affiliation ref="#org__29">Donau Universität Krems, Österreich</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/136298818</idno>
                 </person>
                 <person xml:id="person__wissenbach@faustedition.de">
                     <persName>
                         <surname>Wissenbach</surname>
                         <forename>Moritz</forename>
                     </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1102868507</idno>
                 </person>
                 <person xml:id="person__jane.wottawa@univ-lemans.fr">
                     <persName>
                         <surname>Wottawa</surname>
                         <forename>Jane</forename>
                     </persName>
-                    <affiliation>Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                 </person>
                 <person xml:id="person__wuttke@fh-potsdam.de">
                     <persName>
                         <surname>Wuttke</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>FH Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__32">FH Potsdam, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1107808405</idno>
                 </person>
                 <person xml:id="person__kai.woerner@uni-hamburg.de">
                     <persName>
                         <surname>Wörner</surname>
                         <forename>Kai</forename>
                     </persName>
-                    <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
+                    <affiliation ref="#org__51">Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
                         Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/120935570</idno>
                 </person>
                 <person xml:id="person__wuebbena@kunst.uni-frankfurt.de">
                     <persName>
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt am Main, Kunstgeschichtliches
-                        Institut, Deutschland; Deutsches Forum für Kunstgeschichte Paris,
+                    <affiliation ref="#org__48">Goethe Universität Frankfurt am Main, Kunstgeschichtliches
+                        Institut, Deutschland</affiliation>
+                    <affiliation ref="#org__49">Deutsches Forum für Kunstgeschichte Paris,
                         Frankreich</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/123312396</idno>
                 </person>
                 <person xml:id="person__tariq.yousef@adwmainz.de">
                     <persName>
                         <surname>Yousef</surname>
                         <forename>Tariq</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz,
+                    <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
                 <person xml:id="person__ksenia.zaytseva@oeaw.ac.at">
@@ -2493,7 +2474,7 @@
                         <surname>Zaytseva</surname>
                         <forename>Ksenia</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften,
+                    <affiliation ref="#org__146">Österreichische Akademie der Wissenschaften,
                         Österreich</affiliation>
                 </person>
                 <person xml:id="person__stefan.ziehe@stud.uni-goettingen.de">
@@ -2501,21 +2482,16 @@
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
-                </person>
-                <person xml:id="person__stefan.ziehe@stud.uni-goettingen.de">
-                    <persName>
-                        <surname>Ziehe</surname>
-                        <forename>Stefan</forename>
-                    </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
                 </person>
                 <person xml:id="person__sebastian.zimmer@uni-koeln.de">
                     <persName>
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
+                    <idno type="URL">http://d-nb.info/gnd/1097552411</idno>
                 </person>
             </listPerson>
         </body>

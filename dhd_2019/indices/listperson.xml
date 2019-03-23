@@ -27,21 +27,21 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="person__abrami@em.uni-frankfurt.de">
+                <person ana="person__abrami@em.uni-frankfurt.de">
                     <persName>
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe Universität Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__adelmann@informatik.uni-hamburg.de">
+                <person ana="person__adelmann@informatik.uni-hamburg.de">
                     <persName>
                         <surname>Adelmann</surname>
                         <forename>Benedikt</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__daniel.althof@bbaw.de">
+                <person ana="person__daniel.althof@bbaw.de">
                     <persName>
                         <surname>Althof</surname>
                         <forename>Daniel</forename>
@@ -49,7 +49,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__peter.andorfer@oeaw.ac.at">
+                <person ana="person__peter.andorfer@oeaw.ac.at">
                     <persName>
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
@@ -57,7 +57,7 @@
                     <affiliation ref="#org__146">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1043833846</idno>
                 </person>
-                <person xml:id="person__artika@bbaw.de">
+                <person ana="person__artika@bbaw.de">
                     <persName>
                         <surname>Artika</surname>
                         <forename>Farah</forename>
@@ -65,7 +65,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__anne.baillot@univ-lemans.fr">
+                <person ana="person__anne.baillot@univ-lemans.fr">
                     <persName>
                         <surname>Baillot</surname>
                         <forename>Anne</forename>
@@ -73,49 +73,49 @@
                     <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1065904681</idno>
                 </person>
-                <person xml:id="person__markusbald92@gmail.com">
+                <person ana="person__markusbald92@gmail.com">
                     <persName>
                         <surname>Bald</surname>
                         <forename>Markus</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__loic.barrault@univ-lemans.fr">
+                <person ana="person__loic.barrault@univ-lemans.fr">
                     <persName>
                         <surname>Barrault</surname>
                         <forename>Loïc</forename>
                     </persName>
                     <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                 </person>
-                <person xml:id="person__Gabriele.Bartz@oeaw.ac.at">
+                <person ana="person__Gabriele.Bartz@oeaw.ac.at">
                     <persName>
                         <surname>Bartz</surname>
                         <forename>Gabriele</forename>
                     </persName>
                     <affiliation ref="#org__146">ÖAW, Wien</affiliation>
                 </person>
-                <person xml:id="person__johanna.barzen@iaas.uni-stuttgart.de">
+                <person ana="person__johanna.barzen@iaas.uni-stuttgart.de">
                     <persName>
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__josip.batinic@ids-mannheim.de">
+                <person ana="person__josip.batinic@ids-mannheim.de">
                     <persName>
                         <surname>Batinic</surname>
                         <forename>Josip</forename>
                     </persName>
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__baumartz@stud.uni-frankfurt.de">
+                <person ana="person__baumartz@stud.uni-frankfurt.de">
                     <persName>
                         <surname>Baumartz</surname>
                         <forename>Daniel</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe University of Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__baumgarten@hab.de">
+                <person ana="person__baumgarten@hab.de">
                     <persName>
                         <surname>Baumgarten</surname>
                         <forename>Marcus</forename>
@@ -123,7 +123,7 @@
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0003-0801-9462</idno>
                 </person>
-                <person xml:id="person__bernhard.bermeitinger@uni-passau.de">
+                <person ana="person__bernhard.bermeitinger@uni-passau.de">
                     <persName>
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
@@ -131,7 +131,7 @@
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0002-2524-1850</idno>
                 </person>
-                <person xml:id="person__biemann@informatik.uni-hamburg.de">
+                <person ana="person__biemann@informatik.uni-hamburg.de">
                     <persName>
                         <surname>Biemann</surname>
                         <forename>Chris</forename>
@@ -140,7 +140,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/13395255X</idno>
                 </person>
-                <person xml:id="person__mark-jan.bludau@fh-potsdam.de">
+                <person ana="person__mark-jan.bludau@fh-potsdam.de">
                     <persName>
                         <surname>Bludau</surname>
                         <forename>Mark-Jan</forename>
@@ -148,7 +148,7 @@
                     <affiliation ref="#org__140">Urban Complexity Lab, Fachhochschule Potsdam,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__jonathan.blumtritt@uni-koeln.de">
+                <person ana="person__jonathan.blumtritt@uni-koeln.de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
@@ -157,14 +157,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0002-1438-379X</idno>
                 </person>
-                <person xml:id="person__boenig@bbaw.de">
+                <person ana="person__boenig@bbaw.de">
                     <persName>
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
                     </persName>
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                 </person>
-                <person xml:id="person__bartosz.bogacz@iwr.uni-heidelberg.de">
+                <person ana="person__bartosz.bogacz@iwr.uni-heidelberg.de">
                     <persName>
                         <surname>Bogacz</surname>
                         <forename>Bartosz</forename>
@@ -173,7 +173,7 @@
                         wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1069952796</idno>
                 </person>
-                <person xml:id="person__ingo.boerner@univie.ac.at">
+                <person ana="person__ingo.boerner@univie.ac.at">
                     <persName>
                         <surname>Börner</surname>
                         <forename>Ingo</forename>
@@ -182,14 +182,14 @@
                     <idno type="URL">http://d-nb.info/gnd/1176130706</idno>
                 </person>
                 
-                <person xml:id="person__fethi.bougares@univ-lemans.fr">
+                <person ana="person__fethi.bougares@univ-lemans.fr">
                     <persName>
                         <surname>Bougares</surname>
                         <forename>Fethi</forename>
                     </persName>
                     <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                 </person>
-                <person xml:id="person__bragagnolo@rg.mpg.de">
+                <person ana="person__bragagnolo@rg.mpg.de">
                     <persName>
                         <surname>Bragagnolo</surname>
                         <forename>Manuela</forename>
@@ -197,7 +197,7 @@
                     <affiliation ref="#org__85">Max-Planck-Institut für europäische Rechtsgeschichte,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__c.brandenberger@access.uzh.ch">
+                <person ana="person__c.brandenberger@access.uzh.ch">
                     <persName>
                         <surname>Brandenbeger</surname>
                         <forename>Christina</forename>
@@ -205,21 +205,21 @@
                     <affiliation ref="#org__95">Sprache und Raum Laboratorium, Universität Zürich,
                         Schweiz</affiliation>
                 </person>
-                <person xml:id="person__julia.brandt@hs-mainz.de">
+                <person ana="person__julia.brandt@hs-mainz.de">
                     <persName>
                         <surname>Brandt</surname>
                         <forename>Julia</forename>
                     </persName>
                     <affiliation ref="#org__55">Hochschule Mainz – University of Applied Sciences</affiliation>
                 </person>
-                <person xml:id="person__uwe.breitenbuecher@iaas.uni-stuttgart.de">
+                <person ana="person__uwe.breitenbuecher@iaas.uni-stuttgart.de">
                     <persName>
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__brodhun@sub.uni-goettingen.de">
+                <person ana="person__brodhun@sub.uni-goettingen.de">
                     <persName>
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
@@ -228,7 +228,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1169954073</idno>
                 </person>
-                <person xml:id="person__brunner@ids-mannheim.de">
+                <person ana="person__brunner@ids-mannheim.de">
                     <persName>
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>
@@ -236,7 +236,7 @@
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1071999273</idno>
                 </person>
-                <person xml:id="person__viktoria.brueggemann@fh-potsdam.de">
+                <person ana="person__viktoria.brueggemann@fh-potsdam.de">
                     <persName>
                         <surname>Brüggemann</surname>
                         <forename>Viktoria</forename>
@@ -244,7 +244,7 @@
                     <affiliation ref="#org__140">Urban Complexity Lab, Fachhochschule Potsdam,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__bruening@faustedition.de">
+                <person ana="person__bruening@faustedition.de">
                     <persName>
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
@@ -253,28 +253,28 @@
                         Goethe-Museum</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1070804975</idno>
                 </person>
-                <person xml:id="person__bbuff@mail.upb.de">
+                <person ana="person__bbuff@mail.upb.de">
                     <persName>
                         <surname>Buff</surname>
                         <forename>Bianca</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__severin.jo.burg@gmail.com">
+                <person ana="person__severin.jo.burg@gmail.com">
                     <persName>
                         <surname>Burg</surname>
                         <forename>Severin</forename>
                     </persName>
                     <affiliation ref="#org__108">Università di Bologna, Italien</affiliation>
                 </person>
-                <person xml:id="person__burghardt@informatik.uni-leipzig.de">
+                <person ana="person__burghardt@informatik.uni-leipzig.de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
                     <affiliation ref="#org__121">Universität Leipzig</affiliation>
                 </person>
-                <person xml:id="person__annabusch@uni-potsdam.de">
+                <person ana="person__annabusch@uni-potsdam.de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Anna</forename>
@@ -282,14 +282,14 @@
                     <affiliation ref="#org__106">Theodor-Fontane-Archiv, Universität Potsdam,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__fbaeumer@mail.upb.de">
+                <person ana="person__fbaeumer@mail.upb.de">
                     <persName>
                         <surname>Bäumer</surname>
                         <forename>Frederik Simon</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__kristin.buehrig@uni-hamburg.de">
+                <person ana="person__kristin.buehrig@uni-hamburg.de">
                     <persName>
                         <surname>Bührig</surname>
                         <forename>Kristin</forename>
@@ -298,42 +298,42 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/114563527</idno>
                 </person>
-                <person xml:id="person__martina.buergermeister@uni-graz.at">
+                <person ana="person__martina.buergermeister@uni-graz.at">
                     <persName>
                         <surname>Bürgermeister</surname>
                         <forename>Martina</forename>
                     </persName>
                     <affiliation ref="#org__74">Universität Graz, Österreich</affiliation>
                 </person>
-                <person xml:id="person__jose.calvo@morethanbooks.eu">
+                <person ana="person__jose.calvo@morethanbooks.eu">
                     <persName>
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__carla.soekefeld@studium.uni-hamburg.de">
+                <person ana="person__carla.soekefeld@studium.uni-hamburg.de">
                     <persName>
                         <surname>Carla</surname>
                         <forename>Sökefeld</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__cmil@hashtable.de">
+                <person ana="person__cmil@hashtable.de">
                     <persName>
                         <surname>Carsten</surname>
                         <forename>Milling</forename>
                     </persName>
                     <affiliation>Berlin</affiliation>
                 </person>
-                <person xml:id="person__jonas.christen@zhdk.ch">
+                <person ana="person__jonas.christen@zhdk.ch">
                     <persName>
                         <surname>Christen</surname>
                         <forename>Jonas</forename>
                     </persName>
                     <affiliation ref="#org__143">Zürcher Hochschule der Künste, Schweiz</affiliation>
                 </person>
-                <person xml:id="person__vincent.christlein@fau.de">
+                <person ana="person__vincent.christlein@fau.de">
                     <persName>
                         <surname>Christlein</surname>
                         <forename>Vincent</forename>
@@ -341,14 +341,14 @@
                     <affiliation ref="#org__41">FAU Erlangen, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1107595517</idno>
                 </person>
-                <person xml:id="person__maria.christoforaki@uni-passau.de">
+                <person ana="person__maria.christoforaki@uni-passau.de">
                     <persName>
                         <surname>Christoforaki</surname>
                         <forename>Maria</forename>
                     </persName>
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__Cremer@MaxWeberStiftung.de">
+                <person ana="person__Cremer@MaxWeberStiftung.de">
                     <persName>
                         <surname>Cremer</surname>
                         <forename>Fabian</forename>
@@ -356,14 +356,14 @@
                     <affiliation ref="#org__84">Max Weber Stiftung, Bonn</affiliation>
                     <idno type="URL">https://orcid.org/0000-0001-8251-9727</idno>
                 </person>
-                <person xml:id="person__vincenzo.damiani@uni-wuerzburg.de">
+                <person ana="person__vincenzo.damiani@uni-wuerzburg.de">
                     <persName>
                         <surname>Damiani</surname>
                         <forename>Vincenzo</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__david.schmidt@informatik.uni-wuerzburg.de">
+                <person ana="person__david.schmidt@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>David</surname>
                         <forename>Schmidt</forename>
@@ -371,7 +371,7 @@
                     <affiliation ref="#org__16">Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__Jan-Oliver.Decker@Uni-Passau.De">
+                <person ana="person__Jan-Oliver.Decker@Uni-Passau.De">
                     <persName>
                         <surname>Decker</surname>
                         <forename>Jan-Oliver</forename>
@@ -379,7 +379,7 @@
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1132284627</idno>
                 </person>
-                <person xml:id="person__leyla.dewitz@tu-dresden.de">
+                <person ana="person__leyla.dewitz@tu-dresden.de">
                     <persName>
                         <surname>Dewitz</surname>
                         <forename>Leyla</forename>
@@ -387,7 +387,7 @@
                     <affiliation ref="#org__104">Technische Universität Dresden, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1066209782</idno>
                 </person>
-                <person xml:id="person__katja.diederichs@uni-bonn.de">
+                <person ana="person__katja.diederichs@uni-bonn.de">
                     <persName>
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
@@ -396,7 +396,7 @@
                         Altamerikanistik, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1169862977</idno>
                 </person>
-                <person xml:id="person__f.diehr@smb.spk-berlin.de">
+                <person ana="person__f.diehr@smb.spk-berlin.de">
                     <persName>
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
@@ -404,7 +404,7 @@
                     <affiliation ref="#org__99">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1155094263</idno>
                 </person>
-                <person xml:id="person__diem@cvl.tuwien.ac.at">
+                <person ana="person__diem@cvl.tuwien.ac.at">
                     <persName>
                         <surname>Diem</surname>
                         <forename>Markus</forename>
@@ -412,7 +412,7 @@
                     <affiliation ref="#org__21">Computer Vision Lab, TU Wien</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1107613647</idno>
                 </person>
-                <person xml:id="person__mail@dimpel.de">
+                <person ana="person__mail@dimpel.de">
                     <persName>
                         <surname>Dimpel</surname>
                         <forename>Friedrich</forename>
@@ -420,7 +420,7 @@
                     <affiliation ref="#org__41">Universität Erlangen</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1111656460</idno>
                 </person>
-                <person xml:id="person__teodora.dogaru@bbaw.de">
+                <person ana="person__teodora.dogaru@bbaw.de">
                     <persName>
                         <surname>Dogaru</surname>
                         <forename>Teodora</forename>
@@ -428,7 +428,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__swantje.dogunke@klassik-stiftung.de">
+                <person ana="person__swantje.dogunke@klassik-stiftung.de">
                     <persName>
                         <surname>Dogunke</surname>
                         <forename>Swantje</forename>
@@ -436,14 +436,14 @@
                     <affiliation ref="#org__34">Forschungsverbund MWW | Klassik Stiftung Weimar,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__simon.donig@uni-passau.de">
+                <person ana="person__simon.donig@uni-passau.de">
                     <persName>
                         <surname>Donig</surname>
                         <forename>Simon</forename>
                     </persName>
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__stephan.druskat@hu-berlin.de">
+                <person ana="person__stephan.druskat@hu-berlin.de">
                     <persName>
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
@@ -451,14 +451,14 @@
                     <affiliation ref="#org__58">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0003-4925-7248</idno>
                 </person>
-                <person xml:id="person__ddubray@uni-potsdam.de">
+                <person ana="person__ddubray@uni-potsdam.de">
                     <persName>
                         <surname>Dubray</surname>
                         <forename>David</forename>
                     </persName>
                     <affiliation ref="#org__127">Universität Potsdam, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__dumont@bbaw.de">
+                <person ana="person__dumont@bbaw.de">
                     <persName>
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
@@ -467,14 +467,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1034877364</idno>
                 </person>
-                <person xml:id="person__alexander.dunst@gmail.com">
+                <person ana="person__alexander.dunst@gmail.com">
                     <persName>
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__p.daengeli@uni-koeln.de">
+                <person ana="person__p.daengeli@uni-koeln.de">
                     <persName>
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
@@ -484,7 +484,7 @@
                         eHumanities</affiliation>
                     <idno type="URL">https://orcid.org/0000-0003-3576-7474</idno>
                 </person>
-                <person xml:id="person__doerk@fh-potsdam.de">
+                <person ana="person__doerk@fh-potsdam.de">
                     <persName>
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
@@ -492,7 +492,7 @@
                     <affiliation ref="#org__140">Urban Complexity Lab, Fachhochschule Potsdam,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__efer@saw-leipzig.de">
+                <person ana="person__efer@saw-leipzig.de">
                     <persName>
                         <surname>Efer</surname>
                         <forename>Thomas</forename>
@@ -501,7 +501,7 @@
                     <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1125649186</idno>
                 </person>
-                <person xml:id="person__elkhatib.randa@gmail.com">
+                <person ana="person__elkhatib.randa@gmail.com">
                     <persName>
                         <surname>El Khatib</surname>
                         <forename>Randa</forename>
@@ -509,7 +509,7 @@
                     <affiliation ref="#org__30">Electronic Textual Cultures Lab, University of Victoria,
                         Canada</affiliation>
                 </person>
-                <person xml:id="person__engelberg@ids-mannheim.de">
+                <person ana="person__engelberg@ids-mannheim.de">
                     <persName>
                         <surname>Engelberg</surname>
                         <forename>Stefan</forename>
@@ -517,7 +517,7 @@
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1028645139</idno>
                 </person>
-                <person xml:id="person__holger.essler@uni-wuerzburg.de">
+                <person ana="person__holger.essler@uni-wuerzburg.de">
                     <persName>
                         <surname>Essler</surname>
                         <forename>Holger</forename>
@@ -525,7 +525,7 @@
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/136871259</idno>
                 </person>
-                <person xml:id="person__stefan.evert@fau.de">
+                <person ana="person__stefan.evert@fau.de">
                     <persName>
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
@@ -534,14 +534,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1139663577</idno>
                 </person>
-                <person xml:id="person__bjoern.eyselein@uni-wuerzburg.de">
+                <person ana="person__bjoern.eyselein@uni-wuerzburg.de">
                     <persName>
                         <surname>Eyeselein</surname>
                         <forename>Björn</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__fankhauser@ids-mannheim.de">
+                <person ana="person__fankhauser@ids-mannheim.de">
                     <persName>
                         <surname>Fankhauser</surname>
                         <forename>Peter</forename>
@@ -549,7 +549,7 @@
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1152239015</idno>
                 </person>
-                <person xml:id="person__felix.feldmann@iwr.uni-heidelberg.de">
+                <person ana="person__felix.feldmann@iwr.uni-heidelberg.de">
                     <persName>
                         <surname>Feldmann</surname>
                         <forename>Felix</forename>
@@ -557,7 +557,7 @@
                     <affiliation ref="#org__117">Universität Heidelberg, Interdisziplinäres Zentrum für
                         wissenschaftliches Rechnen, Heidelberg</affiliation>
                 </person>
-                <person xml:id="person__anne.ferger@uni-hamburg.de">
+                <person ana="person__anne.ferger@uni-hamburg.de">
                     <persName>
                         <surname>Ferger</surname>
                         <forename>Anne</forename>
@@ -566,7 +566,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0002-1382-2658</idno>
                 </person>
-                <person xml:id="person__franz.fischer@uni-koeln.de">
+                <person ana="person__franz.fischer@uni-koeln.de">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
@@ -575,21 +575,21 @@
                     <affiliation ref="#org__138">Universität zu
                         Köln</affiliation>
                 </person>
-                <person xml:id="person__frafis@gmail.com">
+                <person ana="person__frafis@gmail.com">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
                     <affiliation ref="#org__54">Higher School of Economics, Moskau, Russland</affiliation>
                 </person>
-                <person xml:id="person__christian.forney@hist.unibe.ch">
+                <person ana="person__christian.forney@hist.unibe.ch">
                     <persName>
                         <surname>Forney</surname>
                         <forename>Christian</forename>
                     </persName>
                     <affiliation ref="#org__109">Universität Bern, Schweiz</affiliation>
                 </person>
-                <person xml:id="person__stfranke@bbaw.de">
+                <person ana="person__stfranke@bbaw.de">
                     <persName>
                         <surname>Franke</surname>
                         <forename>Stefanie</forename>
@@ -597,14 +597,14 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__lina.franken@uni-hamburg.de">
+                <person ana="person__lina.franken@uni-hamburg.de">
                     <persName>
                         <surname>Franken</surname>
                         <forename>Lina</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__frick@ids-mannheim.de">
+                <person ana="person__frick@ids-mannheim.de">
                     <persName>
                         <surname>Frick</surname>
                         <forename>Elena</forename>
@@ -612,7 +612,7 @@
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1141319446</idno>
                 </person>
-                <person xml:id="person__henrike.fricke@hab.de">
+                <person ana="person__henrike.fricke@hab.de">
                     <persName>
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
@@ -621,7 +621,7 @@
                     <affiliation ref="#org__35">Forschungsverbund MWW, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1136452885</idno>
                 </person>
-                <person xml:id="person__christiane.fritze@onb.ac.at">
+                <person ana="person__christiane.fritze@onb.ac.at">
                     <persName>
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
@@ -631,7 +631,7 @@
                         Nationalbibliothek</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1018377743</idno>
                 </person>
-                <person xml:id="person__gasch@ids-mannheim.de">
+                <person ana="person__gasch@ids-mannheim.de">
                     <persName>
                         <surname>Gasch</surname>
                         <forename>Joachim</forename>
@@ -639,7 +639,7 @@
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1012429997</idno>
                 </person>
-                <person xml:id="person__geelhaar@em.uni-frankfurt.de">
+                <person ana="person__geelhaar@em.uni-frankfurt.de">
                     <persName>
                         <surname>Geelhaar</surname>
                         <forename>Tim</forename>
@@ -647,21 +647,21 @@
                     <affiliation ref="#org_47">Goethe Universität Frankfurt am Main, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1120022568</idno>
                 </person>
-                <person xml:id="person__geierhos@mail.upb.de">
+                <person ana="person__geierhos@mail.upb.de">
                     <persName>
                         <surname>Geierhos</surname>
                         <forename>Michaela</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__a.geipel@deutsches-museum.de">
+                <person ana="person__a.geipel@deutsches-museum.de">
                     <persName>
                         <surname>Geipel</surname>
                         <forename>Andrea</forename>
                     </persName>
                     <affiliation ref="#org__27">Deutsches Museum, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__kgenzel@uni-potsdam.de">
+                <person ana="person__kgenzel@uni-potsdam.de">
                     <persName>
                         <surname>Genzel</surname>
                         <forename>Kristina</forename>
@@ -669,7 +669,7 @@
                     <affiliation ref="#org__106">Theodor-Fontane-Archiv, Universität Potsdam,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__dgerhard@students.uni-mainz.de">
+                <person ana="person__dgerhard@students.uni-mainz.de">
                     <persName>
                         <surname>Gerhards</surname>
                         <forename>Donata</forename>
@@ -678,7 +678,7 @@
                     <affiliation ref="#org__71">Universitätsarchiv
                         Mainz</affiliation>
                 </person>
-                <person xml:id="person__evelyn.gius@uni-hamburg.de">
+                <person ana="person__evelyn.gius@uni-hamburg.de">
                     <persName>
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
@@ -686,14 +686,14 @@
                     <affiliation ref="#org__116">Universität Hamburg</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1084241307</idno>
                 </person>
-                <person xml:id="person__gleim@em.uni-frankfurt.de">
+                <person ana="person__gleim@em.uni-frankfurt.de">
                     <persName>
                         <surname>Gleim</surname>
                         <forename>Rüdiger</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe University of Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__k.glinka@smb.spk-berlin.de">
+                <person ana="person__k.glinka@smb.spk-berlin.de">
                     <persName>
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
@@ -701,7 +701,7 @@
                     <affiliation ref="#org__99">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0002-4232-8907</idno>
                 </person>
-                <person xml:id="person__Markus.Gneiss@oeaw.ac.at">
+                <person ana="person__Markus.Gneiss@oeaw.ac.at">
                     <persName>
                         <surname>Gneiß</surname>
                         <forename>Markus</forename>
@@ -709,7 +709,7 @@
                     <affiliation ref="#org__146">ÖAW, Wien</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1129263967</idno>
                 </person>
-                <person xml:id="person__gorisch@ids-mannheim.de">
+                <person ana="person__gorisch@ids-mannheim.de">
                     <persName>
                         <surname>Gorisch</surname>
                         <forename>Jan</forename>
@@ -717,7 +717,7 @@
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1152329022</idno>
                 </person>
-                <person xml:id="person__grabsch@bbaw.de">
+                <person ana="person__grabsch@bbaw.de">
                     <persName>
                         <surname>Grabsch</surname>
                         <forename>Sascha</forename>
@@ -725,7 +725,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sgronemeyer@uni-bonn.de">
+                <person ana="person__sgronemeyer@uni-bonn.de">
                     <persName>
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
@@ -736,14 +736,14 @@
                         Archaeology and History, Australien</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1155600487</idno>
                 </person>
-                <person xml:id="person__p.grosse@gnm.de">
+                <person ana="person__p.grosse@gnm.de">
                     <persName>
                         <surname>Grosse</surname>
                         <forename>Peggy</forename>
                     </persName>
                     <affiliation type="#org__45">Germanisches Nationalmuseum</affiliation>
                 </person>
-                <person xml:id="person__ngrube@uni-bonn.de">
+                <person ana="person__ngrube@uni-bonn.de">
                     <persName>
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>
@@ -752,21 +752,21 @@
                         Altamerikanistik, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/110726553</idno>
                 </person>
-                <person xml:id="person__svenjasimone.guhr@stud.uni-goettingen.de">
+                <person ana="person__svenjasimone.guhr@stud.uni-goettingen.de">
                     <persName>
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
                     </persName>
                     <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__mgoedel@uni-koeln.de">
+                <person ana="person__mgoedel@uni-koeln.de">
                     <persName>
                         <surname>Gödel</surname>
                         <forename>Martina</forename>
                     </persName>
                     <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__guenther.goerz@fau.de">
+                <person ana="person__guenther.goerz@fau.de">
                     <persName>
                         <surname>Görz</surname>
                         <forename>Günther</forename>
@@ -776,14 +776,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/10853572X</idno>
                 </person>
-                <person xml:id="person__germaine.goetzelmann@kit.edu">
+                <person ana="person__germaine.goetzelmann@kit.edu">
                     <persName>
                         <surname>Götzelmann</surname>
                         <forename>Germaine</forename>
                     </persName>
                     <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__haaf@bbaw.de">
+                <person ana="person__haaf@bbaw.de">
                     <persName>
                         <surname>Haaf</surname>
                         <forename>Susanne</forename>
@@ -791,14 +791,14 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__maximilian@cis.uni-muenchen.de">
+                <person ana="person__maximilian@cis.uni-muenchen.de">
                     <persName>
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>
                     </persName>
                     <affiliation ref="#org__80">LMU München, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__mark.hall@informatik.uni-halle.de">
+                <person ana="person__mark.hall@informatik.uni-halle.de">
                     <persName>
                         <surname>Hall</surname>
                         <forename>Mark</forename>
@@ -806,7 +806,7 @@
                     <affiliation ref="#org__82">Martin-Luther-Universität Halle-Wittenberg,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__siegfried.handschuh@unisg.ch">
+                <person ana="person__siegfried.handschuh@unisg.ch">
                     <persName>
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
@@ -814,7 +814,7 @@
                     <affiliation ref="#org__130">Universität St. Gallen, Schweiz</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1163823392</idno>
                 </person>
-                <person xml:id="person__vanessa.hannesschlaeger@oeaw.ac.at">
+                <person ana="person__vanessa.hannesschlaeger@oeaw.ac.at">
                     <persName>
                         <surname>Hannesschlaeger</surname>
                         <forename>Vanessa</forename>
@@ -823,28 +823,28 @@
                         Österreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1095917986</idno>
                 </person>
-                <person xml:id="person__rst@upb.de">
+                <person ana="person__rst@upb.de">
                     <persName>
                         <surname>Hartel</surname>
                         <forename>Rita</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__volker.hartmann@kit.edu">
+                <person ana="person__volker.hartmann@kit.edu">
                     <persName>
                         <surname>Hartmann</surname>
                         <forename>Volker</forename>
                     </persName>
                     <affiliation ref="#org__97">Steinbuch Centre for Computing / KIT</affiliation>
                 </person>
-                <person xml:id="person__lukas.harzenetter@iaas.uni-stuttgart.de">
+                <person ana="person__lukas.harzenetter@iaas.uni-stuttgart.de">
                     <persName>
                         <surname>Harzenetter</surname>
                         <forename>Lukas</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__angelika.hechtl@wu.ac.at">
+                <person ana="person__angelika.hechtl@wu.ac.at">
                     <persName>
                         <surname>Hechtl</surname>
                         <forename>Angelika</forename>
@@ -852,7 +852,7 @@
                     <affiliation ref="#org__89">Niedersächsische Staats- und Universitätsbibliothek
                         Göttingen</affiliation>
                 </person>
-                <person xml:id="person__hanna.hedeland@uni-hamburg.de">
+                <person ana="person__hanna.hedeland@uni-hamburg.de">
                     <persName>
                         <surname>Hedeland</surname>
                         <forename>Hanna</forename>
@@ -860,14 +860,14 @@
                     <affiliation ref="#org__51">Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__philipp.hegel@fu-berlin.de">
+                <person ana="person__philipp.hegel@fu-berlin.de">
                     <persName>
                         <surname>Hegel</surname>
                         <forename>Philipp</forename>
                     </persName>
                     <affiliation ref="#org__38">Freie Universität Berlin, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__patrick.helling@uni-koeln.de">
+                <person ana="person__patrick.helling@uni-koeln.de">
                     <persName>
                         <surname>Helling</surname>
                         <forename>Patrick</forename>
@@ -875,28 +875,28 @@
                     <affiliation ref="#org__24">Data Center for the Humanities (DCH), Universität zu Köln,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__wiebke.helm@uni-leipzig.de">
+                <person ana="person__wiebke.helm@uni-leipzig.de">
                     <persName>
                         <surname>Helm</surname>
                         <forename>Wiebke</forename>
                     </persName>
                     <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__hemati@em.uni-frankfurt.de">
+                <person ana="person__hemati@em.uni-frankfurt.de">
                     <persName>
                         <surname>Hemati</surname>
                         <forename>Wahed</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe-Universität Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__c.henkensiefken@deutsches-museum.de">
+                <person ana="person__c.henkensiefken@deutsches-museum.de">
                     <persName>
                         <surname>Henkensiefken</surname>
                         <forename>Claus</forename>
                     </persName>
                     <affiliation ref="#org__27">Deutsches Museum, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__ulrike.henny@uni-wuerzburg.de">
+                <person ana="person__ulrike.henny@uni-wuerzburg.de">
                     <persName>
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
@@ -904,7 +904,7 @@
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1140258346</idno>
                 </person>
-                <person xml:id="person__elisa.herrmann@hab.de">
+                <person ana="person__elisa.herrmann@hab.de">
                     <persName>
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
@@ -912,35 +912,35 @@
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1143232690</idno>
                 </person>
-                <person xml:id="person__mail@hitzker.de">
+                <person ana="person__mail@hitzker.de">
                     <persName>
                         <surname>Hitzker</surname>
                         <forename>Michael</forename>
                     </persName>
                     <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__tobias.hodel@uzh.ch">
+                <person ana="person__tobias.hodel@uzh.ch">
                     <persName>
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
                     </persName>
                     <affiliation ref="#org__96">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                 </person>
-                <person xml:id="person__hoenen@em.uni-frankfurt.de">
+                <person ana="person__hoenen@em.uni-frankfurt.de">
                     <persName>
                         <surname>Hoenen</surname>
                         <forename>Armin</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe Universität Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__tracy.hoffmann@uni-leipzig.de">
+                <person ana="person__tracy.hoffmann@uni-leipzig.de">
                     <persName>
                         <surname>Hoffmann</surname>
                         <forename>Tracy</forename>
                     </persName>
                     <affiliation ref="#org__139">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__g.hohmann@deutsches-museum.de">
+                <person ana="person__g.hohmann@deutsches-museum.de">
                     <persName>
                         <surname>Hohmann</surname>
                         <forename>Georg</forename>
@@ -948,7 +948,7 @@
                     <affiliation ref="#org__27">Deutsches Museum, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/133851052</idno>
                 </person>
-                <person xml:id="person__timo.homburg@hs-mainz.de">
+                <person ana="person__timo.homburg@hs-mainz.de">
                     <persName>
                         <surname>Homburg</surname>
                         <forename>Timo</forename>
@@ -956,14 +956,14 @@
                     <affiliation ref="#org__55">Hochschule Mainz, Deutschland</affiliation>
                     <idno type="URL">https://orcid.org/0000-0002-9499-5840</idno>
                 </person>
-                <person xml:id="person__jan.horstmann@uni-hamburg.de">
+                <person ana="person__jan.horstmann@uni-hamburg.de">
                     <persName>
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__hotho@informatik.uni-wuerzburg.de">
+                <person ana="person__hotho@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
@@ -971,14 +971,14 @@
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/133968332</idno>
                 </person>
-                <person xml:id="person__christoph.hottiger@access.uzh.ch">
+                <person ana="person__christoph.hottiger@access.uzh.ch">
                     <persName>
                         <surname>Hottiger</surname>
                         <forename>Christoph</forename>
                     </persName>
                     <affiliation ref="#org__136">Universität Zürich, Schweiz</affiliation>
                 </person>
-                <person xml:id="person__gernot.howanitz@uni-passau.de">
+                <person ana="person__gernot.howanitz@uni-passau.de">
                     <persName>
                         <surname>Howanitz</surname>
                         <forename>Gernot</forename>
@@ -986,21 +986,21 @@
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1050512111</idno>
                 </person>
-                <person xml:id="person__Markus.Hoefler@live.de">
+                <person ana="person__Markus.Hoefler@live.de">
                     <persName>
                         <surname>Höfler</surname>
                         <forename>Markus</forename>
                     </persName>
                     <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__julia.huebner@fu-berlin.de">
+                <person ana="person__julia.huebner@fu-berlin.de">
                     <persName>
                         <surname>Hübner</surname>
                         <forename>Julia</forename>
                     </persName>
                     <affiliation ref="#org__38">Freie Universität Berlin, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__F.Huether@ub.uni-mainz.de">
+                <person ana="person__F.Huether@ub.uni-mainz.de">
                     <persName>
                         <surname>Hüther</surname>
                         <forename>Frank</forename>
@@ -1010,7 +1010,7 @@
                         Mainz</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/113703131X</idno>
                 </person>
-                <person xml:id="person__iglesia@hab.de">
+                <person ana="person__iglesia@hab.de">
                     <persName>
                         <surname>Iglesia</surname>
                         <forename>Martin de la</forename>
@@ -1018,14 +1018,14 @@
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1095143719</idno>
                 </person>
-                <person xml:id="person__imchan@uni-hildesheim.de">
+                <person ana="person__imchan@uni-hildesheim.de">
                     <persName>
                         <surname>Im</surname>
                         <forename>Chanjong</forename>
                     </persName>
                     <affiliation ref="#org__119">Universität Hildesheim, Deutschland</affiliation>
                 </person>
-               <person xml:id="person__fotis.jannidis@uni-wuerzburg.de">
+               <person ana="person__fotis.jannidis@uni-wuerzburg.de">
                     <persName>
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
@@ -1033,14 +1033,14 @@
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/114523525</idno>
                 </person>
-                <person xml:id="person__karolina.jara@hs-mainz.de">
+                <person ana="person__karolina.jara@hs-mainz.de">
                     <persName>
                         <surname>Jara</surname>
                         <forename>Karolina</forename>
                     </persName>
                     <affiliation ref="#org__55">Hochschule Mainz – University of Applied Sciences</affiliation>
                 </person>
-                <person xml:id="person__julian.jarosch@adwmainz.de">
+                <person ana="person__julian.jarosch@adwmainz.de">
                     <persName>
                         <surname>Jarosch</surname>
                         <forename>Julian</forename>
@@ -1048,7 +1048,7 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__kerstin.jung@ims.uni-stuttgart.de">
+                <person ana="person__kerstin.jung@ims.uni-stuttgart.de">
                     <persName>
                         <surname>Jung</surname>
                         <forename>Kerstin</forename>
@@ -1056,21 +1056,21 @@
                     <affiliation ref="#org__67">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__kampkaspar@hab.de">
+                <person ana="person__kampkaspar@hab.de">
                     <persName>
                         <surname>Kampkaspar</surname>
                         <forename>Dario</forename>
                     </persName>
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__katharina.krueger@uni-hamburg.de">
+                <person ana="person__katharina.krueger@uni-hamburg.de">
                     <persName>
                         <surname>Katharina</surname>
                         <forename>Krüger</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sebastian.kempf@informatik.uni-wuerzburg.de">
+                <person ana="person__sebastian.kempf@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>Kempf</surname>
                         <forename>Sebastian</forename>
@@ -1078,7 +1078,7 @@
                     <affiliation ref="#org__16">Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__wolfgang.kesselheim@ds.uzh.ch">
+                <person ana="person__wolfgang.kesselheim@ds.uzh.ch">
                     <persName>
                         <surname>Kesselheim</surname>
                         <forename>Wolfgang</forename>
@@ -1087,14 +1087,14 @@
                         Schweiz</affiliation>
                     <affiliation ref="#org__136">Universität Zürich, Schweiz</affiliation>
                 </person>
-                <person xml:id="person__dkilinc@uni-goettingen.de">
+                <person ana="person__dkilinc@uni-goettingen.de">
                     <persName>
                         <surname>Kilincoglu</surname>
                         <forename>Deniz</forename>
                     </persName>
                     <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__Timo.Kissinger@adwmainz.de">
+                <person ana="person__Timo.Kissinger@adwmainz.de">
                     <persName>
                         <surname>Kissinger</surname>
                         <forename>Timo</forename>
@@ -1102,7 +1102,7 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__contact@christopherkittel.eu">
+                <person ana="person__contact@christopherkittel.eu">
                     <persName>
                         <surname>Kittel</surname>
                         <forename>Christopher</forename>
@@ -1110,7 +1110,7 @@
                     <affiliation ref="#org__74">Karl-Franzens-Universität Graz</affiliation>
                     <idno type="URL">https://orcid.org/0000-0002-1894-5040</idno>
                 </person>
-                <person xml:id="person__klaffki@hab.de">
+                <person ana="person__klaffki@hab.de">
                     <persName>
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>
@@ -1118,35 +1118,35 @@
                     <affiliation ref="#org__35">Forschungsverbund MWW, Deutschland</affiliation>
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__dklakow@lsv.uni-saarland.de">
+                <person ana="person__dklakow@lsv.uni-saarland.de">
                     <persName>
                         <surname>Klakow</surname>
                         <forename>Dietrich</forename>
                     </persName>
                     <affiliation ref="#org__137">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__s8caklau@stud.uni-saarland.de">
+                <person ana="person__s8caklau@stud.uni-saarland.de">
                     <persName>
                         <surname>Klaus</surname>
                         <forename>Carsten</forename>
                     </persName>
                     <affiliation ref="#org__137">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__r.kleymann90@gmail.com">
+                <person ana="person__r.kleymann90@gmail.com">
                     <persName>
                         <surname>Kleymann</surname>
                         <forename>Rabea</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__gertraud.koch@uni-hamburg.de">
+                <person ana="person__gertraud.koch@uni-hamburg.de">
                     <persName>
                         <surname>Koch</surname>
                         <forename>Gertraud</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__hubertus.kohle@lmu.de">
+                <person ana="person__hubertus.kohle@lmu.de">
                     <persName>
                         <surname>Kohle</surname>
                         <forename>Hubertus</forename>
@@ -1154,7 +1154,7 @@
                     <affiliation ref="#org__80">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/128625562</idno>
                 </person>
-                <person xml:id="person__thomas.kollatz@adwmainz.de">
+                <person ana="person__thomas.kollatz@adwmainz.de">
                     <persName>
                         <surname>Kollatz</surname>
                         <forename>Thomas</forename>
@@ -1162,7 +1162,7 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur Mainz,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__lisa.kolodzie@adwmainz.de">
+                <person ana="person__lisa.kolodzie@adwmainz.de">
                     <persName>
                         <surname>Kolodzie</surname>
                         <forename>Lisa</forename>
@@ -1170,21 +1170,21 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__leonard.konle@uni-wuerzburg.de">
+                <person ana="person__leonard.konle@uni-wuerzburg.de">
                     <persName>
                         <surname>Konle</surname>
                         <forename>Leonard</forename>
                     </persName>
                     <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg</affiliation>
                 </person>
-                <person xml:id="person__benjamin.krautter@ilw.uni-stuttgart.de">
+                <person ana="person__benjamin.krautter@ilw.uni-stuttgart.de">
                     <persName>
                         <surname>Krautter</surname>
                         <forename>Benjamin</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__gerhard.kremer@ims.uni-stuttgart.de">
+                <person ana="person__gerhard.kremer@ims.uni-stuttgart.de">
                     <persName>
                         <surname>Kremer</surname>
                         <forename>Gerhard</forename>
@@ -1192,7 +1192,7 @@
                     <affiliation ref="#org__67">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__m.krewet@fu-berlin.de">
+                <person ana="person__m.krewet@fu-berlin.de">
                     <persName>
                         <surname>Krewet</surname>
                         <forename>Michael</forename>
@@ -1200,7 +1200,7 @@
                     <affiliation ref="#org__38">Freie Universität Berlin, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1138251445</idno>
                 </person>
-                <person xml:id="person__markus.krug@informatik.uni-wuerzburg.de">
+                <person ana="person__markus.krug@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>Krug</surname>
                         <forename>Markus</forename>
@@ -1208,14 +1208,14 @@
                     <affiliation ref="#org__16">Chair of Applied Computer Science and Artificial Intelligence,
                         Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__katharina.krueger@uni-hamburg.de">
+                <person ana="person__katharina.krueger@uni-hamburg.de">
                     <persName>
                         <surname>Krüger</surname>
                         <forename>Katharina</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__andreas.kuczera@adwmainz.de">
+                <person ana="person__andreas.kuczera@adwmainz.de">
                     <persName>
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
@@ -1226,7 +1226,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1167802993</idno>
                 </person>
-               <person xml:id="person__piotr.kuroczynski@hs-mainz.de">
+               <person ana="person__piotr.kuroczynski@hs-mainz.de">
                     <persName>
                         <surname>Kuroczyński</surname>
                         <forename>Piotr</forename>
@@ -1234,7 +1234,7 @@
                     <affiliation ref="#org__55">Hochschule Mainz – University of Applied Sciences</affiliation>
                    <idno type="URL">http://d-nb.info/gnd/138320659</idno> 
                 </person>
-                <person xml:id="person__stephan.kurz@oeaw.ac.at">
+                <person ana="person__stephan.kurz@oeaw.ac.at">
                     <persName>
                         <surname>Kurz</surname>
                         <forename>Stephan</forename>
@@ -1243,7 +1243,7 @@
                         Österreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/13281899X</idno>
                 </person>
-                <person xml:id="person__mkoenig@dhi-paris.fr">
+                <person ana="person__mkoenig@dhi-paris.fr">
                     <persName>
                         <surname>König</surname>
                         <forename>Mareike</forename>
@@ -1251,7 +1251,7 @@
                     <affiliation ref="#org__26">Deutsches Historisches Institut Paris, Frankreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/132790831</idno>
                 </person>
-                <person xml:id="person__kuechenhoff@stat.uni-muenchen.de">
+                <person ana="person__kuechenhoff@stat.uni-muenchen.de">
                     <persName>
                         <surname>Küchenhoff</surname>
                         <forename>Helmut</forename>
@@ -1259,7 +1259,7 @@
                     <affiliation ref="#org__80">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/170832171</idno>
                 </person>
-                <person xml:id="person__laubrock@uni-potsdam.de">
+                <person ana="person__laubrock@uni-potsdam.de">
                     <persName>
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
@@ -1267,49 +1267,49 @@
                     <affiliation ref="#org__127">Universität Potsdam, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/129736333</idno>
                 </person>
-                <person xml:id="person__geumbi.lee@stud.uni-goettingen.de">
+                <person ana="person__geumbi.lee@stud.uni-goettingen.de">
                     <persName>
                         <surname>Lee</surname>
                         <forename>Geumbi</forename>
                     </persName>
                     <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__P.Leinen@dnb.de">
+                <person ana="person__P.Leinen@dnb.de">
                     <persName>
                         <surname>Leinen</surname>
                         <forename>Peter</forename>
                     </persName>
                     <affiliation ref="#org__25">Deutsche Nationalbibliothek, Frankfurt a.M.</affiliation>
                 </person>
-                <person xml:id="person__frank.leymann@iaas.uni-stuttgart.de">
+                <person ana="person__frank.leymann@iaas.uni-stuttgart.de">
                     <persName>
                         <surname>Leymann</surname>
                         <forename>Frank</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__limbach@uni-mainz.de">
+                <person ana="person__limbach@uni-mainz.de">
                     <persName>
                         <surname>Limbach</surname>
                         <forename>Saskia</forename>
                     </persName>
                     <affiliation ref="#org__70">JGU Mainz, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__anne.lorenz@adwmainz.de">
+                <person ana="person__anne.lorenz@adwmainz.de">
                     <persName>
                         <surname>Lorenz</surname>
                         <forename>Anne Katrin</forename>
                     </persName>
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                 </person>
-                <person xml:id="person__andreas@loeffler-bermayer.de">
+                <person ana="person__andreas@loeffler-bermayer.de">
                     <persName>
                         <surname>Löffler</surname>
                         <forename>Andreas</forename>
                     </persName>
                     <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__mahmutovic@bbaw.de">
+                <person ana="person__mahmutovic@bbaw.de">
                     <persName>
                         <surname>Mahmutovic</surname>
                         <forename>Edin</forename>
@@ -1317,28 +1317,28 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__andreas.maier@fau.de">
+                <person ana="person__andreas.maier@fau.de">
                     <persName>
                         <surname>Maier</surname>
                         <forename>Andreas</forename>
                     </persName>
                     <affiliation ref="#org__41">FAU Erlangen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__info@opensemanticsearch.org">
+                <person ana="person__info@opensemanticsearch.org">
                     <persName>
                         <surname>Mandalka</surname>
                         <forename>Markus</forename>
                     </persName>
                     <affiliation>Freier Journalist und Informatiker, Berlin</affiliation>
                 </person>
-                <person xml:id="person__mandl@uni-hildesheim.de">
+                <person ana="person__mandl@uni-hildesheim.de">
                     <persName>
                         <surname>Mandl</surname>
                         <forename>Thomas</forename>
                     </persName>
                     <affiliation ref="#org__119">Universität Hildesheim, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__hubert.mara@iwr.uni-heidelberg.de">
+                <person ana="person__hubert.mara@iwr.uni-heidelberg.de">
                     <persName>
                         <surname>Mara</surname>
                         <forename>Hubert</forename>
@@ -1346,14 +1346,14 @@
                     <affiliation ref="#org__117">Universität Heidelberg, Interdisziplinäres Zentrum für
                         wissenschaftliches Rechnen, Heidelberg</affiliation>
                 </person>
-                <person xml:id="person__fechner@bbaw.de">
+                <person ana="person__fechner@bbaw.de">
                     <persName>
                         <surname>Fechner</surname>
                         <forename>Martin</forename>
                     </persName>
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                 </person>
-                <person xml:id="person__marx@bbaw.de">
+                <person ana="person__marx@bbaw.de">
                     <persName>
                         <surname>Marx</surname>
                         <forename>Michael</forename>
@@ -1361,7 +1361,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__bmathiak@uni-koeln.de">
+                <person ana="person__bmathiak@uni-koeln.de">
                     <persName>
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
@@ -1371,7 +1371,7 @@
                     <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1166177734</idno>
                 </person>
-                <person xml:id="person__goebel@sub.uni-goettingen.de">
+                <person ana="person__goebel@sub.uni-goettingen.de">
                     <persName>
                         <surname>Göbel</surname>
                         <forename>Mathias</forename>
@@ -1379,7 +1379,7 @@
                     <affiliation ref="#org__142">WU Wien</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/114506876</idno>
                 </person>
-                <person xml:id="person__maus@hab.de">
+                <person ana="person__maus@hab.de">
                     <persName>
                         <surname>Maus</surname>
                         <forename>David</forename>
@@ -1387,14 +1387,14 @@
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1141920794</idno>
                 </person>
-                <person xml:id="person__eva.mayr@donau-uni.ac.at">
+                <person ana="person__eva.mayr@donau-uni.ac.at">
                     <persName>
                         <surname>Mayr</surname>
                         <forename>Eva</forename>
                     </persName>
                     <affiliation ref="#org__29">Donau Universität Krems, Österreich</affiliation>
                 </person>
-                <person xml:id="person__mehler@em.uni-frankfurt.de">
+                <person ana="person__mehler@em.uni-frankfurt.de">
                     <persName>
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
@@ -1402,7 +1402,7 @@
                     <affiliation ref="#org__47">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/123141729</idno>
                 </person>
-                <person xml:id="person__jan-c-meister@uni-hamburg.de">
+                <person ana="person__jan-c-meister@uni-hamburg.de">
                     <persName>
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
@@ -1410,7 +1410,7 @@
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/136748015</idno>
                 </person>
-                <person xml:id="person__cordula.meissner@uni-leipzig.de">
+                <person ana="person__cordula.meissner@uni-leipzig.de">
                     <persName>
                         <surname>Meißner</surname>
                         <forename>Cordula</forename>
@@ -1418,14 +1418,14 @@
                     <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1062588517</idno>
                 </person>
-                <person xml:id="person__menke@maxweberstiftung.de">
+                <person ana="person__menke@maxweberstiftung.de">
                     <persName>
                         <surname>Menke</surname>
                         <forename>Ulla</forename>
                     </persName>
                     <affiliation ref="#org__84">Max Weber Stiftung</affiliation>
                 </person>
-                <person xml:id="person__mlmerten@mail.upb.de">
+                <person ana="person__mlmerten@mail.upb.de">
                     <persName>
                         <surname>Merten</surname>
                         <forename>Marie-Luis</forename>
@@ -1433,7 +1433,7 @@
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1160331545</idno>
                 </person>
-                <person xml:id="person__heike.messemer@uni-wuerzburg.de">
+                <person ana="person__heike.messemer@uni-wuerzburg.de">
                     <persName>
                         <surname>Messemer</surname>
                         <forename>Heike</forename>
@@ -1441,7 +1441,7 @@
                     <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1015167330</idno>
                 </person>
-                <person xml:id="person__katja.metzmacher@uni-koeln.de">
+                <person ana="person__katja.metzmacher@uni-koeln.de">
                     <persName>
                         <surname>Metzmacher</surname>
                         <forename>Katja</forename>
@@ -1449,28 +1449,28 @@
                     <affiliation ref="#org__24">Data Center for the Humanities (DCH), Universität zu Köln,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__meyer@ids-mannheim.de">
+                <person ana="person__meyer@ids-mannheim.de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Peter</forename>
                     </persName>
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__nils.meyer@la-bw.de">
+                <person ana="person__nils.meyer@la-bw.de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Nils</forename>
                     </persName>
                     <affiliation ref="#org__77">Landesarchiv Baden-Württemberg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__Selina.Meyer@stud.uni-regensburg.de">
+                <person ana="person__Selina.Meyer@stud.uni-regensburg.de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Selina</forename>
                     </persName>
                     <affiliation ref="#org__128">Universität Regensburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__mittelberg@humtec.rwth-aachen.de">
+                <person ana="person__mittelberg@humtec.rwth-aachen.de">
                     <persName>
                         <surname>Mittelberg</surname>
                         <forename>Irene</forename>
@@ -1478,7 +1478,7 @@
                     <affiliation ref="#org__90">RWTH Aachen, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1130849619</idno>
                 </person>
-                <person xml:id="person__katrin.moeller@geschichte.uni-halle.de">
+                <person ana="person__katrin.moeller@geschichte.uni-halle.de">
                     <persName>
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
@@ -1487,28 +1487,28 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/133366367</idno>
                 </person>
-                <person xml:id="person__moisich@gmail.com">
+                <person ana="person__moisich@gmail.com">
                     <persName>
                         <surname>Moisich</surname>
                         <forename>Oliver</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__johannes.molz@googlemail.com">
+                <person ana="person__johannes.molz@googlemail.com">
                     <persName>
                         <surname>Molz</surname>
                         <forename>Johannes</forename>
                     </persName>
                     <affiliation ref="#org__80">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__s.mukhametov@gmail.com">
+                <person ana="person__s.mukhametov@gmail.com">
                     <persName>
                         <surname>Mukhametov</surname>
                         <forename>Sergey</forename>
                     </persName>
                     <affiliation ref="#org__65">Institut für Geoinformatik, WWU Münster, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__klaus-peter.moeller@uni-potsdam.de">
+                <person ana="person__klaus-peter.moeller@uni-potsdam.de">
                     <persName>
                         <surname>Möller</surname>
                         <forename>Klaus-Peter</forename>
@@ -1517,14 +1517,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/123212537</idno>
                 </person>
-                <person xml:id="person__peter.muehleder@uni-leipzig.de">
+                <person ana="person__peter.muehleder@uni-leipzig.de">
                     <persName>
                         <surname>Mühleder</surname>
                         <forename>Peter</forename>
                     </persName>
                     <affiliation ref="#org__139">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__anderas.mueller@geschichte.uni-halle.de">
+                <person ana="person__anderas.mueller@geschichte.uni-halle.de">
                     <persName>
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
@@ -1532,21 +1532,21 @@
                     <affiliation ref="#org__82">Martin-Luther-Universität Halle-Wittenberg,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__andreas.mueller@geschichte.uni-halle.de">
+                <person ana="person__andreas.mueller@geschichte.uni-halle.de">
                     <persName>
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
                     <affiliation ref="#org__82">MLU Halle/Wittenberg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__lea.mueller-dannhausen@gmx.de">
+                <person ana="person__lea.mueller-dannhausen@gmx.de">
                     <persName>
                         <surname>Müller-Dannhausen</surname>
                         <forename>Lea</forename>
                     </persName>
                     <affiliation ref="#org__70">Johannes Gutenberg-Universität Mainz</affiliation>
                 </person>
-                <person xml:id="person__jonas.mueller-laackman@bbaw.de">
+                <person ana="person__jonas.mueller-laackman@bbaw.de">
                     <persName>
                         <surname>Müller-Laackman</surname>
                         <forename>Jonas</forename>
@@ -1554,21 +1554,21 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sander.muenster@tu-dresden.de">
+                <person ana="person__sander.muenster@tu-dresden.de">
                     <persName>
                         <surname>Münster</surname>
                         <forename>Sander</forename>
                     </persName>
                     <affiliation ref="#org__104">Technische Universität Dresden, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__nantke@uni-wuppertal.de">
+                <person ana="person__nantke@uni-wuppertal.de">
                     <persName>
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
                     </persName>
                     <affiliation ref="#org__9">Bergische Universität Wuppertal, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__robert.nasarek@geschichte.uni-halle.de">
+                <person ana="person__robert.nasarek@geschichte.uni-halle.de">
                     <persName>
                         <surname>Nasarek</surname>
                         <forename>Robert</forename>
@@ -1576,7 +1576,7 @@
                     <affiliation ref="#org__82">Martin-Luther-Universität Halle-Wittenberg,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__neuber@bbaw.de">
+                <person ana="person__neuber@bbaw.de">
                     <persName>
                         <surname>Neuber</surname>
                         <forename>Frederike</forename>
@@ -1584,7 +1584,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__c.neuefeind@uni-koeln.de">
+                <person ana="person__c.neuefeind@uni-koeln.de">
                     <persName>
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
@@ -1592,42 +1592,42 @@
                     <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/132144468</idno>
                 </person>
-                <person xml:id="person__neumann@maxweberstiftung.de">
+                <person ana="person__neumann@maxweberstiftung.de">
                     <persName>
                         <surname>Neumann</surname>
                         <forename>Katrin</forename>
                     </persName>
                     <affiliation ref="#org__84">Max Weber Stiftung</affiliation>
                 </person>
-                <person xml:id="person__neuroth@fh-potsdam.de">
+                <person ana="person__neuroth@fh-potsdam.de">
                     <persName>
                         <surname>Neuroth</surname>
                         <forename>Heike</forename>
                     </persName>
                     <affiliation ref="#org__32">FH Potsdam, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__florian.niebling@uni-wuerzburg.de">
+                <person ana="person__florian.niebling@uni-wuerzburg.de">
                     <persName>
                         <surname>Niebling</surname>
                         <forename>Florian</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sofia.oliveiraares@epfl.ch">
+                <person ana="person__sofia.oliveiraares@epfl.ch">
                     <persName>
                         <surname>Oliveira Ares</surname>
                         <forename>Sofia</forename>
                     </persName>
                     <affiliation ref="#org__28">Digital Humanities Lab, EPF Lausanne</affiliation>
                 </person>
-                <person xml:id="person__janis.pagel@ims.uni-stuttgart.de">
+                <person ana="person__janis.pagel@ims.uni-stuttgart.de">
                     <persName>
                         <surname>Pagel</surname>
                         <forename>Janis</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__cord.pagenstecher@cedis.fu-berlin.de">
+                <person ana="person__cord.pagenstecher@cedis.fu-berlin.de">
                     <persName>
                         <surname>Pagenstecher</surname>
                         <forename>Cord</forename>
@@ -1635,14 +1635,14 @@
                     <affiliation ref="#org__38">Freie Universität Berlin, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/171554779</idno>
                 </person>
-                <person xml:id="person__parlitz@hab.de">
+                <person ana="person__parlitz@hab.de">
                     <persName>
                         <surname>Parlitz</surname>
                         <forename>Dietrich</forename>
                     </persName>
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__aaron.pattee@iwr.uni-heidelberg.de">
+                <person ana="person__aaron.pattee@iwr.uni-heidelberg.de">
                     <persName>
                         <surname>Pattee</surname>
                         <forename>Aaron</forename>
@@ -1650,14 +1650,14 @@
                     <affiliation ref="#org__93">Ruprecht-Karls-Universität, Heidelberg</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1118528484</idno>
                 </person>
-                <person xml:id="person__johannes.pause@uni.lu">
+                <person ana="person__johannes.pause@uni.lu">
                     <persName>
                         <surname>Pause</surname>
                         <forename>Johannes</forename>
                     </persName>
                     <affiliation ref="#org__122">Universität Luxemburg</affiliation>
                 </person>
-                <person xml:id="person__trilcke@uni-potsdam.de">
+                <person ana="person__trilcke@uni-potsdam.de">
                     <persName>
                         <surname>Peer</surname>
                         <forename>Trilcke</forename>
@@ -1665,21 +1665,21 @@
                     <affiliation ref="#org__127">Universität Potsdam</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/139145117</idno>
                 </person>
-                <person xml:id="person__dana.persch@uni-koeln.de">
+                <person ana="person__dana.persch@uni-koeln.de">
                     <persName>
                         <surname>Persch</surname>
                         <forename>Dana</forename>
                     </persName>
-                    <affiliation rype="#org__138">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__marco.petris@uni-hamburg.de">
+                <person ana="person__marco.petris@uni-hamburg.de">
                     <persName>
                         <surname>Petris</surname>
                         <forename>Marco</forename>
                     </persName>
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__pielstroem@biozentrum.uni-wuerzburg.de">
+                <person ana="person__pielstroem@biozentrum.uni-wuerzburg.de">
                     <persName>
                         <surname>Pielström</surname>
                         <forename>Steffen</forename>
@@ -1687,7 +1687,7 @@
                     <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1038678129</idno>
                 </person>
-                <person xml:id="person__opohl@bbaw.de">
+                <person ana="person__opohl@bbaw.de">
                     <persName>
                         <surname>Pohl</surname>
                         <forename>Oliver</forename>
@@ -1695,7 +1695,7 @@
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__cprager@uni-bonn.de">
+                <person ana="person__cprager@uni-bonn.de">
                     <persName>
                         <surname>Prager</surname>
                         <forename>Christian</forename>
@@ -1704,7 +1704,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/139962859</idno>
                 </person>
-                <person xml:id="person__dpravida@goethehaus-frankfurt.de">
+                <person ana="person__dpravida@goethehaus-frankfurt.de">
                     <persName>
                         <surname>Pravida</surname>
                         <forename>Dietmar</forename>
@@ -1712,7 +1712,7 @@
                     <affiliation ref="#org__40">Freies Deutsches Hochstift / Frankfurter
                         Goethe-Museum</affiliation>
                 </person>
-                <person xml:id="person__martin.prell@uni-jena.de">
+                <person ana="person__martin.prell@uni-jena.de">
                     <persName>
                         <surname>Prell</surname>
                         <forename>Martin</forename>
@@ -1720,7 +1720,7 @@
                     <affiliation ref="#org__42">Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1133022898</idno>
                 </person>
-                <person xml:id="person__thomas.proisl@fau.de">
+                <person ana="person__thomas.proisl@fau.de">
                     <persName>
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
@@ -1729,7 +1729,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1139667327</idno>
                 </person>
-                <person xml:id="person__frank.puppe@uni-wuerzburg.de">
+                <person ana="person__frank.puppe@uni-wuerzburg.de">
                     <persName>
                         <surname>Puppe</surname>
                         <forename>Frank</forename>
@@ -1739,7 +1739,7 @@
                         Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/17410085X</idno>
                 </person>
-                <person xml:id="person__anne.purschwitz@geschichte.uni-halle.de">
+                <person ana="person__anne.purschwitz@geschichte.uni-halle.de">
                     <persName>
                         <surname>Purschwitz</surname>
                         <forename>Anne</forename>
@@ -1748,14 +1748,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1164169327</idno>
                 </person>
-                <person xml:id="person__erik.radisch@uni-passau.de">
+                <person ana="person__erik.radisch@uni-passau.de">
                     <persName>
                         <surname>Radisch</surname>
                         <forename>Erik</forename>
                     </persName>
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__frau@uni-koeln.de">
+                <person ana="person__frau@uni-koeln.de">
                     <persName>
                         <surname>Rau</surname>
                         <forename>Felix</forename>
@@ -1764,14 +1764,14 @@
                     <affiliation ref="#org__24">Data Center for the Humanities, Universität zu Köln,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__malte.rehbein@uni-passau.de">
+                <person ana="person__malte.rehbein@uni-passau.de">
                     <persName>
                         <surname>Rehbein</surname>
                         <forename>Malte</forename>
                     </persName>
                     <affiliation ref="#org__125">Universität Passau, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__nils.reiter@ims.uni-stuttgart.de">
+                <person ana="person__nils.reiter@ims.uni-stuttgart.de">
                     <persName>
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
@@ -1779,7 +1779,7 @@
                     <affiliation ref="#org__132">Universität Stuttgart</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1020288329</idno>
                 </person>
-                <person xml:id="person__remus@informatik.uni-hamburg.de">
+                <person ana="person__remus@informatik.uni-hamburg.de">
                     <persName>
                         <surname>Remus</surname>
                         <forename>Steffen</forename>
@@ -1787,7 +1787,7 @@
                     <affiliation ref="#org__78">Language Technology Group, Universität Hamburg,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__klaus.rettinghaus@gmail.com">
+                <person ana="person__klaus.rettinghaus@gmail.com">
                     <persName>
                         <surname>Rettinghaus</surname>
                         <forename>Klaus</forename>
@@ -1796,14 +1796,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/140541624</idno>
                 </person>
-                <person xml:id="person__christian.reul@uni-wuerzburg.de">
+                <person ana="person__christian.reul@uni-wuerzburg.de">
                     <persName>
                         <surname>Reul</surname>
                         <forename>Christian</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__david.rittershaus@hs-mainz.de">
+                <person ana="person__david.rittershaus@hs-mainz.de">
                     <persName>
                         <surname>Rittershaus</surname>
                         <forename>David</forename>
@@ -1811,7 +1811,7 @@
                     <affiliation ref="#org__55">Hochschule Mainz - University of Applied Sciences,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__annika.rockenberger@nb.no">
+                <person ana="person__annika.rockenberger@nb.no">
                     <persName>
                         <surname>Rockenberger</surname>
                         <forename>Annika</forename>
@@ -1819,28 +1819,28 @@
                     <affiliation ref="#org__86">Nasjonalbiblioteket, Oslo, Norwegen</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/2165809-2</idno>
                 </person>
-                <person xml:id="person__raemisch@ub.uni-leipzig.de">
+                <person ana="person__raemisch@ub.uni-leipzig.de">
                     <persName>
                         <surname>Rämisch</surname>
                         <forename>Florian</forename>
                     </persName>
                     <affiliation ref="#org__139">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__i.roehrer@campus.lmu.de">
+                <person ana="person__i.roehrer@campus.lmu.de">
                     <persName>
                         <surname>Röhrer</surname>
                         <forename>Ines</forename>
                     </persName>
                     <affiliation ref="#org__80">LMU München, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__roessel@hab.de">
+                <person ana="person__roessel@hab.de">
                     <persName>
                         <surname>Rössel</surname>
                         <forename>Julia</forename>
                     </persName>
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sahle@uni-koeln.de">
+                <person ana="person__sahle@uni-koeln.de">
                     <persName>
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
@@ -1850,7 +1850,7 @@
                         Köln</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1034443909</idno>
                 </person>
-                <person xml:id="person__m.schaeben@uni-koeln.de">
+                <person ana="person__m.schaeben@uni-koeln.de">
                     <persName>
                         <surname>Schaeben</surname>
                         <forename>Marcel</forename>
@@ -1858,7 +1858,7 @@
                     <affiliation ref="#org__19">Cologne Center for eHumanities (CCeH), Universität zu Köln,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__schassan@hab.de">
+                <person ana="person__schassan@hab.de">
                     <persName>
                         <surname>Schaßan</surname>
                         <forename>Torsten</forename>
@@ -1866,28 +1866,28 @@
                     <affiliation ref="#org__53">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1027794041</idno>
                 </person>
-                <person xml:id="person__magdalenascherl@gmail.com">
+                <person ana="person__magdalenascherl@gmail.com">
                     <persName>
                         <surname>Scherl</surname>
                         <forename>Magdalena</forename>
                     </persName>
                     <affiliation ref="#org__55">Hochschule Mainz, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__philip.schildkamp@uni-koeln.de">
+                <person ana="person__philip.schildkamp@uni-koeln.de">
                     <persName>
                         <surname>Schildkamp</surname>
                         <forename>Philip</forename>
                     </persName>
                     <affiliation ref="#org__138">Universität zu Köln, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__schlupko@uni-wuppertal.de">
+                <person ana="person__schlupko@uni-wuppertal.de">
                     <persName>
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
                     </persName>
                     <affiliation ref="#org__9">Bergische Universität Wuppertal, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__matthias.schloegl@oeaw.ac.at">
+                <person ana="person__matthias.schloegl@oeaw.ac.at">
                     <persName>
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
@@ -1896,14 +1896,14 @@
                         Österreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1154715620</idno>
                 </person>
-                <person xml:id="person__daniel.schloer@informatik.uni-wuerzburg.de">
+                <person ana="person__daniel.schloer@informatik.uni-wuerzburg.de">
                     <persName>
                         <surname>Schlör</surname>
                         <forename>Daniel</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sebastian.schmideler@uni-leipzig.de">
+                <person ana="person__sebastian.schmideler@uni-leipzig.de">
                     <persName>
                         <surname>Schmideler</surname>
                         <forename>Sebastian</forename>
@@ -1911,35 +1911,35 @@
                     <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/143790110</idno>
                 </person>
-                <person xml:id="person__timo.schmidt2@student.kit.edu">
+                <person ana="person__timo.schmidt2@student.kit.edu">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Timo</forename>
                     </persName>
                     <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__thomas.schmidt@ids-mannheim.de">
+                <person ana="person__thomas.schmidt@ids-mannheim.de">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
                     </persName>
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__Stephanie.Schmidbauer@stud.uni-regensburg.de">
+                <person ana="person__Stephanie.Schmidbauer@stud.uni-regensburg.de">
                     <persName>
                         <surname>Schmidtbauer</surname>
                         <forename>Stephanie</forename>
                     </persName>
                     <affiliation ref="#org__128">Universität Regensburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__stefanie.schneider@itg.uni-muenchen.de">
+                <person ana="person__stefanie.schneider@itg.uni-muenchen.de">
                     <persName>
                         <surname>Schneider</surname>
                         <forename>Stefanie</forename>
                     </persName>
                     <affiliation ref="#org__80">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__schnoepf@i-d-e.de">
+                <person ana="person__schnoepf@i-d-e.de">
                     <persName>
                         <surname>Schnöpf</surname>
                         <forename>Markus</forename>
@@ -1947,7 +1947,7 @@
                     <affiliation ref="#org__63">Institut für Dokumentologie und Editorik (IDE)</affiliation>
                     <affiliation ref="#org__12">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                 </person>
-                <person xml:id="person__martina.scholger@uni-graz.at">
+                <person ana="person__martina.scholger@uni-graz.at">
                     <persName>
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
@@ -1955,7 +1955,7 @@
                     <affiliation ref="#org__63">Institut für Dokumentologie und Editorik (IDE)</affiliation>
                     <affiliation ref="#org__74">Karl-Franzens-Universität Graz</affiliation>
                 </person>
-                <person xml:id="person__torsten.schrade@adwmainz.de">
+                <person ana="person__torsten.schrade@adwmainz.de">
                     <persName>
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
@@ -1964,14 +1964,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1037253043</idno>
                 </person>
-                <person xml:id="person__guenther.schreder@donau-uni.ac.at">
+                <person ana="person__guenther.schreder@donau-uni.ac.at">
                     <persName>
                         <surname>Schreder</surname>
                         <forename>Günther</forename>
                     </persName>
                     <affiliation ref="#org__29">Donau Universität Krems, Österreich</affiliation>
                 </person>
-                <person xml:id="person__julian.schulz@lmu.de">
+                <person ana="person__julian.schulz@lmu.de">
                     <persName>
                         <surname>Schulz</surname>
                         <forename>Julian</forename>
@@ -1979,7 +1979,7 @@
                     <affiliation ref="#org__80">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1161130233</idno>
                 </person>
-                <person xml:id="person__mareike.schumacher@uni-hamburg.de">
+                <person ana="person__mareike.schumacher@uni-hamburg.de">
                     <persName>
                         <surname>Schumacher</surname>
                         <forename>Mareike</forename>
@@ -1987,28 +1987,28 @@
                     <affiliation ref="#org__116">Universität Hamburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1111654344</idno>
                 </person>
-                <person xml:id="person__florin.schwappach@ur.de">
+                <person ana="person__florin.schwappach@ur.de">
                     <persName>
                         <surname>Schwappach</surname>
                         <forename>Florin</forename>
                     </persName>
                     <affiliation ref="#org__128">Universität Regensburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__schueller@humtec.rwth-aachen.de">
+                <person ana="person__schueller@humtec.rwth-aachen.de">
                     <persName>
                         <surname>Schüller</surname>
                         <forename>Daniel</forename>
                     </persName>
                     <affiliation ref="#org__90">RWTH Aachen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__nina.seemann@upb.de">
+                <person ana="person__nina.seemann@upb.de">
                     <persName>
                         <surname>Seemann</surname>
                         <forename>Nina</forename>
                     </persName>
                     <affiliation ref="#org__124">Universität Paderborn, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__chiara.seidl0510@gmail.com">
+                <person ana="person__chiara.seidl0510@gmail.com">
                     <persName>
                         <surname>Seidl</surname>
                         <forename>Chiara</forename>
@@ -2017,7 +2017,7 @@
                     <affiliation ref="#org__41">FAU Erlangen-Nürnberg,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sabine.seifert@uni-potsdam.de">
+                <person ana="person__sabine.seifert@uni-potsdam.de">
                     <persName>
                         <surname>Seifert</surname>
                         <forename>Sabine</forename>
@@ -2025,28 +2025,28 @@
                     <affiliation ref="#org__106">Theodor-Fontane-Archiv, Universität Potsdam,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__melanie.seltmann@univie.ac.at">
+                <person ana="person__melanie.seltmann@univie.ac.at">
                     <persName>
                         <surname>Seltmann</surname>
                         <forename>Melanie E.-H.</forename>
                     </persName>
                     <affiliation ref="#org__134">Universität Wien, Österreich</affiliation>
                 </person>
-                <person xml:id="person__mathias.seuret@fau.de">
+                <person ana="person__mathias.seuret@fau.de">
                     <persName>
                         <surname>Seuret</surname>
                         <forename>Mathias</forename>
                     </persName>
                     <affiliation ref="#org__41">FAU Erlangen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__severin.simmler@stud-mail.uni-wuerzburg.de">
+                <person ana="person__severin.simmler@stud-mail.uni-wuerzburg.de">
                     <persName>
                         <surname>Severin</surname>
                         <forename>Simmler</forename>
                     </persName>
                     <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sikora@sub.uni-goettingen.de">
+                <person ana="person__sikora@sub.uni-goettingen.de">
                     <persName>
                         <surname>Sikora</surname>
                         <forename>Uwe</forename>
@@ -2055,28 +2055,28 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1155094360</idno>
                 </person>
-                <person xml:id="person__s2717197@stud.uni-frankfurt.de">
+                <person ana="person__s2717197@stud.uni-frankfurt.de">
                     <persName>
                         <surname>Spiekermann</surname>
                         <forename>Christian</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe Universität Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__csporled@gwdg.de">
+                <person ana="person__csporled@gwdg.de">
                     <persName>
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
                     <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__uwe@springmann.net">
+                <person ana="person__uwe@springmann.net">
                     <persName>
                         <surname>Springmann</surname>
                         <forename>Uwe</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__thomas.staecker@ulb.tu-darmstadt.de">
+                <person ana="person__thomas.staecker@ulb.tu-darmstadt.de">
                     <persName>
                         <surname>Staecker</surname>
                         <forename>Thomas</forename>
@@ -2084,7 +2084,7 @@
                     <affiliation ref="#org__107">ULB Darmstadt, Deutschland</affiliation>
                     <idno type="URL">http://orcid.org/0000-0002-1509-6960</idno>
                 </person>
-                <person xml:id="person__steyer@hab.de">
+                <person ana="person__steyer@hab.de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
@@ -2095,7 +2095,7 @@
                         Bibliothek Wolfenbüttel</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1053806175</idno>
                 </person>
-                <person xml:id="person__tobias.strauss@uni-rostock.de">
+                <person ana="person__tobias.strauss@uni-rostock.de">
                     <persName>
                         <surname>Strauß</surname>
                         <forename>Tobias</forename>
@@ -2103,7 +2103,7 @@
                     <affiliation ref="#org__18">Universität Rostock CITLab</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1136294554</idno>
                 </person>
-                <person xml:id="person__martin.stuber@hist.unibe.ch">
+                <person ana="person__martin.stuber@hist.unibe.ch">
                     <persName>
                         <surname>Stuber</surname>
                         <forename>Martin</forename>
@@ -2111,7 +2111,7 @@
                     <affiliation ref="#org__109">Universität Bern, Schweiz</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1063318475</idno>
                 </person>
-                <person xml:id="person__ssoering@cedis.fu-berlin.de">
+                <person ana="person__ssoering@cedis.fu-berlin.de">
                     <persName>
                         <surname>Söring</surname>
                         <forename>Sibylle</forename>
@@ -2119,7 +2119,7 @@
                     <affiliation ref="#org__15">Center für Digitale Systeme</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1111528799</idno>
                 </person>
-                <person xml:id="person__martin.thiering@campus.tu-berlin.de">
+                <person ana="person__martin.thiering@campus.tu-berlin.de">
                     <persName>
                         <surname>Thiering</surname>
                         <forename>Martin</forename>
@@ -2129,7 +2129,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1057925225</idno>
                 </person>
-                <person xml:id="person__thorsten.vitt@uni-wuerzburg.de">
+                <person ana="person__thorsten.vitt@uni-wuerzburg.de">
                     <persName>
                         <surname>Vitt</surname>
                         <forename>Thorsten</forename>
@@ -2137,7 +2137,7 @@
                     <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1139665731</idno>
                 </person>
-                <person xml:id="person__tolle@dbis.cs.uni-frankfurt.de">
+                <person ana="person__tolle@dbis.cs.uni-frankfurt.de">
                     <persName>
                         <surname>Tolle</surname>
                         <forename>Karsten</forename>
@@ -2145,7 +2145,7 @@
                     <affiliation ref="#org__47">Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/131793543</idno>
                 </person>
-                <person xml:id="person__danah.tonne@kit.edu">
+                <person ana="person__danah.tonne@kit.edu">
                     <persName>
                         <surname>Tonne</surname>
                         <forename>Danah</forename>
@@ -2153,14 +2153,14 @@
                     <affiliation ref="#org__75">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1083284215</idno>
                 </person>
-                <person xml:id="person__toscano-r@outlook.de">
+                <person ana="person__toscano-r@outlook.de">
                     <persName>
                         <surname>Toscano</surname>
                         <forename>Roberta</forename>
                     </persName>
                     <affiliation ref="#org__132">Universität Stuttgart, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__patrick.toschka@adwmainz.de">
+                <person ana="person__patrick.toschka@adwmainz.de">
                     <persName>
                         <surname>Toschka</surname>
                         <forename>Patrick</forename>
@@ -2168,7 +2168,7 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__marjam.trautmann@adwmainz.de">
+                <person ana="person__marjam.trautmann@adwmainz.de">
                     <persName>
                         <surname>Trautmann</surname>
                         <forename>Marjam</forename>
@@ -2176,7 +2176,7 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/117383284X</idno>
                 </person>
-                <person xml:id="person__trilcke@uni-potsdam.de">
+                <person ana="person__trilcke@uni-potsdam.de">
                     <persName>
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
@@ -2185,14 +2185,14 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/139145117</idno>
                 </person>
-                <person xml:id="person__tu@ids-mannheim.de">
+                <person ana="person__tu@ids-mannheim.de">
                     <persName>
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
                     </persName>
                     <affiliation ref="#org__60">Institut für Deutsche Sprache, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__enes.tuerkoglu@uni-koeln.de">
+                <person ana="person__enes.tuerkoglu@uni-koeln.de">
                     <persName>
                         <surname>Türkoglu</surname>
                         <forename>Enes</forename>
@@ -2200,7 +2200,7 @@
                     <affiliation ref="#org__20">Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung
                         der Universität zu Köln</affiliation>
                 </person>
-                <person xml:id="person__peter.uhrig@uos.de">
+                <person ana="person__peter.uhrig@uos.de">
                     <persName>
                         <surname>Uhrig</surname>
                         <forename>Peter</forename>
@@ -2208,35 +2208,35 @@
                     <affiliation ref="#org__123">Universität Osnabrück, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1161612807</idno>
                 </person>
-                <person xml:id="person__sabine.ullrich@campus.lmu.de">
+                <person ana="person__sabine.ullrich@campus.lmu.de">
                     <persName>
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
                     </persName>
                     <affiliation ref="#org__80">LMU München, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__martin.unold@gmail.com">
+                <person ana="person__martin.unold@gmail.com">
                     <persName>
                         <surname>Unold</surname>
                         <forename>Martin</forename>
                     </persName>
                     <affiliation ref="#org__55">Hochschule Mainz, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__uslu@em.uni-frankfurt.de">
+                <person ana="person__uslu@em.uni-frankfurt.de">
                     <persName>
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
                     </persName>
                     <affiliation ref="#org__47">Goethe-Universität Frankfurt, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__hanna.varachkina@stud.uni-goettingen.de">
+                <person ana="person__hanna.varachkina@stud.uni-goettingen.de">
                     <persName>
                         <surname>Varachkina</surname>
                         <forename>Hanna</forename>
                     </persName>
                     <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__gunter.vasold@uni-graz.at">
+                <person ana="person__gunter.vasold@uni-graz.at">
                     <persName>
                         <surname>Vasold</surname>
                         <forename>Gunter</forename>
@@ -2244,21 +2244,21 @@
                     <affiliation ref="#org__74">Universität Graz, Österreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/115310614</idno>
                 </person>
-                <person xml:id="person__michael.vauth@tuhh.de">
+                <person ana="person__michael.vauth@tuhh.de">
                     <persName>
                         <surname>Vauth</surname>
                         <forename>Michael</forename>
                     </persName>
                     <affiliation ref="#org__105">Technische Universität Hamburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__blerta.veseli@stud-mail.uni-wuerzburg.de">
+                <person ana="person__blerta.veseli@stud-mail.uni-wuerzburg.de">
                     <persName>
                         <surname>Veseli</surname>
                         <forename>Blerta</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__georg.vogeler@uni-graz.at">
+                <person ana="person__georg.vogeler@uni-graz.at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
@@ -2266,7 +2266,7 @@
                     <affiliation ref="#org__74">Universität Graz, Österreich</affiliation>
                     <affiliation ref="#org__63">Institut für Dokumentologie und Editorik (IDE)</affiliation>
                 </person>
-                <person xml:id="person__armin.volkmann@asia-europe.uni-heidelberg.de">
+                <person ana="person__armin.volkmann@asia-europe.uni-heidelberg.de">
                     <persName>
                         <surname>Volkmann</surname>
                         <forename>Armin</forename>
@@ -2274,14 +2274,14 @@
                     <affiliation ref="#org__99">Stiftung Preußischer Kulturbesitz, Berlin</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/132343622</idno>
                 </person>
-                <person xml:id="person__christian.wachter@stud.uni-goettingen.de">
+                <person ana="person__christian.wachter@stud.uni-goettingen.de">
                     <persName>
                         <surname>Wachter</surname>
                         <forename>Christian</forename>
                     </persName>
                     <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__wagner@rg.mpg.de">
+                <person ana="person__wagner@rg.mpg.de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Andreas</forename>
@@ -2289,7 +2289,7 @@
                     <affiliation ref="#org__85">Max-Planck-Institut für europäische Rechtsgeschichte,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__ewagner@uni-bonn.de">
+                <person ana="person__ewagner@uni-bonn.de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
@@ -2298,7 +2298,7 @@
                         Altamerikanistik, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1124546839</idno>
                 </person>
-                <person xml:id="person__walkowski@nowalkowski.de">
+                <person ana="person__walkowski@nowalkowski.de">
                     <persName>
                         <surname>Walkowski</surname>
                         <forename>Niels-Oliver</forename>
@@ -2306,7 +2306,7 @@
                     <affiliation>unabhängiger Wissenschaftler</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1023378671</idno>
                 </person>
-                <person xml:id="person__f.wallner@rz.uni-leipzig.de">
+                <person ana="person__f.wallner@rz.uni-leipzig.de">
                     <persName>
                         <surname>Wallner</surname>
                         <forename>Franziska</forename>
@@ -2314,14 +2314,14 @@
                     <affiliation ref="#org__121">Universität Leipzig, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1151359483</idno>
                 </person>
-                <person xml:id="person__lino.wehrheim@ur.de">
+                <person ana="person__lino.wehrheim@ur.de">
                     <persName>
                         <surname>Wehrheim</surname>
                         <forename>Lino</forename>
                     </persName>
                     <affiliation ref="#org__128">Universität Regensburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__weichsel@uni-mainz.de">
+                <person ana="person__weichsel@uni-mainz.de">
                     <persName>
                         <surname>Weichselbaumer</surname>
                         <forename>Nikolaus</forename>
@@ -2329,7 +2329,7 @@
                     <affiliation ref="#org__70">JGU Mainz, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/142623571</idno>
                 </person>
-                <person xml:id="person__max.weidemann@uni-rostock.de">
+                <person ana="person__max.weidemann@uni-rostock.de">
                     <persName>
                         <surname>Weidemann</surname>
                         <forename>Max</forename>
@@ -2337,7 +2337,7 @@
                     <affiliation ref="#org__18">Citlab, Universität Rostock</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1050572076</idno>
                 </person>
-                <person xml:id="person__lukas.weimer@uni-wuerzburg.de">
+                <person ana="person__lukas.weimer@uni-wuerzburg.de">
                     <persName>
                         <surname>Weimer</surname>
                         <forename>Lukas</forename>
@@ -2347,7 +2347,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1124824774</idno>
                 </person>
-                <person xml:id="person__jwettla@gwdg.de">
+                <person ana="person__jwettla@gwdg.de">
                     <persName>
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
@@ -2355,14 +2355,14 @@
                     <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/121084280</idno>
                 </person>
-                <person xml:id="person__christoph.wick@uni-wuerzburg.de">
+                <person ana="person__christoph.wick@uni-wuerzburg.de">
                     <persName>
                         <surname>Wick</surname>
                         <forename>Christoph</forename>
                     </persName>
                     <affiliation ref="#org__73">Universität Würzburg, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__david.wigg-wolf@dainst.de">
+                <person ana="person__david.wigg-wolf@dainst.de">
                     <persName>
                         <surname>Wigg-Wolf</surname>
                         <forename>David</forename>
@@ -2371,7 +2371,7 @@
                         Instituts</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/131383663</idno>
                 </person>
-                <person xml:id="person__marcus.willand@gs.uni-heidelberg.de">
+                <person ana="person__marcus.willand@gs.uni-heidelberg.de">
                     <persName>
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
@@ -2380,7 +2380,7 @@
                     <affiliation ref="#org__132">Universität Stuttgart</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1050009495</idno>
                 </person>
-                <person xml:id="person__florian.windhager@donau-uni.ac.at">
+                <person ana="person__florian.windhager@donau-uni.ac.at">
                     <persName>
                         <surname>Windhager</surname>
                         <forename>Florian</forename>
@@ -2388,7 +2388,7 @@
                     <affiliation ref="#org__29">Donau Universität Krems, Österreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/136298818</idno>
                 </person>
-                <person xml:id="person__wissenbach@faustedition.de">
+                <person ana="person__wissenbach@faustedition.de">
                     <persName>
                         <surname>Wissenbach</surname>
                         <forename>Moritz</forename>
@@ -2396,14 +2396,14 @@
                     <affiliation ref="#org__73">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1102868507</idno>
                 </person>
-                <person xml:id="person__jane.wottawa@univ-lemans.fr">
+                <person ana="person__jane.wottawa@univ-lemans.fr">
                     <persName>
                         <surname>Wottawa</surname>
                         <forename>Jane</forename>
                     </persName>
                     <affiliation ref="#org__79">Le Mans Université, Frankreich</affiliation>
                 </person>
-                <person xml:id="person__wuttke@fh-potsdam.de">
+                <person ana="person__wuttke@fh-potsdam.de">
                     <persName>
                         <surname>Wuttke</surname>
                         <forename>Ulrike</forename>
@@ -2411,7 +2411,7 @@
                     <affiliation ref="#org__32">FH Potsdam, Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/1107808405</idno>
                 </person>
-                <person xml:id="person__kai.woerner@uni-hamburg.de">
+                <person ana="person__kai.woerner@uni-hamburg.de">
                     <persName>
                         <surname>Wörner</surname>
                         <forename>Kai</forename>
@@ -2420,7 +2420,7 @@
                         Deutschland</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/120935570</idno>
                 </person>
-                <person xml:id="person__wuebbena@kunst.uni-frankfurt.de">
+                <person ana="person__wuebbena@kunst.uni-frankfurt.de">
                     <persName>
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
@@ -2431,7 +2431,7 @@
                         Frankreich</affiliation>
                     <idno type="URL">http://d-nb.info/gnd/123312396</idno>
                 </person>
-                <person xml:id="person__tariq.yousef@adwmainz.de">
+                <person ana="person__tariq.yousef@adwmainz.de">
                     <persName>
                         <surname>Yousef</surname>
                         <forename>Tariq</forename>
@@ -2439,7 +2439,7 @@
                     <affiliation ref="#org__4">Akademie der Wissenschaften und der Literatur | Mainz,
                         Deutschland</affiliation>
                 </person>
-                <person xml:id="person__ksenia.zaytseva@oeaw.ac.at">
+                <person ana="person__ksenia.zaytseva@oeaw.ac.at">
                     <persName>
                         <surname>Zaytseva</surname>
                         <forename>Ksenia</forename>
@@ -2447,7 +2447,7 @@
                     <affiliation ref="#org__146">Österreichische Akademie der Wissenschaften,
                         Österreich</affiliation>
                 </person>
-                <person xml:id="person__stefan.ziehe@stud.uni-goettingen.de">
+                <person ana="person__stefan.ziehe@stud.uni-goettingen.de">
                     <persName>
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
@@ -2455,7 +2455,7 @@
                     <affiliation ref="#org__43">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <affiliation ref="#org__44">Georg-August-Universität Göttingen, Deutschland</affiliation>
                 </person>
-                <person xml:id="person__sebastian.zimmer@uni-koeln.de">
+                <person ana="person__sebastian.zimmer@uni-koeln.de">
                     <persName>
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>

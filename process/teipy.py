@@ -1,4 +1,5 @@
 from lxml import etree as ET
+from slugify import slugify
 
 
 class TeiReader():
@@ -39,6 +40,31 @@ class TeiReader():
             parent_node.append(y)
 
         return self.tree
+
+    def get_author_nodes(self):
+        authors = self.tree.xpath(
+            '//tei:titleStmt//tei:author[./tei:email]', namespaces=self.ns_tei
+        )
+        return authors
+
+    def get_mail_addr(self):
+        for x in self.get_author_nodes():
+            mail_addr = x.xpath(
+                './tei:email/text()', namespaces=self.ns_tei
+            )[0]
+            slugged = "person__{}".format(slugify(mail_addr))
+            print(mail_addr)
+            yield (x, mail_addr, slugged)
+
+    def add_xml_ids(self):
+        for x in self.get_mail_addr():
+            x[0].attrib['{http://www.w3.org/XML/1998/namespace}id'] = x[2]
+            print(x[0].attrib)
+            yield x
+
+    def make_slug(self, node):
+        slug = slugify(node)
+        return slug
 
     def addr_lines(self):
         return self.tree.xpath('//tei:addrLine', namespaces=self.ns_tei)

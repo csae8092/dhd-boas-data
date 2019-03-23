@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Weltkulturerbe international digital: Erweiterung der Wittgenstein Advanced Search Tools durch Semantisierung und neuronale maschinelle Übersetzung</title>
-                <author>
+                <author ref="#person__i-roehrer-campus-lmu-de">
                     <persName>
                         <surname>Röhrer</surname>
                         <forename>Ines</forename>
@@ -11,7 +11,7 @@
                     <affiliation>LMU München, Deutschland</affiliation>
                     <email>i.roehrer@campus.lmu.de</email>
                 </author>
-                <author>
+                <author ref="#person__sabine-ullrich-campus-lmu-de">
                     <persName>
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
@@ -19,7 +19,7 @@
                     <affiliation>LMU München, Deutschland</affiliation>
                     <email>sabine.ullrich@campus.lmu.de</email>
                 </author>
-                <author>
+                <author ref="#person__maximilian-cis-uni-muenchen-de">
                     <persName>
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>

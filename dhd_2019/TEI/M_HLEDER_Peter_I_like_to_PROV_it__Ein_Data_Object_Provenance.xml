@@ -6,7 +6,7 @@
                     <title type="main">I like to PROV it! Ein Data Object Provenance Tool für die Digital Humanities</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__peter-muehleder-uni-leipzig-de">
                     <persName>
                         <surname>Mühleder</surname>
                         <forename>Peter</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>peter.muehleder@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__tracy-hoffmann-uni-leipzig-de">
                     <persName>
                         <surname>Hoffmann</surname>
                         <forename>Tracy</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>tracy.hoffmann@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__raemisch-ub-uni-leipzig-de">
                     <persName>
                         <surname>Rämisch</surname>
                         <forename>Florian</forename>

@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Interlinked: Schriftzeugnisse der klassischen Mayakultur im Spannungsfeld zwischen Stand-off- und Inlinemarkup in TEI-XML</title>
-                <author>
+                <author ref="#person__sikora-sub-uni-goettingen-de">
                     <persName>
                         <surname>Sikora</surname>
                         <forename>Uwe</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</affiliation>
                     <email>sikora@sub.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__sgronemeyer-uni-bonn-de">
                     <persName>
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland; La Trobe University, Department of Archaeology and History, Australien</affiliation>
                     <email>sgronemeyer@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__f-diehr-smb-spk-berlin-de">
                     <persName>
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Stiftung Preußischer Kulturbesitz</affiliation>
                     <email>f.diehr@smb.spk-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__ewagner-uni-bonn-de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>ewagner@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__cprager-uni-bonn-de">
                     <persName>
                         <surname>Prager</surname>
                         <forename>Christian</forename>
@@ -43,7 +43,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__brodhun-sub-uni-goettingen-de">
                     <persName>
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
@@ -51,7 +51,7 @@
                     <affiliation>Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</affiliation>
                     <email>brodhun@sub.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__katja-diederichs-uni-bonn-de">
                     <persName>
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
@@ -59,7 +59,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>katja.diederichs@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__ngrube-uni-bonn-de">
                     <persName>
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>

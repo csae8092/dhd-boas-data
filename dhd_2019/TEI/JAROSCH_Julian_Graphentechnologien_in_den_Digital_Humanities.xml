@@ -6,7 +6,7 @@
                     <title type="main">Graphentechnologien in den Digital Humanities: Methoden und Instrumente zur Modellierung, Transformation, Annotation und Analyse</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__julian-jarosch-adwmainz-de">
                     <persName>
                         <surname>Jarosch</surname>
                         <forename>Julian</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>julian.jarosch@adwmainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-kuczera-adwmainz-de">
                     <persName>
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__torsten-schrade-adwmainz-de">
                     <persName>
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>torsten.schrade@adwmainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__tariq-yousef-adwmainz-de">
                     <persName>
                         <surname>Yousef</surname>
                         <forename>Tariq</forename>

@@ -6,7 +6,7 @@
                     <title type="main">Dependenzbasierte syntaktische Komplexitätsmaße</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__thomas-proisl-fau-de">
                     <persName>
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
-                <author>
+                <author ref="#person__leonard-konle-uni-wuerzburg-de">
                     <persName>
                         <surname>Konle</surname>
                         <forename>Leonard</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Julius-Maximilians-Universität Würzburg</affiliation>
                     <email>leonard.konle@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__stefan-evert-fau-de">
                     <persName>
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>stefan.evert@fau.de</email>
                 </author>
-                <author>
+                <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
                     <persName>
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>

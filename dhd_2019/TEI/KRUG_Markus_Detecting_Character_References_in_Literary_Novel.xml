@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Detecting Character References in Literary Novels using a Two Stage Contextual Deep Learning approach</title>
-                <author>
+                <author ref="#person__markus-krug-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Krug</surname>
                         <forename>Markus</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@informatik.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__sebastian-kempf-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Kempf</surname>
                         <forename>Sebastian</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>sebastian.kempf@informatik.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__david-schmidt-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>David</surname>
                         <forename>Schmidt</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>david.schmidt@informatik.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__lukas-weimer-uni-wuerzburg-de">
                     <persName>
                         <surname>Lukas</surname>
                         <forename>Weimer</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Chair of Literary Computing, Universität Würzburg, Deutschland</affiliation>
                     <email>lukas.weimer@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__frank-puppe-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Frank</surname>
                         <forename>Puppe</forename>

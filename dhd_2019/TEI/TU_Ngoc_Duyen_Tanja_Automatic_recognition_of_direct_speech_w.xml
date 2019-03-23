@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Automatic recognition of direct speech without quotation marks. A rule-based approach</title>
-                <author>
+                <author ref="#person__tu-ids-mannheim-de">
                     <persName>
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>tu@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__markus-krug-uni-wuerzburg-de">
                     <persName>
                         <surname>Krug</surname>
                         <forename>Markus</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__brunner-ids-mannheim-de">
                     <persName>
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>

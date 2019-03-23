@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Multimodale Stilometrie: Herausforderungen und Potenzial kombinatorischer Bild- und Textanalysen am Beispiel Comics</title>
-                <author>
+                <author ref="#person__alexander-dunst-gmail-com">
                     <persName>
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Paderborn, Deutschland</affiliation>
                     <email>alexander.dunst@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__rst-upb-de">
                     <persName>
                         <surname>Hartel</surname>
                         <forename>Rita</forename>

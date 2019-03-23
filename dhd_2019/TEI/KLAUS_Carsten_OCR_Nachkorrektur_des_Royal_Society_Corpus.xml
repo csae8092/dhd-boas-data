@@ -6,7 +6,7 @@
                     <title type="main">OCR Nachkorrektur des Royal Society Corpus</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__s8caklau-stud-uni-saarland-de">
                     <persName>
                         <surname>Klaus</surname>
                         <forename>Carsten</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>s8caklau@stud.uni-saarland.de</email>
                 </author>
-                <author>
+                <author ref="#person__fankhauser-ids-mannheim-de">
                     <persName>
                         <surname>Fankhauser</surname>
                         <forename>Peter</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>fankhauser@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__dklakow-lsv-uni-saarland-de">
                     <persName>
                         <surname>Klakow</surname>
                         <forename>Dietrich</forename>

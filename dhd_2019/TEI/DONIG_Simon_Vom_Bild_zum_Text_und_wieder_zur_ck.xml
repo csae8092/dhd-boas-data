@@ -6,7 +6,7 @@
                     <title type="main">Vom Bild zum Text und wieder zurück</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__simon-donig-uni-passau-de">
                     <persName>
                         <surname>Donig</surname>
                         <forename>Simon</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>simon.donig@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__maria-christoforaki-uni-passau-de">
                     <persName>
                         <surname>Christoforaki</surname>
                         <forename>Maria</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>maria.christoforaki@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__bernhard-bermeitinger-uni-passau-de">
                     <persName>
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>bernhard.bermeitinger@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__siegfried-handschuh-unisg-ch">
                     <persName>
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>

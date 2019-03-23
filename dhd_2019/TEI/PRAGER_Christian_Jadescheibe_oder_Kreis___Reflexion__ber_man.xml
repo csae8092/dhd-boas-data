@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Jadescheibe oder Kreis – Reflexion über manuelle und automatisierte Erkennung von Schriftzeichen der vorspanischen Mayakultur</title>
-                <author>
+                <author ref="#person__cprager-uni-bonn-de">
                     <persName>
                         <surname>Prager</surname>
                         <forename>Christian</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__hubert-mara-iwr-uni-heidelberg-de">
                     <persName>
                         <surname>Mara</surname>
                         <forename>Hubert</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>hubert.mara@iwr.uni-heidelberg.de</email>
                 </author>
-                <author>
+                <author ref="#person__bartosz-bogacz-iwr-uni-heidelberg-de">
                     <persName>
                         <surname>Bogacz</surname>
                         <forename>Bartosz</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>bartosz.bogacz@iwr.uni-heidelberg.de</email>
                 </author>
-                <author>
+                <author ref="#person__felix-feldmann-iwr-uni-heidelberg-de">
                     <persName>
                         <surname>Feldmann</surname>
                         <forename>Felix</forename>

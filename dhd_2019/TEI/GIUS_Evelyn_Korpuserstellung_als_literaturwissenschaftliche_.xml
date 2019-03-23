@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Korpuserstellung als literaturwissenschaftliche Aufgabe</title>
-                <author>
+                <author ref="#person__evelyn-gius-uni-hamburg-de">
                     <persName>
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__katharina-krueger-uni-hamburg-de">
                     <persName>
                         <surname>Katharina</surname>
                         <forename>Krüger</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>katharina.krueger@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__carla-soekefeld-studium-uni-hamburg-de">
                     <persName>
                         <surname>Carla</surname>
                         <forename>Sökefeld</forename>

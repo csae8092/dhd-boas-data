@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Usability-Testing für Softwarewerkzeuge in den Digital Humanities am Beispiel von Bildrepositorien</title>
-                <author>
+                <author ref="#person__leyla-dewitz-tu-dresden-de">
                     <persName>
                         <surname>Dewitz</surname>
                         <forename>Leyla</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Technische Universität Dresden, Deutschland</affiliation>
                     <email>leyla.dewitz@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__sander-muenster-tu-dresden-de">
                     <persName>
                         <surname>Münster</surname>
                         <forename>Sander</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Technische Universität Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__florian-niebling-uni-wuerzburg-de">
                     <persName>
                         <surname>Niebling</surname>
                         <forename>Florian</forename>

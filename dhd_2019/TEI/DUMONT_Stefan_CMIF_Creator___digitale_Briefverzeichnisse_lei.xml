@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>CMIF Creator - digitale Briefverzeichnisse leicht erstellt</title>
-                <author>
+                <author ref="#person__jonas-mueller-laackman-bbaw-de">
                     <persName>
                         <surname>Müller-Laackman</surname>
                         <forename>Jonas</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>jonas.mueller-laackman@bbaw.de</email>
                 </author>
-                <author>
+                <author ref="#person__dumont-bbaw-de">
                     <persName>
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>dumont@bbaw.de</email>
                 </author>
-                <author>
+                <author ref="#person__grabsch-bbaw-de">
                     <persName>
                         <surname>Grabsch</surname>
                         <forename>Sascha</forename>

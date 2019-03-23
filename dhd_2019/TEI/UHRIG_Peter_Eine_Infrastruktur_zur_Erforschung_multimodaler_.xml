@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Eine Infrastruktur zur Erforschung multimodaler Kommunikation</title>
-                <author>
+                <author ref="#person__peter-uhrig-uos-de">
                     <persName>
                         <surname>Uhrig</surname>
                         <forename>Peter</forename>

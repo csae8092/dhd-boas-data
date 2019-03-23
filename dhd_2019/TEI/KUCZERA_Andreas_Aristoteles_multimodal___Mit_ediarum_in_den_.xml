@@ -6,7 +6,7 @@
                     <title type="main">Aristoteles multimodal – Mit ediarum in den Graphen</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__andreas-kuczera-adwmainz-de">
                     <persName>
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__fechner-bbaw-de">
                     <persName>
                         <surname>Martin</surname>
                         <forename>Fechner</forename>

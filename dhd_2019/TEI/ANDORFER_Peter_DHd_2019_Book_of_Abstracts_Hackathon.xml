@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>DHd 2019 Book of Abstracts Hackathon</title>
-                <author>
+                <author ref="#person__peter-andorfer-oeaw-ac-at">
                     <persName>
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>peter.andorfer@oeaw.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__cremer-maxweberstiftung-de">
                     <persName>
                         <surname>Cremer</surname>
                         <forename>Fabian</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Max Weber Stiftung, Bonn</affiliation>
                     <email>Cremer@MaxWeberStiftung.de</email>
                 </author>
-                <author>
+                <author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>

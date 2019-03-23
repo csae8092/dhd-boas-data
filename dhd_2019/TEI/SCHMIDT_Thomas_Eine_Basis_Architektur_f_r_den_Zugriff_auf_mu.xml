@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Eine Basis-Architektur für den Zugriff auf multimodale Korpora gesprochener Sprache</title>
-                <author>
+                <author ref="#person__josip-batinic-ids-mannheim-de">
                     <persName>
                         <surname>Batinic</surname>
                         <forename>Josip</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>josip.batinic@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__frick-ids-mannheim-de">
                     <persName>
                         <surname>Frick</surname>
                         <forename>Elena</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>frick@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__gasch-ids-mannheim-de">
                     <persName>
                         <surname>Gasch</surname>
                         <forename>Joachim</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>gasch@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__thomas-schmidt-ids-mannheim-de">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>

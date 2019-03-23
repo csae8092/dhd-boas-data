@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Auf alles gefasst? Metadaten im Virtuellen Kupferstichkabinett</title>
-                <author>
+                <author ref="#person__roessel-hab-de">
                     <persName>
                         <surname>Rössel</surname>
                         <forename>Julia</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>roessel@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__maus-hab-de">
                     <persName>
                         <surname>Maus</surname>
                         <forename>David</forename>

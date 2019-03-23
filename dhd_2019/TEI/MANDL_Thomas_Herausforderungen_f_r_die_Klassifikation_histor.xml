@@ -6,7 +6,7 @@
                     <title type="main">Herausforderungen für die Klassifikation historischer Buchillustrationen</title>
                     <title type="sub"> Überlegungen am Beispiel retrodigitalisierter Kinder- und Jugendsachbücher des 19. Jahrhunderts</title>
                 </title>
-                <author>
+                <author ref="#person__wiebke-helm-uni-leipzig-de">
                     <persName>
                         <surname>Helm</surname>
                         <forename>Wiebke</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Universität Leipzig, Deutschland</affiliation>
                     <email>wiebke.helm@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__imchan-uni-hildesheim-de">
                     <persName>
                         <surname>Im</surname>
                         <forename>Chanjong</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Universität Hildesheim, Deutschland</affiliation>
                     <email>imchan@uni-hildesheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__mandl-uni-hildesheim-de">
                     <persName>
                         <surname>Mandl</surname>
                         <forename>Thomas</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Universität Hildesheim, Deutschland</affiliation>
                     <email>mandl@uni-hildesheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__sebastian-schmideler-uni-leipzig-de">
                     <persName>
                         <surname>Schmideler</surname>
                         <forename>Sebastian</forename>

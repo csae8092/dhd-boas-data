@@ -6,7 +6,7 @@
                     <title type="main">Ein unscharfer Suchalgorithmus für Transkriptionen von arabischen Ortsnamen</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__magdalenascherl-gmail-com">
                     <persName>
                         <surname>Scherl</surname>
                         <forename>Magdalena</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Hochschule Mainz, Deutschland</affiliation>
                     <email>magdalenascherl@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__martin-unold-gmail-com">
                     <persName>
                         <surname>Unold</surname>
                         <forename>Martin</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Hochschule Mainz, Deutschland</affiliation>
                     <email>martin.unold@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__timo-homburg-hs-mainz-de">
                     <persName>
                         <surname>Homburg</surname>
                         <forename>Timo</forename>

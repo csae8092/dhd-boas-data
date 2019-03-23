@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Barcamp: Digitales Publizieren zwischen Experiment und Etablierung</title>
-                <author>
+                <author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__neumann-maxweberstiftung-de">
                     <persName>
                         <surname>Neumann</surname>
                         <forename>Katrin</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Max Weber Stiftung</affiliation>
                     <email>neumann@maxweberstiftung.de</email>
                 </author>
-                <author>
+                <author ref="#person__melanie-seltmann-univie-ac-at">
                     <persName>
                         <surname>Seltmann</surname>
                         <forename>Melanie</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Wien</affiliation>
                     <email>melanie.seltmann@univie.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__walter-scholger-uni-graz-at">
                     <persName>
                         <surname>Walter</surname>
                         <forename>Scholger</forename>

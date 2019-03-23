@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Multimedia aus Rezipientenperspektive: Wirkungsmessung anhand von Biofeedback</title>
-                <author>
+                <author ref="#person__daniel-schloer-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Schlör</surname>
                         <forename>Daniel</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>daniel.schloer@informatik.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__blerta-veseli-stud-mail-uni-wuerzburg-de">
                     <persName>
                         <surname>Veseli</surname>
                         <forename>Blerta</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>blerta.veseli@stud-mail.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__hotho-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>

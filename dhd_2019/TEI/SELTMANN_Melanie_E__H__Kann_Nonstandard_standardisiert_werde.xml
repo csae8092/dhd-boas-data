@@ -6,7 +6,7 @@
                     <title type="main">Kann Nonstandard standardisiert werden?</title>
                     <title type="sub">Ein Annotations-Standardisierungsversuch nicht nur von PoS-Tags am Beispiel des Spezialforschungsbereichs „Deutsch in Österreich“</title>
                 </title>
-                <author>
+                <author ref="#person__melanie-seltmann-univie-ac-at">
                     <persName>
                         <surname>Seltmann</surname>
                         <forename>Melanie E.-H.</forename>

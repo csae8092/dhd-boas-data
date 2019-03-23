@@ -6,7 +6,7 @@
                     <title type="main">Multimodale Versuche der Alignierung historischer Texte</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__wagner-rg-mpg-de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Andreas</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
                     <email>wagner@rg.mpg.de</email>
                 </author>
-                <author>
+                <author ref="#person__bragagnolo-rg-mpg-de">
                     <persName>
                         <surname>Bragagnolo</surname>
                         <forename>Manuela</forename>

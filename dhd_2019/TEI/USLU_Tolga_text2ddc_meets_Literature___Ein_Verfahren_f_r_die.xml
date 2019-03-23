@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>text2ddc meets Literature - Ein Verfahren für die Analyse und Visualisierung thematischer Makrostrukturen</title>
-                <author>
+                <author ref="#person__mehler-em-uni-frankfurt-de">
                     <persName>
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__uslu-em-uni-frankfurt-de">
                     <persName>
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>uslu@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__gleim-em-uni-frankfurt-de">
                     <persName>
                         <surname>Gleim</surname>
                         <forename>Rüdiger</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>gleim@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__baumartz-stud-uni-frankfurt-de">
                     <persName>
                         <surname>Baumartz</surname>
                         <forename>Daniel</forename>

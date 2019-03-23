@@ -6,7 +6,7 @@
                     <title type="main">DH is the Study of dead Dudes</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__mark-hall-informatik-uni-halle-de">
                     <persName>
                         <surname>Hall</surname>
                         <forename>Mark</forename>

@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Gutenberg Biographics - der Mainzer Professorenkatalog</title>
-                <author>
+                <author ref="#person__dgerhard-students-uni-mainz-de">
                     <persName>
                         <surname>Gerhards</surname>
                         <forename>Donata</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</affiliation>
                     <email>dgerhard@students.uni-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__f-huether-ub-uni-mainz-de">
                     <persName>
                         <surname>Hüther</surname>
                         <forename>Frank</forename>

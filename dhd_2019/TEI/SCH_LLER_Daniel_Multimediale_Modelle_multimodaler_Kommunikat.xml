@@ -6,7 +6,7 @@
                     <title type="main">Multimediale Modelle multimodaler Kommunikation</title>
                     <title type="sub">Motion-Capturing in der computergestützten Gestenforschung</title>
                 </title>
-                <author>
+                <author ref="#person__schueller-humtec-rwth-aachen-de">
                     <persName>
                         <surname>Schüller</surname>
                         <forename>Daniel</forename>
@@ -14,7 +14,7 @@
                     <affiliation>RWTH Aachen, Deutschland</affiliation>
                     <email>schueller@humtec.rwth-aachen.de</email>
                 </author>
-                <author>
+                <author ref="#person__mittelberg-humtec-rwth-aachen-de">
                     <persName>
                         <surname>Mittelberg</surname>
                         <forename>Irene</forename>

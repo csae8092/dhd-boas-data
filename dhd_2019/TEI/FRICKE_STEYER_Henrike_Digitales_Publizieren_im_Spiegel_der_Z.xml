@@ -6,7 +6,7 @@
                     <title type="main">Digitales Publizieren im Spiegel der Zeitschrift für digitale Geisteswissenschaften - ZfdG: Eine Standortbestimmung</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__henrike-fricke-hab-de">
                     <persName>
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Forschungsverbund MWW, Deutschland</affiliation>
                     <email>henrike.fricke@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__klaffki-hab-de">
                     <persName>
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>

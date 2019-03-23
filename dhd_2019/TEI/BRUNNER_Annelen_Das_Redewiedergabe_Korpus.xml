@@ -6,7 +6,7 @@
                     <title type="main">Das Redewiedergabe-Korpus</title>
                     <title type="sub">Eine neue Ressource</title>
                 </title>
-                <author>
+                <author ref="#person__brunner-ids-mannheim-de">
                     <persName>
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>brunner@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__lukas-weimer-uni-wuerzburg-de">
                     <persName>
                         <surname>Weimer</surname>
                         <forename>Lukas</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>lukas.weimer@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__tu-ids-mannheim-de">
                     <persName>
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>tu@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__engelberg-ids-mannheim-de">
                     <persName>
                         <surname>Engelberg</surname>
                         <forename>Stefan</forename>
@@ -38,7 +38,7 @@
                     <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>engelberg@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
                     <persName>
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>

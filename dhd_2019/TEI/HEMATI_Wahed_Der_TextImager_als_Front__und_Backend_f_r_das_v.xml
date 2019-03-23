@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Der TextImager als Front- und Backend für das verteilte NLP von Big Digital Humanities Data</title>
-                <author>
+                <author ref="#person__hemati-em-uni-frankfurt-de">
                     <persName>
                         <surname>Hemati</surname>
                         <forename>Wahed</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>hemati@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__mehler-em-uni-frankfurt-de">
                     <persName>
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__uslu-em-uni-frankfurt-de">
                     <persName>
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>uslu@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__abrami-em-uni-frankfurt-de">
                     <persName>
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>

@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Ein neues Format für die Digital Humanities: Shared Tasks. Zur Annotation narrativer Ebenen</title>
-                <author>
+                <author ref="#person__marcus-willand-gs-uni-heidelberg-de">
                     <persName>
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Heidelberg; Universität Stuttgart</affiliation>
                     <email>marcus.willand@gs.uni-heidelberg.de</email>
                 </author>
-                <author>
+                <author ref="#person__evelyn-gius-uni-hamburg-de">
                     <persName>
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Hamburg</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Reiter</surname>
                         <forename>Nils</forename>

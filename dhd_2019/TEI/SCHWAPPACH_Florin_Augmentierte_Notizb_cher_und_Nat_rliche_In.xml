@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Augmentierte Notizbücher und Natürliche Interaktion – Unterstützung der Kulturtechnik Handschrift in einer digitalen Forschungswelt</title>
-                <author>
+                <author ref="#person__florin-schwappach-ur-de">
                     <persName>
                         <surname>Schwappach</surname>
                         <forename>Florin</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Regensburg, Deutschland</affiliation>
                     <email>florin.schwappach@ur.de</email>
                 </author>
-                <author>
+                <author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>

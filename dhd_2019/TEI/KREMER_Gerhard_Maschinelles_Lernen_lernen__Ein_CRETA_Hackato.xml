@@ -6,7 +6,7 @@
                     <title type="main">Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__gerhard-kremer-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Kremer</surname>
                         <forename>Gerhard</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>gerhard.kremer@ims.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__kerstin-jung-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Jung</surname>
                         <forename>Kerstin</forename>

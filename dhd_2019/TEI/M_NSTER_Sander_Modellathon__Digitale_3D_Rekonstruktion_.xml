@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Modellathon „Digitale 3D-Rekonstruktion"</title>
-                <author>
+                <author ref="#person__sander-muenster-tu-dresden-de">
                     <persName>
                         <surname>Münster</surname>
                         <forename>Sander</forename>
@@ -11,7 +11,7 @@
                     <affiliation>TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonas-christen-zhdk-ch">
                     <persName>
                         <surname>Christen</surname>
                         <forename>Jonas</forename>

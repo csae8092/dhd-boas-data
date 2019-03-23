@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Bauanleitung für einen Forschungsraum mit institutionellem Fundament: Erfahrungen aus fünf Jahren Infrastrukturentwicklung im Forschungsverbund MWW</title>
-                <author>
+                <author ref="#person__swantje-dogunke-klassik-stiftung-de">
                     <persName>
                         <surname>Dogunke</surname>
                         <forename>Swantje</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
                     <email>swantje.dogunke@klassik-stiftung.de</email>
                 </author>
-                <author>
+                <author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>

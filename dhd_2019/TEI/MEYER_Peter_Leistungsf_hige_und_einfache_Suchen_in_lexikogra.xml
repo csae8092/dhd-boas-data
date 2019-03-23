@@ -6,7 +6,7 @@
                     <title type="main">Leistungsfähige und einfache Suchen in lexikografischen Datennetzen</title>
                     <title type="sub">Ein interaktiv-visueller Query Builder für Property-Graphen</title>
                 </title>
-                <author>
+                <author ref="#person__meyer-ids-mannheim-de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Peter</forename>

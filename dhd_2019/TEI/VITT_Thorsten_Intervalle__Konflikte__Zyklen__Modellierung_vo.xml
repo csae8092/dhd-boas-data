@@ -6,7 +6,7 @@
                     <title type="main">Intervalle, Konflikte, Zyklen. Modellierung von Makrogenese in der Faustedition</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__thorsten-vitt-uni-wuerzburg-de">
                     <persName>
                         <surname>Vitt</surname>
                         <forename>Thorsten</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>thorsten.vitt@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__bruening-faustedition-de">
                     <persName>
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
                     <email>bruening@faustedition.de</email>
                 </author>
-                <author>
+                <author ref="#person__dpravida-goethehaus-frankfurt-de">
                     <persName>
                         <surname>Pravida</surname>
                         <forename>Dietmar</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
                     <email>dpravida@goethehaus-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__wissenbach-faustedition-de">
                     <persName>
                         <surname>Wissenbach</surname>
                         <forename>Moritz</forename>

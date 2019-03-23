@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>State of the Art Optical Character Recognition of 19th Century Fraktur Scripts using Open Source Engines</title>
-                <author>
+                <author ref="#person__christian-reul-uni-wuerzburg-de">
                     <persName>
                         <surname>Reul</surname>
                         <forename>Christian</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>christian.reul@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__uwe-springmann-net">
                     <persName>
                         <surname>Springmann</surname>
                         <forename>Uwe</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>uwe@springmann.net</email>
                 </author>
-                <author>
+                <author ref="#person__christoph-wick-uni-wuerzburg-de">
                     <persName>
                         <surname>Wick</surname>
                         <forename>Christoph</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>christoph.wick@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__frank-puppe-uni-wuerzburg-de">
                     <persName>
                         <surname>Puppe</surname>
                         <forename>Frank</forename>

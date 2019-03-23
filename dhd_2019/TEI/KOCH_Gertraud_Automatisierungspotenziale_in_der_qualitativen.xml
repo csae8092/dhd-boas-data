@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Automatisierungspotenziale in der qualitativen Diskursanalyse. Das Prinzip des „Filterns“</title>
-                <author>
+                <author ref="#person__gertraud-koch-uni-hamburg-de">
                     <persName>
                         <surname>Koch</surname>
                         <forename>Gertraud</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>gertraud.koch@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__lina-franken-uni-hamburg-de">
                     <persName>
                         <surname>Franken</surname>
                         <forename>Lina</forename>

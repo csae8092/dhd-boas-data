@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title>
-                <author>
+                <author ref="#person__annabusch-uni-potsdam-de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Anna</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>annabusch@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__mark-jan-bludau-fh-potsdam-de">
                     <persName>
                         <surname>Bludau</surname>
                         <forename>Mark-Jan</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>mark-jan.bludau@fh-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__viktoria-brueggemann-fh-potsdam-de">
                     <persName>
                         <surname>Brüggemann</surname>
                         <forename>Viktoria</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>viktoria.brueggemann@fh-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__doerk-fh-potsdam-de">
                     <persName>
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>doerk@fh-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__kgenzel-uni-potsdam-de">
                     <persName>
                         <surname>Genzel</surname>
                         <forename>Kristina</forename>
@@ -43,7 +43,7 @@
                     <affiliation>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>kgenzel@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__klaus-peter-moeller-uni-potsdam-de">
                     <persName>
                         <surname>Möller</surname>
                         <forename>Klaus-Peter</forename>
@@ -51,7 +51,7 @@
                     <affiliation>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>klaus-peter.moeller@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__sabine-seifert-uni-potsdam-de">
                     <persName>
                         <surname>Seifert</surname>
                         <forename>Sabine</forename>
@@ -59,7 +59,7 @@
                     <affiliation>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>sabine.seifert@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__trilcke-uni-potsdam-de">
                     <persName>
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>

@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Ein Web Annotation Protocol Server zur Untersuchung vormoderner Wissensbestände</title>
-                <author>
+                <author ref="#person__danah-tonne-kit-edu">
                     <persName>
                         <surname>Tonne</surname>
                         <forename>Danah</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>danah.tonne@kit.edu</email>
                 </author>
-                <author>
+                <author ref="#person__germaine-goetzelmann-kit-edu">
                     <persName>
                         <surname>Götzelmann</surname>
                         <forename>Germaine</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>germaine.goetzelmann@kit.edu</email>
                 </author>
-                <author>
+                <author ref="#person__philipp-hegel-fu-berlin-de">
                     <persName>
                         <surname>Hegel</surname>
                         <forename>Philipp</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Freie Universität Berlin, Deutschland</affiliation>
                     <email>philipp.hegel@fu-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__m-krewet-fu-berlin-de">
                     <persName>
                         <surname>Krewet</surname>
                         <forename>Michael</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Freie Universität Berlin, Deutschland</affiliation>
                     <email>m.krewet@fu-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__julia-huebner-fu-berlin-de">
                     <persName>
                         <surname>Hübner</surname>
                         <forename>Julia</forename>
@@ -43,7 +43,7 @@
                     <affiliation>Freie Universität Berlin, Deutschland</affiliation>
                     <email>julia.huebner@fu-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__ssoering-cedis-fu-berlin-de">
                     <persName>
                         <surname>Söring</surname>
                         <forename>Sibylle</forename>
@@ -51,7 +51,7 @@
                     <affiliation>Center für Digitale Systeme</affiliation>
                     <email>ssoering@cedis.fu-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-loeffler-bermayer-de">
                     <persName>
                         <surname>Löffler</surname>
                         <forename>Andreas</forename>
@@ -59,7 +59,7 @@
                     <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>andreas@loeffler-bermayer.de</email>
                 </author>
-                <author>
+                <author ref="#person__mail-hitzker-de">
                     <persName>
                         <surname>Hitzker</surname>
                         <forename>Michael</forename>
@@ -67,7 +67,7 @@
                     <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>mail@hitzker.de</email>
                 </author>
-                <author>
+                <author ref="#person__markus-hoefler-live-de">
                     <persName>
                         <surname>Höfler</surname>
                         <forename>Markus</forename>
@@ -75,7 +75,7 @@
                     <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>Markus.Hoefler@live.de</email>
                 </author>
-                <author>
+                <author ref="#person__timo-schmidt2-student-kit-edu">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Timo</forename>

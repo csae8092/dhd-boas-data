@@ -6,7 +6,7 @@
                     <title type="main">VAnnotatoR: Ein Werkzeug zur Annotation multimodaler Netzwerke in dreidimensionalen virtuellen Umgebungen</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__abrami-em-uni-frankfurt-de">
                     <persName>
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>abrami@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__s2717197-stud-uni-frankfurt-de">
                     <persName>
                         <surname>Spiekermann</surname>
                         <forename>Christian</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>s2717197@stud.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__mehler-em-uni-frankfurt-de">
                     <persName>
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>

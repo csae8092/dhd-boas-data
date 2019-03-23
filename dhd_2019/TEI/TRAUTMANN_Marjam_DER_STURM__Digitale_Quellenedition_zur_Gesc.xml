@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>DER STURM. Digitale Quellenedition zur Geschichte der internationalen Avantgarde. Drei Forschungsansätze.</title>
-                <author>
+                <author ref="#person__anne-lorenz-adwmainz-de">
                     <persName>
                         <surname>Lorenz</surname>
                         <forename>Anne Katrin</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>anne.lorenz@adwmainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__lea-mueller-dannhausen-gmx-de">
                     <persName>
                         <surname>Müller-Dannhausen</surname>
                         <forename>Lea</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Johannes Gutenberg-Universität Mainz</affiliation>
                     <email>lea.mueller-dannhausen@gmx.de</email>
                 </author>
-                <author>
+                <author ref="#person__marjam-trautmann-adwmainz-de">
                     <persName>
                         <surname>Trautmann</surname>
                         <forename>Marjam</forename>

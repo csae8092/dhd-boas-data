@@ -6,7 +6,7 @@
                     <title type="main">eXist-db und VueJS für dynamische UI-Komponenten</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__opohl-bbaw-de">
                     <persName>
                         <surname>Pohl</surname>
                         <forename>Oliver</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>opohl@bbaw.de</email>
                 </author>
-                <author>
+                <author ref="#person__teodora-dogaru-bbaw-de">
                     <persName>
                         <surname>Dogaru</surname>
                         <forename>Teodora</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>teodora.dogaru@bbaw.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonas-mueller-laackman-bbaw-de">
                     <persName>
                         <surname>Müller-Laackman</surname>
                         <forename>Jonas</forename>

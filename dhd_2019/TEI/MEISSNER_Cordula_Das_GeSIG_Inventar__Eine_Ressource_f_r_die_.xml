@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Das GeSIG-Inventar: Eine Ressource für die Erforschung und Vermittlung der Wissenschaftssprache der Geisteswissenschaften</title>
-                <author>
+                <author ref="#person__cordula-meissner-uni-leipzig-de">
                     <persName>
                         <surname>Meißner</surname>
                         <forename>Cordula</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Leipzig, Deutschland</affiliation>
                     <email>cordula.meissner@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__f-wallner-rz-uni-leipzig-de">
                     <persName>
                         <surname>Wallner</surname>
                         <forename>Franziska</forename>

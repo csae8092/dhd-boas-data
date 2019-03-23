@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>“The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who</title>
-                <author>
+                <author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Leipzig, Deutschland</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__selina-meyer-stud-uni-regensburg-de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Selina</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Regensburg, Deutschland</affiliation>
                     <email>Selina.Meyer@stud.uni-regensburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__stephanie-schmidbauer-stud-uni-regensburg-de">
                     <persName>
                         <surname>Schmidtbauer</surname>
                         <forename>Stephanie</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Regensburg, Deutschland</affiliation>
                     <email>Stephanie.Schmidbauer@stud.uni-regensburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__johannes-molz-googlemail-com">
                     <persName>
                         <surname>Molz</surname>
                         <forename>Johannes</forename>

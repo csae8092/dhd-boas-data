@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title>
-                <author>
+                <author ref="#person__moisich-gmail-com">
                     <persName>
                         <surname>Moisich</surname>
                         <forename>Oliver</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Paderborn, Deutschland</affiliation>
                     <email>moisich@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__rst-upb-de">
                     <persName>
                         <surname>Hartel</surname>
                         <forename>Rita</forename>

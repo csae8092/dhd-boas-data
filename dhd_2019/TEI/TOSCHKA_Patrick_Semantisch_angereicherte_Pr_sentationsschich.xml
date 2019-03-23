@@ -6,7 +6,7 @@
                     <title type="main">Semantisch angereicherte Präsentationsschichten für geisteswissenschaftliche Webanwendungen</title>
                     <title type="sub">Methodenvergleich und Referenzimplementierung</title>
                 </title>
-                <author>
+                <author ref="#person__patrick-toschka-adwmainz-de">
                     <persName>
                         <surname>Toschka</surname>
                         <forename>Patrick</forename>

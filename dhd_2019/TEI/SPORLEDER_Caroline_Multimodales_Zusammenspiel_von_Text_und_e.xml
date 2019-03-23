@@ -6,7 +6,7 @@
                     <title type="main">Multimodales Zusammenspiel von Text und erlebter Stimme – Analyse der Lautstärkesignale in direkter Rede</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__svenjasimone-guhr-stud-uni-goettingen-de">
                     <persName>
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
@@ -14,7 +14,7 @@
                     <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>svenjasimone.guhr@stud.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__hanna-varachkina-stud-uni-goettingen-de">
                     <persName>
                         <surname>Varachkina</surname>
                         <forename>Hanna</forename>
@@ -22,7 +22,7 @@
                     <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>hanna.varachkina@stud.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__geumbi-lee-stud-uni-goettingen-de">
                     <persName>
                         <surname>Lee</surname>
                         <forename>Geumbi</forename>
@@ -30,7 +30,7 @@
                     <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>geumbi.lee@stud.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__csporled-gwdg-de">
                     <persName>
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>

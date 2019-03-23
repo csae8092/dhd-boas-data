@@ -6,7 +6,7 @@
                     <title type="main">Technologienutzung im Kontext Digitaler Editionen – eine Landschaftsvermessung</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__c-neuefeind-uni-koeln-de">
                     <persName>
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>c.neuefeind@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__philip-schildkamp-uni-koeln-de">
                     <persName>
                         <surname>Schildkamp</surname>
                         <forename>Philip</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>philip.schildkamp@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__bmathiak-uni-koeln-de">
                     <persName>
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__lukas-harzenetter-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Harzenetter</surname>
                         <forename>Lukas</forename>
@@ -38,7 +38,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>lukas.harzenetter@iaas.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
@@ -46,7 +46,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>johanna.barzen@iaas.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__uwe-breitenbuecher-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
@@ -54,7 +54,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>uwe.breitenbuecher@iaas.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__frank-leymann-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Leymann</surname>
                         <forename>Frank</forename>

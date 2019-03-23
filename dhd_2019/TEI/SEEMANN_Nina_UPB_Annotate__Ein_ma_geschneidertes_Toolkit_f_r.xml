@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title>
-                <author>
+                <author ref="#person__nina-seemann-upb-de">
                     <persName>
                         <surname>Seemann</surname>
                         <forename>Nina</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Paderborn, Deutschland</affiliation>
                     <email>nina.seemann@upb.de</email>
                 </author>
-                <author>
+                <author ref="#person__mlmerten-mail-upb-de">
                     <persName>
                         <surname>Merten</surname>
                         <forename>Marie-Luis</forename>

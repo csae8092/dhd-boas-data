@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title>
-                <author>
+                <author ref="#person__katja-metzmacher-uni-koeln-de">
                     <persName>
                         <surname>Metzmacher</surname>
                         <forename>Katja</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>katja.metzmacher@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__patrick-helling-uni-koeln-de">
                     <persName>
                         <surname>Helling</surname>
                         <forename>Patrick</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>patrick.helling@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__bmathiak-uni-koeln-de">
                     <persName>
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>

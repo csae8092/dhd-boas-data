@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Annotation gesprochener Daten mit WebAnno-MM</title>
-                <author>
+                <author ref="#person__hanna-hedeland-uni-hamburg-de">
                     <persName>
                         <surname>Hedeland</surname>
                         <forename>Hanna</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>hanna.hedeland@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__remus-informatik-uni-hamburg-de">
                     <persName>
                         <surname>Remus</surname>
                         <forename>Steffen</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Language Technology Group, Universität Hamburg, Deutschland</affiliation>
                     <email>remus@informatik.uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__anne-ferger-uni-hamburg-de">
                     <persName>
                         <surname>Ferger</surname>
                         <forename>Anne</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>anne.ferger@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__kristin-buehrig-uni-hamburg-de">
                     <persName>
                         <surname>Bührig</surname>
                         <forename>Kristin</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>kristin.buehrig@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__biemann-informatik-uni-hamburg-de">
                     <persName>
                         <surname>Biemann</surname>
                         <forename>Chris</forename>

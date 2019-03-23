@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Texterkennung mit Ocropy – Vom Bild zum Text</title>
-                <author>
+                <author ref="#person__robert-nasarek-geschichte-uni-halle-de">
                     <persName>
                         <surname>Nasarek</surname>
                         <forename>Robert</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>robert.nasarek@geschichte.uni-halle.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-mueller-geschichte-uni-halle-de">
                     <persName>
                         <surname>Müller</surname>
                         <forename>Andreas</forename>

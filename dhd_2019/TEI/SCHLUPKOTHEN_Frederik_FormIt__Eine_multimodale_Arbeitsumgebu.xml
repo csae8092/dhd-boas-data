@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title>
-                <author>
+                <author ref="#person__schlupko-uni-wuppertal-de">
                     <persName>
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>schlupko@uni-wuppertal.de</email>
                 </author>
-                <author>
+                <author ref="#person__nantke-uni-wuppertal-de">
                     <persName>
                         <surname>Nantke</surname>
                         <forename>Julia</forename>

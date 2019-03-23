@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Automatic Font Group Recognition in Early Printed Books</title>
-                <author>
+                <author ref="#person__weichsel-uni-mainz-de">
                     <persName>
                         <surname>Weichselbaumer</surname>
                         <forename>Nikolaus</forename>
@@ -11,7 +11,7 @@
                     <affiliation>JGU Mainz, Deutschland</affiliation>
                     <email>weichsel@uni-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__mathias-seuret-fau-de">
                     <persName>
                         <surname>Seuret</surname>
                         <forename>Mathias</forename>
@@ -19,7 +19,7 @@
                     <affiliation>FAU Erlangen, Deutschland</affiliation>
                     <email>mathias.seuret@fau.de</email>
                 </author>
-                <author>
+                <author ref="#person__limbach-uni-mainz-de">
                     <persName>
                         <surname>Limbach</surname>
                         <forename>Saskia</forename>
@@ -27,7 +27,7 @@
                     <affiliation>JGU Mainz, Deutschland</affiliation>
                     <email>limbach@uni-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__vincent-christlein-fau-de">
                     <persName>
                         <surname>Christlein</surname>
                         <forename>Vincent</forename>
@@ -35,7 +35,7 @@
                     <affiliation>FAU Erlangen, Deutschland</affiliation>
                     <email>vincent.christlein@fau.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-maier-fau-de">
                     <persName>
                         <surname>Maier</surname>
                         <forename>Andreas</forename>

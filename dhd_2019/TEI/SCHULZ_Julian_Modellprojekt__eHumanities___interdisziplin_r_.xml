@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title>
-                <author>
+                <author ref="#person__julian-schulz-lmu-de">
                     <persName>
                         <surname>Schulz</surname>
                         <forename>Julian</forename>

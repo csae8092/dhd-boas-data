@@ -6,7 +6,7 @@
                     <title type="main">Ein GUI-Topic-Modeling-Tool mit interaktiver Ergebnisdarstellung</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__severin-simmler-stud-mail-uni-wuerzburg-de">
                     <persName>
                         <surname>Severin</surname>
                         <forename>Simmler</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>severin.simmler@stud-mail.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__thorsten-vitt-uni-wuerzburg-de">
                     <persName>
                         <surname>Thorsten</surname>
                         <forename>Vitt</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>thorsten.vitt@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__pielstroem-biozentrum-uni-wuerzburg-de">
                     <persName>
                         <surname>Pielström</surname>
                         <forename>Steffen</forename>

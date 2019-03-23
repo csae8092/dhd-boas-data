@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Das Niklas-Luhmann Archiv - Ein multimediales Dokumenten-Netz</title>
-                <author>
+                <author ref="#person__sebastian-zimmer-uni-koeln-de">
                     <persName>
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>sebastian.zimmer@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__mgoedel-uni-koeln-de">
                     <persName>
                         <surname>Gödel</surname>
                         <forename>Martina</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>mgoedel@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__dana-persch-uni-koeln-de">
                     <persName>
                         <surname>Persch</surname>
                         <forename>Dana</forename>

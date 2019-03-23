@@ -6,7 +6,7 @@
                     <title type="main">Erneuerung der Digitalen Editionen an der Herzog August Bibliothek Wolfenbüttel</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__schassan-hab-de">
                     <persName>
                         <surname>Schaßan</surname>
                         <forename>Torsten</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>schassan@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__baumgarten-hab-de">
                     <persName>
                         <surname>Baumgarten</surname>
                         <forename>Marcus</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>baumgarten@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__henrike-fricke-hab-de">
                     <persName>
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
@@ -38,7 +38,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>henrike.fricke@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__iglesia-hab-de">
                     <persName>
                         <surname>Iglesia</surname>
                         <forename>Martin de la</forename>
@@ -46,7 +46,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>iglesia@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__kampkaspar-hab-de">
                     <persName>
                         <surname>Kampkaspar</surname>
                         <forename>Dario</forename>
@@ -54,7 +54,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>kampkaspar@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__klaffki-hab-de">
                     <persName>
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>
@@ -62,7 +62,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>klaffki@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__parlitz-hab-de">
                     <persName>
                         <surname>Parlitz</surname>
                         <forename>Dietrich</forename>

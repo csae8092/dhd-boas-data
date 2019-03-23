@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT</title>
-                <author>
+                <author ref="#person__mareike-schumacher-uni-hamburg-de">
                     <persName>
                         <surname>Schumacher</surname>
                         <forename>Mareike</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>mareike.schumacher@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__jan-horstmann-uni-hamburg-de">
                     <persName>
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>

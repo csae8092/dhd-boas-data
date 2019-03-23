@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Grundzüge einer visuellen Stilometrie</title>
-                <author>
+                <author ref="#person__laubrock-uni-potsdam-de">
                     <persName>
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Potsdam, Deutschland</affiliation>
                     <email>laubrock@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__ddubray-uni-potsdam-de">
                     <persName>
                         <surname>Dubray</surname>
                         <forename>David</forename>

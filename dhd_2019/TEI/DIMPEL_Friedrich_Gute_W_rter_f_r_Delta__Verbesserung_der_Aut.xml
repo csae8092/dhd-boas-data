@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Gute Wörter für Delta: Verbesserung der Autorschaftsattribution durch autorspezifische distinktive Wörter</title>
-                <author>
+                <author ref="#person__mail-dimpel-de">
                     <persName>
                         <surname>Dimpel</surname>
                         <forename>Friedrich</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Erlangen</affiliation>
                     <email>mail@dimpel.de</email>
                 </author>
-                <author>
+                <author ref="#person__thomas-proisl-fau-de">
                     <persName>
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>

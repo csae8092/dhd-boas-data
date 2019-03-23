@@ -58,8 +58,8 @@ class TeiReader():
             timestamp = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d-%H-%M-%S')
             file = "{}.xml".format(timestamp)
 
-        with open(file, 'wb') as f:
-            f.write(ET.tostring(self.tree))
+        with open(file, 'w', encoding='utf-8') as f:
+            f.write(self.return_string())
         return file
 
     def replace_child_nodes(self, xpath_to_parent, new_child_nodes):
@@ -73,29 +73,51 @@ class TeiReader():
         return self.tree
 
     def get_author_nodes(self):
+
+        """
+        fetches all tei:author nodes form tei:titleStmt
+        :return: a list of tei:author nodes
+        """
+
         authors = self.tree.xpath(
             '//tei:titleStmt//tei:author[./tei:email]', namespaces=self.ns_tei
         )
         return authors
 
     def get_mail_addr(self):
+        """
+        :return: A tuple containg a tei:author node, the text node of its email child node\
+        and a slugified version of it
+        """
         for x in self.get_author_nodes():
             mail_addr = x.xpath(
                 './tei:email/text()', namespaces=self.ns_tei
             )[0]
-            slugged = "person__{}".format(slugify(mail_addr))
-            print(mail_addr)
+            slugged = slugify(mail_addr)
             yield (x, mail_addr, slugged)
 
-    def add_xml_ids(self):
+    def add_refs(self):
+        """
+        :return: writes @ref attributes into tei:author nodes and yields the node
+        """
         for x in self.get_mail_addr():
-            x[0].attrib['{http://www.w3.org/XML/1998/namespace}id'] = x[2]
-            print(x[0].attrib)
+            x[0].attrib['ref'] = "#person__{}".format(x[2])
             yield x
 
     def make_slug(self, node):
         slug = slugify(node)
         return slug
+
+    def fix_ids(self, node_name="tei:person", att_name="ana", substring_after="person__"):
+        expr = "//{}".format(node_name)
+        persons = self.tree.xpath(expr, namespaces=self.ns_tei)
+        expr = './@{}'.format(att_name)
+        for x in persons:
+            old_id = x.xpath(expr, namespaces=self.ns_tei)[0]
+            old_id = old_id.split(substring_after)[1]
+            new_id = "{}{}".format(substring_after, slugify(old_id))
+            x.attrib.pop("ana", None)
+            x.attrib["{http://www.w3.org/XML/1998/namespace}id"] = new_id
 
     def addr_lines(self):
         return self.tree.xpath('//tei:addrLine', namespaces=self.ns_tei)

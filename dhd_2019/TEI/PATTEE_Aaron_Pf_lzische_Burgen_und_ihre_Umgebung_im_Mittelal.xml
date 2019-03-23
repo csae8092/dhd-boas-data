@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Pfälzische Burgen und ihre Umgebung im Mittelalter, modelliert anhand von Neo4j, QGIS und 3D Modellen</title>
-                <author>
+                <author ref="#person__aaron-pattee-iwr-uni-heidelberg-de">
                     <persName>
                         <surname>Pattee</surname>
                         <forename>Aaron</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Ruprecht-Karls-Universität, Heidelberg</affiliation>
                     <email>aaron.pattee@iwr.uni-heidelberg.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-kuczera-adwmainz-de">
                     <persName>
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__armin-volkmann-asia-europe-uni-heidelberg-de">
                     <persName>
                         <surname>Volkmann</surname>
                         <forename>Armin</forename>

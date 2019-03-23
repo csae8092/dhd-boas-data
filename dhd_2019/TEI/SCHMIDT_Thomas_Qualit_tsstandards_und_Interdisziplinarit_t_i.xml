@@ -6,7 +6,7 @@
                     <title type="main">Qualitätsstandards und Interdisziplinarität in der Kuration audiovisueller (Sprach-)Daten</title>
                     <title type="sub">Dieser Beitrag ist leer</title>
                 </title>
-                <author>
+                <author ref="#person__thomas-schmidt-ids-mannheim-de">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>thomas.schmidt@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__hanna-hedeland-uni-hamburg-de">
                     <persName>
                         <surname>Hedeland</surname>
                         <forename>Hanna</forename>
@@ -30,7 +30,7 @@
                     <affiliation>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>hanna.hedeland@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__gorisch-ids-mannheim-de">
                     <persName>
                         <surname>Gorisch</surname>
                         <forename>Jan</forename>
@@ -38,7 +38,7 @@
                     <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>gorisch@ids-mannheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__f-rau-uni-koeln-de">
                     <persName>
                         <surname>Rau</surname>
                         <forename>Felix</forename>
@@ -46,7 +46,7 @@
                     <affiliation>Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
                     <email>f.rau@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__kai-woerner-uni-hamburg-de">
                     <persName>
                         <surname>Wörner</surname>
                         <forename>Kai</forename>

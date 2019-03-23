@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Historic Building Information Modeling (hBIM) und Linked Data – Neue Zugänge zum Forschungsgegenstand objektorientierter Fächer</title>
-                <author>
+                <author ref="#person__piotr-kuroczynski-hs-mainz-de">
                     <persName>
                         <surname>Kuroczyński</surname>
                         <forename>Piotr</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
                     <email>piotr.kuroczynski@hs-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__julia-brandt-hs-mainz-de">
                     <persName>
                         <surname>Brandt</surname>
                         <forename>Julia</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
                     <email>julia.brandt@hs-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__karolina-jara-hs-mainz-de">
                     <persName>
                         <surname>Jara</surname>
                         <forename>Karolina</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
                     <email>karolina.jara@hs-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__p-grosse-gnm-de">
                     <persName>
                         <surname>Grosse</surname>
                         <forename>Peggy</forename>

@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Potentielle Privatsphäreverletzungen aufdecken und automatisiert sichtbar machen</title>
-                <author>
+                <author ref="#person__fbaeumer-mail-upb-de">
                     <persName>
                         <surname>Bäumer</surname>
                         <forename>Frederik Simon</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Paderborn, Deutschland</affiliation>
                     <email>fbaeumer@mail.upb.de</email>
                 </author>
-                <author>
+                <author ref="#person__bbuff-mail-upb-de">
                     <persName>
                         <surname>Buff</surname>
                         <forename>Bianca</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Paderborn, Deutschland</affiliation>
                     <email>bbuff@mail.upb.de</email>
                 </author>
-                <author>
+                <author ref="#person__geierhos-mail-upb-de">
                     <persName>
                         <surname>Geierhos</surname>
                         <forename>Michaela</forename>

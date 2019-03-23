@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Texte digital annotieren und analysieren mit CATMA 6.0</title>
-                <author>
+                <author ref="#person__jan-horstmann-uni-hamburg-de">
                     <persName>
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__jan-c-meister-uni-hamburg-de">
                     <persName>
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>jan-c-meister@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__marco-petris-uni-hamburg-de">
                     <persName>
                         <surname>Petris</surname>
                         <forename>Marco</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>marco.petris@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__mareike-schumacher-uni-hamburg-de">
                     <persName>
                         <surname>Schumacher</surname>
                         <forename>Mareike</forename>

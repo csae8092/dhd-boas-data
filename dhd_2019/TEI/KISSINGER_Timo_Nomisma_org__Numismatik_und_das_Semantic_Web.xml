@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Nomisma.org: Numismatik und das Semantic Web</title>
-                <author>
+                <author ref="#person__david-wigg-wolf-dainst-de">
                     <persName>
                         <surname>Wigg-Wolf</surname>
                         <forename>David</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Römisch-Germanische Kommission des Deutschen Archäologischen Instituts</affiliation>
                     <email>david.wigg-wolf@dainst.de</email>
                 </author>
-                <author>
+                <author ref="#person__tolle-dbis-cs-uni-frankfurt-de">
                     <persName>
                         <surname>Tolle</surname>
                         <forename>Karsten</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
                     <email>tolle@dbis.cs.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__timo-kissinger-adwmainz-de">
                     <persName>
                         <surname>Kissinger</surname>
                         <forename>Timo</forename>

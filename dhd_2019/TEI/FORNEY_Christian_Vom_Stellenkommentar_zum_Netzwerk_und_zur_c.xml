@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Vom Stellenkommentar zum Netzwerk und zurück: grosse Quellenkorpora und tief erschlossene Strukturdaten auf hallerNet</title>
-                <author>
+                <author ref="#person__martin-stuber-hist-unibe-ch">
                     <persName>
                         <surname>Stuber</surname>
                         <forename>Martin</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Bern, Schweiz</affiliation>
                     <email>martin.stuber@hist.unibe.ch</email>
                 </author>
-                <author>
+                <author ref="#person__p-daengeli-uni-koeln-de">
                     <persName>
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Bern, Schweiz; Cologne Center for eHumanities</affiliation>
                     <email>p.daengeli@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__christian-forney-hist-unibe-ch">
                     <persName>
                         <surname>Forney</surname>
                         <forename>Christian</forename>

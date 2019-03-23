@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Korrektur von fehlerhaften OCR Ergebnissen durch automatisches Alignment mit Texten eines Korpus</title>
-                <author>
+                <author ref="#person__markusbald92-gmail-com">
                     <persName>
                         <surname>Bald</surname>
                         <forename>Markus</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>markusbald92@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__vincenzo-damiani-uni-wuerzburg-de">
                     <persName>
                         <surname>Damiani</surname>
                         <forename>Vincenzo</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>vincenzo.damiani@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__holger-essler-uni-wuerzburg-de">
                     <persName>
                         <surname>Essler</surname>
                         <forename>Holger</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>holger.essler@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__bjoern-eyselein-uni-wuerzburg-de">
                     <persName>
                         <surname>Eyeselein</surname>
                         <forename>Björn</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>bjoern.eyselein@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__christian-reul-uni-wuerzburg-de">
                     <persName>
                         <surname>Reul</surname>
                         <forename>Christian</forename>
@@ -43,7 +43,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>christian.reul@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__frank-puppe-uni-wuerzburg-de">
                     <persName>
                         <surname>Puppe</surname>
                         <forename>Frank</forename>

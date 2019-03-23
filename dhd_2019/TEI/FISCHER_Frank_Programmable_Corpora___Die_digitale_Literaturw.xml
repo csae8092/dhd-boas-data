@@ -6,7 +6,7 @@
                     <title type="main">Programmable Corpora – Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__frafis-gmail-com">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
                     <email>frafis@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__ingo-boerner-univie-ac-at">
                     <persName>
                         <surname>Ingo</surname>
                         <forename>Börner</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Universität Wien</affiliation>
                     <email>ingo.boerner@univie.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__goebel-sub-uni-goettingen-de">
                     <persName>
                         <surname>Mathias</surname>
                         <forename>Göbel</forename>
@@ -30,7 +30,7 @@
                     <affiliation>WU Wien</affiliation>
                     <email>goebel@sub.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__angelika-hechtl-wu-ac-at">
                     <persName>
                         <surname>Angelika</surname>
                         <forename>Hechtl</forename>
@@ -38,7 +38,7 @@
                     <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
                     <email>angelika.hechtl@wu.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__contact-christopherkittel-eu">
                     <persName>
                         <surname>Christopher</surname>
                         <forename>Kittel</forename>
@@ -46,7 +46,7 @@
                     <affiliation>Karl-Franzens-Universität Graz</affiliation>
                     <email>contact@christopherkittel.eu</email>
                 </author>
-                <author>
+                <author ref="#person__cmil-hashtable-de">
                     <persName>
                         <surname>Carsten</surname>
                         <forename>Milling</forename>
@@ -54,7 +54,7 @@
                     <affiliation>Berlin</affiliation>
                     <email>cmil@hashtable.de</email>
                 </author>
-                <author>
+                <author ref="#person__trilcke-uni-potsdam-de">
                     <persName>
                         <surname>Peer</surname>
                         <forename>Trilcke</forename>

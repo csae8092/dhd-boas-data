@@ -6,7 +6,7 @@
                     <title type="main">Vom gedruckten Werk zu elektronischem Volltext als Forschungsgrundlage</title>
                     <title type="sub"> Lorem ipsum</title>
                 </title>
-                <author>
+                <author ref="#person__boenig-bbaw-de">
                     <persName>
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>boenig@bbaw.de</email>
                 </author>
-                <author>
+                <author ref="#person__elisa-herrmann-hab-de">
                     <persName>
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
@@ -22,7 +22,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>elisa.herrmann@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__volker-hartmann-kit-edu">
                     <persName>
                         <surname>Hartmann</surname>
                         <forename>Volker</forename>

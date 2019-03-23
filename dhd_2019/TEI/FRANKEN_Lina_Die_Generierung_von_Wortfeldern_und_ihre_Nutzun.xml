@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title>
-                <author>
+                <author ref="#person__adelmann-informatik-uni-hamburg-de">
                     <persName>
                         <surname>Adelmann</surname>
                         <forename>Benedikt</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>adelmann@informatik.uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__lina-franken-uni-hamburg-de">
                     <persName>
                         <surname>Franken</surname>
                         <forename>Lina</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>lina.franken@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__evelyn-gius-uni-hamburg-de">
                     <persName>
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__katharina-krueger-uni-hamburg-de">
                     <persName>
                         <surname>Krüger</surname>
                         <forename>Katharina</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>katharina.krueger@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__michael-vauth-tuhh-de">
                     <persName>
                         <surname>Vauth</surname>
                         <forename>Michael</forename>

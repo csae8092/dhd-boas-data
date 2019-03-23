@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Methoden auf der Testbank: Ein interdisziplinäres, multimodales Lehrkonzept zur Beantwortung einer fachhistorischen Fragestellung</title>
-                <author>
+                <author ref="#person__katrin-moeller-geschichte-uni-halle-de">
                     <persName>
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>katrin.moeller@geschichte.uni-halle.de</email>
                 </author>
-                <author>
+                <author ref="#person__anderas-mueller-geschichte-uni-halle-de">
                     <persName>
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>anderas.mueller@geschichte.uni-halle.de</email>
                 </author>
-                <author>
+                <author ref="#person__anne-purschwitz-geschichte-uni-halle-de">
                     <persName>
                         <surname>Purschwitz</surname>
                         <forename>Anne</forename>

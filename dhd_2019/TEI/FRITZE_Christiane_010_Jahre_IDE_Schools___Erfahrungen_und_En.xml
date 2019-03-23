@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>010 Jahre IDE-Schools – Erfahrungen und Entwicklungen in der außeruniversitären DH-Ausbildung</title>
-                <author>
+                <author ref="#person__christiane-fritze-onb-ac-at">
                     <persName>
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
                     <email>christiane.fritze@onb.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__franz-fischer-uni-koeln-de">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__georg-vogeler-uni-graz-at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
-                <author>
+                <author ref="#person__schnoepf-i-d-e-de">
                     <persName>
                         <surname>Schnöpf</surname>
                         <forename>Markus</forename>
@@ -35,7 +35,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>schnoepf@i-d-e.de</email>
                 </author>
-                <author>
+                <author ref="#person__martina-scholger-uni-graz-at">
                     <persName>
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
@@ -43,7 +43,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>martina.scholger@uni-graz.at</email>
                 </author>
-                <author>
+                <author ref="#person__sahle-uni-koeln-de">
                     <persName>
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>

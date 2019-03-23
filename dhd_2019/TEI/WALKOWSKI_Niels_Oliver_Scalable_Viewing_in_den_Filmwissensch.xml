@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Scalable Viewing in den Filmwissenschaften</title>
-                <author>
+                <author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Universität Leipzig</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__johannes-pause-uni-lu">
                     <persName>
                         <surname>Pause</surname>
                         <forename>Johannes</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Universität Luxemburg</affiliation>
                     <email>johannes.pause@uni.lu</email>
                 </author>
-                <author>
+                <author ref="#person__walkowski-nowalkowski-de">
                     <persName>
                         <surname>Walkowski</surname>
                         <forename>Niels-Oliver</forename>

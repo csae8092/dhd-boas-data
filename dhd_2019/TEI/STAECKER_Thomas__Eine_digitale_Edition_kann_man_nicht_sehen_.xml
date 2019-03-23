@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>“Eine digitale Edition kann man nicht sehen” - Gedanken zu Struktur und Persistenz digitaler Editionen</title>
-                <author>
+                <author ref="#person__thomas-staecker-ulb-tu-darmstadt-de">
                     <persName>
                         <surname>Staecker</surname>
                         <forename>Thomas</forename>

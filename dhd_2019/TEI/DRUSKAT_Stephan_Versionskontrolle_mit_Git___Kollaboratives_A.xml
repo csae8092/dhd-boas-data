@@ -6,7 +6,7 @@
                     <title type="main">Versionskontrolle mit Git + Kollaboratives Arbeiten im Web mit GitHub</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__stephan-druskat-hu-berlin-de">
                     <persName>
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
@@ -14,7 +14,7 @@
                     <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__annika-rockenberger-nb-no">
                     <persName>
                         <surname>Rockenberger</surname>
                         <forename>Annika</forename>

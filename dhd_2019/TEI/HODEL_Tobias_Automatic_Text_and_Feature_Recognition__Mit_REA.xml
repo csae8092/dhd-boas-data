@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Automatic Text and Feature Recognition: Mit READ Werkzeugen Texte erkennen und Dokumente analysieren</title>
-                <author>
+                <author ref="#person__tobias-hodel-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                     <email>tobias.hodel@uzh.ch</email>
                 </author>
-                <author>
+                <author ref="#person__diem-cvl-tuwien-ac-at">
                     <persName>
                         <surname>Diem</surname>
                         <forename>Markus</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Computer Vision Lab, TU Wien</affiliation>
                     <email>diem@cvl.tuwien.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__sofia-oliveiraares-epfl-ch">
                     <persName>
                         <surname>Oliveira Ares</surname>
                         <forename>Sofia</forename>
@@ -27,7 +27,7 @@
                     <affiliation>Digital Humanities Lab, EPF Lausanne</affiliation>
                     <email>sofia.oliveiraares@epfl.ch</email>
                 </author>
-                <author>
+                <author ref="#person__max-weidemann-uni-rostock-de">
                     <persName>
                         <surname>Weidemann</surname>
                         <forename>Max</forename>

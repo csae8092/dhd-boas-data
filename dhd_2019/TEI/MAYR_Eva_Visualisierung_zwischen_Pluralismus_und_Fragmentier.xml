@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Visualisierung zwischen Pluralismus und Fragmentierung: Zur Integration von multiplen Perspektiven auf kulturelle Sammlungen</title>
-                <author>
+                <author ref="#person__eva-mayr-donau-uni-ac-at">
                     <persName>
                         <surname>Mayr</surname>
                         <forename>Eva</forename>
@@ -11,7 +11,7 @@
                     <affiliation>Donau Universität Krems, Österreich</affiliation>
                     <email>eva.mayr@donau-uni.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__florian-windhager-donau-uni-ac-at">
                     <persName>
                         <surname>Windhager</surname>
                         <forename>Florian</forename>
@@ -19,7 +19,7 @@
                     <affiliation>Donau Universität Krems, Österreich</affiliation>
                     <email>florian.windhager@donau-uni.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__guenther-schreder-donau-uni-ac-at">
                     <persName>
                         <surname>Schreder</surname>
                         <forename>Günther</forename>

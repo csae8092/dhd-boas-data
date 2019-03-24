@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <listPerson>
+            <listPerson xml:id="listperson">
                 <person xml:id="person__abrami-em-uni-frankfurt-de">
                     <persName>
                         <surname>Abrami</surname>

@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <listOrg>
+            <listOrg xml:id="listorg">
                 <org xml:id="org__2">
                     <orgName>Akademie der Wissenschaften Mainz - Digitale Akademie,
                         Deutschland</orgName>

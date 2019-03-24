@@ -39,17 +39,28 @@ def get_place_of_business_id(gnd="http://d-nb.info/gnd/112454-7"):
         return None
 
 
-def get_place_of_business_coords(gnd="http://d-nb.info/gnd/112454-7"):
+def get_place_of_business_info(gnd="http://d-nb.info/gnd/112454-7"):
     """
-    Gets the coordinates of the (first) placeOfBusiness object for the passed in GND-ID/URL
+    Gets the coordinates, names and gnd-id
+    of the (first) placeOfBusiness object for the passed in GND-ID/URL
     :param gnd: A GND URL e.g. http://d-nb.info/gnd/4048989-9 or GND ID 2067664-5
-    :return: A tuple like (11.338888, 44.493888)
+    :return: A dict like {
+        "coords": [11.338888, 44.493888],
+        "gnd_id": "http://d-nb.info/gnd/4007616-7",
+        "pref_name": "Bologna"
     """
     lobid_url = get_place_of_business_id(gnd=gnd)
     if lobid_url is not None:
         r = requests.get(gnd_url_to_lobid_json(lobid_url))
         wkt = r.json()['hasGeometry'][0]['asWKT'][0]
         coords = coords_from_wkt(wkt)
-        return coords
+        gnd_id = r.json()['id']
+        pref_name = r.json()['preferredName']
+        result = {
+            "coords": coords,
+            "gnd_id": gnd_id,
+            "pref_name": pref_name
+        }
+        return result
     else:
         return None

@@ -1,6 +1,8 @@
 from lxml import etree as ET
 from slugify import slugify
 
+from lobid_utils import get_place_of_business_info
+
 
 class TeiReader():
 
@@ -175,3 +177,38 @@ class TeiReader():
             )
         )
         return md
+
+
+class ListOrg(TeiReader):
+    """ a class to read an process tei-documents"""
+
+    def get_orgs(self):
+        items = self.tree.xpath(
+            './/tei:listOrg//tei:org[./tei:idno[@type="GND"] and not(./tei:location)]',
+            namespaces=self.ns_tei
+        )
+        for x in items:
+            yield x
+
+    def get_gnd(self, node):
+        gnd = node.xpath('./tei:idno[@type="GND"]', namespaces=self.ns_tei)[0].text
+        return gnd
+
+    def add_coords(self):
+        for x in self.get_orgs():
+            gnd_url = self.get_gnd(x)
+            result = get_place_of_business_info(gnd=gnd_url)
+            if result is not None:
+                location = ET.Element("{http://www.tei-c.org/ns/1.0}location")
+                placename = ET.Element('placeName')
+                placename.text = result['pref_name']
+                placename.attrib['key'] = result['gnd_id']
+                geo = ET.Element('geo')
+                coords = result['coords']
+                geo.text = "{} {}".format(coords[0], coords[1])
+                location.append(placename)
+                location.append(geo)
+                x.append(location)
+                yield x
+            else:
+                yield x

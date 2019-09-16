@@ -239,30 +239,30 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__398">
                         <hi rend="bold">Jurafsky Daniel / Martin James H.</hi> (2016): "Spelling Correction and the Noisy Channel" 
                         <hi rend="italic">In:</hi>
                         <hi rend="italic">Speech and Language Processing</hi>, 3. Edition, S. 61-73.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__399">
                         <hi rend="bold">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke</hi> (2016): "The Royal Society Corpus: From Uncharted Data to Corpus", in: 
                         <hi rend="italic">Proceedings of the Tenth International </hi>
                         <hi rend="italic">Conference on Language Resources and Evaluation (LREC 2016). European Language Resources </hi>
                         <hi rend="italic">Association (ELRA)</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__400">
                         <hi rend="bold">Knappen, Jörg / Fischer, Stefan / Kermes, Hannah / Teich, Elke / Fankhauser, Peter </hi>(2017): "The Making of the Royal Society Corpus", in 
                         <hi rend="italic">ListLang@NoDaLiDa</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__401">
                         <hi rend="bold">Norvig, Peter </hi>(2008): "Natural Language Corpus Data: Beautiful Data". [online] 
                         <ptr target="http://norvig.com/ngrams/"/> [letzter Zugriff 08. November 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__402">
                         <hi rend="bold">Shannon, Claude E.</hi> (1948): "A Mathematical Theory of Communication", in 
                         <hi rend="italic">Bell System Technical Journal</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__403">
                         <hi rend="bold">UdS Fedora Commons Repository</hi>
                         <hi rend="bold"> </hi>(o.J.)
                         <hi rend="bold"> </hi>"The Royal Society Corpus (RSC)"

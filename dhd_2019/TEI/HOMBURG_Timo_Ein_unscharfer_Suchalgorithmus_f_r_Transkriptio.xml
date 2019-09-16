@@ -201,90 +201,90 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__320">
                         <hi rend="bold">Brockelmann, C., Fischer, A., Heffening, W., Taeschner, F.</hi> (1935): Die Transliteration
                     </bibl>
-                    <bibl>der arabischen Schrift in ihrer Anwendung auf die Hauptliteratursprachen der</bibl>
-                    <bibl>islamischen Welt. Denkschrift dem 19. Internationalen Orientalistenkongreß in</bibl>
-                    <bibl>Rom.</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__321">der arabischen Schrift in ihrer Anwendung auf die Hauptliteratursprachen der</bibl>
+                    <bibl ref="#bibl__322">islamischen Welt. Denkschrift dem 19. Internationalen Orientalistenkongreß in</bibl>
+                    <bibl ref="#bibl__323">Rom.</bibl>
+                    <bibl ref="#bibl__324">
                         <anchor type="bookmark-start" xml:id="id___DdeLink__1496_2794174069"/>
                         <hi rend="bold">De La Briandais</hi>
                         <ptr type="bookmark-end" target="#id___DdeLink__1496_2794174069"/>
                         <hi rend="bold">, R.</hi> (1959): File searching using variable length keys. In: Papers presented
                     </bibl>
-                    <bibl>at the the March 3-5, 1959, western joint computer conference. pp. 295–298. ACM.</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__325">at the the March 3-5, 1959, western joint computer conference. pp. 295–298. ACM.</bibl>
+                    <bibl ref="#bibl__326">
                         <hi rend="bold">Homburg, T.</hi> (2017): Postagging and semantic dictionary creation for hittite cuneiform.
                     </bibl>
-                    <bibl>In: DH2017 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__327">In: DH2017 .</bibl>
+                    <bibl ref="#bibl__328">
                         <hi rend="bold">Homburg, T.</hi> (2018): Semantische Extraktion auf antiken Schriften am Beispiel von
                     </bibl>
-                    <bibl>Keilschriftsprachen mithilfe semantischer Wörterbücher. In: Dhd2018 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__329">Keilschriftsprachen mithilfe semantischer Wörterbücher. In: Dhd2018 .</bibl>
+                    <bibl ref="#bibl__330">
                         <hi rend="bold">Homburg, T., Chiarcos, C.</hi> (2016): Word segmentation for akkadian cuneiform. In: LREC
                     </bibl>
-                    <bibl>2016 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__331">2016 .</bibl>
+                    <bibl ref="#bibl__332">
                         <hi rend="bold">Homburg, T., Chiarcos, C., Richter, T., Wicke, D.</hi> (2015): Learning cuneiform the modern
                     </bibl>
-                    <bibl>way, http://gams.uni-graz.at/o:dhd2015.p.55 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__333">way, http://gams.uni-graz.at/o:dhd2015.p.55 .</bibl>
+                    <bibl ref="#bibl__334">
                         <hi rend="bold">Krueger, M.H., Neeson, K.D.</hi> (2000): Japanese text input method using a limited roman
                     </bibl>
-                    <bibl>character set, uS Patent 6,098,086 </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__335">character set, uS Patent 6,098,086 </bibl>
+                    <bibl ref="#bibl__336">
                         <hi rend="bold">Kukich, K.</hi> (1992): Techniques for automatically correcting words in text. ACM
                     </bibl>
-                    <bibl>Computing Surveys 24,4 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__337">Computing Surveys 24,4 .</bibl>
+                    <bibl ref="#bibl__338">
                         <hi rend="bold">Lasko, T.A., Hauser, S.E.</hi> (2001): Approximate string matching algorithms for limited-
                     </bibl>
-                    <bibl>vocabulary ocr output correction, http://citeseerx.ist.psu.edu/</bibl>
-                    <bibl>viewdoc/download?doi=10.1.1.80.1064&amp;rep=rep1&amp;type=pdf .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__339">vocabulary ocr output correction, http://citeseerx.ist.psu.edu/</bibl>
+                    <bibl ref="#bibl__340">viewdoc/download?doi=10.1.1.80.1064&amp;rep=rep1&amp;type=pdf .</bibl>
+                    <bibl ref="#bibl__27">
                         <hi rend="bold">Levenshtein, V.I.</hi> (1966): Binary codes capable of correcting deletions, insertions, and
                     </bibl>
-                    <bibl>reversals. Soviet Physics Doklady 10,8 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__341">reversals. Soviet Physics Doklady 10,8 .</bibl>
+                    <bibl ref="#bibl__342">
                         <hi rend="bold">Pedersen, T.T.</hi>
                         <hi rend="bold"> </hi>(2008): Transliteration of arabic, 
                         <anchor type="bookmark-start" xml:id="id___DdeLink__2413_1709615909"/>http://transliteration.eki.ee/pdf/
                     </bibl>
-                    <bibl>Arabic_2.2.pdf
+                    <bibl ref="#bibl__343">Arabic_2.2.pdf
                         <ptr type="bookmark-end" target="#id___DdeLink__2413_1709615909"/> .
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__344">
                         <hi rend="bold">Schlott-Kotschote, A.</hi> (2004): Transkription arabischer Schriften. Vorschläge für eine
                     </bibl>
-                    <bibl>einheitliche Umschrift arabischer Bezeichnungen .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__345">einheitliche Umschrift arabischer Bezeichnungen .</bibl>
+                    <bibl ref="#bibl__346">
                         <hi rend="bold">Schulz, K.U., Mihov, S. </hi>(2002): Fast string correction with levenshtein automata.
                     </bibl>
-                    <bibl>International Journal on Document Analysis and Recognition 5 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__347">International Journal on Document Analysis and Recognition 5 .</bibl>
+                    <bibl ref="#bibl__348">
                         <hi rend="bold">UNGEGN Working Group, R.S. </hi>(2016): Arabic. report on the current state of united
                     </bibl>
-                    <bibl>nations romanization systems for geographical names. version 4.0,</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__349">nations romanization systems for geographical names. version 4.0,</bibl>
+                    <bibl ref="#bibl__350">
                         <ptr target="http://www.eki.ee/wgrs/rom1_ar.pdf"/> .
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__351">
                         <hi rend="bold">Weigel, A., Baumann, S., Rohrschneider, J. </hi>(1995): Lexical postprocessing by heuristic
                     </bibl>
-                    <bibl>search and automatic determination of the edit costs. In: Proceedings of the Third</bibl>
-                    <bibl>International Conference on Document Analysis and Recognition .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__352">search and automatic determination of the edit costs. In: Proceedings of the Third</bibl>
+                    <bibl ref="#bibl__353">International Conference on Document Analysis and Recognition .</bibl>
+                    <bibl ref="#bibl__354">
                         <hi rend="bold">Zgank, Kacic </hi>(2012): Predicting the acoustic confusability between words for a speech
                     </bibl>
-                    <bibl>recognition system using levenshtein distance, http://eejournal.ktu.lt/</bibl>
-                    <bibl>index.php/elt/article/download/2628/1917 .</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__355">recognition system using levenshtein distance, http://eejournal.ktu.lt/</bibl>
+                    <bibl ref="#bibl__356">index.php/elt/article/download/2628/1917 .</bibl>
+                    <bibl ref="#bibl__357">
                         <hi rend="bold">Ziółko, B., Gałka, J., Skurzok, D., Jadczyk, T. </hi>(2010): Modified weighted levenshtein
                     </bibl>
-                    <bibl>distance in automatic speech recognition, http://www.dsp.agh.edu.pl/</bibl>
-                    <bibl>_media/pl:bziolko_kkzmbm2010final.pdf .</bibl>
+                    <bibl ref="#bibl__358">distance in automatic speech recognition, http://www.dsp.agh.edu.pl/</bibl>
+                    <bibl ref="#bibl__359">_media/pl:bziolko_kkzmbm2010final.pdf .</bibl>
                 </listBibl>
             </div>
         </back>

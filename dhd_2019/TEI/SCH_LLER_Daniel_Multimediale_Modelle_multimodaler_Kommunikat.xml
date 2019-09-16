@@ -100,31 +100,31 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">Beecks, C., Hassani, M., Hinnell, J., Schüller, D., Brenger, B., Mittelberg, I., Seidl, T. (2015). Spatiotemporal Similarity Search in 3D Motion Capture Gesture Streams. In: 
+                    <bibl style="text-align:left; " ref="#bibl__1032">Beecks, C., Hassani, M., Hinnell, J., Schüller, D., Brenger, B., Mittelberg, I., Seidl, T. (2015). Spatiotemporal Similarity Search in 3D Motion Capture Gesture Streams. In: 
                         <hi rend="italic">Proceedings of the 14th International Symposium on Spatial and Temporal Databases (SSTD)</hi>, Seoul, South Korea, August 26-28, 2015. S.355–372.
                     </bibl>
-                    <bibl style="text-align:left; ">Beecks, C., Hassani, M., Hinnell, J., Schüller, D., Brenger, B., Mittelberg, I, Seidl, T. (2016). Efficient Query Processing in 3D Motion Capture Databases via Lower Bound Approximation of the Gesture Matching Distance. In
+                    <bibl style="text-align:left; " ref="#bibl__1033">Beecks, C., Hassani, M., Hinnell, J., Schüller, D., Brenger, B., Mittelberg, I, Seidl, T. (2016). Efficient Query Processing in 3D Motion Capture Databases via Lower Bound Approximation of the Gesture Matching Distance. In
                         <hi rend="italic">: International Journal of Semantic Computing</hi>, 10(1), 5-25.
                     </bibl>
-                    <bibl style="text-align:left; ">Goodman, Nelson (1997). Sprachen der Kunst. Entwurf einer Symboltheorie. Frankfurt a. M.: Suhrkamp.</bibl>
-                    <bibl style="text-align:left; ">Jäger, Ludwig (2004). Transkription - zu einem medialen Verfahren an den Schnittstellen des kulturellen Gedächtnisses
+                    <bibl style="text-align:left; " ref="#bibl__1034">Goodman, Nelson (1997). Sprachen der Kunst. Entwurf einer Symboltheorie. Frankfurt a. M.: Suhrkamp.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__1035">Jäger, Ludwig (2004). Transkription - zu einem medialen Verfahren an den Schnittstellen des kulturellen Gedächtnisses
                         <hi rend="italic">.</hi> In: 
                         <hi rend="italic">TRANS Internet-Zeitschrift für Kulturwissenschaften</hi>, 15 Nr., September 2004.
                     </bibl>
-                    <bibl style="text-align:left; ">Jäger, Ludwig (2012). 
+                    <bibl style="text-align:left; " ref="#bibl__1036">Jäger, Ludwig (2012). 
                         <hi rend="italic">Transkription</hi>. In: Christina Bartz, Ludwig Jäger, Marcus Krause und Erika Linz (eds.): Handbuch der Mediologie. Signaturen des Medialen. München: Fink, S.306-315.
                     </bibl>
-                    <bibl style="text-align:left; ">McNeill, David (1992). Hand and mind: What Gestures Reveal about Thought. Chicago: Chicago University Press.</bibl>
-                    <bibl style="text-align:left; ">Müller, Cornelia (1998). Redebegleitende Gesten. Kulturgeschichte - Theorie – Sprachvergleich. Berlin: Berliner Wissenschafts-Verlag.</bibl>
-                    <bibl style="text-align:left; ">Müller, Cornelia, Alan Cienki, Ellen Fricke, Silva Ladwig, David McNeill und Sedinha Teßendorf (eds.) (2013). Body – Language – Communication. An International Handbook on Multimodality in Human Interaction (Handbooks of Linguistics and Communication Science 38.1). Berlin, Boston: Mouton de Gruyter.</bibl>
-                    <bibl style="text-align:left; ">Müller, Cornelia, Alan Cienki, Ellen Fricke, Silva Ladwig, David McNeill und Jana Bressem (eds.) (2014). Body – Language – Communication. An International Handbook on Multimodality in Human Interaction (Handbooks of Linguistics and Communication Science 38.2). Berlin, Boston: Mouton de Gruyter.</bibl>
-                    <bibl style="text-align:left; ">Schüller, D., Beecks, C., Hassani, M., Hinnell, J., Brenger, B., Seidl, T. und I. Mittelberg (2017). Automated Pattern Analysis in Gesture Research: Similarity Measuring in 3D Motion Capture Models of Communicative Action. In: 
+                    <bibl style="text-align:left; " ref="#bibl__1037">McNeill, David (1992). Hand and mind: What Gestures Reveal about Thought. Chicago: Chicago University Press.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__1038">Müller, Cornelia (1998). Redebegleitende Gesten. Kulturgeschichte - Theorie – Sprachvergleich. Berlin: Berliner Wissenschafts-Verlag.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__56">Müller, Cornelia, Alan Cienki, Ellen Fricke, Silva Ladwig, David McNeill und Sedinha Teßendorf (eds.) (2013). Body – Language – Communication. An International Handbook on Multimodality in Human Interaction (Handbooks of Linguistics and Communication Science 38.1). Berlin, Boston: Mouton de Gruyter.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__56">Müller, Cornelia, Alan Cienki, Ellen Fricke, Silva Ladwig, David McNeill und Jana Bressem (eds.) (2014). Body – Language – Communication. An International Handbook on Multimodality in Human Interaction (Handbooks of Linguistics and Communication Science 38.2). Berlin, Boston: Mouton de Gruyter.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__1039">Schüller, D., Beecks, C., Hassani, M., Hinnell, J., Brenger, B., Seidl, T. und I. Mittelberg (2017). Automated Pattern Analysis in Gesture Research: Similarity Measuring in 3D Motion Capture Models of Communicative Action. In: 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 2017:11.2.
                     </bibl>
-                    <bibl style="text-align:left; ">Schüller, D., Mittelberg, I. (2016/ erschienen 2018). Diagramme von Gesten: Eine zeichentheoretische Analyse digitaler Bewegungsspuren. In: 
+                    <bibl style="text-align:left; " ref="#bibl__1040">Schüller, D., Mittelberg, I. (2016/ erschienen 2018). Diagramme von Gesten: Eine zeichentheoretische Analyse digitaler Bewegungsspuren. In: 
                         <hi rend="italic">Zeitschrift für Semiotik</hi> 38, 3-4, S.7-38.
                     </bibl>
-                    <bibl style="text-align:left; ">Schüller, D., Mittelberg, I. (2017/ erschienen 2018). Motion-Capture-gestützte Gestenforschung. Zur Relevanz der Notationstheorie in den Digitalen Geisteswissenschaften. In: 
+                    <bibl style="text-align:left; " ref="#bibl__1041">Schüller, D., Mittelberg, I. (2017/ erschienen 2018). Motion-Capture-gestützte Gestenforschung. Zur Relevanz der Notationstheorie in den Digitalen Geisteswissenschaften. In: 
                         <hi rend="italic">Zeitschrift für Semiotik</hi> 39, 1-2, S.109-146.
                     </bibl>
                 </listBibl>

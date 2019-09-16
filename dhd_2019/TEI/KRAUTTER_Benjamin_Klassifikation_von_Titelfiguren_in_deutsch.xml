@@ -352,24 +352,24 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__487">
                         <hi rend="bold">Algee-Hewitt, Mark </hi>(2018): „Distributed Character: Quantitative Models of the English Stage, 1500-1920“, in: 
                         <hi rend="italic">Digital Humanities 2017: Conference Abstracts</hi>: 119–121.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__488">
                         <hi rend="bold">Alt, Peter-André</hi> (1994): 
                         <hi rend="italic">Tragödie der Aufklärung</hi>. 
                         <hi rend="italic">Eine Einführung</hi>. Basel / Tübingen: Francke.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__489">
                         <hi rend="bold">Breiman, Leo</hi> (2001): „Random Forests“, in: 
                         <hi rend="italic">Machine Learning</hi> 24(2): 5–32.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__490">
                         <hi rend="bold">Declerck, Thierry / Koleva, Nikolina / Krieger, Hans-Ulrich </hi>(2012): „Ontology-Based Incremental Annotation of Characters in Folktales“, in: 
                         <hi rend="italic">Proceedings of the 6th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</hi>: 30–34 http://www.aclweb.org/anthology/W12-1006 [letzter Zugriff 13. Oktober 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__491">
                         <hi rend="fontstyle01">
                             <hi rend="bold">Fick, Monika</hi> (2000): „Emilia Galotti“, in: 
                             <hi rend="italic">Lessing Handbuch. Leben</hi>
@@ -383,65 +383,65 @@
                             <hi rend="italic">Wirkung.</hi> Stuttgart: Metzler 316–343.
                         </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__492">
                         <hi rend="bold">Finlayson, Mark A.</hi> (2017): „‚ProppLearner‘: Deeply Annotating a Corpus of Russian Folktales to Enable the Machine Learning of a Russian Formalist Theory“, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> 32(2): 284–300 https://doi.org/10.1093/llc/fqv067 [letzter Zugriff 13. Oktober 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__493">
                         <hi rend="bold">Fischer, Frank / Trilcke, Peer / Milling, Carsten / Skorinkin, Daniil</hi> (2018): „To Catch a Protagonist: Quantitative Dominance Relations in German-Language Drama (1730–1930)“, in: 
                         <hi rend="italic">Digitial Humanities 2018: Conference Abstracts</hi>: 193–201.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__494">
                         <hi rend="bold">Ho, Tin Kam</hi> (1995): „Random Decision Forests“, in: 
                         <hi rend="italic">Proceedings of the 3rd International Conference on Document Analysis and Recognition</hi>: 278–282.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__495">
                         <hi rend="bold">Jannidis, Fotis</hi> (2004): 
                         <hi rend="italic">Figur und Person. Beitrag zu einer historischen Narratologie</hi>. Berlin: de Gruyter.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__496">
                         <hi rend="bold">Jannidis, Fotis / Reger, Isabella / Krug, Markus / Weimer, Lukas / Macharowsky, Luisa / Puppe, Frank</hi> (2016): „Comparison of Methods for the Identification of Main Characters in German Novels“, in: 
                         <hi rend="italic">Digital Humanities 2016: Conference Abstracts</hi>: 578–582.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__497">
                         <hi rend="bold">Krautter, Benjamin / Pagel, Janis / Reiter, Nils / Willand, Marcus</hi> (2018): „Titelhelden und Protagonisten – Interpretierbare Figurenklassifikation in deutschsprachigen Dramen“, in: 
                         <hi rend="italic">Litlab Pamphlet</hi> 7.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__498">
                         <hi rend="bold">Lessing, Gotthold Ephraim</hi> (2000 [1772]): „Emilia Galotti. Ein Trauerspiel in fünf Aufzügen“, in: Bohnen, Klaus (ed.): 
                         <hi rend="italic" xml:space="preserve">Lessing Werke und Briefe. </hi>Bd. 7. Werke 1770–1773. Frankfurt a.M.: Deutscher Klassiker-Verlag 291–371.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__499">
                         <hi rend="bold">Martus, Steffen</hi> (2011): „Transformationen des Heroismus. Zum politischen Wissen der Tragödie im 18. Jahrhundert am Beispiel von J. E. Schlegels 
                         <hi rend="italic">Canut</hi>“, in: Burkhard, Torsten / Hundt, Markus / Martus, Steffen / Ort, Claus-Michael (eds.): 
                         <hi rend="italic">Politik – Ethik – Poetik. Diskurse und Medien frühneuzeitlichen Wissens</hi>. Berlin: Akademie Verlag 15–42.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__42">
                         <hi rend="bold">Moretti, Franco</hi> (2011): „Network Theory, Plot Analysis”, in: 
                         <hi rend="italic">Literary Lab Pamphlet</hi> 2. https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf [letzter Zugriff 13. Oktober 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__500">
                         <hi rend="bold">Moretti, Franco</hi> (2013): „‚Operationalizing‘: or, the Function of Measurement in Modern Literary Theory“, in: 
                         <hi rend="italic">Literary Lab Pamphlet</hi> 6. https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf [letzter Zugriff 13. Oktober 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__501">
                         <hi rend="bold">Pfister, Manfred</hi> (2001 [1977]): 
                         <hi rend="italic">Das Drama</hi>. 
                         <hi rend="italic">Theorie und Analyse</hi>. München: Fink.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__502">
                         <hi rend="bold">Platz-Waury, Elke</hi> (2007 [1997]): „Art. Figurenkonstellation“, in: Weimar, Klaus / Fricke, Harald / Grubmüller, Klaus / Müller, Jan-Dirk (eds.): 
                         <hi rend="italic">Reallexikon der deutschen Literaturwissenschaft</hi>. Bd. 1. Berlin / New York: De Gruyter 591–593.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__503">
                         <hi rend="bold">Plett, Bettina</hi> (2002): 
                         <hi rend="italic">Problematische Naturen? Held und Heroismus im realistischen Erzählen</hi>. München / Paderborn / Wien / Zürich: Schöningh.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__504">
                         <hi rend="bold">Reiter, Nils / Krautter, Benjamin / Pagel, Janis / Willand, Marcus</hi> (2018): „Detecting Protagonists in German Plays around 1800 as a Classification Task“, in: 
                         <hi rend="italic">EADH 2018: Conference Abstracts</hi>. http://dx.doi.org/10.18419/opus-10162 [letzter Zugriff 22.12.2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__505">
                         <hi rend="fontstyle01">
                             <hi rend="bold">Ter-</hi>
                             <hi rend="bold">Nedden</hi>
@@ -449,7 +449,7 @@
                             <hi rend="italic">Lessings Trauerspiele. Der Ursprung des modernen Dramas aus dem Geist der Kritik</hi>. Stuttgart: Metzler.
                         </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__506">
                         <hi rend="fontstyle01">
                             <hi rend="bold">Trilcke</hi>
                             <hi rend="bold">, Peer</hi> (2013): „

@@ -84,25 +84,25 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Beyer, Hartmut / Münkner, Jörn / Schmidt, Katrin / Steyer, Timo (2017): Bibliotheken im Buch: Die Erschließung von privaten Büchersammlungen der Frühneuzeit über Auktionskataloge, in: Hannah Busch, Franz Fischer und Patrick Sahle [Hrsg.]: Kodikologie und Paläographie im digitalen Zeitalter 4 (Codicology and Palaeography in the Digital Age). Norderstedt 2017. S. 43-70.</bibl>
-                    <bibl>Borek, Louise (2014): TaDiRAH – Taxonomy of Digital Research Activities in the Humanities, in: DHd-Blog. 
+                    <bibl ref="#bibl__141">Beyer, Hartmut / Münkner, Jörn / Schmidt, Katrin / Steyer, Timo (2017): Bibliotheken im Buch: Die Erschließung von privaten Büchersammlungen der Frühneuzeit über Auktionskataloge, in: Hannah Busch, Franz Fischer und Patrick Sahle [Hrsg.]: Kodikologie und Paläographie im digitalen Zeitalter 4 (Codicology and Palaeography in the Digital Age). Norderstedt 2017. S. 43-70.</bibl>
+                    <bibl ref="#bibl__142">Borek, Louise (2014): TaDiRAH – Taxonomy of Digital Research Activities in the Humanities, in: DHd-Blog. 
                         <ref target="https://dhd-blog.org/?p=3073">
                             <hi rend="underline color(1155CC)">https://dhd-blog.org/?p=3073</hi>
                         </ref> [letzter Zugriff: 27.09.2018].
                     </bibl>
-                    <bibl>Cremer, Fabian /Wübbena, Thorsten: The next big thing will be a lot of small things – Serviceorientierung als Modell für die Infrastrukturlandschaft, in: DHd-Blog 
+                    <bibl ref="#bibl__143">Cremer, Fabian /Wübbena, Thorsten: The next big thing will be a lot of small things – Serviceorientierung als Modell für die Infrastrukturlandschaft, in: DHd-Blog 
                         <ref target="https://dhd-blog.org/?p=10480">
                             <hi rend="underline color(1155CC)">https://dhd-blog.org/?p=10480</hi>
                         </ref> [letzter Zugriff: 27.09.2018]. 
                     </bibl>
-                    <bibl>Dogunke, Swantje, Steyer, Timo und Mayer, Corinna: "Barcamp Data and Demons: von Bestands- und Forschungsdaten zu Services. Treffen sich ein Bibliothekar, eine Archäologin, ein Informatiker, …". In:LIBREAS. Library Ideas, Nr. 33 (2018). 
+                    <bibl ref="#bibl__12">Dogunke, Swantje, Steyer, Timo und Mayer, Corinna: "Barcamp Data and Demons: von Bestands- und Forschungsdaten zu Services. Treffen sich ein Bibliothekar, eine Archäologin, ein Informatiker, …". In:LIBREAS. Library Ideas, Nr. 33 (2018). 
                         <ref target="https://libreas.eu/ausgabe33/dogunke/%20">https://libreas.eu/ausgabe33/dogunke/</ref> [letzter Zugriff: 6.09.2018].
                     </bibl>
-                    <bibl>Gradl, Tobias, Henrich, Andreas, Plutte, Christoph: Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Föderation von Kollektionen. In: Constanze Baum und Thomas Stäcker (Hrsg.): Grenzen und Möglichkeiten der Digital Humanities. 2015. 
+                    <bibl ref="#bibl__144">Gradl, Tobias, Henrich, Andreas, Plutte, Christoph: Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Föderation von Kollektionen. In: Constanze Baum und Thomas Stäcker (Hrsg.): Grenzen und Möglichkeiten der Digital Humanities. 2015. 
                         <ref target="http://dx.doi.org/10.17175/sb001_020">DOI: 10.17175/sb001_020</ref> [letzter Zugriff: 6.9.2018].
                     </bibl>
-                    <bibl>Kraft, Angelina: The FAIR Data Principles for Research Data. In: TIB-Blog – Weblog der Technischen Informationsbibliothek (TIB). Beitrag vom 12. September 2017. Online:</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__145">Kraft, Angelina: The FAIR Data Principles for Research Data. In: TIB-Blog – Weblog der Technischen Informationsbibliothek (TIB). Beitrag vom 12. September 2017. Online:</bibl>
+                    <bibl ref="#bibl__146">
                         <ref target="https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data">https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data</ref>/ [letzter Zugriff: 6.09.2018].
                     </bibl>
                 </listBibl>

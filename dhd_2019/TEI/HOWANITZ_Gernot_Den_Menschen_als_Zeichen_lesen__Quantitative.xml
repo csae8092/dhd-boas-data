@@ -171,7 +171,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__360">
                         <hi rend="bold">Amos, </hi>
                         <hi rend="bold">Brandon / </hi>
                         <hi rend="bold">Ludwiczuk, </hi>
@@ -180,7 +180,7 @@
                         <hi rend="bold">Mahadev </hi>(2016): "Openface: A general-purpose face recognition library with mobile applications," CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016. 
                         <ptr target="https://www.cs.cmu.edu/~satya/docdir/CMU-CS-16-118.pdf"/> [letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__361">
                         <hi rend="bold">Arnold, </hi>
                         <hi rend="bold">Taylor</hi>
                         <hi rend="bold"> / Tilton, </hi>
@@ -189,30 +189,30 @@
                         <hi rend="color(#1155cc)"> </hi>[letzter Zugriff 29. 9. 2018].
                         <hi rend="color(#1155cc)"> </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__362">
                         <hi rend="bold">Baltrušaitis, Tadas / Zadeh, Amir / Chong Lim, Yao / Morency, Louis-Philippe</hi> (2018): “OpenFace 2.0: Facial Behavior Analysis Toolkit“, IEEE International Conference on Automatic Face and Gesture Recognition 2018., 
                         <ptr target="https://ieeexplore.ieee.org/document/8373812"/> [letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__363">
                         <hi rend="bold">Bermeitinger, Bernhard / Howanitz, Gernot / Radisch, Erik </hi>(2018): “Contextualising Bandera. Eine Distant Watching-Methode”, 
                         <hi rend="italic">DHd</hi> 2018.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__364">
                         <hi rend="bold">Bourdev, Lubomir / Malik, Jitendra </hi>(2009): “Poselets: Body Part Detectors Trained Using 3D Human Pose Annotations”, 
                         <hi rend="italic">ICCV</hi> 2009. 
                         <ptr target="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/human/poselets_iccv09.pdf"/> [letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__365">
                         <hi rend="bold">Ekman, Paul / Friesen, Wallace V. </hi>(1978): 
                         <hi rend="italic">The Facial Action Coding System: A Technique for the Measurement of Facial Movement. </hi>Palo Alto: Consulting.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__366">
                         <hi rend="bold">Gassner, S</hi>
                         <hi rend="bold">ebastian.</hi> (2018): „How to Use David Sandberg's Facenet Implementation“, 
                         <ref target="https://github.com/sepastian/facenet/blob/master/HOWTO.md">h</ref>
                         <ref target="https://github.com/sepastian/facenet/blob/master/HOWTO.md">ttps://github.com/sepastian/facenet/blob/master/HOWTO.md</ref> [letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__367">
                         <hi rend="bold">Girshick, </hi>
                         <hi rend="bold">Ross / </hi>
                         <hi rend="bold">Radosavovic, Ilija / Gkioxari, Georgia / Dollár,</hi>
@@ -223,7 +223,7 @@
                         <hi rend="italic">Detectron</hi>. 
                         <ptr target="https://github.com/facebookresearch/detectron"/>[letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__368">
                         <hi rend="bold">Cao, </hi>
                         <hi rend="bold">Zhe /</hi>
                         <hi rend="bold"> Simon, </hi>
@@ -233,19 +233,19 @@
                         <hi rend="italic">CVPR </hi>2017. 
                         <ptr target="https://arxiv.org/pdf/1611.08050.pdf"/>[letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>I
+                    <bibl ref="#bibl__369">I
                         <hi rend="bold">mpett, Leonardo / Moretti, Franco </hi>(2017): “Totentanz. Operationalizing Aby Warburg’s Pathosformeln.” In: 
                         <hi rend="italic">Literary Lab Pamphlet</hi> 16, November 2017, 
                         <ptr target="https://litlab.stanford.edu/LiteraryLabPamphlet16.pdf"/> [letzter Zugriff 29. 9. 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__370">
                         <hi rend="bold">Lotman, Jurij</hi> (1984): “O semiosfere”. Učen. zap. Tart. gos. un-ta 641 (1984), 5-23. (=Trudy po znakovym sistemam 17).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__371">
                         <hi rend="bold">Mühlen-Achs, Gitta</hi> (1998): 
                         <hi rend="italic">Geschlecht bewusst gemacht. Körpersprachliche Inszenierungen. </hi>München: Frauenoffensive.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__372">
                         <hi rend="bold">Sachs-Hombach, Klaus. </hi>(1993):
                         <hi rend="bold"> </hi>
                         <hi rend="italic">Das Bild als k</hi>

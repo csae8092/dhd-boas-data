@@ -91,18 +91,18 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliography</head>
-                    <bibl>
+                    <bibl ref="#bibl__247">
                         <hi rend="bold">Blakemore, Michael / Harley, Brian J.</hi> (1980): Concepts in the History of Cartography - A Review and Perspective. In: Cartographica. International Publications on Cartography, 17/4, Monograph 26. University of Toronto
                     </bibl>
-                    <bibl>Press: Toronto.</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__248">Press: Toronto.</bibl>
+                    <bibl ref="#bibl__249">
                         <hi rend="bold">Bodenhamer, David J. / Corrigan, John / Harris, Trevor M.</hi> (eds.) (2010): The Spatial Humanities. GIS and the Future of Humanities Scholarship. Bloomington &amp; Indianapolis: Indiana University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__250">
                         <hi rend="bold" xml:space="preserve">Görz, Günther / Geus, Klaus / Michalsky, Tanja / Thiering, Martin </hi>(2018): Spatial Cognition in Historical Geographical Texts and Maps: Towards a cognitive-semantic analysis of Flavio Biondo's ``Italia Illustrata''. In: Boutoura, Ch., Tsorlini, A. (Ed.): 
                         <hi rend="italic">Digital Approaches to Cartographic Heritage.</hi> 13th Conference of the International Cartographic Association Commission on Cartographic Heritage into the Digital, Madrid, 29-44.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__251">
                         <hi rend="bold">Thiering, Martin</hi> (2015): Spatial Semiotics and Spatial Mental Models: Figure-Ground Asymmetries in Language. Berlin: De Gruyter Mouton. 
                     </bibl>
                 </listBibl>

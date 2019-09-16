@@ -139,102 +139,102 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__975">
                         <hi rend="bold">Allemang, Dean / Hendler, James</hi> (2011): 
                         <hi rend="italic">Semantic Web for the Working Ontologist. Effective Modeling in RDFS and OWL</hi>. Oxford: Elsevier.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__976">
                         <hi rend="bold">Burnard, Lou / Jannidis, Fotis / Pierazzo, Elena / Rehbein, Malte</hi> (2008-2013): An Encoding Model for Genetic Editions. http://www.tei-c.org/Activities/Council/Working/tcw19.html 
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__977">
                         <hi rend="bold">Brüning, Gerrit / Henzel, Katrin / Pravida, Dietmar</hi> (2013). "Multiple Encoding in Genetic Editions: The Case of ‘Faust’", in: 
                         <hi rend="italic">Journal of the Text Encoding Initiative</hi> 4 http://jtei.revues.org/697
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__978">
                         <hi rend="bold">Deutsche Nationalbibliothek</hi> (2012–2019): 
                         <hi rend="italic">GND – Gemeinsame Normdatei</hi>, https://www.dnb.de/gnd 
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__979">
                         <hi rend="bold">D’Iorio, Paolo</hi> (2009): 
                         <hi rend="italic">Nietzschesource</hi>. 
                         <ref target="http://www.nietzschesource.org/">http://www.nietzschesource.org/</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__980">
                         <hi rend="bold">Eggelhöfer, Fabienne / Keller Tschirren, Marianne</hi> (2012): Paul Klee – Bildnerische Form- und Gestaltungslehre. 
                         <ref target="http://www.kleegestaltungslehre.zpk.org">
                             <hi rend="color(1155CC)">http://www.kleegestaltungslehre.zpk.org</hi>
                         </ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__981">
                         <hi rend="bold">Getty Research Institute</hi> (2018): 
                         <hi rend="italic">Art &amp; Architecture Thesaurus (AAT)</hi>. 
                         <ref target="https://www.getty.edu/research/tools/vocabularies/aat/index.html">https://www.getty.edu/research/tools/vocabularies/aat/index.html</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__982">
                         <hi rend="bold">Holler-Schuster, Günther</hi> (2015): "Hartmut Skerbisch’s work between media art and land art", in: Verein der Freunde von Hartmut Skerbisch (ed.), Hartmut Skerbisch. Life and Work. Present as Present. Wien: Verlag für moderne Kunst 142-171.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__983">
                         <hi rend="bold">Kosuth, Joseph</hi> (1969a): "Art after philosophy I", in: 
                         <hi rend="italic" xml:space="preserve">Studio International </hi>(915): 134-37.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__984">
                         <hi rend="bold" xml:space="preserve">Le Boeuf, Patrick / Doerr, Martin / Emil Ore, Christian / Stead, Stephen </hi>(2018): Definition of the CIDOC Conceputal Reference Model. Version 6.2.4. 
                         <ref target="http://www.cidoc-crm.org/sites/default/files/2018-10-26%23CIDOC%20CRM_v6.2.4_esIP.pdf">http://www.cidoc-crm.org/sites/default/files/2018-10-26%23CIDOC%20CRM_v6.2.4_esIP.pdf</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__985">
                         <hi rend="bold">LeWitt, Sol</hi> (1967): "Paragraphs on Conceptual Art", in: 
                         <hi rend="italic">Artforum</hi> 5 (10): 80-84.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__986">
                         <hi rend="bold">Maugham, William Somerset</hi> (1949): 
                         <hi rend="italic">A writer's notebook</hi>, Melbourn-London-Toronto: William Heinemann.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__987">
                         <hi rend="bold">Munch Museum</hi> (2011-2015): 
                         <hi rend="italic">eMunch. Edvard Munchs Tekster. Digitalt Arkiv</hi>. 
                         <ref target="http://www.emunch.no">http://www.emunch.no</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__988">
                         <hi rend="bold">OCLC - Online Computer Library Center</hi> (2010–2016): 
                         <hi rend="italic">VIAF – Virtual International Authority File</hi>, https://viaf.org/.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__989">
                         <hi rend="bold">Radecke, Gabriele</hi> (2013): "Notizbuch-Editionen. Zum philologischen Konzept der Genetisch-kritischen und kommentierten Hybrid-Edition von Theodor Fontanes Notizbüchern", in: 
                         <hi rend="italic">editio 27</hi> 149-172. 10.1515/editio-2013-010
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__55">
                         <hi rend="bold">Sahle, Patrick</hi> (2013): "Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 3: Textbegriffe und Recodierung", in: 
                         <hi rend="italic">Schriften des Instituts für Dokumentologie und Editorik</hi> 9. Norderstedt: Books on Demand.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__990">
                         <hi rend="bold">Scholger, Martina</hi> (2015): "Tracing the association processes of the Artist – The artwork as a commentary", in: Verein der Freunde von Hartmut Skerbisch (ed.), 
                         <hi rend="italic">Hartmut Skerbisch. Life and Work. Present as Present</hi>. Wien: Verlag für moderne Kunst 305-3.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__991">
                         <hi rend="bold">Sepúlveda, Pedro / Henny-Krahmer, Ulrike</hi> (2017). 
                         <hi rend="italic">Fernando Pessoa – Digitale Edition. Projekte und Publikationen</hi>. 
                         <ref target="http://www.pessoadigital.pt">http://www.pessoadigital.pt</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__992">
                         <hi rend="bold">Stigler, Johannes Hubert / Steiner, Elisabeth</hi> (2018): "GAMS – Eine Infrastruktur zur Langzeitarchivierung und Publikation geisteswissenschaftlicher Forschungsdaten", in: 
                         <hi rend="italic">Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen und Bibliothekare</hi> 71 (1), 207-216. 
                         <ref target="https://doi.org/10.31263/voebm.v71i1.1992">
                             <hi rend="color(1155CC)">https://doi.org/10.31263/voebm.v71i1.1992</hi>
                         </ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__993">
                         <hi rend="bold">TEI Consortium</hi> (2018): 
                         <hi rend="italic">TEI P5: Guidelines for Electronic Text Encoding and Interchange. Version 3.4.0.</hi>
                         <ref target="http://www.tei-c.org/Vault/P5/3.4.0/doc/tei-p5-doc/en/html/">http://www.tei-c.org/Vault/P5/3.4.0/doc/tei-p5-doc/en/html/</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__994">
                         <hi rend="bold">Van Hulle, Dirk / Nixon, Mark (2019):</hi>
                         <hi rend="italic">Samuel Beckett Digital Manuscript Project.</hi>
                         <ref target="http://www.beckettarchive.org/">
                             <hi rend="color(1155CC)">http://www.beckettarchive.org/</hi>
                         </ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__995">
                         <anchor xml:id="CTVL0012a9f4d6d6ae54efa8095a0de9046c43f"/>
                         <hi rend="bold">Vogeler, Georg</hi> (2015): "Warum werden mittelalterliche und frühneuzeitliche Rechnungsbücher eigentlich nicht digital editiert?", in: 
                         <hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities</hi>, edited by Constanze Baum and Thomas Stäcker. Sonderband der Zeitschrift für digitale Geisteswissenschaften 1. 10.17175/sb001_007

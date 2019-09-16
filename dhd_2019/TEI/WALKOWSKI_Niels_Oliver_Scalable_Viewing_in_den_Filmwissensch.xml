@@ -154,29 +154,29 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1309">
                         <hi rend="bold">Barbieri, M., Mekenkamp, G., Ceccarelli, M., &amp; Nesvadba, J.</hi> (2001): „The color browser: a content driven linear video browsing tool“, in: 
                         <hi rend="italic">Multimedia and Expo Conference.</hi> IEEE 627–630.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1310">
                         <hi rend="bold">Burghardt, M., Kao, M. &amp; Walkowski, N.-O.</hi> (2018): „Scalable MovieBarcodes – An Exploratory Interface for the Analysis of Movies“. 3rd IEEE VIS Workshop on Visualization for the Digital Humanities, Berlin.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1311">
                         <hi rend="bold">Burghardt, M., Kao, M. &amp; Wolff, C.</hi> (2016): „Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis“, in: 
                         <hi rend="italic">Book of Abstracts of the International Digital Humanities Conference</hi> (DH). Krakow.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1312">
                         <hi rend="bold" xml:space="preserve">Ferguson, K. L. </hi>(2019): „Digital Surrealism: Visualizing Walt Disney Animation Studios“, in: 
                         <hi rend="italic">Digital Humanities Quarterly.</hi> 11(1) 
                         <ref target="http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html">
                             <hi rend="underline color(1155CC)">http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html</hi>
                         </ref>.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1313">
                         <hi rend="bold">Hohman, F., Soni, S., Stewart, I., &amp; Stasko, J.</hi> (2017): „A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue“, in: 
                         <hi rend="italic">Proceedings of the 2nd Workshop on Visualization for the Digital Humanities (VIS4DH)</hi>, Phoenix, Arizona.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1314">
                         <hi rend="bold">Hoyt, E., Ponot, K., &amp; Roy, C.</hi> (2014):
                         <hi rend="italic" xml:space="preserve"> „</hi>Visualizing and Analyzing the Hollywood Screenplay with ScripThreads“, in: 
                         <hi rend="italic" xml:space="preserve">Digital Humanities Quarterly. </hi>8(4) 
@@ -184,46 +184,46 @@
                             <hi rend="underline color(1155CC)">http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html</hi>
                         </ref>.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1315">
                         <hi rend="bold">Keim D., Andrienko G., Fekete JD., Görg C., Kohlhammer J. &amp; Melançon G.</hi> (2008): „Visual Analytics: Definition, Process, and Challenges“, in: Kerren A., Stasko J.T., Fekete JD., North C. (Hrsg.) 
                         <hi rend="italic" xml:space="preserve">Information Visualization. Lecture Notes in Computer Science. </hi>4950: 154-175.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1316">
                         <hi rend="bold">Kuckartz, U.</hi> (2014): 
                         <hi rend="italic">Mixed Methods. Methodologie, Forschungsdesigns und Analyseverfahren</hi>. Wiesbaden: Springer VS
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1317">
                         <hi rend="bold">Kurzhals, K., John, M., Heimerl, F., Kuznecov, P., &amp; Weiskopf, D.</hi> (2016): „Visual Movie Analytics“, in: 
                         <hi rend="italic">IEEE Transactions on Multimedia.</hi> 18(11): 2149-2160.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1318">
                         <hi rend="bold">Manovich, L.</hi> (2013): „Visualizing Vertov“, in: 
                         <hi rend="italic">Russian Journal of Communication.</hi> 5(1): 44-55 doi:
                         <ref target="https://doi.org/10.1080/19409419.2013.775546">
                             <hi rend="underline color(1155CC)">10.1080/19409419.2013.775546</hi>
                         </ref>.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__6">
                         <hi rend="bold" xml:space="preserve">Moretti, F. </hi>(2013): 
                         <hi rend="italic">Distant Reading</hi>. London, New York: Verso.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1319">
                         <hi rend="bold">Gosvig Olesen, C., Masson, E., Van Gorp, J., Fossati, G. &amp; Noordegraaf, J.</hi> (2016): „Data-Driven Research for Film History: Exploring the Jean Desmet Collection“, in: 
                         <hi rend="italic" xml:space="preserve">The Moving Image. </hi>16(1): 82–105.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1320">
                         <hi rend="bold">Pause, J. &amp; Walkowski, N.-O.</hi> (2018): „Everything is Illuminated. Zur Numerischen Analyse von Farbigkeit in Filmen“, in: 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>. Wolfenbüttel doi:10.17175/2018_003
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1321">
                         <hi rend="bold" xml:space="preserve">Schoeffmann, K., Hudelist, M. A., &amp; Huber, J. </hi>(2015): „Video interaction tools: A survey of recent work“, in: 
                         <hi rend="italic">ACM Computing Surveys (CSUR)</hi> 48(1): 1–34.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__8">
                         <hi rend="bold" xml:space="preserve">Shneiderman, B. </hi>(1996): „The eyes have it: A task by data type taxonomy for information visualizations“, in: 
                         <hi rend="italic">Proceedings of the IEEE Symposium on Visual Languages.</hi> 336-343.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__9">
                         <hi rend="bold" xml:space="preserve">Weitin, T. </hi>(2017): „Scalable Reading“, in: 
                         <hi rend="italic">Zeitschrift für Literaturwissenschaft und Linguistik.</hi> 1-6 doi:
                         <ref target="https://doi.org/10.1007/s41244-017-0048-4">

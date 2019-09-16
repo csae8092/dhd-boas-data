@@ -236,54 +236,54 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Allen, G. (2000). 
+                    <bibl ref="#bibl__94">Allen, G. (2000). 
                         <hi rend="italic">Intertextuality</hi>. London, New York: Routledge.
                     </bibl>
-                    <bibl>Bamman, D., &amp; Crane, G. (2008). The Logic and Discovery of Textual Allusion. 
+                    <bibl ref="#bibl__95">Bamman, D., &amp; Crane, G. (2008). The Logic and Discovery of Textual Allusion. 
                         <hi rend="italic">ACL Language Technology for Cultural Heritage</hi>, (1986).
                     </bibl>
-                    <bibl>Bär, D., Zesch, T., &amp; Gurevych, I. (2012). Text Reuse Detection using a Composition of Text Similarity Measures. 
+                    <bibl ref="#bibl__96">Bär, D., Zesch, T., &amp; Gurevych, I. (2012). Text Reuse Detection using a Composition of Text Similarity Measures. 
                         <hi rend="italic">Proceedings of COLING 2012</hi>, 
                         <hi rend="italic">1</hi>(December), 167–184.
                     </bibl>
-                    <bibl>Berti, M., Büchler, M., Geßner, A., &amp; Thomas, E. (2013). Measuring the Influence of a Work by Text Reuse. In 
+                    <bibl ref="#bibl__97">Berti, M., Büchler, M., Geßner, A., &amp; Thomas, E. (2013). Measuring the Influence of a Work by Text Reuse. In 
                         <hi rend="italic">The Digital Classicist</hi>.
                     </bibl>
-                    <bibl>Burghardt, M., &amp; Wolff, C. (2015). Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik. In 
+                    <bibl ref="#bibl__98">Burghardt, M., &amp; Wolff, C. (2015). Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik. In 
                         <hi rend="italic">Book of Abstracts Workshop “Informatik und die Digital Humanities”, Leipzig</hi>.
                     </bibl>
-                    <bibl>Büchler, M., Burns, P. R., Müller, M., Franzini, E., &amp; Franzini, G. (2014). Towards a Historical Text Re-use Detection. In C. Biemann &amp; A. Mehler (Eds.), 
+                    <bibl ref="#bibl__99">Büchler, M., Burns, P. R., Müller, M., Franzini, E., &amp; Franzini, G. (2014). Towards a Historical Text Re-use Detection. In C. Biemann &amp; A. Mehler (Eds.), 
                         <hi rend="italic">Text Mining, Theory and Applications of Natural Language Processing</hi>. Springer International Publishing.
                     </bibl>
-                    <bibl>Forstall, C., Coffee, N., Buck, T., Roache, K., &amp; Jacobson, S. (2015). Modeling the scholars: Detecting intertextuality through enhanced word-level n-gram matching. 
+                    <bibl ref="#bibl__100">Forstall, C., Coffee, N., Buck, T., Roache, K., &amp; Jacobson, S. (2015). Modeling the scholars: Detecting intertextuality through enhanced word-level n-gram matching. 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi>, 
                         <hi rend="italic">30</hi>(4), 503–515. 
                     </bibl>
-                    <bibl>Hohl Trillini, R., &amp; Quassdorf, S. (2010). A “key to all quotations”? A corpus-based parameter model of intertextuality. 
+                    <bibl ref="#bibl__101">Hohl Trillini, R., &amp; Quassdorf, S. (2010). A “key to all quotations”? A corpus-based parameter model of intertextuality. 
                         <hi rend="italic">Literary and Linguistic Computing</hi>, 
                         <hi rend="italic">25</hi>(3), 269–286. 
                     </bibl>
-                    <bibl>Klarer, M. (1999). 
+                    <bibl ref="#bibl__102">Klarer, M. (1999). 
                         <hi rend="italic">An Introduction to Literary Studies</hi>. London, New York: Routledge.
                     </bibl>
-                    <bibl>Kozloff, S. (2000). 
+                    <bibl ref="#bibl__103">Kozloff, S. (2000). 
                         <hi rend="italic">Overhearing Film Dialogue</hi>. Berkeley et al.: University of California Press.
                     </bibl>
-                    <bibl>Malone, T. (2018). Quoting Shakespeare in Twentieth- Century Film. In J. Maxwell &amp; K. Rumbold (Eds.), 
+                    <bibl ref="#bibl__104">Malone, T. (2018). Quoting Shakespeare in Twentieth- Century Film. In J. Maxwell &amp; K. Rumbold (Eds.), 
                         <hi rend="italic">Shakespeare and Quotation</hi> (pp. 194–208). Cambridge: Cambridge University Press.
                     </bibl>
-                    <bibl>Maxwell, J., &amp; Rumbold, K. (2018). 
+                    <bibl ref="#bibl__105">Maxwell, J., &amp; Rumbold, K. (2018). 
                         <hi rend="italic">Shakespeare and Quotation</hi>. Cambridge: Cambridge University Press.
                     </bibl>
-                    <bibl>Scheirer, W., Forstall, C., &amp; Coffee, N. (2016). The sense of a connection: Automatic tracing of intertextuality by meaning. 
+                    <bibl ref="#bibl__106">Scheirer, W., Forstall, C., &amp; Coffee, N. (2016). The sense of a connection: Automatic tracing of intertextuality by meaning. 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi>, 
                         <hi rend="italic">31</hi>(1), 204–217. 
                     </bibl>
-                    <bibl>Smith, T. F., &amp; Waterman, M. S. (1981). Identification of Common Molecular Subsequences. 
+                    <bibl ref="#bibl__107">Smith, T. F., &amp; Waterman, M. S. (1981). Identification of Common Molecular Subsequences. 
                         <hi rend="italic">Journal of Molecular Biology</hi>, 
                         <hi rend="italic">147</hi>, 195–197.
                     </bibl>
-                    <bibl>Taylor, G. (1991). 
+                    <bibl ref="#bibl__108">Taylor, G. (1991). 
                         <hi rend="italic">Reinventing Shakespeare: A Cultural History from the Restoration to the Present</hi>. Oxford: Oxford University Press.
                     </bibl>
                 </listBibl>

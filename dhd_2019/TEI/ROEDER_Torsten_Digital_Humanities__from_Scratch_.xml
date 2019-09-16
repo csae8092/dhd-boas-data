@@ -127,7 +127,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__898">
                         <anchor xml:id="id_docs-internal-guid-c31219c0-7fff-3e59-9abd-b6b85769f5eb"/>
                         <hi rend="color(#000000)bold">Anne, Kirk M.</hi>
                         <hi rend="color(#000000)">, et al. (2017): Building Capacity for Digital Humanities: A Framework for Institutional Planning, ECAR working group paper. Louisville, CO: ECAR, </hi>
@@ -135,32 +135,32 @@
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[zuletzt geprüft 27.09.2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__899">
                         <hi rend="color(#000000)bold">Boyles, Christina </hi>
                         <hi rend="color(#000000)">et al. (2018): Precarious Labour in the Digital Humanities. Panel, ADHO DH2018, Mexico DF, </hi>
                         <ptr target="https://dh2018.adho.org/precarious-labor-in-the-digital-humanities/"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[zuletzt geprüft 27.09.2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__900">
                         <hi rend="color(#000000)bold">Edmond, Jennifer </hi>
                         <hi rend="color(#000000)">(2016): “Collaboration and Infrastructure”, in: Schreibman, Susan et al. (eds.): A New Companion to Digital Humanities, 2nd Edition, Malden, MA: Wiley-Blackwell 54-65.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__901">
                         <hi rend="color(#000000)bold">Freistat, Neil </hi>
                         <hi rend="color(#000000)">(2012): “The function of digital humanities centers at the present time”, in: Gold, Matthew K. (ed.): Debates in the Digital Humanities, </hi>
                         <ptr target="http://dhdebates.gc.cuny.edu/debates/text/23"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[zuletzt geprüft 27.09.2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__902">
                         <hi rend="color(#000000)bold">Griffin, Gabriele / Hayler, Matt Steven </hi>
                         <hi rend="color(#000000)">(2018): “Collaboration in Digital Humanities Research – Persisting Silences”, in: Digital Humanities Quarterly 12(1), </hi>
                         <ptr target="http://www.digitalhumanities.org/dhq/vol/12/1/000351/000351.html"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[zuletzt geprüft 27.09.2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__903">
                         <hi rend="color(#000000)bold">Maier, Petra</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2016): “Digital Humanities und Bibliothek als Kooperationspartner”, in: DARIAH-DE Working Papers 19. Göttingen, </hi>
@@ -169,14 +169,14 @@
                         </ref>
                         <hi rend="color(#000000)">.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__904">
                         <hi rend="color(#000000)bold">Pitti, Daniel. V. </hi>
                         <hi rend="color(#000000)">(2004): “Designing Sustainable Projects and Publications”, in: Schreibman, Susan et al. (eds.): A companion to digital humanities, Oxford: Blackwell 31, </hi>
                         <ptr target="http://www.digitalhumanities.org/companion/"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[zuletzt geprüft 27.09.2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__905">
                         <hi rend="color(#000000)bold">Posner, Miriam</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2016): “Here and There: Creating DH Community”, in: Gold, Matthew K. (ed.): Debates in the Digital Humanities, 2016 Edition, </hi>
@@ -184,14 +184,14 @@
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[zuletzt geprüft 27.09.2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__906">
                         <hi rend="color(#000000)bold">Sahle, Patrick</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2015): “Digital Humanities? Gibt’s doch gar nicht!”, in: Baum, Constanze / Stäcker, Thomas (eds.): Grenzen und Möglichkeiten der Digital Humanities, </hi>
                         <ptr target="https://dx.doi.org/10.17175/sb001_004"/>
                         <hi rend="color(#000000)">.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__907">
                         <hi rend="color(#000000)bold">Unsworth, John </hi>
                         <hi rend="color(#000000)">(1997): Creating Digital Resources: the Work of Many Hands, Vortrag am 14.09.1997, Digital Resources for the Humanities, Oxford, England, </hi>
                         <ptr target="http://www.people.virginia.edu/~jmu2m/drh97.html"/>

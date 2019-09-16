@@ -96,53 +96,53 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__639">
                         <hi rend="bold" style="font-size:12pt">Ananthakrishnan, Sankaranarayanan / Narayanan, Shrikanth S.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2008): “Automatic prosodic event detection using acoustic, lexical, and syntactic evidence” IEEE Transactions on Audio, Speech, and Language Processing, 16(1), pp. 216-228.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__29">
                         <hi rend="bold" style="font-size:12pt">Berry, David M.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2011): “The Computing Turn: Thinking About the Digital Humanities”, in: Culture Machine. 12, 1-22.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__640">
                         <hi rend="bold" style="font-size:12pt">Brett, Megan R. (</hi>
                         <hi style="font-size:12pt">2012</hi>
                         <hi rend="bold" style="font-size:12pt">)</hi>
                         <hi style="font-size:12pt">: “Topic Modeling: A Basic Introduction. Journal of Digital Humanities”.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__641">
                         <hi rend="bold" style="font-size:12pt">Cho, Kyunghyun / Merrienboer, Bart van / Gulcehre, Caglar / Bahdanau, Dzmitry / Bougares, Fethi / Schwenk, Holger / Bengio, Yoshua</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2014): “Learning phrase representations using RNN encoder-decoder for statistical machine translation”. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__642">
                         <hi rend="bold" style="font-size:12pt">Eder, Maciej / Kestemont, Mike / Rybicki, Jan</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2013): “Stylometry with R: a suite of tools”. In: Digital Humanities, Conference Abstracts, University of Nebraska, Lincoln, 487-89.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__643">
                         <hi rend="bold" style="font-size:12pt">Escudero, David / González, César / Gutiérrez, Yurena / Rodero, Emma</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2017): “Identifying characteristic prosodic patterns through the analysis of the information of Sp_ToBI label sequences”. Computer Speech &amp; Language 45: 39-57.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__644">
                         <hi rend="bold" style="font-size:12pt">Goodfellow, Ian / Bengio, Yoshua / Courville, Aaron</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2016): “Deep Learning”. Cambridge, Massachusetts: The MIT Press.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__645">
                         <hi rend="bold" style="font-size:12pt">Graves, Alex</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2012): “Supervised sequence labelling with recurrent neural networks” (Vol. 385). Springer.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__646">
                         <hi rend="bold" style="font-size:12pt">Graves, Alex / Jaitly, Navdeep</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2014): “Towards end-to-end speech recognition with recurrent neural networks”. In International Conference on Machine Learning, pages 1764–1772,.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__647">
                         <hi rend="bold" style="font-size:12pt">Hannun, Awni / Case, Carl / Casper, Jared / Catanzaro, Bryan / Diamos, Greg / Elsen, Erich / Prenger, Ryan / Satheesh, Sanjeev / Sengupta, Shubho / Coates, Adam</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2014): “Deep speech: Scaling up end-to-end speech recognition”. arXiv preprint arXiv:1412.5567.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__648">
                         <hi rend="bold" style="font-size:12pt">Hasegawa-Johnson, Mark / Chen, Ken / Cole, Jennifer / Borys, Sarah / Kim, Sung-Suk / Cohen, Aaron / Zhang, Tong / Choi, Jeung-Yoon / Kim, Heejin / Yoon, Taejin</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2005): “Simultaneous recognition of words and prosody in the Boston University Radio Speech Corpus”. Speech Commun 46: 418–439,  2005.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__649">
                         <hi rend="bold" style="font-size:12pt">Heyer, Gerhard</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2014): “Digital and computational humanities”, in:</hi>
                         <ref target="http://dhd-wp.hab.de/files/book_of_abstracts.pdf" xml:space="preserve"> </ref>
@@ -151,7 +151,7 @@
                         </ref>
                         <hi style="font-size:12pt">, pp.66f.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__650">
                         <hi rend="bold" style="font-size:12pt">Hopkins, Jack / Douwe Kiela</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2017): “Automatically Generating Rhythmic Verse with Neural Networks”. ACL.</hi>
                         <ref target="http://dx.doi.org/10.18653/v1/P17-1016" xml:space="preserve"> </ref>
@@ -159,11 +159,11 @@
                             <hi rend="underline color(1155CC)" style="font-size:12pt">10.18653/v1/P17-1016</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__651">
                         <hi rend="bold" style="font-size:12pt">Hsu, Chih-Wei / Lin, Chih-Jen</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2002): “A comparison of methods for multi-class support vector machines”. IEEE Transactions on Neural Networks, 13:415-425.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__652">
                         <hi rend="bold" style="font-size:12pt">Jannidis, Fotis / Konle, Leonard / Zehe, Albin / Hotho, Andreas</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2018): “Analysing Direct Speech in German Novels”. </hi>
                         <hi rend="italic" style="font-size:12pt">DHd Jahrestagung</hi>
@@ -173,11 +173,11 @@
                             <hi rend="underline color(1155CC)" style="font-size:12pt">http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__653">
                         <hi rend="bold" style="font-size:12pt">Jeon, J. / Liu, Y.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2009): “Semi-supervised learning for automatic prosodic event detection using co-training algorithm”. In Proc. of the 47th Annual Meeting of the ACL, pp. 540-548.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__654">
                         <hi rend="bold" style="font-size:12pt" xml:space="preserve">Kestemont, Mike / De Gussem, Jeroen </hi>
                         <hi style="font-size:12pt" xml:space="preserve">(2017): “Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning”. </hi>
                         <hi rend="italic" style="font-size:12pt">Journal of Data Mining &amp; Digital Humanities</hi>
@@ -188,20 +188,20 @@
                         </ref>
                         <hi style="font-size:12pt">.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__14">
                         <hi rend="bold" style="font-size:12pt" xml:space="preserve">Mikolov, Tomas / Chen, Kai / Corrado, Greg / Dean, Jeffrey </hi>
                         <hi style="font-size:12pt" xml:space="preserve">(2013): “Efficient estimation of word representations in vector space”. </hi>
                         <hi rend="italic" style="font-size:12pt">arXiv preprint</hi>
                         <hi style="font-size:12pt">. arXiv:1301.3781.</hi>
                     </bibl>
-                    <bibl>Moretti, Franco: Distant reading. Verso 2013.</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__655">Moretti, Franco: Distant reading. Verso 2013.</bibl>
+                    <bibl ref="#bibl__656">
                         <hi rend="bold" style="font-size:12pt">Schöch, Christof</hi>
                         <hi style="font-size:12pt" xml:space="preserve">: Quantitative Semantik: Word Embedding Models für literaturwissenschaftliche Fragestellungen. In </hi>
                         <hi rend="italic" style="font-size:12pt">Digitale Literaturwissenschaft</hi>
                         <hi style="font-size:12pt">, hrsg. Fotis Jannidis. Stuttgart: Metzler (im Druck).</hi>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__49">
                         <hi rend="bold" style="font-size:12pt">Wick, Christoph / Reul, Christian / Puppe, Frank: Calamari</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2018): “A High-Performance Tensorflow-Based Deep Learning Package for Optical Character Recognition.” </hi>
                         <hi rend="italic" style="font-size:12pt">ArXiv:1807.02004 [Cs]</hi>

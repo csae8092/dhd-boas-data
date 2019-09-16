@@ -301,38 +301,38 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left;">Farrar, Danielle Marie (2016): The Corpus of Revenge Tragedy (CoRT): Toward Interdisciplining Early Modern Digital Humanities and Genre Analysis. In: 
+                    <bibl style="text-align:left;" ref="#bibl__239">Farrar, Danielle Marie (2016): The Corpus of Revenge Tragedy (CoRT): Toward Interdisciplining Early Modern Digital Humanities and Genre Analysis. In: 
                         <hi rend="italic">DH 2016 - Conference Abstracts</hi>. S. 789–790.
                     </bibl>
-                    <bibl style="text-align:left;">Gaidys, Uta/Gius, Evelyn/Jarchow, Margarete/Koch, Gertraud/Menzel, Wolfgang/Orth, Dominik/Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: 
+                    <bibl style="text-align:left;" ref="#bibl__21">Gaidys, Uta/Gius, Evelyn/Jarchow, Margarete/Koch, Gertraud/Menzel, Wolfgang/Orth, Dominik/Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: 
                         <hi rend="italic">Hamburger Journal für Kulturanthropologie</hi> 7 (2017), S. 119–123.
                     </bibl>
-                    <bibl style="text-align:left;">Gius, Evelyn (in Vorbereitung): Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma? In: Jannidis, Fotis (Hg.): 
+                    <bibl style="text-align:left;" ref="#bibl__240">Gius, Evelyn (in Vorbereitung): Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma? In: Jannidis, Fotis (Hg.): 
                         <hi rend="italic">Digitale Literaturwissenschaft</hi>. Metzler.
                     </bibl>
-                    <bibl style="text-align:left;">Herrmann, Berenike/Lauer, Gerhard (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In: 
+                    <bibl style="text-align:left;" ref="#bibl__241">Herrmann, Berenike/Lauer, Gerhard (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In: 
                         <hi rend="italic">DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts</hi>. S. 107–111.
                     </bibl>
-                    <bibl style="text-align:left;">Herrmann, Berenike/Lauer, Gerhard (2016a): Aufbau und Annotation des Kafka/Referenzkorpus. In: 
+                    <bibl style="text-align:left;" ref="#bibl__242">Herrmann, Berenike/Lauer, Gerhard (2016a): Aufbau und Annotation des Kafka/Referenzkorpus. In: 
                         <hi rend="italic">DHd 2016 Modellierung - Vernetzung - Visualisierung Konferenzabstracts</hi>. S. 158–159.
                     </bibl>
-                    <bibl style="text-align:left;">Herrmann, Berenike/Lauer, Gerhard (2016b): KARREK: Building and Annotating a Kafka/Reference Corpus. In: 
+                    <bibl style="text-align:left;" ref="#bibl__243">Herrmann, Berenike/Lauer, Gerhard (2016b): KARREK: Building and Annotating a Kafka/Reference Corpus. In: 
                         <hi rend="italic">DH 2016 - Conference Abstracts</hi>. S. 552–553.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__27">
                         <hi style="font-family:ArialMT;font-size:11pt" xml:space="preserve">Levenshtein, Vladimir (1966): Binary codes capable of correcting deletions, insertions, and reversals. In: </hi>
                         <hi style="font-family:Gautami;font-size:11pt">​</hi>
                         <hi rend="italic" style="font-size:11pt">Soviet Physics Doklady</hi>
                         <hi style="font-family:ArialMT;font-size:11pt" xml:space="preserve">. Vol. 10, No. 8, S. 707–710. </hi>
                     </bibl>
-                    <bibl style="text-align:left;">Pernes, Stefan/Keller, Lennart/Peterek, Christoph (2017): Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 92–94.</bibl>
-                    <bibl style="text-align:left;">Trilcke, Peer/Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: 
+                    <bibl style="text-align:left;" ref="#bibl__244">Pernes, Stefan/Keller, Lennart/Peterek, Christoph (2017): Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 92–94.</bibl>
+                    <bibl style="text-align:left;" ref="#bibl__18">Trilcke, Peer/Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, Sonderband 3 “Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden”.
                     </bibl>
-                    <bibl style="text-align:left;">Schöch, Christof (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis/Kohle, Hubertus/Rehbein, Malte (Hg.): 
+                    <bibl style="text-align:left;" ref="#bibl__245">Schöch, Christof (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis/Kohle, Hubertus/Rehbein, Malte (Hg.): 
                         <hi rend="italic">Digital Humanities: eine Einführung.</hi> Stuttgart: J.B. Metzler Verlag. S. 223–233.
                     </bibl>
-                    <bibl style="text-align:left;">Schruhl, Friederike (2018): Objektumgangsnormen in der Literaturwissenschaft. In: 
+                    <bibl style="text-align:left;" ref="#bibl__246">Schruhl, Friederike (2018): Objektumgangsnormen in der Literaturwissenschaft. In: 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, Sonderband 3 “Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden”.
                     </bibl>
                 </listBibl>

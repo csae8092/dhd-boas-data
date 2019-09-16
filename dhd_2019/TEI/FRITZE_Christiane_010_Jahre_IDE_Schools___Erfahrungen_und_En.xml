@@ -213,7 +213,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">Digital Humanities als Beruf. Fortschritte auf dem Weg zu einem Curriculum. Akten der DHd-Arbeitsgruppe 
+                    <bibl style="text-align:left; " ref="#bibl__208">Digital Humanities als Beruf. Fortschritte auf dem Weg zu einem Curriculum. Akten der DHd-Arbeitsgruppe 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>Referenzcurriculum Digital Humanities
@@ -221,10 +221,10 @@
                             <hi rend="italic">"</hi>
                         </hi>. Graz 2015.
                     </bibl>
-                    <bibl style="text-align:left; ">Digital Humanities Course Registry. Dariah/Clarin 2014-2018. 
+                    <bibl style="text-align:left; " ref="#bibl__209">Digital Humanities Course Registry. Dariah/Clarin 2014-2018. 
                         <ref target="https://registries.clarin-dariah.eu/courses/">https://registries.clarin-dariah.eu/courses/</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__210">
                         <hi rend="bold">Fritze, Christiane / Rehbein, Malte</hi> (2012): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
@@ -237,7 +237,7 @@
                             <hi rend="underline color(1155CC)">http://books.openedition.org/obp/1617</hi>
                         </ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__211">
                         <hi rend="bold">Henny, Ulrike</hi> (2012): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
@@ -248,7 +248,7 @@
                         <hi rend="italic">H-Soz-Kult, 11.12.2012</hi>, 
                         <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-4540%3e">www.hsozkult.de/conferencereport/id/tagungsberichte-4540</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__212">
                         <hi rend="bold">Locke, Brandon T.</hi> (2017): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
@@ -261,7 +261,7 @@
                             <hi rend="underline color(1155CC)">http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html</hi>
                         </ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__213">
                         <hi rend="bold">Neuber, Frederike</hi> (2015): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
@@ -272,12 +272,12 @@
                         <hi rend="italic">: DiXiT Blog 26.4.2015</hi>. 
                         <ref target="https://dixit.hypotheses.org/633">https://dixit.hypotheses.org/633</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__214">
                         <hi rend="bold">Sahle, Patrick</hi> (2008): "Digitale Editionen – Methodische und technische Grundfertigkeiten" [Tagungsbericht zur IDE-School, Köln 2008], in: 
                         <hi rend="italic">H-Soz-Kult, 21.11.2008</hi>, 
                         <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-2353%3e">www.hsozkult.de/conferencereport/id/tagungsberichte-2353</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__215">
                         <hi rend="bold">Sahle, Patrick</hi> (2013): 
                         <hi rend="italic">DH studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum der Digital Humanities</hi>. (= DARIAH-DE Working Papers Nr. 1). Göttingen: GOEDOC. 
                         <ref target="http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2013-1-5">http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2013-1-5</ref>

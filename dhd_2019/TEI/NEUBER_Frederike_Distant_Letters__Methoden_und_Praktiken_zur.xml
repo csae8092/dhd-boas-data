@@ -264,7 +264,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__734">
                         <anchor xml:id="id_docs-internal-guid-ab139cc9-7fff-fe6e-39c4-1a663ce0b6b5"/>
                         <hi rend="color(#000000)bold">Andorfer, Peter</hi>
                         <hi rend="color(#000000)"> </hi>
@@ -285,7 +285,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__735">
                         <hi rend="color(#000000)bold">Bernauer, Markus / Miller, Norbert / Neuber, Frederike </hi>
                         <hi rend="color(#000000)">(eds.)</hi>
                         <hi rend="color(#000000)bold"> </hi>
@@ -302,7 +302,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__736">
                         <anchor xml:id="id_docs-internal-guid-e36ff6d7-7fff-5585-3e62-ed6816c58f62"/>
                         <hi rend="color(#000000)bold">Burrows, John </hi>
                         <hi rend="color(#000000)">(2002)</hi>
@@ -313,7 +313,7 @@
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">17/3, S. 267–287.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__15">
                         <hi rend="color(#000000)bold">Dumont, Stefan </hi>
                         <hi rend="color(#000000)">(</hi>
                         <hi rend="color(#000000)">2016): „</hi>
@@ -333,7 +333,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__39">
                         <hi rend="color(#000000)bold">Eder, Maciej / </hi>
                         <hi rend="color(#000000)bold">Rybicki, </hi>
                         <hi rend="color(#000000)bold">Jan /</hi>
@@ -346,7 +346,7 @@
                         <hi rend="color(#000000)italic">The R Journal </hi>
                         <hi rend="color(#000000)">8/1 (2016), S. 107–121.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__737">
                         <hi rend="color(#000000)bold">Ette Ottmar</hi>
                         <hi rend="color(#000000)"> (eds.) (seit 2016): </hi>
                         <hi rend="color(#000000)italic">edition humboldt digital.</hi>
@@ -358,7 +358,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__738">
                         <hi rend="color(#000000)bold">Graham, </hi>
                         <hi rend="color(#000000)bold">Shawn / </hi>
                         <hi rend="color(#000000)bold">Weingart, S</hi>
@@ -377,7 +377,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__739">
                         <anchor xml:id="id_docs-internal-guid-63457661-7fff-3886-91d7-dfe5e4f5ad1c"/>
                         <hi rend="color(#000000)bold">Heiden, Serge </hi>
                         <hi rend="color(#000000)">(2010): </hi>
@@ -387,7 +387,7 @@
                         <hi rend="color(#000000)">S.</hi>
                         <hi rend="color(#000000)">389–398. </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__740">
                         <anchor xml:id="id_docs-internal-guid-efc7fee9-7fff-7877-0c19-9092c13f3cb9"/>
                         <hi rend="color(#000000)bold">Herrmann, Berenike J. / van Dalen-Oskam, </hi>
                         <hi rend="color(#000000)bold">Karina / Schöch, </hi>
@@ -398,7 +398,7 @@
                         <hi rend="color(#000000)italic">Journal of Literary Theory</hi>
                         <hi rend="color(#000000)"> 9/1, S. 25–52.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__741">
                         <anchor xml:id="id_docs-internal-guid-c0a26e04-7fff-00df-00be-421bc1f6056f"/>
                         <hi rend="color(#000000)bold">Rhody, Lisa M. </hi>
                         <hi rend="color(#000000)">(2012)</hi>
@@ -414,7 +414,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__742">
                         <anchor xml:id="id_docs-internal-guid-c717f2fd-7fff-fb71-14ad-ce8199b455b8"/>
                         <hi rend="color(#000000)bold">Schöch, Christof </hi>
                         <hi rend="color(#000000)">(2017)</hi>
@@ -430,7 +430,7 @@
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__743">
                         <hi rend="color(#000000)bold">Walmsley, Priscilla</hi>
                         <hi rend="color(#000000)"> (2009): </hi>
                         <hi rend="color(#000000)italic">XQuery</hi>

@@ -292,18 +292,18 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>G. Geser (2016): ARIADNE WP15 Study: Towards a Web of Archaeological Linked Open Data (www.ariadne-infrastructure.eu/.../ARIADNE_archaeological_LOD_study_10-2016.pdf, 31.10.2016).</bibl>
-                    <bibl>E. Gruber, Numishare Blogspot: 
+                    <bibl ref="#bibl__392">G. Geser (2016): ARIADNE WP15 Study: Towards a Web of Archaeological Linked Open Data (www.ariadne-infrastructure.eu/.../ARIADNE_archaeological_LOD_study_10-2016.pdf, 31.10.2016).</bibl>
+                    <bibl ref="#bibl__393">E. Gruber, Numishare Blogspot: 
                         <ref target="http://numishare.blogspot.com/">http://numishare.blogspot.com/</ref>.
                     </bibl>
-                    <bibl>E. Gruber / G. Bransbourg / S. Heath / A. Meadows (2014): Linking Roman Coins: Current Work at the American Numismatic Society. In: G. Earle et al. (eds), Archaeology in the Digital Era: Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, 26-29 March 2012 (Amsterdam) 249–258.</bibl>
-                    <bibl>E. Gruber / S. Heath / A. Meadows / D. Pett / D. Wigg-Wolf (2014): Semantic Web Technologies Applied to Numismatic Collections. In: G. Earle et al. (eds), Archaeology in the Digital Era: Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, 26-29 March 2012 (Amsterdam) 264–274.</bibl>
-                    <bibl>Radnoti-Alföldi, M. (2006): Die Fundmünzen der römischen Zeit in Deutschland IV 3/2. Stadt und Reg.-Bez. Trier. Die Sog. Römerbauten (Mainz).</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__37">E. Gruber / G. Bransbourg / S. Heath / A. Meadows (2014): Linking Roman Coins: Current Work at the American Numismatic Society. In: G. Earle et al. (eds), Archaeology in the Digital Era: Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, 26-29 March 2012 (Amsterdam) 249–258.</bibl>
+                    <bibl ref="#bibl__37">E. Gruber / S. Heath / A. Meadows / D. Pett / D. Wigg-Wolf (2014): Semantic Web Technologies Applied to Numismatic Collections. In: G. Earle et al. (eds), Archaeology in the Digital Era: Papers from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, 26-29 March 2012 (Amsterdam) 264–274.</bibl>
+                    <bibl ref="#bibl__394">Radnoti-Alföldi, M. (2006): Die Fundmünzen der römischen Zeit in Deutschland IV 3/2. Stadt und Reg.-Bez. Trier. Die Sog. Römerbauten (Mainz).</bibl>
+                    <bibl ref="#bibl__395">
                         <anchor xml:id="OLE_LINK1"/>K. Tolle / D. Wigg-Wolf (2015): Uncertainty Handling for Ancient Coinage. In: F. Giligny et al. (eds), CAA2014. 21st Century Archaeology. Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Oxford) 171–178.
                     </bibl>
-                    <bibl>K. Tolle / D. Wigg-Wolf (2016): How to Move from Relational to 5 Star Linked Open Data – A Numismatic Example. In: S. Campana et al. (eds), CAA2015. Keep the Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Oxford 2016) 275–281.</bibl>
-                    <bibl>D. Wigg-Wolf / F. Duyrat (2017): La révolution des Linked Open Data en numismatique: Les exemples de nomisma.org et Online Greek Coinage. Archéologies numériques 1.1, 2017.</bibl>
+                    <bibl ref="#bibl__396">K. Tolle / D. Wigg-Wolf (2016): How to Move from Relational to 5 Star Linked Open Data – A Numismatic Example. In: S. Campana et al. (eds), CAA2015. Keep the Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Oxford 2016) 275–281.</bibl>
+                    <bibl ref="#bibl__397">D. Wigg-Wolf / F. Duyrat (2017): La révolution des Linked Open Data en numismatique: Les exemples de nomisma.org et Online Greek Coinage. Archéologies numériques 1.1, 2017.</bibl>
                 </listBibl>
             </div>
         </back>

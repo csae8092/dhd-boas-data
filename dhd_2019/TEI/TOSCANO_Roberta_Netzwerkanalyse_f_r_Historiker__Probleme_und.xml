@@ -108,21 +108,21 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. 
+                    <bibl ref="#bibl__1138">Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. 
                         <hi rend="italic">International AAAI Conference on Weblogs and Social Media</hi>. 
                         <ref target="https://gephi.org/publications/gephi-bastian-feb09.pdf">https://gephi.org/publications/gephi-bastian-feb09.pdf</ref>
                     </bibl>
-                    <bibl>Düring, Marten. (2017). “Historical Network Research. Network Analysis in the Historical Disciplines.” 
+                    <bibl ref="#bibl__1139">Düring, Marten. (2017). “Historical Network Research. Network Analysis in the Historical Disciplines.” 
                         <ref target="http://historicalnetworkresearch.org/">
                             <hi rend="bold">http://historicalnetworkresearch.org/</hi>
                         </ref>
                         <hi rend="bold">.</hi>
                     </bibl>
-                    <bibl>Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.</bibl>
-                    <bibl>Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/</bibl>
-                    <bibl>Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.</bibl>
-                    <bibl>Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/</bibl>
-                    <bibl>Scott, John. 
+                    <bibl ref="#bibl__1140">Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.</bibl>
+                    <bibl ref="#bibl__1141">Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/</bibl>
+                    <bibl ref="#bibl__0">Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.</bibl>
+                    <bibl ref="#bibl__1142">Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/</bibl>
+                    <bibl ref="#bibl__1143">Scott, John. 
                         <hi rend="italic" xml:space="preserve">What Is Social Network Analysis? </hi>London: Bloomsbury Academic, 2013.
                     </bibl>
                 </listBibl>

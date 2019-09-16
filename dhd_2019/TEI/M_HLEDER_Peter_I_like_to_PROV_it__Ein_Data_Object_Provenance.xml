@@ -113,7 +113,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__690">
                         <hi rend="color(#000000)bold">D’Ignazio, Catherine / Klein, </hi>
                         <hi rend="color(#000000)bold">Lauren F.</hi>
                         <hi rend="color(#000000)"> (201</hi>
@@ -125,7 +125,7 @@
                         <hi rend="color(#000000)">orkshop on Visualization for the Digital Humanities (VIS4D</hi>
                         <hi rend="color(#000000)">H), Baltimore. IEEE.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__691">
                         <hi rend="color(#000000)bold">Freire, Jualina / Koop, </hi>
                         <hi rend="color(#000000)bold">D. / </hi>
                         <hi rend="color(#000000)bold">Santos, </hi>
@@ -137,7 +137,7 @@
                         <hi rend="color(#000000)">Computing in Science &amp; Engineering May/June 2008,</hi>
                         <hi rend="color(#000000)"> 11-21, DOI 10.1109/MCSE.2008.79. </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__692">
                         <hi rend="color(#000000)bold">Lebo, Timothy / Sahoo, </hi>
                         <hi rend="color(#000000)bold">Satya / </hi>
                         <hi rend="color(#000000)bold">McGuinness, </hi>
@@ -147,13 +147,13 @@
                         <hi rend="color(#000000)"> https://www.w3.org/TR/prov-o/ </hi>
                         <hi rend="color(#000000)">[letzter Zugriff 12. Oktober 2018].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__693">
                         <hi rend="color(#000000)bold">Rämisch, Florian / Mühleder, Peter </hi>
                         <hi rend="color(#000000)">(2018),</hi>
                         <hi rend="color(#000000)">Provit</hi>
                         <hi rend="color(#000000)"> (Version v0.2.3). Zenodo, DOI http://doi.org/10.5281/zenodo.2268521</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__694">
                         <hi rend="color(#000000)bold">Oliveira, Wellington / De Oliveira, </hi>
                         <hi rend="color(#000000)bold">Daniel</hi>
                         <hi rend="color(#000000)bold"> / Braganholo,</hi>
@@ -166,7 +166,7 @@
                         <hi rend="color(#000000)">53:1-53:25, DOI </hi>
                         <hi rend="color(#000000)">10.1145/3184900.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__695">
                         <lb/>
                         <hi rend="color(#000000)bold">Pasquier, T. / Lau, M. K. / Trisovic, A. </hi>
                         <hi rend="color(#000000)bold">/</hi>

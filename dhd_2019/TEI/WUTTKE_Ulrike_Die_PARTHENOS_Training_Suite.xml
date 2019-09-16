@@ -123,45 +123,45 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl rend="Standard1">
+                    <bibl rend="Standard1" ref="#bibl__1361">
                         <hi rend="bold">Burdick, Anne / Drucker, Johanna / Lunenfeld, Peter / Presner, Todd / Schnapp, Jeffrey</hi> (eds.) (2016): 
                         <hi rend="italic">Digital Humanities</hi>. Cambridge, MA: MIT Press. 
                     </bibl>
-                    <bibl rend="Standard1">
+                    <bibl rend="Standard1" ref="#bibl__1362">
                         <hi rend="bold">Benardou, Agiatis / Champion, Erik / Dallas, Costis / Hughes, Lorna</hi> (eds.) (2017): 
                         <hi rend="italic">Cultural Heritage Infrastructures in Digital Humanities</hi>. Digital Research in the Arts and Humanities. London, New York: Routledge. 
                     </bibl>
-                    <bibl rend="Standard1">
+                    <bibl rend="Standard1" ref="#bibl__1363">
                         <hi rend="bold">ESF</hi> (2011): 
                         <hi rend="italic">Research Infrastructures in the Digital Humanities</hi>. Science Policy Briefing, 42. European Science Foundation. 
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1364">
                         <hi rend="bold">Drenth, Petra / Wuttke, Ulrike</hi> (2018): “Successful PARTHENOS e-Humanities and eHeritage Series concluded”. PARTHENOS News Beitrag, 28.05.2018, http://www.parthenos-project.eu/succesfull-parthenos-ehumanities-and-eheritage-webinar-series-concluded [letzter Zugriff 03. Januar 2019].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1365">
                         <hi rend="bold" xml:space="preserve">Drude, Sebastian / Di Giorgio, Sara / Ronzino, Paola / Links, Petra / Van Nispen, Annelies / Verbrugge, Karolien / Degl’Innocenti, Emiliano / Stiller, Juliane / Oltersdorf, Jenny / Spiecker, Claus </hi>(2016): 
                         <hi rend="italic">Report on user requirements, PARTHENOS deliverable D2.1. Veröffentlicht am 20.10.2016</hi>. http://www.parthenos-project.eu/Download/Deliverables/D2.1_User-requirements-report-v2.pdf [letzter Zugriff 03. Januar 2019]. 
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1366">
                         <hi rend="bold">Edmond, Jennifer / Garnett, Vicky</hi> (2017): „Soft Skills in hard places: the changing face of DH training in European research infrastructures. Pre-print as presented at the DH Benelux Conference, 2017“. http://hdl.handle.net/2262/85444 [letzter Zugriff 03. Januar 2019].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1367">
                         <hi rend="bold">Edmond, Jennifer / Garnett, Vicky / Burr, Elisabeth / Laepke, Stefanie / Oltersdorf, Jenny / Goulis, Helen</hi> (2016): 
                         <hi rend="italic">Initial Training Plan. Veröffentlicht am 07.06.2016</hi>. http://www.parthenos-project.eu/Download/Deliverables/D7.1_Initial_Training_Plan.pdf [letzter Zugriff 03. Januar 2019].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1368">
                         <hi rend="bold">Oltersdorf, Jenny / Edmond, Jennifer / Garnett, Vicky / Henriksen, Lina / Mergoupi, Eirini-Savaidou / Povlsen, Claus</hi> (2016): 
                         <hi rend="italic">Report on the assessment of the education and training plans and activities. PARTHENOS deliverable D2.2. Veröffentlicht am 20.20.2016</hi>. http://www.parthenos-project.eu/Download/Deliverables/D2.2_Report_Assessment_Education_Training.pdf[letzter Zugriff 03. Januar 2019].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1369">
                         <hi rend="bold" xml:space="preserve">Spiecker, Claus / Oltersdorf, Jenny / Wuttke, Ulrike / Edmond, Jennifer / Garnett, Vicky / Läpke, Stefanie </hi>(2017): 
                         <hi rend="italic">Report on training and education activities and updated planning</hi>. 
                         <hi rend="italic">Veröffentlicht am 22.04.2017</hi>. Verfügbar unter: http://www.parthenos-project.eu/Download/Deliverables/D7.2_Training_Plan_FINAL.pdf [letzter Zugriff 03. Januar 2019].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1370">
                         <hi rend="bold">Wuttke, Ulrike</hi> (2019): „The “PARTHENOS Training Webinar Series”: Webinars as a means of delivering successful research infrastructure training in eHumanities and eHeritage“, in Liber Quarterly (im Erscheinen).
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1371">
                         <hi rend="bold">Wuttke, Ulrike / Spiecker, Claus / Neuroth, Heike</hi> (2019): „PARTHENOS – Eine digitale Forschungsinfrastruktur für die Geistes- und Kulturwissenschaften“, in: 
                         <hi rend="italic">Bibliothek Forschung und Praxis</hi> (im Erscheinen). 
                     </bibl>

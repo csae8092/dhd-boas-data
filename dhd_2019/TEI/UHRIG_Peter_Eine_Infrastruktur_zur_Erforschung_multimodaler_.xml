@@ -374,28 +374,28 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1196">
                         <hi rend="bold">Chen, Danqi / Manning, Christopher D.</hi> (2014): "A Fast and Accurate Dependency Parser using Neural Networks," in: Moschitti, Alessandro; Pang, Bo; Daelemans, Walter (eds.): 
                         <hi rend="italic">Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP'14)</hi>. Doha: Association for Computational Linguistics, 740-750. 
                         <ref target="http://aclweb.org/anthology/D14-1082">http://aclweb.org/anthology/D14-1082</ref> [Letzter Zugriff 15. Januar 2018]
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1197">
                         <hi rend="bold">Hardie, Andrew</hi> (2012): "CQPweb – Combining Power, Flexibility and Usability in a Corpus Analysis Tool," in: 
                         <hi rend="italic">International Journal of Corpus Linguistics</hi>, 17.3, 380-409
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__33">
                         <hi rend="bold">Manning, Christopher D. / Surdeanu, Mihai / Bauer, John / Finkel, Jenny Rose / Bethard, Steven / McClosky, David</hi> (2014): "The Stanford CoreNLP Natural Language Processing Toolkit," in: 
                         <hi rend="italic">Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'14)</hi>. Baltimore, MD: Association for Computational Linguistics, 55-60. http://aclweb.org/anthology/P14-5010.pdf [Letzter Zugriff 15. Januar 2018]
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1198">
                         <hi rend="bold">Steen, Francis F. / Turner, Mark</hi> (2013): "Multimodal Construction Grammar," in: Borkent, Michael; Dancygier, Barbara; Hinnell, Jennifer (eds.): 
                         <hi rend="italic">Language and the Creative Mind</hi>. Stanford, CA: CSLI Publications, 255-274
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1199">
                         <hi rend="bold">Turchyn, Sergiy / Olza Moreno, Inés / Pagán Cánovas, Cristóbal; Steen, Francis; Turner, Mark; Valenzuela, Javier; Ray, Soumya</hi> (2018): "Gesture Annotation with a Visual Search Engine for Multimodal Communication Research," in: 
                         <hi rend="italic">IAAI-18</hi>, article 72.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1200">
                         <hi rend="bold">Uhrig, Peter</hi> (2018): “NewsScape and the Distributed Little Red Hen Lab – A digital infrastructure for the large-scale analysis of TV broadcasts.” In: Anne-Julia Zwierlein, Jochen Petzold, Katharina Böhm and Martin Decker (eds.), 
                         <hi rend="italic">Anglistentag 2018 in Regensburg: Proceedings. Proceedings of the Conference of the German Association of University Teachers of English</hi>. Trier: Wissenschaftlicher Verlag Trier.
                     </bibl>

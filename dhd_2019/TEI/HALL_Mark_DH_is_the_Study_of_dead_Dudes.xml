@@ -624,49 +624,49 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__29">
                         <hi rend="bold">Berry, David M.</hi> (2011): 
                         <emph>"</emph>The Computational Turn: Thinking about the Digital Humanities
                         <emph>"</emph>, in: 
                         <hi rend="italic">Culture Machine</hi> 12: 1–22.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__259">
                         <hi rend="bold">Fiormonte, Domenico.</hi> (2016), 
                         <emph>"</emph>Toward a Cultural Critique of Digital Humanities
                         <emph>"</emph>, in Gold, Matthew K / Klein, L. (ed.): 
                         <hi rend="italic">Debates in the Digital Humanities 2016</hi>, University of Minnesota Press 438-458.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__260">
                         <hi rend="bold">Fischer, Frank &amp; Jäschke, Robert</hi>. (2018). 
                         <emph>"</emph>Liebe und Tod in der Deutschen Nationalbibliothek
                         <emph>"</emph>. in 
                         <hi rend="italic">DHd2018: Kritik der digitalen Vernunft</hi> 261-266.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__261">
                         <hi rend="bold">Gallon, Kim</hi>. (2016). 
                         <emph>"</emph>Making a Case for the Black Digital Humanities
                         <emph>"</emph>. in Gold, Matthew K / Klein, L. (ed.): 
                         <hi rend="italic">Debates in Digital Humanities 2016</hi> 42-49.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__262">
                         <hi rend="bold">Liu, Alan</hi>. (2012). 
                         <emph>"</emph>Where is cultural criticism in the digital humanities?
                         <emph>"</emph> in Gold, Matthew K (ed.): 
                         <hi rend="italic">Debates in the Digital Humanities</hi>, University of Minnesota Press 490-509.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__263">
                         <hi rend="bold">McPherson, Tara</hi>. (2012). 
                         <emph>"</emph>Why are the digital humanities so white? Or thinking the histories of race and computation
                         <emph>"</emph>. in Gold, Matthew K (ed.): 
                         <hi rend="italic">Debates in the Digital Humanities</hi>, 139-160.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__264">
                         <hi rend="bold">Rhody, Lisa M</hi>. (2016). 
                         <emph>"</emph>Why I dig: Feminist approaches to text analysis
                         <emph>"</emph>. in Gold, Matthew K / Klein, L. (ed.): 
                         <hi rend="italic">Debates in Digital Humanities 2016</hi> 536-539.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__265">
                         <hi rend="bold">Wernimont, Jacqueline</hi>. (2013). Whence Feminism? Assessing Feminist Interventions in Digital Literary Archives. in 
                         <hi rend="italic">DHQ: Digital Humanities Quarterly</hi>, 7(1).
                     </bibl>

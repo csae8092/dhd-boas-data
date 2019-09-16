@@ -178,11 +178,11 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__233">
                         <hi rend="bold" style="font-size:12pt">Auge, Oliver / Piotrowski, Swantje</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2013): „Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte“ in: Jahrbuch für Universitätsgeschichte 16: 143-339.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__234">
                         <hi rend="bold" style="font-size:12pt">Eckert, Karin / George, Christian / Hüther, Frank</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2017): „Gutenberg Biographics: Eine biographische Online-Datenbank zur Mainzer Universitätsgeschichte“, in: ABI Technik – Zeitschrift für Automation, Bau und Technik im Archiv-, Bibliotheks- und Informationswesen 37, 3:  171-178 </hi>
                         <ref target="https://doi.org/10.1515/abitech-2017-0041">
@@ -190,15 +190,15 @@
                         </ref>
                         <hi style="font-size:12pt" xml:space="preserve"> [letzter Zugriff 08. Januar 2019]. </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__235">
                         <hi rend="bold" style="font-size:12pt">Göllnitz, Martin</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2013): „Das ‚Kieler Gelehrtenverzeichnis‘ in der Praxis: Karrieren von Hochschullehrern im Dritten Reich zwischen Parteizugehörigkeit und Wissenschaft“, in: Auge, Oliver / Piotrowski, Swantje (eds.): Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte. Jahrbuch für Universitätsgeschichte 16. Stuttgart: Franz Steiner Verlag 291-312.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__236">
                         <hi rend="bold" style="font-size:12pt">Pfeiffer, Barbara</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2013): „Über Zweck und Nutzen der Gemeinsamen Normdatei“, in: Auge, Oliver / Piotrowski, Swantje (eds.): Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte. Jahrbuch für Universitätsgeschichte 16. Stuttgart: Franz Steiner Verlag 251-259.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__237">
                         <hi rend="bold" style="font-size:12pt">Schrade, Torsten</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2016): Deutsche Professorenkataloge. Perspektiven, Möglichkeiten, Potentiale zur Interoperabilität </hi>
                         <ref target="https://digicademy.github.io/presentation-catalogus-professorum/#/step-17">
@@ -206,7 +206,7 @@
                         </ref>
                         <hi style="font-size:12pt" xml:space="preserve"> [letzter Zugriff 08. Januar 2019].</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__238">
                         <hi rend="bold" style="font-size:12pt">Schrade, Torsten</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2017): Sammlungs- und Editionsportale mit dem Cultural Heritage Framework der Digitalen Akademie. Ein Werkstattbericht. </hi>
                         <ref target="https://digicademy.github.io/2017-editionsportale-jena/#/step-1">

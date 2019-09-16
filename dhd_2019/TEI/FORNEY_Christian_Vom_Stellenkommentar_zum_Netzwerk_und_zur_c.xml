@@ -200,43 +200,43 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__19">
                         <hi rend="bold">Baillot, Anne</hi> (2018): Die Krux mit dem Netz. Verknüpfung und Visualisierung bei digitalen Briefeditionen. In: Bernhart, Toni et al. (eds.): Quantitative Ansätze in den Literatur- und Geisteswissenschaften. Systematische und historische Perspektiven. Berlin/Boston: De Gruyter 355-370 &lt;halshs-01278211&gt;.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__187">
                         <hi rend="bold">Boschung, Urs et al.</hi> (2002): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777. 2 Bde. Basel.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__188">
                         <hi rend="bold">Dauser, Regina et al.</hi> (2008): Wissen im Netz. Botanik und Pflanzentransfer in europäischen Korrespondenznetzen des 18. Jahrhundert. Berlin.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__189">
                         <hi rend="bold">Flückiger, Daniel / Stuber, Martin</hi> (2009): Vom System zum Akteur. Personenorientierte Datenbanken für Archiv und Forschung. In: Kirchhofer, André et al. (Hrsg.): Nachhaltige Geschichte. Festschrift für Christian Pfister, Zürich, 253-269.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__190">
                         <hi rend="bold">Forney Christian et al.</hi> (2018): Vom geschützt zugänglichen Datenbankverbund zur offenen Editions- und Forschungsplattform: kritischer Rückblick auf halber Strecke, DHd 2018 (Poster).
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__191">
                         <hi rend="bold">Monti, Maria Teresa</hi> (1983-1994): Catalogo del Fondo Haller della Biblioteca Nazionale Braidense di Milano, a cura di Maria Teresa Monti, 13 Bde. Milano.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__192">
                         <hi rend="bold">Recker-Hamm, Ute / Stuber, Martin</hi> (2015): Haller Online – Konzept für den Umbau, Ausbau und die langfristige Sicherung der Haller-/ OeG-Datenbank, 25 Seiten (8.6.2015).
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__193">
                         <hi rend="bold" xml:space="preserve">Sonntag, Otto </hi>(2019): The Albrecht von Haller-Gerlach Adolph von Münchhausen Correspondence. hallerNet (in Vorbereitung).
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__194">
                         <hi rend="bold">Steinke, Hubert</hi> (2003): Archive databases as advanced research tools: the Haller Project. In: Antonio Vallisneri. L`edizione del testo scientifico d`età moderna, a cura di Maria Teresa Monti. Firenze 2003, 191-204.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__195">
                         <hi rend="bold">Steinke, Hubert / Profos, Claudia</hi> (2004): Bibliographia Halleriana. Verzeichnis der Schriften von und über Albrecht von Haller. Basel.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__196">
                         <hi rend="bold">Stuber, Martin</hi> (2004): “Journal and letter. The interaction between two communication media in the correspondence of Albrecht von Haller” in: Lüsebrink, Hans-Jürgen / Popkin, Jeremy (eds.): Enlightenment, Revolution and the periodical press (Studies on Voltaire and the Eighteenth Century), 114-141.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__197">
                         <hi rend="bold">Stuber, Martin et al.</hi> (2005): Hallers Netz. Ein europäischer Gelehrtenbriefwechsel zur Zeit der Aufklärung. Basel.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__198">
                         <hi rend="bold">Stuber, Martin / Krempel, Lothar</hi> (2013): Las redes académicas de Albrecht von Haller y la Sociedad Económica: un análisis de redes a varios niveles. In: REDES. Revista hispana para el análisis. De redes sociales, 24/1 (2013), 1-26: https://doi.org/10.5565/rev/redes.450 / REDES Online English: The Scholarly Networks of Albrecht von Haller and the Economic Society of Bern – a Multi-Level Network Analysis: http://revista-redes.rediris.es/webredes/novedades/Stuber_Krempel_scholarly_networks.pdf.
                     </bibl>
                 </listBibl>

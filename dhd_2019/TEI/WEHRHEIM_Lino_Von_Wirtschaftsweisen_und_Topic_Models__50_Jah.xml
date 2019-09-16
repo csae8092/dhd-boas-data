@@ -551,54 +551,54 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1322">
                         <anchor xml:id="CTVL0017dca56499900447084b0811edf35d7c8"/>Aletras, Nikolaos; Stevenson, Mark 2014: Measuring the Similarity between Automatically Generated Topics. In: 
                         <hi rend="italic">Proceedings of the 14th Conference of the European Chapter of the ACL</hi>, S. 22–27.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1323">
                         <anchor xml:id="CTVL0015c66198d7d4747fdab976244cb5c5f25"/>Blei, David; Ng, Andrew Y.; Jordan, Michael I. 2003: Latent Dirichlet Allocation. In: 
                         <hi rend="italic" xml:space="preserve">Journal of Machine Learning Research </hi>3, S. 993–1022.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__53">
                         <anchor xml:id="CTVL001754a5bcbc75e43e7aa7d39d9723f6e54"/>Blei, David M. 2012: Probabilistic Topic Models. In: 
                         <hi rend="italic" xml:space="preserve">Communications of the ACM </hi>55 (4), S. 77–84.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1324">
                         <anchor xml:id="CTVL001e7ff19bfc6e6420987353b42e6a617ea"/>Boyd-Graber, Jordan; Hu, Yuening; Mimno, David 2017: Applications of topic models. Boston: now (Foundations and trends in information retrieval).
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1325">
                         <anchor xml:id="CTVL001c964835a911e4c74bbfd52974fcd69eb"/>Boyd-Graber, Jordan; Mimno, David; Newman, David J. 2015: Care and Feeding of Topic Models. In: Edoardo M. Airoldi, David M. Blei, Elena A. Erosheva und Stephen E. Fienberg (Hg.): Handbook of Mixed Membership Models and Their Applications. Boca Raton, S. 225–274.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1326">
                         <anchor xml:id="CTVL00178359664bea243a5a4ee7b39d8cf82b6"/>Heyer, Gerhard 2009: Introdution to TMS 2009. In: Gerhard Heyer (Hg.): Text mining services. Leipzig: LIV (Leipziger Beiträge zur Informatik, Bd. 14), S. 1–14.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1327">
                         <anchor xml:id="CTVL001c9d2b67288c24d868dd76f10101a5cb8"/>Jockers, Matthew Lee 2013: Macroanalysis. Digital Methods and Literary History. Urbana Ill.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1328">
                         <anchor xml:id="CTVL001088f540757c446bcba430f60b4252aaa"/>Lüdering, Jochen; Winker, Peter 2016: Forward or Backward Looking? The Economic Discourse and the Observed Reality. In: 
                         <hi rend="italic" xml:space="preserve">Journal of Economics and Statistics </hi>236 (4), S. 483–515.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1329">
                         <anchor xml:id="CTVL001a6663a090fd04a0280fcb0c847caea49"/>Murzintcev, Nikita 2016: ldatuning (R package). Online verfügbar unter https://cran.r-project.org/web/packages/ldatuning/ldatuning.pdf, zuletzt geprüft am 19.03.2018.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1330">
                         <anchor xml:id="CTVL0010f0c343e39c74af099f60bde051ec55c"/>Schanetzky, Tim 2007: Die große Ernüchterung. Wirtschaftspolitik Expertise und Gesellschaft in der Bundesrepublik 1966 bis 1982. Berlin.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1331">
                         <anchor xml:id="CTVL00112676f00f5c348c9940edff963078c82"/>Steyvers, Mark; Griffiths, Tom 2007: Probabilistic Topic Models. In: Thomas K. Landauer, Danielle S. McNamara, Simon Dennis und Walter Kintsch (Hg.): Handbook of Latent Semantic Analysis. Hoboken, S. 427–448.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1332">
                         <anchor xml:id="CTVL001a9e4db213f0d490795c36a66cfd584b2"/>Strätling, Ansgar 2001: Sachverständiger Rat im Wandel. Der theoretische Argumentationshintergrund des Sachverständigenrats zur Begutachtung der Gesamtwirtschaftlichen Entwicklung zur Beschäftigungspolitik von 1964-1999. Marburg.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1333">
                         <anchor xml:id="CTVL0015a9fd537a6b448e9a9f78d73c2f20af3"/>Wegner, Klaus 1985: Im Blickpunkt: Sachverständigenrat und Konjunktur- und Wachstumspolitik der Bundesregierung seit 1964. Frankfurt.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1334">
                         <anchor xml:id="CTVL001608228ef1e25414b94365b047e59cc53"/>Wehrheim, Lino 2018: Economic History Goes Digital: Topic Modeling the Journal of Economic History. In: 
                         <hi rend="italic" xml:space="preserve">Cliometrica. DOI: </hi>10.1007/s11698-018-0171-7.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1335">
                         <anchor xml:id="CTVL00125ac375e02c043f5bc247652f7b184fe"/>Wiedemann, Gregor 2016: Text Mining for Qualitative Data Analysis in the Social Sciences. A Study on Democratic Discourse in Germany. Wiesbaden.
                     </bibl>
                 </listBibl>

@@ -173,25 +173,25 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__4">
                         <hi style="font-family:Abel" xml:space="preserve">Dörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In </hi>
                         <hi rend="italic" style="font-family:Abel">Proceedings of the SIGCHI conference on human factors in computing systems</hi>
                         <hi style="font-family:Abel" xml:space="preserve"> (pp. 1215-1224). ACM.</hi>
                         <hi rend="color(4A86E8)" style="font-family:Abel">DOI:  https://doi.org/10.1145/1978942.1979124</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__579">
                         <hi style="font-family:Abel" xml:space="preserve">Dörk, M., Pietsch, C., &amp; Credico, G. (2017). One view is not enough. </hi>
                         <hi rend="italic" style="font-family:Abel">Information Design Journal</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">23</hi>
                         <hi style="font-family:Abel">(1), 39-47.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__580">
                         <hi style="font-family:Abel" xml:space="preserve">Mayr, E., Schreder, G., Salisu, S. &amp; Windhager, F.. (2018) </hi>
                         <hi rend="italic" style="font-family:Abel">Integrated Visualization of Space and Time: A Distributed Cognition Perspective</hi>
                         <hi style="font-family:Abel">. Manuscript in preparation.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__581">
                         <hi style="font-family:Abel" xml:space="preserve">Qu, Z and Hullman, J 2018, Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring, </hi>
                         <hi rend="italic" style="font-family:Abel">IEEE Transactions on Visualization and Computer Graphics</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, 24 (1), p. 468-477. DOI: </hi>
@@ -199,21 +199,21 @@
                             <hi rend="underline color(1155CC)" style="font-family:Abel">https://doi.org/10.1109/TVCG.2017.2744198</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__582">
                         <hi style="font-family:Abel">Schreder, G., Windhager, F., Smuc, M., &amp; Mayr, E. (2016). A Mental Models Perspective on Designing Information Visualizations for Political Communication.</hi>
                         <hi rend="italic" style="font-family:Abel">JeDEM-eJournal of eDemocracy &amp; Open Government</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">8</hi>
                         <hi style="font-family:Abel">(3), 80-99.</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__11">
                         <hi style="font-family:Abel">Whitelaw, M. (2015). Generous Interfaces for Digital Cultural Collections.</hi>
                         <hi rend="italic" style="font-family:Abel">DHQ: Digital Humanities Quarterly</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">9</hi>
                         <hi style="font-family:Abel" xml:space="preserve">(1). </hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__10">
                         <hi style="font-family:Abel" xml:space="preserve">Windhager, F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. (2018). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. </hi>
                         <hi rend="italic" style="font-family:Abel">IEEE Transactions on Visualization and Computer Graphics</hi>
                         <hi style="font-family:Abel">.</hi>
@@ -222,7 +222,7 @@
                             <hi rend="underline color(006699)" style="font-family:Abel;font-size:11.5pt">10.1109/TVCG.2018.2830759</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__583">
                         <hi style="font-family:Abel">Windhager, F., Salisu, S., Schreder, G., &amp; Mayr, E. (2018). Orchestrating Overviews: A Synoptic Approach to the Visualization of Cultural Collections.</hi>
                         <hi rend="italic" style="font-family:Abel">Open Library of Humanities</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>

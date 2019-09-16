@@ -178,44 +178,44 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__216">
                         <hi rend="bold">Vor der Brück, Tim / Mehler, Alexander</hi> (2016): „TLT-CRF: A Lexicon-supported Morphological Tagger for Latin Based on Conditional Random Fields”, in: “
                         <hi rend="italic">Proceedings of the 10th International Conference on Language Resources and Evaluation</hi>”.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__217">
                         <hi rend="bold" xml:space="preserve">Eger, Steffen/ Gleim, Rüdiger / Mehler, A. </hi>(2016): „Lemmatization and Morphological Tagging in German and Latin: A comparison and a survey of the state-of-the-art”, in: “
                         <hi rend="italic">Proceedings of the 10th International Conference on Language Resources and Evaluation</hi>”.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__218">
                         <hi rend="bold">Cimino, Roberta / Geelhaar, Tim / Schwandt, Silke</hi> (2015): “Digital Approaches to Historical Semantics: new research directions at Frankfurt University”. In: 
                         <hi rend="italic">Storicamente</hi> 11. http://storicamente.org/historical_semantics [letzter Zugriff 12.10.2018] 7. DOI: 
                         <ref target="http://dx.doi.org/10.12977/stor594" xml:space="preserve">10.12977/stor594 </ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__219">
                         <hi rend="bold">Fischer, Franz</hi> (2017). „Digital Corpora and Scholarly Editions of Latin Texts: Features and Requirements of Textual Critism”, in: 
                         <hi rend="italic">Speculum</hi> 92/S1: S266-S287. https://doi.org/10.1086/693823
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__220">
                         <hi rend="bold">Geelhaar, Tim</hi> (2015): “Talking About christianitas at the Time of Innocent III (1198–1216): What Does Word Use Contribute to the History of Concepts?” in: 
                         <hi rend="italic">Contributions to the history of concepts</hi> 10/2: 7–28. https://doi.org/10.3167/choc.2015.100202
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__221">
                         <hi rend="bold">Geyken, Alexander / Boenig, Matthias / Haaf, Susanne / Jurish, Bryan / Thomas, Christian / Wiegand, Frank</hi> (2018): „Das Deutsche Textarchiv als Forschungsplattform für historische Daten in CLARIN“, in: Lobin, Henning/ Schneider, Roman / Witt, Andreas (Hgg.): 
                         <hi rend="italic">Digitale Infrastrukturen für die germanistische Forschung</hi> (= Germanistische Sprachwissenschaft um 2020, Bd. 6). Berlin/Boston: De Gruyter, 219–248. https://doi.org/10.1515/9783110538663-011
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__222">
                         <hi rend="bold">Jussen, Bernhard, Mehler, Alexander / Ernst, Alexandra</hi> (2007): „A Corpus Management System for Historical Semantics. Sprache und Datenverarbeitung“, in: 
                         <hi rend="italic">International Journal for Language Data Processing </hi>31/2: 81-87. 
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__223">
                         <hi rend="bold">Jussen, Bernhard</hi> (2000). 
                         <hi rend="italic">Der Name der Witwe. Erkundungen zur Semantik der mittelalterlichen Bußkultur</hi>. (VMPIG, Bd. 158). Göttingen.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__224">
                         <hi rend="bold">Piotrowski, Michael</hi> (2018): „Digital Humanities – An explication”, in: Burghardt, Manuel, Müller-Birn, Christian (eds.): INF-DH 2018 – Workshopband, 25. Sept. 2018, Berlin 
                         <ref target="https://doi.org/10.18420/infdh2018-07">https://doi.org/10.18420/infdh2018-07</ref>
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__225">
                         <hi rend="bold">Schwandt, Silke</hi> (2018): „Digitale Methoden für die Historische Semantik. Auf den Spuren von Begriffen in digitalen Korpora“, in: 
                         <hi rend="italic">Geschichte und Gesellschaft</hi> 44: 107-134. 
                         <ref target="https://doi.org/10.13109/gege.2018.44.1.107">https://doi.org/10.13109/gege.2018.44.1.107</ref>

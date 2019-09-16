@@ -128,52 +128,52 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Biefang, K., Kunkel, J., Loepp, B. &amp; Ziegler, J., (2017). Eine Sandbox zur physisch-virtuellen Exploration von Ausgrabungsstätten. In: Burghardt, M., Wimmer, R., Wolff, C. &amp; Womser-Hacker, C. (Hrsg.), Mensch und Computer 2017 - Workshopband. Regensburg: Gesellschaft für Informatik e.V..</bibl>
-                    <bibl>Galison, P. (2000). The suppressed drawing: Paul dirac’s hidden geometry. 
+                    <bibl ref="#bibl__1016">Biefang, K., Kunkel, J., Loepp, B. &amp; Ziegler, J., (2017). Eine Sandbox zur physisch-virtuellen Exploration von Ausgrabungsstätten. In: Burghardt, M., Wimmer, R., Wolff, C. &amp; Womser-Hacker, C. (Hrsg.), Mensch und Computer 2017 - Workshopband. Regensburg: Gesellschaft für Informatik e.V..</bibl>
+                    <bibl ref="#bibl__1017">Galison, P. (2000). The suppressed drawing: Paul dirac’s hidden geometry. 
                         <hi rend="italic">Representations</hi>, (72), 145–166. Abgerufen von 
                         <ref target="http://www.jstor.org/stable/2902912">http://www.jstor.org/stable/2902912</ref>
                     </bibl>
-                    <bibl>Gibson, J. (1977). The theory of affordances. In R. Shaw &amp; J. Bransford (Hrsg.), 
+                    <bibl ref="#bibl__1018">Gibson, J. (1977). The theory of affordances. In R. Shaw &amp; J. Bransford (Hrsg.), 
                         <hi rend="italic">Perceiving, Acting, and Knowing: Toward and Ecological Psychology</hi> (S. 62–82). Hillsdale, NJ: Erlbaum.
                     </bibl>
-                    <bibl>He, K., Gkioxari, G., Dollár, P., &amp; Girshick, R. (2017, Oktober). Mask R-CNN. In 
+                    <bibl ref="#bibl__1019">He, K., Gkioxari, G., Dollár, P., &amp; Girshick, R. (2017, Oktober). Mask R-CNN. In 
                         <hi rend="italic">Computer Vision (ICCV), 2017, IEEE International Conference on</hi> (S. 2980-2988). IEEE.
                     </bibl>
-                    <bibl>ISO 9241-210. (2010). Ergonomics of human-system interaction – Part 210: Human-centred design process for interactive systems. </bibl>
-                    <bibl>Keysers, D., Deselaers, T., Rowley, H. A., Wang, L. L., &amp; Carbune, V. (2017). Multi-Language Online Handwriting Recognition. 
+                    <bibl ref="#bibl__1020">ISO 9241-210. (2010). Ergonomics of human-system interaction – Part 210: Human-centred design process for interactive systems. </bibl>
+                    <bibl ref="#bibl__1021">Keysers, D., Deselaers, T., Rowley, H. A., Wang, L. L., &amp; Carbune, V. (2017). Multi-Language Online Handwriting Recognition. 
                         <hi rend="italic">IEEE Trans. Pattern Anal. Mach. Intell.</hi>, 
                         <hi rend="italic">39</hi>(6), 1180-1194.
                     </bibl>
-                    <bibl>Krasin I., Duerig T., Alldrin N., Ferrari V., Abu-El-Haija S., Kuznetsova A., Rom H., Uijlings J., Popov S., Kamali S., Malloci M., Pont-Tuset J., Veit A., Belongie S., Gomes V., Gupta A., Sun C., Chechik G., Cai D., Feng Z., Narayanan D., Murphy K. (2017). OpenImages: A public dataset for large-scale multi-label and multi-class image classification. Verfügbar unter 
+                    <bibl ref="#bibl__1022">Krasin I., Duerig T., Alldrin N., Ferrari V., Abu-El-Haija S., Kuznetsova A., Rom H., Uijlings J., Popov S., Kamali S., Malloci M., Pont-Tuset J., Veit A., Belongie S., Gomes V., Gupta A., Sun C., Chechik G., Cai D., Feng Z., Narayanan D., Murphy K. (2017). OpenImages: A public dataset for large-scale multi-label and multi-class image classification. Verfügbar unter 
                         <ref target="https://storage.googleapis.com/openimages/web/index.html">https://storage.googleapis.com/openimages/web/index.html</ref>.
                     </bibl>
-                    <bibl>Krauthausen, K. (2010). Vom Nutzen des Notierens: Verfahren des Entwurfs. In K. Krauthausen &amp; O. Nasim (Hrsg.), 
+                    <bibl ref="#bibl__1023">Krauthausen, K. (2010). Vom Nutzen des Notierens: Verfahren des Entwurfs. In K. Krauthausen &amp; O. Nasim (Hrsg.), 
                         <hi rend="italic">Notieren, Skizzieren: Schreiben und Zeichnen als Verfahren des Entwurfs</hi> (S. 7–26). Zürich.
                     </bibl>
-                    <bibl>Lenz, M. (2015). Bewegte Systematik. Alexander von Humboldts „Amerikanische Reisetagebücher“ als Problemfelder der Literaturgeschichte und historischen Epistemologie. 
+                    <bibl ref="#bibl__1024">Lenz, M. (2015). Bewegte Systematik. Alexander von Humboldts „Amerikanische Reisetagebücher“ als Problemfelder der Literaturgeschichte und historischen Epistemologie. 
                         <hi rend="italic">HiN - Alexander von Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien, 16</hi>(31), 78-104.
                     </bibl>
-                    <bibl>Martedi, S., Uchiyama, H., Enriquez, G., Saito, H., Miyashita, T., &amp; Hara, T. (2012). Foldable augmented maps. 
+                    <bibl ref="#bibl__1025">Martedi, S., Uchiyama, H., Enriquez, G., Saito, H., Miyashita, T., &amp; Hara, T. (2012). Foldable augmented maps. 
                         <hi rend="italic">IEICE TRANSACTIONS on Information and Systems</hi>, 
                         <hi rend="italic">95</hi>(1), 256-266.
                     </bibl>
-                    <bibl>McGuire, J. &amp; Tamny, M. (1983). 
+                    <bibl ref="#bibl__1026">McGuire, J. &amp; Tamny, M. (1983). 
                         <hi rend="italic">Certain philosophical questions: Newton’s trinity notebook.</hi> Newton’s Trinity Notebook. Cambridge University Press.
                     </bibl>
-                    <bibl>Nielsen, J. (1993). Noncommand user interfaces. 
+                    <bibl ref="#bibl__1027">Nielsen, J. (1993). Noncommand user interfaces. 
                         <hi rend="italic">Commun. ACM</hi>,
                         <hi rend="italic" xml:space="preserve"> 36</hi>(4), 83–99. 
                     </bibl>
-                    <bibl>Norman, D. A. (1993). 
+                    <bibl ref="#bibl__1028">Norman, D. A. (1993). 
                         <hi rend="italic">Things that make us smart: Defending human attributes in the age of the machine</hi>. Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc.
                     </bibl>
-                    <bibl>Piolat, A., Olive, T., &amp; Kellogg, R. T. (2005). Cognitive effort during note taking. 
+                    <bibl ref="#bibl__1029">Piolat, A., Olive, T., &amp; Kellogg, R. T. (2005). Cognitive effort during note taking. 
                         <hi rend="italic">Applied Cognitive Psychology, 19</hi>(3), 291–312.
                     </bibl>
-                    <bibl>Wei, S. E., Ramakrishna, V., Kanade, T., &amp; Sheikh, Y. (2016). Convolutional pose machines. In 
+                    <bibl ref="#bibl__1030">Wei, S. E., Ramakrishna, V., Kanade, T., &amp; Sheikh, Y. (2016). Convolutional pose machines. In 
                         <hi rend="italic">Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition</hi> (S. 4724-4732).
                     </bibl>
-                    <bibl>Yeo, R. (2014). Introduction. In 
+                    <bibl ref="#bibl__1031">Yeo, R. (2014). Introduction. In 
                         <hi rend="italic">Notebooks, english virtuosi, and early modern science</hi> (S. 1–35). Chicago/London: University of Chicago Press.
                     </bibl>
                 </listBibl>

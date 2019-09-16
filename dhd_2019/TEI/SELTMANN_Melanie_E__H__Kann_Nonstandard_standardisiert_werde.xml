@@ -113,31 +113,31 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1045">
                         <hi rend="bold">Barbiers, Sjef / Wyngaerd, Guido Vanden</hi> (o.J.): 
                         <hi rend="italic">Tagging protocol</hi>. http://www.meertens.knaw.nl/pdf/variatielinguistiek/dialectsyntax/Tagging-protocol.pdf [letzter Zugriff 13. Oktober 2018].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1046">
                         <hi rend="bold">Breuer, Ludwig M. / Seltmann, Melanie E.-H.</hi> (2018): „Sprachdaten(banken) – Aufbereitung und Visualisierung am Beispiel von SyHD und DiÖ“ in: Börner, Ingo / Straub, Wolfgang / Zolles, Christian (eds): 
                         <hi rend="italic" xml:space="preserve">Germanistik digital. </hi>Digital Humanities in der Sprach- und Literaturwissenschaft. Wien: Facultas, 135-152.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1047">
                         <hi rend="bold" xml:space="preserve">Budin, Gerhard / Elspaß, Stephan / Lenz, Alexandra N. / Newerkla, Stefan M. / Ziegler, Arne </hi>(2018): „Der Spezialforschungsbereich ‚Deutsch in Österreich (DiÖ). Variation – Kontakt – Perzeption‘“ in: 
                         <hi rend="italic">Zeitschrift für germanistische Linguistik</hi> 46(2), 300-308. DOI: 10.1515/zgl-2018-0017.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1048">
                         <hi rend="bold">Lemnitzer, Lothar / Zinsmeister, Heike</hi> (2010): 
                         <hi rend="italic">Korpuslinguistik</hi>. Tübingen: Gunter Narr Verlag.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__47">
                         <hi rend="bold">Schiller, Anne / Teufel, Simone / Stöckert, Christine / Thielen, Christine</hi> (1999): 
                         <hi rend="italic">Guidelines für das Tagging deutscher Textcorpora mit STTS</hi> (Kleines und großes Tagset) http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf [letzter Zugriff 13. Oktober 2018].
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1049">
                         <hi rend="bold">Telljohann, Heike / Versley, Yannick / Beck, Kathrin / Hinrichs, Erhard / Zastrow, Thomas</hi> (2013): “STTS als Part-of-Speech-Tagset in Tübinger Baumbanken” in: Zinsmeister, Heike / Heid, Ulrich / Beck, Kathrin (eds.): Das Stuttgart-Tübingen Wortarten-Tagset – Stand und Perspektiven. 
                         <hi rend="italic">Journal for Language Technology and Computational Linguistics</hi> 28, 1/2013. 1-15.
                     </bibl>
-                    <bibl style="text-align:left; ">
+                    <bibl style="text-align:left; " ref="#bibl__1050">
                         <hi rend="bold" xml:space="preserve">Wandruszka, Mario </hi>(1979): 
                         <hi rend="italic">Die Mehrsprachigkeit des Menschen</hi>. München: Piper.
                     </bibl>

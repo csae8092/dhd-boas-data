@@ -153,17 +153,17 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">CORDIS (2018): 
+                    <bibl style="text-align:left; " ref="#bibl__315">CORDIS (2018): 
                         <hi rend="italic" xml:space="preserve">3D-COFORM. </hi>https://cordis.europa.eu/project/rcn/89256_de.html [letzter Zugriff 14. Oktober 2018]
                     </bibl>
-                    <bibl style="text-align:left; ">Freeman, A. / Adams Becker, S. / Cummins, M. / McKelroy, E. / Giesinger, C. / Yuhnke, B. (2016): NMC Horizon Report 2016. Museum Edition. Austin: 42-43</bibl>
-                    <bibl style="text-align:left; ">Hohmann, Georg (2014): „Deutsches Museum Digital“ in: Deutscher Museumsbund (Hrsg.): 
+                    <bibl style="text-align:left; " ref="#bibl__316">Freeman, A. / Adams Becker, S. / Cummins, M. / McKelroy, E. / Giesinger, C. / Yuhnke, B. (2016): NMC Horizon Report 2016. Museum Edition. Austin: 42-43</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__317">Hohmann, Georg (2014): „Deutsches Museum Digital“ in: Deutscher Museumsbund (Hrsg.): 
                         <hi rend="italic">Museumskunde</hi> 79: 24-28.
                     </bibl>
-                    <bibl style="text-align:left; ">Kommunikationsraum (2018): 
+                    <bibl style="text-align:left; " ref="#bibl__318">Kommunikationsraum (2018): 
                         <hi rend="italic">Welche Möglichkeiten bieten Virtual Reality und Augmented Reality für das Museum der Zukunft?</hi> https://www.kommunikationsraum.net/ausstellungenmuseen/welche-moeglichkeiten-bieten-virtual-reality-und-augmented-reality-fuer-das-museum-der-zukunft/ [letzter Zugriff 14. Oktober 2018
                     </bibl>
-                    <bibl style="text-align:left; ">Museum4punkt0 (2018): 
+                    <bibl style="text-align:left; " ref="#bibl__319">Museum4punkt0 (2018): 
                         <hi rend="italic">Über uns</hi>. http://www.museum4punkt0.de/ueber-uns/ [letzter Zugriff 14. Oktober 2018]]
                     </bibl>
                 </listBibl>

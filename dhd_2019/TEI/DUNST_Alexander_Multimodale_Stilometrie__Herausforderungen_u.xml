@@ -113,25 +113,25 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Baxter, Mike /Khitrova, Daria /Tsivian, Yuri (2016): “A Numerate Film Theory? Cinemetrics looks at Griffith, Griffith Looks at Cinemetrics“, in: Mise au Point 8, https://journals.openedition.org/map/2108 [letzter Zugriff 2. Januar 2019].</bibl>
-                    <bibl>Cutting, James / Brunick, Kaitlin / DeLong, Jordan / Iricinischi, Catalina / Candan, Ayse (2011): “Quicker, faster, darker: Changes in Hollywood Film over 75 Years”, in: 
+                    <bibl ref="#bibl__166">Baxter, Mike /Khitrova, Daria /Tsivian, Yuri (2016): “A Numerate Film Theory? Cinemetrics looks at Griffith, Griffith Looks at Cinemetrics“, in: Mise au Point 8, https://journals.openedition.org/map/2108 [letzter Zugriff 2. Januar 2019].</bibl>
+                    <bibl ref="#bibl__167">Cutting, James / Brunick, Kaitlin / DeLong, Jordan / Iricinischi, Catalina / Candan, Ayse (2011): “Quicker, faster, darker: Changes in Hollywood Film over 75 Years”, in: 
                         <hi rend="italic">i-Perception</hi> 2: 569-576
                     </bibl>
-                    <bibl>Dunst, A. &amp; R. Hartel (2018a): “Automated Genre and Author Distinction in Comics“ DH 2018: Book of Abstracts 184-188.</bibl>
-                    <bibl>Dunst, Alexander / Hartel, Rita (2018b): “The Quantitative Study of Comics: Towards a Visual Stylometry of Graphic Narrative” in: Dunst, Alexander / Laubrock, Jochen / Wildfeuer, Janina (Eds.): Empirical Comics Research: Digital, Cognitive, and Multimodal Methods. New York: Routledge 43-61.</bibl>
-                    <bibl>Dunst, Alexander / Hartel, Rita / Laubrock, Jochen (2017): 
+                    <bibl ref="#bibl__168">Dunst, A. &amp; R. Hartel (2018a): “Automated Genre and Author Distinction in Comics“ DH 2018: Book of Abstracts 184-188.</bibl>
+                    <bibl ref="#bibl__169">Dunst, Alexander / Hartel, Rita (2018b): “The Quantitative Study of Comics: Towards a Visual Stylometry of Graphic Narrative” in: Dunst, Alexander / Laubrock, Jochen / Wildfeuer, Janina (Eds.): Empirical Comics Research: Digital, Cognitive, and Multimodal Methods. New York: Routledge 43-61.</bibl>
+                    <bibl ref="#bibl__17">Dunst, Alexander / Hartel, Rita / Laubrock, Jochen (2017): 
                         <hi rend="bold">“</hi>The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities”, in: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition 15-20.
                     </bibl>
-                    <bibl>Flückiger, Barbar (2017): “Analysis of Film Colors in a Digital Humanities Perspective“, in: Frames 1, http://framescinemajournal.com/article/analysis-of-film-colors-in-a-digital-humanities-perspective [letzter Zugriff 2. Januar 2019].</bibl>
-                    <bibl>Hartel, Rita / Dunst, Alexander (2019): “How Good is Good Enough? Establishing Quality Thresholds for the Automatic Text Analysis of Retro-Digitized Comics”, in: Proceedings of the Multimedia Modeling Conference (Springer Lecture Notes in Computer Science 11296), https://easychair.org/publications/preprint_open/Mdf2 [letzter Zugriff 2. Januar 2019].</bibl>
-                    <bibl>Holmes, David (1998): “The Evolution of Stylometry in Humanities Scholarship“, in: Literary and Linguistic Computing 13: 111-17.</bibl>
-                    <bibl>Laubrock, Jochen / Dubray, David (2018): “Computational Analysis and Visual Stilometry of Comics using Convolutional Neural Networks“, in: DH 2018: Book of Abstracts 228-231.</bibl>
-                    <bibl>Manovich, Lev / Douglas, Jeremy / Zepel, Tara (2011): “How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare [letzter Zugriff 2. Januar 2019].</bibl>
-                    <bibl>Martínez, J. / Koenen, R. /Pereira, F. (2002): "MPEG-7: the generic multimedia content description standard, part 1”, in: 
+                    <bibl ref="#bibl__170">Flückiger, Barbar (2017): “Analysis of Film Colors in a Digital Humanities Perspective“, in: Frames 1, http://framescinemajournal.com/article/analysis-of-film-colors-in-a-digital-humanities-perspective [letzter Zugriff 2. Januar 2019].</bibl>
+                    <bibl ref="#bibl__171">Hartel, Rita / Dunst, Alexander (2019): “How Good is Good Enough? Establishing Quality Thresholds for the Automatic Text Analysis of Retro-Digitized Comics”, in: Proceedings of the Multimedia Modeling Conference (Springer Lecture Notes in Computer Science 11296), https://easychair.org/publications/preprint_open/Mdf2 [letzter Zugriff 2. Januar 2019].</bibl>
+                    <bibl ref="#bibl__172">Holmes, David (1998): “The Evolution of Stylometry in Humanities Scholarship“, in: Literary and Linguistic Computing 13: 111-17.</bibl>
+                    <bibl ref="#bibl__173">Laubrock, Jochen / Dubray, David (2018): “Computational Analysis and Visual Stilometry of Comics using Convolutional Neural Networks“, in: DH 2018: Book of Abstracts 228-231.</bibl>
+                    <bibl ref="#bibl__174">Manovich, Lev / Douglas, Jeremy / Zepel, Tara (2011): “How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare [letzter Zugriff 2. Januar 2019].</bibl>
+                    <bibl ref="#bibl__175">Martínez, J. / Koenen, R. /Pereira, F. (2002): "MPEG-7: the generic multimedia content description standard, part 1”, in: 
                         <hi rend="italic" xml:space="preserve">IEEE Multimedia </hi>9: 78-87.
                     </bibl>
-                    <bibl>Qi, Hanchao / Taeb, Armeen / Hughes, Shannon (2013): “Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings”, in: Signal Processing 93: 541-53.</bibl>
-                    <bibl style="text-align:left; ">Schmidt, Ben (2014): “Search for Structures in the Simpsons and everywhere else“, http://benschmidt.org/2014/09/11/simpsons-2 [letzter Zugriff 2. Januar 2019].</bibl>
+                    <bibl ref="#bibl__176">Qi, Hanchao / Taeb, Armeen / Hughes, Shannon (2013): “Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings”, in: Signal Processing 93: 541-53.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__177">Schmidt, Ben (2014): “Search for Structures in the Simpsons and everywhere else“, http://benschmidt.org/2014/09/11/simpsons-2 [letzter Zugriff 2. Januar 2019].</bibl>
                 </listBibl>
             </div>
         </back>

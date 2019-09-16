@@ -52,6 +52,34 @@ class TeiReader():
     def return_string(self):
         return self.return_byte_like_object().decode('utf-8')
 
+    def tei_stump(
+        title="My Doc", publication_stmt="born digital", source_desc="created with help of teipy.TeiReader"
+    ):
+        """ returns a minmal valid TEI document as string """
+        my_tei = """
+        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+              <fileDesc>
+                 <titleStmt>
+                    <title>{}</title>
+                 </titleStmt>
+                 <publicationStmt>
+                    <p>{}</p>
+                 </publicationStmt>
+                 <sourceDesc>
+                    <p>{}</p>
+                 </sourceDesc>
+              </fileDesc>
+          </teiHeader>
+          <text>
+              <body>
+                 <p/>
+              </body>
+          </text>
+        </TEI>
+        """.format(title, publication_stmt, source_desc)
+        return my_tei
+
     def tree_to_file(self, file=None):
         """saves current tree to file"""
         if file:

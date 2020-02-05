@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="LAUBROCK_Jochen_Computationale_Beschreibung_visuellen_Materi">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LAUBROCK_Jochen_Computationale_Beschreibung_visuellen_Materi">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Computationale Beschreibung visuellen Materials am Beispiel des Graphic Narrative Corpus</title>
-                <author>
+                <author ref="#person__laubrock-uni-potsdam-de">
                     <persName>
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Potsdam, Deutschland</affiliation>
                     <email>laubrock@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__ddubray-uni-potsdam-de">
                     <persName>
                         <surname>Dubray</surname>
                         <forename>David</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität Potsdam, Deutschland</affiliation>
                     <email>ddubray@uni-potsdam.de</email>
                 </author>
-                <author>
+                <author ref="#person__kruegel-uni-potsdam-de">
                     <persName>
                         <surname>Krügel</surname>
                         <forename>André</forename>
@@ -109,20 +107,12 @@
                 <head>Ergebnisse</head>
                 <p>Die Ergebnisse zeigen, dass sich mit Hilfe von Neuronen auf höheren Ebenen der tiefen CNNs recht gut bestimmte Klassen von Objekten lokalisieren lassen. Beispielsweise eignen sich einige Kombinationen von Merkmalen zuverlässig als Sprechblasendetektoren (Abb. 1). Dies ist insofern bemerkenswert, als die Detektion von Sprechblasen sich für klassische Ansätzen der maschinellen Bildbverarbeitung als schwieriges Problem dargestellt hat (Rigaud et al., 2013). </p>
                 <figure>
-                    <graphic n="1001"
-                        width="15.989561111111112cm"
-                        height="7.949847222222222cm"
-                        rend="inline"
-                        url="LAUBROCK_Jochen_Computationale_Beschreibung_visuellen_Materi-image1.png"/>
+                    <graphic n="1001" width="15.989561111111112cm" height="7.949847222222222cm" rend="inline" url="LAUBROCK_Jochen_Computationale_Beschreibung_visuellen_Materi-image1.png"/>
                     <head>Abbildung 1. Sprechblasendetektion mithilfe von Convolutional Features.</head>
                 </figure>
                 <p>Auch für die Erkennung gezeichneter Gesichter eignen sich CNNs, allerdings ist hier ein Training auf Ansichten in verschiedenen Perspektiven (Frontal, Profil) notwendig. Und schließlich lässt sich die empirische Fixationsverteilung mit Deep Gaze II insgesamt sehr überzeugend reproduzieren (Abb. 2). Die CNN-Features kodieren also aufmerksamkeitsrelevante Merkmale.</p>
                 <figure>
-                    <graphic n="1002"
-                        width="6.096cm"
-                        height="9.439994444444444cm"
-                        rend="inline"
-                        url="LAUBROCK_Jochen_Computationale_Beschreibung_visuellen_Materi-image2.png"/>
+                    <graphic n="1002" width="6.096cm" height="9.439994444444444cm" rend="inline" url="LAUBROCK_Jochen_Computationale_Beschreibung_visuellen_Materi-image2.png"/>
                     <head>Abbildung 2. Empirische Fixationsverteilung von 100 Lesern (Punkte) und DeepGaze II-Vorhersagen (Konturlinien).</head>
                 </figure>
                 <p>Insgesamt eigenen sich auf Fotos trainierte CNNs schon ohne spezifisches weiteres Training recht gut zur Beschreibung gezeichneten Materials in Graphic Novels. </p>
@@ -137,74 +127,74 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1696">
                         <hi rend="bold">Blei, D.</hi> (2012). Probabilistic Topic Models. Communication of the ACM, 55, 77-84.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__122">
                         <hi rend="bold">Dunst, A., Hartel, R. &amp; Laubrock, J.</hi> (im Druck). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 
                         <hi rend="italic">Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017).</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1697">
                         <hi rend="bold">Girshick, R., Donahue, J., Darrell, T., &amp; Malik, J.</hi> (2013). Rich feature hierarchies for accurate object detection and semantic segmentation. 
                         <hi rend="italic">arXiv</hi>:1311.2524.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1698">
                         <hi rend="bold">Gumbrecht, H. U. </hi>(2014)
                         <hi rend="bold">.</hi> Das Denken muss nun auch den Daten folgen. 
                         <hi rend="italic">Frankfurter Allgemeine Zeitung, 12.03.2014, S. 14</hi>, 
                         <ref target="http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/neue-serie-das-digitale-denken-das-denken-muss-nun-auch-den-daten-folgen-12840532.html">http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/neue-serie-das-digitale-denken-das-denken-muss-nun-auch-den-daten-folgen-12840532.html</ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1699">
                         <hi rend="bold">He, K., Zhang, X., Ren, S., &amp; Sun, J.</hi> (2015). Deep residual learning for image recognition. 
                         <hi rend="italic">CoRR</hi>, abs/1512.03385.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1700">
                         <hi rend="bold">Juola, P. </hi>(2006)
                         <hi rend="bold">.</hi> Authorship Attribution. 
                         <hi rend="italic">Foundations and Trends in Information Retrieval, 1</hi>, 233-334.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1701">
                         <hi rend="bold">Kümmerer, M., Wallis, T. S. A., &amp; Bethge, M. </hi>(2016)
                         <hi rend="bold">.</hi> Deepgaze II: Reading fixations from deep features trained on object recognition. 
                         <hi rend="italic">CoRR</hi>, abs/1610.01563.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1702">
                         <hi rend="bold">Lee, C. &amp; Osindero, S.</hi> (2016). Recursive recurrent nets with attention modeling for OCR in the wild. 
                         <hi rend="italic">CoRR, abs/1603.03101</hi> (CVPR 206).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1703">
                         <hi rend="bold">Lewandowsky, S. &amp; Farrell, S.</hi> (2011). 
                         <hi rend="italic">Computational Modeling in Cognition: Principles and Practice</hi>. Thousand Oaks: SAGE.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__18">
                         <hi rend="bold">Manovich, L.</hi> (2015). Data Science and Digital Art History. 
                         <hi rend="italic">International Journal for Digital Art History, 1</hi>, 13-35. http://dx.doi.org/10.11588/dah.2015.1.21631.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1704">
                         <hi rend="bold">Myung, I. J., &amp; Pitt, M. A.</hi> (2002). Mathematical modeling. In J. Wixted (Ed.), 
                         <hi rend="italic">Stevens’ Handbook of Experimental Psychology (Third Edition), Volume IV (Methodology)</hi> (pp. 429–459). New York: John Wiley &amp; Sons.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1705">
                         <hi rend="bold">Rigaud, C., Burie, J. C., Ogier, J. M., Karatzas, D., &amp; Weijer, J. V. D.</hi> (2013). An active contour model for speech balloon detection in comics. 
                         <hi rend="italic">Proceedings of the 12th International Conference on Document Analysis and Recognition, 1240–1244</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__140">
                         <hi rend="bold">Saleh, B. &amp; Elgammal, A. M. </hi>(2015)
                         <hi rend="bold">.</hi> Large-scale classification of fine-art paintings: Learning the right metric on the right feature. 
                         <hi rend="italic">CoRR</hi>, abs/1505.00855.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1706">
                         <hi rend="bold">Schich, M., Song, C., Ahn, Y. Y., Mirsky, A., Martino, M., Barabási, A. L., &amp; Helbing, D.</hi> (2014). A network framework of cultural history. 
                         <hi rend="italic">Science, 345(6196)</hi>, 558-562. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__141">
                         <hi rend="bold">Simonyan, K. &amp; Zisserman, A.</hi> (2014). Very deep convolutional networks for large-scale image recognition. 
                         <hi rend="italic">CoRR</hi>, abs/1409.1556.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1707">
                         <hi rend="bold">Sudholt, S. &amp; Fink, G. A</hi>. (2016). Phocnet: A deep convolutional neural network for word spotting in handwritten documents. In 15th International Conference on Frontiers in Handwriting Recognition (ICFHR), pages 277–282.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1708">
                         <hi rend="bold">Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., &amp; Rabinovich, A.</hi> (2015). Going deeper with convolutions. 2015 
                         <hi rend="italic">IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</hi>, 1-9.
                     </bibl>

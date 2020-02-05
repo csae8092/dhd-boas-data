@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="FISCHER_Frank_Netzwerkanalytischer_Blick_auf_die_Dramen_Anto">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FISCHER_Frank_Netzwerkanalytischer_Blick_auf_die_Dramen_Anto">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Netzwerkanalytischer Blick auf die Dramen Anton Tschechows</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__berenis0102-gmail-com">
                     <persName>
                         <surname>Faynberg</surname>
                         <forename>Veronika</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
                     <email>berenis0102@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__frafis-gmail-com">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
                     <email>frafis@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__svetalashch-gmail-com">
                     <persName>
                         <surname>Lashchuk</surname>
                         <forename>Svetlana</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
                     <email>svetalashch@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__taorkon-tootta-gmail-com">
                     <persName>
                         <surname>Orlova</surname>
                         <forename>Tatyana</forename>
@@ -40,7 +38,7 @@
                     <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
                     <email>taorkon.tootta@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__rebel368-gmail-com">
                     <persName>
                         <surname>Palchikov</surname>
                         <forename>German</forename>
@@ -48,7 +46,7 @@
                     <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
                     <email>rebel368@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__zhenya96-gmail-com">
                     <persName>
                         <surname>Shlosman</surname>
                         <forename>Evgenia</forename>
@@ -132,31 +130,31 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1490">
                         <anchor xml:id="id_docs-internal-guid-9515130d-9a96-6284-e0d7-bd41dcbbf445"/>
                         <hi rend="bold">Algee-Hewitt, Mark</hi> (2017): Distributed Character: Quantitative Models of the English Stage, 1500–1920. DH2017, Montréal. URL: &lt;
                         <ptr target="https://dh2017.adho.org/abstracts/103/103.pdf"/>
                         &gt;.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1491">
                         <hi rend="bold">Fischer, Frank; Göbel, Mathias; Kampkaspar, Dario; Kittel, Christopher; Meiners, Hanna-Lena; Trilcke, Peer; Vogel, Andreas</hi> (2016): Distant-Reading Showcase. 200 Years of Literary Network Data at a Glance. DHd2016, Leipzig. DOI: &lt;
                         <ptr target="https://dx.doi.org/10.6084/m9.figshare.3101203.v1"/>
                         &gt;.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1492">
                         <hi rend="bold">Fischer, Frank; Orlova, Tatyana; Skorinkin, Danil; Palchikov, German; Tyshkevich, Natasha</hi> (2017): Introducing RusDraCor – A TEI-Encoded Russian Drama Corpus for the Digital Literary Studies. CORPORA2017, St. Petersburg. Abstractband, S. 28–31.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1493">
                         <hi rend="bold">Schweizer, Thomas; Schnegg, Michael</hi> (1998): Die soziale Struktur der »Simple Storys«. Eine Netzwerkanalyse. URL: &lt;
                         <ptr target="https://www.ethnologie.uni-hamburg.de/pdfs-de/michael-schnegg/simple-stories-publikation-michael-schnegg.pdf"/>
                         &gt;.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1494">
                         <hi rend="bold">Trilcke, Peer; Fischer, Frank; Göbel, Mathias; Kampkaspar, Dario; Kittel, Christopher</hi> (2016): Dramen als ›small worlds‹? Netzwerkdaten zur Geschichte und Typologie deutschsprachiger Dramen 1730–1930. DHd2016, Leipzig. URL: &lt;
                         <ptr target="http://www.dhd2016.de/abstracts/vorträge-060.html"/>
                         &gt;.
                     </bibl>
-                    <bibl><hi rend="bold">Wade, Karen </hi>(2017): Jane Austen’s Social Networks. In: The Sea of Books, 4. Juli 2017. URL: &lt;
+                    <bibl ref="#bibl__1495"><hi rend="bold">Wade, Karen </hi>(2017): Jane Austen’s Social Networks. In: The Sea of Books, 4. Juli 2017. URL: &lt;
                         <ptr target="https://theseaofbooks.com/2017/07/04/jane-austens-social-networks/"/>
                         &gt;.
                     </bibl>

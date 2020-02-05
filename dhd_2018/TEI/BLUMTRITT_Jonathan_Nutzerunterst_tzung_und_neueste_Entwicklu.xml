@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BLUMTRITT_Jonathan_Nutzerunterst_tzung_und_neueste_Entwicklu">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BLUMTRITT_Jonathan_Nutzerunterst_tzung_und_neueste_Entwicklu">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Nutzerunterstützung und neueste Entwicklungen in Forschungsdatenreposi-
                     torien für audiovisuelle (Sprach-)Daten</title>
-                <author>
+                <author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
@@ -14,7 +12,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__f-rau-uni-koeln-de">
                     <persName>
                         <surname>Rau</surname>
                         <forename>Felix</forename>

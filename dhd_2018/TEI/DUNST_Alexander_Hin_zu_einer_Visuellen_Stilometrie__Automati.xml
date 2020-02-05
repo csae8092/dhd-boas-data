@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DUNST_Alexander_Hin_zu_einer_Visuellen_Stilometrie__Automati">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DUNST_Alexander_Hin_zu_einer_Visuellen_Stilometrie__Automati">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Hin zu einer Visuellen Stilometrie: Automatische Genre- und Autorunterscheidung in graphischen Narrativen</title>
-                <author>
+                <author ref="#person__alexander-dunst-gmail-com">
                     <persName>
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Paderborn, Deutschland</affiliation>
                     <email>alexander.dunst@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__rst-upb-de">
                     <persName>
                         <surname>Hartel</surname>
                         <forename>Rita</forename>
@@ -119,11 +117,7 @@
                         <hi rend="italic">Fun Home</hi> bedingt ist.
                     </p>
                     <figure>
-                        <graphic n="1001"
-                             width="16.37115cm"
-                             height="10.24976388888889cm"
-                             rend="inline"
-                             url="DUNST_Alexander_Hin_zu_einer_Visuellen_Stilometrie__Automati-image1.jpeg"/>
+                        <graphic n="1001" width="16.37115cm" height="10.24976388888889cm" rend="inline" url="DUNST_Alexander_Hin_zu_einer_Visuellen_Stilometrie__Automati-image1.jpeg"/>
                         <head>Illustration 1: Historische Entwicklung der durchschnittlichen Helligkeit per Genre</head>
                     </figure>
                 </div>
@@ -131,11 +125,7 @@
                     <head>3.b. Autorschaft</head>
                     <p>Ähnlich wie im Fall der Genreunterscheidungen zeigten sich signifikante visuelle Unterschiede zwischen unterschiedlichen Autoren. Illustration 2 visualisiert die stilistische Handschrift von Künstlern, die mir mehr als drei Titeln in unserem Corpus vertreten sind. Jene, die einen von Werk zu Werk vergleichsweise konstanten Stil bevorzugen, nehmen dabei eine kleinere Fläche in der Matrix ein. Darunter fallen etwa die bekannten Autoren Jason Lutes, Chester Brown und der japanische Manga-Autor Ozamu Tezuka. Hingegen nehmen Frank Miller, Dave McKean und David Mazzuchelli aufgrund ihrer visuellen Bandbreite eine größere Fläche im stilistischen Raum (Manovichs „style space“) graphischer Erzählungen ein. Die Einbeziehung von Tezuka zeigt als Testfall aber auch die momentanen Grenzen dieser Methode auf. Die verwendeten Maße erlauben keine Differenzierung zwischen dem angloamerikanischen graphischen Roman und dem japanischen Manga, zwei Erzählformen, die trotz gegenseitiger Beeinflussung deutliche stilistische Unterschiede aufweisen.</p>
                     <figure>
-                        <graphic n="1002"
-                             width="16.68865cm"
-                             height="13.680152777777778cm"
-                             rend="inline"
-                             url="DUNST_Alexander_Hin_zu_einer_Visuellen_Stilometrie__Automati-image2.jpeg"/>
+                        <graphic n="1002" width="16.68865cm" height="13.680152777777778cm" rend="inline" url="DUNST_Alexander_Hin_zu_einer_Visuellen_Stilometrie__Automati-image2.jpeg"/>
                         <head>Illustration 2: PCA stilistischer Handschrift von Comicsautoren</head>
                     </figure>
                    </div>
@@ -156,22 +146,22 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Calle-Martin, J. &amp; A. Miranda-García </hi>(2012). „Stylometry and Authorship Attribution: Introduction to the Special Issue“, 
+                    <bibl ref="#bibl__1452"><hi rend="bold">Calle-Martin, J. &amp; A. Miranda-García </hi>(2012). „Stylometry and Authorship Attribution: Introduction to the Special Issue“, 
                         <hi rend="italic">Stylometry and Authorship Attribution</hi>, special issue of 
                         <hi rend="italic">English Studies</hi> 93-3: 251-58.
                     </bibl>
-                    <bibl><hi rend="bold">Dunst, A., R. Hartel &amp; J. Laubrock </hi>(2017). „The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities” 
+                    <bibl ref="#bibl__122"><hi rend="bold">Dunst, A., R. Hartel &amp; J. Laubrock </hi>(2017). „The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities” 
                         <hi rend="italic">Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017)</hi> [im Druck].
                     </bibl>
-                    <bibl><hi rend="bold">Holmes, D </hi>(1998). „The Evolution of Stylometry in Humaninities Scholarship“ 
+                    <bibl ref="#bibl__123"><hi rend="bold">Holmes, D </hi>(1998). „The Evolution of Stylometry in Humaninities Scholarship“ 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 13-3: 111-17.
                     </bibl>
-                    <bibl><hi rend="bold">Kohle, H. </hi>(2013). 
+                    <bibl ref="#bibl__1453"><hi rend="bold">Kohle, H. </hi>(2013). 
                         <hi rend="italic">Digitale Bildwissenschaft</hi>. Glückstadt: VWH.
                     </bibl>
-                    <bibl><hi rend="bold">Manovich, L. </hi>(2011) “Style Space: How to Compare Image Sets and Follow their Evolution”, http://manovich.net/index.php/projects/style-space.</bibl>
-                    <bibl><hi rend="bold">Manovich, L., J. Douglas, T. Zepel </hi>(2011). „How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare.</bibl>
-                    <bibl><hi rend="bold">Qi, Hanchao, Armeen Taeb &amp; Shannon M. Hughes </hi>, „Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings” 
+                    <bibl ref="#bibl__1454"><hi rend="bold">Manovich, L. </hi>(2011) “Style Space: How to Compare Image Sets and Follow their Evolution”, http://manovich.net/index.php/projects/style-space.</bibl>
+                    <bibl ref="#bibl__1455"><hi rend="bold">Manovich, L., J. Douglas, T. Zepel </hi>(2011). „How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare.</bibl>
+                    <bibl ref="#bibl__124"><hi rend="bold">Qi, Hanchao, Armeen Taeb &amp; Shannon M. Hughes </hi>, „Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings” 
                         <hi rend="italic">Signal Processing</hi> 93-3 (2013): 541-53.
                     </bibl>
                 </listBibl>

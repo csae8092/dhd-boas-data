@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BLESSING_Andre_NLP_meets_RegNLP_meets_Regesta_Imperii">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BLESSING_Andre_NLP_meets_RegNLP_meets_Regesta_Imperii">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">NLP meets RegNLP meets Regesta Imperii</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__andre-blessing-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Blessing</surname>
                         <forename>Andre</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>andre.blessing@ims.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-kuczera-adwmainz-de">
                     <persName>
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
@@ -135,18 +133,18 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__480">
                         <hi rend="bold">Blessing, Andre / Schütze, Hinrich </hi>
                         (2012) Crosslingual Distant Supervision for Extracting Relations of Different Complexity.
                         In <hi rend="italic">Proceedings of the 21st ACM International Conference on Information and Knowledge Management</hi>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__481">
                         <hi rend="bold">Kuczera, Andreas</hi>
                         (2017) Herrscherhandeln in den Regesta Imperii. Beispielprojekt an den Regesten Kaiser Friedrichs III. URL:
                         <ptr target="http://www.digitale-akademie.de/forschung/graphentechnologien/beispielprojekte/"/>
                         (abgerufen am 14.09.2017)
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__482">
                         <hi rend="bold">Kuczera, Andreas </hi>
                         (2016): Graphdatenbanken für Historiker. Netzwerke in den Registern der Regesten Kaiser Friedrichs III. mit neo4j und Gephi, in: Mittelalter. Interdisziplinäre Forschung und Rezeptionsgeschichte, 05.05.2015. URL:
                         <ref target="http://mittelalter.hypotheses.org/5995">
@@ -155,7 +153,7 @@
                             <hi rend="underline">http://mittelalter.hypotheses.org/5995</hi>
                         </ref>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__483">
                         <hi rend="bold">Mahlow, Cerstin / Eckart, Kerstin / Stegmann, Jens / Blessing, Andre / Thiele, Gregor / Gärtner, Markus / Kuhn, Jonas</hi>
                         (2014) Resources, Tools, and Applications at the CLARIN Center Stuttgart in Proceedings of the 12th Konferenz zur Verarbeitung natürlicher Sprache  11-21
                     </bibl>

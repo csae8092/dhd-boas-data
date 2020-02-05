@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DU_Keli_Sentimentanalyse_in_unstrukturierten_Texten__am_Bsp_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DU_Keli_Sentimentanalyse_in_unstrukturierten_Texten__am_Bsp_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Sentimentanalyse in unstrukturierten Texten (am Bsp. literaturgeschichtlicher Rezeptionsanalyse)</title>
-                <author>
+                <author ref="#person__katja-mellmann-phil-uni-goettingen-de">
                     <persName>
                         <surname>Mellmann</surname>
                         <forename>Katja</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Göttingen, Deutschland</affiliation>
                     <email>katja.mellmann@phil.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__keli-du-stud-mail-uni-wuerzburg-de">
                     <persName>
                         <surname>Du</surname>
                         <forename>Keli</forename>
@@ -132,11 +130,7 @@
                     <hi rend="italic subscript">j</hi>“ (Liu 2015). 
                 </p>
                 <figure>
-                    <graphic n="1001"
-                         width="10.662708333333333cm"
-                         height="3.8986111111111112cm"
-                         rend="inline"
-                         url="DU_Keli_Sentimentanalyse_in_unstrukturierten_Texten__am_Bsp_-image1.jpg"/>
+                    <graphic n="1001" width="10.662708333333333cm" height="3.8986111111111112cm" rend="inline" url="DU_Keli_Sentimentanalyse_in_unstrukturierten_Texten__am_Bsp_-image1.jpg"/>
                     <head>Abb. 1: Aggregation function</head>
                 </figure>
                 <p>Ist der Sentiment-Wert größer als 0, gilt der Satz als positiv; kleiner als 0 gilt als negativ; ist der Wert gleich 0 (z.B., weil kein Sentimentwort im Satz auftaucht), gilt der Satz als neutral. Die im Satz ermittelten Sentimentwörter wurden in die Ergebnisdarstellung übernommen, um die digitale Analyse anschließend manuell überprüfen und die Sentimentwortliste optimieren zu können. Wörter, die sich als überwiegend dysfunktional erweisen, werden von der Sentimentwortliste gelöscht, fehlende Sentimentwörter werden ergänzt.</p>
@@ -232,19 +226,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1282">
                         <hi rend="bold">Kreuzer, Helmut</hi> (Hg.) (2006): Deutschsprachige Literaturkritik 1870-1914. Eine Dokumentation. Unter Mitarbeit von Doris Rosenstein. 4 Bde. Frankfurt am Main: Lang.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__57">
                         <hi rend="bold">Liu, Bing</hi> (2015). Sentiment Analysis: Mining Opinions, Sentiments, and Emotions. Cambridge University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1283">
                         <hi rend="bold">Mellmann, Katja / Willand, Marcus </hi>(2013): Historische Rezeptionsanalyse. Zur Empirisierung von Textbedeutungen. In: P. Ajouri, K. Mellmann &amp; C. Rauen (Hg.): Empirie in der Literaturwissenschaft. Münster: Mentis, S. 263–281.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__59">
                         <hi rend="bold">Remus, Robert / Quasthoff, Uwe / Heyer, Gerhard</hi> (2010): SentiWS - a Publicly Available German-Language Resource for Sentiment Analysis. In: Proceedings of the 7th International Language Ressources and Evaluation, pp. 1168-1171.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1284">
                         <hi rend="bold">van Bellen, Maurits</hi> (2010): Sentiment Analysis on historical book reviews with a Bayesian Classifier. Bachelor-Arbeit. University of Amsterdam.
                     </bibl>
                 </listBibl>

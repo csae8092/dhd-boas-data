@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="FICHTNER_Mark_Von_Drupal_8_zur_virtuellen_Forschungsumgebung">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FICHTNER_Mark_Von_Drupal_8_zur_virtuellen_Forschungsumgebung">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Von Drupal 8 zur virtuellen Forschungsumgebung - Der WissKI-Ansatz</title>
-                <author>
+                <author ref="#person__m-fichtner-wiss-ki-eu">
                     <persName>
                         <surname>Fichtner</surname>
                         <forename>Mark</forename>

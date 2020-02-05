@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="GOEDEL_Martina_Digitale_Differenz__Luhmanns_Zettelkasten_als">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GOEDEL_Martina_Digitale_Differenz__Luhmanns_Zettelkasten_als">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Digitale Differenz. Luhmanns Zettelkasten als physisch-historisches Objekt und als vernetzter Navigationsraum</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__mgoedel-uni-koeln-de">
                     <persName>
                         <surname>Goedel</surname>
                         <forename>Martina</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Cologne Center for eHumanities</affiliation>
                     <email>mgoedel@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__sebastian-zimmer-uni-koeln-de">
                     <persName>
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Cologne Center for eHumanities</affiliation>
                     <email>sebastian.zimmer@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__johannes-schmidt-uni-bielefeld-de">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Johannes</forename>
@@ -204,15 +202,15 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__421">
                         <hi rend="bold">Krajewski, Markus</hi> (2002):
                         <hi rend="italic">ZettelWirtschaft. Die Geburt der Kartei aus dem Geiste der Bibliothek</hi>
                         . Berlin: Kadmos.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__31">
                         <hi rend="bold">Schmidt, Johannes F.K.</hi> (2016): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__422">
                         <hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
                     </bibl>
                 </listBibl>

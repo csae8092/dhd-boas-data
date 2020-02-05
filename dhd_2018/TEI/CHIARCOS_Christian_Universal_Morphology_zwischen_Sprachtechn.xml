@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Universal Morphology zwischen Sprachtechnologie und Sprachwissenschaft: Sprachressourcen für Kaukasussprachen</title>
-                <author>
+                <author ref="#person__chiarcos-informatik-uni-frankfurt-de">
                     <persName>
                         <surname>Chiarcos</surname>
                         <forename>Christian</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>chiarcos@informatik.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__donandt-informatik-uni-frankfurt-de">
                     <persName>
                         <surname>Donandt</surname>
                         <forename>Kathrin</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>donandt@informatik.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__ionov-informatik-uni-frankfurt-de">
                     <persName>
                         <surname>Ionov</surname>
                         <forename>Maxim</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>ionov@informatik.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__pawlowski-lingua-uni-frankfurt-de">
                     <persName>
                         <surname>Rind-Pawlowski</surname>
                         <forename>Monika</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>pawlowski@lingua.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__sargsyan-em-uni-frankfurt-de">
                     <persName>
                         <surname>Sargsian</surname>
                         <forename>Hasmik</forename>
@@ -45,7 +43,7 @@
                     <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>Sargsyan@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__wichersschreur-em-uni-frankfurt-de">
                     <persName>
                         <surname>Wichers Schreur</surname>
                         <forename>Jesse</forename>
@@ -145,11 +143,7 @@
                         </p-->
                     <p>
                         <figure>
-                            <graphic n=""
-                                width=""
-                                height=""
-                                rend="inline"
-                                url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss1.gif"/>
+                            <graphic n="" width="" height="" rend="inline" url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss1.gif"/>
                         </figure>
                     </p>
                     <p>Der Eintrag für mingrelisch 
@@ -167,11 +161,7 @@
                         </p-->
                     <p>
                         <figure>
-                            <graphic n=""
-                                width=""
-                                height=""
-                                rend="inline"
-                                url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss2.gif"/>
+                            <graphic n="" width="" height="" rend="inline" url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss2.gif"/>
                         </figure>
                         
                     </p> 
@@ -180,11 +170,7 @@
                     <!--p rend="HTML Preformatted">xvad  kešerxvaduk  AFF;LGSPEC4;ARGDA2S;V;LGSPEC6;ARGNO1S</p-->
                     <p>
                         <figure>
-                            <graphic n=""
-                                width=""
-                                height=""
-                                rend="inline"
-                                url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss3.gif"/>
+                            <graphic n="" width="" height="" rend="inline" url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss3.gif"/>
                         </figure>
                     </p>
                     <p>Das mingrelische Verb kongruiert mit beiden syntaktischen Argumenten: dem Subjekt (1S, Nominativ) und dem Objekt (2S, Dativ), für die 
@@ -203,11 +189,7 @@
                         </p-->
                         <p>
                             <figure>
-                                <graphic n=""
-                                    width="10cm"
-                                    height=""
-                                    rend="inline"
-                                    url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss4.gif"/>
+                                <graphic n="" width="10cm" height="" rend="inline" url="CHIARCOS_Christian_Universal_Morphology_zwischen_Sprachtechn-gloss4.gif"/>
                             </figure>
                         </p>
                     <p>Dies korrigiert auch die Asymmetrie zwischen zusammengesetzten und individuellen Merkmalen. Auch die Zuschreibung mehrerer Merkmale einer Kategorie kann nominal und verbal einheitlich gehandhabt werden, und die Vergleichbarkeit über Sprachen hinweg wird vereinfacht. </p>
@@ -237,15 +219,15 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__403">
                         <hi rend="bold">Chiarcos, Christian / Ionov, Maxim / Rind-Pawlowski, Monika / Fäth, Christian / Wichers Schreur, Jesse / Nevskaya, Irina</hi> (2017): “LLODifying linguistic glosses” in: 
                         <hi rend="italic">Proceedings of the First International Conference on Language, Data and Knowledge (LDK 2017), Galway, Ireland, June 2017</hi>. Springer (Lecture Notes in Artificial Intelligence (LNAI)), 89-103 https://doi.org/10.1007/978-3-319-59888-8_7 [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__404">
                         <hi rend="bold">Cotterell, Ryan / Kirov, Christo / Sylak-Glassman, John / Yarowsky, David / Eisner, Jason / Hulden, Mans</hi> (2016). “The SIGMORPHON 2016 Shared Task Morphological Reinflection” in: 
                         <hi rend="italic">Proceedings of the 14th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology, Berlin, Germany, August, 2016</hi>. Association for Computational Linguistics, 10-22 http://anthology.aclweb.org/W16-2002.pdf [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__405">
                         <hi rend="bold">Sylak-Glassman / John</hi> (2016). “The composition and use of the universal morphological feature schema (UniMorph schema)”. Technical report, Department of Computer Science, Johns Hopkins University, working draft, v.2, https://unimorph.github.io/doc/unimorph-schema.pdf [letzter Zugriff 14. Januar 2018]
                     </bibl>
                 </listBibl>

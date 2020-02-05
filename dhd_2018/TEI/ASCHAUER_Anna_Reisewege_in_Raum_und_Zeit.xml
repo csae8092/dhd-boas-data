@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ASCHAUER_Anna_Reisewege_in_Raum_und_Zeit">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ASCHAUER_Anna_Reisewege_in_Raum_und_Zeit">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Reisewege in Raum und Zeit</title>
-                <author>
+                <author ref="#person__aschauer-ieg-mainz-de">
                     <persName>
                         <surname>Aschauer</surname>
                         <forename>Anna</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Institut für Europäische Geschichte, Deutschland</affiliation>
                     <email>aschauer@ieg-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__buechler-ieg-mainz-de">
                     <persName>
                         <surname>Büchler</surname>
                         <forename>Marco</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Institut für Europäische Geschichte, Deutschland</affiliation>
                     <email>buechler@ieg-mainz.de</email>
                 </author>
-                <author>
+                <author ref="#person__tobias-gradl-uni-bamberg-de">
                     <persName>
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Otto-Friedrich-Universität Bamberg</affiliation>
                     <email>tobias.gradl@uni-bamberg.de</email>
                 </author>
-                <author>
+                <author ref="#person__andreas-henrich-uni-bamberg-de">
                     <persName>
                         <surname>Henrich</surname>
                         <forename>Andreas</forename>
@@ -107,11 +105,7 @@
                     <ref target="https://cosmotool.de.dariah.eu">https://cosmotool.de.dariah.eu</ref> zur Verfügung. Neben der Darstellung derzeit implementierter Funktionalität zielt der Workshop wesentlich auf die Gewinnung von Anforderungen und Interessen aus der Fachcommunity zur Weiterentwicklung des CosmoTools.
                 </p>
                 <figure>
-                    <graphic n="1001"
-                        width="15.927916666666667cm"
-                        height="10.768541666666666cm"
-                        rend="inline"
-                        url="ASCHAUER_Anna_Reisewege_in_Raum_und_Zeit-image1.png"/>
+                    <graphic n="1001" width="15.927916666666667cm" height="10.768541666666666cm" rend="inline" url="ASCHAUER_Anna_Reisewege_in_Raum_und_Zeit-image1.png"/>
                 </figure>
                 <p>Motiviert wurde das CosmoTool aus dem Bedürfnis, biographische Datenquellen unterschiedlicher Art und Strukturiertheit zu verarbeiten, analysieren und in so genannte biographische Profile zusammenzuführen. Durch die Integration verschiedener Perspektiven auf historische Personen soll neben der Transnationalität und -kontextualität einzelner Biographien insbesondere auch die aggregierte Betrachtung von Personengruppen ermöglicht werden und Unterschiede beispielsweise in der Mobilität unterschiedlicher Berufsgruppen evaluiert werden können (Panter, Paulmann 2015). Durch den Vergleich biographischer Profile untereinander oder mit benutzerdefinierten Gruppen sollen inhaltliche Vergleiche, Zusammenhänge oder Abweichungen offenbart werden, die hypothesengenerierend auf die qualitative Forschung einwirken können.</p>
                 <p>Aus der infrastrukturellen Perspektive von DARIAH-DE bildet das CosmoTool eine Brücke zwischen der konkreten fachwissenschaftlichen Forschung und den generischen Diensten von DARIAH-DE (Gradl, Henrich 2016a). So bedient sich das CosmoTool zur Umsetzung inhaltlicher Funktionalität insbesondere bei dem DARIAH-DE Data Modeling Environment (DME), welches die Modellierung und Explizierung von Daten z. B. auch durch die Anwendung von Methoden des Natural Language Processings (NLP) kapselt. Einmal modellierte Daten stehen einer Vielzahl möglicher Anwendungsfälle zur Verfügung - von denen einer im CosmoTool besteht.</p>
@@ -120,11 +114,7 @@
                 <head>Konzeptualisierung</head>
                 <p>Das CosmoTool ermöglicht eine Selektion und Filterung großer Datenmengen. Eine grundlegende Hypothese ist, dass ein Mehrwert durch die automatisierte Erstellung biographischer Profile entsteht. Die Gruppenprofile können anhand der von FachwissenschaftlerInnen erstellten Wortfelder aggregiert werden. So können Aggregationskriterien wie beispielsweise Berufsfelder oder Konfessions-/Religionsgruppen beschrieben werden.
                 <figure>   
-                    <graphic n="1002"
-                        width="14.419791666666667cm"
-                        height="12.950472222222222cm"
-                        rend="block"
-                        url="ASCHAUER_Anna_Reisewege_in_Raum_und_Zeit-image2.png"/>
+                    <graphic n="1002" width="14.419791666666667cm" height="12.950472222222222cm" rend="block" url="ASCHAUER_Anna_Reisewege_in_Raum_und_Zeit-image2.png"/>
                     <head>Abbildung 1: Auszug aus der Tabelle, die Konfessions-, bzw. religionsspezifische Wörter zur Identifikation eines (vormodernen) Katholiken, Protestanten, Juden oder eines Muslims in modernen (deutschsprachigen) biographischen Lexika, ermöglicht.</head>
                 </figure>     
                 </p>
@@ -195,12 +185,12 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Berendt, B., Büchler, M., Rockwell, G.</hi> (2015) ‘Is it research or is it spying? – Rethinking ethics in Big Data AI and other fields of knowledge science‘, German Journal on Artificial Intelligence. Springer.</bibl>
-                    <bibl><hi rend="bold">Gradl, T.; Henrich, A.</hi>(2016a): Die DARIAH-DE-Föderationsarchitektur: Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen, Bibliothek Forschung und Praxis. Band 40, Heft 2, Seiten 222-228, ISSN (Online) 1865-7648, ISSN (Print) 0341-4183, DOI:
+                    <bibl ref="#bibl__794"><hi rend="bold">Berendt, B., Büchler, M., Rockwell, G.</hi> (2015) ‘Is it research or is it spying? – Rethinking ethics in Big Data AI and other fields of knowledge science‘, German Journal on Artificial Intelligence. Springer.</bibl>
+                    <bibl ref="#bibl__23"><hi rend="bold">Gradl, T.; Henrich, A.</hi>(2016a): Die DARIAH-DE-Föderationsarchitektur: Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen, Bibliothek Forschung und Praxis. Band 40, Heft 2, Seiten 222-228, ISSN (Online) 1865-7648, ISSN (Print) 0341-4183, DOI:
                         <ref target="https://doi.org/10.1515/bfp-2016-0027">https://doi.org/10.1515/bfp-2016-0027</ref>
                     </bibl>
-                    <bibl><hi rend="bold">Gradl, T.; Henrich, Andreas </hi>(2016b): „Data Integration for the Arts and Humanities: A Language Theoretical Concept“. In: Fuhr, Norbert et al. (Hg.): Research and Advanced Technology for Digital Libraries: 20th International Conference on Theory and Practice of Digital Libraries, TPDL 2016, Hannover, Germany, September 5‐9, 2016, Proceedings. Cham: Springer International Publishing, S. 281–293</bibl>
-                    <bibl><hi rend="bold">Panter, S.; Paulmann, Johannes und Margit Szöllösi-Janze</hi> (2015): “Mobility and Biography. Methodological Challenges and Perspectives”, in: Mobility and Biography, hrsg. von Sarah Panter (=Jahrbuch für Europäische Geschichte / European History Yearbook 16 ), Berlin: De Gruyter Oldenbourg, S. 1-14</bibl>
+                    <bibl ref="#bibl__60"><hi rend="bold">Gradl, T.; Henrich, Andreas </hi>(2016b): „Data Integration for the Arts and Humanities: A Language Theoretical Concept“. In: Fuhr, Norbert et al. (Hg.): Research and Advanced Technology for Digital Libraries: 20th International Conference on Theory and Practice of Digital Libraries, TPDL 2016, Hannover, Germany, September 5‐9, 2016, Proceedings. Cham: Springer International Publishing, S. 281–293</bibl>
+                    <bibl ref="#bibl__795"><hi rend="bold">Panter, S.; Paulmann, Johannes und Margit Szöllösi-Janze</hi> (2015): “Mobility and Biography. Methodological Challenges and Perspectives”, in: Mobility and Biography, hrsg. von Sarah Panter (=Jahrbuch für Europäische Geschichte / European History Yearbook 16 ), Berlin: De Gruyter Oldenbourg, S. 1-14</bibl>
                 </listBibl>
             </div>
       </back>

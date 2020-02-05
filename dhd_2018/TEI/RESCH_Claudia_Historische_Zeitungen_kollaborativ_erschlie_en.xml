@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="RESCH_Claudia_Historische_Zeitungen_kollaborativ_erschlie_en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RESCH_Claudia_Historische_Zeitungen_kollaborativ_erschlie_en">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Historische Zeitungen kollaborativ erschließen: Die älteste, noch erscheinende Tageszeitung der Welt “under annotation”</title>
-                <author>
+                <author ref="#person__claudia-resch-oeaw-ac-at">
                     <persName>
                         <surname>Resch</surname>
                         <forename>Claudia</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>claudia.resch@oeaw.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__dario-kampkaspar-oeaw-ac-at">
                     <persName>
                         <surname>Kampkaspar</surname>
                         <forename>Dario</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>dario.kampkaspar@oeaw.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__daniel-schopper-oeaw-ac-at">
                     <persName>
                         <surname>Schopper</surname>
                         <forename>Daniel</forename>
@@ -114,11 +112,7 @@
                 <ref target="ftn11" n="11"/>, genauer mittels der Handwritten Text Recognition (HTR). Anhand einer kleinen Zahl an Ausgaben, die im Rahmen von projektbezogenen Vorstudien (vgl. Resch et al. 2016) bearbeitet wurden, konnte ein erstes Modell für das Diarium erstellt werden. Je nach Beschaffenheit der Digitalisate liegt die Genauigkeit hiermit zwischen 70% und 95%. Um die Qualität zu steigern, werden mehrere Tranchen von 40 bis 50 Ausgaben von zwei unterschiedlichen externen Dienstleistern nach den für dieses Projekt erstellten Transkriptionsrichtlinien erfasst, sodass das Modell weiter trainiert und die Erfassungsgenauigkeit erhöht werden kann. 
             </p>
             <figure>
-                <graphic n="1001"
-                     width="15.954375cm"
-                     height="9.68375cm"
-                     rend="inline"
-                     url="RESCH_Claudia_Historische_Zeitungen_kollaborativ_erschlie_en-image1.jpeg"/>
+                <graphic n="1001" width="15.954375cm" height="9.68375cm" rend="inline" url="RESCH_Claudia_Historische_Zeitungen_kollaborativ_erschlie_en-image1.jpeg"/>
             </figure>
             <p>Ein „Reporting-Tool“
                 <ref target="ftn12" n="12"/>, das direkt auf die Transkribus-Plattform zugreift, dokumentiert den Bearbeitungsstatus der ausgewählten Einzelnummern, gibt Auskunft über deren Umfang (Zählung von Regionen, Zeilen und Wörtern) und informiert die Fachgemeinschaft tagesaktuell über den Fortschritt des Projekts. 
@@ -177,45 +171,45 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">ANNO – AustriaN Newspapers Online. </hi> 
+                    <bibl ref="#bibl__73"><hi rend="bold">ANNO – AustriaN Newspapers Online. </hi> 
                         <ref target="http://anno.onb.ac.at/">
                             <hi rend="underline color(1155CC)">http://anno.onb.ac.at/</hi>
                         </ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl><hi rend="bold">Harald Burger / Luginbühl, Martin </hi>(2015): Mediensprache , Berlin / Boston, 2015, 39-45.</bibl>
-                    <bibl><hi rend="bold">Reisner, Andrea / Schiemer, Alfred </hi>(2016): „Das Wien(n)erische Diarium und die Entstehung der periodischen Presse“ in: 
+                    <bibl ref="#bibl__801"><hi rend="bold">Harald Burger / Luginbühl, Martin </hi>(2015): Mediensprache , Berlin / Boston, 2015, 39-45.</bibl>
+                    <bibl ref="#bibl__802"><hi rend="bold">Reisner, Andrea / Schiemer, Alfred </hi>(2016): „Das Wien(n)erische Diarium und die Entstehung der periodischen Presse“ in: 
                         <hi rend="italic">Österreichische Mediengeschichte 1</hi>: 87-112.
                     </bibl>
-                    <bibl><hi rend="bold">Digitalisierung der vollständigen deutschsprachigen Zeitungsbestände des 17. Jahrhunderts der Staats- und Universitätsbilbiothek Bremen</hi>: 
+                    <bibl ref="#bibl__803"><hi rend="bold">Digitalisierung der vollständigen deutschsprachigen Zeitungsbestände des 17. Jahrhunderts der Staats- und Universitätsbilbiothek Bremen</hi>: 
                         <ref target="https://www.suub.uni-bremen.de/ueber-uns/projekte/alte-zeitungen/">https://www.suub.uni-bremen.de/ueber-uns/projekte/alte-zeitungen/</ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl><hi rend="bold">Europeana Newspapers</hi>: 
+                    <bibl ref="#bibl__74"><hi rend="bold">Europeana Newspapers</hi>: 
                         <ref target="http://www.europeana-newspapers.eu/">
                             <hi rend="underline color(1155CC)">http://www.europeana-newspapers.eu/</hi>
                         </ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl><hi rend="bold">Mannheimer Korpus für Historische Zeitungen und Zeitschriften in COSMAS II</hi>: 
+                    <bibl ref="#bibl__804"><hi rend="bold">Mannheimer Korpus für Historische Zeitungen und Zeitschriften in COSMAS II</hi>: 
                         <ref target="http://repos.ids-mannheim.de/mkhz-beschreibung.html">
                             <hi rend="underline color(1155CC)">http://repos.ids-mannheim.de/mkhz-beschreibung.html</hi>
                         </ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl><hi rend="bold">Newspapers Sammlung der Universitäts- und Landesbibliothek Bonn</hi>: 
+                    <bibl ref="#bibl__805"><hi rend="bold">Newspapers Sammlung der Universitäts- und Landesbibliothek Bonn</hi>: 
                         <ref target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/date/list/229854">
                             <hi rend="underline color(1155CC)">http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/date/list/229854</hi>
                         </ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl><hi rend="bold">Projekt „Volltextdigitalisierung der Staats- und Gelehrte[n] Zeitung des Hamburgischen Unpartheyischen Correspondenten und ihrer Vorläufer (1712-1848)</hi>: 
+                    <bibl ref="#bibl__806"><hi rend="bold">Projekt „Volltextdigitalisierung der Staats- und Gelehrte[n] Zeitung des Hamburgischen Unpartheyischen Correspondenten und ihrer Vorläufer (1712-1848)</hi>: 
                         <ref target="https://kw.uni-paderborn.de/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/schuster/forschung/projekte/der-hamburgische-unpartheyische-correspondent-volltextdigitalisierung/">
                             <hi rend="underline color(1155CC)">https://kw.uni-paderborn.de/institut-fuer-germanistik-und-vergleichende-literaturwissenschaft/germanistische-und-allgemeine-sprachwissenschaft/schuster/forschung/projekte/der-hamburgische-unpartheyische-correspondent-volltextdigitalisierung/</hi>
                         </ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl><hi rend="bold">Resch, Claudia / Schopper, Daniel / Hannesschläger, Vanessa / Wohlfarter, Eva / Mader, Anna / Fischer, Nora </hi>(2016): Wienerisches Diarium Digital: Unlocking a historic newspaper for interdisciplinary studies with the TEI Guidelines. 
+                    <bibl ref="#bibl__807"><hi rend="bold">Resch, Claudia / Schopper, Daniel / Hannesschläger, Vanessa / Wohlfarter, Eva / Mader, Anna / Fischer, Nora </hi>(2016): Wienerisches Diarium Digital: Unlocking a historic newspaper for interdisciplinary studies with the TEI Guidelines. 
                         <ref target="https://goo.gl/a9SmLk">
                             <hi rend="underline color(1155CC)">https://goo.gl/a9SmLk</hi>
                         </ref>
                     </bibl>
-                    <bibl><hi rend="bold">Schuster, Britt-Marie / Wille, Manuel </hi>(2016): Von der Kanzlei- zur Bügersprache? Textsortengeschichtliche Betrachtungen zur „Staats- und gelehrten Zeitung des Hamburgischen unpartheyischen Correspondenten“ im 18. Jahrhundert in: Jahrbuch für Kommunikationsgeschichte 17 Stuttgart: Franz Steiner Verlag 7-29.</bibl>
-                    <bibl><hi rend="bold">ZEFYS Das Zeitungsinformationssystem der Staatsbibliothek zu Berlin</hi>: 
+                    <bibl ref="#bibl__808"><hi rend="bold">Schuster, Britt-Marie / Wille, Manuel </hi>(2016): Von der Kanzlei- zur Bügersprache? Textsortengeschichtliche Betrachtungen zur „Staats- und gelehrten Zeitung des Hamburgischen unpartheyischen Correspondenten“ im 18. Jahrhundert in: Jahrbuch für Kommunikationsgeschichte 17 Stuttgart: Franz Steiner Verlag 7-29.</bibl>
+                    <bibl ref="#bibl__809"><hi rend="bold">ZEFYS Das Zeitungsinformationssystem der Staatsbibliothek zu Berlin</hi>: 
                         <ref target="http://zefys.staatsbibliothek-berlin.de/">http://zefys.staatsbibliothek-berlin.de/</ref> [letzter Zugriff 14. Januar 2018]
                     </bibl>
                 </listBibl>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BIGALKE_Ben_Personen__und_Figurennetzwerke_in_Fernando_Pesso">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BIGALKE_Ben_Personen__und_Figurennetzwerke_in_Fernando_Pesso">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Personen- und Figurennetzwerke in Fernando Pessoas Publikationsplänen</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__bbigalke-smail-uni-koeln-de">
                     <persName>
                         <surname>Bigalke</surname>
                         <forename>Ben</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>bbigalke@smail.uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__sdrach-smail-uni-koeln-de">
                     <persName>
                         <surname>Drach</surname>
                         <forename>Sviatoslav</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>sdrach@smail.uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__ulrike-henny-uni-wuerzburg-de">
                     <persName>
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__pmpsepulveda-gmail-com">
                     <persName>
                         <surname>Sepúlveda</surname>
                         <forename>Pedro</forename>
@@ -40,7 +38,7 @@
                     <affiliation>Neue Universität Lissabon, Portugal</affiliation>
                     <email>pmpsepulveda@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__ctheise2-uni-koeln-de">
                     <persName>
                         <surname>Theisen</surname>
                         <forename>Christian</forename>
@@ -241,52 +239,52 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__620">
                         <hi rend="bold">Bostock, Mike </hi>(2017): “Force Layout with Mouseover Labels”, in: Mike Bostock’s Blocks.
                         <ptr target="https://bl.ocks.org/mbostock/1212215"/>
                         [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__621">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f495-f2dd-8fbd-6361c3c4b428"/><hi rend="bold">Cunha, Teresa Sobral </hi>(1987): "Planos e projectos editoriais de Fernando Pessoa: uma velha questão", in: Revista da Biblioteca Nacional, Série 2, Vol. 2, N. 1: 92-107.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__622">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f496-5d62-a142-4df45b301cc3"/><hi rend="bold">Feijó, António M. </hi>(2015): “Uma admiração pastoril pelo diabo (Pessoa e Pascoaes)”, in: Pessoana. Ensaios. Lissabon: Imprensa Nacional-Casa da Moeda.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__623">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f496-b04e-d671-3deb17610af8"/><hi rend="bold">Gusmão, Manuel </hi>(2003): "O Fausto — um teatro em ruínas", in: Românica 12: 67-86.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__624">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f496-e852-41b2-910d4e2392ef"/>
                         Henny-Krahmer, Ulrike / Sepúlveda, Pedro (2017): “Pessoa’s editorial projects and publications: the digital edition as a multiple form of textual criticism”, in: Boot, Peter / Cappellotto, Anna / Dillen, Wout / Fischer, Franz / Kelly, Aodhán / Mertgens, Andreas / Sichani, Anna-Maria / Spadini, Elena / van Hulle, Dirk (eds.): Advances in Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp. Leiden: Sidestone Press, 125-133 
                         <ptr target="https://www.sidestone.com/books/advances-in-digital-scholarly-editing"/>
                         [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__625">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f497-9e7a-d412-29ac701e570a"/><hi rend="bold">Martins, Fernando Cabral </hi>(2003): "Breves notas sobre a alta definição", in: Românica. N.º 12. 157-164.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__626">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f497-f910-c405-7ee48272c1bd"/><hi rend="bold">Pessoa, Fernando </hi>(2012): Teoria da Heteronímia. Hsg. von Fernando Cabral Martins und Richard Zenith. Lissabon: Assírio &amp; Alvim.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__627">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f498-63f8-d472-904bd497e085"/>
                         <hi rend="bold">Rigal, Alexandre / Rodighiero, Dario / Cellard, Loup </hi>(2016): “The Trajectories Tool: Amplifying Network Visualization Complexity”, in: Digital Humanities 2016. Conference Abstracts. 
                         Kraków: Jagiellonian University &amp; Pedagogical University, 328-330 
                         <ptr target="http://dh2016.adho.org/abstracts/340"/>
                         [letzter Zugriff 14. Januar].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__628">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f498-9662-ca6f-887bbc05c49a"/><hi rend="bold">Sepúlveda, Pedro </hi>(2013): Os livros de Fernando Pessoa. Lissabon: Ática.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__64">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f498-cf85-12bc-3338062abe34"/>
                         <hi rend="bold">Sepúlveda, Pedro / Henny-Krahmer, Ulrike </hi>(eds., 2017): Fernando Pessoa – Digitale Edition. Projekte und Publikationen. Editorische Leitung Pedro Sepúlveda, technische Leitung Ulrike Henny-Krahmer. Lissabon und Köln: IELT, Neue Universität Lissabon und CCeH, Universität zu Köln
                         <ref target="http://www.pessoadigital.pt/">http://www.pessoadigital.pt</ref>
                         [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__629">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f498-f863-3258-8cbb7f41f627"/><hi rend="bold">Sepúlveda, Pedro / Uribe, Jorge </hi>(2016): O Planeamento editorial de Fernando Pessoa. Lissabon: Imprensa Nacional-Casa da Moeda.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__630">
                         <anchor xml:id="id_docs-internal-guid-8e490a27-f499-42c9-4c99-7dc8a9e15aca"/>
                         <hi rend="bold">Xanthos, Aris / Pante, Isaak / Rochat, Yannick / Grandjean, Martin </hi>(2016): “Visualizing the Dynamics of Character Networks”, in: Digital Humanities 2016. Conference Abstracts. Kraków: Jagiellonian University &amp; Pedagogical University, 417-419 
                         <ptr target="http://dh2016.adho.org/abstracts/407"/>

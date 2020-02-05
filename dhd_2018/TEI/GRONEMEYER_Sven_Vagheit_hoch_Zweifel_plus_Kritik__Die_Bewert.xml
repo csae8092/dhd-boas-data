@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="GRONEMEYER_Sven_Vagheit_hoch_Zweifel_plus_Kritik__Die_Bewert">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GRONEMEYER_Sven_Vagheit_hoch_Zweifel_plus_Kritik__Die_Bewert">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Vagheit hoch Zweifel plus Kritik! Die Bewertung von Widersprüchen in einer digitalen Entzifferungsarbeit der Maya-Hieroglyphen</title>
-                <author>
+                <author ref="#person__sgronemeyer-uni-bonn-de">
                     <persName>
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University Melbourne, Australien</affiliation>
                     <email>sgronemeyer@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__diehr-sub-uni-goettingen-de">
                     <persName>
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>diehr@sub.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__cprager-uni-bonn-de">
                     <persName>
                         <surname>Prager</surname>
                         <forename>Christian</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__katja-diederichs-uni-bonn-de">
                     <persName>
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>katja.diederichs@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__ewagner-uni-bonn-de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
@@ -45,7 +43,7 @@
                     <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>ewagner@uni-bonn.de</email>
                 </author>
-                <author>
+                <author ref="#person__brodhun-sub-uni-goettingen-de">
                     <persName>
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
@@ -53,7 +51,7 @@
                     <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>brodhun@sub.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__ngrube-uni-bonn-de">
                     <persName>
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>
@@ -160,11 +158,7 @@
                 <p>Bei einer noch nicht vollständig entschlüsselten Schrift machen Epigraphiker zwangsläufig verschiedene Annahmen zur phonemischen Lesung von Zeichen. Es ist notwendig, alle plausiblen und nicht eindeutig widerlegten Entzifferungsvorschläge zu dokumentieren, vor allem aber, deren Qualität nach formalen Kriterien bewertbar zu machen. Dazu haben wir ein neutrales, transparentes System modelliert, das anhand formaler Kriterien eine qualitative Einstufung von Lesungshypothesen ermöglicht und deren Plausibilität im Textkorpus überprüfbar macht.</p>
                 <p>Die Zeichen werden Zeichenklassen (syllabisch, morphographisch, diakritisch und/oder numerisch) zugewiesen, die jeweils einen breiten Transliterationswert ohne allophonische Varianz haben, z.B. “ku” für das Silbenzeichen 528. Aufgrund der Polyvalenz hat das Zeichen noch zwei logographische Lesungen mit distinktem Transliterationswert, statt des normalen “TUN” wird “CHAHUK” gelesen, wenn es als Tagesname verwendet wird. Für die Konfidenz eines Transliterationswertes werden jene Kriterien ausgewählt, auf die er sich stützt (siehe Abb. 1). Für jede Art der Zeichenfunktion wurde ein eigenes Kriterien-Set basierend auf Kelley (1962) und Houston (2001) entwickelt, das sich vor allem am graphematischen und sprachlichen Nutzungskontext orientiert, z.B. hat die Übereinstimmung mit einer bestimmten Wortart durch das Syntagma für ein Silbenzeichen keine Bedeutung, jedoch für Logogramme - hier besonders auch der Nachweis in modernen Maya-Sprachen.</p>
                 <figure>
-                    <graphic n="1001"
-                        width="15.927916666666667cm"
-                        height="12.408958333333333cm"
-                        rend="inline"
-                        url="GRONEMEYER_Sven_Vagheit_hoch_Zweifel_plus_Kritik__Die_Bewert-image1.png"/>
+                    <graphic n="1001" width="15.927916666666667cm" height="12.408958333333333cm" rend="inline" url="GRONEMEYER_Sven_Vagheit_hoch_Zweifel_plus_Kritik__Die_Bewert-image1.png"/>
                     <head>Abb. 1: Polyvalentes Zeichen mit drei Lesungen und jeweils unterschiedlichen Konfidenzen.</head>
                 </figure>
                 <p>Die Kriterien sind mittels Aussagenlogik so miteinander in Bezug gesetzt, dass je nach Kombination eine qualitative Einstufung vorgenommen wird. Dabei steht “1” für die höchstmögliche Konfidenz und eine evidente Lesung. Die Anzahl der Konfidenzstufen je Zeichenfunktion ist unterschiedlich: während Logogramme eine granulare Einteilung benötigen, brauchen Silbenzeichen weniger Stufen, da deren Permutationen im Kontext eines Wortes recht eindeutig sind.</p>
@@ -187,23 +181,23 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1353">
                         <hi rend="bold">Houston, Stephen</hi> (2001): 
                         <hi rend="italic">The Decipherment of Ancient Maya Writing</hi>. Norman: University of Oklahoma Press: 3–19.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1354">
                         <hi rend="bold">Kelley, David H. </hi>(1962): Review of “A Catalog of Maya Hieroglyphs, by J. Eric S. Thompson. Pp. xiv + 458, Including pls 16. University of Oklahoma Press, Norman, in Cooperation with the Carnegie Institution of Washington, 1962.” 
                         <hi rend="italic">American Journal of Archaeology</hi> 66(4): 436–438.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1355">
                         <hi rend="bold">Stuart, David </hi>(1987): 
                         <hi rend="italic">Ten Phonetic Syllables</hi>. Research Reports on Ancient Maya Writing 14. Center for Maya Research, Washington, D.C.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1356">
                         <hi rend="bold">Thompson, J. Eric S.</hi> (1962): 
                         <hi rend="italic">A Catalog of Maya Hieroglyphs</hi>. Norman: University of Oklahoma Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__117">
                         <hi rend="bold">Wichmann, Søren </hi>(2006): Mayan Historical Linguistics and Epigraphy: A New Synthesis. 
                         <hi rend="italic">Annual Review of Anthropology</hi> 35, 279–294.
                     </bibl>

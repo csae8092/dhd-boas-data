@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="SCHLUPKOTHEN_Frederik_Zwischen_Polysemie_und_Formalisierung_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCHLUPKOTHEN_Frederik_Zwischen_Polysemie_und_Formalisierung_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web</title>
-                <author>
+                <author ref="#person__nantke-uni-wuppertal-de">
                     <persName>
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>nantke@uni-wuppertal.de</email>
                 </author>
-                <author>
+                <author ref="#person__schlupko-uni-wuppertal-de">
                     <persName>
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
@@ -114,11 +112,7 @@
                 <head>Methodik</head>
                 <p>Für das angestrebte Forschungsziel stellt die mehrstufige Modellierung einen expliziten heuristischen Gewinn gegenüber bisherigen Ansätzen der Systematisierung dar, indem die umfassende induktive Erfassung und Beschreibung sowie die anschließend abgeleiteten strukturellen Konstanten nicht unverbunden nebeneinander stehen, sondern Mikro- und Makrostrukturen durch das Modell in ihrem Zusammenhang beobachtbar gemacht werden (s. Abbildung 1).</p>
                 <figure>
-                    <graphic n="1001"
-                        width="13.591333333333333cm"
-                        height="8.515686111111112cm"
-                        rend="inline"
-                        url="SCHLUPKOTHEN_Frederik_Zwischen_Polysemie_und_Formalisierung_-image1.png"/>
+                    <graphic n="1001" width="13.591333333333333cm" height="8.515686111111112cm" rend="inline" url="SCHLUPKOTHEN_Frederik_Zwischen_Polysemie_und_Formalisierung_-image1.png"/>
                     <head>Abbildung 1: Konzeptuelle Darstellung des Modells</head>
                 </figure>
                 <p>Indem zunächst Einzeltextphänomene modelliert, darauf aufbauend deren Funktionen im Sinne ihres Beitrags zur „Bedeutungskonstitution“ (Hempfer 1991, S. 19) erfasst und daraus übergreifende Kategorien abgeleitet werden, können zwei bislang getrennt voneinander verhandelte Bereiche der Untersuchung von Intertextualität in einer ganzheitlichen Modellierung verbunden werden: die ‚Entwirrung‘ des intertextuellen Gefüges eines einzelnen Textes (vgl. hierfür exemplarisch Bauer Lucca 2001; Dudzik 2017) sowie die übergeordnete Suche nach gemeinsamen Strukturen und Funktionsweisen intertextueller Verweise. Das vorgestellte Modell verknüpft also die in der Literaturwissenschaft seit den 1980er Jahren unternommenen Bestrebungen zur Typologisierung intertextueller Strukturen und Funktionsweisen mit einer umfassenden Detailuntersuchung literarischer Texte. Die Differenzierung in Phänomenbeschreibung und ‑bewertung, welche der eingesetzte Formalismus unterstützt (s. u.), sieht explizit die Modellierung funktionaler Überlagerungen und alternativer Forschungsmeinungen vor, sodass im Rahmen der Formalisierung sowohl der Multifunktionalität intertextueller Schreibweisen (vgl. Kocher 2010, S. 179) als auch der maßgeblich auf produktivem Dissens basierenden Dynamik des literaturwissenschaftlichen Diskurses Rechnung getragen wird.</p>
@@ -149,84 +143,84 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1384">
                         <hi rend="bold">Banski, Pjotr</hi> (2010): “Why TEI stand-off annotation doesn't quite work: and why you might want to use it nevertheless”, in: 
                         <hi rend="italic">Proceedings of Balisage: The Markup Conference</hi> 2010.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1385">
                         <hi rend="bold">Barwise, Jon / Perry, John</hi> (1983): 
                         <hi rend="italic">Situations and Attitudes</hi>. Cambridge: Bradford Book, MIT Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1386">
                         <hi rend="bold">Bauer Lucca, Eva</hi> (2001): 
                         <hi rend="italic">Versteckte Spuren: eine intertextuelle Annäherung an Thomas Manns Roman “Doktor Faustus”</hi>. Wiesbaden: Deutscher Universitätsverlag.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1387">
                         <hi rend="bold">Broich, Ulrich / Pfister, Manfred</hi> (eds.) (1985): 
                         <hi rend="italic">Intertextualität. Formen, Funktionen, anglistische Fallstudien</hi>. Tübingen: Niemeyer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1388">
                         <hi rend="bold">Devlin, Keith J.</hi> (1990): Logic and Information. Cambridge: Cambridge University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1389">
                         <hi rend="bold">Dudzik, Yvonne</hi> (2017): 
                         <hi rend="italic">Geschichten bereichern die Geschichte: Intertextualität als Untersuchungskategorie in Uwe Johnsons “Jahrestage”</hi>. Göttingen: V&amp;R unipress.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1390">
                         <hi rend="bold">Eide, Øvind</hi> (2014): “Ontologies, Data, and TEI”, in: 
                         <hi rend="italic">Journal of the Text Encoding Initiative</hi> 8: 1–22.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1391">
                         <hi rend="bold">Genette, Gérard</hi> (1993): 
                         <hi rend="italic">Palimpseste. Die Literatur auf zweiter Stufe</hi>. Frankfurt a. M.: Suhrkamp.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1392">
                         <hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
                         <hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities</hi>. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1) 10.17175/sb001_006.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1393">
                         <hi rend="bold">Hempfer, Klaus W.</hi> (1991): „Intertextualität. Systemreferenz und Strukturwandel: Die Pluralisierung des erotischen Diskurses in der italienischen und französischen Renaissance-Lyrik (Ariost, Bembo, Du Bellay, Ronsard)“, in: Titzmann, Michael (ed.): 
                         <hi rend="italic">Modelle des literarischen Strukturwandels</hi>. Tübingen: Niemeyer, 7–43.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1394">
                         <hi rend="bold">Heßbrüggen-Walter, Stefan</hi> (2015): “What People Said: The Theoretical Foundations of a Minimal Doxographical Ontology and Its Use in the History of Philosophy”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
                         <hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities</hi>. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). DOI: 10.17175/sb001_001 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1395">
                         <hi rend="bold">John, Markus / Lohmann, Steffen / Koch, Steffen / Wörner, Michael / Ertl, Thomas</hi> (2016): „Visual Analytics for Narrative Texts. Visualizing Characters and their Relationships as Extracted from Novels”, in: 
                         <hi rend="italic">Proceedings of the 7th International Conference on Information Visualization Theory and Applications</hi>. Rom, Italien: SciTePress [Preprint: 
                         <ref target="http://www.visualdataweb.org/publications/2016_IVAPP_VA-for-Narrative_preprint.pdf">http://www.visualdataweb.org/publications/2016_IVAPP_VA-for-Narrative_preprint.pdf</ref>].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1396">
                         <hi rend="bold">Kocher, Ursula</hi> (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): 
                         <hi rend="italic">Ästhetische Erfahrung und Edition</hi>. Tübingen: Max Niemeyer, 175–185.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__120">
                         <hi rend="bold">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth</hi> (2009): „Ontology-based situation awareness“, in: 
                         <hi rend="italic">Information Fusion</hi> 10, 1. St. Louis, MO, USA: Elsevier, 83–98.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1397">
                         <hi rend="bold">Tin, Erkan / Akman, Varol </hi>(1994): „Computational Situation Theory”, in: Hoebel, Louis J. / Powers, David (eds.): 
                         <hi rend="italic">SIGART Bulletin</hi> 5, 4. New York, NY, USA: ACM, 4–17.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1398">
                         <hi rend="bold">Meister, Jan-Christoph</hi> (2012): „Crowdsourcing ‚True Meaning‘: A Collaborative Markup Approach to Textual Interpretation“, in: Deegan, Marilyn (ed.): 
                         <hi rend="italic">Collaborative Research in the Digital Humanities. A Volume in Honour of Harold Short, on the Occasion of his 65th Birthday and his Retirement</hi>. Farnham: Ashgate 2012, 106–122.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1399">
                         <hi rend="bold">Spoerhase, Carlos</hi> (2007): 
                         <hi rend="italic">Autorschaft und Interpretation. Methodische Grundlagen einer philologischen Hermeneutik</hi>. Berlin/New York: De Gruyter.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1400">
                         <hi rend="bold">Verweyen, Theodor / Wittig, Gunther</hi> (2010): 
                         <hi rend="italic">Einfache Formen der Intertextualität: Theoretische Überlegungen und historische Untersuchungen</hi>. Paderborn: mentis.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1401">
                         <hi rend="bold">Wagner, Benno / Mehler, Alexander / Biber, Hanno</hi> (2016): “Transbiblionome Daten in der Literaturwissenschaft. Texttechnologische Erschließung und digitale Visualisierng intertextueller Beziehungen digitaler Korpora“, in: 
                         <hi rend="italic">Konferenzabstracts DHd 2016 Modellierung, Vernetzung, Visualisierung. Die Digital Humanties als fächerübergreifendes Forschungsparadigma</hi>
                         <ref target="http://dhd2016.de/boa.pdf">http://dhd2016.de/boa.pdf</ref>, 88–94.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1402">
                         <hi rend="bold">Wilde, Erik / Lowe, David</hi> (2003): 
                         <hi rend="italic">XPath, XLink, XPointer, and XML: A Practical Guide to Web Hyperlinking and Transclusion</hi>. Boston, MA: Addison-Wesley.
                     </bibl>

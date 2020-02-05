@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="LOEBEL_Jens_Martin_Digitale_Wissenschaft___Eine_Podcastreihe">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LOEBEL_Jens_Martin_Digitale_Wissenschaft___Eine_Podcastreihe">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Digitale Wissenschaft – Eine Podcastreihe</title>
-                <author>
+                <author ref="#person__loebel-bitgilde-de">
                     <persName>
                         <surname>Loebel</surname>
                         <forename>Jens-Martin</forename>
@@ -13,7 +11,7 @@
                     <affiliation>bitGilde IT Solutions UG, Deutschland</affiliation>
                     <email>loebel@bitgilde.de</email>
                 </author>
-                <author>
+                <author ref="#person__kontakt-carolinhahn-de">
                     <persName>
                         <surname>Hahn</surname>
                         <forename>Carolin</forename>
@@ -99,11 +97,7 @@
                 <p>Der Podcast wird kostenlos über die üblichen Kanäle wie iTunes etc. und unsere Website verbreitet.</p>
                 <p>Das Poster soll eine Kostprobe geben und vor allem Lust aufs Zuhören machen. Ziel ist es, Aufmerksamkeit zu schaffen und ggf. neue Interviewpartner zu finden. Zudem sind kurze Hörproben geplant.</p>
                 <figure>
-                    <graphic n="1001"
-                        width="15.98788888888889cm"
-                        height="4.930069444444444cm"
-                        rend="inline"
-                        url="LOEBEL_Jens_Martin_Digitale_Wissenschaft___Eine_Podcastreihe-image1.png"/>
+                    <graphic n="1001" width="15.98788888888889cm" height="4.930069444444444cm" rend="inline" url="LOEBEL_Jens_Martin_Digitale_Wissenschaft___Eine_Podcastreihe-image1.png"/>
                 </figure>
             </div>
             <div type="div1" rend="DH-Heading1">
@@ -149,19 +143,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1124">
                         <hi rend="bold">Geoghegan, Michael / Dan Klass</hi> (2007): Podcast Solutions. The Complete Guide to Audio and Video Podcasting. New York: Springer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1125">
                         <hi rend="bold">Hagedorn, Brigitte</hi> (2006): Podcasting: Konzept | Produktion | Vermarktung. Köln: mitp Verlags GmbH.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1126">
                         <hi rend="bold">Podcast der Helmholtz-Gemeinschaft</hi>: https://resonator-podcast.de/ [letzter Zugriff 15. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1127">
                         <hi rend="bold">Podcast der Universität Wien</hi>: http://medienportal.univie.ac.at/uniview/podcast-audimax/ [letzter Zugriff 15. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1128">
                         <hi rend="bold">Physik-Podcast im ORF</hi>: http://www.physikalischesoiree.at/ [letzter Zugriff 15. September 2017].
                     </bibl>
                 </listBibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="B_RGERMEISTER_Martina__Software_Aging__in_den_DH__Kritik_des">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B_RGERMEISTER_Martina__Software_Aging__in_den_DH__Kritik_des">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>„Software Aging“ in den DH: Kritik des reinen Forschungswillen</title>
-                <author>
+                <author ref="#person__martina-buergermeister-uni-graz-at">
                     <persName>
                         <surname>Bürgermeister</surname>
                         <forename>Martina</forename>
@@ -13,7 +11,7 @@
                     <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
                     <email>martina.buergermeister@uni-graz.at</email>
                 </author>
-                <author>
+                <author ref="#person__gerlinde-schneider-uni-graz-at">
                     <persName>
                         <surname>Schneider</surname>
                         <forename>Gerlinde</forename>
@@ -21,7 +19,7 @@
                     <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
                     <email>gerlinde.schneider@uni-graz.at</email>
                 </author>
-                <author>
+                <author ref="#person__stephan-makowski-uni-koeln-de">
                     <persName>
                         <surname>Makowski</surname>
                         <forename>Stephan</forename>
@@ -29,7 +27,7 @@
                     <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
                     <email>stephan.makowski@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__daniel-jeller-icar-us-eu">
                     <persName>
                         <surname>Jeller</surname>
                         <forename>Daniel</forename>
@@ -37,7 +35,7 @@
                     <affiliation>ICARUS, Wien, Österreich</affiliation>
                     <email>daniel.jeller@icar-us.eu</email>
                 </author>
-                <author>
+                <author ref="#person__jbigalke-smail-uni-koeln-de">
                     <persName>
                         <surname>Bigalke</surname>
                         <forename>Jan</forename>
@@ -45,7 +43,7 @@
                     <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
                     <email>JBigalke@smail.uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__ctheise1-smail-uni-koeln-de">
                     <persName>
                         <surname>Theisen</surname>
                         <forename>Christian</forename>
@@ -53,7 +51,7 @@
                     <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
                     <email>ctheise1@smail.uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__georg-vogeler-uni-graz-at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
@@ -205,78 +203,78 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1557">
                         <hi rend="bold">Andrews, Tara / Zundert, Joris van</hi> (2018): “What are you Trying to Say? The Interface as an Integral Element of Argument”, in: Bleier, Roman et al. (eds.): 
                         <hi rend="italic">Digital Scholarly Editions as Interfaces </hi>(=Schriften des Instituts für Dokumentologie und Editorik). Norderstedt: Books on Demand.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1558">
                         <hi rend="bold">Czmiel, Alexander</hi> (2017): “Funktionalität Digitaler Editionen“, in: 
                         <hi rend="italic">DHd 2017. Digitale Nachhaltigkeit. Konferenzabstracts.</hi> Bern 138-141. 
                         <ref target="http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf">http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf</ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1559">
                         <hi rend="bold">Demeyer, Serge / Ducasse, Stéphane / Nierstrasz, Oscar</hi> (2013): 
                         <hi rend="italic">Object-Oriented Reengineering Patterns</hi>. Bern: Square Bracket Associates. 
                         <ref target="http://scg.unibe.ch/download/oorp/OORP.pdf">http://scg.unibe.ch/download/oorp/OORP.pdf</ref>
                         [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1560">
                         <hi rend="bold">Engels, Gregor et al. </hi>(2009) "Design for Future: Legacy-Probleme von morgen vermeidbar?", in: 
                         <hi rend="italic">Informatik Spektrum </hi>32, 5: 393-397. https://doi.org/10.1007/s00287-009-0356-3 [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1561">
                         <hi rend="bold">Godfrey, Michael W. / German, Daniel M.</hi> (2008): “The Past, Present, and Future of Software Evolution”, in: 
                         <hi rend="italic">Proceedings of the 2008 Frontiers of Software Maintenance.</hi>
                     </bibl>
-                    <bibl>New York: IEEE 129-138. 
+                    <bibl ref="#bibl__1562">New York: IEEE 129-138. 
                         <ref target="https://doi.org/10.1109/FOSM.2008.4659256">https://doi.org/10.1109/FOSM.2008.4659256</ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1563">
                         <hi rend="bold">Goltz, Ursula et al.</hi> (2015): “Design for future: managed software evolution”, in: 
                         <hi rend="italic">Computer Science - Research and Development 30, 3-4</hi>: 321-331. https://doi.org/10.1007/s00450-014-0273-9 [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1564">
                         <hi rend="bold">Harold, Rusty Elliotte</hi> (2008): 
                         <hi rend="italic">Refactoring HTML. Improving the Design of Existing Web Applications</hi>. Upper Saddle River, NJ: Addison-Wesley.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1565">
                         <hi rend="bold">Hattrick, Simon</hi> (2016): Research Software Sustainability. Report on a Knowledge Exchange Workshop. JISC:
                         <ref target="http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_Workshop_Feb_2016_FINAL.pdf">http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_Work
                             shop_Feb_2016_FINAL.pdf
                         </ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1566">
                         <hi rend="bold">Kasper, Dominik / Grüntgens, Max</hi> (2017): “Nachhaltige Konzeptionsmethoden für Digital Humanities Projekte am Beispiel der Goethe-Propyläen“, in: 
                         <hi rend="italic">DHd 2017. Digitale Nachhaltigkeit. Konferenzabstracts.</hi> Bern 165-168. 
                         <ref target="http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf">http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf</ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1567">
                         <hi rend="bold">Lehman, Meir M.</hi> (1980): “Programs, life cycles, and laws of software evolution”, in: 
                         <hi rend="italic">Proceedings of the IEEE 68, 9: 1060-1076.</hi><ref target="https://doi.org/10.1109/PROC.1980.11805">https://doi.org/10.1109/PROC.1980.11805</ref>
                         [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1568">
                         <hi rend="bold">Mazinanian, Davood / Tsantalis, Nikolaos</hi> (2017): “CCSDev: Refactoring duplication in Cascading Style Sheets”, in: 
                         <hi rend="italic">Proceedings of the 39th International Conference on Software Engineering Companion. </hi>New York: IEEE 63-66. 
                         <ref target="https://doi.org/10.1109/ICSE-C.2017.7">https://doi.org/10.1109/ICSE-C.2017.7</ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1569">
                         <hi rend="bold">Paech, Barbara et al.</hi> (2016): “Empirische Forschung zu Software-Evolution”, in: 
                         <hi rend="italic">Informatik Spektrum 39, 3</hi>: 186-193. 
                         <ref target="https://doi.org/10.1007/s00287-015-0910-0">https://doi.org/10.1007/s00287-015-0910-0
                         </ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1570">
                         <hi rend="bold">Parnas, David L.</hi> (1994): “Software Aging”, in: 
                         <hi rend="italic">Proceedings of 16th International Conference on Software Engineering. </hi>New York: IEEE 279-287. 
                         <ref target="https://doi.org/10.1109/ICSE.1994.296790">https://doi.org/10.1109/ICSE.1994.296790</ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1571">
                         <hi rend="bold">Schrade, Torsten</hi> (2017): “Nachhaltige Softwareentwicklung in den Digital Humanities. Konzepte und Methoden“, in: 
                         <hi rend="italic">DHd 2017. Digitale Nachhaltigkeit. Konferenzabstracts.</hi> Bern 168-171. 
                         <ref target="http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf">http://www.dhd2017.ch/wp-content/uploads/2017/02/Abstractband_ergaenzt.pdf</ref> [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1572">
                         <hi rend="bold">Thaller, Georg E.</hi> (2000): ISO 9001: 
                         <hi rend="italic">Software-Entwicklung in der Praxis.</hi> Hannover: Heise.
                     </bibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WINDHAGER_Florian_Zur_Weiterentwicklung_des__cognition_suppo">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WINDHAGER_Florian_Zur_Weiterentwicklung_des__cognition_suppo">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Zur Weiterentwicklung des “cognition support”: Sammlungs-visualisierungen als Austragungsort kritisch-kulturwissenschaftlicher Forschung</title>
-                <author>
+                <author ref="#person__florian-windhager-donau-uni-ac-at">
                     <persName>
                         <surname>Windhager</surname>
                         <forename>Florian</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Donau-Universität Krems, Österreich</affiliation>
                     <email>florian.windhager@donau-uni.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__k-glinka-smb-spk-berlin-de">
                     <persName>
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>k.glinka@smb.spk-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__eva-mayr-donau-uni-ac-at">
                     <persName>
                         <surname>Mayr</surname>
                         <forename>Eva</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Donau-Universität Krems, Österreich</affiliation>
                     <email>eva.mayr@donau-uni.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__guenther-schreder-donau-uni-ac-at">
                     <persName>
                         <surname>Schreder</surname>
                         <forename>Günther</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Donau-Universität Krems, Österreich</affiliation>
                     <email>Guenther.Schreder@donau-uni.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__doerk-fh-potsdam-de">
                     <persName>
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
@@ -120,11 +118,7 @@
                 <head>Visuelle Sammlungsinterfaces</head>
                 <p>Interfaces zu kulturellen Sammlungen vermitteln zwischen großen Mengen von digitalen Objekten und den darauf bezogenen Absichten und Interessen von ExpertInnen oder BesucherInnen. Abbildung 1 zeigt eine schematische Aufreihung der wichtigsten Komponenten eines entsprechenden Systems, in dem das visuelle Interface (Mitte) einen kognitiven Mehrwert auf BenutzerInnenseite (rechts) schaffen soll (vgl. Card et al., 1999, S. 17). Dieser kognitive Mehrwert umfasst beispielsweise einen Erkenntnisgewinn bezüglich einer digitalen Sammlung, welche oftmals auf physische Objektsammlungen und letztlich auf Ursprungskulturen oder Sammlungskontexte verweisen (links).</p>
                 <figure>
-                    <graphic n="1001"
-                        width="16.002cm"
-                        height="6.8915138888888885cm"
-                        rend="inline"
-                        url="WINDHAGER_Florian_Zur_Weiterentwicklung_des__cognition_suppo-image1.png"/>
+                    <graphic n="1001" width="16.002cm" height="6.8915138888888885cm" rend="inline" url="WINDHAGER_Florian_Zur_Weiterentwicklung_des__cognition_suppo-image1.png"/>
                     <head>Abb.1: Komponenten eines visualisierungsgestützten HCI-Systems, das Daten von kulturellen Sammlungen (links) in visuellen Interfaces repräsentiert (Mitte), um damit diverse kognitive Operationen (wie Exploration, Navigation, Analyse, und mentale Repräsentation) zu unterstützen (rechts) .</head>
                 </figure>
                 <p>Interfacesysteme - als zunächst meist opake Ensembles von Datenbank, Algorithmik und Benutzeroberfläche - entscheiden in solchen Konstellationen über eine zentrale Passage der Informationsverarbeitung und haben nicht zuletzt deshalb kritische Aufmerksamkeit verdient. Dies betrifft sowohl die Skepsis, ob quantitative und algorithmische Visualisierungsverfahren überhaupt nicht-verfremdend oder epistemologisch “a-trojanisch” (Drucker, 2011) auf Feldern von geistes- und kulturwissenschaftlichen Fragestellungen eingeführt und genutzt werden können, wie auch den konstanten internen Diskurs der Methodenkritik, der die Konferenzen und Reader der Digital Humanities bestimmt. So wie alle mediale Technologien beeinflussen Interfacesysteme den Aufbau der mentalen Repräsentationen ihrer Gegenstände über multiple Stationen der Übertragung und Übersetzung (Vektoren in blau, Abb. 1) und begünstigen oder erschweren in der Folge gewisse interpretative oder praktische Anschlussoperationen (Vektoren in orange).</p>
@@ -143,11 +137,7 @@
                 </p>
                 <p>Die relevantesten Dimensionen der kritischen Kognition innerhalb eines Forschungssystems lassen sich in der Folge durch multiple Vektoren der Systemkritik fokussieren (siehe Abb. 2 oben): a) Kritik und Evaluation der Kultur und des Kontexts einer Sammlung, b) Kritik der Sammlungs- und Kuratierungspraxis, c) Kritik der digitalen Modellierung, sowie d) Kritik der Informationsvisualisierung.</p>
                 <figure>
-                    <graphic n="1002"
-                        width="16.002cm"
-                        height="15.815027777777777cm"
-                        rend="inline"
-                        url="WINDHAGER_Florian_Zur_Weiterentwicklung_des__cognition_suppo-image2.png"/>
+                    <graphic n="1002" width="16.002cm" height="15.815027777777777cm" rend="inline" url="WINDHAGER_Florian_Zur_Weiterentwicklung_des__cognition_suppo-image2.png"/>
                     <head>Abb.2. Kritische Kognition kann durch das Zusammenspiel von Designstrategien für visuelle Interfaces mit Bezug auf multiple Systemkomponenten gefördert werden. Wir unterscheiden in der Folge pro Komponente Aspekte der Kritik, Techniken der Kritik-Unterstützung, praktische Relevanz und individuelle “Critical Literacies”. </head>
                 </figure>
                 <p>Aus multipler Motivation (als AnwenderInnen, EntwicklerInnen und AnalytikerInnen von Interfacesystemen) gehen wir davon aus, dass sich die Kritik und Transparenz dieser Systemkomponenten durch Designprinzipien von Interfaces selbst fördern lassen, und dass sich die kritische Interpretation der Komponenten oft nur schrittweise und “rückwärts” (d.h. mit steigender kulturwissenschaftlicher Relevanz von der Interface- bis zur Kuratierungs- und Kulturkritik) entfalten lässt. Wir summieren Aspekte und mögliche Gestaltungsoptionen zur Unterstützung dieser Komponenten in Abbildung 2 und beleuchten ein paar Facetten in der abschließenden Diskussion.</p>
@@ -180,63 +170,63 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Arias-Hernandez, R., Green, T. M., &amp; Fisher, B. </hi>(2012). From cognitive amplifiers to cognitive prostheses: Understandings of the material basis of cognition in visual analytics. 
+                    <bibl ref="#bibl__1095"><hi rend="bold">Arias-Hernandez, R., Green, T. M., &amp; Fisher, B. </hi>(2012). From cognitive amplifiers to cognitive prostheses: Understandings of the material basis of cognition in visual analytics. 
                         <hi rend="italic">Interdisciplinary Science Reviews</hi>, 
                         <hi rend="italic">37</hi>(1), 4–18.
                     </bibl>
-                    <bibl><hi rend="bold">Bubenhofer, N. </hi>(2016): Drei Thesen zu Visualisierungspraktiken in den Digital Humanities. In 
+                    <bibl ref="#bibl__1096"><hi rend="bold">Bubenhofer, N. </hi>(2016): Drei Thesen zu Visualisierungspraktiken in den Digital Humanities. In 
                         <hi rend="italic">Rechtsgeschichte - Legal History</hi>, 
                         <hi rend="italic">24</hi>, S.351-355. 
                     </bibl>
-                    <bibl><hi rend="bold">Butler, J. </hi>(2001). Was ist Kritik? Ein Essay über Foucault’s Tugend. 
+                    <bibl ref="#bibl__1097"><hi rend="bold">Butler, J. </hi>(2001). Was ist Kritik? Ein Essay über Foucault’s Tugend. 
                         <hi rend="italic">EIPCP, 5 </hi>(2001).
                     </bibl>
-                    <bibl><hi rend="bold">Calhoun, C. </hi>(1995). 
+                    <bibl ref="#bibl__1098"><hi rend="bold">Calhoun, C. </hi>(1995). 
                         <hi rend="italic">Critical Social Theory: Culture, History, and the Challenge of Difference</hi>. Cambridge, Mass: Wiley-Blackwell. 
                     </bibl>
-                    <bibl><hi rend="bold">Card, S. K., Mackinlay, J. D., and Shneiderman, B. </hi>(1999). Using Vision to Think, chapter 1: Information Visualization, pages 1–34. Morgan Kaufmann.</bibl>
-                    <bibl>vDörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In 
+                    <bibl ref="#bibl__1099"><hi rend="bold">Card, S. K., Mackinlay, J. D., and Shneiderman, B. </hi>(1999). Using Vision to Think, chapter 1: Information Visualization, pages 1–34. Morgan Kaufmann.</bibl>
+                    <bibl ref="#bibl__1100">vDörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In 
                         <hi rend="italic">Proceedings of the SIGCHI conference on human factors in computing systems</hi> (pp. 1215–1224). ACM.
                     </bibl>
-                    <bibl><hi rend="bold">Dörk, M., Feng, P., Collins, C., &amp; Carpendale, S.</hi> (2013). Critical InfoVis: exploring the politics of visualization. In 
+                    <bibl ref="#bibl__1101"><hi rend="bold">Dörk, M., Feng, P., Collins, C., &amp; Carpendale, S.</hi> (2013). Critical InfoVis: exploring the politics of visualization. In 
                         <hi rend="italic">CHI’13 Extended Abstracts on Human Factors in Computing Systems</hi> (pp. 2189–2198). ACM.  
                     </bibl>
-                    <bibl><hi rend="bold">Dörk, M., Pietsch, C., &amp; Credico, G. </hi>(2017). One view is not enough. High-level visualizations of a large cultural collection. 
+                    <bibl ref="#bibl__1102"><hi rend="bold">Dörk, M., Pietsch, C., &amp; Credico, G. </hi>(2017). One view is not enough. High-level visualizations of a large cultural collection. 
                         <hi rend="italic">Special Issue of Information Design Journal</hi>, 
                         <hi rend="italic">23(1):39–47</hi>.
                     </bibl>
-                    <bibl><hi rend="bold">Drucker, J. </hi>(2011). Humanities approaches to graphical display. 
+                    <bibl ref="#bibl__1103"><hi rend="bold">Drucker, J. </hi>(2011). Humanities approaches to graphical display. 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 
                         <hi rend="italic">5</hi>(1), 1–21. 
                     </bibl>
-                    <bibl><hi rend="bold">Foucault, M. </hi>(1992). 
+                    <bibl ref="#bibl__1104"><hi rend="bold">Foucault, M. </hi>(1992). 
                         <hi rend="italic">Was ist Kritik?</hi>  Berlin: Merve. 
                     </bibl>
-                    <bibl><hi rend="bold">Glinka, K., Meier, S., &amp; Dörk, M. </hi>(2015). Visualising the» Un-seen «: Towards Critical Approaches and Strategies of Inclusion in Digital Cultural Heritage Interfaces. In C. Busch &amp; J. Sieck (Eds.), 
+                    <bibl ref="#bibl__1105"><hi rend="bold">Glinka, K., Meier, S., &amp; Dörk, M. </hi>(2015). Visualising the» Un-seen «: Towards Critical Approaches and Strategies of Inclusion in Digital Cultural Heritage Interfaces. In C. Busch &amp; J. Sieck (Eds.), 
                         <hi rend="italic">Kultur und Informatik (XIII) - Cross Media</hi> (pp. 105–118). Berlin: Werner Hülsbusch. 
                     </bibl>
-                    <bibl><hi rend="bold">Hooland, S. van, &amp; Verborgh, R.</hi> (2014). 
+                    <bibl ref="#bibl__1106"><hi rend="bold">Hooland, S. van, &amp; Verborgh, R.</hi> (2014). 
                         <hi rend="italic">Linked Data for Libraries, Archives and Museums: How to clean, link and publish your metadata</hi>. Facet Publishing.
                     </bibl>
-                    <bibl><hi rend="bold">Jaeggi, R., &amp; Wesche, T.</hi> (2013). 
+                    <bibl ref="#bibl__1107"><hi rend="bold">Jaeggi, R., &amp; Wesche, T.</hi> (2013). 
                         <hi rend="italic">Was ist Kritik?</hi> Frankfurt: Suhrkamp. 
                     </bibl>
-                    <bibl><hi rend="bold">Jones, A. L. </hi>(1993). Exploding Canons: The Anthropology of Museums. 
+                    <bibl ref="#bibl__1108"><hi rend="bold">Jones, A. L. </hi>(1993). Exploding Canons: The Anthropology of Museums. 
                         <hi rend="italic">Annual Review of Anthropology</hi>, 
                         <hi rend="italic">22</hi>(1), 201–220. 
                     </bibl>
-                    <bibl><hi rend="bold">Latour, B. </hi>(2004). Why has critique run out of steam? From matters of fact to matters of concern. 
+                    <bibl ref="#bibl__1109"><hi rend="bold">Latour, B. </hi>(2004). Why has critique run out of steam? From matters of fact to matters of concern. 
                         <hi rend="italic">Critical Inquiry</hi>, 
                         <hi rend="italic">30</hi>(2), 225–248. 
                     </bibl>
-                    <bibl><hi rend="bold">Swartz, D. </hi>(2012). 
+                    <bibl ref="#bibl__1110"><hi rend="bold">Swartz, D. </hi>(2012). 
                         <hi rend="italic">Culture and power: The sociology of Pierre Bourdieu</hi>. University of Chicago Press. 
                     </bibl>
-                    <bibl><hi rend="bold">Whitelaw, M.</hi> (2015). Generous Interfaces for Digital Cultural Collections. 
+                    <bibl ref="#bibl__20"><hi rend="bold">Whitelaw, M.</hi> (2015). Generous Interfaces for Digital Cultural Collections. 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 
                         <hi rend="italic">9</hi>(1). 
                     </bibl>
-                    <bibl><hi rend="bold">Windhager F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. </hi> (2017). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. 
+                    <bibl ref="#bibl__100"><hi rend="bold">Windhager F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. </hi> (2017). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. 
                         <hi rend="italic">Transactions of Visualization and Computer Graphics </hi>(eingereicht)
                     </bibl>
                 </listBibl>

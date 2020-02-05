@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="HOFFMANN_Christoph_Science_as_a_Service_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HOFFMANN_Christoph_Science_as_a_Service_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Science as a Service?</title>
                     <title type="sub"> Chancen und Limits von serviceorientierten Softwarearchitekturen für die Digital Humanities</title>
                 </title>
-                <author>
+                <author ref="#person__christoph-hoffmann-oeaw-ac-at">
                     <persName>
                         <surname>Hoffmann</surname>
                         <forename>Christoph</forename>

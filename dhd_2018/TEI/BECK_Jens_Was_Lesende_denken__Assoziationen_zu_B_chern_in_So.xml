@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BECK_Jens_Was_Lesende_denken__Assoziationen_zu_B_chern_in_So">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BECK_Jens_Was_Lesende_denken__Assoziationen_zu_B_chern_in_So">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Was Lesende denken: Assoziationen zu Büchern in Sozialen Medien </title>
-                <author>
+                <author ref="#person__jens-beck-gmx-de">
                     <persName>
                         <surname>Beck</surname>
                         <forename>Jens</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>jens_beck@gmx.de</email>
                 </author>
-                <author>
+                <author ref="#person__marcus-willand-ilw-uni-stuttgart-de">
                     <persName>
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>marcus.willand@ilw.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
@@ -210,11 +208,7 @@
                 <p>Das hier beschriebene Netzwerk wird im Zuge der Konferenz frei zugänglich gemacht.</p>
                 <p>
                     <figure>
-                        <graphic n="1001"
-                            width="15.927916666666667cm"
-                            height="10.900833333333333cm"
-                            rend="inline"
-                            url="BECK_Jens_Was_Lesende_denken__Assoziationen_zu_B_chern_in_So-image1.png"/>
+                        <graphic n="1001" width="15.927916666666667cm" height="10.900833333333333cm" rend="inline" url="BECK_Jens_Was_Lesende_denken__Assoziationen_zu_B_chern_in_So-image1.png"/>
                         <head>Abbildung 1: Assoziationen zu Conan Doyles The Hound of the Baskervilles, extrahiert aus den Reviews von Benutzern. Die Abbildung zeigt zur Illustration sämtliche assoziierte Entitäten, unabhängig von der Häufigkeit.</head>
                     </figure>
                 </p>
@@ -241,64 +235,64 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__959">
                         <hi rend="bold">Agirre, Eneko / Soroa, Aitor</hi> (2009): “Personalizing PageRank for Word Sense Disambiguation”, in: Proceedings of the 12th conference of the European chapter of the Association for Computational Linguistics (EACL-2009). Athens, Greece.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__960">
                         <hi rend="bold">Agirre, Eneko / Barrena, Ander / Soroa, Aitor</hi> (2015): Studying the Wikipedia Hyperlink Graph for Relatedness and Disambiguation. http://arxiv.org/abs/1503.01655
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__961">
                         <hi rend="bold">Beck, Jens</hi> (2017): How do People Read Literature? - Detection and Identification of Names in Book Reviews. Bachelor’s thesis, Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__962">
                         <hi rend="bold">Baurmann, Jürgen</hi> (1981). „Textrezeption empirisch. Wege zu einem ziel, behelfsbrücken oder holzwege?". Rezeptionspragmatik. Beiträge zur Praxis des Lesens. Uni-Taschenbücher. Band 1026. Hrsg. v. Gerhard Köpf, 201–218. München.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__963">
                         <hi rend="bold">Christmann, Ursula / Margrit Schreier</hi> (2003). „Kognitionspsychologie der Textverarbeitung und Konsequenzen für die Bedeutungskonstitution literarischer Texte". Regeln der Bedeutung. Zur Theorie der Bedeutung literarischer Texte. Revisionen. Hrsg. v. Fotis Jannidis, Gerhard Lauer, Matías Martínez &amp; Simone Winko, 246–284. Berlin.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__964">
                         <hi rend="bold">Dijkstra, Katinka</hi> (1994): Leseentscheidung und Lektürewahl. Empirische Untersuchungen über Einflussfaktoren auf das Leseverhalten. Berlin.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__965">
                         <hi rend="bold">Dimitrov, Stefan / Zamal, Faiyaz / Piper, Andrew / Ruths, Derek</hi> (2015): “Goodreads vs Amazon: The Effect Of Decoupling Book Reviewing And Book Selling", in: International Conference on Web and Social Media (ICWSM-14).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__966">
                         <hi rend="bold">Eco, Umberto</hi> (1979): The Role of the Reader. Explorations in the Semiotics of Texts. Bloomington, IN.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__967">
                         <hi rend="bold">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher</hi> (2005): “Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling”, in: 
                         <hi rend="italic">Proceedings of the 43nd Annual Meeting of the Association for Computational Linguistics (ACL 2005),</hi> pp. 363-370.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__968">
                         <hi rend="bold">Fish, Stanley E.</hi> (1970): „Literature in the Reader: Affective Stylistics“, in: 
                         <hi rend="italic">New Literary History</hi> 1(2): 123–162.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__969">
                         <hi rend="bold">Funke, Mandy</hi> (2003). „Das Abenteuer der Fragebögen. Aspekte zur empirischen Wirkungsforschung in der DDR". Wissenschaft und Systemveränderung. Rezeptionsforschung in Ost und West – Eine konvergente Entwicklung? Euphorion. Band 44. Hrsg. v. Wolfgang Adam, Holger Dainat &amp; Gunther Schandera, 119–126. Heidelberg.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__970">
                         <hi rend="bold">Groeben, Norbert</hi> (1979). „Zur Relevanz empirischer Konkretisationserhebungen für die Literaturwissenschaft". Empirie in Literatur- und Kunstwissenschaft. Grundfragen der Literaturwissenschaft. Hrsg. v. Siegfried J. Schmidt, 43–82. München.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__971">
                         <hi rend="bold">Iser, Wolfgang</hi> (1976). Der Akt des Lesens. Theorie ästhetischer Wirkung. Band 636. München.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__972">
                         <hi rend="bold">Page, Lawrence / Brin, Sergey / Motwani, Rajeev / Winograd, Terry</hi> (1999): “The PageRank Citation Ranking: Bringing Order to the Web”
                         <hi rend="italic">,</hi> technical Report. Stanford InfoLab.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__973">
                         <hi rend="bold">Schleiermacher, Friedrich</hi> (1838): Hermeneutik und Kritik mit besonderer Beziehung auf das Neue Testament. Aus Schleiermachers handschriftlichem Nachlasse und nachgeschriebenen Vorlesungen herausgegeben von Friedrich Lücke. In: Friedrich Schleiermacher’s sämmtliche Werke. Berlin: Reimer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__974">
                         <hi rend="bold">Schmid, Wolf</hi> (2005): Elemente der Narratologie. Narratologia. Band 8. Berlin.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__975">
                         <hi rend="bold">Veldhues, Christoph</hi> (1995): "Gleich- und Gegenüberstellung".Intratextuelle und intertextuelle Bedeutung in der Literatur. Zeitschrift für französische Sprache und Literatur 40/3 (1995), 243-267.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__976">
                         <hi rend="bold">Willand, Marcus</hi> (2014): Lesermodelle und Lesertheorien. Historische und systematische Perspektiven. Narratologia. Band 41. Berlin.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__977">
                         <hi rend="bold">Wübben, Yvonne</hi> (2009). „Lesen als Mentalisieren? Neuere kognitionswissenschaftliche Ansätze in der Leseforschung". Literatur und Kognition. Bestandsaufnahmen und Perspektiven eines Arbeitsfeldes. Poetogenesis. Band 6. Hrsg. v. Martin Huber &amp; Simone Winko, 29–44. Paderborn.
                     </bibl>
                 </listBibl>

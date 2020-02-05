@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="RAU_Felix_Audio_Mining_f_r_die_Geistes__und_Kulturwissenscha">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RAU_Felix_Audio_Mining_f_r_die_Geistes__und_Kulturwissenscha">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Audio Mining für die Geistes- und Kulturwissenschaften: Nutzungsszenarien und Herausforderungen</title>
-                <author>
+                <author ref="#person__joachim-koehler-iais-fraunhofer-de">
                     <persName>
                         <surname>Köhler</surname>
                         <forename>Joachim</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Fraunhofer IAIS</affiliation>
                     <email>joachim.koehler@iais.fraunhofer.de</email>
                 </author>
-                <author>
+                <author ref="#person__almut-leh-fernuni-hagen-de">
                     <persName>
                         <surname>Leh</surname>
                         <forename>Almut</forename>
@@ -21,7 +19,7 @@
                     <affiliation>FernUniversität in Hagen</affiliation>
                     <email>almut.leh@fernuni-hagen.de</email>
                 </author>
-                <author>
+                <author ref="#person__sprachwissenschaft-uni-koeln-de">
                     <persName>
                         <surname>Himmelmann</surname>
                         <forename>Nikolaus</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>sprachwissenschaft@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__f-rau-uni-koeln-de">
                     <persName>
                         <surname>Rau</surname>
                         <forename>Felix</forename>

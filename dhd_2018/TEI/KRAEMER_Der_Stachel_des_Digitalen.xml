@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="KRAEMER_Der_Stachel_des_Digitalen">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KRAEMER_Der_Stachel_des_Digitalen">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Der ‚Stachel des Digitalen‘ -  ein Anreiz zur Selbstreflexion in den Geisteswissenschaften?</title>
-                <author>
+                <author ref="#person__sybkram-zedat-fu-berlin-de">
                     <persName>
                         <surname>Krämer</surname>
                         <forename>Sybille</forename>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Digitale Modellierung von Figurenkomplexität am Beispiel des Parzival von Wolfram von Eschenbach</title>
-                <author>
+                <author ref="#person__manuel-braun-ilw-uni-stuttgart-de">
                     <persName>
                         <surname>Braun</surname>
                         <forename>Manuel</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart</affiliation>
                     <email>manuel.braun@ilw.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__roman-klinger-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Klinger</surname>
                         <forename>Roman</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</affiliation>
                     <email>roman.klinger@ims.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__pado-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Padó</surname>
                         <forename>Sebastian</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</affiliation>
                     <email>pado@ims.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__viehhauser-ilw-uni-stuttgart-de">
                     <persName>
                         <surname>Viehhauser</surname>
                         <forename>Gabriel</forename>
@@ -154,32 +152,16 @@
                 </p>
                 <p>Auf der konzeptuellen Ebene bieten unsere Ergebnisse den Einstieg in eine differenziertere Modellierung von Figurenkomplexität, deren Erarbeitung auf die traditionelle narratologische Theoriebildung zurückwirken kann: Die digitale Modellierung macht es notwendig, die Faktoren, aus denen sich das Konzept der Figurenkomplexität zusammensetzt (etwa Figurenhandeln, -rede, -beschreibung und -bewertung), genauer und expliziter zu bestimmen sowie über ihre Gewichtung nachzudenken. Außerdem wäre zu klären, was das Konzept der Komplexität genau meint und wie es sich zu verwandten Konzepten wie denen der Hybridität, der Dynamik oder der Aktantenhaftigkeit von Figuren verhält. Im Sinne einer kritisch reflektierten digitalen Methodik werden somit vielschichtige literaturwissenschaftliche Phänomene wie die Charakterisierung von Figuren durch den formalisierenden Zugang nicht nivelliert, vielmehr führt die Verbindung von quantitativen und qualitativen Methoden zur wechselseitigen Erhellung.</p>
                 <figure>
-                    <graphic n="1001"
-                        width="16.007291666666667cm"
-                        height="13.32088888888889cm"
-                        rend="inline"
-                        url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image1.png"/>
+                    <graphic n="1001" width="16.007291666666667cm" height="13.32088888888889cm" rend="inline" url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image1.png"/>
                 </figure>
                 <figure>
-                    <graphic n="1002"
-                        width="16.007291666666667cm"
-                        height="13.32088888888889cm"
-                        rend="inline"
-                        url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image2.png"/>
+                    <graphic n="1002" width="16.007291666666667cm" height="13.32088888888889cm" rend="inline" url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image2.png"/>
                 </figure>
                 <figure>
-                    <graphic n="1003"
-                        width="16.007291666666667cm"
-                        height="13.32088888888889cm"
-                        rend="inline"
-                        url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image3.png"/>
+                    <graphic n="1003" width="16.007291666666667cm" height="13.32088888888889cm" rend="inline" url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image3.png"/>
                 </figure>
                 <figure>
-                    <graphic n="1004"
-                        width="16.007291666666667cm"
-                        height="13.32088888888889cm"
-                        rend="inline"
-                        url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image4.png"/>
+                    <graphic n="1004" width="16.007291666666667cm" height="13.32088888888889cm" rend="inline" url="KLINGER_Roman_Digitale_Modellierung_von_Figurenkomplexit_t_a-image4.png"/>
                 </figure>
             </div>
         </body>
@@ -190,48 +172,48 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1129">
                         <hi rend="bold">Forster, Edward M</hi>. (1927): 
                         <hi rend="italic">Aspects of the Novel</hi>. New York: Harcourt. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1130">
                         <hi rend="bold">Harris, Zellig S.</hi> (1954): “Distributional Structure”, in: 
                         <hi rend="italic">Word</hi> 10(2-3): 146–162. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1131">
                         <hi rend="bold">Jannidis, Fotis</hi> (2004): 
                         <hi rend="italic">Figur und Person</hi>. Beitrag zu einer historischen Narratologie. Berlin: de Gruyter.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1132">
                         <hi rend="bold">Jannidis, Fotis</hi> (2009): „Character“, in: Hühn, Peter / Pier, John / Schmid, Wolf / Schönert, Jörg (eds.) Handbook of Narratology. Berlin: de Gruyter 14-29
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__105">
                         <hi rend="bold">Jannidis, Fotis / Reger, Isabella / Krug, Manfred / Weimer, Lukas / Macharowsky, Luisa / Puppe, Frank</hi> (2016): „Comparison of Methods for the Identification of Main Characters in German Novels”, in: 
                         <hi rend="italic">Digital Humanities 2016: Conference Abstracts. Jagiellonian University &amp; Pedagogical University, Kraków</hi> 578-582. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1133">
                         <hi rend="bold">Manning, Christopher D. / Schütze, Hinrich</hi> (1999): Foundations of Statistical Natural Language Processing. Cambridge, MA: MIT Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1134">
                         <hi rend="bold">Miller, George A. / Charles, Walter G.</hi> (1991): “Contextual Correlates of Semantic Similarity”, in: 
                         <hi rend="italic">Language and Cognitive Processes</hi> 6(1): 1–28. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1135">
                         <hi rend="bold">Piper, Andrew / Algee-Hewitt, Mark / Sinha, Koustuv / Ruths, Derek / Vala, Hardik</hi> (2017): “Studying Literary Characters and Character Networks”, in: 
                         <hi rend="italic">Digital Humanities 2017: Conference Abstracts. Montreal, Canada, August 8-11, 2017</hi>. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1136">
                         <hi rend="bold">Schulz, Armin</hi> (2012): Erzähltheorie in mediävistischer Perspektive. Berlin: De Gruyter. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__68">
                         <hi rend="bold">Shannon, Claude E.</hi> (1948): “A Mathematical Theory of Communication”, in: 
                         <hi rend="italic">Bell System Technical Journal</hi> 27(3): 379–423.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1137">
                         <hi rend="bold">Turney, Peter D. / Pantel, Patrick</hi> (2010): “From Frequency to Meaning: Vector Space Models of Semantics”, in: 
                         <hi rend="italic">Journal of Artificial Intelligence Research</hi> 37(1): 141–188.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1138">
                         <hi rend="bold">Yeandle, David</hi> (o. J.): 
                         <hi rend="italic">Stellenbibliographie zum 'Parzival' Wolframs von Eschenbach für die Jahre 1753–2004</hi>. http://wolfram.lexcoll.net/homeidx.htm [letzter Zugriff 9. Januar 2017].
                     </bibl>

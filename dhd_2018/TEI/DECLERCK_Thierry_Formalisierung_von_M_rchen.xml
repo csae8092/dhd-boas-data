@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DECLERCK_Thierry_Formalisierung_von_M_rchen">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DECLERCK_Thierry_Formalisierung_von_M_rchen">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Formalisierung von Märchen</title>
-                <author>
+                <author ref="#person__declerck-dfki-de">
                     <persName>
                         <surname>Declerck</surname>
                         <forename>Thierry</forename>
@@ -13,7 +11,7 @@
                     <affiliation>DFKI GmbH, Deutschland</affiliation>
                     <email>declerck@dfki.de</email>
                 </author>
-                <author>
+                <author ref="#person__aamann-coli-uni-saarland-de">
                     <persName>
                         <surname>Aman</surname>
                         <forename>Anastasija</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität des Saarlandes, Deutschland</affiliation>
                     <email>aamann@coli.uni-saarland.de</email>
                 </author>
-                <author>
+                <author ref="#person__stefang-coli-uni-saarland-de">
                     <persName>
                         <surname>Grünewald</surname>
                         <forename>Stefan</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Universität des Saarlandes, Deutschland</affiliation>
                     <email>stefang@coli.uni-saarland.de</email>
                 </author>
-                <author>
+                <author ref="#person__malinux-t-online-de">
                     <persName>
                         <surname>Lindemann</surname>
                         <forename>Matthias</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Universität des Saarlandes, Deutschland</affiliation>
                     <email>malinux@t-online.de</email>
                 </author>
-                <author>
+                <author ref="#person__lkschae-gmail-com">
                     <persName>
                         <surname>Schäfer</surname>
                         <forename>Lisa</forename>
@@ -45,7 +43,7 @@
                     <affiliation>Universität des Saarlandes, Deutschland</affiliation>
                     <email>lkschae@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__s9naskac-stud-uni-saarland-de">
                     <persName>
                         <surname>Skachkova</surname>
                         <forename>Natalia</forename>
@@ -230,9 +228,9 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Propp, Vladimir ; Scott, Laurence </hi>(Hrsg.): Morphology of the folktale. 2. überarbeitete Auflage. Austin, TX u.a., 1977</bibl>
-                    <bibl><hi rend="bold">Antonia Scheidel and Thierry Declerck. </hi>2010. Apftml - augmented proppian fairy tale markup language. In Sándor Dar´anyi and Piroska Lendvai, editors, First International AMICUS Workshop on Automated Motif Discovery in Cultural Heritage and Scientific Communication Texts. Szeged University.</bibl>
-                    <bibl><hi rend="bold">Nikolina Koleva, Thierry Declerck, and Hans-Ulrich Krieger</hi>. 2012. An ontology-based iterative text processing strategy for detecting and recognizing characters in folktales. In Jan Christoph Meister, editor, Digital Humanities 2012 Conference Abstracts, pages 467–470, Hamburg, 7. University of Hamburg, Hamburg University Press</bibl>
+                    <bibl ref="#bibl__650"><hi rend="bold">Propp, Vladimir ; Scott, Laurence </hi>(Hrsg.): Morphology of the folktale. 2. überarbeitete Auflage. Austin, TX u.a., 1977</bibl>
+                    <bibl ref="#bibl__651"><hi rend="bold">Antonia Scheidel and Thierry Declerck. </hi>2010. Apftml - augmented proppian fairy tale markup language. In Sándor Dar´anyi and Piroska Lendvai, editors, First International AMICUS Workshop on Automated Motif Discovery in Cultural Heritage and Scientific Communication Texts. Szeged University.</bibl>
+                    <bibl ref="#bibl__652"><hi rend="bold">Nikolina Koleva, Thierry Declerck, and Hans-Ulrich Krieger</hi>. 2012. An ontology-based iterative text processing strategy for detecting and recognizing characters in folktales. In Jan Christoph Meister, editor, Digital Humanities 2012 Conference Abstracts, pages 467–470, Hamburg, 7. University of Hamburg, Hamburg University Press</bibl>
                 </listBibl>
             </div>
       </back>

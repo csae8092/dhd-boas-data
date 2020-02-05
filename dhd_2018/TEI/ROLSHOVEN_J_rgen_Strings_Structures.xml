@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ROLSHOVEN_J_rgen_Strings_Structures">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROLSHOVEN_J_rgen_Strings_Structures">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Strings&amp;Structures</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__rols-spinfo-uni-koeln-de">
                     <persName>
                         <surname>Rolshoven</surname>
                         <forename>Jürgen</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>rols@spinfo.uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__vetemi-smail-uni-koeln-de">
                     <persName>
                         <surname>Etimi</surname>
                         <forename>Valmir</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>vetemi@smail.uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__pseipel1-uni-koeln-de">
                     <persName>
                         <surname>Seipel</surname>
                         <forename>Peter</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>pseipel1@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__twiehe-uni-koeln-de">
                     <persName>
                         <surname>Wiehe</surname>
                         <forename>Thomas</forename>

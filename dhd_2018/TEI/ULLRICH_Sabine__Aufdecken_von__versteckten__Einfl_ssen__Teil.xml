@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ULLRICH_Sabine__Aufdecken_von__versteckten__Einfl_ssen__Teil">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ULLRICH_Sabine__Aufdecken_von__versteckten__Einfl_ssen__Teil">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main"> Aufdecken von “versteckten” Einflüssen: Teil-Automatisierte Textgenetische Prozesse mit Methoden der Computerlinguistik und des Machine Learning</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__sabine-ullrich-campus-lmu-de">
                     <persName>
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>sabine.ullrich@campus.lmu.de</email>
                 </author>
-                <author>
+                <author ref="#person__dmb77-cam-ac-uk">
                     <persName>
                         <surname>Bruder</surname>
                         <forename>Daniel</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Universität Cambridge, Vereinigtes Königreich</affiliation>
                     <email>dmb77@cam.ac.uk</email>
                 </author>
-                <author>
+                <author ref="#person__maximilian-cis-uni-muenchen-de">
                     <persName>
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>
@@ -137,46 +135,46 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1670">
                         <hi rend="bold">Abdalgader, Khaled / Skabar, Andrew</hi>(2010): “Short-text similarity measurement using word sense disambiguation and synonym expansion.”, in: 
                         <hi rend="italic">Australasian Joint Conference on Articial Intelligence</hi>, Springer 435-444.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1671">
                         <anchor xml:id="id_productTitle"/>
                         <anchor xml:id="id_title"/>
                         <hi rend="bold">Biesenbach, Hans </hi>(2014): 
                         <hi rend="italic">Anspielungen und Zitate im Werk Ludwig Wittgensteins</hi>,
                         <hi rend="italic"> </hi>Sofia University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1672">
                         <hi rend="bold">Ekbal, Asif / Saha, Sriparna / Choudhary, Gaurav</hi> (2012): “Plagiarism detection in text using vector space model.”, in: 
                         <hi rend="italic">Hybrid Intelligent Systems</hi> (HIS), 2012 12th International Conference on, pages 366-371. IEEE.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__134">
                         <hi rend="bold">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind, L.</hi> (2014): 
                         <hi rend="italic">Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST).</hi> DATeH. Madrid.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1673">
                         <hi rend="bold">C.K. Kent / N. Salim </hi>(2010): „Features based text similarity detection.“, in: 
                         <hi rend="italic">Journal of Computing</hi>, 2 (1).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1674">
                         <hi rend="bold">Pichler, Alois / Krüger, Heinz W. / Smith, D. / Bruvik, Tone / Lindebjerg, Anne / Olstad, Vemund </hi>(Hrsg.) (2009): 
                         <hi rend="italic">Wittgenstein Source Bergen Facsimile (BTE)</hi>. Wittgenstein Source Bergen.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1675">
                         <hi rend="bold">Sadowski, Caitlin / Levin, Greg</hi> (2007): 
                         <hi rend="italic">Simhash: Hash-based similarity detection</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1676">
                         <hi rend="bold">Tomita, Junji / Nakawatase, Hidekazu / Ishii, Megumi </hi>(2004): „Calculating similarity between texts using graph-based text representation model”, in: 
                         <hi rend="italic">Proceedings of the thirteenth ACM international conference on Information and knowledge management</hi>, pages 248-249. ACM.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1677">
                         <hi rend="bold">Ullrich, Sabine </hi>(2017): 
                         <hi rend="italic">Evaluation of Existing Plagiarism Research for the Optimisation of NLP-based Similarity Detection using Ludwig Wittgenstein's Remarks,</hi> Bachelor thesis, Ludwig-Maximilians-Universität München.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1678">
                         <hi rend="bold">Wittgenstein, Ludwig / Nedo, Michael (Hrsg.)</hi> (1996): 
                         <hi rend="italic">Wiener Ausgabe</hi>. Band 1-5.
                     </bibl>

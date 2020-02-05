@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="L_CKER_HERSCHKOWITZ_Johannes_A__Fachspezifische_Herausforder">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L_CKER_HERSCHKOWITZ_Johannes_A__Fachspezifische_Herausforder">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Fachspezifische Herausforderungen in der Realisierung des webbasierten digitalen Archivs THESPIS.DIGITAL</title>
-                <author>
+                <author ref="#person__j-a-loecker-herschkowitz-univie-ac-at">
                     <persName>
                         <surname>Löcker-Herschkowitz</surname>
                         <forename>Johannes A.</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Wien, Österreich</affiliation>
                     <email>j.a.loecker-herschkowitz@univie.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__christian-wagner-univie-ac-at">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Christian</forename>

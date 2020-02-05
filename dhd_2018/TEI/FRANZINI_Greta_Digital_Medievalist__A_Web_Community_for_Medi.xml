@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="FRANZINI_Greta_Digital_Medievalist__A_Web_Community_for_Medi">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRANZINI_Greta_Digital_Medievalist__A_Web_Community_for_Medi">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Digital Medievalist: A Web Community for Medievalists working with Digital Media</title>
-                <author>
+                <author ref="#person__gfranzini-etrap-eu">
                     <persName>
                         <surname>Franzini</surname>
                         <forename>Greta</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Georg-August-Universität Göttingen</affiliation>
                     <email>gfranzini@etrap.eu</email>
                 </author>
-                <author>
+                <author ref="#person__franz-fischer-uni-koeln-de">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität zu Köln</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__mike-kestemont-uantwerpen-be">
                     <persName>
                         <surname>Kestemont</surname>
                         <forename>Mike</forename>
@@ -152,29 +150,29 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliography</head>
-                    <bibl><hi rend="bold">Bodard, G., O’Donnell, D. </hi>(2008) ‘We are all together: On publishing a Digital Classicist issue of the Digital Medievalist journal’, 
+                    <bibl ref="#bibl__164"><hi rend="bold">Bodard, G., O’Donnell, D. </hi>(2008) ‘We are all together: On publishing a Digital Classicist issue of the Digital Medievalist journal’, 
                         <hi rend="italic">Digital Medievalist</hi>, 4. DOI: http://doi.org/10.16995/dm.18
                     </bibl>
-                    <bibl><hi rend="bold">Digital Medievalist website</hi>: 
+                    <bibl ref="#bibl__165"><hi rend="bold">Digital Medievalist website</hi>: 
                         https://digitalmedievalist.wordpress.com/</bibl>
-                    <bibl><hi rend="bold">Digital Medievalist journal</hi>: 
+                    <bibl ref="#bibl__166"><hi rend="bold">Digital Medievalist journal</hi>: 
                         https://journal.digitalmedievalist.org/</bibl>
-                    <bibl><hi rend="bold">Digital Medievalist mailing list</hi>: 
+                    <bibl ref="#bibl__167"><hi rend="bold">Digital Medievalist mailing list</hi>: 
                         https://digitalmedievalist.wordpress.com/mailing-list/</bibl>
-                    <bibl><hi rend="bold">Digital Medievalist on Facebook</hi>: 
+                    <bibl ref="#bibl__168"><hi rend="bold">Digital Medievalist on Facebook</hi>: 
                         https://www.facebook.com/groups/49320313760/</bibl>
-                    <bibl><hi rend="bold">Digital Medievalist on Twitter</hi>: 
+                    <bibl ref="#bibl__169"><hi rend="bold">Digital Medievalist on Twitter</hi>: 
                         https://twitter.com/digitalmedieval</bibl>
-                    <bibl><hi rend="bold">European Alliance for Social Sciences and Humanities</hi>: http://www.eassh.eu/</bibl>
-                    <bibl><hi rend="bold">Mahony, S. </hi>(2017) ‘The Digital Classicist: Building a Digital Humanities Community’, 
+                    <bibl ref="#bibl__170"><hi rend="bold">European Alliance for Social Sciences and Humanities</hi>: http://www.eassh.eu/</bibl>
+                    <bibl ref="#bibl__171"><hi rend="bold">Mahony, S. </hi>(2017) ‘The Digital Classicist: Building a Digital Humanities Community’, 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 11(3). At: http://www.digitalhumanities.org/dhq/vol/11/3/000335/000335.html
                     </bibl>
-                    <bibl><hi rend="bold">Open Library of Humanities</hi>: https://www.openlibhums.org/</bibl>
-                    <bibl><hi rend="bold">Open Scholarly Communities on the Web</hi>, ISCH COST Action A32. At: http://www.cost.eu/COST_Actions/isch/A32 </bibl>
-                    <bibl><hi rend="bold">Ross, C. </hi>(2012) ‘Social media for digital humanities and community engagement’, In C. Warwick, M. Terras and J. Nyhan (eds.) 
+                    <bibl ref="#bibl__172"><hi rend="bold">Open Library of Humanities</hi>: https://www.openlibhums.org/</bibl>
+                    <bibl ref="#bibl__173"><hi rend="bold">Open Scholarly Communities on the Web</hi>, ISCH COST Action A32. At: http://www.cost.eu/COST_Actions/isch/A32 </bibl>
+                    <bibl ref="#bibl__174"><hi rend="bold">Ross, C. </hi>(2012) ‘Social media for digital humanities and community engagement’, In C. Warwick, M. Terras and J. Nyhan (eds.) 
                         <hi rend="italic">Digital Humanities in Practice</hi>. Facet Publishing, pp. 23-46.
                     </bibl>
-                    <bibl><hi rend="bold">Terras, M. </hi>(2012) ‘The Impact of Social Media on the Dissemination of Research: Results of an Experiment’, 
+                    <bibl ref="#bibl__0"><hi rend="bold">Terras, M. </hi>(2012) ‘The Impact of Social Media on the Dissemination of Research: Results of an Experiment’, 
                         <hi rend="italic">Journal of Digital Humanities</hi>, 1(3). At: http://journalofdigitalhumanities.org/1-3/the-impact-of-social-media-on-the-dissemination-of-research-by-melissa-terras/
                     </bibl>
                 </listBibl>

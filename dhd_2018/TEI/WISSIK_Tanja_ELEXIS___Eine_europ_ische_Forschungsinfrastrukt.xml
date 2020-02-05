@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WISSIK_Tanja_ELEXIS___Eine_europ_ische_Forschungsinfrastrukt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WISSIK_Tanja_ELEXIS___Eine_europ_ische_Forschungsinfrastrukt">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>ELEXIS – Eine europäische Forschungsinfrastruktur für lexikographische Daten</title>
-                <author>
+                <author ref="#person__tanja-wissik-oeaw-ac-at">
                     <persName>
                         <surname>Wissik</surname>
                         <forename>Tanja</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>Tanja.Wissik@oeaw.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__simon-krek-guest-arnes-si">
                     <persName>
                         <surname>Krek</surname>
                         <forename>Simon</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Institut Josef Sefan, Slowenien</affiliation>
                     <email>simon.krek@guest.arnes.si</email>
                 </author>
-                <author>
+                <author ref="#person__milos-jakubicek-sketchengine-co-uk">
                     <persName>
                         <surname>Jakubicek</surname>
                         <forename>Milos</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Lexical Computing CZ s.r.o.,Tschechien</affiliation>
                     <email>milos.jakubicek@sketchengine.co.uk</email>
                 </author>
-                <author>
+                <author ref="#person__carole-tiberius-inl-nl">
                     <persName>
                         <surname>Tiberius</surname>
                         <forename>Carole</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Instituut voor Nederlandse Lexicologie, Niederlande</affiliation>
                     <email>carole.tiberius@inl.nl</email>
                 </author>
-                <author>
+                <author ref="#person__navigli-di-uniroma1-it">
                     <persName>
                         <surname>Navigli</surname>
                         <forename>Roberto</forename>
@@ -45,7 +43,7 @@
                     <affiliation>Università degli Studi di Roma La Spienza, Italien</affiliation>
                     <email>navigli@di.uniroma1.it</email>
                 </author>
-                <author>
+                <author ref="#person__john-mccr-ae">
                     <persName>
                         <surname>McCrae</surname>
                         <forename>John</forename>
@@ -53,7 +51,7 @@
                     <affiliation>National Universtiy of Ireland, Galway Irland</affiliation>
                     <email>john@mccr.ae</email>
                 </author>
-                <author>
+                <author ref="#person__ttasovac-humanistika-org">
                     <persName>
                         <surname>Tasovac</surname>
                         <forename>Toma</forename>
@@ -61,7 +59,7 @@
                     <affiliation>Centar za digitalne humanističke nauke, Serbien</affiliation>
                     <email>ttasovac@humanistika.org</email>
                 </author>
-                <author>
+                <author ref="#person__varadi-nytud-hu">
                     <persName>
                         <surname>Varadi</surname>
                         <forename>Tamas</forename>
@@ -69,7 +67,7 @@
                     <affiliation>Magyar Tudományos Akadémia,Ungarn</affiliation>
                     <email>varadi@nytud.hu</email>
                 </author>
-                <author>
+                <author ref="#person__svetla-dcl-bas-bg">
                     <persName>
                         <surname>Koeva</surname>
                         <forename>Svetla</forename>
@@ -77,7 +75,7 @@
                     <affiliation>Institute for Bulgarian Language, Bulgarien</affiliation>
                     <email>svetla@dcl.bas.bg</email>
                 </author>
-                <author>
+                <author ref="#person__rute-costa-fcsh-unl-pt">
                     <persName>
                         <surname>Costa</surname>
                         <forename>Rute</forename>
@@ -85,7 +83,7 @@
                     <affiliation>Universidade Nova de Lisboa, Portugal</affiliation>
                     <email>rute.costa@fcsh.unl.pt</email>
                 </author>
-                <author>
+                <author ref="#person__ilan-kdictionaries-com">
                     <persName>
                         <surname>Kernerman</surname>
                         <forename>Ilan</forename>
@@ -93,7 +91,7 @@
                     <affiliation>K Dictionaries Ltd., Israel</affiliation>
                     <email>ilan@kdictionaries.com</email>
                 </author>
-                <author>
+                <author ref="#person__monica-monachini-ilc-cnr-it">
                     <persName>
                         <surname>Monachini</surname>
                         <forename>Monica</forename>
@@ -101,7 +99,7 @@
                     <affiliation>Consiglio Nazionale delle Ricerche, Italien</affiliation>
                         <email>monica.monachini@ilc.cnr.it</email>
                 </author>
-                <author>
+                <author ref="#person__ltj-dsl-dk">
                     <persName>
                         <surname>Trap-Jensen</surname>
                         <forename>Lars</forename>
@@ -109,7 +107,7 @@
                     <affiliation>Det Danske Sprog- og Litteraturselskab, Dänmark</affiliation>
                     <email>ltj@dsl.dk</email>
                 </author>
-                <author>
+                <author ref="#person__vnb282-ku-dk">
                     <persName>
                         <surname>Pedersen</surname>
                         <forename>Bolette S.</forename>
@@ -117,7 +115,7 @@
                     <affiliation>Kobenhavns Universitet, Dänemark</affiliation>
                     <email>vnb282@ku.dk</email>
                 </author>
-                <author>
+                <author ref="#person__hildenbr-uni-trier-de">
                     <persName>
                         <surname>Hildenbrandt</surname>
                         <forename>Vera</forename>
@@ -125,7 +123,7 @@
                     <affiliation>Universität Trier, Deutschland</affiliation>
                     <email>hildenbr@uni-trier.de</email>
                 </author>
-                <author>
+                <author ref="#person__jelena-kallas-eki-ee">
                     <persName>
                         <surname>Kallas</surname>
                         <forename>Jelena</forename>
@@ -133,7 +131,7 @@
                     <affiliation>Eesti Keele Instituut, Estland</affiliation>
                     <email>jelena.kallas@eki.ee</email>
                 </author>
-                <author>
+                <author ref="#person__porta-rae-es">
                     <persName>
                         <surname>Porta-Zamorano</surname>
                         <forename>Jordi</forename>
@@ -216,10 +214,10 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Schreibman, Susan / Ray Siemens, John Unsworth. ed. </hi>(2004): A Companion to Digital Humanites. Oxford: Blackwell.</bibl>
-                    <bibl><hi rend="bold">Oldman, Dominic /Doerr, Martin/ Gradmann, Stefan </hi>(2016): "Zen and the Art of Linked Data: New Strategies for a Semantc Web of Humanist Knowledge", in: Susan Schreibman/Ray Siemens/John Unsworth e. (2016): A New Companion to Digital Humanites, 2nd Editon. 2012. Oxford: Wiley-Blackwell</bibl>
-                    <bibl><hi rend="bold">Navigli Roberto / Ponzeto Simone P. </hi>(2012): "BabelNet: The Automatc Constructon, Evaluaton and Applicaton of a Wide-Coverage Multlingual Semantc Network", in: Artificial Intelligence, 193, Elsevier, 2012, pp. 217-250.</bibl>
-                    <bibl><hi rend="bold">McCrae,  John / Aguado-de-Cea, Guadalupe / Buitelaar, Paul / Cimiano, Philipp / Declerck, Thierry / Gómez-Pérez, Asunción / Gracia, Jorge / Hollink, Laura /Montel-Ponsoda, Elena / Spohr, Dennis / Wunner, Tobias </hi>(2012): "Interchanging lexical resources on the Semantc Web", in: Language Resources and Evaluaton, 46(6), pp 701-709, (2012).</bibl>
+                    <bibl ref="#bibl__7"><hi rend="bold">Schreibman, Susan / Ray Siemens, John Unsworth. ed. </hi>(2004): A Companion to Digital Humanites. Oxford: Blackwell.</bibl>
+                    <bibl ref="#bibl__894"><hi rend="bold">Oldman, Dominic /Doerr, Martin/ Gradmann, Stefan </hi>(2016): "Zen and the Art of Linked Data: New Strategies for a Semantc Web of Humanist Knowledge", in: Susan Schreibman/Ray Siemens/John Unsworth e. (2016): A New Companion to Digital Humanites, 2nd Editon. 2012. Oxford: Wiley-Blackwell</bibl>
+                    <bibl ref="#bibl__895"><hi rend="bold">Navigli Roberto / Ponzeto Simone P. </hi>(2012): "BabelNet: The Automatc Constructon, Evaluaton and Applicaton of a Wide-Coverage Multlingual Semantc Network", in: Artificial Intelligence, 193, Elsevier, 2012, pp. 217-250.</bibl>
+                    <bibl ref="#bibl__896"><hi rend="bold">McCrae,  John / Aguado-de-Cea, Guadalupe / Buitelaar, Paul / Cimiano, Philipp / Declerck, Thierry / Gómez-Pérez, Asunción / Gracia, Jorge / Hollink, Laura /Montel-Ponsoda, Elena / Spohr, Dennis / Wunner, Tobias </hi>(2012): "Interchanging lexical resources on the Semantc Web", in: Language Resources and Evaluaton, 46(6), pp 701-709, (2012).</bibl>
                 </listBibl>
             </div>
       </back>

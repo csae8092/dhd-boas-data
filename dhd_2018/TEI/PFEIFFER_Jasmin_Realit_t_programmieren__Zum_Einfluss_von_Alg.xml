@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="PFEIFFER_Jasmin_Realit_t_programmieren__Zum_Einfluss_von_Alg">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PFEIFFER_Jasmin_Realit_t_programmieren__Zum_Einfluss_von_Alg">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Realität programmieren? Zum Einfluss von Algorithmen auf die Wirklichkeit</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__jasmin-pfeiffer-gmx-de">
                     <persName>
                         <surname>Pfeiffer</surname>
                         <forename>Jasmin</forename>
@@ -105,71 +103,71 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__215">
                         <hi rend="bold">Alpaydin, Ethan</hi>
                          (2016): <hi rend="italic">Machine Learning</hi>, Cambridge, Massachusetts: MIT Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__2">
                         <hi rend="bold">Berry, David M.</hi>
                          (2011): „The Computational Turn: Thinking about the Digital Humanities“, in: 
                         <hi rend="italic">Culture Machine</hi>
                          12: 1–22.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__3">
                         <hi rend="bold">Berry, David M.</hi>
                          (2011):
                         <hi rend="italic">The Philosophy of Software. Code and Mediation in the Digital Age</hi>
                         , New York: Palgrave Macmillan.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__216">
                         <hi rend="bold">Fuller, Matthew</hi>
                          (2008): 
                         <hi rend="italic">Software Studies. A Lexicon</hi>
                         , Cambridge, Massachusetts: MIT Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__217">
                         <hi rend="bold">Holzki, Larissa </hi>
                         (2017): „Frauen sind im Netz schwieriger zu finden“, 
                         <ptr target="http://www.sueddeutsche.de/karriere/frauen-und-karriere-frauen-sind-im-netz-schwieriger-zu-finden-1.3492732"/>
                         , Stand: 24.09.17.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__218">
                         <hi rend="bold">Lemire, Daniel </hi>
                         (2016): „Is software a neutral agent?“,
                         <ptr target="https://lemire.me/blog/2016/04/29/is-software-a-neutral-agent/"/>
                         , Stand: 24.09.17.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__219">
                         <hi rend="bold">Manovich, Lev</hi>
                          (2001): 
                         <hi rend="italic">The Language of New Media</hi>
                         , Cambridge, Massachusetts: MIT Press. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__220">
                         <hi rend="bold">Maschewski, Felix / Nosthoff, Anna-Verena</hi>
                          (2017): „Das Netz ist nie neutral“,
                         <ptr target="https://www.nzz.ch/feuilleton/kuenstliche-intelligenz-digitale-technik-ist-nie-neutral-ld.1302959"/>
                         , Stand: 24.09.17.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__221">
                         <hi rend="bold">O’Neil, Cathy</hi>
                          (2016):
                         <hi rend="italic">Weapons of Math Destruction</hi>
                         , New York: Broadway Books.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__222">
                         <hi rend="bold">Ringen, Lisa</hi>
                          (2017): „Dummer Algorithmus: Als Frau bei Xing gefunden werden“, 
                         <ptr target="https://www.marketing-madam.de/2017/05/02/dummer-algorithmus-als-frau-bei-xing-gefunden-werden/92706211/"/>
                         , Stand: 24.09.17. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__223">
                         <hi rend="bold">Searle, John R. </hi>
                         (1975): 
                         <hi rend="italic">Expression and Meaning. Studies in the Theory of Speech Acts</hi>
                         . Cambridge: Cambridge University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__224">
                         <hi rend="bold">Zhao, Jieyu / Wang, Tainlu / Yatskar, Mark / Ordonez, Vicente / Chang, Kai-Wei</hi>
                          (2017): „Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints“,
                         <ptr target="https://arxiv.org/abs/1707.09457"/>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0" xml:id="intro-004">
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0" xml:id="intro-004">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -28,10 +26,10 @@
           <term>Short Paper</term>
         </keywords>
         <keywords scheme="original" n="topic">
-          <term></term>
+          <term/>
         </keywords>
         <keywords scheme="original" n="keywords">
-          <term></term>
+          <term/>
         </keywords>
       </textClass>
     </profileDesc>
@@ -46,7 +44,7 @@
   <text type="paper" n="single">
     <body>
       <div>
-        <p>&#160;</p>
+        <p> </p>
       </div>
     </body>
   </text>

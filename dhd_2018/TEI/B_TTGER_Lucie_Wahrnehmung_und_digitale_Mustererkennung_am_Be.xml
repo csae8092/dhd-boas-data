@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="B_TTGER_Lucie_Wahrnehmung_und_digitale_Mustererkennung_am_Be">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B_TTGER_Lucie_Wahrnehmung_und_digitale_Mustererkennung_am_Be">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Wahrnehmung und digitale Mustererkennung am Beispiel antiker Terrakottastatuetten</title>
-                <author>
+                <author ref="#person__lucie-boettger-stud-uni-goettingen-de">
                     <persName>
                         <surname>Böttger</surname>
                         <forename>Lucie</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>Lucie.boettger@stud.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__alexander-zeckey-stud-uni-goettingen-de">
                     <persName>
                         <surname>Zeckey</surname>
                         <forename>Alexander</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>alexander.zeckey@stud.uni-goettingen.de</email>
                 </author>
-                <author>
+                <author ref="#person__mlangne-gwdg-de">
                     <persName>
                         <surname>Langner</surname>
                         <forename>Martin</forename>
@@ -114,36 +112,36 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">W. Adams – E. Adams</hi>, Archaeological typology and practical reality. A dialectic approach to artifact classification and sorting (Cambridge 2008)</bibl>
-                    <bibl><hi rend="bold">C. Aggarwal</hi>, Data Mining: The Textbook. Heidelberg: Springer comprehensively discusses a wide variety of methods (Cham 2015)</bibl>
-                    <bibl><hi rend="bold">H. Amann</hi>, 3D object recognition based on surface representations (Neuchâtel 1990)</bibl>
-                    <bibl><hi rend="bold">A. Anguissola</hi>, Styles and genres. "Idealplastik" and the relationship between Greek and Roman sculpture. In: E. A. Friedland, M. Grunow Sobocinski, and E. K. Gazda (Hrsg.), The Oxford handbook of Roman sculpture (Oxford 2015) 240-259</bibl>
-                    <bibl><hi rend="bold">D. Bailey</hi>, Prehistoric Figurines: Representation and Corporeality in the Neolithic (London 2005) Routledge</bibl>
-                    <bibl><hi rend="bold">J. de Beenhouwer</hi>, Datamanagement for moulded ceramics and digital image comparison. A case study of Roman terra cotta figurines. In: Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, Germany, April 2-6, 2007 (Bonn 2008) 160- 163</bibl>
-                    <bibl><hi rend="bold">A. Berger</hi>, What objects mean. An introduction to material culture (Walnut Creek 2009)</bibl>
-                    <bibl><hi rend="bold">C. Bishop</hi>, Pattern Recognition and Machine Learning (Berlin 2006)</bibl>
-                    <bibl><hi rend="bold">L. Burn</hi>, Terracottas. In: T. J. Smith and D. Plantzos (Hrsg.). A companion to Greek art (Malden, Mass. 2012) 221-234</bibl>
-                    <bibl><hi rend="bold">L. De Luca, D. Lo Buglio</hi>, Geometry vs Semantics. Open Issues on 3D Reconstruction of Architectural Elements, In: Ioannides M. and E. Quak (Hrsg.), 3D Research Challenges in Cultural Heritage. A Roadmap in Digital Heritage Preservation (Heidelberg / New York 2014) 36-49 </bibl>
-                    <bibl><hi rend="bold">I. Dryden – K. Mardia</hi>, Statistical Shape Analysis (New York 1998) </bibl>
-                    <bibl><hi rend="bold">A. Erlich</hi>, Terracottas. In: E. A. Friedland, M. G. Sobocinski with E. K. Gazda (Hrsg.), The Oxford handbook of Roman sculpture (Oxford 2015) 155-172</bibl>
-                    <bibl><hi rend="bold">B. Frischer</hi>, 3D data capture, restoration and online publication of sculpture. In: F. Remondino and S. Campana (Hrsg.). 3D Recording and Modelling in Archaeology and Cultural Heritage (Oxford 2014) 137–144</bibl>
-                    <bibl><hi rend="bold">T. Funkhouser – P. Shilane</hi>. 2006. Partial matching of 3d shapes with priority-driven search, In: Proceedings of the fourth Eurographics symposium on Geometry processing, ser. SGP ’06 (Aire-la-Ville 2006) 131–142</bibl>
-                    <bibl><hi rend="bold">A. Gerritsen – G. Riello (Hrsg.)</hi>, Writing material culture history (London 2015)</bibl>
-                    <bibl><hi rend="bold">D. Graepler</hi>, Tonfiguren im Grab : Fundkontexte hellenistischer Terrakotten aus der Nekropole von Tarent (München 1997)</bibl>
-                    <bibl><hi rend="bold">M. Haase</hi>, Votivbilder als Werbemedien? Votivterrakotten aus Gravisca als Zeichenträger in Prozessen symbolischer Interaktion. In: U. Veit, T. L. Kienlin, C. Kümmel et al. (Hrsg.). Spuren und Botschaften. Interpretationen materieller Kultur (New York 2003) 369-383</bibl>
-                    <bibl><hi rend="bold">W. Heilmeyer</hi>, Kunst und Serie. In: K. Junker, A. Stähli and C. Kunze (Hrsg.), Original und Kopie. Formen und Konzepte der Nachahmung in der antiken Kunst. Akten des Kolloquiums in Berlin, 17. - 19. Februar 2005 (Wiesbaden 2008) 243-251</bibl>
-                    <bibl><hi rend="bold">M. Hueting – M. Ovsjanikov – N. J. Mitra</hi>, CrossLink. joint understanding of image and 3D model collections through shape and camera pose variations. ACM Transactions on Graphics (TOG) 34(6), (New York 2015) 233</bibl>
-                    <bibl><hi rend="bold">I. Jolliffe</hi>, Principal Component Analysis, 2nd ed. (Heidelberg 2002)</bibl>
-                    <bibl><hi rend="bold">M. Koortbojian</hi>, Forms of attention. Four notes on replication and variation. In: E. K. Gazda (Hrsg.), The ancient art of emulation. Studies in artistic originality and tradition from the present to classical antiquity (Ann Arbor 2002) 173-204</bibl>
-                    <bibl><hi rend="bold">R. Lesure</hi>, Interpreting Ancient Figurines: Context, Comparison, and Prehistoric Art (Cambridge 2011)</bibl>
-                    <bibl><hi rend="bold">M. Lu – Y. Zhang – B. Zheng</hi> et al. 2013. Portrait sculptures of Augustus: Categorization via local shape comparison. In: 2013 Digital Heritage International Congress (Marseille 2013)</bibl>
-                    <bibl><hi rend="bold">L. Malafouris – C. Renfrew (Hrsg.)</hi>, The cognitive life of things. Recasting the boundaries of the mind (Cambridge 2010) </bibl>
-                    <bibl><hi rend="bold">C. Mattusch</hi>, 2015. Repeated images. Beauty with economy. In: J. Daehner – K. Lapatin (Hrsg.), Power and pathos. Bronze sculpture of the hellenistic world. Exhibition from March 14 to June 21, 2015 (Los Angeles 2015) 111-125</bibl>
-                    <bibl><hi rend="bold">S. Rotroff</hi>, Three centuries of hellenistic terracottas. Preface. A chronological commentary on the contexts. In: H. A. Thompson and D. B. Thompson (Hrsg.). Hellenistic pottery and terracottas (Princeton 1987) 183-194</bibl>
-                    <bibl><hi rend="bold">F. Rumscheid</hi>, Die hellenistischen Wohnhäuser von Priene. Befunde, Funde und Raumfunktionen, in: Annete Haug – Dirk Steuernagel (Hrsg.), Hellenistische Häuser und ihre Funktionen. Internationale Tagung Kiel, 4. bis 6. April 2013 (Bonn 2014) 143–160</bibl>
-                    <bibl><hi rend="bold">A. Tal</hi>, 3D Shape Analysis for Archaeology. In: Ioannides M. and E. Quak (Hrsg.). 3D Research Challenges in Cultural Heritage. A Roadmap in Digital Heritage Preservation (Heidelberg / New York 2014) 50-63</bibl>
-                    <bibl><hi rend="bold">G. Taylor – L. Kleeman</hi>, Visual Perception and Robotic Manipulation: 3D Object Recognition, Tracking and Hand-Eye Coordination (Heidelberg 2006) </bibl>
-                    <bibl><hi rend="bold">F. Winter</hi>, Die Typen der figürlichen Terrakotten, Die antiken Terrakotten III (Berlin 1903) (http://digi.ub.uni-heidelberg.de/diglit/winter1903)</bibl>
+                    <bibl ref="#bibl__1417"><hi rend="bold">W. Adams – E. Adams</hi>, Archaeological typology and practical reality. A dialectic approach to artifact classification and sorting (Cambridge 2008)</bibl>
+                    <bibl ref="#bibl__1418"><hi rend="bold">C. Aggarwal</hi>, Data Mining: The Textbook. Heidelberg: Springer comprehensively discusses a wide variety of methods (Cham 2015)</bibl>
+                    <bibl ref="#bibl__1419"><hi rend="bold">H. Amann</hi>, 3D object recognition based on surface representations (Neuchâtel 1990)</bibl>
+                    <bibl ref="#bibl__1420"><hi rend="bold">A. Anguissola</hi>, Styles and genres. "Idealplastik" and the relationship between Greek and Roman sculpture. In: E. A. Friedland, M. Grunow Sobocinski, and E. K. Gazda (Hrsg.), The Oxford handbook of Roman sculpture (Oxford 2015) 240-259</bibl>
+                    <bibl ref="#bibl__1421"><hi rend="bold">D. Bailey</hi>, Prehistoric Figurines: Representation and Corporeality in the Neolithic (London 2005) Routledge</bibl>
+                    <bibl ref="#bibl__1422"><hi rend="bold">J. de Beenhouwer</hi>, Datamanagement for moulded ceramics and digital image comparison. A case study of Roman terra cotta figurines. In: Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, Germany, April 2-6, 2007 (Bonn 2008) 160- 163</bibl>
+                    <bibl ref="#bibl__1423"><hi rend="bold">A. Berger</hi>, What objects mean. An introduction to material culture (Walnut Creek 2009)</bibl>
+                    <bibl ref="#bibl__1424"><hi rend="bold">C. Bishop</hi>, Pattern Recognition and Machine Learning (Berlin 2006)</bibl>
+                    <bibl ref="#bibl__1425"><hi rend="bold">L. Burn</hi>, Terracottas. In: T. J. Smith and D. Plantzos (Hrsg.). A companion to Greek art (Malden, Mass. 2012) 221-234</bibl>
+                    <bibl ref="#bibl__1426"><hi rend="bold">L. De Luca, D. Lo Buglio</hi>, Geometry vs Semantics. Open Issues on 3D Reconstruction of Architectural Elements, In: Ioannides M. and E. Quak (Hrsg.), 3D Research Challenges in Cultural Heritage. A Roadmap in Digital Heritage Preservation (Heidelberg / New York 2014) 36-49 </bibl>
+                    <bibl ref="#bibl__1427"><hi rend="bold">I. Dryden – K. Mardia</hi>, Statistical Shape Analysis (New York 1998) </bibl>
+                    <bibl ref="#bibl__1428"><hi rend="bold">A. Erlich</hi>, Terracottas. In: E. A. Friedland, M. G. Sobocinski with E. K. Gazda (Hrsg.), The Oxford handbook of Roman sculpture (Oxford 2015) 155-172</bibl>
+                    <bibl ref="#bibl__1429"><hi rend="bold">B. Frischer</hi>, 3D data capture, restoration and online publication of sculpture. In: F. Remondino and S. Campana (Hrsg.). 3D Recording and Modelling in Archaeology and Cultural Heritage (Oxford 2014) 137–144</bibl>
+                    <bibl ref="#bibl__1430"><hi rend="bold">T. Funkhouser – P. Shilane</hi>. 2006. Partial matching of 3d shapes with priority-driven search, In: Proceedings of the fourth Eurographics symposium on Geometry processing, ser. SGP ’06 (Aire-la-Ville 2006) 131–142</bibl>
+                    <bibl ref="#bibl__1431"><hi rend="bold">A. Gerritsen – G. Riello (Hrsg.)</hi>, Writing material culture history (London 2015)</bibl>
+                    <bibl ref="#bibl__1432"><hi rend="bold">D. Graepler</hi>, Tonfiguren im Grab : Fundkontexte hellenistischer Terrakotten aus der Nekropole von Tarent (München 1997)</bibl>
+                    <bibl ref="#bibl__1433"><hi rend="bold">M. Haase</hi>, Votivbilder als Werbemedien? Votivterrakotten aus Gravisca als Zeichenträger in Prozessen symbolischer Interaktion. In: U. Veit, T. L. Kienlin, C. Kümmel et al. (Hrsg.). Spuren und Botschaften. Interpretationen materieller Kultur (New York 2003) 369-383</bibl>
+                    <bibl ref="#bibl__1434"><hi rend="bold">W. Heilmeyer</hi>, Kunst und Serie. In: K. Junker, A. Stähli and C. Kunze (Hrsg.), Original und Kopie. Formen und Konzepte der Nachahmung in der antiken Kunst. Akten des Kolloquiums in Berlin, 17. - 19. Februar 2005 (Wiesbaden 2008) 243-251</bibl>
+                    <bibl ref="#bibl__1435"><hi rend="bold">M. Hueting – M. Ovsjanikov – N. J. Mitra</hi>, CrossLink. joint understanding of image and 3D model collections through shape and camera pose variations. ACM Transactions on Graphics (TOG) 34(6), (New York 2015) 233</bibl>
+                    <bibl ref="#bibl__1436"><hi rend="bold">I. Jolliffe</hi>, Principal Component Analysis, 2nd ed. (Heidelberg 2002)</bibl>
+                    <bibl ref="#bibl__1437"><hi rend="bold">M. Koortbojian</hi>, Forms of attention. Four notes on replication and variation. In: E. K. Gazda (Hrsg.), The ancient art of emulation. Studies in artistic originality and tradition from the present to classical antiquity (Ann Arbor 2002) 173-204</bibl>
+                    <bibl ref="#bibl__1438"><hi rend="bold">R. Lesure</hi>, Interpreting Ancient Figurines: Context, Comparison, and Prehistoric Art (Cambridge 2011)</bibl>
+                    <bibl ref="#bibl__1439"><hi rend="bold">M. Lu – Y. Zhang – B. Zheng</hi> et al. 2013. Portrait sculptures of Augustus: Categorization via local shape comparison. In: 2013 Digital Heritage International Congress (Marseille 2013)</bibl>
+                    <bibl ref="#bibl__1440"><hi rend="bold">L. Malafouris – C. Renfrew (Hrsg.)</hi>, The cognitive life of things. Recasting the boundaries of the mind (Cambridge 2010) </bibl>
+                    <bibl ref="#bibl__1441"><hi rend="bold">C. Mattusch</hi>, 2015. Repeated images. Beauty with economy. In: J. Daehner – K. Lapatin (Hrsg.), Power and pathos. Bronze sculpture of the hellenistic world. Exhibition from March 14 to June 21, 2015 (Los Angeles 2015) 111-125</bibl>
+                    <bibl ref="#bibl__1442"><hi rend="bold">S. Rotroff</hi>, Three centuries of hellenistic terracottas. Preface. A chronological commentary on the contexts. In: H. A. Thompson and D. B. Thompson (Hrsg.). Hellenistic pottery and terracottas (Princeton 1987) 183-194</bibl>
+                    <bibl ref="#bibl__1443"><hi rend="bold">F. Rumscheid</hi>, Die hellenistischen Wohnhäuser von Priene. Befunde, Funde und Raumfunktionen, in: Annete Haug – Dirk Steuernagel (Hrsg.), Hellenistische Häuser und ihre Funktionen. Internationale Tagung Kiel, 4. bis 6. April 2013 (Bonn 2014) 143–160</bibl>
+                    <bibl ref="#bibl__1444"><hi rend="bold">A. Tal</hi>, 3D Shape Analysis for Archaeology. In: Ioannides M. and E. Quak (Hrsg.). 3D Research Challenges in Cultural Heritage. A Roadmap in Digital Heritage Preservation (Heidelberg / New York 2014) 50-63</bibl>
+                    <bibl ref="#bibl__1445"><hi rend="bold">G. Taylor – L. Kleeman</hi>, Visual Perception and Robotic Manipulation: 3D Object Recognition, Tracking and Hand-Eye Coordination (Heidelberg 2006) </bibl>
+                    <bibl ref="#bibl__1446"><hi rend="bold">F. Winter</hi>, Die Typen der figürlichen Terrakotten, Die antiken Terrakotten III (Berlin 1903) (http://digi.ub.uni-heidelberg.de/diglit/winter1903)</bibl>
                 </listBibl>
             </div>
       </back>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="GODLER_Katharina_musilonline___integral_l_sen__Dialogfeld_Di">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GODLER_Katharina_musilonline___integral_l_sen__Dialogfeld_Di">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>musilonline - integral lösen. Dialogfeld Digitale Edition</title>
-                <author>
+                <author ref="#person__anke-bosse-aau-at">
                     <persName>
                         <surname>Bosse</surname>
                         <forename>Anke</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>anke.bosse@aau.at</email>
                 </author>
-                <author>
+                <author ref="#person__walter-fanta-aau-at">
                     <persName>
                         <surname>Fanta</surname>
                         <forename>Walter</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>walter.fanta@aau.at</email>
                 </author>
-                <author>
+                <author ref="#person__katharina-godler-aau-at">
                     <persName>
                         <surname>Godler</surname>
                         <forename>Katharina</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>katharina.godler@aau.at</email>
                 </author>
-                <author>
+                <author ref="#person__bruening-em-uni-frankfurt-de">
                     <persName>
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Goethe-Universität Frankfurt / Freies Deutsches Hochstift</affiliation>
                     <email>Bruening@em.uni-frankfurt.de</email>
                 </author>
-                <author>
+                <author ref="#person__artur-boelderl-aau-at">
                     <persName>
                         <surname>Boelderl</surname>
                         <forename>Artur</forename>
@@ -169,35 +167,35 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__247">
                         <hi rend="bold">Burghart, Marjorie</hi> (2017): 
                         <hi rend="italic">Creating a Scholarly Digital Edition with the Text Encoding Initiative. </hi>Demm: 
                         <ref target="https://www.digitalmanuscripts.eu/digital-editing-of-medieval-texts-a-textbook/">https://www.digitalmanuscripts.eu/digital-editing-of-medieval-texts-a-textbook/</ref> (letzer Zugriff 12. Jänner 2018)
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__248">
                         <hi rend="bold">Burnard, Lou</hi> (2014): 
                         <hi rend="italic">What Is the Text Encoding Initiative? How to Add Intelligent Markup to Digital Resources</hi>. Encyclopédie Numérique. Marseille: OpenEdition Press: 
                         <ref target="http://books.openedition.org/oep/426">http://books.openedition.org/oep/426</ref> (Letzter Zugriff 12. Jänner 2018)
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__8">
                         <hi rend="bold">Fanta, Walter</hi> (2016): 
                         <hi rend="italic">"Editionsgeschichte.",</hi>in: 
                         <hi rend="bold">Nübel, Birgit/ </hi>Wolf, Norbert Christian:
                         <hi rend="italic">Robert-Musil-Handbuch</hi>. Berlin: Walter de Gruyter, S. 799-810.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__8">
                         <hi rend="bold">Fanta, Walter</hi> (2016): 
                         <hi rend="italic">"Nachlass.",</hi>in: 
                         <hi rend="bold">Nübel, Birgit/ Wolf, Norbert Christian (eds):
                         </hi>
                         <hi rend="italic">Robert-Musil-Handbuch</hi>. Berlin: Walter de Gruyter, S. 470-497.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__249">
                         <hi rend="bold">Fanta, Walter</hi> (2010): 
                         <hi rend="italic">"Robert Musil – Klagenfurter Ausgabe.",</hi>in: 
                         <hi rend="italic">editio</hi>, S. 117-148.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__250">
                         <hi rend="bold">Fanta, Walter</hi> (2011): 
                         <hi rend="italic">"Zur Immortalität elektronischer Korpora am Beispiel der Musil-Edition.",</hi>in: 
                         <hi rend="bold">Braungart, Georg / Gendolla, Peter</hi> /
@@ -205,18 +203,18 @@
                         <hi rend="italic">Jahrbuch für Computerphilologie online: </hi>
                         <ref target="http://computerphilologie.tu-darmstadt.de/jg09/fanta.html">http://computerphilologie.tu-darmstadt.de/jg09/fanta.html</ref> (letzter Zugriff 12. Jänner 2018)
                     </bibl>
-                    <bibl rend="Plain Text">
+                    <bibl rend="Plain Text" ref="#bibl__251">
                         <hi rend="bold">Fanta, Walter</hi> (2008): 
                         <hi rend="italic">"Das Zögern vor dem letzten Schritt. Zur digitalen Edition von Robert Musils „Mann ohne Eigenschaften",</hi> in: 
                         <hi rend="bold">Golz, Jochen</hi> /
                         <hi rend="bold"> Koltes, Manfred</hi> (eds.): 
                         <hi rend="italic">Autoren und Redaktoren als Editoren - Tagung der Arbeitsgemeinschaft für germanistische Edition an der Klassik Stiftung Weimar</hi>, Tübingen: Max Niemeyer Verlag, S. 342-352
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__9">
                         <hi rend="bold">Pierazzo, Elena</hi> (2015): 
                         <hi rend="italic">Digital Scholarly Editing: Theories, Models and Methods.</hi> Farnham, Surrey; Burlington, VT: Ashgate.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__252">
                         <hi rend="bold">Sperberg-McQueen, C.M. / Burnard, Lou</hi> (2017): 
                         <hi rend="italic">TEI P5: Guidelines for Electronic Text Encoding and Interchange.</hi> Text Encoding Initiative Consortium.
                     </bibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KESSLER_Linda_Entit_ten_im_Fokus_am_Beispiel_von_Captivity_N">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KESSLER_Linda_Entit_ten_im_Fokus_am_Beispiel_von_Captivity_N">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Entitäten im Fokus am Beispiel von Captivity Narratives</title>
-                <author>
+                <author ref="#person__st150918-stud-uni-stuttgart-de">
                     <persName>
                         <surname>Kessler</surname>
                         <forename>Linda</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>st150918@stud.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__st151509-stud-uni-stuttgart-de">
                     <persName>
                         <surname>Braun</surname>
                         <forename>Tamara</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>st151509@stud.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__st102459-stud-uni-stuttgart-de">
                     <persName>
                         <surname>Preuß</surname>
                         <forename>Tanja</forename>
@@ -109,21 +107,13 @@
             <p>Abschließend lässt sich festhalten, dass auf Grundlage unserer Annotationen eine Abgrenzung der im Text auftretenden Gruppen anhand von emotionsgeladenen Wörtern möglich ist, die der erwarteten negativen Haltung der Verfasser gegenüber den Eingeborenen Nordamerikas entspricht.</p>
             <p>Die von CRETA entwickelten Annotationsrichtlinien sind grundsätzlich auf die von uns analysierten Texte anwendbar, trotz abweichender Sprache und spezifischer Erzählweise. Um die Breite der enthaltenen Entitätsreferenzen vollständig abbilden zu können, bedarf es allerdings einzelner Spezifizierungen der Annotationsrichtlinien für diese Textsorte. </p>
             <figure>
-                <graphic n="1001"
-                     width="12.78086388888889cm"
-                     height="9.567333333333334cm"
-                     rend="inline"
-                     url="KESSLER_Linda_Entit_ten_im_Fokus_am_Beispiel_von_Captivity_N-image1.jpg"/>
+                <graphic n="1001" width="12.78086388888889cm" height="9.567333333333334cm" rend="inline" url="KESSLER_Linda_Entit_ten_im_Fokus_am_Beispiel_von_Captivity_N-image1.jpg"/>
                 <head>Abbildung 1: Ergebnisse der Cluster-Analyse: Indianer
                 </head>
             </figure>
             <p>
                 <figure>
-                    <graphic n="1002"
-                     width="12.784666666666666cm"
-                     height="9.072716666666667cm"
-                     rend="inline"
-                     url="KESSLER_Linda_Entit_ten_im_Fokus_am_Beispiel_von_Captivity_N-image2.jpg"/>
+                    <graphic n="1002" width="12.784666666666666cm" height="9.072716666666667cm" rend="inline" url="KESSLER_Linda_Entit_ten_im_Fokus_am_Beispiel_von_Captivity_N-image2.jpg"/>
                     <head>Abbildung 2: Ergebnisse der Cluster-Analyse: Andere
                     </head> 
                 </figure>
@@ -139,12 +129,12 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): “An End-to-end Environment for Research Question-Driven Entity Extraction and Network Analysis”, in: 
+                    <bibl ref="#bibl__24"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): “An End-to-end Environment for Research Question-Driven Entity Extraction and Network Analysis”, in: 
                         <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, 57–67, Vancouver, Canada. Association for Computational Linguistics.
                     </bibl>
-                    <bibl><hi rend="bold">Jannidis, Fotis / Krug, Markus / Toepfer, Martin / Puppe, Frank / Reger, Isabelle / Weimer, Lukas </hi>(2015): “Automatische Erkennung von Figuren in deutschsprachigen Romanen“. Abstract für die DHd 2015 in Graz.</bibl>
-                    <bibl><hi rend="bold">Kuhn, Jonas / Alexiadou, Artemis / Braun, Manuel / Ertl, Thomas / Holtz, Sabine / Kantner, Catleen, . . . Zittel, Claus </hi>(2016): “CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities“. Abstract für die DHd 2016 in Leipzig.</bibl>
-                    <bibl><hi rend="bold">Nadeau, David / Sekine, Satoshi </hi>(2007): “A survey of named entity recognition and classification. 
+                    <bibl ref="#bibl__662"><hi rend="bold">Jannidis, Fotis / Krug, Markus / Toepfer, Martin / Puppe, Frank / Reger, Isabelle / Weimer, Lukas </hi>(2015): “Automatische Erkennung von Figuren in deutschsprachigen Romanen“. Abstract für die DHd 2015 in Graz.</bibl>
+                    <bibl ref="#bibl__663"><hi rend="bold">Kuhn, Jonas / Alexiadou, Artemis / Braun, Manuel / Ertl, Thomas / Holtz, Sabine / Kantner, Catleen, . . . Zittel, Claus </hi>(2016): “CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities“. Abstract für die DHd 2016 in Leipzig.</bibl>
+                    <bibl ref="#bibl__664"><hi rend="bold">Nadeau, David / Sekine, Satoshi </hi>(2007): “A survey of named entity recognition and classification. 
                         <hi rend="italic">Linguisticae Investigationes”</hi>, 
                         <hi rend="italic">30</hi>, 3-26.
                     </bibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="HOMBURG_Timo_Semantische_Extraktion_auf_antiken_Schriften_am">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HOMBURG_Timo_Semantische_Extraktion_auf_antiken_Schriften_am">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Semantische Extraktion auf antiken Schriften am Beispiel von Keilschriftsprachen mithilfe semantischer Wörterbücher</title>
-                <author>
+                <author ref="#person__timo-homburg-gmx-de">
                     <persName>
                         <surname>Homburg</surname>
                         <forename>Timo</forename>
@@ -99,19 +97,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1679">
                         <hi rend="bold">Inglese, G.</hi> (2015): “Towards a hittite treebank. basic challenges and methodological remarks.” In: Corpus-Based Research in the Humanities (CRH) p. 59 1.1
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__135">
                         <hi rend="bold">Homburg, T.</hi> (2017): “Postagging and semantic dictionary creation for Hittite cuneiform.” In:DH2017 (2017)
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__136">
                         <hi rend="bold">Homburg, T., Chiarcos, C.</hi> (2016): “Word segmentation for Akkadian cuneiform.” In: LREC2016 1.1
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__137">
                         <hi rend="bold">Homburg, T., Chiarcos, C., Richter T., Wicke, D.</hi> (2015): “Learning Cuneiform the Modern Way.” In: DhD2015 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1680">
                         <hi rend="bold">Sukhareva, M., Fuscagni, F., Daxenberger, J., Görke, S., Prechel, D., Gurevych,I.</hi> (Aug 2017): “Distantly supervised pos tagging of low-resource languages under extreme data sparsity: The case of Hittite.” In: LaTeCH-CLfL ’17 Proceedings of the 11th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. pp.95–104 1.1
                     </bibl>
                 </listBibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="FRIEDRICHS_Kristina_Digitale_Bildrepositorien___wirkliche_Ar">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FRIEDRICHS_Kristina_Digitale_Bildrepositorien___wirkliche_Ar">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Digitale Bildrepositorien – wirkliche Arbeitserleichterung oder zeitraubend?</title>
-                <author>
+                <author ref="#person__kristina-friedrichs-tu-dresden-de">
                     <persName>
                         <surname>Friedrichs</surname>
                         <forename>Kristina</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>kristina.friedrichs@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__sander-muenster-tu-dresden-de">
                     <persName>
                         <surname>Münster</surname>
                         <forename>Sander</forename>
@@ -21,7 +19,7 @@
                     <affiliation>TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__florian-niebling-uni-wuerzburg-de">
                     <persName>
                         <surname>Niebling</surname>
                         <forename>Florian</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>florian.niebling@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__ferdinand-maiwald-tu-dresden-de">
                     <persName>
                         <surname>Maiwald</surname>
                         <forename>Ferdinand</forename>
@@ -37,7 +35,7 @@
                     <affiliation>TU Dresden, Deutschland</affiliation>
                     <email>ferdinand.maiwald@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonas-bruschke-uni-wuerzburg-de">
                     <persName>
                         <surname>Bruschke</surname>
                         <forename>Jonas</forename>
@@ -45,7 +43,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>jonas.bruschke@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__kristina-barthel-tu-dresden-de">
                     <persName>
                         <surname>Barthel</surname>
                         <forename>Kristina</forename>
@@ -161,56 +159,56 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__818">
                         <anchor xml:id="CTVL001fbea2264f2194b45829b94893c4c3e22"/>
                         <hi rend="bold">Bauer, Elke </hi>(2015): „Analoge Bildarchive auf dem Weg ins digitale Zeitalter“ in: Irmgard Christa Becker (ed.): 
                         <hi rend="italic">Digitalisierung im Archiv - Neue Wege der Bereitstellung des Archivguts</hi>. Marburg: Archivschule Marburg: 61–74.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__819">
                         <anchor xml:id="CTVL0012f2ba82ac08b42c4bfe75bc3087b775f"/>
                         <hi rend="bold">Beaudoin, Joan / Brady, Jessica </hi>(2011): “Finding Visual Information: A Study of Image Resources Used by Archaeologists, Architects, Art Historians, and Artists” in: 
                         <hi rend="italic">School of Library and Information Science Faculty Research Publications</hi>.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__820">
                         <anchor xml:id="CTVL0011330f73d3c9f42199ca6bdb3d5f7bc3a"/>
                         <hi rend="bold">Kamposiori, Christina </hi>(2012): “Digital Infrastructure for Art Historical Research: thinking about user needs” in: Stuart Dunn (Hg.): 
                         <hi rend="italic">EVA 2012. London, UK, 10 - 12 July 2012</hi>. Swindon: British Computer Soc: 245–253. 
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__17">
                         <anchor xml:id="CTVL0014750ed18a9934df798210033f26b1762"/>
                         <hi rend="bold">Kohle, Hubertus</hi> (2013): 
                         <hi rend="italic">Digitale Bildwissenschaft</hi>. Glückstadt: Hülsbusch. 
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__821">
                         <anchor xml:id="CTVL001b6fa57b30eeb4b86b785e816324ea53f"/>
                         <hi rend="bold">Vietze, Theresa / Schneider, Danilo / Maiwald, Ferdinand</hi> (2017): „Untersuchung der Eignung photogrammetrischer Methoden zur Erzeugung von 3D-Punktwolken aus historischen Bilddatenbeständen“ in: 
                         <hi rend="italic">37. Wissenschaftlich-Technische Jahrestagung der DGPF in Würzburg</hi>, 26/2017.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__822">
                         <hi rend="pubauthors">
                             <hi rend="bold">Brusche, Jonas / Niebling, Florian / Maiwald, Ferdinand / Friedrichs, Kristina / Wacker, Markus / Latoschik, Marc Erich</hi> (2017)
                         </hi>: “
                         <hi rend="pubtitle">Towards Browsing Repositories of Spatially Oriented Historic Photographic Images in 3D Web Environments” i</hi>n: 
                         <hi rend="italic">Proceedings of the 22nd International Conference on 3D Web Technology</hi>. ACM, New York, Article 18. 
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__823">
                         <hi rend="bold">Schindler, Grant / Dellaert, Frank</hi> (2012): “4D cities. Analyzing, visualizing, and interacting with historical urban photo collections” in: 
                         <hi rend="italic">Journal of Multimedia</hi> 7,2: 124-131.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__824">
                         <hi rend="bold">Agarwal, Sameer / Snavely, Noah/ Simon, Ian / Seitz, Steven M. / Szeliski, Richard</hi> (2009): “Building Rome in a day” in: 
                         <hi rend="italic">International Conference on Computer Vision</hi>.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__825">
                         <hi rend="bold">Bitelli, Gabriele / Dellapasqua, M. / Girelli, V. A. / Sbaraglia, S. / Tini, M. A. </hi>(2017): “Historical photogrammetry and terrestrial laser scanning for the virtual 3D reconstruction of destroyed structures: a case study in Italy” in: 
                         <hi rend="italic">GEOMATICS &amp; RESTORATION, Florence, Italy</hi>: 113-119.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__826">
                         <hi rend="bold">Jégou, Hervé / Douze, Mattijs / Schmid, Cordelia</hi> (2010): “Improving bag-of-features for large scale image search” in: 
                         <hi rend="italic">International journal of computer vision</hi>, 
                         <hi rend="italic">87</hi>(3), 316-336.
                     </bibl>
-                    <bibl rend="Citavi Bibliography Entry">
+                    <bibl rend="Citavi Bibliography Entry" ref="#bibl__827">
                         <hi rend="bold">Wan, Ji / Wang, Dayong / Hoi, Steven Chu Hong / Wu, Pengcheng / Zhu, Jianke / Zhang, Yongdong / Li, Jintao</hi> (2014, November): “Deep learning for content-based image retrieval” in: 
                         <hi rend="italic">Proceedings of the 22nd ACM international conference on Multimedia</hi>, 157-166.
                     </bibl>

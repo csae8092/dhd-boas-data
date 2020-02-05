@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="SCH_CH_Christof_Burrows_Zeta__Varianten_und_Evaluation">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCH_CH_Christof_Burrows_Zeta__Varianten_und_Evaluation">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Burrows Zeta: Varianten und Evaluation</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__schoech-uni-trier-de">
                     <persName>
                         <surname>Schöch</surname>
                         <forename>Christof</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Universität Trier, Deutschland</affiliation>
                     <email>schoech@uni-trier.de</email>
                 </author>
-                <author>
+                <author ref="#person__zehe-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Zehe</surname>
                         <forename>Albin</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>zehe@informatik.uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__jose-calvo-uni-wuerzburg-de">
                     <persName>
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>jose.calvo@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__hotho-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
@@ -248,66 +246,66 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1403">
                         <hi rend="bold">Bortz, Jürgen, and Christof Schuster</hi> (2010). 
                         <hi rend="italic">Statistik für Human- und Sozialwissenschaftler</hi>. 7. Auflage. Berlin: Springer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1404">
                         <hi rend="bold">Burrows, John</hi> (2007). “All the Way Through: Testing for Authorship in Different Frequency Strata.” 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 22, no. 1: 27–47. doi:10.1093/llc/fqi067.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__121">
                         <hi rend="bold">Craig, Hugh, and Arthur F. Kinney</hi>, eds. (2009). 
                         <hi rend="italic">Shakespeare, Computers, and the Mystery of Authorship</hi>. 1st ed. Cambridge University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1405">
                         <hi rend="bold">Eder, Maciej, Mike Kestemont, and Jan Rybicki</hi>(2016). “Stylometry with R: A Package for Computational Text Analysis.” 
                         <hi rend="italic">The R Journal</hi> 16, no. 1: 1–15.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1406">
                         <hi rend="bold">Fièvre, Paul</hi>, ed. (2007-2013). “Théâtre classique.” Paris: Université Paris-IV Sorbonne. http://www.theatre-classique.fr.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1407">
                         <hi rend="bold">Gries, Stefan Th.</hi> (2008). “Dispersions and Adjusted Frequencies in Corpora.” 
                         <hi rend="italic">International Journal of Corpus Linguistics</hi> 13, no. 4: 403–37. doi:10.1075/ijcl.13.4.02gri.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1408">
                         <hi rend="bold">Heiden, Serge</hi> (2010). “The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme.” In 
                         <hi rend="italic">24th Pacific Asia Conference on Language, Information and Computation - PACLIC24</hi>, edited by Ryo Otoguro, Kiyoshi Ishikawa, Hiroshi Umemoto, Kei Yoshimoto, and Yasunari Harada, 389–98. Sendai: Waseda University. https://halshs.archives-ouvertes.fr/halshs-00549764/en.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1409">
                         <hi rend="bold">Hoover, David L.</hi> (2010). “Teasing out Authorship and Style with T-Tests and Zeta.” In 
                         <hi rend="italic">Digital Humanities Conference</hi>. London: ADHO. http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-658.html.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1410">
                         <hi rend="bold">Kilgarriff, Adam</hi> (2001). “Comparing Corpora.” 
                         <hi rend="italic">International Journal of Corpus Linguistics</hi> 6, no. 1: 97–133. doi:10.1075/ijcl.6.1.05kil.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1411">
                         <hi rend="bold">Lijffijt, Jefrey, Terttu Nevalainen, Tanja Säily, Panagiotis Papapetrou, Kai Puolamäki, and Heikki Mannila</hi> (2014). “Significance Testing of Word Frequencies in Corpora.” 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> 31, no. 2: 374–97. doi:10.1093/llc/fqu064.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__63">
                         <hi rend="bold">Rayson, Paul, and R. Garside</hi> (2000). “Comparing Corpora Using Frequency Profiling.” In 
                         <hi rend="italic">Proceedings of the Workshop on Comparing Corpora</hi>, 1–6. Hong Kong: ACM.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1412">
                         <hi rend="bold">Robertson, Stephen</hi> (2004). “Understanding Inverse Document Frequency: On Theoretical Arguments for IDF.” 
                         <hi rend="italic">Journal of Documentation</hi> 60, no. 5 : 503–20.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1413">
                         <hi rend="bold">Schöch, Christof</hi> (im Druck). “Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie.” In 
                         <hi rend="italic">Quantitative Verfahren in der Literaturwissenschaft. Von einer Scientia Quantitatis zu den Digital Humanities</hi>, edited by Andrea Albrecht, Sandra Richter, Marcel Lepper, Marcus Willand, and Toni Bernhart. Berlin: de Gruyter. https://cligs.hypotheses.org/files/2017/09/Schoech_2017-preprint_Zeta-fuer-die-kontrastive-Analyse.pdf.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1414">
                         <hi rend="bold">Schöch, Christof, José Calvo Tello, Ulrike Henny-Krahmer, and Stefanie Popp</hi> (angenommen). “The CLiGS Textbox: Building and Using Collections of Literary Texts in Romance Languages Encoded in XML-TEI.” 
                         <hi rend="italic">Journal of the Text Encoding Initiative</hi> http://cligs.hypotheses.org/files/2017/09/Schoech-et-al_2017_Textbox.pdf.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1415">
                         <hi rend="bold">Scott, Mike</hi> (1997). “PC Analysis of Key Words and Key Key Words.” 
                         <hi rend="italic">System</hi> 25, no. 2: 233–45.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1416">
                         <hi rend="bold">Webber, William, Alistair Moffat, and Justin Zobel</hi> (2010). “A Similarity Measure for Indefinite Rankings.” 
                         <hi rend="italic">ACM Trans. Inf. Syst.</hi> 28, no. 4: 20:1–20:38. doi:10.1145/1852102.1852106.
                     </bibl>

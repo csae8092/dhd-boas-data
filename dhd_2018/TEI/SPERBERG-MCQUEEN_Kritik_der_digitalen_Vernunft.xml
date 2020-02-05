@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="SPERBERG-MCQUEEN_Kritik_der_digitalen_Vernunft">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SPERBERG-MCQUEEN_Kritik_der_digitalen_Vernunft">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Kritik der digitalen Vernunft</title>
-                <author>
+                <author ref="#person__cmsmcq-blackmesatech-com">
                     <persName>
                         <surname>Sperberg-McQueen</surname>
                         <forename>C. Michael</forename>

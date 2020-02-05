@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="B_RNER_Ingo_C_sar_Flaischlens__Graphische_Litteratur_Tafel__">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B_RNER_Ingo_C_sar_Flaischlens__Graphische_Litteratur_Tafel__">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Cäsar Flaischlens „Graphische Litteratur-Tafel“ – digitale Erschließung einer großformatigen Karte zur Deutschen Literatur</title>
-                <author>
+                <author ref="#person__ingo-boerner-univie-ac-at">
                     <persName>
                         <surname>Börner</surname>
                         <forename>Ingo</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Wien, Österreich</affiliation>
                     <email>ingo.boerner@univie.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__ffischer-hse-ru">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
@@ -21,7 +19,7 @@
                     <affiliation>National Research University Higher School of Economics, Moskau, Russland</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
-                <author>
+                <author ref="#person__angelika-hechtl-wu-ac-at">
                     <persName>
                         <surname>Hechtl</surname>
                         <forename>Angelika</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Wirtschaftsuniversität Wien, Österreich</affiliation>
                     <email>angelika.hechtl@wu.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__r-jaschke-sheffield-ac-uk">
                     <persName>
                         <surname>Jäschke</surname>
                         <forename>Robert</forename>
@@ -37,7 +35,7 @@
                     <affiliation>University of Sheffield, UK</affiliation>
                     <email>r.jaschke@sheffield.ac.uk</email>
                 </author>
-                <author>
+                <author ref="#person__trilcke-uni-potsdam-de">
                     <persName>
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
@@ -138,20 +136,12 @@
                 <p>Durch eine Analyse des kartographischen Inventars lässt sich das Zeichensystem rekonstruieren, das zudem gängigen kartographischen Konventionen folgt. Beeinflusste und beeinflussende Autoren werden durch Unterstreichung unterschieden. Die Farbe der Unterstreichung entspricht der farblichen Kennzeichnung der Zuflüsse und ordnet somit die Autoren einer der beeinflussenden Nationalliteraturen zu. Durch die Verwendung unterschiedlicher Schriftgrößen wird die „Relevanz“ eines Autors bzw. Textes für die deutsche Literatur zum Ausdruck gebracht. Besonders wichtige deutsche Autoren sind in Konturschrift ausgeführt, vergleichbar der Beschriftung von Städten in Abhängigkeit von ihrer Einwohnerzahl (vgl. Kohlstock 2004: 100). EIne Analyse der Typografie erlaubt es somit, Flaischlens „Verständnis“ der deutschen Literatur zu rekonstruieren.</p>
                 <p>Um die farblich kodierten Informationen der Karte ebenfalls berücksichtigen zu können, wurde ein Zugang über Verfahren aus dem Bereich computergestützter Bildanalyse gewählt. Mittels der Open Source Computer Vision Library (openCV) wurden die Pixel nach Farbbereichen klassifiziert und quantitativ ausgewertet, um die „Einflüsse“ zu messen und ihre Veränderungen im Laufe der Zeit visualisieren zu können. Abbildung 1 zeigt jene Pixel, der Kategorie „rot“ und somit dem französischen Einfluss zugeordnet wurden. </p>
                 <figure>
-                    <graphic n="1001"
-                        width="12.100277777777778cm"
-                        height="12.100277777777778cm"
-                        rend="inline"
-                        url="B_RNER_Ingo_C_sar_Flaischlens__Graphische_Litteratur_Tafel__-image1.png"/>
+                    <graphic n="1001" width="12.100277777777778cm" height="12.100277777777778cm" rend="inline" url="B_RNER_Ingo_C_sar_Flaischlens__Graphische_Litteratur_Tafel__-image1.png"/>
                     <head>Abbildung 1: Original und klassifizierte Pixel</head>
                 </figure>
                 <p>Für Abbildung 2 wurde wurden die Pixel nach Jahren gruppiert und als Liniendiagramm visualisiert. Deutlich erkennbar sind Spitzen um 1620, 1665, 1715 und 1800, die sich verschiedenen Epochen der französischen Literaturgeschichte zuordnen lassen: Dem Französischen Klassizismus und der Aufklärung. Der Peak in den 1860er Jahren ist mit dem französischen Naturalismus verbunden.</p>
                 <figure>
-                    <graphic n="1002"
-                        width="16.002cm"
-                        height="10.287cm"
-                        rend="inline"
-                        url="B_RNER_Ingo_C_sar_Flaischlens__Graphische_Litteratur_Tafel__-image2.png"/>
+                    <graphic n="1002" width="16.002cm" height="10.287cm" rend="inline" url="B_RNER_Ingo_C_sar_Flaischlens__Graphische_Litteratur_Tafel__-image2.png"/>
                     <head>Abbildung 2: Französischer Einfluss auf Basis der Pixelklassifikation</head>
                 </figure>
             </div>
@@ -164,34 +154,34 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Flaischlen, Cäsar </hi>(1890): 
+                    <bibl ref="#bibl__1078"><hi rend="bold">Flaischlen, Cäsar </hi>(1890): 
                         <hi rend="italic">Graphische Litteratur-Tafel. Die deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf vom Beginn der schriftlichen Ueberlieferung an bis heute in graphischer Darstellung</hi>. Berlin: Behr's Verlag.
                     </bibl>
-                    <bibl><hi rend="bold">Hölter, Achim </hi>(2005): „Überlegungen zu Raffaels Parnass-Fresko als Kanonbild“ in: Heimböckel, Dieter / Werlein, Uwe (eds.): 
+                    <bibl ref="#bibl__1079"><hi rend="bold">Hölter, Achim </hi>(2005): „Überlegungen zu Raffaels Parnass-Fresko als Kanonbild“ in: Heimböckel, Dieter / Werlein, Uwe (eds.): 
                         <hi rend="italic">Der Bildhunger der Literatur. Festschrift für Gunter E. Grimm</hi>. Würzburg 51-68.
                     </bibl>
-                    <bibl><hi rend="bold">Hölter, Achim / Schmitz-Emans, Monika (eds.) </hi>(2013): 
+                    <bibl ref="#bibl__1080"><hi rend="bold">Hölter, Achim / Schmitz-Emans, Monika (eds.) </hi>(2013): 
                         <hi rend="italic">Literaturgeschichte und Bildmedien.</hi> Heidelberg: Synchron.
                     </bibl>
-                    <bibl><hi rend="bold">Kohlstock, Manuel </hi>(2004): 
+                    <bibl ref="#bibl__1081"><hi rend="bold">Kohlstock, Manuel </hi>(2004): 
                         <hi rend="italic">Kartographie. Eine Einführung.</hi> Stuttgart: UTB.
                     </bibl>
-                    <bibl><hi rend="bold">Lima, Manuel </hi>(2014): 
+                    <bibl ref="#bibl__1082"><hi rend="bold">Lima, Manuel </hi>(2014): 
                         <hi rend="italic">The Book of Trees. Visualizing Branches of Knowledge</hi>. New York: Princeton Architectural Press.
                     </bibl>
-                    <bibl><hi rend="bold">Moretti, Franco </hi>(2007): 
+                    <bibl ref="#bibl__84"><hi rend="bold">Moretti, Franco </hi>(2007): 
                         <hi rend="italic">Graphs, Maps, Trees. Abstract Models for Literary History</hi>. London, New York: Verso.
                     </bibl>
-                    <bibl><hi rend="bold">openCV</hi>: 
+                    <bibl ref="#bibl__1083"><hi rend="bold">openCV</hi>: 
                         <hi rend="italic">Open Source Computer Vision Library</hi>. http://opencv.org [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Rosenberg, Daniel / Grafton, Anthony </hi>(2010): 
+                    <bibl ref="#bibl__1084"><hi rend="bold">Rosenberg, Daniel / Grafton, Anthony </hi>(2010): 
                         <hi rend="italic">Cartographies of Time</hi>. New York: Princeton Architectural Press.
                     </bibl>
-                    <bibl><hi rend="bold">Strass, Friedrich </hi>(1803): 
+                    <bibl ref="#bibl__1085"><hi rend="bold">Strass, Friedrich </hi>(1803): 
                         <hi rend="italic">Der Strom Der Zeiten.</hi> http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281767~90054624 [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">TEI Consortium </hi>(2017). 
+                    <bibl ref="#bibl__44"><hi rend="bold">TEI Consortium </hi>(2017). 
                         <hi rend="italic">TEI P5 – Guidelines for Electronic Text Encoding and Interchange. Version 3.2.0.</hi> http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html [letzter Zugriff 25. September 2017].
                     </bibl>
                 </listBibl>

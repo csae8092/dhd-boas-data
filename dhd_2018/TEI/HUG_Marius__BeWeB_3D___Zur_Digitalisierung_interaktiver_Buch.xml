@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="HUG_Marius__BeWeB_3D___Zur_Digitalisierung_interaktiver_Buch">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HUG_Marius__BeWeB_3D___Zur_Digitalisierung_interaktiver_Buch">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main"> BeWeB-3D – Zur Digitalisierung interaktiver Buchobjekte</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__marius-hug-googlemail-com">
                     <persName>
                         <surname>Hug</surname>
                         <forename>Marius</forename>
@@ -104,19 +102,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__798">
                         <hi rend="bold">Meggendorfer, Lothar</hi> (1886): 
                         <hi rend="italic">Bewegliche Schattenbilder, 1. Vorstellung,</hi> München: Braun &amp; Schneider. Staatsbibliothek zu Berlin, Kinder- und Jugendbuchabteilung, Signatur: 53 BB 500600-1 R.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__9">
                         <hi rend="bold">Pierazzo, Elena</hi> (2015): 
                         <hi rend="italic">Digital Scholarly Editing: Theories, Models and Methods</hi>. Farnham: Ashgate.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__799">
                         <hi rend="bold">Schmitz-Emans, Monika</hi> (2016): "Modellierungen, Inszenierungen, Transgressionen. Zu Geschichte, Spielformen und Poetik des beweglichen Buchs", in: Bachmann, Christian A./Emans, Laura/Schmitz-Emans, Monika (eds.): 
                         <hi rend="italic">Bewegungsbücher. Spielformen, Poetiken, Konstellationen,</hi> Berlin: Ch. A. Bachmann Verlag, S. 85–123.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__800">
                         <hi rend="bold">Vanhoutte, Edward</hi> (2010): "Defining Electronic Editions: A Historical and Functional Perspective", in: McCarty, W. (ed.): 
                         <hi rend="italic">Text and Genre in Reconstruction. Effects of Digitalization on Ideas, Behaviours, Products and Institutions</hi>. Open Book Publishers, Cambridge, S. 119–144.
                     </bibl>

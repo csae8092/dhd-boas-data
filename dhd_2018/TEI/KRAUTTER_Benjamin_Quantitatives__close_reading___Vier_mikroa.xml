@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Quantitatives „close reading“? Vier mikroanalytische Methoden der digitalen Dramenanalyse im Vergleich.</title>
-                <author>
+                <author ref="#person__benjamin-krautter-gmail-com">
                     <persName>
                         <surname>Krautter</surname>
                         <forename>Benjamin</forename>
@@ -98,11 +96,7 @@
                     <hi rend="italic">Minna von Barnhelm</hi> zeigt, dass die Ergebnisse, die Hoover sowie Fields, Bassist und Roper für ausgewählte englischsprachige Romane erzielen, nicht unmittelbar auf Lessings Drama übertragbar zu sein scheinen. Es gibt zwar vereinzelte Anzeichen für stilistisch distinktiv angelegte Figurenrede – von der männlichen Hauptfigur Tellheim gruppieren sich Akt 1 und Akt 3 in unmittelbarer Nähe, auf Paul Werner trifft das für Akt 3 und Akt 5 zu. Die Mehrheit der Redesegmente scheint sich allerdings nach einem anderen Kriterium anzuordnen. Besonders deutlich wird dies im obersten Abschnitt der Grafik: Die Redeanteile von Major Tellheim, Minna von Barnhelm, ihrer Kammerjungfrau Franziska und die des Wirts gruppieren sich auf einem zusammenhängenden Ast. Die vier genannten Redesegmente entstammen allesamt dem zweiten Akt des Dramas und ihre Anordnung signalisiert eine gegenseitige Ähnlichkeit in Relation zum Vergleichskorpus. Es gibt weitere Beispiele, die die Aktgrenzen als wichtigen Faktor der Analyseergebnisse plausibilisieren. Die prägnantesten sind diejenigen von Tellheim und Minna in Akt 4 und 5.
                 </p>
                 <figure>
-                    <graphic n="1001"
-                        width="9.810719444444445cm"
-                        height="10.980208333333334cm"
-                        rend="inline"
-                        url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image1.jpeg"/>
+                    <graphic n="1001" width="9.810719444444445cm" height="10.980208333333334cm" rend="inline" url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image1.jpeg"/>
                     <head>Abbildung 1: Minna von Barnhelm. Dendrogram, 1000 n-mfw, Cosine Delta, kein Culling, Ward-Clustering.
                     </head>
                 </figure>
@@ -113,11 +107,7 @@
                 </p>
                 <p>
                     <figure>
-                        <graphic n="1002"
-                            width="16.007291666666667cm"
-                            height="23.65375cm"
-                            rend="inline"
-                            url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image2.jpeg"/>
+                        <graphic n="1002" width="16.007291666666667cm" height="23.65375cm" rend="inline" url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image2.jpeg"/>
                         <head>Abbildung 2: Die Räuber, Die Verschwörung des Fiesco zu Genua, Maria Stuart, Minna von Barnhelm, Emilia Galotti, Miß Sara Sampson. Dendrogram, 1000 n-mfw, Cosine Delta, kein Culling, Ward-Clustering.</head>
                     </figure>
                 </p>
@@ -129,11 +119,7 @@
                 <p>Nachfolgend ist es deshalb geboten, die bisherigen Beobachtungen weiteren quantitativen Verfahren gegenüberzustellen. Dazu dienen Analysen der Kopräsenz, der Figurensemantik und der Empfindung, sogenannte Sentiment-Analysen.</p>
                 <p>
                     <figure>
-                        <graphic n="1003"
-                            width="16.002cm"
-                            height="3.993888888888889cm"
-                            rend="inline"
-                            url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image3.jpeg"/>
+                        <graphic n="1003" width="16.002cm" height="3.993888888888889cm" rend="inline" url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image3.jpeg"/>
                         <head>Abbildung 3: Redeäußerungen und deren Position, Minna von Barnhelm.
                             <ref target="ftn6" n="6"/>
                         </head>
@@ -153,20 +139,12 @@
                     <hi rend="italic">Abbildung 5</hi> eine gegensätzliche Tendenz – zumindest, wenn man nur die Redesegmente von Tellheim und Minna auf Ebene der einzelnen Akte vergleicht. Ein Grund dafür ist die Skalierung. Fügt man der Distanzberechnung weitere Figurensegmente bei, wird erkennbar, dass etwa auch die Segmente des fünften Akts von Minna und Tellheim thematisch relativ ähnlich erscheinen (0.006024).<ref target="ftn8" n="8"/>
                 </p>
                 <figure>
-                    <graphic n="1004"
-                        width="15.980833333333333cm"
-                        height="13.255625cm"
-                        rend="inline"
-                        url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image4.jpeg"/>
+                    <graphic n="1004" width="15.980833333333333cm" height="13.255625cm" rend="inline" url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image4.jpeg"/>
                         <head>Abbildung 4: Semantische Wortfelder in Minna von Barnhelm, normalisiert nach Länge der Figurenrede.</head>
                 </figure>
                 
                 <figure>
-                    <graphic n="1005"
-                        width="15.980833333333333cm"
-                        height="13.149791666666667cm"
-                        rend="inline"
-                        url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image5.jpeg"/>
+                    <graphic n="1005" width="15.980833333333333cm" height="13.149791666666667cm" rend="inline" url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image5.jpeg"/>
                     <head>Abbildung 5: Euklidische Distanz der semantischen Wortfelder als Heatmap, Figurensegmente von Minna und Tellheim. Umso heller die Flächen dargestellt sind, umso größer ist die Übereinstimmung der Wortfelder.</head>
                 </figure>
                     
@@ -175,11 +153,7 @@
                 </p>
                 <p>
                     <figure>
-                      <graphic n="1006"
-                          width="16.007291666666667cm"
-                          height="13.705416666666666cm"
-                          rend="inline"
-                          url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image6.jpeg"/>
+                      <graphic n="1006" width="16.007291666666667cm" height="13.705416666666666cm" rend="inline" url="KRAUTTER_Benjamin_Quantitatives__close_reading___Vier_mikroa-image6.jpeg"/>
                       <head>Abbildung 6: kumulative Sentiment-Analyse, Minna von Barnhelm Akt 5, Valenz der Redeanteile von Minna und Tellheim.<ref target="ftn10" n="10"/></head>
                     </figure>
                 </p>
@@ -229,54 +203,54 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Burrows, John / Craig, Hugh </hi>(2012) „Authors and characters“, in: 
+                    <bibl ref="#bibl__1193"><hi rend="bold">Burrows, John / Craig, Hugh </hi>(2012) „Authors and characters“, in: 
                         <hi rend="italic">English Studies</hi> 93(3): 292–309.
                     </bibl>
-                    <bibl><hi rend="bold">Detken, Anke </hi>(2014): „Die Figur und ihr Fach: Konzeptionelle Überlegungen am Beispiel von Lessing und Schiller“, in: 
+                    <bibl ref="#bibl__1194"><hi rend="bold">Detken, Anke </hi>(2014): „Die Figur und ihr Fach: Konzeptionelle Überlegungen am Beispiel von Lessing und Schiller“, in: 
                         <hi rend="italic">Zeitschrift für Literatur- und Theatersoziologie</hi> 11: 36–53.
                     </bibl>
-                    <bibl><hi rend="bold">Eder, Maciej </hi>(2013): „Computational Sylistics and Biblical Translation: How Reliable Can a Dendrogram Be?“, in: Piotrowski Tadeusz / Grabowski, Łukasz. 
+                    <bibl ref="#bibl__1195"><hi rend="bold">Eder, Maciej </hi>(2013): „Computational Sylistics and Biblical Translation: How Reliable Can a Dendrogram Be?“, in: Piotrowski Tadeusz / Grabowski, Łukasz. 
                         <hi rend="italic">The Translator and the Computer</hi>.
                         Breslau: WSF Press: 155–170.
                     </bibl>
-                    <bibl><hi rend="bold">Eder, Maciej / Kestemont, Mike /Rybicki, Jan </hi>(2013): „Stylometry with R: a Suite of Tools“, in: 
+                    <bibl ref="#bibl__108"><hi rend="bold">Eder, Maciej / Kestemont, Mike /Rybicki, Jan </hi>(2013): „Stylometry with R: a Suite of Tools“, in: 
                         <hi rend="italic">Digital Humanities 2013: Conference Abstracts</hi>: 487–89.
                     </bibl>
-                    <bibl><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2017): „Understanding and Explaining Delta Measures for Authorship Attribution“, in: 
+                    <bibl ref="#bibl__109"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2017): „Understanding and Explaining Delta Measures for Authorship Attribution“, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi>: ii4–ii16 https://doi.org/10.1093/llc/fqx023 [letzter Zugriff 15. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Fields, Paul J. / Bassist, Larry / Roper, Matt </hi>(2017): „Characters in 19th Century Novels Display Distinctive Voices as Seen by Stylometric Analysis“, in: 
+                    <bibl ref="#bibl__1196"><hi rend="bold">Fields, Paul J. / Bassist, Larry / Roper, Matt </hi>(2017): „Characters in 19th Century Novels Display Distinctive Voices as Seen by Stylometric Analysis“, in: 
                         <hi rend="italic">DH2017 Conference Abstracts</hi> https://dh2017.adho.org/abstracts/494/494.pdf [letzter Zugriff 15. September 2017].
                         Harris, Edward P. (1992): „Lessing und das Rollenfachsystem. Überlegungen zur praktischen Charakterologie im 18. Jahrhundert“, in: Bender, Wolfgang F.:
                         <hi rend="italic"> Schauspielkunst im 18. Jahrhundert: Grundlagen, Praxis, Autoren. </hi>Stuttgart: Steiner: 221–235.
                     </bibl>
-                    <bibl><hi rend="bold">Hoover, David </hi>(2017): „The Microanalysis of Style Variation“, in: 
+                    <bibl ref="#bibl__1197"><hi rend="bold">Hoover, David </hi>(2017): „The Microanalysis of Style Variation“, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> https://doi.org/10.1093/llc/fqx022 [letzter Zugriff 15. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Jannidis, Fotis </hi>(2014): „Der Autor ganz nah. Autorstil in Stilistik und Stilometrie“, in: 
+                    <bibl ref="#bibl__1198"><hi rend="bold">Jannidis, Fotis </hi>(2014): „Der Autor ganz nah. Autorstil in Stilistik und Stilometrie“, in: 
                         <hi rend="italic">Theorien und Praktiken der Autorschaft</hi>. Schaffrick, Matthias / Willand, Marcus. Berlin, Boston: De Gruyter: 169–195.
                     </bibl>
-                    <bibl><hi rend="bold">Jockers, Matthew L. </hi>(2015): 
+                    <bibl ref="#bibl__1199"><hi rend="bold">Jockers, Matthew L. </hi>(2015): 
                         <hi rend="italic">Revealing Sentiment and Plot Arcs with the Syuzhet Package </hi>http://www.matthewjockers.net/2015/02/02/syuzhet/ [letzter Zugriff 15. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Jockers, Matthew </hi>(2013): 
+                    <bibl ref="#bibl__1200"><hi rend="bold">Jockers, Matthew </hi>(2013): 
                         <hi rend="italic">Macroanalysis: Digital Methods and Literary History</hi>. Urbana u.a.: Topics in the Digital Humanities.
                     </bibl>
-                    <bibl><hi rend="bold">Masten, Jeffrey </hi>(1997): 
+                    <bibl ref="#bibl__1201"><hi rend="bold">Masten, Jeffrey </hi>(1997): 
                         <hi rend="italic">Textual Intercourse: Collaboration, Authorship and Sexualities in Renaissance Drama</hi>. Cambridge: Cambridge University Press.
                     </bibl>
-                    <bibl><hi rend="bold">Mohammad, Saif </hi>(2011): “From Once Upon a Time to Happily Ever After: Tracking Emotions in Novels and Fairy Tales”, in: 
+                    <bibl ref="#bibl__58"><hi rend="bold">Mohammad, Saif </hi>(2011): “From Once Upon a Time to Happily Ever After: Tracking Emotions in Novels and Fairy Tales”, in: 
                         <hi rend="italic">Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</hi>: 105–114.
                     </bibl>
-                    <bibl><hi rend="bold">Moretti, Franco </hi>(2000): „Conjectures of World Literature“, in: 
+                    <bibl ref="#bibl__40"><hi rend="bold">Moretti, Franco </hi>(2000): „Conjectures of World Literature“, in: 
                         <hi rend="italic">New Left Review </hi>1: 54–68.
                     </bibl>
-                    <bibl><hi rend="bold">Moretti, Franco </hi>(2005): 
+                    <bibl ref="#bibl__1202"><hi rend="bold">Moretti, Franco </hi>(2005): 
                         <hi rend="italic">Graphs, Maps, Trees: Abstract Models for a Literary History</hi>. London: Verso.
                         Nalisnick, Eric T. / Baird, Henry S. (2013): „Character-to-Character Sentiment Analysis in Shakespeare’s Plays, in: 
                         <hi rend="italic">Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics</hi>: 479–483.
                     </bibl>
-                    <bibl><hi rend="bold">Schöch, Christof </hi>(2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: 
+                    <bibl ref="#bibl__1203"><hi rend="bold">Schöch, Christof </hi>(2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: 
                         <hi rend="italic">Literaturwissenschaft im digitalen Medienwandel. Beihefte zu Philologie im Netz
                         </hi> 7: 130–157.
                         Willand, Marcus / Reiter, Nils (2017): „Geschlecht und Gattung: Digitale Analysen von Kleists ‚Familie Schroffenstein‘, in: 

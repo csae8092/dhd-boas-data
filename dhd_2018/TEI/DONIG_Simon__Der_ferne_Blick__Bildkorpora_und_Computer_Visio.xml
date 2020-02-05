@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DONIG_Simon__Der_ferne_Blick__Bildkorpora_und_Computer_Visio">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DONIG_Simon__Der_ferne_Blick__Bildkorpora_und_Computer_Visio">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main"> Der ferne Blick. Bildkorpora und Computer Vision in den Geistes- und Kulturwissenschaften - Stand - Visionen - Implikationen</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__simon-donig-uni-passau-de">
                     <persName>
                         <surname>Donig</surname>
                         <forename>Simon</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>simon.donig@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__siegfried-handschuh-uni-passau-de">
                     <persName>
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>Siegfried.Handschuh@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__erik-radisch-uni-passau-de">
                     <persName>
                         <surname>Radisch</surname>
                         <forename>Erik</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>erik.radisch@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__malte-rehbein-uni-passau-de">
                     <persName>
                         <surname>Rehbein</surname>
                         <forename>Malte</forename>
@@ -40,7 +38,7 @@
                     <affiliation>Universität Passau, Deutschland</affiliation>
                     <email>malte.rehbein@uni-passau.de</email>
                 </author>
-                <author>
+                <author ref="#person__hastik-linglit-tu-darmstadt-de">
                     <persName>
                         <surname>Hastik</surname>
                         <forename>Canan</forename>
@@ -48,7 +46,7 @@
                     <affiliation>Technische Universität Darmstadt, Deutschland</affiliation>
                     <email>hastik@linglit.tu-darmstadt.de</email>
                 </author>
-                <author>
+                <author ref="#person__hubertus-kohle-gmail-com">
                     <persName>
                         <surname>Kohle</surname>
                         <forename>Hubertus</forename>
@@ -56,7 +54,7 @@
                     <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>hubertus.kohle@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__ommer-uni-heidelberg-de">
                     <persName>
                         <surname>Ommer</surname>
                         <forename>Björn</forename>
@@ -206,41 +204,41 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Bell, Peter / Ommer, Björn</hi>: Training Argus, Ansätze zum automatischen Sehen in der Kunstgeschichte, in: 
+                    <bibl ref="#bibl__14"><hi rend="bold">Bell, Peter / Ommer, Björn</hi>: Training Argus, Ansätze zum automatischen Sehen in der Kunstgeschichte, in: 
                         <hi rend="italic">Kunstchronik</hi> 68, Nr. 8 (2015): 414–20.
                     </bibl>
-                    <bibl><hi rend="bold">Bell, Peter / Ommer, Björn</hi>: Digital Connoisseur? How Computer Vision Supports Art History, in: Aggujaro, A. &amp; Albl, S. (eds.): Il metodo del conoscitore approcci, limiti, prospettive - Connoisseurship nel XXI secolo. Artemide, Roma 2016: 187-200.</bibl>
-                    <bibl><hi rend="bold">Burrell, Jenna</hi>: How the Machine ‘Thinks’: Understanding Opacity in Machine Learning Algorithms, in: 
+                    <bibl ref="#bibl__312"><hi rend="bold">Bell, Peter / Ommer, Björn</hi>: Digital Connoisseur? How Computer Vision Supports Art History, in: Aggujaro, A. &amp; Albl, S. (eds.): Il metodo del conoscitore approcci, limiti, prospettive - Connoisseurship nel XXI secolo. Artemide, Roma 2016: 187-200.</bibl>
+                    <bibl ref="#bibl__313"><hi rend="bold">Burrell, Jenna</hi>: How the Machine ‘Thinks’: Understanding Opacity in Machine Learning Algorithms, in: 
                         <hi rend="italic">Big Data &amp; Society</hi> 3, Nr. 1 (2016): 1-12. doi:10.1177/2053951715622512.
                     </bibl>
-                    <bibl><hi rend="bold">Bonfiglioli, Rudi / Nanni, Federico</hi>: From Close to Distant and Back: How to Read with the Help of Machines, in: Gadducci, Fabio / Tavosanis, Mirko (eds.): 
+                    <bibl ref="#bibl__314"><hi rend="bold">Bonfiglioli, Rudi / Nanni, Federico</hi>: From Close to Distant and Back: How to Read with the Help of Machines, in: Gadducci, Fabio / Tavosanis, Mirko (eds.): 
                         <hi rend="italic">History and Philosophy of Computing</hi>. IFIP Advances in Information and Communication Technology. Springer, Cham, 2015: 87–100. 
                         <lb/>doi:10.1007/978-3-319-47286-7_6.
                     </bibl>
-                    <bibl><hi rend="bold">Bruni, Elia / Tran, Nam Khanh / Baroni, Marco</hi>: Multimodal Distributional Semantics, in: 
+                    <bibl ref="#bibl__15"><hi rend="bold">Bruni, Elia / Tran, Nam Khanh / Baroni, Marco</hi>: Multimodal Distributional Semantics, in: 
                         <hi rend="italic">Journal of Artificial Intelligence Research</hi> 49, Nr. 1 (2014): 1–47.
                     </bibl>
-                    <bibl><hi rend="bold">Donig, Simon / Christoforaki, Maria / Handschuh, Siegfried</hi>: Neoclassica - A Multilingual Domain Ontology. Representing Material Culture from the Era of Classicism in the Semantic Web, in: Bozic, B. / Mendel-Gleason, G. / Debruyne, C. / O’Sullivan, D. (eds.): 
+                    <bibl ref="#bibl__315"><hi rend="bold">Donig, Simon / Christoforaki, Maria / Handschuh, Siegfried</hi>: Neoclassica - A Multilingual Domain Ontology. Representing Material Culture from the Era of Classicism in the Semantic Web, in: Bozic, B. / Mendel-Gleason, G. / Debruyne, C. / O’Sullivan, D. (eds.): 
                         <hi rend="italic">Computational History and Data-Driven Humanities. CHDDH 2016.</hi> Cham: Springer, 2016: 41–53. https://link.springer.com/chapter/10.1007/978-3-319-46224-0_5.
                     </bibl>
-                    <bibl><hi rend="bold">Drucker, Johanna</hi>: Humanities approaches to graphical display, in: 
+                    <bibl ref="#bibl__316"><hi rend="bold">Drucker, Johanna</hi>: Humanities approaches to graphical display, in: 
                         <hi rend="italic">Digital Humanities Quarterly</hi> 5, Nr. 1 (2011): 1–21.
                     </bibl>
-                    <bibl><hi rend="bold">Hastik, Canan / Steinmetz, Arnd / Thull, Bernhard</hi>: Using CIDOC CRM for Audiovisual Art, in: Smite, R. / Manovich, L. / Smits, R. (eds.): Data Drift. Archiving Media and Data Art in the 21st Century. Riga: RIXC 2015: 59-71.</bibl>
-                    <bibl><hi rend="bold">Hiippala, Tuomo</hi>: The Interface between Rhetoric and Layout in Multimodal Artefacts, in: 
+                    <bibl ref="#bibl__317"><hi rend="bold">Hastik, Canan / Steinmetz, Arnd / Thull, Bernhard</hi>: Using CIDOC CRM for Audiovisual Art, in: Smite, R. / Manovich, L. / Smits, R. (eds.): Data Drift. Archiving Media and Data Art in the 21st Century. Riga: RIXC 2015: 59-71.</bibl>
+                    <bibl ref="#bibl__318"><hi rend="bold">Hiippala, Tuomo</hi>: The Interface between Rhetoric and Layout in Multimodal Artefacts, in: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 28, Nr. 3 (2013): 461–71. doi:10.1093/llc/fqs064.
                     </bibl>
-                    <bibl><hi rend="bold">Kohle, Hubertus</hi>: 
+                    <bibl ref="#bibl__319"><hi rend="bold">Kohle, Hubertus</hi>: 
                         <hi rend="italic">Digitale Bildwissenschaft</hi>. Boizenberg: Hülsbusch, Werner, 2013.
                     </bibl>
-                    <bibl><hi rend="bold">Manovich, Lev</hi>: Data Science and Digital Art History. In: International Journal for Digital Art History, n. 1, 2015: 12-35. 
+                    <bibl ref="#bibl__18"><hi rend="bold">Manovich, Lev</hi>: Data Science and Digital Art History. In: International Journal for Digital Art History, n. 1, 2015: 12-35. 
                         <lb/>doi:hp://dx.doi.org/10.11588/dah.2015.1.21631., 30.
                     </bibl>
-                    <bibl><hi rend="bold">Oren, Eyal / Möller, Knud / Scerri, Simon / Handschuh, Siegfried / Sintek, Michael</hi>: What are Semantic Annotations. Relatório Técnico. DERI Galway 9, 62 (2006).</bibl>
-                    <bibl><hi rend="bold">Paul, Gerhard</hi>: „Visual History“, in: 
+                    <bibl ref="#bibl__320"><hi rend="bold">Oren, Eyal / Möller, Knud / Scerri, Simon / Handschuh, Siegfried / Sintek, Michael</hi>: What are Semantic Annotations. Relatório Técnico. DERI Galway 9, 62 (2006).</bibl>
+                    <bibl ref="#bibl__321"><hi rend="bold">Paul, Gerhard</hi>: „Visual History“, in: 
                         <hi rend="italic">Docupedia-Zeitgeschichte</hi> (13. März 2014). doi:http://dx.doi.org/10.14765/zzf.dok.2.558.v3.
                     </bibl>
-                    <bibl><hi rend="bold">Wieser, Christoph / Bry, François / Bérard, Alexandre / Lagrange Richard</hi>: ARTigo: building an artwork search engine with games and higher-order latent semantic analysis, in: 
+                    <bibl ref="#bibl__322"><hi rend="bold">Wieser, Christoph / Bry, François / Bérard, Alexandre / Lagrange Richard</hi>: ARTigo: building an artwork search engine with games and higher-order latent semantic analysis, in: 
                         <hi rend="italic">First AAAI Conference on Human Computation and Crowdsourcing</hi>, 2013. http://www.aaai.org/ocs/index.php/HCOMP/HCOMP13/paper/view/7634.
                     </bibl>
                 </listBibl>

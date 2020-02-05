@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="SEIDEL_Henry_DH_Toolvergleich_im_Hinblick_auf_Texte_historis">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SEIDEL_Henry_DH_Toolvergleich_im_Hinblick_auf_Texte_historis">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>DH-Toolvergleich im Hinblick auf Texte historischer Sprachstufen</title>
-                <author>
+                <author ref="#person__barbara-aehnlich-uni-jena-de">
                     <persName>
                         <surname>Aehnlich</surname>
                         <forename>Barbara</forename>
@@ -13,7 +11,7 @@
                     <affiliation>FSU Jena, Deutschland</affiliation>
                     <email>barbara.aehnlich@uni-jena.de</email>
                 </author>
-                <author>
+                <author ref="#person__hnrseidel-gmail-com">
                     <persName>
                         <surname>Seidel</surname>
                         <forename>Henry</forename>
@@ -125,11 +123,11 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">B. Aehnlich / S. Kösser </hi>(2016): „Das Tool LAKomp und seine Anwendung auf Texte nichtstandardisierter Sprachstufen“. In: DHd 2016. Konferenzabstracts, Leipzig, S. 263–264.</bibl>
-                    <bibl><hi rend="bold">V. Faßhauer </hi>(2017): „Compilation, Transcription, Multi-Level Annotation and Gender-oriented Analysis of a Historical Text Corpus:Early Modern Ducal Correspondences in Central Germany“. In: Advances in Digital Scholarly Editing: Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp, hg. v. Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kelly, Andreas Mertgens, Anna-Maria Sichani, Elena Spadini &amp; Dirk van Hulle. Leiden, S. 269–274.</bibl>
-                    <bibl><hi rend="bold">A. Medek (*Gießler) / M. Pöckelmann / T. Bremer / H.-J. Solms / P. Molitor / J. Ritter </hi>(2015): „Differenzanalyse komplexer Textvarianten - Diskussion und Werkzeuge“. In: Informationsmanagement für Digital Humanities, hg. v. G. Heyer und A. Henrich. In: Datenbank-Spektrum 2015. http://dx.doi.org/10.1007/s13222-014-0173-y.</bibl>
-                    <bibl><hi rend="bold">A. Leipold / J. Ritter / H.-J. Solms</hi>: „Neue Wege zu Textzeugenvergleich und Edition am Beispiel der Wundarznei des Heinrich von Pfalzpaint“. In: Jahrbuch für Germanistische Sprachgeschichte 2014, Band 5, Heft 1, S. 335-358.</bibl>
-                    <bibl><hi rend="bold">D. Prutscher / H. Seidel </hi>(2012): „Mehrebenenannotation frühneuzeitlicher Fürstinnenkorrespondenzen“. In: G. Brandt (Hg.): Bausteine weiblichen Sprachgebrauchs. X. Texte – Zeugnisse des produktiven Sprachhandelns von Frauen in privaten, halböffentlichen und öffentlichen Diskursen vom Mittelalter bis in die Gegenwart. Stuttgart, S. 109–124.</bibl>
+                    <bibl ref="#bibl__789"><hi rend="bold">B. Aehnlich / S. Kösser </hi>(2016): „Das Tool LAKomp und seine Anwendung auf Texte nichtstandardisierter Sprachstufen“. In: DHd 2016. Konferenzabstracts, Leipzig, S. 263–264.</bibl>
+                    <bibl ref="#bibl__790"><hi rend="bold">V. Faßhauer </hi>(2017): „Compilation, Transcription, Multi-Level Annotation and Gender-oriented Analysis of a Historical Text Corpus:Early Modern Ducal Correspondences in Central Germany“. In: Advances in Digital Scholarly Editing: Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp, hg. v. Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kelly, Andreas Mertgens, Anna-Maria Sichani, Elena Spadini &amp; Dirk van Hulle. Leiden, S. 269–274.</bibl>
+                    <bibl ref="#bibl__791"><hi rend="bold">A. Medek (*Gießler) / M. Pöckelmann / T. Bremer / H.-J. Solms / P. Molitor / J. Ritter </hi>(2015): „Differenzanalyse komplexer Textvarianten - Diskussion und Werkzeuge“. In: Informationsmanagement für Digital Humanities, hg. v. G. Heyer und A. Henrich. In: Datenbank-Spektrum 2015. http://dx.doi.org/10.1007/s13222-014-0173-y.</bibl>
+                    <bibl ref="#bibl__792"><hi rend="bold">A. Leipold / J. Ritter / H.-J. Solms</hi>: „Neue Wege zu Textzeugenvergleich und Edition am Beispiel der Wundarznei des Heinrich von Pfalzpaint“. In: Jahrbuch für Germanistische Sprachgeschichte 2014, Band 5, Heft 1, S. 335-358.</bibl>
+                    <bibl ref="#bibl__793"><hi rend="bold">D. Prutscher / H. Seidel </hi>(2012): „Mehrebenenannotation frühneuzeitlicher Fürstinnenkorrespondenzen“. In: G. Brandt (Hg.): Bausteine weiblichen Sprachgebrauchs. X. Texte – Zeugnisse des produktiven Sprachhandelns von Frauen in privaten, halböffentlichen und öffentlichen Diskursen vom Mittelalter bis in die Gegenwart. Stuttgart, S. 109–124.</bibl>
                 </listBibl>
             </div>
       </back>

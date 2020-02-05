@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ERNST_Thomas_Critical_Digital_Cultural_Studies__Digitale_Kul">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ERNST_Thomas_Critical_Digital_Cultural_Studies__Digitale_Kul">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Critical Digital Cultural Studies: Digitale Kulturwissenschaft und die Kritik des Mem-Begriffs </title>
-                <author>
+                <author ref="#person__t-ernst-uva-nl">
                     <persName>
                         <surname>Ernst</surname>
                         <forename>Thomas</forename>
@@ -98,75 +96,75 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__920">
                         <hi rend="bold">Albrecht, Jan Philipp</hi> (2014): 
                         <hi rend="italic">Finger weg von unseren Daten! Wie wir entmündigt und ausgenommen werden</hi>. München: Droemer Knaur.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__921">
                         <hi rend="bold">Bal, Mieke</hi> (2006): 
                         <hi rend="italic">Kulturanalyse</hi>. Frankfurt am Main: Suhrkamp.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__922">
                         <hi rend="bold">Dawkins, Richard</hi> (1976): 
                         <hi rend="italic">The Selfish Gene</hi>. Oxford: Oxford University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__923">
                         <hi rend="bold">Engemann, Christoph</hi> (2003): 
                         <hi rend="italic">Electronic Government – vom User zum Bürger. Zur kritischen Theorie des Internet</hi>. Bielefeld: transcript.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__924">
                         <hi rend="bold">Foucault, Michel</hi> (1992): 
                         <hi rend="italic">Was ist Kritik?</hi> Aus dem Französischen von Walter Seitter. Berlin: Merve.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__925">
                         <hi rend="bold">Foucault, Michel</hi> (1995): 
                         <hi rend="italic">Archäologie des Wissens</hi>. Übersetzt von Ulrich Köppen. 7. Aufl., Frankfurt am Main: Suhrkamp.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__926">
                         <hi rend="bold">Foucault, Michel</hi> (2003): 
                         <hi rend="italic">Die Ordnung des Diskurses</hi>. Aus dem Französischen von Walter Seitter. Mit einem Essay von Ralf Konersmann. 9. Aufl., Frankfurt am Main: S. Fischer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__927">
                         <hi rend="bold">Horkheimer, Max</hi> (1995): „Traditionelle und kritische Theorie (1937)“, in: Ders.: 
                         <hi rend="italic">Traditionelle und kritische Theorie. Fünf Aufsätze</hi>. Frankfurt am Main: S. Fischer 205-259.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__928">
                         <hi rend="bold">Horkheimer, Max / Adorno, Theodor W.</hi> (2000): 
                         <hi rend="italic">Dialektik der Aufklärung. Philosophische Fragmente</hi>. 12. Aufl., Frankfurt am Main: S. Fischer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__929">
                         <hi rend="bold">Lanier, Jaron</hi> (2014): 
                         <hi rend="italic">Wem gehört die Zukunft? Du bist nicht die Zukunft der Internet-Konzerne. Du bist ihr Produkt</hi>. Hamburg: Hoffmann und Campe.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__930">
                         <hi rend="bold">Lovink, Geert</hi> (2008): 
                         <hi rend="italic">Zero Comments. Elemente einer kritischen Internetkultur</hi>. Bielefeld: transcript.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__931">
                         <hi rend="bold">Morozov, Evgeny</hi> (2013): 
                         <hi rend="italic">Smarte neue Welt. Digitale Technik und die Freiheit des Menschen</hi>. München: Blessing.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__932">
                         <hi rend="bold">Reichert, Ramón</hi> (2013): 
                         <hi rend="italic">Die Macht der Vielen. Über den neuen Kult der digitalen Vernetzung</hi>. Bielefeld: transcript.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__933">
                         <hi rend="bold">Schäfer, Mirko Tobias</hi> (2011): 
                         <hi rend="italic">Bastard Culture! How User Participation Transforms Cultural Production</hi>. Amsterdam: Amsterdam University Press. http://oapen.org/download?type=document&amp;docid=371358 [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__934">
                         <hi rend="bold">Schäfer, Mirko Tobias / van Es, Karin</hi> (eds., 2017): 
                         <hi rend="italic">The Datafied Society. Studying Culture Through Data</hi>. Amsterdam: Amsterdam University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__935">
                         <hi rend="bold">Shifman, Limor</hi> (2014): 
                         <hi rend="italic">Meme. Kunst, Kultur und Politik im digitalen Zeitalter</hi>. Berlin: Suhrkamp.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__936">
                         <hi rend="bold">Ullmaier, Johannes</hi> (2017): „Kategorien der Kritik. Detaillierte Inhaltsübersicht zu einer ungeschriebenen Studie“, in: 
                         <hi rend="italic">Testcard. Beiträge zur Popgeschichte</hi> 25: 70-88.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__937">
                         <hi rend="bold">Wagner, Thomas</hi> (2017): 
                         <hi rend="italic">Das Netz in unsere Hand! Vom digitalen Kapitalismus zur Datendemokratie</hi>. Köln: PapyRossa.
                     </bibl>

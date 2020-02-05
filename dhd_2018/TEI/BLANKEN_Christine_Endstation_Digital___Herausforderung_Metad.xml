@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BLANKEN_Christine_Endstation_Digital___Herausforderung_Metad">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BLANKEN_Christine_Endstation_Digital___Herausforderung_Metad">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Endstation Digital?! Herausforderung Metadaten und Nachhaltigkeit in musikwissenschaftlichen Datenbanken</title>
-                <author>
+                <author ref="#person__blanken-bach-leipzig-de">
                     <persName>
                         <surname>Blanken</surname>
                         <forename>Christine</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Bach-Archiv Leipzig, Deutschland</affiliation>
                     <email>blanken@bach-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__rettinghaus-bach-leipzig-de">
                     <persName>
                         <surname>Rettinghaus</surname>
                         <forename>Klaus</forename>

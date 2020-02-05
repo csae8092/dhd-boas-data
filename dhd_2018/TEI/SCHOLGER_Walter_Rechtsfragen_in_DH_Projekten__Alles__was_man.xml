@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="SCHOLGER_Walter_Rechtsfragen_in_DH_Projekten__Alles__was_man">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCHOLGER_Walter_Rechtsfragen_in_DH_Projekten__Alles__was_man">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Rechtsfragen in DH-Projekten: Alles, was man wissen muss</title>
-                <author>
+                <author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
                     <persName>
                         <surname>Hannesschläger</surname>
                         <forename>Vanessa</forename>
@@ -13,7 +11,7 @@
                     <affiliation>ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>Vanessa.Hannesschlaeger@oeaw.ac.at</email>
                 </author>
-                <author>
+                <author ref="#person__pawel-kamocki-gmail-com">
                     <persName>
                         <surname>Kamocki</surname>
                         <forename>Pawel</forename>
@@ -21,7 +19,7 @@
                     <affiliation>L'Université Paris Descartes, Frankreich</affiliation>
                     <email>pawel.kamocki@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__walter-scholger-uni-graz-at">
                     <persName>
                         <surname>Scholger</surname>
                         <forename>Walter</forename>
@@ -210,64 +208,64 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__639">
                         <hi rend="bold">Amini, Seyavash / Blechl, Guido / Losehand, Joachim</hi> (2015): FAQs zu Creative-Commons-Lizenzen unter besonderer Berücksichtigung der Wissenschaft. 
                         <ref target="https://phaidra.univie.ac.at/view/o:408042">
                             <hi rend="color(1155CC)">https://phaidra.univie.ac.at/view/o:408042</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__640">
                         <hi rend="bold">Bergauer, Christian / Jahnel, Dietmar </hi>(2017): Das neue Datenschutzrecht DSG-VO und DSG (2018), Wien: Jan Sramek Verlag
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__641">
                         <hi rend="bold">Bundeszentrale für politische Bildung</hi> (2013): Urheberrecht und Copyright. 
                         <ref target="https://www.bpb.de/gesellschaft/medien/urheberrecht/169971/urheberrecht-und-copyright">
                             <hi rend="color(1155CC)">https://www.bpb.de/gesellschaft/medien/urheberrecht/169971/urheberrecht-und-copyright</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__642">
                         <hi rend="bold">Datenschutzbehörde der Republik Österreich</hi>: Gesetze zum Datenschutzrecht. 
                         <ref target="https://www.dsb.gv.at/gesetze-in-osterreich">
                             <hi rend="color(1155CC)">https://www.dsb.gv.at/gesetze-in-osterreich</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__643">
                         <hi rend="bold">Deutscher Bundestag</hi> (2017): Entwurf eines Gesetzes zur Angleichung des Urheberrechts an die aktuellen Erfordernisse der Wissensgesellschaft (Urheberrechts-Wissensgesellschafts-Gesetz – UrhWissG). 
                         <ref target="https://www.bundestag.de/blob/507608/be49b0e7039f039593112136e262b55f/gesetzentwurf-data.pdf">
                             <hi rend="color(1155CC)">https://www.bundestag.de/blob/507608/be49b0e7039f039593112136e262b55f/gesetzentwurf-data.pdf</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__644">
                         <hi rend="bold">Galina, Isabel et al.</hi> (2017): Copyright and Creator Rights in DH Projects: A Checklist. 
                         <ref target="https://hcommons.org/deposits/item/hc:15109/">
                             <hi rend="color(1155CC)">https://hcommons.org/deposits/item/hc:15109/</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__645">
                         <hi rend="bold">Kamocki, Pawel / Ketzan, Erik</hi> (2014): Creative Commons and Language Resources: General Issues and What’s New in CC 4.0. CLARIN Legal Issues Committee: White Paper Series. 
                         <ref target="http://clarin-d.de/images/legal/CLIC_white_paper_1.pdf">
                             <hi rend="color(1155CC)">http://clarin-d.de/images/legal/CLIC_white_paper_1.pdf</hi>
                         </ref>  
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__646">
                         <hi rend="bold">Klimpel, Paul / Weitzmann, John H.</hi> (2015): Forschen in der digitalen Welt. Juristische Handreichung für die Geisteswissenschaften. DARIAH-DE Working papers Nr. 12. Göttingen: DARIAH-DE. 
                         <ref target="https://irights.info/wp-content/uploads/2015/08/Forschen-in-der-digitalen-Welt-Juristische-Handreichung-Geisteswissenschaften-dwp-2015-12.pdf">
                             <hi rend="color(1155CC)">https://irights.info/wp-content/uploads/2015/08/Forschen-in-der-digitalen-Welt-Juristische-Handreichung-Geisteswissenschaften-dwp-2015-12.pdf</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__647">
                         <hi rend="bold">Klimpel, Paul </hi>(2013): Free Knowledge Thanks to Creative Commons Licenses. Why a Non-commercial Clause often won’t Serve Your Needs. Wikimedia Deutschland/iRights.info/CC DE. 
                         <ref target="https://www.wikimedia.de/w/images.homepage/1/15/CC-NC_Leitfaden_2013_engl.pdf">
                             <hi rend="color(1155CC)">https://www.wikimedia.de/w/images.homepage/1/15/CC-NC_Leitfaden_2013_engl.pdf</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__648">
                         <hi rend="bold">Kucsko, Guido / Zemann, Adolf</hi> (2017). CC0 1.0 Universal - Beurteilung der Verzichtserklärung und der Lizenzerteilung im Rahmen der Fallback-Klausel nach österreichischem Recht. 
                         <ref target="https://phaidra.univie.ac.at/view/o:528411">
                             <hi rend="color(1155CC)">https://phaidra.univie.ac.at/view/o:528411</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__649">
                         <hi rend="bold">Saferinternet.at</hi> (2013): Urheberrecht. 24 Fragen und Antworten. 
                         <ref target="https://www.saferinternet.at/fileadmin/files/Materialien_2013/Ratgeber_Urheberrecht.pdf">
                             <hi rend="color(1155CC)">https://www.saferinternet.at/fileadmin/files/Materialien_2013/Ratgeber_Urheberrecht.pdf</hi>

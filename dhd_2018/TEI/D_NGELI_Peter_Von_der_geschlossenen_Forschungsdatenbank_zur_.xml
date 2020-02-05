@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="D_NGELI_Peter_Von_der_geschlossenen_Forschungsdatenbank_zur_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="D_NGELI_Peter_Von_der_geschlossenen_Forschungsdatenbank_zur_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Vom geschützt zugänglichen Datenbankverbund zur offenen Editions- und Forschungsplattform: kritischer Rückblick auf halber Strecke</title>
-                <author>
+                <author ref="#person__christian-forney-hist-unibe-ch">
                     <persName>
                         <surname>Forney</surname>
                         <forename>Christian</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Bern, Historisches Institut</affiliation>
                     <email>christian.forney@hist.unibe.ch</email>
                 </author>
-                <author>
+                <author ref="#person__arojasca-uni-koeln-de">
                     <persName>
                         <surname>Rojas Castro</surname>
                         <forename>Antonio</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität zu Köln, Cologne Center for eHumanities</affiliation>
                     <email>arojasca@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__p-daengeli-uni-koeln-de">
                     <persName>
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
@@ -141,11 +139,7 @@
                 <head>Spezifizierung eines übergreifenden Editionsportals</head>
                 <p>Das entstehende Editionsportal will eine einheitliche Grundlage schaffen für verschiedene Inhalte, seien es beschreibende und Metadaten, digitale Neu-Editionen bestehender gedruckter Briefeditionen oder neu erarbeitete digitale Brief- und Rezensionseditionen mit unterschiedlichen thematischen, geographischen und personellen Schwerpunkten. Dabei sollen bestimmte Inhalte der Plattform den Nutzern in verschiedenen Kontexten (z.B. ein Brief als atomares Datum, als Bestandteil einer “Sammlung”, als edierter Brief) jeweils so präsentiert werden, dass die Situierung innerhalb des Portals jederzeit nachvollziehbar bleibt. Der Anspruch des Portals geht dadurch konzeptionell beträchtlich über den Standardfall einer digitalen Edition (im Sinne tiefer editorischer Erschließung) eines einzelnen Textes oder verschiedener Texte eines Autors hinaus. Zugleich greift durch die Tiefe der Erschließung aber auch der Vergleich mit digitaler Datenbereitstellung, wie sie in Bibliotheken und Archiven oftmals betrieben wird, zu kurz. Eine einfache und verständliche visuelle Kommunikation und Umsetzung dieser Ansprüche erweist sich in der konzeptuellen Arbeit als Herausforderung.</p>
                 <figure>
-                    <graphic n="1001"
-                        width="9.313330555555556cm"
-                        height="16.01752777777778cm"
-                        rend="inline"
-                        url="D_NGELI_Peter_Von_der_geschlossenen_Forschungsdatenbank_zur_-image1.png"/>
+                    <graphic n="1001" width="9.313330555555556cm" height="16.01752777777778cm" rend="inline" url="D_NGELI_Peter_Von_der_geschlossenen_Forschungsdatenbank_zur_-image1.png"/>
                     <head>Abbildung 1: Segmentierte Landingpage der in Entwicklung begriffenen Webanwendung: Datenbank, Sammlungen, Editionen</head>
                 </figure>
             </div>
@@ -168,15 +162,15 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Boschung, Urs et al. </hi>(eds.): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777 (Studia Halleriana VII), Basel: Schwabe 2006.</bibl>
-                    <bibl><hi rend="bold">Dumont, Stefan</hi> et al.: correspSearch, URL: http://correspsearch.net (14.1.2018).</bibl>
-                    <bibl><hi rend="bold">Flückiger, Daniel / Stuber, Martin</hi>: Vom System zum Akteur. Personenorientierte Datenbanken für Archiv und Forschung, in: Kirchhofer, André et al. (eds.), Nachhaltige Geschichte. Festschrift für Christian Pfister, Zürich: Chronos 2009, S. 253-269.</bibl>
-                    <bibl><hi rend="bold">Sonntag, Otto </hi>(ed.): The Albrecht von Haller-Gerlach Adolph von Münchhausen Correspondence, Digitale Edition, Bern 2018 (in Vorbereitung).</bibl>
-                    <bibl><hi rend="bold">Steinke, Hubert</hi>: Archive databases as advanced research tools: the Haller Project, in: Monti, Maria Teresa (ed.), Antonio Vallisneri. L'edizione del testo scientifico d'età moderna, Firenze: Olschki 2003, S. 191–204.</bibl>
-                    <bibl><hi rend="bold">Steinke, Hubert / Profos, Claudia</hi>: Bibliographia Halleriana: Verzeichnis der Schriften von und über Albrecht von Haller (Studia Halleriana VIII), Basel: Schwabe 2004.</bibl>
-                    <bibl><hi rend="bold">Stuber, Martin</hi>: Findmittel und Forschungsinstrument zugleich. Die Datenbank des Berner Haller-Projekts, in: Arbido 14, 1999, S. 5-10.</bibl>
-                    <bibl><hi rend="bold">Stuber, Martin / Hächler, Stefan / Lienhard, Luc </hi>(eds.): Hallers Netz. Ein europäischer Gelehrtenbriefwechsel zur Zeit der Aufklärung, Schwabe: Basel 2005.</bibl>
-                    <bibl><hi rend="bold">Vogeler, Georg </hi>et al.: prosopogrAPhI, URL: https://github.com/GVogeler/prosopogrAPhI (14.1.2018).</bibl>
+                    <bibl ref="#bibl__25"><hi rend="bold">Boschung, Urs et al. </hi>(eds.): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777 (Studia Halleriana VII), Basel: Schwabe 2006.</bibl>
+                    <bibl ref="#bibl__353"><hi rend="bold">Dumont, Stefan</hi> et al.: correspSearch, URL: http://correspsearch.net (14.1.2018).</bibl>
+                    <bibl ref="#bibl__26"><hi rend="bold">Flückiger, Daniel / Stuber, Martin</hi>: Vom System zum Akteur. Personenorientierte Datenbanken für Archiv und Forschung, in: Kirchhofer, André et al. (eds.), Nachhaltige Geschichte. Festschrift für Christian Pfister, Zürich: Chronos 2009, S. 253-269.</bibl>
+                    <bibl ref="#bibl__354"><hi rend="bold">Sonntag, Otto </hi>(ed.): The Albrecht von Haller-Gerlach Adolph von Münchhausen Correspondence, Digitale Edition, Bern 2018 (in Vorbereitung).</bibl>
+                    <bibl ref="#bibl__355"><hi rend="bold">Steinke, Hubert</hi>: Archive databases as advanced research tools: the Haller Project, in: Monti, Maria Teresa (ed.), Antonio Vallisneri. L'edizione del testo scientifico d'età moderna, Firenze: Olschki 2003, S. 191–204.</bibl>
+                    <bibl ref="#bibl__27"><hi rend="bold">Steinke, Hubert / Profos, Claudia</hi>: Bibliographia Halleriana: Verzeichnis der Schriften von und über Albrecht von Haller (Studia Halleriana VIII), Basel: Schwabe 2004.</bibl>
+                    <bibl ref="#bibl__356"><hi rend="bold">Stuber, Martin</hi>: Findmittel und Forschungsinstrument zugleich. Die Datenbank des Berner Haller-Projekts, in: Arbido 14, 1999, S. 5-10.</bibl>
+                    <bibl ref="#bibl__357"><hi rend="bold">Stuber, Martin / Hächler, Stefan / Lienhard, Luc </hi>(eds.): Hallers Netz. Ein europäischer Gelehrtenbriefwechsel zur Zeit der Aufklärung, Schwabe: Basel 2005.</bibl>
+                    <bibl ref="#bibl__358"><hi rend="bold">Vogeler, Georg </hi>et al.: prosopogrAPhI, URL: https://github.com/GVogeler/prosopogrAPhI (14.1.2018).</bibl>
                 </listBibl>
             </div>
       </back>

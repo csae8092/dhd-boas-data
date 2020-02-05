@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="R_DIGER_Jan_Oliver_CorpusExplorer_v2_0___Seminartauglich_in_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="R_DIGER_Jan_Oliver_CorpusExplorer_v2_0___Seminartauglich_in_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>CorpusExplorer v2.0 - Seminartauglich in einem halben Tag</title>
-                <author>
+                <author ref="#person__jan-ruediger-uni-kassel-de">
                     <persName>
                         <surname>Rüdiger</surname>
                         <forename>Jan Oliver</forename>
@@ -122,16 +120,16 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__897">
                         <hi rend="bold">Bubenhofer, N.</hi> (2011): Korpuslinguistik in der linguistischen Lehre: Erfolg und Misserfolge. In: Journals for Language Technology and Computational Linguistics 26 (1), S. 141–156.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__898">
                         <hi rend="bold">Dipper, S.</hi> (2011): Digitale Korpora in der Lehre: Anwendungsbeispiele aus der Theoretischen Linguistik und der Computerlinguistik. In: Journals for Language Technology and Computational Linguistics 26 (1), S. 81–95.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__899">
                         <hi rend="bold">Jänicke, S.; Blumenstein, J.; Rücker, M.; Zeckzer D. &amp; Scheuermann, G</hi>. (2015): Tagpies.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__900">
                         <hi rend="bold">Rüdiger, J.</hi> (2017): Korpushermeneutische Analyse politischer Reden mittels CorpusExplorer. In: 10plus1 - Living Linguistics (3), S. 11–21.
                     </bibl>
                 </listBibl>

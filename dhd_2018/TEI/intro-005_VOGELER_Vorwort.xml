@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="intro-005_VOGELER_Vorwort">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="intro-005_VOGELER_Vorwort">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Vorwort</title>
-                <author>
+                <author ref="#person__georg-vogeler-uni-graz-at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
@@ -41,10 +39,10 @@
                     <term>Vorwort</term>
                 </keywords>
                 <keywords scheme="original" n="topic">
-                    <term></term>
+                    <term/>
                 </keywords>
                 <keywords scheme="original" n="keywords">
-                    <term></term>
+                    <term/>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -56,11 +54,10 @@
                 <p>Für die Qualität der Beiträge sind natürlich die Autoren verantwortlich. Ihrem Bemühen, auch dem der vielen, die wir leider ablehnen mussten, gebührt das erste Dankeschön. Dazu beigetragen haben dann die vielen Gutachterinnen und Gutachter, die es ertragen mussten, von mir immer wieder daran erinnert zu werden, doch bitte ihre Expertise in den Dienst der Tagung zu stellen. Auch Ihnen/euch allen: Danke! Es blieben dann trotz dieser Expertise immer noch einige Nüsse zu knacken, die wir im Programmkomitee so sachlich, konstruktiv und wohlwollend diskutieren konnten, wie ich mir es für eine Tagung nur wünschen kann: Danke an Mareike König als meine Stellvertreterin, Andreas Münzmay, Claudine Moulin, Christof Schöch, Anne Baillot, Peter Gietz, Walter Scholger, Lisa Dieckmann, Andreas Henrich, Petra Gehring, Lars Wieneke und als Vertreter der lokalen Organisation Andreas Witt. Ebenso ein Danke an die übrigen lokalen Organisatorinnen und Organisatoren für die produktive Zusammenarbeit bei der Vorbereitung des Tagungsprogramms.</p>
                 <p>Die Konferenz – und damit auch diese Publikation – wäre natürlich nicht möglich, wenn es nicht Einrichtungen gäbe, die sie finanziell unterstützen. Sie sind auf der Rückseite des Titelblatts aufgelistet. Ich hoffe, das Ergebnis macht sie zufrieden. Wir bedanken uns auf jeden Fall für die Unterstützung!</p>
                 <p>Der Status einer wissenschaftlich nutzbaren Publikation hat auch etwas mit einer gründlichen Redaktion der Texte zu tun. Diese haben die Kölner Patrick Helling, Claes Neuefeind und Dana Persch geleistet. Sie haben die Vielfalt der TEI-Kodierungen, die der DHconvalidator aus der Vielfalt der eingereichten Dateiformatierungen erzeugte, angeglichen und daraus ein PDF erzeugt. Für die technische Abwicklung konnten Sie auf die Vorarbeiten der Leipziger Kolleginnen und Kollegen aufbauen. Ihrer aller Arbeit ist in diesem Band und in einem github-Repository (<ref target="https://github.com/GVogeler/DHd2018">https://github.com/GVogeler/DHd2018</ref>) dokumentiert. Ihnen gebührt deshalb ganz ausdrücklicher Dank!</p>
-                <p>&#160;</p>
+                <p> </p>
                 <dateline>Graz, Februar 2018</dateline><lb/>
                 <signed>Georg Vogeler<lb/>Vorsitzender des Programmkomitees</signed>
             </div>
         </body>
     </text>
 </TEI>
-

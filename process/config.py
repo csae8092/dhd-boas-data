@@ -1,7 +1,7 @@
 import os
 
 # define some directories and file patterns and create them if they don't yet exist
-CURRENT_YEAR = "dhd_2019"
+CURRENT_YEAR = "dhd_2018"
 PICS = 'Pictures'
 CURRENT_DIR = os.getcwd()
 BASE_DIR = os.path.split(os.getcwd())[0]

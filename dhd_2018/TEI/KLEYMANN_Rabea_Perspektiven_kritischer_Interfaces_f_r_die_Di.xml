@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Perspektiven kritischer Interfaces für die Digital Humanities im 3DH-Projekt</title>
-                <author>
+                <author ref="#person__rabea-kleymann-uni-hamburg-de">
                     <persName>
                         <surname>Kleymann</surname>
                         <forename>Rabea</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>Rabea.Kleymann@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__jan-c-meister-uni-hamburg-de">
                     <persName>
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>jan-c-meister@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__jan-erik-stange-uni-hamburg-de">
                     <persName>
                         <surname>Stange</surname>
                         <forename>Jan-Erik</forename>
@@ -129,19 +127,11 @@
                 </p>
                 <p>Abbildung 1 zeigt eine Auswahl von Varianten sogenannter „Wireframes“, d.h. von Designskizzen zu einem Interface für die Tätigkeit „Kommentieren“ in dem Szenario „Exploration freier Annotationen zwecks Schärfung der literaturwissenschaftlichen Fragestellung“.</p>
                 <figure>
-                    <graphic n="1001"
-                        width="15.531041666666667cm"
-                        height="11.567583333333333cm"
-                        rend="inline"
-                        url="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di-image1.png"/>
+                    <graphic n="1001" width="15.531041666666667cm" height="11.567583333333333cm" rend="inline" url="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di-image1.png"/>
                     <head>Abb.1: Wireframes für ein Interface zur Funktion „Kommentieren“ in dem Szenario „Exploration freier Annotationen zwecks Schärfung der literaturwissenschaftlichen Fragestellung“.</head>
                 </figure>
                 <figure>
-                    <graphic n="1002"
-                        width="16.002cm"
-                        height="11.567583333333333cm"
-                        rend="inline"
-                        url="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di-image2.png"/>
+                    <graphic n="1002" width="16.002cm" height="11.567583333333333cm" rend="inline" url="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di-image2.png"/>
                 </figure>
                 <p>In der Abbildung wird der Entwicklungsstand der visuellen Gestaltung dieser Tätigkeit zu zwei verschiedenen Zeitpunkten sichtbar. Der untere Wireframe präsentiert einen fortgeschrittenen Stand. Die Wireframes illustrieren die Verschränkung einzelner Tätigkeiten, die im Szenario beschrieben werden. Hier sieht man etwa den Zusammenhang zwischen den Tätigkeiten „Annotieren“ und „Kommentieren“ dargestellt, in dem Sinne, dass ein Kommentar in der Regel (wenn auch nicht immer) einer Annotation zugeordnet ist, die eine diskrete Position im Text besitzt, also häufig nicht isoliert von der Tätigkeit des Annotierens betrachtet werden kann.</p>
             </div>
@@ -157,11 +147,7 @@
                         <ref target="ftn6" n="6"/> Komplementär dazu verhalten sich zum anderen die argumentativen, vornehmlich synthetisierenden Tätigkeiten der Textinterpretation (Gruppieren, Ordnen, Strukturieren). Um den literaturwissenschaftlichen Arbeitsprozess adäquat unterstützen zu können, so unsere Annahme, müssen Interfaces beide Modi in enger Verschränkung umfassen und stetigen Wechsel zwischen diesen ermöglichen. Abbildung 2 zeigt einen ersten Versuch, die Ebene der Bedeutungsproduktion – von uns als „semantic plane“ bezeichnet – d.h. die Ebene, die analytische und synthetisierende Tätigkeiten umfasst und miteinander verknüpft, in die Interface-Entwürfe zu integrieren.
                     </p>
                     <figure>
-                        <graphic n="1003"
-                           width="15.9288cm"
-                           height="11.655219444444445cm"
-                           rend="inline"
-                           url="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di-image3.png"/>
+                        <graphic n="1003" width="15.9288cm" height="11.655219444444445cm" rend="inline" url="KLEYMANN_Rabea_Perspektiven_kritischer_Interfaces_f_r_die_Di-image3.png"/>
                         <head>Abb.2: Versuch der Integration der „semantic plane“ über die vom User vollzogene Positionierung von Elementen.</head>
                     </figure>
                 </div>
@@ -208,73 +194,73 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__423">
                         <hi rend="bold">Albrecht, Andrea / Danneberg, Lutz / Krämer, Olav / Spoerhase, Carlos</hi> (Hg.) (2015): 
                         <hi rend="italic">Theorien, Methode und Praktiken des Interpretierens.</hi> Berlin: de Gruyter.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__424">
                         <hi rend="bold">Bradley, John</hi> (2008): “Thinking about interpretation: Pliny and scholarship in the humanities”, in: 
                         <hi rend="italic">Literary and linguistic computing</hi>, 23(3), 263-279.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__425">
                         <hi rend="bold">Bühler, Axel</hi> (2003): “Interpretieren - Vielfalt oder Einheit?”, in: Jannidis, Fotis / Lauer, Gerhard / Martínez, Matías / Winko, Simone (Hg.): 
                         <hi rend="italic">Regeln der Bedeutung. Zur Theorie der Bedeutung literarischer Texte.</hi> Berlin: De Gruyter (Revisionen, 1) 169-181.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__426">
                         <hi rend="bold">Cheema, Muhammad F. / Jänicke, Stefan / Franzini, Greta / Scheuermann, Gerik</hi> (2015): “On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges“, in: 
                         <hi rend="italic">Eurographics Conference on Visualization</hi> (EuroVis) - STARs 83-103. 
                         <ref target="https://www.informatik.uni-leipzig.de/~stjaenicke/Survey.pdf">
                             <hi rend="underline">https://www.informatik.uni-leipzig.de/~stjaenicke/Survey.pdf </hi>
                         </ref>[letzter Zugriff: 10.09.2017]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__427">
                         <hi rend="bold">Drucker, Johanna</hi> (2011): “Humanities Approaches to Graphical Display”, in: 
                         <hi rend="italic">DH Quarterly</hi>, 5(1).
                         <ref target="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">
                             <hi rend="underline">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</hi>
                         </ref> [letzter Zugriff: 20.09.2017]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__428">
                         <hi rend="bold">Drucker, Johanna</hi> (2014): 
                         <hi rend="italic">Graphesis: Visual Forms of Knowledge Production</hi>. MetaLABprojects. Cambridge, Massachusetts: Harvard University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__32">
                         <hi rend="bold">Gadamer, Hans-Georg</hi> (1960, 1990): 
                         <hi rend="italic">Hermeneutik I. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik.</hi> Tübingen: Mohr.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__429">
                         <hi rend="bold">Gibbs, Fred / Owens, Trevor</hi> (2012): “Building better digital humanities tools”, in: 
                         <hi rend="italic">DH Quarterly</hi>, 6(2).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__430">
                         <hi rend="bold">Grinstein, Georges</hi> (2012): “New Grand Challenges in Information Visualization: New Theories, New Devices, and New Capabilities“, in: 
                         <hi rend="italic">Keynote address at iV2012</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__431">
                         <hi rend="bold">Jannidis, Fotis / Lauer, Gerhard / Martínez, Matías / Winko, Simone</hi> (2003): “Der Bedeutungsbegriff in der Literaturwissenschaft. Eine historische und systematische Skizze”, in: dies. (Hg.): 
                         <hi rend="italic">Regeln der Bedeutung. Zur Theorie der Bedeutung literarischer Texte</hi>. Berlin: De Gruyter (Revisionen, 1) 3-32.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__33">
                         <hi rend="bold">Kindt, Tom / Köppe, Tilmann</hi> (2008): “Einleitung”, in: dies. (Hg.): 
                         <hi rend="italic">Moderne Interpretationstheorien. Ein Reader.</hi> Göttingen: Vandenhoeck &amp; Ruprecht 7-26.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__432">
                         <hi rend="bold">Nünning, Ansgar</hi> (Hg.) (2008): 
                         <hi rend="italic">Metzler Lexikon. Literatur- und Kulturtheorie. Ansätze - Personen - Grundbegriffe.</hi> Stuttgart: Metzler 281-284.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__34">
                         <hi rend="bold">Nünning, Vera</hi> (2010): 
                         <hi rend="italic">Methoden der literatur- und kulturwissenschaftlichen Textanalyse. Ansätze – Grundlagen – Modellanalysen.</hi> Stuttgart: Metzler 1-29.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__433">
                         <hi rend="bold">Rosson, Mary B. / Carroll, John M.</hi> (2009): 
                         <hi rend="italic">Scenario based design. Human‐computer interaction.</hi> Boca Raton, FL, 145-162.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__434">
                         <hi rend="bold">Satyanarayan, Arvind / Moritz, Dominik / Wongsuphasawat, Kanit / Heer, Jeffrey</hi> (2017): “Vega-Lite: A Grammar of Interactive Graphics”, in: I
                         <hi rend="italic">EEE transactions on visualization and computer graphics</hi> 23(1), 341–350. DOI: 10.1109/TVCG.2016.2599030. [letzter Zugriff: 18.09.2017]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__35">
                         <hi rend="bold">Unsworth, John</hi> (2000): "Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might Our Tools Reflect This?", in: 
                         <hi rend="italic">Symposium on Humanities Computing: formal methods, experimental practice.</hi> King’s College London, 2000.
                         <ref target="http://people.brandeis.edu/%7Eunsworth/Kings.5-00/primitives.html"> </ref>
@@ -282,56 +268,56 @@
                             <hi rend="underline">http://people.brandeis.edu/~unsworth/Kings.5-00/primitives.html</hi>
                         </ref>.[letzter Zugriff: 18.09.2017]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__435">
                         <hi rend="bold">Wilkinson, Leland</hi> (2006): 
                         <hi rend="italic">The grammar of graphics</hi>. New York: Springer Science &amp; Business Media.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__436">
                         <hi rend="bold">Winko, Simone</hi> (2003): “Textanalyse”, in: Georg Braungart / Harald Fricke / Klaus Grubmüller / Friedrich Vollhardt / Klaus Weimar (Hg.): 
                         <hi rend="italic">Reallexikon der deutschen Literaturwissenschaft</hi>. Bd. 2.Berlin, New York: de Gruyter 2003 597-601.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__437">
                         <hi rend="bold">Winko, Simone</hi> (2015): “Zur Plausibilität als Beurteilungskriterium literaturwissenschaftlicher Interpretationen”, in: Andrea Albrecht / Lutz Danneberg / Olav Krämer / Carlos Spoerhase (Hg.): 
                         <hi rend="italic">Theorien, Methoden und Praktiken des Interpretierens.</hi> Berlin: de Gruyter 483-511.
                     </bibl>
-                    <bibl>3DH 
+                    <bibl ref="#bibl__36">3DH 
                         <ref target="http://www.threedh.net">
                             <hi rend="underline">http://www.threedh.net</hi>
                         </ref>
                     </bibl>
-                    <bibl>CATMA 
+                    <bibl ref="#bibl__37">CATMA 
                         <ref target="http://www.catma.de">
                             <hi rend="underline">http://www.catma.de</hi>
                         </ref>
                     </bibl>
-                    <bibl>D3 – Data-Driven Documents: 
+                    <bibl ref="#bibl__438">D3 – Data-Driven Documents: 
                         <ref target="https://d3js.org/">
                             <hi rend="underline">https://d3js.org/</hi>
                         </ref>
                     </bibl>
-                    <bibl>forTEXT 
+                    <bibl ref="#bibl__38">forTEXT 
                         <ref target="http://www.fortext.net">
                             <hi rend="underline">http://www.fortext.net</hi>
                         </ref>
                     </bibl>
-                    <bibl>hermA 
+                    <bibl ref="#bibl__439">hermA 
                         <ref target="https://www.korpuslab.uni-hamburg.de/projekte/herma.html">
                             <hi rend="underline">https://www.korpuslab.uni-hamburg.de/projekte/herma.html</hi>
                         </ref>
                     </bibl>
-                    <bibl>heureCLÉA 
+                    <bibl ref="#bibl__39">heureCLÉA 
                         <ref target="http://heureclea.de">
                             <hi rend="underline">http://www.heureclea.de</hi>
                         </ref>
                     </bibl>
-                    <bibl>Pliny http://pliny.cch.kcl.ac.uk/</bibl>
-                    <bibl>TEASys http://www.annotation.es.uni-tuebingen.de/?page_id=200</bibl>
-                    <bibl>VEGA – A Visualization Grammar: 
+                    <bibl ref="#bibl__440">Pliny http://pliny.cch.kcl.ac.uk/</bibl>
+                    <bibl ref="#bibl__441">TEASys http://www.annotation.es.uni-tuebingen.de/?page_id=200</bibl>
+                    <bibl ref="#bibl__442">VEGA – A Visualization Grammar: 
                         <ref target="https://vega.github.io/vega/">
                             <hi rend="underline">https://vega.github.io/vega/</hi>
                         </ref>
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__443">
                         <ref target="http://www.procontext.com/aktuelles/2010/03/iso-9241210-prozess-zur-entwicklung-gebrauchstauglicher-interaktiver-systeme-veroeffentlicht.html">
                             <hi rend="underline">http://www.procontext.com/aktuelles/2010/03/iso-9241210-prozess-zur-entwicklung-gebrauchstauglicher-interaktiver-systeme-veroeffentlicht.html</hi>
                         </ref> [letzter Zugriff: 18.09.2017]

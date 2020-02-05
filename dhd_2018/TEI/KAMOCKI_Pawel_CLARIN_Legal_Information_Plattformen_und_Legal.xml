@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KAMOCKI_Pawel_CLARIN_Legal_Information_Plattformen_und_Legal">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KAMOCKI_Pawel_CLARIN_Legal_Information_Plattformen_und_Legal">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>CLARIN Legal Information Plattformen und Legal Helpdesk</title>
-                <author>
+                <author ref="#person__pawel-kamocki-gmail-com">
                     <persName>
                         <surname>Kamocki</surname>
                         <forename>Pawel</forename>
@@ -13,7 +11,7 @@
                     <affiliation>WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
                     <email>pawel.kamocki@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__eketzan-gmail-com">
                     <persName>
                         <surname>Ketzan</surname>
                         <forename>Erik</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Birkbeck, University of Lonfon</affiliation>
                     <email>eketzan@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__j-wildgans-googlemail-com">
                     <persName>
                         <surname>Wildgans</surname>
                         <forename>Julia</forename>
@@ -29,7 +27,7 @@
                     <affiliation>IDS Mannheim; Universität Mannheim</affiliation>
                     <email>j.wildgans@googlemail.com</email>
                 </author>
-                <author>
+                <author ref="#person__witt-ids-mannheim-de">
                     <persName>
                         <surname>Witt</surname>
                         <forename>Andreas</forename>

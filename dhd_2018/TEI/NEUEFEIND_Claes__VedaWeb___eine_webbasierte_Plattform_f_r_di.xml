@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="NEUEFEIND_Claes__VedaWeb___eine_webbasierte_Plattform_f_r_di">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NEUEFEIND_Claes__VedaWeb___eine_webbasierte_Plattform_f_r_di">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main"> VedaWeb – eine webbasierte Plattform für die Erforschung altindischer Texte</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__uta-reinoehl-uni-koeln-de">
                     <persName>
                         <surname>Reinöhl</surname>
                         <forename>Uta</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Universität zu Köln</affiliation>
                     <email>uta.reinoehl@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__d-koelligan-uni-koeln-de">
                     <persName>
                         <surname>Kölligan</surname>
                         <forename>Daniel</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Universität zu Köln</affiliation>
                     <email>d.koelligan@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__kiss-mailbox-org">
                     <persName>
                         <surname>Kiss</surname>
                         <forename>Börge</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Universität zu Köln</affiliation>
                     <email>kiss@mailbox.org</email>
                 </author>
-                <author>
+                <author ref="#person__f-mondaca-uni-koeln-de">
                     <persName>
                         <surname>Mondaca</surname>
                         <forename>Francisco</forename>
@@ -40,7 +38,7 @@
                     <affiliation>Universität zu Köln</affiliation>
                     <email>f.mondaca@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__c-neuefeind-uni-koeln-de">
                     <persName>
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
@@ -48,7 +46,7 @@
                     <affiliation>Universität zu Köln</affiliation>
                     <email>c.neuefeind@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__sahle-uni-koeln-de">
                     <persName>
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
@@ -175,44 +173,44 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1004">
                         <hi rend="bold">Geldner, Karl Friedrich</hi> (2003) [1951-57]: 
                         <hi rend="italic">Der Rig-Veda. Aus dem Sanskrit ins Deutsche übersetzt und mit einem laufenden Kommentar versehen von Karl Friedrich Geldner</hi>. Cambridge (Mass.): Harvard University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1005">
                         <hi rend="bold">Grassmann, Hermann</hi> (1873): 
                         <hi rend="italic">Wörterbuch zum Rig-veda</hi>. Wiesbaden, O. Harrassowitz.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1006">
                         <hi rend="bold">Grassmann, Hermann</hi> (1876): 
                         <hi rend="italic">Rig-veda. Übersetzt und mit kritischen und erläuternden Anmerkungen versehen von Hermann Grassmann</hi>. Leipzig: F.A. Brockhaus.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1007">
                         <hi rend="bold">Griffith, Ralph T. H.</hi> (1896): 
                         <hi rend="italic">The Hymns of the Rigveda</hi>. Benares: Lazarus.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1008">
                         <hi rend="bold">Keydana, Götz / Luraghi, Silvia</hi> (2012): 
                         <hi rend="italic">Definite referential null objects in Vedic Sanskrit and Ancient Greek</hi>. Acta Linguistica Hafniensia 44 (2):116–28. 
                         <ptr target="https://doi.org/10.1080/03740463.2013.776245"/>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1009">
                         <hi rend="bold">Kulikov, Leonid</hi> (2012): 
                         <hi rend="italic">The Vedic -ya-Presents: Passives and Intransitivity in Old Indo-Aryan</hi>. Amsterdam, Netherlands: Rodopi.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1010">
                         <hi rend="bold">Oldenberg, Hermann</hi> (1909/1912): 
                         <hi rend="italic">R̥gveda. Textkritische und exegetische Noten</hi>. Berlin: Weidmann.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1011">
                         <hi rend="bold">Reinöhl, Uta</hi> (2016): 
                         <hi rend="italic">Grammaticalization and the Rise of Configurationality in Indo-Aryan.</hi> Oxford: Oxford University Press
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1012">
                         <hi rend="bold">Scarlata, Salvatore / Widmer, Paul</hi> (2015): 
                         <hi rend="italic">Vedische exozentrische Komposita mit drei Relationen</hi>. Indo-Iranian Journal, 58(1):26-47.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1013">
                         <hi rend="bold">Widmer, Paul</hi> (2007): 
                         <hi rend="italic">Der altindische vrkī́-Typus und hethitisch nakki-: Der indogermanische Instrumental zwischen Syntax und Morphologie. </hi>Zeitschrift für Sprachwissenschaft, (1-2):190-208.
                     </bibl>

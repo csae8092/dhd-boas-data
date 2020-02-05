@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="NEUBER_Frederike_Alles_ist_im_Fluss___Ressourcen_und_Rezensi">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="NEUBER_Frederike_Alles_ist_im_Fluss___Ressourcen_und_Rezensi">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Alles ist im Fluss - Ressourcen und Rezensionen in den Digital Humanities.</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__neuber-frederike-gmail-com">
                     <persName>
                         <surname>Neuber</surname>
                         <forename>Frederike</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>neuber.frederike@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__ulrike-henny-uni-wuerzburg-de">
                     <persName>
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
@@ -24,7 +22,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__sahle-uni-koeln-de">
                     <persName>
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
@@ -32,7 +30,7 @@
                     <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__franz-fischer-uni-koeln-de">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
@@ -190,105 +188,105 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1260">
                         <anchor xml:id="id_docs-internal-guid-c79ca25d-f90c-0841-1f74-1b0281500f3f"/>
                         <hi rend="bold">American Historical Association</hi> (AHA, ed., 2015): “Guidelines for the Evaluation of Digital Scholarship in History”. 
                         <ptr target="https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-evaluation-of-digital-scholarship-in-history"/> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1261">
                         <hi rend="bold">Assmann, Bernhard / Sahle, Patrick </hi>(2008): 
                         <hi rend="italic">Digital ist besser. Die Monumenta Germaniae Historica mit den dMGH auf dem Weg in die Zukunft – eine Momentaufnahme.</hi> Norderstedt: Books on Demand.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1262">
                         <hi rend="bold">Cohen, Daniel J. / Fragaszy Trojano, Joan </hi>(eds., 2012): “Closing the Evaluation Gap”, in: 
                         <hi rend="italic">Journal of the Digital Humanities</hi> 1, 4. 
                         <ptr target="http://journalofdigitalhumanities.org/1-4/closing-the-evaluation-gap/"/> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1263">
                         <hi rend="bold">Deutsche Nationalbibliothek</hi> (ed., 2017): Definition des Begriffs “Digitale Publikation” und aktuelle Verwendung der Terminologie in der Deutschen Nationalbibliothek. Ergänzende Ausführungen im Rahmen der Diskussion “Zum Sammelauftrag der Deutschen Nationalbibliothek”. 
                         <ptr target="http://www.dnb.de/SharedDocs/Downloads/DE/DNB/wir/definitionDigitalePublikation.pdf"/> [letzter Zugriff 14. Januar 2018]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1264">
                         <hi rend="bold">Digital Humanities im deutschsprachigen Raum </hi>(DHd, ed., 2016): “Digitales Publizieren”. Wolfenbüttel: HAB. Stand: 01.03.2016. DOI: 10.15499/dhd-wp.001 
                         <ptr target="http://dx.doi.org/10.15499/dhd-wp.001"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1265">
                         <hi rend="bold">Henny, Ulrike / Neuber, Frederike / unter Mitarbeit von den Mitgliedern des IDE </hi>(2017):. 
                         <hi rend="italic">Criteria for Reviewing Digital Text Collections</hi>, version 1.0. 
                         <ptr target="https://www.i-d-e.de/publikationen/weitereschriften/criteria-text-collections-version-1-0/"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1266">
                         <hi rend="bold">Henny, Ulrike </hi>[erscheint demnächst]: “Reviewing von digitalen Editionen im Kontext der Evaluation digitaler Forschungsergebnisse.” In: 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi> (ZfdG). 
                         <hi rend="italic">Sonderband 2: Digitale Metamorphose. Digital Humanities und Editionswissenschaft.</hi> Hrsg. von Roland S. Kamzelak und Timo Steyer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1267">
                         <hi rend="bold">Hohls, Rüdiger </hi>(eds., 1996ff.): 
                         <hi rend="italic">H-Soz-Kult. Kommunikation und Fachinformation für die Geisteswissenschaften. Angeboten von Clio-online - Historisches Fachinformationssystem e.V. Berlin.</hi>
                         <ptr target="http://www.hsozkult.de/"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1268">
                         <hi rend="bold">Institut für Dokumentologie und Editorik e.V.</hi> (eds. 2014ff.): 
                         <hi rend="italic">RIDE. A Review Journal for Digital Editions and Resources</hi>. Köln. 
                         <ptr target="http://ride.i-d-e.de/"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1269">
                         <hi rend="bold">Jäger, Georg </hi>(2001): “Von Pflicht und Kür im Rezensionswesen.” In: 
                         <hi rend="italic">IASLonline Diskussionsforum. Wissenschaftliche Kommunikation in der Kontroverse</hi>. Bayreuth / München, 
                         <ptr target="http://www.iasl.uni-muenchen.de/discuss/lisforen/jaerezen.html"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1270">
                         <hi rend="bold">Jannidis, Fotis</hi> (1999): “Bewertungskriterien für elektronische Editionen”, in: 
                         <hi rend="italic">IASL Diskussionsforum online</hi>. 
                         <ptr target="http://iasl.uni-muenchen.de/discuss/lisforen/jannidis.htm"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1271">
                         <hi rend="bold">Just, Thomas </hi>(2009): “Rezension von: Digital ist besser”, in: 
                         <hi rend="italic">sehepunkte </hi>9, Nr. 3 
                         <ptr target="http://www.sehepunkte.de/2009/03/14673.html"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1272">
                         <hi rend="bold">Modern Language Association</hi> (MLA, ed., 2012): “Guidelines for Evaluating Work in Digital Humanities and Digital Media” 
                         <ptr target="https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1273">
                         <hi rend="bold">Pierazzo, Elena</hi> (2014): “Trusting Digital Editions? Peer Review and Evaluation of Digital Scholarship”, in: dies. 
                         <hi rend="italic">Digital Scholarly Editing: Theories, Models and Methods</hi>, 182-205. Hal Id: hal-01182162. 
                         <ptr target="http://hal.univ-grenoble-alpes.fr/hal-01182162"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1274">
                         <hi rend="bold">Presner, Todd </hi>(2012): “How to Evaluate Digital Scholarship”, in: 
                         <hi rend="italic">Journal of Digital Humanities </hi>1, 4 (2012).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1275">
                         <hi rend="bold">Raymond, Eric S.</hi> (2001): 
                         <hi rend="italic">The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</hi>. Sebastopol: O’Reilly, 
                         <ptr target="http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1276">
                         <hi rend="bold">Rockwell, Geoffrey</hi> (2012): “Short Guide To Evaluation Of Digital Work”, in: 
                         <hi rend="italic">Journal of Digital Humanities</hi> 1, 4 (2012).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1277">
                         <hi rend="bold">Sahle, Patrick / unter Mitarbeit von Georg Vogeler und den Mitgliedern des IDE</hi> (2014): 
                         <hi rend="italic">Kriterienkatalog für die Besprechung digitaler Editionen</hi>, Version 1.1. 
                         <ptr target="https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1278">
                         <hi rend="bold">Schelbert, Georg </hi>(2017): “Digital kann mehr! Das neue Graphikportal”, in: 
                         <hi rend="italic">blog.arthistoricum.net </hi>
                         <ptr target="https://blog.arthistoricum.net/beitrag/2017/11/23/digital-kann-mehr-das-neue-graphikportal/"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1279">
                         <hi rend="bold">Schöch, Christof </hi>(2017):. “Poston / Niles, eds., Folger Digital Texts”, in: 
                         <hi rend="italic">Variants</hi> 11, 2014, pp. 16-20. DOI: 
                         <ptr target="http://doi.org/10.5281/zenodo.13745"/> [letzter Zugriff 14. Januar 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1280">
                         <hi rend="bold">Schreibman, Susan / Mandell, Laura / Olsen, Stephen </hi>(eds., 2011): “Evaluating Digital Scholarship”, in: 
                         <hi rend="italic">Profession.</hi> DOI: 10.1632/prof.2011.2011.1.123
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1281">
                         <hi rend="bold">Yates, Kimberly </hi>(2008): “Creating a Prize for the Best Digital Editions / Online Archives.”, in: 
                         <hi rend="italic">Scroll – Essays on the Design of Electronic Texts</hi> 1, 1.
                     </bibl>

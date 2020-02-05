@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BUSCH_Hannah_Auf_der_Suche_nach_der_verlorenen_Materialit_t_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BUSCH_Hannah_Auf_der_Suche_nach_der_verlorenen_Materialit_t_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Auf der Suche nach der verlorenen Materialität. </title>
                     <title type="sub">Kodikologie und Restaurierungswissen-schaft im Zeitalter der (Massen-) Digitalisierung.</title>
                 </title>
-                <author>
+                <author ref="#person__buschh-uni-trier-de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Hannah</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Center for Digital Humanities, Universität Trier, Deutschland</affiliation>
                     <email>buschh@uni-trier.de</email>
                 </author>
-                <author>
+                <author ref="#person__ef-fa-web-de">
                     <persName>
                         <surname>Bös</surname>
                         <forename>Eva</forename>
@@ -105,7 +103,7 @@
             </div>
             <div type="div1" rend="DH-Heading1">
                 <head>Gegen eine Theoretisierung der Materialität
-                    <ref target="ftn4" n="4"></ref> ‒ Materialität von analogem Original und digitalem Faksimile
+                    <ref target="ftn4" n="4"/> ‒ Materialität von analogem Original und digitalem Faksimile
                 </head>
                 <p>Dem digitalisierten Objekt wird häufig seine Materialität abgesprochen; darüber zu diskutieren, dass das digitale Faksimile einer mittelalterlichen Handschrift nicht die gleiche synästhetische Erfahrung bieten kann wie das Original, ist obsolet. Es ist wahr, dass das digitale Faksimile zunächst nicht dazu geeignet scheint physische Eigenschaften, wie Lagenstrukturen, Linierung, den Erhaltungszustand oder Eigenschaften der Bindung zu untersuchen (vgl. Pierazzo 2016:94). Dass dennoch gerade eHumanities-Projekte, die sich im Feld der digitalen Kodikologie angesiedelt haben, materielle Eigenschaften von Handschriften ins Zentrum zu rücken verstehen, zeigen etwa das groß angelegte Projekt der 
                     <ref target="https://www.wasserzeichen-online.de/wzis/index.php">Wasserzeichendatenbank</ref>, die Untersuchungen des 
@@ -121,10 +119,10 @@
             <div type="div1" rend="DH-Heading1">
                 <head>Gemeinsame Aufgaben, gemeinsame Ziele, gemeinsame Probleme </head>
                 <p>Wirft man einen Blick auf die Unterfangen der Digitalisierung und der Restaurierung fällt auf, dass sie die Kernaufgabe, Kulturgut zu erhalten und zugleich der Forschung und dem allgemeinen Nutzen zugänglich zu machen, gemeinsam haben. Sie teilen aber auch die mit diesen gemeinsamen Aufgaben und Zielen einhergehenden Probleme der Finanzierung der Maßnahmen, das ungeklärte und teils unabsehbare Problem der Langzeiterhaltung und den Kampf um die nötige Aufmerksamkeit auf institutioneller und politischer Ebene.
-                    <ref target="ftn6" n="6"></ref>
+                    <ref target="ftn6" n="6"/>
                     Sammlungen und Einzelexemplare mit einer hohen Nutzungsintensität stehen in einem erhöhten Interesse der Zugänglichmachung und werden mit einer höheren Priorität der Bestandserhaltung zugeführt, während andere Handschriften ihr einsames und weitgehend ungeachtetes Dasein in den Magazinen von Bibliotheken und Magazinen fristen. Durch die Motivation, vollständige Handschriftenbestände zu digitalisieren – beispielsweise um dislozierte Bestände digital wieder zusammenzuführen – rücken jedoch inzwischen auch bisher wenig beachtete Bestände in den Fokus und erhalten den ‚Luxus‘ restauratorischer Begutachtung und Behandlung sowie der prioritären Bestandserhaltung mittels Digitalisierung
                     <anchor xml:id="id__1fob9te"/>.
-                    <ref target="ftn7" n="7"></ref>Geht man einen Schritt weiter und richtet seinen Fokus auf die daraus resultierenden neuen Möglichkeiten für die Forschungsdisziplinen Kodikologie und Restaurierungswissenschaft, lassen sich weitere Gemeinsamkeiten erkennen: beide bedienen sich derselben Techniken – der Bildverarbeitung und Mustererkennung – um neue Erkenntnisse und Arbeitsabläufe zu kreieren (vgl. Weber / Hähner 2014: 139ff und Busch / Chandna 2017), beide stehen vor den selben Herausforderungen, wie dem Mengenbetrieb sowie der daraus resultierenden Verwaltung großer Datenmengen. 
+                    <ref target="ftn7" n="7"/>Geht man einen Schritt weiter und richtet seinen Fokus auf die daraus resultierenden neuen Möglichkeiten für die Forschungsdisziplinen Kodikologie und Restaurierungswissenschaft, lassen sich weitere Gemeinsamkeiten erkennen: beide bedienen sich derselben Techniken – der Bildverarbeitung und Mustererkennung – um neue Erkenntnisse und Arbeitsabläufe zu kreieren (vgl. Weber / Hähner 2014: 139ff und Busch / Chandna 2017), beide stehen vor den selben Herausforderungen, wie dem Mengenbetrieb sowie der daraus resultierenden Verwaltung großer Datenmengen. 
                 </p>
             </div>
             <div type="div1" rend="DH-Heading1">
@@ -178,29 +176,29 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Berliner Appell zum Erhalt des digitalen Kulturerbes, September 2013. http://www.berliner-appell.org [letzter Zugriff am 25. September 2017].</bibl>
-                    <bibl> 
+                    <bibl ref="#bibl__901">Berliner Appell zum Erhalt des digitalen Kulturerbes, September 2013. http://www.berliner-appell.org [letzter Zugriff am 25. September 2017].</bibl>
+                    <bibl ref="#bibl__902"> 
                         <hi rend="bold">Busch, Hannah / Chandna, Swati </hi>(2017): “eCodicology: The Computer and the Mediaeval Library” in: Busch, Hannah / Fischer, Franz / Sahle, Patrick (Hrsg.): 
                         <hi rend="italic">Kodikologie und Paläographie im digitalen Zeitalter 4. </hi>Norderstedt: BoD. urn:nbn:de:hbz:38-77742
                     </bibl>
-                    <bibl><hi rend="bold">Chandna, Swati / Tonne, Danah / Jejkal, Thomas / Stotzka, Rainer / Krause, Celia / Vanscheidt, Philipp / Busch, Hannah / Prabhune, Ajinkya </hi>(2015): “Software Workflow for the Automatic Tagging of Mediaeval Manuscript Images (SWATI)” in: Ringger, Eric K. / Bart Lamiroy (eds.): 
+                    <bibl ref="#bibl__903"><hi rend="bold">Chandna, Swati / Tonne, Danah / Jejkal, Thomas / Stotzka, Rainer / Krause, Celia / Vanscheidt, Philipp / Busch, Hannah / Prabhune, Ajinkya </hi>(2015): “Software Workflow for the Automatic Tagging of Mediaeval Manuscript Images (SWATI)” in: Ringger, Eric K. / Bart Lamiroy (eds.): 
                         <hi rend="italic">SPIE Proceedings 9402.</hi>
                         <hi rend="italic">Document Recognition and Retrieval XXII</hi>. San Francisco, February 11-12 2015.
                     </bibl>
-                    <bibl><hi rend="bold">Knoche, Michael</hi> (2017): „Rettung von Bücherschätzen. In guter Ordnung, aber schlechter Verfassung“ in: F.A.Z. vom 18.07.2017. http://www.faz.net/-gqz-8zv5x [letzter Zugriff 25. September 2017].
+                    <bibl ref="#bibl__904"><hi rend="bold">Knoche, Michael</hi> (2017): „Rettung von Bücherschätzen. In guter Ordnung, aber schlechter Verfassung“ in: F.A.Z. vom 18.07.2017. http://www.faz.net/-gqz-8zv5x [letzter Zugriff 25. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Pierazzo, Elena</hi> (2015): 
+                    <bibl ref="#bibl__905"><hi rend="bold">Pierazzo, Elena</hi> (2015): 
                         <hi rend="italic">Digital Scholarly Editing. Theories, Models and Methods.</hi> London: Routledge.
                     </bibl>
-                    <bibl><hi rend="bold">Schreiber, Carolin / </hi>
+                    <bibl ref="#bibl__906"><hi rend="bold">Schreiber, Carolin / </hi>
                         <hi rend="bold">Fabian, Claudia</hi>
                         <hi rend="bold"> (Red.)</hi> (2015): 
                         <hi rend="italic">Digitalisierung mittelalterlicher Handschriften in deutschen Bibliotheken.</hi> Masterplan. München. http://www.handschriftenzentren.de/wp-content/uploads/2016/06/Priorisierungsfragen-Masterplan_pub.pdf
                     </bibl>
-                    <bibl><hi rend="bold">Weber, Jürgen / Hähner, Ulrike (Hrsg.) </hi>(2014): 
+                    <bibl ref="#bibl__907"><hi rend="bold">Weber, Jürgen / Hähner, Ulrike (Hrsg.) </hi>(2014): 
                         <hi rend="italic">Restaurieren nach dem Brand. Die Rettung der Bücher der Herzogin Anna Amalia Bibliothek</hi>. Petersberg: Michael Imhof Verlag.
                     </bibl>
-                    <bibl>Weimarer Appell zur Erhaltung schriftlichen Kulturguts, September 2014.</bibl>
+                    <bibl ref="#bibl__908">Weimarer Appell zur Erhaltung schriftlichen Kulturguts, September 2014.</bibl>
                 </listBibl>
             </div>
       </back>

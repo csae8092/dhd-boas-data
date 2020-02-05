@@ -124,6 +124,7 @@ class TeiReader():
                 './tei:email/text()', namespaces=self.ns_tei
             )[0]
             slugged = slugify(mail_addr)
+            print(slugged)
             yield (x, mail_addr, slugged)
 
     def add_refs(self):
@@ -187,7 +188,7 @@ class TeiReader():
             md['title'] = title[0].strip()
         elif len(title) > 1:
             md['title'] = " ".join(title).strip()
-        md['text_type'] = text_type[0]
+        md['text_type'] = text_type
         md['keywords'] = keywords
         md['topics'] = [x.strip() for x in topics]
         md['fulltext'] = " ".join(

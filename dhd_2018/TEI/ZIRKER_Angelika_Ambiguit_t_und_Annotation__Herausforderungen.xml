@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ZIRKER_Angelika_Ambiguit_t_und_Annotation__Herausforderungen">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ZIRKER_Angelika_Ambiguit_t_und_Annotation__Herausforderungen">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ambiguität und Annotation: Herausforderungen von Automatisierung und Digitalität </title>
-                <author>
+                <author ref="#person__angelika-zirker-uni-tuebingen-de">
                     <persName>
                         <surname>Zirker</surname>
                         <forename>Angelika</forename>
@@ -97,68 +95,68 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1365">
                         <hi rend="bold">Assmann, Jan</hi> (1995). “Text und Kommentar: Einführung,” in: Assmann, Jan / Gladigow, Burkhard (eds.): 
                         <hi rend="italic">Text und Kommentar: Archäologie der literarischen Kommunikation IV</hi>. München: Fink 9-33.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1366">
                         <hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2015): “Whipping Boys Explained: Literary Annotation and Digital Humanities,” in: Siemens, Ray / Price, Kenneth M. (eds.): 
                         <hi rend="italic">Literary Studies in the Digital Age: An Evolving Anthology</hi>. Ed. Ray Siemens and Kenneth M. Price. 
                         <ref target="https://dlsanthology.commons.mla.org/whipping-boys-explained-literary-annotation-and-digital-humanities/">https://dlsanthology.commons.mla.org/whipping-boys-explained-literary-annotation-and-digital-humanities/</ref> [letzter Zugriff: 11. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__102">
                         <hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2017): “Explanatory Annotation of Literary Texts and the Reader: Seven Types of Problems,” in: Zirker, Angelika / Bauer, Matthias (eds.): 
                         <hi rend="italic">International Journal of Humanities and Arts Computing</hi>. 11.2 (2017): 212-32. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1367">
                         <hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (in Vorb.): 
                         <hi rend="italic">Strategies of Ambiguity</hi>. Routledge [zur Publikation angenommen; erscheint 2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1368">
                         <hi rend="bold">Berry, David M.</hi> (2012): “Introduction: Understanding Digital Humanities,” in: Berry, David M. (ed.): 
                         <hi rend="italic">Understanding Digital Humanities</hi>. London: Palgrave Macmillan.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1369">
                         <hi rend="bold">Bode, Christoph</hi> (1988): 
                         <hi rend="italic">Ästhetik der Ambiguität: Zur Funktion und Bedeutung von Mehrdeutigkeit in der Literatur der Moderne</hi>. Tübingen: Niemeyer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1370">
                         <hi rend="bold">Booth, William</hi> (ed.) (1977). 
                         <hi rend="italic">Shakespeare’s Sonnets</hi>. New Haven: Yale University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__118">
                         <hi rend="bold">Drucker, Johanna</hi> (2012). “Humanistic Theory and Digital Scholarship,” in: Gold, Matthew K. (ed.): 
                         <hi rend="italic">Debates in the Digital Humanities</hi>. Minneapolis: University of Minnesota Press 85-95.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1371">
                         <hi rend="bold">Eggert, Paul</hi> (2009). “The Book, the E-text and the ‘Work-site,’” in: Deegan, Marilyn / Sutherland, Kathryn (eds.): 
                         <hi rend="italic">Text Editing, Print and the Digital World</hi>. Aldershot: Ashgate 63-82.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__119">
                         <hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse’, 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, 1 (2015), 
                         <ref target="http://www.zfdg.de/sb001_006">http://www.zfdg.de/sb001_006</ref> [letzter Zugriff: 11. September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__111">
                         <hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2017): “The Hermeneutic Profit of Annotation: On Preventing and Fostering Disagreement in Literary Analysis,” in: Zirker, Angelika / Bauer, Matthias (eds.): 
                         <hi rend="italic">International Journal of Humanities and Arts Computing</hi>. 11.2 (2017): 233-54. [im Druck]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1372">
                         <hi rend="bold">GRK 1808</hi> (2017): “Forschungsprogramm des Graduiertenkollegs ‚Ambiguität: Produktion und Rezeption,” https://www.uni-tuebingen.de/forschung/forschungsschwerpunkte/graduiertenkollegs/grk-1808-ambiguitaet-produktion-und-rezeption/forschung/forschungsprogramm.html
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1373">
                         <hi rend="bold">Parry, Dave</hi> (2012). “The Digital Humanities or a Digital Humanism,” in: Gold, Matthew K. (ed.): 
                         <hi rend="italic">Debates in the Digital Humanities</hi>. Minneapolis: University of Minnesota Press 429-37.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1374">
                         <hi rend="bold">van Peursen, Wido</hi> (2010): “Text Comparison and Digital Creativity: An Introduction,” in: van Peursen, Wido / Thoutenhoofdm Ernst D. / van der Weel, Adrian (eds.): 
                         <hi rend="italic"> Text Comparison and Digital Creativity: The Production of Presence and Meaning in Digital Text Scholarship</hi>. Leiden: Brill 1-27.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1375">
                         <hi rend="bold">Zirker, Angelika</hi> (2014): “‘To Be Taken with a Grain of Salt’: Charles Dickens and the Ambiguous Ghost Story,” in: Lennartz, Norbert / Koch, Dieter (eds.): 
                         <hi rend="italic">Texts, Contexts and Intertextuality: Dickens as a Reader</hi>. Göttingen: Vandenhoeck &amp; Ruprecht 163-80.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1376">
                         <hi rend="bold">Zirker, Angelika / Bauer, Matthias</hi> (2017): “Guest Editors’ Introduction: Explanatory Annotation in the Context of the Digital Humanities,” in: Zirker, Angelika / Bauer, Matthias (eds.): 
                         <hi rend="italic">International Journal of Humanities and Arts Computing</hi>. 11.2 (2017): 145-52. 
                     </bibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ground Truth: Grundwahrheit oder Ad-Hoc-Lösung? Wo stehen die Digital Humanities?</title>
-                <author>
+                <author ref="#person__boenig-bbaw-de">
                     <persName>
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>boenig@bbaw.de</email>
                 </author>
-                <author>
+                <author ref="#person__maria-federbusch-sbb-spk-berlin-de">
                     <persName>
                         <surname>Federbusch</surname>
                         <forename>Maria</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>maria.federbusch@sbb.spk-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__herrmann-hab-de">
                     <persName>
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>herrmann@hab.de</email>
                 </author>
-                <author>
+                <author ref="#person__clemens-neudecker-sbb-spk-berlin-de">
                     <persName>
                         <surname>Neudecker</surname>
                         <forename>Clemens</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>clemens.neudecker@sbb.spk-berlin.de</email>
                 </author>
-                <author>
+                <author ref="#person__wuerzner-bbaw-de">
                     <persName>
                         <surname>Würzner</surname>
                         <forename>Kay-Michael</forename>
@@ -119,11 +117,7 @@
                 <p>Anhand der automatischen Texterfassung, die als Analogie für ein allgemeines Modell eines empirischen Forschungsprozesses<ref target="ftn2" n="2"/> gesetzt wird, sollen im Folgenden die Probleme diskutiert und Möglichkeiten gezeigt werden, wie diesen Defiziten begegnet werden kann.
                 </p>
                 <figure>
-                    <graphic n="1001"
-                        width="16.002cm"
-                        height="3.314347222222222cm"
-                        rend="inline"
-                        url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image1.png"/>
+                    <graphic n="1001" width="16.002cm" height="3.314347222222222cm" rend="inline" url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image1.png"/>
                     <head>Abbildung : Gegenüberstellung eines Modells eines Forschungsprozesses aus der empirischen Sozialforschung<ref target="ftn3" n="3"/> und dessen Anwendung auf den Prozess der automatischen Texterfassung
                     </head>
                 </figure>
@@ -167,11 +161,7 @@
                     <row>
                         <cell rend="normal">
                             <figure>
-                                <graphic n="in_table"
-                                 width="2.06375cm"
-                                 height="2.4341666666666666cm"
-                                 rend="inline"
-                                 url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image2.jpeg"/>
+                                <graphic n="in_table" width="2.06375cm" height="2.4341666666666666cm" rend="inline" url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image2.jpeg"/>
                             </figure>
                         </cell>
                         <cell rend="normal">ct
@@ -192,20 +182,12 @@
                     Mit Hilfe von Schematron<ref target="ftn9" n="9"/>-Regeln kann nun, wie das Beispiel zeigt, geprüft werden, nach welchem Level die „ct“-Ligatur kodiert ist:
                 </p>
                 <figure>
-                    <graphic n="1003"
-                        width="16.002cm"
-                        height="5.695597222222222cm"
-                        rend="inline"
-                        url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image3.jpeg"/>
+                    <graphic n="1003" width="16.002cm" height="5.695597222222222cm" rend="inline" url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image3.jpeg"/>
                 </figure>
                 <p>Die Wahl des PAGE-Formates ermöglicht im Unterschied zum TEI-basierten Basisformat des DTA (DTABf)<ref target="ftn10" n="10"/> eine unkomplizierte Lösung für die Repräsentation von koordinatenbasierten Phänomenen (Punkt C).
                 </p>
                 <figure>
-                    <graphic n="1004"
-                        width="16.002cm"
-                        height="4.4943888888888885cm"
-                        rend="inline"
-                        url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image4.jpeg"/>
+                    <graphic n="1004" width="16.002cm" height="4.4943888888888885cm" rend="inline" url="BOENIG_Matthias_Ground_Truth__Grundwahrheit_oder_Ad_Hoc_L_su-image4.jpeg"/>
                 </figure>
             </div>
             <div type="div1" rend="DH-Heading1">
@@ -235,22 +217,22 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__61">
                         <hi rend="bold">Herrmann-Wolf, J. Berenike / Lauer, Gerhard</hi> (2016): „Aufbau und Annotation des Kafka/Referenzkorpus“ in: Burr Elisabeth (ed): 
                         <hi rend="italic">DHd 2016 : Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma</hi> : Konferenzabstracts : Universität Leipzig 7. bis 12. März 2016. [Duisburg]: nisaba 158-160.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__600">
                         <hi rend="bold">Mihm, Melanie</hi> (2016): „Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa“ in: Burr Elisabeth (ed): 
                         <hi rend="italic">DHd 2016 : Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma</hi> : Konferenzabstracts : Universität Leipzig 7. bis 12. März 2016. [Duisburg]: nisaba 198-200.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__62">
                         <hi rend="bold">Schöch, Christof</hi> (2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: Schöch, Christof / Schneider, Lars (eds.): 
                         <hi rend="italic">Literaturwissenschaft im digitalen Medienwandel</hi> (=Philologie im Netz Beiheft 7) 130-157 http://web.fu-berlin.de/phin/beiheft7/b7t08.pdf [letzter Zugriff 25.September 2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__601">
                         <hi rend="bold">Schnell, Rainer / Hill, Paul B. / Esser, Elke</hi> (2011): Methoden der empirischen Sozialforschung. 9., aktualisierte Aufl. München: Oldenbourg
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__602">
                         <hi rend="bold">Thesenpapier des Fachverbands „Digital Humanities im deutschsprachigen Raum“ (DHd)</hi> (2014): „Digital Humanities 2020“, vorgestellt im März 2014 auf der ersten Jahrestagung des Verbandes in Passau. http://dig-hum.de/digital-humanities-2020.
                     </bibl>
                 </listBibl>

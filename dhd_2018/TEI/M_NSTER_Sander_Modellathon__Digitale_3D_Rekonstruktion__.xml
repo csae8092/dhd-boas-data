@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="M_NSTER_Sander_Modellathon__Digitale_3D_Rekonstruktion__">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="M_NSTER_Sander_Modellathon__Digitale_3D_Rekonstruktion__">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Modellathon „Digitale 3D-Rekonstruktion" </title>
-                <author>
+                <author ref="#person__sander-muenster-tu-dresden-de">
                     <persName>
                         <surname>Münster</surname>
                         <forename>Sander</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Medienzentrum/TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonas-christen-zhdk-ch">
                     <persName>
                         <surname>Christen</surname>
                         <forename>Jonas</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Zürcher Hochschule der Künste, Schweiz</affiliation>
                     <email>jonas.christen@zhdk.ch</email>
                 </author>
-                <author>
+                <author ref="#person__pfarr-dg-tu-darmstadt-de">
                     <persName>
                         <surname>Pfarr-Harfst</surname>
                         <forename>Mieke</forename>
@@ -261,20 +259,20 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__70">
                         <hi rend="bold">Kuroczyński, P./ Grellert, M./ Hauck, O./ Münster, S./ Pfarr-Harfst, M. / Scholz, M. </hi>(2015): Digitale Rekonstruktion und aktuelle Herausforderungen (Panel). 2. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2015). Graz.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__71">
                         <hi rend="bold">Kuroczyński, P./ Hauck, O./ Hoppe, S./ Münster, S. / Pfarr-Harfst, M. </hi>(2016): Der Modelle Tugend 2.0 – Vom digitalen 3D-Datensatz zum wissenschaftlichen Informationsmodell. (Panel). 3. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2016). Leipzig.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__72">
                         <hi rend="bold">Kuroczyński, P./ Pfarr-Harfst, M./ Wacker, M./ Münster, S. / Henze, F. </hi>(2014): Pecha Kucha "Virtuelle Rekonstruktion – Allgemeine Standards, Methodik und Dokumentation" (Panel). 
                         <hi rend="italic">1. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2014).</hi> Passau.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__796">
                         <hi rend="bold">Münster, S./ Kuroczyński, P. / Pfarr-Harfst, M. </hi>(2017): Projekte und Aktivitäten im Kontext digitaler 3D-Rekonstruktion im deutschsprachigen Raum. 4. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2017). Bern.
                     </bibl>
-                    <bibl rend="EndNote Bibliography">
+                    <bibl rend="EndNote Bibliography" ref="#bibl__797">
                         <hi rend="bold">Wikipedia </hi>(2017): Hackathon [Online]. Available: https://de.wikipedia.org/wiki/Hackathon, 10.9.2017.
                     </bibl>
                 </listBibl>

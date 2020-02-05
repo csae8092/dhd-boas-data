@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="LEBHERZ_Daniel_Text_Mining_und_Computersimulation_zur_Analys">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LEBHERZ_Daniel_Text_Mining_und_Computersimulation_zur_Analys">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Text Mining und Computersimulation zur Analyse autobiographischer Texte: Einflüsse auf das literarische Schaffen Klaus Manns</title>
-                <author>
+                <author ref="#person__hess-uni-trier-de">
                     <persName>
                         <surname>Hess</surname>
                         <forename>Jan</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
                     <email>hess@uni-trier.de</email>
                 </author>
-                <author>
+                <author ref="#person__lebherz-uni-trier-de">
                     <persName>
                         <surname>Lebherz</surname>
                         <forename>Daniel</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>lebherz@uni-trier.de</email>
                 </author>
-                <author>
+                <author ref="#person__zeyen-uni-trier-de">
                     <persName>
                         <surname>Zeyen</surname>
                         <forename>Christian</forename>
@@ -99,20 +97,12 @@
                 <ref target="ftn1" n="1"/> am Fallbeispiel der Klaus Mann-Tagebücher verschiedene Methoden des Text Mining angewendet werden. Zur Unterstützung und Strukturierung der Analyseprozesse werden Scientific Workflows erstellt und ausgeführt. Auf Basis der mit Text Mining erzielten Ergebnisse sollen Methoden der Computersimulation eingesetzt werden, um die eingangs aufgeworfenen Fragen beantworten zu können (Abb. 1).
             </p>
             <figure>
-                <graphic n="1001"
-                     width="16.002cm"
-                     height="3.986388888888889cm"
-                     rend="inline"
-                     url="LEBHERZ_Daniel_Text_Mining_und_Computersimulation_zur_Analys-image1.png"/>
+                <graphic n="1001" width="16.002cm" height="3.986388888888889cm" rend="inline" url="LEBHERZ_Daniel_Text_Mining_und_Computersimulation_zur_Analys-image1.png"/>
                 <head>Abbildung 1: Forschungsprozess zur Analyse der Tagebücher Klaus Manns</head>
             </figure>
             <p>Methoden der Computersimulation haben sich bereits seit längerer Zeit in verschiedenen Wissenschaftsdisziplinen etabliert. Seit den 1990er Jahren halten diese auch vermehrt Einzug in sozialwissenschaftliche Forschungsbereiche und bieten dort verschiedene Möglichkeiten zur Darstellung und Analyse von gesellschaftlichen Systemzusammenhängen (Gilbert 2007). Eine ähnliche Entwicklung lässt sich auch in den Digital Humanities nachvollziehen, wenngleich diese Methoden – insbesondere im literaturwissenschaftlichen Bereich – eine eher untergeordnete Rolle spielen (Kohle 2017). Die jedoch insgesamt zunehmende Anwendung von Computersimulation als Forschungsmethode liegt darin begründet, dass sie die Möglichkeit bietet, komplexe, unzugängliche Systeme zu untersuchen und experimentell zu analysieren. In solchen Experimenten lassen sich u.a. durch die Betrachtung verschiedener Szenarien Resultate erzielen, die Rückschlüsse auf Plausibilitäten von Handlungen, Strukturen und Zusammenhängen im zugrundeliegenden System erlauben. Agentenbasierte Computersimulation bietet darüber hinaus insbesondere bei der Analyse von individuellem Entscheidungsverhalten die Möglichkeit, sogenannte emergente Effekte aufzudecken. Diese ergeben sich aus dem Zusammenspiel individueller Handlungen und Interaktionen von einzelnen Akteuren, lassen sich jedoch nicht ausschließlich durch diese erklären (Bonabeau 2002). Ein direkter Zusammenhang zwischen Systeminput und -output muss bei agentenbasierter Simulation also nicht bestehen. Dies steht im Gegensatz zu anderen statistischen Analyseverfahren, bei denen i.d.R. eine (lineare) Abhängigkeit zwischen verschiedenen Objekten vorausgesetzt wird. Ferner ermöglicht agentenbasierte Computersimulation detaillierte Analysen von Komponenten der Makroebene. Der Weg zu verlässlichen Ergebnissen einer Simulationsstudie führt in einem ersten, wesentlichen Schritt über die Modellbildung und Sammlung dafür relevanter Daten (Law 2015). Zu diesem Zweck soll das zugrundeliegende System, also konkret Klaus Mann, seine sozialen Kontakte und sein Umfeld möglichst realitätsnah mit allen wesentlichen Eigenschaften, Aktivitäten und Zusammenhängen in einer agentenbasierten Sozialsimulation (Davidsson 2002) abgebildet werden (Abb. 2).</p>
             <figure>
-                <graphic n="1002"
-                     width="16.007755555555555cm"
-                     height="9.183455555555556cm"
-                     rend="inline"
-                     url="LEBHERZ_Daniel_Text_Mining_und_Computersimulation_zur_Analys-image2.PNG"/>
+                <graphic n="1002" width="16.007755555555555cm" height="9.183455555555556cm" rend="inline" url="LEBHERZ_Daniel_Text_Mining_und_Computersimulation_zur_Analys-image2.PNG"/>
                 <head>Abbildung 2: Digitale Analyse im Detail</head>
             </figure>
             <p>Die dafür notwendige Generierung einer geeigneten Datengrundlage ist ein anspruchsvoller Prozess, in dem anhand von Methoden aus dem Bereich des Text Mining zunächst die wesentlichen, auf den Untersuchungsgegenstand einwirkenden Faktoren identifiziert und analysiert werden müssen. Konkret sollen dabei u.a. Methoden wie Named Entity Recognition, Worthäufigkeits- oder Kookkurrenzanalysen angewendet werden, um vorab Kontakte, Aktivitäten, Aufenthalte, Tätigkeiten, persönliche oder politische Ereignisse zu identifizieren, welche mit Klaus Manns literarischer Produktivität in Zusammenhang stehen könnten. Anders als im Falle der Computersimulation kommen Text Mining-Methoden, -Werkzeuge und Programmbibliotheken im literaturwissenschaftlichen Kontext bereits ungleich häufiger zum Einsatz. Zur Komplexitätsreduktion werden die zugrundeliegenden Text Mining-Prozesse dabei jedoch oft als Black Box betrachtet, was den Nachteil birgt, dass das Zustandekommen der erzielten Ergebnisse nur schwer nachvollzogen werden kann. Um dem entgegenzuwirken sollen die im Rahmen von 
@@ -132,41 +122,41 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1681">
                         <hi rend="bold">Bonabeau, Eric </hi>(2002):
                         “Agent-based modeling: Methods and techniques for simulating human systems” in: 
                         <hi rend="italic">Proceedings of the National Academy of Sciences</hi>, 99(suppl 3):7280– 7287 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1682">
                         <hi rend="bold">Davidsson, Paul</hi> (2002): "Agent based social simulation"
                             in: <hi rend="italic">Journal of Artificial Societies and Social Simulation</hi> 5(1):
                         <ref target="http://jasss.soc.surrey.ac.uk/5/1/7.html">http://jasss.soc.surrey.ac.uk/5/1/7.html</ref>
                         [letzter Zugriff 11.Januar 2017]
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1683">
                         <hi rend="bold">Gilbert, Nigel</hi> (2007): 
                             <hi rend="italic">"Computational social science: Agent-based social simulation"</hi>
                             in: Amblard, Frédéric / Phan, Dennis (eds.): Agent-based Modelling and Simulation in the Social and Human Sciences.
                             Oxford: The Bardwell Press 115-133.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__97">
                         <hi rend="bold">Kohle, Hubertus</hi> (2017): 
                             <hi rend="italic">"Digitale Rekonstruktion und Simulation"</hi>
                             in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities: Eine Einführung. 
                             Stuttgart: J. B.Metzler 315-327.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1684">
                         <hi rend="bold">Law, Averill M.</hi> (2015): 
                             Simulation Modeling and Analysis. 5.Auflage. Tucson: McGraw Hill Education.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1685">
                         <hi rend="bold">Mann, Klaus</hi> (1995): Tagebücher 1931 – 1933. Reinbek: Rowohlt.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1686">
                         <hi rend="bold">Richter, Michael M. / Weber, Rosina O. </hi>(2013): 
                             Case-Based Reasoning: A Textbook. Berlin: Springer.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1687">
                         <hi rend="bold">Taylor, Ian J. / Deelman, Ewa / Gannon, Dennis B. / Shields, Matthew</hi> (2014): 
                             Workflows for e-Science: Scientific Workflows for Grids.London: Springer
                     </bibl>

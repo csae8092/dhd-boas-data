@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Digital vs. Humanities. Didaktische Aufbereitung digitaler Methoden für die klassischen Geisteswissenschaften im Projekt forTEXT</title>
-                <author>
+                <author ref="#person__janina-jacke-uni-hamburg-de">
                     <persName>
                         <surname>Jacke</surname>
                         <forename>Janina</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>janina.jacke@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__jan-horstmann-uni-hamburg-de">
                     <persName>
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__j-c-meister-uni-hamburg-de">
                     <persName>
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
@@ -129,11 +127,7 @@
                     <head>Individualisiertes Empfehlungssystem</head>
                     <p>Für Geisteswissenschaftler, die noch nicht wissen, auf welche Weise digitale Methoden der Textanalyse und -interpretation ihre eigene Forschung unterstützen können, bietet forTEXT ein individualisiertes Empfehlungssystem in Form eines digitalen Fragebogens an (siehe Abb. 1).</p>
                     <figure>
-                        <graphic n="1001"
-                           width="14.234583333333333cm"
-                           height="13.731875cm"
-                           rend="inline"
-                           url="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun-image1.jpeg"/>
+                        <graphic n="1001" width="14.234583333333333cm" height="13.731875cm" rend="inline" url="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun-image1.jpeg"/>
                         <head>Abb. 1: forTEXTs individualisiertes Empfehlungssystem für digitale Textuntersuchung (Ausschnitt des Prototyps)</head>
                     </figure>
                     <p>Hier können die Nutzer beispielsweise angeben, ob sie schon Vorerfahrungen mit digitalen Methoden der Textanalyse gemacht haben, in welchem Zustand sich ihr Textkorpus befindet, unter welcher Fragestellung sie ihre Texte untersuchen wollen und welcher literaturtheoretischen Schule sie sich zuordnen.<ref target="ftn7" n="7"/> Als Output erhalten die Forscher, angepasst an die von ihnen gemachten Angaben, eine Liste mit Vorschlägen zu digitalen Korpora, Methoden und Werkzeugen, die zu ihrer Fragestellung und Arbeitsweise passen. Das Empfehlungssystem also eine individualisierte Kompilation aus forTEXTs Inhalten und Verzeichnissen, die im Folgenden kurz vorgestellt werden sollen.
@@ -173,11 +167,7 @@
                 <p>Das verwendete Programm CATMA ist hierbei in zweifacher Hinsicht auf die forTEXT-Paradigmen abgestimmt: Es bietet eine intuitiv bedienbare Benutzeroberfläche und unterstützt den freien, undogmatischen und genuin interpretativen Zugang zu Texten, während es zugleich Optionen stärkerer Formalisierung bereithält (vgl. Abb. 2).<ref target="ftn11" n="11"/>
                 </p>
                 <figure>
-                    <graphic n="1002"
-                        width="15.927916666666667cm"
-                        height="11.535833333333333cm"
-                        rend="inline"
-                        url="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun-image2.png"/>
+                    <graphic n="1002" width="15.927916666666667cm" height="11.535833333333333cm" rend="inline" url="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun-image2.png"/>
                     <head>Abb. 2: Intuitives, nicht-deterministisches Annotieren in CATMA</head>
                 </figure>
                 <p>Die im Rahmen des Lehrmoduls verfolgte didaktische Strategie hat mehrere Vorteile: Der erste Schritt, d.h. das digitale Anbringen freier Kommentare, stellt einen vollkommen explorativen und potenziell unstrukturierten Zugang zu literarischen Texten dar. Er erzwingt also kein formalistisches Umdenken und bildet die traditionellere geisteswissenschaftlich-hermeneutische Arbeitsweise gut ab. Im Vergleich zum analogen Arbeiten birgt er aber dennoch den Vorteil, dass die freien Kommentare durch digitale Unterstützung effektiver 
@@ -243,99 +233,99 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Bailey, Kenneth D. </hi>(1994): 
+                    <bibl ref="#bibl__1709"><hi rend="bold">Bailey, Kenneth D. </hi>(1994): 
                         <hi rend="italic">Typologies and Taxonomies. An Introduction to Classification Techniques</hi>. Thousand Oaks/London/New Delhi: Sage Publications.
                     </bibl>
-                    <bibl><hi rend="bold">Bauer, Matthias / Zirker, Angelika </hi>(2015): “Whipping Boys Explained. Literary Annotation and Digital Humanities”, in: 
+                    <bibl ref="#bibl__101"><hi rend="bold">Bauer, Matthias / Zirker, Angelika </hi>(2015): “Whipping Boys Explained. Literary Annotation and Digital Humanities”, in: 
                         <hi rend="italic">MLA Commons. Literary Studies in the Digital Age</hi>
                         <ref target="https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/">
                             https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Baumann, Timo / Meyer-Sickendiek, Burkhard </hi>(2016): “Large-scale Analysis of Spoken Free-verse Poetry”, in:
+                    <bibl ref="#bibl__1710"><hi rend="bold">Baumann, Timo / Meyer-Sickendiek, Burkhard </hi>(2016): “Large-scale Analysis of Spoken Free-verse Poetry”, in:
                         <hi rend="italic"> Proceedings of LT4DH-Workshop 2016</hi>
                         <ref target="http://edoc.sub.uni-hamburg.de/informatik/volltexte/2016/228/pdf/baumann_large_scale_analysis.pdf">
                             http://edoc.sub.uni-hamburg.de/informatik/volltexte/2016/228/pdf/baumann_large_scale_analysis.pdf
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik </hi>(2015): “Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a Digital Heuristic of Narrative”, in: 
+                    <bibl ref="#bibl__138"><hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik </hi>(2015): “Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a Digital Heuristic of Narrative”, in: 
                         <hi rend="italic">DHCommons Journal</hi> 1 
                         <ref target="http://dhcommons.org/journal/issue-1/collaborative-text-annotation-meets-machine-learning-heurecl%C3%A9-digital-heuristic">
                             http://dhcommons.org/journal/issue-1/collaborative-text-annotation-meets-machine-learning-heurecl%C3%A9-digital-heuristic
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Brett, Megan R. </hi>(2012): “Topic Modeling. A Basic Introduction”, in: 
+                    <bibl ref="#bibl__142"><hi rend="bold">Brett, Megan R. </hi>(2012): “Topic Modeling. A Basic Introduction”, in: 
                         <hi rend="italic">Journal of Digital Humanities</hi> 2(1) 
                         <ref target="http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/">
                             http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Brunner, Annelen </hi>(2015): 
+                    <bibl ref="#bibl__1711"><hi rend="bold">Brunner, Annelen </hi>(2015): 
                         <hi rend="italic">Automatische Erkennung von Redewiedergabe</hi>. Berlin / Boston: de Gruyter (= Narratologia Bd. 47).
                     </bibl>
-                    <bibl><hi rend="bold">Fiedler, Maik / Weiß, Andreas </hi>(2015): “Von Daten zu Erkenntnissen. Digitale Geisteswissenschaften als Mittler zwischen Information und Interpretation. DHd-Jahrestagung 2015” 
+                    <bibl ref="#bibl__1712"><hi rend="bold">Fiedler, Maik / Weiß, Andreas </hi>(2015): “Von Daten zu Erkenntnissen. Digitale Geisteswissenschaften als Mittler zwischen Information und Interpretation. DHd-Jahrestagung 2015” 
                         <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-6059">
                             http://www.hsozkult.de/conferencereport/id/tagungsberichte-6059
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer </hi>(2017): “Network Dynamics, Plot Analysis. Approaching the Progressive Structuration of Literary Texts”, in: 
+                    <bibl ref="#bibl__1713"><hi rend="bold">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer </hi>(2017): “Network Dynamics, Plot Analysis. Approaching the Progressive Structuration of Literary Texts”, in: 
                         <hi rend="italic">Digital Humanities 2017. Conference Abstracts</hi>  
                         <ref target="https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf">
                             https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: 
+                    <bibl ref="#bibl__119"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, Sonderband 1 
                         <ref target="http://www.zfdg.de/sb001_006">
                             http://www.zfdg.de/sb001_006
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Gius, Evelyn / Jacke, Janina </hi>(2017): “The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis”, in: 
+                    <bibl ref="#bibl__111"><hi rend="bold">Gius, Evelyn / Jacke, Janina </hi>(2017): “The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis”, in: 
                         <hi rend="italic">International Journal of Humanities and Arts Computing</hi> 11(2) 233–254.
                     </bibl>
-                    <bibl><hi rend="bold">Kindt, Tom / Köppe, Tilmann </hi>(2008): “Einleitung”, in: dies. (eds.): 
+                    <bibl ref="#bibl__33"><hi rend="bold">Kindt, Tom / Köppe, Tilmann </hi>(2008): “Einleitung”, in: dies. (eds.): 
                         <hi rend="italic">Moderne Interpretationstheorien. Ein Reader</hi>. Göttingen: Vandenhoeck &amp; Ruprecht 7–26.
                     </bibl>
-                    <bibl><hi rend="bold">Piez, Wendell </hi>(2010): “Towards Hermeneutic Markup. An Architectural Outline”, in: 
+                    <bibl ref="#bibl__1714"><hi rend="bold">Piez, Wendell </hi>(2010): “Towards Hermeneutic Markup. An Architectural Outline”, in: 
                         <hi rend="italic">Digital Humanities 2010. Conference Abstracts</hi>
                         <ref target="http://piez.org/wendell/papers/dh2010/">
                             http://piez.org/wendell/papers/dh2010/
                         </ref> [letzter Zugriff 06. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Rybicki, Jan / Eder, Maciej / Hoover, David </hi>(2016): “Computational stylistics and text analysis”, in: Crompton, Constance / Lane, Richard J. / Siemens, Ray (eds.): 
+                    <bibl ref="#bibl__1715"><hi rend="bold">Rybicki, Jan / Eder, Maciej / Hoover, David </hi>(2016): “Computational stylistics and text analysis”, in: Crompton, Constance / Lane, Richard J. / Siemens, Ray (eds.): 
                         <hi rend="italic">Doing Digital Humanities</hi>. London / New York: Routledge 123–144.
                     </bibl>
-                    <bibl><hi rend="bold">Spörl, Uwe </hi>(2004): 
+                    <bibl ref="#bibl__1716"><hi rend="bold">Spörl, Uwe </hi>(2004): 
                         <hi rend="italic">Basislexikon Literaturwissenschaft</hi>. 2., durchges. Aufl. Paderborn [u.a.]: Schöningh.
                     </bibl>
-                    <bibl><hi rend="bold">Websites</hi></bibl>
-                    <bibl><hi rend="bold">3DH </hi>(<ref target="http://www.threedh.net">http://www.threedh.net</ref>)
+                    <bibl ref="#bibl__1717"><hi rend="bold">Websites</hi></bibl>
+                    <bibl ref="#bibl__36"><hi rend="bold">3DH </hi>(<ref target="http://www.threedh.net">http://www.threedh.net</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">CATMA </hi>(<ref target="http://www.catma.de">http://www.catma.de</ref>) 
+                    <bibl ref="#bibl__37"><hi rend="bold">CATMA </hi>(<ref target="http://www.catma.de">http://www.catma.de</ref>) 
                     </bibl>
-                    <bibl><hi rend="bold">Computational Stylistics Group </hi>(<ref target="https://sites.google.com/site/computationalstylistics/">https://sites.google.com/site/computationalstylistics</ref>)
+                    <bibl ref="#bibl__1718"><hi rend="bold">Computational Stylistics Group </hi>(<ref target="https://sites.google.com/site/computationalstylistics/">https://sites.google.com/site/computationalstylistics</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">Digital Literary Network Analysis </hi>(<ref target="https://dlina.github.io/about/">https://dlina.github.io/about</ref>)
+                    <bibl ref="#bibl__1719"><hi rend="bold">Digital Literary Network Analysis </hi>(<ref target="https://dlina.github.io/about/">https://dlina.github.io/about</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">Digitalität in den Fachdidaktiken</hi>. Projektpräsentation im DHd-Blog (
+                    <bibl ref="#bibl__1720"><hi rend="bold">Digitalität in den Fachdidaktiken</hi>. Projektpräsentation im DHd-Blog (
                         <ref target="http://dhd-blog.org/?p=6812">
                             http://dhd-blog.org/?p=6812</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">forTEXT </hi>(<ref target="http://www.fortext.net">http://www.fortext.net</ref>)
+                    <bibl ref="#bibl__38"><hi rend="bold">forTEXT </hi>(<ref target="http://www.fortext.net">http://www.fortext.net</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">heureCLÉA </hi>(<ref target="http://heureclea.de">http://www.heureclea.de</ref>)
+                    <bibl ref="#bibl__39"><hi rend="bold">heureCLÉA </hi>(<ref target="http://heureclea.de">http://www.heureclea.de</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">Redewiedergabe </hi>(<ref target="http://www.redewiedergabe.de/">http://www.redewiedergabe.de</ref>)
+                    <bibl ref="#bibl__1721"><hi rend="bold">Redewiedergabe </hi>(<ref target="http://www.redewiedergabe.de/">http://www.redewiedergabe.de</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">Rhythmicalizer </hi>(<ref target="http://www.rhythmicalizer.net/">http://www.rhythmicalizer.net</ref>)
+                    <bibl ref="#bibl__1722"><hi rend="bold">Rhythmicalizer </hi>(<ref target="http://www.rhythmicalizer.net/">http://www.rhythmicalizer.net</ref>)
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1723">
                         <ref target="http://dhd-blog.org/?p=8138"><hi rend="bold">SANTA</hi>: Shared Task on the Analysis of Narrative levels Through Annotation (</ref>
                         <ref target="https://sharedtasksinthedh.github.io/">https://sharedtasksinthedh.github.io/</ref><ref target="http://dhd-blog.org/?p=8138">)</ref>
                     </bibl>
-                    <bibl><hi rend="bold">TAPoR</hi> (<ref target="http://www.tapor.ca">http://www.tapor.ca</ref>)
+                    <bibl ref="#bibl__1724"><hi rend="bold">TAPoR</hi> (<ref target="http://www.tapor.ca">http://www.tapor.ca</ref>)
                     </bibl>
-                    <bibl><hi rend="bold">TEI Feature Structures</hi> (<ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html">http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html</ref>)
+                    <bibl ref="#bibl__1725"><hi rend="bold">TEI Feature Structures</hi> (<ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html">http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html</ref>)
                     </bibl>
                 </listBibl>
             </div>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="HERRMANN_J__Berenike_Praktische_Tagger_Kritik__Zur_Evaluatio">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HERRMANN_J__Berenike_Praktische_Tagger_Kritik__Zur_Evaluatio">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Praktische Tagger-Kritik. Zur Evaluation des POS-Tagging des Deutschen Textarchivs </title>
-                <author>
+                <author ref="#person__berenike-herrmann-unibas-ch">
                     <persName>
                         <surname>Herrmann</surname>
                         <forename>J. Berenike</forename>
@@ -102,11 +100,7 @@
                         <hi rend="italic">newtag</hi>) eingefügt, ebenso wie ein fakultativer Kommentar des Coders.
                     </p>
                     <figure>
-                        <graphic n="1001"
-                             width="15.699002777777778cm"
-                             height="8.536988888888889cm"
-                             rend="inline"
-                             url="HERRMANN_J__Berenike_Praktische_Tagger_Kritik__Zur_Evaluatio-image1.png"/>
+                        <graphic n="1001" width="15.699002777777778cm" height="8.536988888888889cm" rend="inline" url="HERRMANN_J__Berenike_Praktische_Tagger_Kritik__Zur_Evaluatio-image1.png"/>
                         <head>Abbildung 1: Screenshot POS-Annotationstool (Ausschnitt)
                         </head>
                     </figure>
@@ -261,54 +255,54 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1066">
                         <hi rend="bold">Biber, Douglas / Conrad, Susan</hi> (2009): 
                         <hi rend="italic">Register, Genre, and Style</hi>. Cambridge: Cambridge University Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1067">
                         <hi rend="bold">Brants, Thorsten</hi> (2000): “Inter-annotator agreement for a German newspaper corpus”, in: 
                         <hi rend="italic">Proceedings of the Second International Conference on Language Resources and Evaluation (LREC-2000), </hi>Athens, Greece. European Language Resources Association (ELRA). 
                         <ref target="http://www.lrec-conf.org/proceedings/lrec2000/pdf/333.pdf">
                             <hi rend="underline">http://www.lrec-conf.org/proceedings/lrec2000/pdf/333.pdf</hi>
                         </ref>. 
                     </bibl>
-                    <bibl><hi rend="bold">Brants, Sabine / Dipper, Stefanie / Eisenberg, Peter / Hansen-Schirra, Silvia / König, Esther / Lezius, Wolfgang / Rohrer, Christian / Smith, George / Uszkoreit, Hans</hi> (2004)
+                    <bibl ref="#bibl__1068"><hi rend="bold">Brants, Sabine / Dipper, Stefanie / Eisenberg, Peter / Hansen-Schirra, Silvia / König, Esther / Lezius, Wolfgang / Rohrer, Christian / Smith, George / Uszkoreit, Hans</hi> (2004)
                             : “TIGER: Linguistic interpretation of a German corpus”, in: <hi rend="italic">Research on Language and Computation</hi>, 2(4): 597–620.
                     </bibl>
-                    <bibl><hi rend="bold">Berlin-Brandenburgische Akademie der Wissenschaften.</hi>
+                    <bibl ref="#bibl__1069"><hi rend="bold">Berlin-Brandenburgische Akademie der Wissenschaften.</hi>
                         <hi rend="italic">Deutsches Textarchiv. </hi>
                         <ref target="http://www.deutschestextarchiv.de/">http://www.deutschestextarchiv.de/</ref> [Letzter Zugriff 13.01.2018].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1070">
                         <hi rend="bold">Giesbrecht, Eugenie / Evert, Stefan </hi>(2009). “Part-of-speech tagging - a solved task? An evaluation of POS taggers for the Web as corpus”, in: Alegria, I. / Leturia, I. / Sharoff, S. (eds.): 
                         <hi rend="italic">Proceedings of the 5th Web as Corpus Workshop</hi> (WAC5), San Sebastian, Spain.
                     </bibl>
-                    <bibl><hi rend="bold">Evert, Stefan</hi> (2006): "How random is a corpus? The library metaphor", in: Zeitschrift für Anglistik und Amerikanistik 54.2: 177-190.
+                    <bibl ref="#bibl__1071"><hi rend="bold">Evert, Stefan</hi> (2006): "How random is a corpus? The library metaphor", in: Zeitschrift für Anglistik und Amerikanistik 54.2: 177-190.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1072">
                         <hi rend="bold">Jurish, Bryan / Würzner, Kay-Michael</hi> (2013). "Word and sentence tokenization with Hidden Markov Models", in: JLCL 28(2): 61-83.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1073">
                         <hi rend="bold">Kilgarriff, Adam</hi> (2005): "Language is never, ever, ever, random", in:
                         <hi rend="italic">Corpus linguistics and linguistic theory</hi> 1(2): 263-276.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1074">
                         <hi rend="bold">Müller, Thomas / Schmid, Helmut / Schütze, Hinrich</hi> (2013): "Efficient higher-order CRFs for morphological Tagging", in:
                         <hi rend="italic">Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing</hi>. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1075">
                         <hi rend="bold">Rosenblatt, Frank</hi> (1958): "The perceptron: A probabilistic model for information storage and organization in the brain", in:
                         <hi rend="italic">Psychological Review</hi>, 65(6): 386.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1076">
                         <hi rend="bold">Scheible, S. / Whitt, R. J. / Durrell, M. / Bennett, P. </hi>(2011): “A gold standard corpus of Early Modern German” in: 
                         <hi rend="italic">Proceedings of the 5th Linguistic Annotation Workshop</hi> 124–128.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__99">
                         <hi rend="bold">Schmid, Helmut </hi>(1994). "Probabilistic part-of speech Tagging using decision trees", in:
                         <hi rend="italic"> Proceedings of International Conference on New Methods in Language Processing</hi>, Manchester, UK. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1077">
                         <hi rend="bold">Halteren, H. / Daelemans, W. / Zavrel, J.</hi> (2001): “Improving accuracy in word class tagging through the combination of Machine Learning systems”, in: 
                         <hi rend="italic">Computational Linguistics, 27.</hi>
                     </bibl>

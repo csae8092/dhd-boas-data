@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Workshop eComparatio: Textvergleich und digitaler Apparat</title>
-                <author>
+                <author ref="#person__schubert-uni-leipzig-de">
                     <persName>
                         <surname>Schubert</surname>
                         <forename>Charlotte</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>schubert@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__hannes-kahl-uni-leipzig-de">
                     <persName>
                         <surname>Kahl</surname>
                         <forename>Hannes</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>hannes.kahl@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__friedrich-meins-uni-leipzig-de">
                     <persName>
                         <surname>Meins</surname>
                         <forename>Friedrich</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>friedrich_meins@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__oliver-braeckel-uni-leipzig-de">
                     <persName>
                         <surname>Bräckel</surname>
                         <forename>Oliver</forename>
@@ -116,27 +114,15 @@
                     <p>Das Tool ermöglicht verschiedene Ausgaben des Vergleiches:</p>
                 </div>
                 <figure>
-                    <graphic n="1001"
-                         width="16.002cm"
-                         height="12.035013888888889cm"
-                         rend="inline"
-                         url="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d-image1.png"/>
+                    <graphic n="1001" width="16.002cm" height="12.035013888888889cm" rend="inline" url="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d-image1.png"/>
                     <head>Abbildung 1, Detail-Vergleich</head>
                 </figure>
                 <figure>
-                    <graphic n="1002"
-                         width="16.002cm"
-                         height="9.050513888888888cm"
-                         rend="inline"
-                         url="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d-image2.png"/>
+                    <graphic n="1002" width="16.002cm" height="9.050513888888888cm" rend="inline" url="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d-image2.png"/>
                     <head>Abbildung 2, Synopse</head>
                 </figure>
                 <figure>
-                    <graphic n="1003"
-                         width="16.002cm"
-                         height="9.376833333333334cm"
-                         rend="inline"
-                         url="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d-image3.png"/>
+                    <graphic n="1003" width="16.002cm" height="9.376833333333334cm" rend="inline" url="SCHUBERT_Charlotte_Workshop_eComparatio__Textvergleich_und_d-image3.png"/>
                     <head>Abbildung 3, Buch-Darstellung mit digitalem Apparat zum Textvergleich</head>
                 </figure>
                 <div type="div2" rend="DH-Heading2">
@@ -175,24 +161,24 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">A. Olheiser</hi>, Have We Been Reading the Declaration of Independence All Wrong?, 
+                    <bibl ref="#bibl__714"><hi rend="bold">A. Olheiser</hi>, Have We Been Reading the Declaration of Independence All Wrong?, 
                         <ref target="https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/">
                             https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve- been-reading-the-declaration-of-independence-all-wrong/373915/
                         </ref> (letzter Zugang 7.7.2017).
                     </bibl>
-                    <bibl><hi rend="bold">P. Sahle</hi>, Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels, Norderstedt 2013, 3 Bde. (Schriften des Instituts für Dokumentologie und Editorik Bd. 7).</bibl>
-                    <bibl><hi rend="bold">M.L. West</hi>, Textual Criticism and Editorial Technique, Stuttgart 1973.</bibl>
-                    <bibl><hi rend="bold">Links:</hi></bibl>
-                    <bibl>The Atlantic: <ref target="https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/">https://www.theatlantic.com/entertain
+                    <bibl ref="#bibl__715"><hi rend="bold">P. Sahle</hi>, Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels, Norderstedt 2013, 3 Bde. (Schriften des Instituts für Dokumentologie und Editorik Bd. 7).</bibl>
+                    <bibl ref="#bibl__716"><hi rend="bold">M.L. West</hi>, Textual Criticism and Editorial Technique, Stuttgart 1973.</bibl>
+                    <bibl ref="#bibl__717"><hi rend="bold">Links:</hi></bibl>
+                    <bibl ref="#bibl__718">The Atlantic: <ref target="https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/">https://www.theatlantic.com/entertain
                         ment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/
                         </ref>(letzter Zugang 7.7.2017)
                     </bibl>
-                    <bibl>http://www.eaqua.net</bibl>
-                    <bibl><ref target="http://www.ecomparatio.net/">http://www.ecomparatio.net/</ref></bibl>
-                    <bibl><ref target="http://www.ecomparatio.net/~khk/instanzen/ecompp/">http://www.ecomparatio.net/~khk/instanzen/ecompp/</ref> (letzter Zugang17.9.2017)</bibl>
-                    <bibl>http://digital-plato.org</bibl>
-                    <bibl>http://digital-classics-online.eu</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__719">http://www.eaqua.net</bibl>
+                    <bibl ref="#bibl__720"><ref target="http://www.ecomparatio.net/">http://www.ecomparatio.net/</ref></bibl>
+                    <bibl ref="#bibl__721"><ref target="http://www.ecomparatio.net/~khk/instanzen/ecompp/">http://www.ecomparatio.net/~khk/instanzen/ecompp/</ref> (letzter Zugang17.9.2017)</bibl>
+                    <bibl ref="#bibl__722">http://digital-plato.org</bibl>
+                    <bibl ref="#bibl__723">http://digital-classics-online.eu</bibl>
+                    <bibl ref="#bibl__724">
                         <anchor xml:id="_DdeLink__293_744920"/>http://cite-architecture.github.io/cts/
                     </bibl>
                 </listBibl>

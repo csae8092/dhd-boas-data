@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="PIELSTR_M_Steffen__Embedded_Humanities">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PIELSTR_M_Steffen__Embedded_Humanities">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title> Embedded Humanities</title>
-                <author>
+                <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
                     <persName>
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
-                <author>
+                <author ref="#person__mike-kestemont-gmail-com">
                     <persName>
                         <surname>Kestemont</surname>
                         <forename>Mike</forename>
@@ -132,13 +130,13 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1575">
                         <hi rend="bold">Bamman, D./ Underwood, T./ Smith, N. A. </hi>
                         (2014): „A Bayesian Mixed Effects Model of Literary Character“,
                         in
                         <hi rend="italic">Proceedings of ACL</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__30">
                         <hi rend="bold">Blei, </hi>
                         <hi rend="bold">David</hi>
                         <hi rend="bold"> </hi>
@@ -147,13 +145,13 @@
                         <hi rend="italic">Communications of the ACM</hi>
                          55, 77-84.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1576">
                         <hi rend="bold">Bolukbasi, T./ Chang, K. W./ Zou, J./ Saligrama, V./ Kalai, A.</hi>
                          (2016): „Quantifying and Reducing Stereotypes in Word Embeddings“, 
                         in
                         <hi rend="italic">arXiv:1606.06121</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1577">
                         <hi rend="bold">Chang, J./ Gerrish, S./ </hi>
                         <hi rend="bold">Sang</hi>
                         <hi rend="bold">, C./ Boyd-Graber, J. L./ Blei, D. M. </hi>
@@ -161,13 +159,13 @@
                         in
                          Proceedings of NIPS, 288-296.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1578">
                         <hi rend="bold">Hamilton, W. L./ Leskovec, J./ Jurafsky, D.</hi>
                          (2016): „Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change“,
                         in
                         <hi rend="italic">Proceedings of ACL</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1579">
                         <hi rend="bold">Manning, </hi>
                         <hi rend="bold">Christopher D.</hi>
                          (2016): „Computational Linguistics and Deep Learning“,
@@ -175,20 +173,20 @@
                         <hi rend="italic">Computational Linguistics </hi>
                         41, 701-707.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1580">
                         <hi rend="bold">Martinez-Ortiz, C./ Huijnen, P./ Kenter, T./ Verheul, J./ Wevers, M./ van Eijnatten, J.</hi>
                          (2016): „ShiCo: A Visualization Tool for Shifting Concepts Through Time“,
                         in
                         <hi rend="italic">Digital Humanities Benelux: Book af Abstracts</hi>
                         , s.p.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1581">
                         <hi rend="bold">Mikolov, T./ Sutskever, I./ Chen, K./ Corrado, G. S./ Dean, J.</hi>
                          (2013): „Distributed representations of words and phrases and their compositionality“,
                         in
                         <hi rend="italic">Proceedings of NIPS 2013</hi>.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__90">
                         <hi rend="bold">Mimno, </hi>
                         <hi rend="bold">David</hi>
                          (2012): „Computational Historiography: Data Mining in a Century of Classics Journals“,
@@ -196,7 +194,7 @@
                         <hi rend="italic">ACM Journal of Computing in Cultural Heritage</hi>
                          5.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__110">
                         <hi rend="bold">Schoech, </hi>
                         <hi rend="bold">Christof</hi>
                         <hi rend="bold"> </hi>

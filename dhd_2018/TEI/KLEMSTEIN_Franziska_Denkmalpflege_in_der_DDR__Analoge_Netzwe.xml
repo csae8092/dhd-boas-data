@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KLEMSTEIN_Franziska_Denkmalpflege_in_der_DDR__Analoge_Netzwe">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KLEMSTEIN_Franziska_Denkmalpflege_in_der_DDR__Analoge_Netzwe">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Denkmalpflege in der DDR. Analoge Netzwerke digital – Chancen und Möglichkeiten</title>
-                <author>
+                <author ref="#person__f-klemstein-gmail-com">
                     <persName>
                         <surname>Klemstein</surname>
                         <forename>Franziska</forename>
@@ -105,13 +103,13 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__659">
                         <hi rend="bold">Hubig, Christoph</hi> (2013): Strukturdynamik und/oder Netzdynamik – Die Rolle der Akteure, in: EWE 24/4: 545-547.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__660">
                         <hi rend="bold">König, Wolfgang</hi> (2013a): Strukturen und Akteure – Ein Vorschlag zur Konzeptualisierung technisch-historischer Entwicklung, in: EWE 24/4: 505-516.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__661">
                         <hi rend="bold">König, Wolfgang</hi> (2013b): Technik und Geschichte. Interdisziplinarität, Theorien und Modelle, in: EWE 24/4: 605-616.
                     </bibl>
                 </listBibl>

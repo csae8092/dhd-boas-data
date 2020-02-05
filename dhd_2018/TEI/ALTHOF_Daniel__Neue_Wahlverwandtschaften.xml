@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="ALTHOF_Daniel__Neue_Wahlverwandtschaften">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ALTHOF_Daniel__Neue_Wahlverwandtschaften">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title> Neue Wahlverwandtschaften</title>
-                <author>
+                <author ref="#person__daniel-althof-bbaw-de">
                     <persName>
                         <surname>Althof</surname>
                         <forename>Daniel</forename>
@@ -139,65 +137,65 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1169">
                         <?biblio ADDIN EN.REFLIST ?>
                     </bibl>
-                    <bibl><hi rend="bold">Berry, D. M. </hi>(2011): 
+                    <bibl ref="#bibl__1170"><hi rend="bold">Berry, D. M. </hi>(2011): 
                         <hi rend="italic">Philosophy of Software. Code and Mediation in the Digital Age, </hi>Basingstoke, Hampshire: Palgrave Macmillan UK.
                     </bibl>
-                    <bibl><hi rend="bold">Berry, D. M. &amp; Fagerjord, A.</hi> (2017): 
+                    <bibl ref="#bibl__1171"><hi rend="bold">Berry, D. M. &amp; Fagerjord, A.</hi> (2017): 
                         <hi rend="italic">Digital Humanities: Knowledge and Critique in a Digital Age, </hi>London: Polity Press.
                     </bibl>
-                    <bibl><hi rend="bold">Cassirer, E. </hi>(1961): Naturbegriffe und Kulturbegriffe. 
+                    <bibl ref="#bibl__1172"><hi rend="bold">Cassirer, E. </hi>(1961): Naturbegriffe und Kulturbegriffe. 
                         <hi rend="italic">Zur Logik der Kulturwissenschaften. Fünf Studien.</hi> Darmstadt: Wissenschaftliche Buchgesellschaft.
                     </bibl>
-                    <bibl><hi rend="bold">Comte, A. </hi>(1830-1842): 
+                    <bibl ref="#bibl__1173"><hi rend="bold">Comte, A. </hi>(1830-1842): 
                         <hi rend="italic">Cours de la philosophie positive, </hi>Paris: Bachelier.
                     </bibl>
-                    <bibl><hi rend="bold">Dilthey, W. </hi>(1992): 
+                    <bibl ref="#bibl__1174"><hi rend="bold">Dilthey, W. </hi>(1992): 
                         <hi rend="italic">Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, </hi>Stuttgart/Göttingen: Teubner/Vandenhoeck &amp; Ruprecht.
                     </bibl>
-                    <bibl><hi rend="bold">Gadamer, H.-G. </hi>(2010): 
+                    <bibl ref="#bibl__32"><hi rend="bold">Gadamer, H.-G. </hi>(2010): 
                         <hi rend="italic">Hermeneutik I. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik, </hi>Tübingen: Mohr Siebeck.
                     </bibl>
-                    <bibl><hi rend="bold">Helmholtz, H. L. F. V. </hi>(1903): 
+                    <bibl ref="#bibl__1175"><hi rend="bold">Helmholtz, H. L. F. V. </hi>(1903): 
                         <hi rend="italic">Über das Verhältnis von Naturwissenschaften zu der Gesammtheit der Wissenschaften, </hi>Braunschweig: Vieweg.
                     </bibl>
-                    <bibl><hi rend="bold">Kirsch, A. </hi>(2012): Technology Is Taking Over English Departments. The false promise of the digital humanities. Available from: 
+                    <bibl ref="#bibl__1176"><hi rend="bold">Kirsch, A. </hi>(2012): Technology Is Taking Over English Departments. The false promise of the digital humanities. Available from: 
                         <ref target="https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch">https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch</ref> [Accessed 22. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Liu, A. </hi>(2008): 
+                    <bibl ref="#bibl__1177"><hi rend="bold">Liu, A. </hi>(2008): 
                         <hi rend="italic">Local Transcendence: Essays on Postmodern Historicism and the Database, </hi>Chicago/London: The University of Chicago Press.
                     </bibl>
-                    <bibl><hi rend="bold">Liu, A. </hi>(2012): Where is Cultural Criticism in the Digital Humanities? 
+                    <bibl ref="#bibl__1178"><hi rend="bold">Liu, A. </hi>(2012): Where is Cultural Criticism in the Digital Humanities? 
                         <hi rend="italic">In:</hi> Gold, M. K. (ed.) 
                         <hi rend="italic">Debates in the Digital Humanities.</hi> Minneapolis: The University of Minnesota Press.
                     </bibl>
-                    <bibl><hi rend="bold">Marche, S. </hi>(2012): Literature Is not Data: Against Digital Humanities. 
+                    <bibl ref="#bibl__1179"><hi rend="bold">Marche, S. </hi>(2012): Literature Is not Data: Against Digital Humanities. 
                         <hi rend="italic">Los Angeles Reviews of Books </hi>[Online]. [Accessed 22. September 2017].
                     </bibl>
-                    <bibl><hi rend="bold">Mill, J. S. </hi>(1974): 
+                    <bibl ref="#bibl__1180"><hi rend="bold">Mill, J. S. </hi>(1974): 
                         <hi rend="italic">A System of Logic Ratiocinative and Inductive, </hi>London/Toronto: Routledge and Kegan Paul/University of Toronto Press.
                     </bibl>
-                    <bibl><hi rend="bold">Moretti, F. </hi>(2005): 
+                    <bibl ref="#bibl__84"><hi rend="bold">Moretti, F. </hi>(2005): 
                         <hi rend="italic">Graphs, Maps, Trees. Abstract Models for a Literary History, </hi>London/New York: Verso.
                     </bibl>
-                    <bibl><hi rend="bold">Popper, K. </hi>(2005): 
+                    <bibl ref="#bibl__1181"><hi rend="bold">Popper, K. </hi>(2005): 
                         <hi rend="italic">Logik der Forschung, </hi>Tübingen: Mohr Siebeck.
                     </bibl>
-                    <bibl><hi rend="bold">Rickert, H. </hi>(1986): 
+                    <bibl ref="#bibl__1182"><hi rend="bold">Rickert, H. </hi>(1986): 
                         <hi rend="italic">Kulturwissenschaft und Naturwissenschaft, </hi>Stuttgart: Reclam.
                     </bibl>
-                    <bibl><hi rend="bold">Ritter, J. </hi>(1974): Die Aufgabe der Geisteswissenschaften in der modernen Gesellschaft. 
+                    <bibl ref="#bibl__1183"><hi rend="bold">Ritter, J. </hi>(1974): Die Aufgabe der Geisteswissenschaften in der modernen Gesellschaft. 
                         <hi rend="italic">Subjektivität. Sechs Aufsätze.</hi> Frankfurt/M.: Suhrkamp.
                     </bibl>
-                    <bibl><hi rend="bold">Searle, J. </hi>(1993): 
+                    <bibl ref="#bibl__1184"><hi rend="bold">Searle, J. </hi>(1993): 
                         <hi rend="italic">Die Wiederentdeckung des Geistes, </hi>München: Artemis &amp; Winkler.
                     </bibl>
-                    <bibl><hi rend="bold">Windelband, W. </hi>(1924): Geschichte und Naturwissenschaft. 
+                    <bibl ref="#bibl__1185"><hi rend="bold">Windelband, W. </hi>(1924): Geschichte und Naturwissenschaft. 
                         <hi rend="italic">Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte.</hi> Tübingen: Mohr.
                     </bibl>
-                    <bibl><hi rend="bold">Wittgenstein, L. </hi>(1998): 
+                    <bibl ref="#bibl__1186"><hi rend="bold">Wittgenstein, L. </hi>(1998): 
                         <hi rend="italic">Logisch-philosophische Abhandlung. Tractatus logico-philosophicus - Kritische Edition, </hi>Frankfurt/M.: Suhrkamp.
                     </bibl>
                 </listBibl>

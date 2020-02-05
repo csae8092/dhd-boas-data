@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" 
-    xml:id="HODEL_Tobias_Automatic_Text_Recognition__Mit_Transkribus_Tex">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HODEL_Tobias_Automatic_Text_Recognition__Mit_Transkribus_Tex">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title>
-                <author>
+                <author ref="#person__tobias-hodel-hist-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                     <email>tobias.hodel@hist.uzh.ch</email>
                 </author>
-                <author>
+                <author ref="#person__tobias-strauss-uni-rostock-de">
                     <persName>
                         <surname>Strauß</surname>
                         <forename>Tobias</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität Rostock CITLab</affiliation>
                     <email>tobias.strauss@uni-rostock.de</email>
                 </author>
-                <author>
+                <author ref="#person__diem-caa-tuwien-ac-at">
                     <persName>
                         <surname>Diem</surname>
                         <forename>Markus</forename>
@@ -235,8 +233,8 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</bibl>
-                    <bibl>
+                    <bibl ref="#bibl__2904">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</bibl>
+                    <bibl ref="#bibl__1574">
                   <hi rend="bold">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R.,</hi> 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</bibl>
                 </listBibl>
             </div>

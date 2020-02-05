@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="KLINGER_Roman_A_Reporting_Tool_for_Relational_Visualization_">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KLINGER_Roman_A_Reporting_Tool_for_Relational_Visualization_">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="full">
                     <title type="main">A Reporting Tool for Relational Visualization and Analysis of Character Mentions in Literature</title>
                 </title>
-                <author>
+                <author ref="#person__florian-barth-ilw-uni-stuttgart-de">
                     <persName>
                         <surname>Barth</surname>
                         <forename>Florian</forename>
@@ -15,7 +13,7 @@
                     <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>florian.barth@ilw.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__evgeny-kim-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Kim</surname>
                         <forename>Evgeny</forename>
@@ -23,7 +21,7 @@
                     <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>evgeny.kim@ims.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__sandra-murr-ilw-uni-stuttgart-de">
                     <persName>
                         <surname>Murr</surname>
                         <forename>Sandra</forename>
@@ -31,7 +29,7 @@
                     <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>sandra.murr@ilw.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__roman-klinger-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Klinger</surname>
                         <forename>Roman</forename>
@@ -295,25 +293,25 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Agarwal, A. / Corvalan, A. / Jensen, J. / Rambow, O. </hi>(2012): “Social Network Analysis of Alice in Wonderland”, in: CLfL@ NAACL-HLT 88-96.</bibl>
-                    <bibl><hi rend="bold">Agarwal, A. / Kotalwar, A. / Rambow, O. </hi>(2013): “Automatic Extraction of Social Networks from Literary Text. A Case Study on Alice in Wonderland”, in: IJCNLP 1202-1208.</bibl>
-                    <bibl><hi rend="bold">Beveridge, A. / Shan, J., </hi>(2016): “Network of thrones”, in: Math Horizons, 23(4): 18-22.</bibl>
-                    <bibl><hi rend="bold">Bondy, J.A. / Murty, U.S.R. </hi>(1976): Graph theory with applications (Vol. 290). London: Macmillan.</bibl>
-                    <bibl><hi rend="bold">Burrows, J.F. </hi>(1987): “Word-patterns and story-shapes: The statistical analysis of narrative style”, in: Literary &amp; Linguistic Computing, 2(2): 61-70.</bibl>
-                    <bibl><hi rend="bold">Elson, D.K. / Dames, N. / McKeown, K.R. </hi>(2010): “Extracting social networks from literary fiction”, in: Proceedings of the 48th annual meeting of the association for computational linguistics 138-147. Association for Computational Linguistics.</bibl>
-                    <bibl><hi rend="bold">Heuser, R., F. Moretti / E. Steiner </hi>(2016): The Emotions of London. Technical report. Stanford University. Pamphlets of the Stanford Literary Lab.</bibl>
-                    <bibl><hi rend="bold">Jayannavar, P. / Agarwal, A. / Ju, M. and Rambow, O. </hi>(2015): “Validating Literary Theories Using Automatic Social Network Extraction”, in CLfL@ NAACL-HLT 32-41.</bibl>
-                    <bibl><hi rend="bold">Jockers, M.L. / Underwood, T. </hi>(2016): “Text‐Mining the Humanities”, in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A New Companion to Digital Humanities 291-306.</bibl>
-                    <bibl><hi rend="bold">Kim, E. / Padó, S. / Klinger, R. </hi>(2017): “Investigating the Relationship between Literary Genres and Emotional Plot Development”, in: Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 17-26.</bibl>
-                    <bibl><hi rend="bold">Klinger, R. / Sulliya S.S. / Reiter N. </hi>(2016): “Automatic Emotion Detection for Quantitative Literary Studies -- A Case Study on Kafka's ‘Das Schloss’ and ‘Amerika’”, in: Digital Humanities (DH), Conference Abstracts, Kraków, Poland, 2016.</bibl>
-                    <bibl><hi rend="bold">Michel, J.B. / Shen, Y.K. / Aiden, A.P. / Veres, A. / Gray, M.K. / Pickett, J.P. / Hoiberg, D. / Clancy, D. / Norvig, P. / Orwant, J. / Pinker, S. </hi>(2011): “Quantitative analysis of culture using millions of digitized books”, in: science, 331(6014) 176-182.</bibl>
-                    <bibl><hi rend="bold">Moretti, F. </hi>(2005): Graphs, maps, trees: abstract models for a literary history. Verso.</bibl>
-                    <bibl><hi rend="bold">Moretti, F. </hi>(2011). Network theory, plot analysis. Stanford Literary Lab Pamphlet Series 2. Available at: https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf</bibl>
-                    <bibl><hi rend="bold">Murr, S. / Barth, F. </hi>(2017): Digital Analysis of the Literary Reception of J.W. v. Goethe’s ‘Die Leiden des jungen Werthers’, in: Digital Humanities (DH), Conference Abstracts, Montreal, Canada 2017.</bibl>
-                    <bibl><hi rend="bold">Nalisnick, E.T. / Baird, H.S. </hi>(2013): “Extracting sentiment networks from Shakespeare's plays”, in: Document Analysis and Recognition (ICDAR), 2013 12th International Conference on IEEE 758-762.</bibl>
-                    <bibl><hi rend="bold">Park, G.M. / Kim, S.H. / Cho, H.G. </hi>(2013): “Structural analysis on social network constructed from characters in literature texts”, in: Journal of Computers, 8(9): 2442-2447.</bibl>
-                    <bibl><hi rend="bold">Rydberg-Cox, J., </hi>(2011): “Social networks and the language of greek tragedy”, in: Journal of the Chicago Colloquium on Digital Humanities and Computer Science (Vol. 1, No. 3).</bibl>
-                    <bibl><hi rend="bold">West, D.B. </hi>(2001): Introduction to graph theory (Vol. 2). Upper Saddle River: Prentice Hall.</bibl>
+                    <bibl ref="#bibl__982"><hi rend="bold">Agarwal, A. / Corvalan, A. / Jensen, J. / Rambow, O. </hi>(2012): “Social Network Analysis of Alice in Wonderland”, in: CLfL@ NAACL-HLT 88-96.</bibl>
+                    <bibl ref="#bibl__983"><hi rend="bold">Agarwal, A. / Kotalwar, A. / Rambow, O. </hi>(2013): “Automatic Extraction of Social Networks from Literary Text. A Case Study on Alice in Wonderland”, in: IJCNLP 1202-1208.</bibl>
+                    <bibl ref="#bibl__984"><hi rend="bold">Beveridge, A. / Shan, J., </hi>(2016): “Network of thrones”, in: Math Horizons, 23(4): 18-22.</bibl>
+                    <bibl ref="#bibl__985"><hi rend="bold">Bondy, J.A. / Murty, U.S.R. </hi>(1976): Graph theory with applications (Vol. 290). London: Macmillan.</bibl>
+                    <bibl ref="#bibl__986"><hi rend="bold">Burrows, J.F. </hi>(1987): “Word-patterns and story-shapes: The statistical analysis of narrative style”, in: Literary &amp; Linguistic Computing, 2(2): 61-70.</bibl>
+                    <bibl ref="#bibl__76"><hi rend="bold">Elson, D.K. / Dames, N. / McKeown, K.R. </hi>(2010): “Extracting social networks from literary fiction”, in: Proceedings of the 48th annual meeting of the association for computational linguistics 138-147. Association for Computational Linguistics.</bibl>
+                    <bibl ref="#bibl__987"><hi rend="bold">Heuser, R., F. Moretti / E. Steiner </hi>(2016): The Emotions of London. Technical report. Stanford University. Pamphlets of the Stanford Literary Lab.</bibl>
+                    <bibl ref="#bibl__988"><hi rend="bold">Jayannavar, P. / Agarwal, A. / Ju, M. and Rambow, O. </hi>(2015): “Validating Literary Theories Using Automatic Social Network Extraction”, in CLfL@ NAACL-HLT 32-41.</bibl>
+                    <bibl ref="#bibl__989"><hi rend="bold">Jockers, M.L. / Underwood, T. </hi>(2016): “Text‐Mining the Humanities”, in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A New Companion to Digital Humanities 291-306.</bibl>
+                    <bibl ref="#bibl__56"><hi rend="bold">Kim, E. / Padó, S. / Klinger, R. </hi>(2017): “Investigating the Relationship between Literary Genres and Emotional Plot Development”, in: Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 17-26.</bibl>
+                    <bibl ref="#bibl__990"><hi rend="bold">Klinger, R. / Sulliya S.S. / Reiter N. </hi>(2016): “Automatic Emotion Detection for Quantitative Literary Studies -- A Case Study on Kafka's ‘Das Schloss’ and ‘Amerika’”, in: Digital Humanities (DH), Conference Abstracts, Kraków, Poland, 2016.</bibl>
+                    <bibl ref="#bibl__991"><hi rend="bold">Michel, J.B. / Shen, Y.K. / Aiden, A.P. / Veres, A. / Gray, M.K. / Pickett, J.P. / Hoiberg, D. / Clancy, D. / Norvig, P. / Orwant, J. / Pinker, S. </hi>(2011): “Quantitative analysis of culture using millions of digitized books”, in: science, 331(6014) 176-182.</bibl>
+                    <bibl ref="#bibl__84"><hi rend="bold">Moretti, F. </hi>(2005): Graphs, maps, trees: abstract models for a literary history. Verso.</bibl>
+                    <bibl ref="#bibl__92"><hi rend="bold">Moretti, F. </hi>(2011). Network theory, plot analysis. Stanford Literary Lab Pamphlet Series 2. Available at: https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf</bibl>
+                    <bibl ref="#bibl__992"><hi rend="bold">Murr, S. / Barth, F. </hi>(2017): Digital Analysis of the Literary Reception of J.W. v. Goethe’s ‘Die Leiden des jungen Werthers’, in: Digital Humanities (DH), Conference Abstracts, Montreal, Canada 2017.</bibl>
+                    <bibl ref="#bibl__993"><hi rend="bold">Nalisnick, E.T. / Baird, H.S. </hi>(2013): “Extracting sentiment networks from Shakespeare's plays”, in: Document Analysis and Recognition (ICDAR), 2013 12th International Conference on IEEE 758-762.</bibl>
+                    <bibl ref="#bibl__994"><hi rend="bold">Park, G.M. / Kim, S.H. / Cho, H.G. </hi>(2013): “Structural analysis on social network constructed from characters in literature texts”, in: Journal of Computers, 8(9): 2442-2447.</bibl>
+                    <bibl ref="#bibl__93"><hi rend="bold">Rydberg-Cox, J., </hi>(2011): “Social networks and the language of greek tragedy”, in: Journal of the Chicago Colloquium on Digital Humanities and Computer Science (Vol. 1, No. 3).</bibl>
+                    <bibl ref="#bibl__995"><hi rend="bold">West, D.B. </hi>(2001): Introduction to graph theory (Vol. 2). Upper Saddle River: Prentice Hall.</bibl>
                 </listBibl>
             </div>
       </back>

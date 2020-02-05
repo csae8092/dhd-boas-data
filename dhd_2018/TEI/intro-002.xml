@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0" xml:id="intro-002">
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0" xml:id="intro-002">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -28,10 +26,10 @@
           <term>Short Paper</term>
         </keywords>
         <keywords scheme="original" n="topic">
-          <term></term>
+          <term/>
         </keywords>
         <keywords scheme="original" n="keywords">
-          <term></term>
+          <term/>
         </keywords>
       </textClass>
     </profileDesc>
@@ -55,13 +53,13 @@
         <p n="intro_text">
           Herausgeber: Georg Vogeler<lb/>
           Korrektur der Auszeichnungen:<lb/>
-          &#160;&#160;&#160;&#160;&#160;Dana Persch, Claes Neuefeind, Patrick Helling<lb/>
+               Dana Persch, Claes Neuefeind, Patrick Helling<lb/>
           Konvertierung TEI nach PDF: Claes Neuefeind<lb/> 
-          &#160;&#160;&#160;&#160;&#160;https://github.com/GVogeler/DHd2018<lb/>
+               https://github.com/GVogeler/DHd2018<lb/>
           unter Verwendung der Konversionsskripte von Karin Dalziel<lb/>
-          &#160;&#160;&#160;&#160;&#160;https://github.com/karindalziel/TEI-to-PDF<lb/>
+               https://github.com/karindalziel/TEI-to-PDF<lb/>
           und der bearbeiteten Version von Aramís Concepción Durán<lb/>
-          &#160;&#160;&#160;&#160;&#160;https://github.com/aramiscd/dhd2016-boa.git<lb/>
+               https://github.com/aramiscd/dhd2016-boa.git<lb/>
           Konferenz-Logo: Anja Neuefeind<lb/>
         </p>
         <p n="intro_text">

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="HECKELEN_Malte_Lars_Verhaltensmuster_in_Massendiskursen__Ein">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HECKELEN_Malte_Lars_Verhaltensmuster_in_Massendiskursen__Ein">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Verhaltensmuster in Massendiskursen: Ein Opinion Dynamics - Modell</title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__malte-heckelen-ilw-uni-stuttgart-de">
                     <persName>
                         <surname>Heckelen</surname>
                         <forename>Malte</forename>
@@ -98,29 +96,29 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Chaiken, Shelly / Eagly, Alice H. Eagly </hi>(1989): “Heuristic and Systematic Information Processing Within and Beyond the Persuasion Context.” In: Uleman, J.S. / Bargh, J.A.: 
+                    <bibl ref="#bibl__1058"><hi rend="bold">Chaiken, Shelly / Eagly, Alice H. Eagly </hi>(1989): “Heuristic and Systematic Information Processing Within and Beyond the Persuasion Context.” In: Uleman, J.S. / Bargh, J.A.: 
                         <hi rend="italic">Unintended Thought. </hi>New York: Gilford, 212–52.
                     </bibl>
-                    <bibl><hi rend="bold">Deffuant, Guillaume / Neau, David / Amblard, Frederic / Weisbuch, Gérard </hi>(2000): „Mixing Beliefs among interacting agents.“ 
+                    <bibl ref="#bibl__1059"><hi rend="bold">Deffuant, Guillaume / Neau, David / Amblard, Frederic / Weisbuch, Gérard </hi>(2000): „Mixing Beliefs among interacting agents.“ 
                         <hi rend="italic">Advances in Complex Systems 3</hi> (1-4): 87-98.
                     </bibl>
-                    <bibl><hi rend="bold">Esser, Hartmut. </hi>(1996): “Die Definition der Situation.” 
+                    <bibl ref="#bibl__1060"><hi rend="bold">Esser, Hartmut. </hi>(1996): “Die Definition der Situation.” 
                         <hi rend="italic">Kölner Zeitschrift für Soziologie und Sozialpsychologie</hi> 48 (2): 1–34.
                     </bibl>
-                    <bibl><hi rend="bold">Hegselmann, Rainer / Krause, Ulrich </hi>(2002): “Opinion dynamics and bounded confidence. Models, Analysis and Simulation.” 
+                    <bibl ref="#bibl__1061"><hi rend="bold">Hegselmann, Rainer / Krause, Ulrich </hi>(2002): “Opinion dynamics and bounded confidence. Models, Analysis and Simulation.” 
                         <hi rend="italic">Journal of Artificial Societies and Social Simulation 5 (3). URL: http://jasss.soc.surrey.ac.uk/5/3/2.html.</hi>
                     </bibl>
-                    <bibl><hi rend="bold">Karimpanal, Thommen George, / Wilhelm, Erik </hi>(2017): “Identification and Off-Policy Learning of Multiple Objectives Using Adaptive Clustering.” 
+                    <bibl ref="#bibl__1062"><hi rend="bold">Karimpanal, Thommen George, / Wilhelm, Erik </hi>(2017): “Identification and Off-Policy Learning of Multiple Objectives Using Adaptive Clustering.” 
                         <hi rend="italic">Neurocomputing</hi> 263: 39-47.
                     </bibl>
-                    <bibl><hi rend="bold">Kohle, Hubertus </hi>(2017): “Digitale Rekonstruktion und Simulation”. In: Jannidis, Fotis / Kohle, Hubertus (eds.): 
+                    <bibl ref="#bibl__97"><hi rend="bold">Kohle, Hubertus </hi>(2017): “Digitale Rekonstruktion und Simulation”. In: Jannidis, Fotis / Kohle, Hubertus (eds.): 
                         <hi rend="italic">Digital Humanities. Eine Einführung</hi>. Stuttgart: J.B. Metzler, 315-327.
                     </bibl>
-                    <bibl><hi rend="bold">Kroneberg, Clemens. </hi>(2010): “Das Modell Der Frame-Selektion: Grundlagen Und Soziologische Anwendung Einer Integrativen Handlungstheorie.” PhD, Universität Mannheim.</bibl>
-                    <bibl><hi rend="bold">Petty, Richard E., und John T. Cacioppo. </hi>(1986): “The Elaboration Likelihood Model of Persuasion.” In: 
+                    <bibl ref="#bibl__1063"><hi rend="bold">Kroneberg, Clemens. </hi>(2010): “Das Modell Der Frame-Selektion: Grundlagen Und Soziologische Anwendung Einer Integrativen Handlungstheorie.” PhD, Universität Mannheim.</bibl>
+                    <bibl ref="#bibl__1064"><hi rend="bold">Petty, Richard E., und John T. Cacioppo. </hi>(1986): “The Elaboration Likelihood Model of Persuasion.” In: 
                         <hi rend="italic">Advances in Experimental Social Psychology</hi> 19: 123–205.
                     </bibl>
-                    <bibl><hi rend="bold">Wen, Feng / Chen, Zonghai / Zhuo, Rui / Zhou, Guangming </hi>(2006): “Reinforcement Learning Method of Continuous State Adaptively Discretized Based on K-Means Clustering.” 
+                    <bibl ref="#bibl__1065"><hi rend="bold">Wen, Feng / Chen, Zonghai / Zhuo, Rui / Zhou, Guangming </hi>(2006): “Reinforcement Learning Method of Continuous State Adaptively Discretized Based on K-Means Clustering.” 
                         <hi rend="italic">Control and Decision</hi> 21 (2): 143-146.
                     </bibl>
                 </listBibl>

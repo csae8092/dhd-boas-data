@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="MANDL_Thomas_Hinterlistig___schelmisch___treulos___Sentiment">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MANDL_Thomas_Hinterlistig___schelmisch___treulos___Sentiment">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Hinterlistig – schelmisch – treulos – Sentiment Analyse in Texten des 19. Jahrhunderts: Eine exemplarische Analyse für Länder und Ethnien</title>
-                <author>
+                <author ref="#person__wodausch-uni-hildesheim-de">
                     <persName>
                         <surname>Wodausch</surname>
                         <forename>David</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Hildesheim, Deutschland</affiliation>
                     <email>wodausch@uni-hildesheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__fiedler-gei-de">
                     <persName>
                         <surname>Fiedler</surname>
                         <forename>Maik</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
                     <email>fiedler@gei.de</email>
                 </author>
-                <author>
+                <author ref="#person__heuwing-uni-hildesheim-de">
                     <persName>
                         <surname>Heuwing</surname>
                         <forename>Ben</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Universität Hildesheim, Deutschland</affiliation>
                     <email>heuwing@uni-hildesheim.de</email>
                 </author>
-                <author>
+                <author ref="#person__mandl-uni-hildesheim-de">
                     <persName>
                         <surname>Mandl</surname>
                         <forename>Thomas</forename>
@@ -117,11 +115,7 @@
                 <p>Das Werkzeug AntConc erlaubt es, Konkordanzen zu extrahieren. Die Suchbegriffe wurden als zentrale Wörter dargestellt und AntConc liefert dann den Kontext der Phrase. Die Sortierung der Phrasen erfolgt nach dem Maß Mutual Information. </p>
                 <p>So wurden zu jeder Suche und damit zu jedem der sechs Sub-Korpora jeweils ca. 100 Phrasen manuell ausgewertet und klassifiziert. Dabei wurde festgehalten, ob eine meinungstragende Phrase vorliegt. Zudem wurde über die Polarität entschieden, also ob die Meinung positiv oder negativ ist. Diese manuelle Annotation semantischer Werte in Textabschnitten erfolgte, um darauf aufbauend das Sentiment Lexikon zu erstellen.</p>
                 <figure>
-                    <graphic n="1001"
-                        width="13.187761111111111cm"
-                        height="7.7434722222222225cm"
-                        rend="inline"
-                        url="MANDL_Thomas_Hinterlistig___schelmisch___treulos___Sentiment-image1.png"/>
+                    <graphic n="1001" width="13.187761111111111cm" height="7.7434722222222225cm" rend="inline" url="MANDL_Thomas_Hinterlistig___schelmisch___treulos___Sentiment-image1.png"/>
                     <head>Abbildung 1: Kollokationen in AntConc</head>
                 </figure>
             </div>
@@ -134,11 +128,7 @@
                 <p>In der Folge wurden die Kollokationen manuell in sechs, in sich homogene Gruppen geclustert, welche jeweils den lokalen Kontext und das Auftreten einer Kollokation beschreiben: Religion; Synonym für Jude; positive Eigenschaft Jude; negative Eigenschaft Jude; Juden im Gesellschaftsleben und Sonstiges. Entwickelt bzw. festgelegt wurden die sechs Cluster auf Grundlage der Kollokationen.</p>
                 <p>Die Analyse der Vorkommenshäufigkeit der sechs Cluster ergab eine zeitliche Veränderung. Im Zusammenhang mit Religion wurde das Judentum im früheren Subkorpus ab 1850 häufiger erwähnt als im Zeitraum von 1910 bis 1919. Im späteren Zeitraum wird das Judentum häufiger im Zusammenhang mit dem gesellschaftlichen Leben erwähnt. Diese spiegelt möglicherweise den Wandel des Judenhasses während der zweiten Hälfte des 19. Jahrhunderts auf Grundlage religiöser Motive zu einer biologisch-rassischen Begründung.</p>
                 <figure>
-                    <graphic n="1002"
-                        width="16.002cm"
-                        height="9.389708333333333cm"
-                        rend="inline"
-                        url="MANDL_Thomas_Hinterlistig___schelmisch___treulos___Sentiment-image2.png"/>
+                    <graphic n="1002" width="16.002cm" height="9.389708333333333cm" rend="inline" url="MANDL_Thomas_Hinterlistig___schelmisch___treulos___Sentiment-image2.png"/>
                     <head>Abbildung 2: Cluster zum Wortfeld Jude/Judentum</head>
                 </figure>
                 <p>Insgesamt wurden 225 einmalig auftretende meinungstragende Begriffe gefunden. Von diesen sind nur 44% in einer aktuellen Liste des Deutschen vorhanden (Sentiment Wortschatz der Universität Leipzig). Zwar ist die verwendete Liste deutlich länger und aus umfangreicheren Studien hervorgegangen, doch allein dieser Vergleich zeigt, dass das historische Vokabular sich deutlich unterscheidet. Nicht enthalten sind beispielsweise: verachtet, zerstreut, unkünstlerisch oder halsstarrig.</p>
@@ -151,31 +141,31 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1050">
                         <hi rend="bold">Bender, Michael</hi> (2016): Forschungsumgebungen in den Digital Humanities: Nutzerbedarf, Wissenstransfer, Textualität. Walter de Gruyter GmbH &amp; Co KG
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1051">
                         <hi rend="bold">De Luca, Ernesto William</hi> (2014): Welt der Kinder. Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung. URL: http://welt-der-kinder.gei.de
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1052">
                         <hi rend="bold">Fuchs, Eckhardt</hi> (2014): Das Schulbuch in der Forschung. Analysen und Empfehlungen für die Bildungspraxis. Georg-Eckert-Institut für internationale Schulbuch-forschung. Band 4. V &amp; R unipress in Göttingen
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__96">
                         <hi rend="bold">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”. In: Information Research 21 (4) http://www.informationr.net/ir/21-4/isic/isic1606.html
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1053">
                         <hi rend="bold">Liu, Bing</hi> (2012): Sentiment Analysis and Opinion Mining. Morgan &amp; Claypool Publishers
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1054">
                         <hi rend="bold">Ramsay, Stephen</hi> (2008): “Algorithmic Criticism”. In: A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, http://www.digitalhumanities.org/companionDLS/
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1055">
                         <hi rend="bold">Schnober, Carsten / Iryna Gurevych</hi> (2015): “Combining Topic Models for Corpus Exploration: Applying LDA for Complex Corpus Research Tasks in a Digital Humanities Project.” In Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications, TM ’15. New York, NY, USA: ACM, 2015, S. 11–20.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1056">
                         <hi rend="bold">Somasundaran, Swapna / Josef Ruppenhofer / Janyce Wiebe</hi> (2008) "Discourse level opinion relations: An annotation study." In: Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue. Association for Computational Linguistics.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1057">
                         <hi rend="bold">Struß, Julia Maria</hi> (2016): Multilinguales aspektbasiertes Opinion Mining: Entwicklung eines ressourcenarmen Extraktionsverfahrens und Untersuchung von Nutzerperspektiven. Dissertation Universität Hildesheim.
                     </bibl>
                 </listBibl>

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BARZEN_Johanna_SustainLife___Erhalt_lebender__digitaler_Syst">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BARZEN_Johanna_SustainLife___Erhalt_lebender__digitaler_Syst">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften</title>
-                <author>
+                <author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>johanna.barzen@iaas.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
@@ -21,7 +19,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__uwe-breitenbuecher-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
@@ -29,7 +27,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>uwe.breitenbuecher@iaas.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__simonekronenwett-gmail-com">
                     <persName>
                         <surname>Kronenwett</surname>
                         <forename>Simone</forename>
@@ -37,7 +35,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>simonekronenwett@gmail.com</email>
                 </author>
-                <author>
+                <author ref="#person__frank-leymann-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Leymann</surname>
                         <forename>Frank</forename>
@@ -45,7 +43,7 @@
                     <affiliation>Universität Stuttgart, Deutschland</affiliation>
                     <email>frank.leymann@iaas.uni-stuttgart.de</email>
                 </author>
-                <author>
+                <author ref="#person__bmathiak-uni-koeln-de">
                     <persName>
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
@@ -53,7 +51,7 @@
                     <affiliation>Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
-                <author>
+                <author ref="#person__c-neuefeind-uni-koeln-de">
                     <persName>
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
@@ -132,19 +130,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Bingert, Sven / Blumtritt, Jonathan / Buddenbohm, Stefan / Engelhardt, Claudia / Kronenwett, Simone / Kurzawe, Daniel </hi>(2016): "Anwendungskonservierung und die Nachhaltigkeit von Forschungsanwendungen", in: Forschungsdaten in den Geisteswissenschaften (FORGE 2016) 13-16 https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge16/praesentationen/programmheft.pdf [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">Binz, Tobias / Breitenbücher, Uwe / Haupt, Florian / Kopp, Oliver / Leymann, Frank / Nowak, Alexander / Wagner, Sebastian </hi>(2013): "OpenTOSCA - A Runtime for TOSCA-based Cloud Applications", in: Proceedings of the 11th International Conference on Service-Oriented Computing (ICSOC 2013). Springer.</bibl>
-                    <bibl><hi rend="bold">Blumtritt, Jonathan / Mathiak, Brigitte </hi>(2016): “Consulting Workflow for Humanities Research Data”, in: Forschungsdaten in den Geisteswissenschaften (FORGE 2016) 21-22 https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge16/praesentationen/programmheft.pdf [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">Breitenbücher, Uwe / Barzen, Johanna / Falkenthal, Michael / Leymann, Frank </hi>(2017): "Digitale Nachhaltigkeit in den Geisteswissenschaften durch TOSCA: Nutzung eines standardbasierten Open-Source Ökosystems", in: DHd 2017: Digitale Nachhaltigkeit 235-238 http://www.dhd2017.ch/wp-content/uploads/2017/01/Abstractband_def_24.1.17-1.pdf [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">DV-ISA </hi>(2016): "Umgang mit digitalen Daten in der Wissenschaft: Forschungsdatenmanagement in NRW. Eine erste Bestandsaufnahme", Version 0.7, https://www.dvisa-nrw.de/veroeffentlichungen/veroeffentlichungen-container-oeffentlich/dv-isa-vorstudie-bestandsaufnahme-forschungsdatenmanagement [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">Kramp, Leif </hi>(2013): “Wie die Digitalisierung die Wissenschaft verändert”, in: sueddeutsche.de, 20.11.2013, http://www.sueddeutsche.de/wissen/digitales-morgen-debatte-zur-digitalisierung-wie-die-digitalisierung-die-wissenschaft-veraendert-1.1823133[letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">OASIS </hi>(2013): Topology and Orchestration Specification for Cloud Applications Version 1.0.</bibl>
-                    <bibl><hi rend="bold">Pampel, Heinz / Bertelmann, Roland</hi> (2011): "Data Policies im Spannungsfeld zwischen Empfehlung und Verpflichtung", in: Handbuch Forschungsdatenmanagement 49–61, Bad Honnef: Bock + Herchen.</bibl>
-                    <bibl><hi rend="bold">Rat für Informationsinfrastrukturen </hi>(2016): "Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland", http://www.rfii.de/download/rfii-empfehlungen-2016/ [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">Razum, Matthias / Neumann, Janna </hi>(2014): "Das RADAR Projekt: Datenarchivierung und -publikation als Dienstleistung - disziplinübergreifend, nachhaltig, kostendeckend", in: o|bib Das offene Bibliotheksjournal 1/1: 30–44 https://www.o-bib.de/article/view/2014H1S30-44/117 [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">Sahle, Patrick / Kronenwett, Simone </hi>(2013): "Jenseits der Daten: Überlegungen zu Datenzentren für die Geisteswissenschaften am Beispiel des Kölner 'Data Center for the Humanities'", in: LIBREAS. Library Ideas 23: 76–96.</bibl>
-                    <bibl><hi rend="bold">Wissenschaftsrat </hi>(2012): "Empfehlungen zur Weiterentwicklung der wissenschaftlichen Informationsinfrastrukturen in Deutschland bis 2020", http://www.wissenschaftsrat.de/download/archiv/2359-12.pdf [letzter Zugriff 20. September 2017].</bibl>
-                    <bibl><hi rend="bold">Wuttke, Ulrike / Engelhardt, Claudia / Buddenbohm, Stefan </hi>(2016): "Angebotsgenese für ein geisteswissenschaftliches Forschungsdatenzentrum", in: Zeitschrift für digitale Geisteswissenschaften 2017, text/html Format, doi:10.17175/2016_003.</bibl>
+                    <bibl ref="#bibl__845"><hi rend="bold">Bingert, Sven / Blumtritt, Jonathan / Buddenbohm, Stefan / Engelhardt, Claudia / Kronenwett, Simone / Kurzawe, Daniel </hi>(2016): "Anwendungskonservierung und die Nachhaltigkeit von Forschungsanwendungen", in: Forschungsdaten in den Geisteswissenschaften (FORGE 2016) 13-16 https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge16/praesentationen/programmheft.pdf [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__846"><hi rend="bold">Binz, Tobias / Breitenbücher, Uwe / Haupt, Florian / Kopp, Oliver / Leymann, Frank / Nowak, Alexander / Wagner, Sebastian </hi>(2013): "OpenTOSCA - A Runtime for TOSCA-based Cloud Applications", in: Proceedings of the 11th International Conference on Service-Oriented Computing (ICSOC 2013). Springer.</bibl>
+                    <bibl ref="#bibl__847"><hi rend="bold">Blumtritt, Jonathan / Mathiak, Brigitte </hi>(2016): “Consulting Workflow for Humanities Research Data”, in: Forschungsdaten in den Geisteswissenschaften (FORGE 2016) 21-22 https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge16/praesentationen/programmheft.pdf [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__81"><hi rend="bold">Breitenbücher, Uwe / Barzen, Johanna / Falkenthal, Michael / Leymann, Frank </hi>(2017): "Digitale Nachhaltigkeit in den Geisteswissenschaften durch TOSCA: Nutzung eines standardbasierten Open-Source Ökosystems", in: DHd 2017: Digitale Nachhaltigkeit 235-238 http://www.dhd2017.ch/wp-content/uploads/2017/01/Abstractband_def_24.1.17-1.pdf [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__848"><hi rend="bold">DV-ISA </hi>(2016): "Umgang mit digitalen Daten in der Wissenschaft: Forschungsdatenmanagement in NRW. Eine erste Bestandsaufnahme", Version 0.7, https://www.dvisa-nrw.de/veroeffentlichungen/veroeffentlichungen-container-oeffentlich/dv-isa-vorstudie-bestandsaufnahme-forschungsdatenmanagement [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__849"><hi rend="bold">Kramp, Leif </hi>(2013): “Wie die Digitalisierung die Wissenschaft verändert”, in: sueddeutsche.de, 20.11.2013, http://www.sueddeutsche.de/wissen/digitales-morgen-debatte-zur-digitalisierung-wie-die-digitalisierung-die-wissenschaft-veraendert-1.1823133[letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__82"><hi rend="bold">OASIS </hi>(2013): Topology and Orchestration Specification for Cloud Applications Version 1.0.</bibl>
+                    <bibl ref="#bibl__850"><hi rend="bold">Pampel, Heinz / Bertelmann, Roland</hi> (2011): "Data Policies im Spannungsfeld zwischen Empfehlung und Verpflichtung", in: Handbuch Forschungsdatenmanagement 49–61, Bad Honnef: Bock + Herchen.</bibl>
+                    <bibl ref="#bibl__851"><hi rend="bold">Rat für Informationsinfrastrukturen </hi>(2016): "Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland", http://www.rfii.de/download/rfii-empfehlungen-2016/ [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__852"><hi rend="bold">Razum, Matthias / Neumann, Janna </hi>(2014): "Das RADAR Projekt: Datenarchivierung und -publikation als Dienstleistung - disziplinübergreifend, nachhaltig, kostendeckend", in: o|bib Das offene Bibliotheksjournal 1/1: 30–44 https://www.o-bib.de/article/view/2014H1S30-44/117 [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__83"><hi rend="bold">Sahle, Patrick / Kronenwett, Simone </hi>(2013): "Jenseits der Daten: Überlegungen zu Datenzentren für die Geisteswissenschaften am Beispiel des Kölner 'Data Center for the Humanities'", in: LIBREAS. Library Ideas 23: 76–96.</bibl>
+                    <bibl ref="#bibl__853"><hi rend="bold">Wissenschaftsrat </hi>(2012): "Empfehlungen zur Weiterentwicklung der wissenschaftlichen Informationsinfrastrukturen in Deutschland bis 2020", http://www.wissenschaftsrat.de/download/archiv/2359-12.pdf [letzter Zugriff 20. September 2017].</bibl>
+                    <bibl ref="#bibl__854"><hi rend="bold">Wuttke, Ulrike / Engelhardt, Claudia / Buddenbohm, Stefan </hi>(2016): "Angebotsgenese für ein geisteswissenschaftliches Forschungsdatenzentrum", in: Zeitschrift für digitale Geisteswissenschaften 2017, text/html Format, doi:10.17175/2016_003.</bibl>
                 </listBibl>
             </div>
       </back>

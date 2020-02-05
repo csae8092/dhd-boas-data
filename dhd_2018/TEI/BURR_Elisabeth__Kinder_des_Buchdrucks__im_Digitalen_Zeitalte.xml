@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="BURR_Elisabeth__Kinder_des_Buchdrucks__im_Digitalen_Zeitalte">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BURR_Elisabeth__Kinder_des_Buchdrucks__im_Digitalen_Zeitalte">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>"Kinder des Buchdrucks" im Digitalen Zeitalter. Ein romanistisches Digital Humanities Modul</title>
-                <author>
+                <author ref="#person__elisabeth-burr-uni-leipzig-de">
                     <persName>
                         <surname>Burr</surname>
                         <forename>Elisabeth</forename>
@@ -13,7 +11,7 @@
                     <affiliation>Universität Leipzig, Deutschland</affiliation>
                     <email>elisabeth.burr@uni-leipzig.de</email>
                 </author>
-                <author>
+                <author ref="#person__uf28bope-studserv-uni-leipzig-de">
                     <persName>
                         <surname>Fußbahn</surname>
                         <forename>Ulrike</forename>
@@ -133,104 +131,104 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__1285">
                         <hi rend="bold">Albrecht, Jörn</hi> (2001): „Sprachbewertung / Évaluation de la langue“, in: Holtus, Günter / Metzeltin, Michael / Schmitt, Christian (eds.): 
                         <hi rend="italic">Lexikon der romanistischen Linguistik (LRL)</hi>. Band I / 2: 
                         <hi rend="italic">Methodologie (Sprache in der Gesellschaft / Sprache und Klassifikation / Datensammlung und -verarbeitung) / Méthodologie (Langue et société / Langue et classification / Collection et traitement des données)</hi>. Tübingen: Niemeyer 526-540.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1286">
                         <hi rend="bold">Bierbach, Mechtild / Pellat, Jean-Christophe</hi> (2003): "Histoire de la réflexion sur les langues romanes: le français / Geschichte der Reflexion über die romanischen Sprachen: Französisch", in: Ernst, Gerhard / Gleßgen, Martin-Dietrich / Schmitt, Christian / Schweickard, Wolfgang (eds.): 
                         <hi rend="italic">Romanische Sprachgeschichte / Histoire linguistique de la Romania</hi>. Ein internationales Handbuch zur Geschichte der romanischen Sprachen / Manuel international d'histoire linguistique de la Romania 1 (= Handbücher zur Sprach- und Kommunikationswissenschaft 23). Berlin / New York: De Gruyter 226-229. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1287">
                         <hi rend="bold">Du Bellay, Joachim</hi> (1549): 
                         <hi rend="italic">Deffence, et illustration de la langue francoyse</hi>. Paris: Arnoul l’Angelier (Digitalisat: PDF, BnF Gallica).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1288">
                         <hi rend="bold">DTA</hi> (12.01.2016): „Dokumentation“, in: 
                         <hi rend="italic">Deutsches Textarchiv</hi> &lt;http://www.deutschestextarchiv.de/doku&gt; [25.09.2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1289">
                         <hi rend="bold">Eisenstein, Elisabeth I</hi>. (1997): 
                         <hi rend="italic">Die Druckerpresse</hi>. Kulturrevolution im frühen modernen Europa. Wien / New York: Springer. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1290">
                         <hi rend="bold">Fortunio, Francesco</hi> (1516): 
                         <hi rend="italic">Regole grammaticali della volgar lingua</hi>. Ancona: Bernardin Vercellese / Bernardino Guerralda (Digitalisat: TIFF, Universitätsbibliothek Eichstätt-Ingolstadt 03.06.2015).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1291">
                         <hi rend="bold">Giesecke, Michael</hi> (
                         <hi rend="superscript">4</hi>2006): 
                         <hi rend="italic">Der Buchdruck in der frühen Neuzeit</hi>. Eine historische Fallstudie über die Durchsetzung neuer Informations- und Kommunikationstechnologien. Frankfurt am Main: Suhrkamp. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1292">
                         <hi rend="bold">Gold, Matthew K.</hi> (ed.) (2012): 
                         <hi rend="italic">Debates in the Digital Humanities</hi>. Minneapolis / London: University of Minnesota Press.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1293">
                         <hi rend="bold">Haugen, Odd Einar</hi> (ed.) (2011): 
                         <hi rend="italic">Medieval Unicode Font Initative</hi> &lt;http://folk.uib.no/hnooh/mufi/&gt; [25.09.2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1294">
                         <hi rend="bold">Hirsch, Brett D</hi>. (ed.) (2012): 
                         <hi rend="italic">Digital Humanities Pedagogy</hi>. Practices, Principles and Politics. Cambridge: Open Book Publishers.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__103">
                         <hi rend="bold">Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte</hi> (eds.): 
                         <hi rend="italic">Digital Humanities</hi>. Eine Einführung . Stuttgart: J. B. Metzler.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1295">
                         <hi rend="bold">Kloock, Daniela / Spahr, Angela</hi> (1997): 
                         <hi rend="italic">Medientheorien</hi>. Eine Einführung (= UTB 1986). München: Wilhelm Fink.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1296">
                         <hi rend="bold">Lubello, Sergio</hi> (2003): "Storia della riflessione sulle lingue romanze: italiano e sardo / Geschichte der Reflexion über die romanischen Sprachen: Italienisch und Sardisch", in: Ernst, Gerhard / Gleßgen, Martin-Dietrich / Schmitt, Christian / Schweickard, Wolfgang (eds.): 
                         <hi rend="italic">Romanische Sprachgeschichte / Histoire linguistique de la Romania</hi>. Ein internationales Handbuch zur Geschichte der romanischen Sprachen / Manuel international d'histoire linguistique de la Romania. Berlin: De Gruyter 208-225.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1297">
                         <hi rend="bold">Lüdtke, Jens</hi> (2001): "Romanische Philologie von Dante bis Raynouard / La philologie romane de Dante à Raynouard", in: Holtus, Günter / Metzeltin, Michael / Schmitt, Christian (eds.): 
                         <hi rend="italic">Lexikon der romanistischen Linguistik (LRL)</hi>. Band I / 1: Geschichte des Faches Romanistik. Methodologie (Das Sprachsystem) / Histoire de la philologie romane. Méthodologie (Langue et système). Tübingen: Niemeyer 1-35. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1298">
                         <hi rend="bold">Meigret, Louis</hi> (1550): 
                         <hi rend="italic">Le tretté de la GRAMMeRE FRANCOEZE</hi>. Paris: Chrestien Wechel (Digitalisat: PDF, Bayrische Staatsbibliothek, Münchner Digitalisierungszentrum Digitale Bibliothek 05.09.2015, JPG 10.11.2017).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1299">
                         <hi rend="bold">Oxygen XML Editor</hi> (2002-2017) &lt;https://www.oxygenxml.com/&gt; [25.09.2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1300">
                         <hi rend="bold">Poggi Salani, Teresa</hi> (1988): "Italienisch: Grammatikographie / Storia delle grammatiche", in: Holtus, Günter / Metzeltin, Michael / Schmitt, Christian (eds.): 
                         <hi rend="italic">Lexikon der Romanistischen Linguistik (LRL)</hi> IV: Italienisch, Korsisch, Sardisch / Italiano, Corso, Sardo. Tübingen: Niemeyer 774-786.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1301">
                         <hi rend="bold">Schöch, Christof</hi> (2017): „Digitale Wissensproduktion“, in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): 
                         <hi rend="italic">Digital Humanities</hi>. Eine Einführung . Stuttgart: J. B. Metzler 206-212.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1302">
                         <hi rend="bold">Schreibman, Susan / Ping Huang, Marianne / Benardou, Agiatis/ Tasovac, Toma / Scagliola, Stef / Durco, Matej / Clivaz, Claire</hi> (2015-2017): 
                         <hi rend="italic">#dariahTeach</hi>. DH Training Materials &lt;http://dariah.eu/teach/&gt; [24.09.2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1303">
                         <hi rend="bold">Sperone, Speron</hi> (1542): “Dialogo delle lingue”, in: Speron Sperone: 
                         <hi rend="italic">I dialogi di Messer Speron Sperone</hi>. Vinegia: Aldus 106-131 (Digitalisat: TIFF, Universitätsbibliothek Leipzig 27.04.2017).
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1304">
                         <hi rend="bold">Swiggers, Pierre</hi> (1990): “Französisch: Grammatikographie / Grammaticographie“, in: 
                         <hi rend="italic">Lexikon der Romanistischen Linguistik</hi> (LRL), V, 1: Französisch, Okzitanisch, Katalanisch / Le français, L'occitan, Le catalan. Tübingen: Niemeyer 843-869. 
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1305">
                         <hi rend="bold">TEI</hi> (05.10.2015): “Guidelines”, in: 
                         <hi rend="italic">Text Encoding Initiative</hi> &lt;http://www.tei-c.org/Guidelines/&gt; [25.09.2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1306">
                         <hi rend="bold">Tory, Geoffroy</hi> (1529): 
                         <hi rend="italic">Champ Fleury</hi>. Paris: Geoffroy Tory / Giles Gourmont.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1307">
                         <hi rend="bold">Uni</hi> (1991–2017): “The Unicode Standard“, in: 
                         <hi rend="italic">The Unicode Consortium</hi> &lt;http://www.unicode.org/standard/standard.html&gt; 25.09.2017].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1308">
                         <hi rend="bold">Warwick, Claire / Terras, Melissa / Nyhan, Julianne</hi> (eds.) (2012): 
                         <hi rend="italic">Digital Humanities in Practice</hi>. London: Facet Publishing.
                     </bibl>

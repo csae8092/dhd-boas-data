@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="GRADL_Tobias_Ist_die_DARIAH_DE_Forschungsinfrastruktur_fit_f">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GRADL_Tobias_Ist_die_DARIAH_DE_Forschungsinfrastruktur_fit_f">
    <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -8,7 +6,7 @@
                     <title type="main">Ist die DARIAH-DE Forschungsinfrastruktur fit für Daten der realen Welt? Bericht über einen Anwendungsfall mit archäologischen Daten und seine ersten Ergebnisse </title>
                     <title type="sub"/>
                 </title>
-                <author>
+                <author ref="#person__matteo-romanello-dainst-de">
                     <persName>
                         <surname>Romanello</surname>
                         <forename>Matteo</forename>
@@ -16,7 +14,7 @@
                     <affiliation>Deutsches Archäologisches Institut, Deutschland</affiliation>
                     <email>matteo.romanello@dainst.de</email>
                 </author>
-                <author>
+                <author ref="#person__tobias-gradl-uni-bamberg-de">
                     <persName>
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
@@ -291,21 +289,21 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><hi rend="bold">van Zundert, J., </hi>(2012): “If You Build It, Will We Come? Large Scale Digital Infrastructures as a Dead End for Digital Humanities”. 
+                    <bibl ref="#bibl__597"><hi rend="bold">van Zundert, J., </hi>(2012): “If You Build It, Will We Come? Large Scale Digital Infrastructures as a Dead End for Digital Humanities”. 
                         <hi rend="italic">Historical Social Research</hi>, 37(3), pp.165–186.
                     </bibl>
-                    <bibl><hi rend="bold">Cuy, Sebastian / Gerth, Philipp / Heiden, Maximilian / Kolbmann, Wibke / Schmidle, Wolfgang </hi>(2014): iDAI.gazetteer – ein Referenzsystem für altertumswissenschaftliche Ortsinformationen als Teil einer digitalen Forschungsinfrastruktur. In
+                    <bibl ref="#bibl__598"><hi rend="bold">Cuy, Sebastian / Gerth, Philipp / Heiden, Maximilian / Kolbmann, Wibke / Schmidle, Wolfgang </hi>(2014): iDAI.gazetteer – ein Referenzsystem für altertumswissenschaftliche Ortsinformationen als Teil einer digitalen Forschungsinfrastruktur. In
                         <hi rend="italic">Kölner und Bonner Archaeologica</hi> 4, S. 203-212.
                     </bibl>
-                    <bibl><hi rend="bold">Gradl, Tobias / Henrich, Andreas </hi> (2016): Die DARIAH-DE-Föderationsarchitektur: Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen, Bibliothek Forschung und Praxis. Band 40, Heft 2, Seiten 222-228, ISSN (Online) 1865-7648, ISSN (Print) 0341-4183, DOI:
+                    <bibl ref="#bibl__23"><hi rend="bold">Gradl, Tobias / Henrich, Andreas </hi> (2016): Die DARIAH-DE-Föderationsarchitektur: Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen, Bibliothek Forschung und Praxis. Band 40, Heft 2, Seiten 222-228, ISSN (Online) 1865-7648, ISSN (Print) 0341-4183, DOI:
                         <ref target="https://doi.org/10.1515/bfp-2016-0027"> </ref>
                         <ptr target="https://doi.org/10.1515/bfp-2016-0027"/>, Juli 2016
                     </bibl>
-                    <bibl><hi rend="bold">Gradl, Tobias / Henrich, Andreas</hi> (2016): „Data Integration for the Arts and Humanities: A Language Theoretical Concept“. In: Fuhr, Norbert et al. (Hg.): Research and Advanced Technology for Digital Libraries: 20th International Conference on Theory and Practice of Digital Libraries, TPDL 2016, Hannover, Germany, September 5‐9, 2016, Proceedings. Cham: Springer International Publishing, S. 281–293</bibl>
-                    <bibl><hi rend="bold">Gradl, Tobias / Henrich, Andreas /Plutte, Christoph </hi>(2015): „Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Förderation von Kollektionen“. In: Baum, Constanze/Stäcker, Thomas (Hg.): Grenzen und Möglichkeiten der Digital HumanitiesZeitschrift für digitale Geisteswissenschaften. 2015, H. 1. URL:
+                    <bibl ref="#bibl__60"><hi rend="bold">Gradl, Tobias / Henrich, Andreas</hi> (2016): „Data Integration for the Arts and Humanities: A Language Theoretical Concept“. In: Fuhr, Norbert et al. (Hg.): Research and Advanced Technology for Digital Libraries: 20th International Conference on Theory and Practice of Digital Libraries, TPDL 2016, Hannover, Germany, September 5‐9, 2016, Proceedings. Cham: Springer International Publishing, S. 281–293</bibl>
+                    <bibl ref="#bibl__22"><hi rend="bold">Gradl, Tobias / Henrich, Andreas /Plutte, Christoph </hi>(2015): „Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Förderation von Kollektionen“. In: Baum, Constanze/Stäcker, Thomas (Hg.): Grenzen und Möglichkeiten der Digital HumanitiesZeitschrift für digitale Geisteswissenschaften. 2015, H. 1. URL:
                         <ptr target="http://zfdg.de/sb001_020"/>
                     </bibl>
-                    <bibl><hi rend="bold">Parr, Terence </hi>(2012): The definitive ANTLR 4 reference. 2. Aufl. Dallas, Raleigh: Pragmatic Bookshelf (= The pragmatic programmers)</bibl>
+                    <bibl ref="#bibl__599"><hi rend="bold">Parr, Terence </hi>(2012): The definitive ANTLR 4 reference. 2. Aufl. Dallas, Raleigh: Pragmatic Bookshelf (= The pragmatic programmers)</bibl>
                 </listBibl>
             </div>
       </back>

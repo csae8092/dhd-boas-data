@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="DUMONT_Stefan_Ein_Brief___zwei_Perspektiven__Stellenkommenta">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DUMONT_Stefan_Ein_Brief___zwei_Perspektiven__Stellenkommenta">
    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Ein Brief – zwei Perspektiven. Stellenkommentare in digitalen Briefeditionen über APIs austauschen</title>
-                <author>
+                <author ref="#person__dumont-bbaw-de">
                     <persName>
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
@@ -92,11 +90,7 @@
             </p>
             <p>Das Poster stellt nicht nur Konzept und Implementierung vor, sondern diskutiert auch die noch offenen Probleme einer solchen API, wie z.B. die korrekte und stabile Referenzierung des Bezugstextes (d.h. der kommentierten Textstelle).</p>
             <figure>
-                <graphic n="1001"
-                     width="16.002cm"
-                     height="12.1285cm"
-                     rend="inline"
-                     url="DUMONT_Stefan_Ein_Brief___zwei_Perspektiven__Stellenkommenta-image1.png"/>
+                <graphic n="1001" width="16.002cm" height="12.1285cm" rend="inline" url="DUMONT_Stefan_Ein_Brief___zwei_Perspektiven__Stellenkommenta-image1.png"/>
                 <head>Beispielhafte Implementierung in der Entwicklungsversion von edition humboldt digital
                 </head>
             </figure>
@@ -105,19 +99,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>
+                    <bibl ref="#bibl__132">
                         <hi rend="bold">Dumont, Stefan.</hi> 2018. „CorrespSearch – Connecting Scholarly Editions of Letters“. Journal of the Text Encoding Initiative 10. [Im Erscheinen].
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1665">
                         <hi rend="bold">Lordick, Harald, Rainer Becker, Michael Bender, Luise Borek, Canan Hastik, Thomas Kollatz, Beata Mache, Andrea Rapp, Ruth Reiche, und Niels-Oliver Walkowski.</hi> 2016. „Digitale Annotationen in der geisteswissenschaftlichen Praxis“. Bibliothek Forschung und Praxis 40 (2): 186–199. doi:10.1515/bfp-2016-0042.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1666">
                         <hi rend="bold">Sanderson, Robert, Paolo Ciccarese, und Benjamin Young</hi>. 2017. „Web Annotation Data Model. W3C Recommendation“. W3C. https://www.w3.org/TR/annotation-model/.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__1667">
                         <hi rend="bold">Stadler, Peter.</hi> 2012. „Normdateien in der Edition“. editio 26: 174–83.
                     </bibl>
-                    <bibl>
+                    <bibl ref="#bibl__133">
                         <hi rend="bold">TEI Correspondence SIG.</hi> 2015. „Correspondence Metadata Interchange Format (CMIF)“. https://github.com/TEI-Correspondence-SIG/CMIF.
                     </bibl>
                 </listBibl>

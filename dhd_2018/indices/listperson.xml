@@ -1,334 +1,1864 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun">
-   <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digital vs. Humanities. Didaktische Aufbereitung digitaler Methoden für die klassischen Geisteswissenschaften im Projekt forTEXT</title>
-                <author ref="#person__janina-jacke-uni-hamburg-de">
-                    <persName>
-                        <surname>Jacke</surname>
-                        <forename>Janina</forename>
-                    </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
-                    <email>janina.jacke@uni-hamburg.de</email>
-                </author>
-                <author ref="#person__jan-horstmann-uni-hamburg-de">
-                    <persName>
-                        <surname>Horstmann</surname>
-                        <forename>Jan</forename>
-                    </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
-                    <email>jan.horstmann@uni-hamburg.de</email>
-                </author>
-                <author ref="#person__j-c-meister-uni-hamburg-de">
-                    <persName>
-                        <surname>Meister</surname>
-                        <forename>Jan Christoph</forename>
-                    </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
-                    <email>j-c-meister@uni-hamburg.de</email>
-                </author>
+                <title type="main">Personenregister</title>
+                <title type="sub">DHD2018</title>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>2017-12-11T15:19:00Z</date>
-                </edition>
-            </editionStmt>
             <publicationStmt>
-            <t:publisher xmlns:t="http://www.tei-c.org/ns/1.0">Georg Vogeler, im Auftrag des Verbands Digital Humanities im deutschaprachigen Raum e.V.</t:publisher>
-            <t:address xmlns:t="http://www.tei-c.org/ns/1.0">
-               <t:addrLine>Universität Graz</t:addrLine>
-               <t:addrLine>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</t:addrLine>
-               <t:addrLine>Elisabethstraße 59/III</t:addrLine>
-               <t:addrLine>8010 Graz</t:addrLine>
-            </t:address>
-         </publicationStmt>
+                <p/>
+            </publicationStmt>
             <sourceDesc>
-                <p>Converted from a Word document </p>
+                <p/>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application ident="DHCONVALIDATOR" version="1.17">
-                    <label>DHConvalidator</label>
-                </application>
-            </appInfo>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="ConfTool" n="category">
-                    <term>Paper</term>
-                </keywords>
-                <keywords scheme="ConfTool" n="subcategory">
-                    <term>Poster</term>
-                </keywords>
-                <keywords scheme="ConfTool" n="keywords">
-                    <term>Literatur</term>
-                    <term>Interpretation</term>
-                    <term>Forschungsumgebung</term>
-                    <term>Annotation</term>
-                    <term>Didaktik</term>
-                </keywords>
-                <keywords scheme="ConfTool" n="topics">
-                    <term>Sammlung</term>
-                    <term>Modellierung</term>
-                    <term>Annotieren</term>
-                    <term>Kollaboration</term>
-                    <term>Lehre</term>
-                    <term>Literatur</term>
-                </keywords>
-            </textClass>
-        <settingDesc>
-            <ab n="conference">DHd2018 - "Kritik der Digitalen Vernunft", Köln</ab>
-            <ab n="paperID">154</ab>
-            <ab n="session_ID">60</ab>
-            <ab n="session_numberInSession">62</ab>
-            <ab n="session_short">Poster_1</ab>
-            <ab n="session_title">Postersession</ab>
-            <ab n="session_start">2018-03-01 17:45</ab>
-            <ab n="session_end">2018-03-01 23:00</ab>
-         </settingDesc>
-      </profileDesc>
     </teiHeader>
-   <text>
+    <text>
         <body>
-            <div type="div1" rend="DH-Heading1">
-                <head>Einleitung</head>
-                <p>Computergestütztes Arbeiten kann geisteswissenschaftliches Forschen auf unterschiedlichste Weise befördern und bereichern. Dennoch müssen wir in unserem Arbeitsalltag und in Gesprächen mit Kolleginnen und Kollegen<ref target="ftn1" n="1"/> immer wieder feststellen, dass viele traditioneller arbeitende Geisteswissenschaftler digitalen Methoden noch immer mit Skepsis begegnen.<ref target="ftn2" n="2"/> Dies liegt nicht zuletzt daran, dass in den Geisteswissenschaften zahlreiche Methoden zum Einsatz kommen, von denen nur einigen wenigen eine derart formalisierte Arbeitsweise naheliegt, wie sie im Rahmen der Digital Humanities oft verfolgt wird.
-                </p>
-                <p>Das lässt sich gut am Beispiel der Literaturwissenschaft illustrieren: Digitale Methoden werden bisher vornehmlich von Literaturwissenschaftlern genutzt, die an strukturellen oder anderen formalen Aspekten literarischer Texte interessiert sind (beispielsweise an narrativen Strukturen, Figurennetzwerken etc.).<ref target="ftn3" n="3"/>
-                </p>
-                <p>Ihrem traditionellen Selbstverständnis nach ist die Literaturwissenschaft allerdings zentral an komplexen und innovativen 
-                    <hi rend="italic">Interpretationen</hi> literarischer Texte interessiert<ref target="ftn4" n="4"/> – und wie diese durch digitale Methoden der Textanalyse befördert werden können, ist nicht evident.
-                </p>
-                <p>Damit digitale Methoden eine breitere Akzeptanz finden, ist es deswegen notwendig, den Nutzen dieser Methoden auch für stärker hermeneutisch ausgerichtete geisteswissenschaftliche Forschungsfragen zu reflektieren. Unserem (weiten) Verständnis von “Hermeneutik” entsprechend handelt es sich bei hermeneutischen Forschungsfragen um Fragen, die auf die (holistische) Auslegung bzw. Deutung von Texten gerichtet sind (vgl. bspw. Spörl 2004: 128). In literaturwissenschaftlichen Zusammenhängen spielen dabei insbesondere Fragen nach Funktion bzw. Wirkung bestimmter Textelemente oder des Gesamttextes eine Rolle, ebenso wie die In-Beziehung-Setzung des Textes mit bestimmten Kontexten. Diese Forschungsfragen sollten exponiert im Zusammenhang mit der Entwicklung von Tools, digitaler Forschungsumgebungen und vor allem didaktischer Konzepte zur Vermittlung von DH-Methoden berücksichtigt werden. Diese Forderungen werden bisher jedoch nicht in zureichendem Maße erfüllt.<ref target="ftn5" n="5"/>
-                </p>
-                <p>Wir möchten in diesem Beitrag das aktuelle Projekt forTEXT (2017–2020) vorstellen, das der Vermittlung, Aufbereitung und Bereitstellung von Mitteln zur computergestützten Textanalyse insbesondere für hermeneutisch arbeitende Geisteswissenschaftler gewidmet ist. Im Folgenden sollen in diesem Zusammenhang zunächst die unterschiedlichen konzeptionellen Dimensionen (Abschnitt 2) sowie anschließend erste inhaltliche Ergebnisse des Projekts präsentiert werden (Abschnitt 3).</p>
-            </div>
-            <div type="div1" rend="DH-Heading1">
-                <head>Dimensionen des forTEXT-Projekts</head>
-                <div type="div2" rend="DH-Heading2">
-                    <head>Paradigmen</head>
-                    <p>Das Anfang 2017 gestartete DFG-Projekt 
-                        <hi rend="italic">forTEXT. Literatur digital erforschen</hi> (<ref target="http://www.fortext.net">http://www.fortext.net</ref>) hat die Entwicklung einer digitalen Forschungsumgebung zum Ziel, die im Rahmen der qualitativen Analyse und Interpretation von Texten genutzt werden kann. Das Augenmerk bei der Gestaltung dieser Umgebung liegt insbesondere auf zwei Aspekten:
-                    </p>
-                    <p>(a) Orientierung an genuin geisteswissenschaftlichen Arbeitsweisen: Es geht, ganz im Sinne des geisteswissenschaftlichen Selbstverständnisses, um die Unterstützung der genuin 
-                        <hi rend="italic">interpretativen</hi> Auseinandersetzung mit Texten. In anderen Worten: forTEXTs Fokus liegt 
-                        <hi rend="italic">nicht</hi> ausschließlich auf der statistischen Auswertung von Texten, wie es sonst im Rahmen von DH-Methoden zur Textanalyse oft der Fall ist.
-                        <ref target="ftn6" n="6"/> Auf diese Weise soll gewährleistet werden, dass traditioneller arbeitende Geisteswissenschaftler die Umgebung tatsächlich zur digitalen Unterstützung vertrauter Methoden der Textanalyse und -interpretation nutzen können und ihnen keine Hinwendung zur statistischen Textanalyse abverlangt wird.
-                    </p>
-                    <p>(b) Niedrigschwelliger Zugang: Geisteswissenschaftler sollen die digitale Forschungsumgebung 
-                        <hi rend="italic">intuitiv</hi> und weitgehend ohne technische Vorkenntnisse nutzen können. Hierzu trägt zum einen die Tatsache bei, dass forTEXT ein individualisiertes Empfehlungssystem zur Verfügung stellt, das geisteswissenschaftlichen Nutzern Vorschläge unterbreitet, welche digitalen Ressourcen, Routinen und Tools für ihr Projekt hilfreich sein könnten (siehe auch Abschnitt 2.2). Nutzer werden also nicht einfach mit einem unüberschaubaren digitalen Angebot alleingelassen, dessen potenziellen Nutzen für die eigene Fragestellung sie sich erst noch selbst erschließen müssen. Zum anderen stellt forTEXT leicht verständliche Beschreibungen zu digitalen Methoden und Korpora zur Verfügung, ebenso wie intuitiv bedienbare Benutzeroberflächen für digitale Werkzeuge zur Textanalyse und -interpretation (siehe auch Abschnitt 2.3). Auf diese Weise können DH-Methoden ohne technisches Know-how sowie ohne das aufwändige Studieren von Nutzerhandbüchern eingesetzt werden.
-                    </p>
-                    <p>In den folgenden Unterabschnitten sollen sowohl forTEXTs Empfehlungssystem als auch die drei Komponenten des Informationsrepositoriums (
-                        <hi rend="italic">Routinen, Ressourcen und Tools</hi>) kurz etwas detaillierter vorgestellt werden.
-                    </p>
-                </div>
-                <div type="div2" rend="DH-Heading2">
-                    <head>Individualisiertes Empfehlungssystem</head>
-                    <p>Für Geisteswissenschaftler, die noch nicht wissen, auf welche Weise digitale Methoden der Textanalyse und -interpretation ihre eigene Forschung unterstützen können, bietet forTEXT ein individualisiertes Empfehlungssystem in Form eines digitalen Fragebogens an (siehe Abb. 1).</p>
-                    <figure>
-                        <graphic n="1001" width="14.234583333333333cm" height="13.731875cm" rend="inline" url="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun-image1.jpeg"/>
-                        <head>Abb. 1: forTEXTs individualisiertes Empfehlungssystem für digitale Textuntersuchung (Ausschnitt des Prototyps)</head>
-                    </figure>
-                    <p>Hier können die Nutzer beispielsweise angeben, ob sie schon Vorerfahrungen mit digitalen Methoden der Textanalyse gemacht haben, in welchem Zustand sich ihr Textkorpus befindet, unter welcher Fragestellung sie ihre Texte untersuchen wollen und welcher literaturtheoretischen Schule sie sich zuordnen.<ref target="ftn7" n="7"/> Als Output erhalten die Forscher, angepasst an die von ihnen gemachten Angaben, eine Liste mit Vorschlägen zu digitalen Korpora, Methoden und Werkzeugen, die zu ihrer Fragestellung und Arbeitsweise passen. Das Empfehlungssystem also eine individualisierte Kompilation aus forTEXTs Inhalten und Verzeichnissen, die im Folgenden kurz vorgestellt werden sollen.
-                    </p>
-                </div>
-                <div type="div2" rend="DH-Heading2">
-                    <head>Routinen, Ressourcen und Tools</head>
-                    <p>forTEXTs digitale Forschungsumgebung ist in drei Bereiche gegliedert.</p>
-                    <p>(a) Routinen: Im Teilbereich 
-                        <hi rend="italic">Routinen</hi> finden sich zum einen Informationstexte zu digitalen Methoden, die der Analyse und Interpretation von Texten dienen (bspw. zu taxonomiebasiertem Annotieren, zur Textanalyse mittels individualisierter Abfragen auf Text- und Annotationsdaten, zu Topic Modeling etc.), sowie zu vorbereitenden Prozeduren wie der Digitalisierung von Texten. In diesen Informationstexten finden sich darüber hinaus Links zu digitalen Tools (s.u.), mithilfe derer die fraglichen Methoden ausgeführt werden können.
-                    </p>
-                    <p>Zum anderen werden unter 
-                        <hi rend="italic">Routinen</hi> auch didaktische Texte (d.h. Lerneinheiten und Lehrmodule) zur Verfügung gestellt. Die Lerneinheiten dienen der selbstständigen Aneignung bestimmter digitaler Methoden und Tools, während die Lehrmodule didaktisches Material für Lehrende zur Verfügung stellen, die auf 90-minütige Workshopsituationen zugeschnitten sind (siehe auch Abschnitt 3). Die Entwicklung neuer Lehrmodule wird sich dabei an den im Projektverlauf akquirierten Bedarfen der Nutzer orientieren.
-                    </p>
-                    <p>(b) Ressourcen: Unter 
-                        <hi rend="italic">Ressourcen</hi> ist ein Verzeichnis digital nutzbarer Korpora zu finden. Hierunter fallen sowohl hochqualitativ digitalisierte Textkorpora als auch inhaltlich annotierte Korpora, die nachgenutzt werden können. Einige annotierte Korpora werden im Rahmen von forTEXT selbst bzw. affiliierten Projekten produziert.<ref target="ftn8" n="8"/> Das Verzeichnis enthält darüber hinaus informative Beschreibungen der gelisteten Ressourcen.
-                    </p>
-                    <p>(c) Tools: Im Bereich 
-                        <hi rend="italic">Tools</hi> findet sich schließlich eine kommentierte Liste digitaler Werkzeug-Suites bzw. Funktionskomponenten, mithilfe derer unterschiedliche textanalytische und -interpretatorische Operationen durchgeführt oder unterstützt werden können. Darüber hinaus sollen in forTEXT auch eigene Funktionskomponenten entwickelt werden. Hierzu gehört vornehmlich die Weiterentwicklung des Textannotations- und Analyseprogramms CATMA (
-                        <ref target="http://www.catma.de">http://www.catma.de</ref>) – aber auch die Entwicklung von graphischen Step-by-step-Benutzerschnittstellen für bestehende Tools.<ref target="ftn9" n="9"/> Dies soll es technisch weniger versierten geisteswissenschaftlichen Nutzern ermöglichen, hochfunktionale Tools einzusetzen, ohne sich umfangreich einarbeiten zu müssen.
-                    </p>
-                    <p>Alle Verzeichnisse und Einträge aus den drei forTEXT-Bereichen Routinen, Ressourcen und Tools können von Nutzern eigenständig durchsucht und aufgerufen werden – oder es erfolgt ein angeleiteter Zugriff durch die Nutzung des Empfehlungssystems.</p>
-                    <p>Im verbleibenden Teil dieses Beitrags möchten wir etwas genauer auf einen Lehrmodulentwurf eingehen, das dem forTEXT-Bereich 
-                        <hi rend="italic">Routinen</hi> zuzuordnen ist. Anhand dieses Moduls soll beispielhaft gezeigt werden, wie in forTEXT die Paradigmen der Orientierung an einer genuin geisteswissenschaftlichen Arbeitsweise und des niedrigschwelligen Zugangs umgesetzt werden.
-                    </p>
-                </div>
-            </div>
-            <div type="div1" rend="DH-Heading1">
-                <head>Lehrmodule Manuelles Annotieren</head>
-                <p>Zwei von forTEXTs 90-minütigen Lehrmodulen sind der Vermittlung der digitalen Methode des 
-                    <hi rend="italic">manuellen Annotierens</hi> gewidmet. Die Methode des Annotierens stellt einen guten Brückenschlag zur traditionelleren geisteswissenschaftlichen Arbeitsweise dar – schließlich gehört das Anbringen von Notizen in zu interpretierenden literarischen Texten seit jeher zur literaturwissenschaftlichen Arbeitspraxis.<ref target="ftn10" n="10"/> In den Lehrmodulen zum 
-                    <hi rend="italic">digitalen</hi> Annotieren gilt es nun, zum einen an die bereits bekannte Praxis anzuknüpfen und zum anderen deutlich zu machen, inwiefern die digitale Unterstützung es ermöglicht, bekannte Arbeitsprozesse deutlich effektiver durchzuführen, oder gar ganz neue Arbeitsweisen eröffnet, die das jeweilige Forschungsziel befördern.
-                </p>
-                <p>Um diese Anforderungen umzusetzen, sieht forTEXT zwei Lehreinheiten zum manuellen Annotieren vor, von denen wir die erste im Folgenden kurz vorstellen möchten.</p>
-                <p>In der Einheit <hi rend="italic">Taxonomiebasiertes Annotieren</hi> wird schrittweise gezeigt, wie mithilfe des Annotations- und Analysetools CATMA freie Kommentare in literarischen Texten angebracht sowie analysiert und systematisiert werden können. Die Systematisierung freier Kommentare kann wiederum als Grundlage dienen, um eine Annotationstaxonomie zu entwickeln, die dann für eine noch feinere und zielgerichtetere Analyse des literarischen Textes genutzt werden kann.
-                </p>
-                <p>Das verwendete Programm CATMA ist hierbei in zweifacher Hinsicht auf die forTEXT-Paradigmen abgestimmt: Es bietet eine intuitiv bedienbare Benutzeroberfläche und unterstützt den freien, undogmatischen und genuin interpretativen Zugang zu Texten, während es zugleich Optionen stärkerer Formalisierung bereithält (vgl. Abb. 2).<ref target="ftn11" n="11"/>
-                </p>
-                <figure>
-                    <graphic n="1002" width="15.927916666666667cm" height="11.535833333333333cm" rend="inline" url="JACKE_Janina_Digital_vs__Humanities__Didaktische_Aufbereitun-image2.png"/>
-                    <head>Abb. 2: Intuitives, nicht-deterministisches Annotieren in CATMA</head>
-                </figure>
-                <p>Die im Rahmen des Lehrmoduls verfolgte didaktische Strategie hat mehrere Vorteile: Der erste Schritt, d.h. das digitale Anbringen freier Kommentare, stellt einen vollkommen explorativen und potenziell unstrukturierten Zugang zu literarischen Texten dar. Er erzwingt also kein formalistisches Umdenken und bildet die traditionellere geisteswissenschaftlich-hermeneutische Arbeitsweise gut ab. Im Vergleich zum analogen Arbeiten birgt er aber dennoch den Vorteil, dass die freien Kommentare durch digitale Unterstützung effektiver 
-                    <hi rend="italic">nachgenutzt</hi> werden können.
-                </p>
-                <p>Als zusätzliches Angebot an Literaturwissenschaftler, die für eine etwas stärkere Formalisierung ihres Zugangs offen sind, zeigt das Lehrmodul, welche weiteren Vorteile und Optionen 
-                    <hi rend="italic">taxonomiebasiertes</hi> Annotieren mit sich bringt (bspw. bessere Vergleichbarkeit, detailliertere und vereinfachte Analyse, ggf. Reproduzierbarkeit etc.)<ref target="ftn12" n="12"/> und wie dieses digital umgesetzt werden kann. Diese Herangehensweise kann in der Folge auch die Nützlichkeit noch stärker formalistisch anmutender DH-Techniken plausibilisieren – wie beispielsweise der kollaborativen, guidelinegestützten Annotation<ref target="ftn13" n="13"/> oder der automatisierten Annotation bzw. Informationsextraktion.
-                </p>
-                <p>Im Lehrmodul zum manuellen digitalen Annotieren sind also die Paradigmen umgesetzt, die auch die weitere Arbeit am forTEXT-Projekt bestimmen sollen: Durch stärkere Orientierung an der traditionell-geisteswissenschaftlichen Arbeitsweise und erleichterten Zugang können digitale Methoden einer breiteren Nutzergemeinschaft nähergebracht werden.</p>
-            </div>
+            <listPerson>
+                <person xml:id="person__adelmann-informatik-uni-hamburg-de">
+                    <persName><surname>Adelmann</surname><forename>Benedikt</forename></persName>
+                    <affiliation>Universität Hamburg</affiliation>
+                </person>
+                <person xml:id="person__barbara-aehnlich-uni-jena-de">
+                    <persName><surname>Aehnlich</surname><forename>Barbara</forename></persName>
+                    <affiliation>FSU Jena, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__daniel-althof-bbaw-de">
+                    <persName><surname>Althof</surname><forename>Daniel</forename></persName>
+                    <affiliation>BBAW, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__aamann-coli-uni-saarland-de">
+                    <persName><surname>Aman</surname><forename>Anastasija</forename></persName>
+                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__peter-andorfer-oeaw-ac-at">
+                    <persName><surname>Andorfer</surname><forename>Peter</forename></persName>
+                    <affiliation>ACDH, Österreich</affiliation>
+                </person>
+                <person xml:id="person__udo-andraschke-fau-de">
+                    <persName><surname>Andraschke</surname><forename>Udo</forename></persName>
+                    <affiliation>Friedrich-Alexander Universität Erlangen-Nürnberg,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__melanie-andresen-uni-hamburg-de">
+                    <persName><surname>Andresen</surname><forename>Melanie</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__arnold-badw-de">
+                    <persName><surname>Arnold</surname><forename>Eckhart</forename></persName>
+                    <affiliation>Bayerische Akademie der Wissenschaften, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__aschauer-ieg-mainz-de">
+                    <persName><surname>Aschauer</surname><forename>Anna</forename></persName>
+                    <affiliation>Institut für Europäische Geschichte, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__gioele-barabucci-uni-koeln-de">
+                    <persName><surname>Barabucci</surname><forename>Gioele</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__florian-barth-ilw-uni-stuttgart-de">
+                    <persName><surname>Barth</surname><forename>Florian</forename></persName>
+                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__kristina-barthel-tu-dresden-de">
+                    <persName><surname>Barthel</surname><forename>Kristina</forename></persName>
+                    <affiliation>TU Dresden, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__johanna-barzen-iaas-uni-stuttgart-de">
+                    <persName><surname>Barzen</surname><forename>Johanna</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__m-bauer-uni-tuebingen-de">
+                    <persName><surname>Bauer</surname><forename>Matthias</forename></persName>
+                    <affiliation>Eberhard Karls Universität Tübingen</affiliation>
+                </person>
+                <person xml:id="person__jens-beck-gmx-de">
+                    <persName><surname>Beck</surname><forename>Jens</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__anke-begerow-haw-hamburg-de">
+                    <persName><surname>Begerow</surname><forename>Anke</forename></persName>
+                    <affiliation>Hochschule für angewandte Wissenschaften, Hamburg</affiliation>
+                </person>
+                <person xml:id="person__bernhard-bermeitinger-uni-passau-de">
+                    <persName><surname>Bermeitinger</surname><forename>Bernhard</forename></persName>
+                    <affiliation>Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web
+                        Information Systems, Universität Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__agoston-bernad-oeaw-ac-at">
+                    <persName><surname>Bernád</surname><forename>Ágoston</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__katrin-betz-uni-wuerzburg-de">
+                    <persName><surname>Betz</surname><forename>Katrin</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__bbigalke-smail-uni-koeln-de">
+                    <persName><surname>Bigalke</surname><forename>Ben</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jbigalke-smail-uni-koeln-de">
+                    <persName><surname>Bigalke</surname><forename>Jan</forename></persName>
+                    <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__blanken-bach-leipzig-de">
+                    <persName><surname>Blanken</surname><forename>Christine</forename></persName>
+                    <affiliation>Bach-Archiv Leipzig, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__andre-blessing-ims-uni-stuttgart-de">
+                    <persName><surname>Blessing</surname><forename>Andre</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jonathan-blumtritt-uni-koeln-de">
+                    <persName><surname>Blumtritt</surname><forename>Jonathan</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__artur-boelderl-aau-at">
+                    <persName><surname>Boelderl</surname><forename>Artur</forename></persName>
+                    <affiliation>Institut für Germanistik, AAU Klagenfurt</affiliation>
+                </person>
+                <person xml:id="person__boenig-bbaw-de">
+                    <persName><surname>Boenig</surname><forename>Matthias</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__anke-bosse-aau-at">
+                    <persName><surname>Bosse</surname><forename>Anke</forename></persName>
+                    <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                </person>
+                <person xml:id="person__st151509-stud-uni-stuttgart-de">
+                    <persName><surname>Braun</surname><forename>Tamara</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__manuel-braun-ilw-uni-stuttgart-de">
+                    <persName><surname>Braun</surname><forename>Manuel</forename></persName>
+                    <affiliation>Institut für Literaturwissenschaft, Universität
+                        Stuttgart</affiliation>
+                </person>
+                <person xml:id="person__uwe-breitenbuecher-iaas-uni-stuttgart-de">
+                    <persName><surname>Breitenbücher</surname><forename>Uwe</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ludwig-maximilian-breuer-univie-ac-at">
+                    <persName><surname>Breuer</surname><forename>Ludwig
+                        Maximilian</forename></persName>
+                    <affiliation>Universität Wien</affiliation>
+                </person>
+                <person xml:id="person__brodhun-sub-uni-goettingen-de">
+                    <persName><surname>Brodhun</surname><forename>Maximilian</forename></persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__dmb77-cam-ac-uk">
+                    <persName><surname>Bruder</surname><forename>Daniel</forename></persName>
+                    <affiliation>University of Cambridge, Vereinigtes Königreich</affiliation>
+                </person>
+                <person xml:id="person__brunner-ids-mannheim-de">
+                    <persName><surname>Brunner</surname><forename>Annelen</forename></persName>
+                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jonas-bruschke-uni-wuerzburg-de">
+                    <persName><surname>Bruschke</surname><forename>Jonas</forename></persName>
+                    <affiliation>JMU Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__oliver-braeckel-uni-leipzig-de">
+                    <persName><surname>Bräckel</surname><forename>Oliver</forename></persName>
+                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__johannes-braeuer-tu-dresden-de">
+                    <persName><surname>Bräuer</surname><forename>Johannes</forename></persName>
+                    <affiliation>Technische Universität Dresden, Institut für
+                        Philosophie</affiliation>
+                </person>
+                <person xml:id="person__bruening-em-uni-frankfurt-de">
+                    <persName><surname>Brüning</surname><forename>Gerrit</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt / Freies Deutsches
+                        Hochstift</affiliation>
+                </person>
+                <person xml:id="person__bubenhofer-cl-uzh-ch">
+                    <persName><surname>Bubenhofer</surname><forename>Noah</forename></persName>
+                    <affiliation>Universität Zürich, Schweiz</affiliation>
+                </person>
+                <person xml:id="person__burckhardtd-geschichte-hu-berlin-de">
+                    <persName><surname>Burckhardt</surname><forename>Daniel</forename></persName>
+                    <affiliation>Institut für die Geschichte der deutschen Juden (IGdJ),
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__manuel-burghardt-ur-de">
+                    <persName><surname>Burghardt</surname><forename>Manuel</forename></persName>
+                    <affiliation>Lehrstuhl für Medieninformatik, Universität
+                        Regensburg</affiliation>
+                </person>
+                <person xml:id="person__elisabeth-burr-uni-leipzig-de">
+                    <persName><surname>Burr</surname><forename>Elisabeth</forename></persName>
+                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__buschh-uni-trier-de">
+                    <persName><surname>Busch</surname><forename>Hannah</forename></persName>
+                    <affiliation>Center for Digital Humanities, Universität Trier,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ingo-boerner-univie-ac-at">
+                    <persName><surname>Börner</surname><forename>Ingo</forename></persName>
+                    <affiliation>Universität Wien, Österreich</affiliation>
+                </person>
+                <person xml:id="person__ef-fa-web-de">
+                    <persName><surname>Bös</surname><forename>Eva</forename></persName>
+                    <affiliation>Buchbinderei Mohr, Trier, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__lucie-boettger-stud-uni-goettingen-de">
+                    <persName><surname>Böttger</surname><forename>Lucie</forename></persName>
+                    <affiliation>Georg-August-Universität Göttingen, Deutschland -
+                        GCDH/Archäologisches Institut</affiliation>
+                </person>
+                <person xml:id="person__buechler-ieg-mainz-de">
+                    <persName><surname>Büchler</surname><forename>Marco</forename></persName>
+                    <affiliation>Institut für Europäische Geschichte, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__buerger-slub-dresden-de">
+                    <persName><surname>Bürger</surname><forename>Thomas</forename></persName>
+                    <affiliation>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek
+                        Dresden</affiliation>
+                </person>
+                <person xml:id="person__martina-buergermeister-uni-graz-at">
+                    <persName><surname>Bürgermeister</surname><forename>Martina</forename></persName>
+                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__jose-calvo-uni-wuerzburg-de">
+                    <persName><surname>Calvo Tello</surname><forename>José</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__irmlind-capelle-uni-paderborn-de">
+                    <persName><surname>Capelle</surname><forename>Irmlind</forename></persName>
+                    <affiliation>Universität Paderborn</affiliation>
+                </person>
+                <person xml:id="person__federico-caria-live-it">
+                    <persName><surname>Caria</surname><forename>Federico</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__chiarcos-informatik-uni-frankfurt-de">
+                    <persName><surname>Chiarcos</surname><forename>Christian</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jonas-christen-zhdk-ch">
+                    <persName><surname>Christen</surname><forename>Jonas</forename></persName>
+                    <affiliation>Zürcher Hochschule der Künste, Schweiz</affiliation>
+                </person>
+                <person xml:id="person__maria-christoforaki-uni-passau-de">
+                    <persName><surname>Christoforaki</surname><forename>Maria</forename></persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__rute-costa-fcsh-unl-pt">
+                    <persName><surname>Costa</surname><forename>Rute</forename></persName>
+                    <affiliation>Universidade Nova de Lisboa, Portugal</affiliation>
+                </person>
+                <person xml:id="person__cremer-maxweberstiftung-de">
+                    <persName><surname>Cremer</surname><forename>Fabian</forename></persName>
+                    <affiliation>Max Weber Stiftung</affiliation>
+                </person>
+                <person xml:id="person__czmiel-bbaw-de">
+                    <persName><surname>Czmiel</surname><forename>Alexander</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__fedja-anatevka-web-de">
+                    <persName><surname>Dahnke</surname><forename>Michael</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__declerck-dfki-de">
+                    <persName><surname>Declerck</surname><forename>Thierry</forename></persName>
+                    <affiliation>DFKI GmbH, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__katrin-dennerlein-uni-wuerzburg-de">
+                    <persName><surname>Dennerlein</surname><forename>Katrin</forename></persName>
+                    <affiliation>Institut für Deutsche Philologie, Julius-Maximilians-Universität
+                        Würzburg</affiliation>
+                </person>
+                <person xml:id="person__katja-diederichs-uni-bonn-de">
+                    <persName><surname>Diederichs</surname><forename>Katja</forename></persName>
+                    <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__diehr-sub-uni-goettingen-de">
+                    <persName><surname>Diehr</surname><forename>Franziska</forename></persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__diem-caa-tuwien-ac-at">
+                    <persName><surname>Diem</surname><forename>Markus</forename></persName>
+                    <affiliation>Vienna University of Technology, Computer Vision Lab</affiliation>
+                </person>
+                <person xml:id="person__mail-dimpel-de">
+                    <persName><surname>Dimpel</surname><forename>Friedrich
+                        Michael</forename></persName>
+                    <affiliation>FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt,
+                        Computerphilologie und Mediävistik</affiliation>
+                </person>
+                <person xml:id="person__swantje-dogunke-klassik-stiftung-de">
+                    <persName><surname>Dogunke</surname><forename>Swantje</forename></persName>
+                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel; Klassik Stiftung
+                        Weimar</affiliation>
+                </person>
+                <person xml:id="person__donandt-informatik-uni-frankfurt-de">
+                    <persName><surname>Donandt</surname><forename>Kathrin</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__simon-donig-uni-passau-de">
+                    <persName><surname>Donig</surname><forename>Simon</forename></persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sdrach-smail-uni-koeln-de">
+                    <persName><surname>Drach</surname><forename>Sviatoslav</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__malte-dreyer-cms-hu-berlin-de">
+                    <persName><surname>Dreyer</surname><forename>Malte</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__stephan-druskat-hu-berlin-de">
+                    <persName><surname>Druskat</surname><forename>Stephan</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__martin-droege-upb-de">
+                    <persName><surname>Dröge</surname><forename>Martin</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__keli-du-stud-mail-uni-wuerzburg-de">
+                    <persName><surname>Du</surname><forename>Keli</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ddubray-uni-potsdam-de">
+                    <persName><surname>Dubray</surname><forename>David</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__dumont-bbaw-de">
+                    <persName><surname>Dumont</surname><forename>Stefan</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__alexander-dunst-gmail-com">
+                    <persName><surname>Dunst</surname><forename>Alexander</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__p-daengeli-uni-koeln-de">
+                    <persName><surname>Dängeli</surname><forename>Peter</forename></persName>
+                    <affiliation>Universität Bern, Historisches Institut; Universität zu Köln,
+                        Cologne Center for eHumanities</affiliation>
+                </person>
+                <person xml:id="person__doerk-fh-potsdam-de">
+                    <persName><surname>Dörk</surname><forename>Marian</forename></persName>
+                    <affiliation>Fachhochschule Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__barbara-ebert-rfii-de">
+                    <persName><surname>Ebert</surname><forename>Barbara</forename></persName>
+                    <affiliation>Leiterin des Rats für Informationsinfrastrukturen (RfII),
+                        Geschäftsstelle Göttingen</affiliation>
+                </person>
+                <person xml:id="person__effinger-ub-uni-heidelberg-de">
+                    <persName><surname>Effinger</surname><forename>Maria</forename></persName>
+                    <affiliation>Universitätsbibliothek Heidelberg</affiliation>
+                </person>
+                <person xml:id="person__oeide-uni-koeln-de">
+                    <persName><surname>Eide</surname><forename>Øyvind</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__frederik-elwert-rub-de">
+                    <persName><surname>Elwert</surname><forename>Frederik</forename></persName>
+                    <affiliation>RUB Bochum, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__engelberg-ids-mannheim-de">
+                    <persName><surname>Engelberg</surname><forename>Stefan</forename></persName>
+                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__t-ernst-uva-nl">
+                    <persName><surname>Ernst</surname><forename>Thomas</forename></persName>
+                    <affiliation>University of Amsterdam, Niederlande</affiliation>
+                </person>
+                <person xml:id="person__vetemi-smail-uni-koeln-de">
+                    <persName><surname>Etimi</surname><forename>Valmir</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__stefan-evert-fau-de">
+                    <persName><surname>Evert</surname><forename>Stefan</forename></persName>
+                    <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__walter-fanta-aau-at">
+                    <persName><surname>Fanta</surname><forename>Walter</forename></persName>
+                    <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                </person>
+                <person xml:id="person__berenis0102-gmail-com">
+                    <persName><surname>Faynberg</surname><forename>Veronika</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                </person>
+                <person xml:id="person__fechner-bbaw-de">
+                    <persName><surname>Fechner</surname><forename>Martin</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__maria-federbusch-sbb-spk-berlin-de">
+                    <persName><surname>Federbusch</surname><forename>Maria</forename></persName>
+                    <affiliation>Staatsbibliothek zu Berlin Preußischer Kulturbesitz,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__m-fichtner-wiss-ki-eu">
+                    <persName><surname>Fichtner</surname><forename>Mark</forename></persName>
+                    <affiliation>Germanisches Nationalmuseum, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__fiedler-gei-de">
+                    <persName><surname>Fiedler</surname><forename>Maik</forename></persName>
+                    <affiliation>Georg-Eckert-Institut – Leibniz-Institut für internationale
+                        Schulbuchforschung (GEI)</affiliation>
+                </person>
+                <person xml:id="person__ffischer-hse-ru">
+                    <persName><surname>Fischer</surname><forename>Frank</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau</affiliation>
+                </person>
+                <person xml:id="person__franz-fischer-uni-koeln-de">
+                    <persName><surname>Fischer</surname><forename>Franz</forename></persName>
+                    <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität zu
+                        Köln/CCeH</affiliation>
+                </person>
+                <person xml:id="person__frafis-gmail-com">
+                    <persName><surname>Fischer</surname><forename>Frank</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                </person>
+                <person xml:id="person__fabian-fluss92-gmx-de">
+                    <persName><surname>Fluss</surname><forename>Fabian</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__foesterkarl-gmail-com">
+                    <persName><surname>Foester</surname><forename>Karl</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__christian-forney-hist-unibe-ch">
+                    <persName><surname>Forney</surname><forename>Christian</forename></persName>
+                    <affiliation>Universität Bern, Historisches Institut</affiliation>
+                </person>
+                <person xml:id="person__frank-ios-regensburg-de">
+                    <persName><surname>Frank</surname><forename>Ingo</forename></persName>
+                    <affiliation>Leibniz-Institut für Ost- und Südosteuropaforschung
+                        (IOS)</affiliation>
+                </person>
+                <person xml:id="person__gfranzini-etrap-eu">
+                    <persName><surname>Franzini</surname><forename>Greta</forename></persName>
+                    <affiliation>Georg-August-Universität Göttingen</affiliation>
+                </person>
+                <person xml:id="person__dennisfriedl-paderborn-com">
+                    <persName><surname>Friedl</surname><forename>Dennis</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__kristina-friedrichs-tu-dresden-de">
+                    <persName><surname>Friedrichs</surname><forename>Kristina</forename></persName>
+                    <affiliation>JMU Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__florian-fuchs-stud-uni-regensburg-de">
+                    <persName><surname>Fuchs</surname><forename>Florian</forename></persName>
+                    <affiliation>Lehrstuhl für Medieninformatik, Universität
+                        Regensburg</affiliation>
+                </person>
+                <person xml:id="person__uf28bope-studserv-uni-leipzig-de">
+                    <persName><surname>Fußbahn</surname><forename>Ulrike</forename></persName>
+                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__uta-gaidys-haw-hamburg-de">
+                    <persName><surname>Gaidys</surname><forename>Uta</forename></persName>
+                    <affiliation>Hochschule für angewandte Wissenschaften, Hamburg</affiliation>
+                </person>
+                <person xml:id="person__juan-garces-slub-dresden-de">
+                    <persName><surname>Garcés</surname><forename>Juan</forename></persName>
+                    <affiliation>Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
+                        Dresden (SLUB), Deutschland</affiliation>
+                </person>
+                <person xml:id="person__gerhards-uni-mainz-de">
+                    <persName><surname>Gerhards</surname><forename>Simone</forename></persName>
+                    <affiliation>Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der
+                        Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__evelyn-gius-uni-hamburg-de">
+                    <persName><surname>Gius</surname><forename>Evelyn</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__k-glinka-smb-spk-berlin-de">
+                    <persName><surname>Glinka</surname><forename>Katrin</forename></persName>
+                    <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__glueck-rg-mpg-de">
+                    <persName><surname>Glück</surname><forename>David</forename></persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur, Mainz; Johann
+                        Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
+                </person>
+                <person xml:id="person__katharina-godler-aau-at">
+                    <persName><surname>Godler</surname><forename>Katharina</forename></persName>
+                    <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                </person>
+                <person xml:id="person__mgoedel-uni-koeln-de">
+                    <persName><surname>Goedel</surname><forename>Martina</forename></persName>
+                    <affiliation>Cologne Center for eHumanities</affiliation>
+                </person>
+                <person xml:id="person__grabsch-bbaw-de">
+                    <persName><surname>Grabsch</surname><forename>Sascha</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__tobias-gradl-uni-bamberg-de">
+                    <persName><surname>Gradl</surname><forename>Tobias</forename></persName>
+                    <affiliation>Universität Bamberg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sgronemeyer-uni-bonn-de">
+                    <persName><surname>Gronemeyer</surname><forename>Sven</forename></persName>
+                    <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La
+                        Trobe University Melbourne, Australien</affiliation>
+                </person>
+                <person xml:id="person__p-grosse-gnm-de">
+                    <persName><surname>Große</surname><forename>Peggy</forename></persName>
+                    <affiliation>Germanisches Nationalmuseum, Nürnberg</affiliation>
+                </person>
+                <person xml:id="person__ngrube-uni-bonn-de">
+                    <persName><surname>Grube</surname><forename>Nikolai</forename></persName>
+                    <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__stefang-coli-uni-saarland-de">
+                    <persName><surname>Grünewald</surname><forename>Stefan</forename></persName>
+                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__rolf-guescini-cms-hu-berlin-de">
+                    <persName><surname>Guescini</surname><forename>Rolf</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__svenjasimone-guhr-stud-uni-goettingen-de">
+                    <persName><surname>Guhr</surname><forename>Svenja</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__agalffy-smail-uni-koeln-de">
+                    <persName><surname>Gálffy</surname><forename>Andreas</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sguelden-uni-mainz-de">
+                    <persName><surname>Gülden</surname><forename>Svenja A.</forename></persName>
+                    <affiliation>Johannes Gutenberg-Universität Mainz, Deutschland; Technische
+                        Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der
+                        Literatur Mainz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__haaf-bbaw-de">
+                    <persName><surname>Haaf</surname><forename>Susanne</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                </person>
+                <person xml:id="person__haasgab-fim-uni-passau-de">
+                    <persName><surname>Haas</surname><forename>Gabriele</forename></persName>
+                    <affiliation>University of Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__maximilian-cis-uni-muenchen-de">
+                    <persName><surname>Hadersbeck</surname><forename>Maximilian</forename></persName>
+                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__udo-hahn-uni-jena-de">
+                    <persName><surname>Hahn</surname><forename>Udo</forename></persName>
+                    <affiliation>Jena University Language &amp; Information Engineering Lab (JULIE
+                        Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__kontakt-carolinhahn-de">
+                    <persName><surname>Hahn</surname><forename>Carolin</forename></persName>
+                    <affiliation>Beste Worte GmbH</affiliation>
+                </person>
+                <person xml:id="person__j-hamisch-gnm-de">
+                    <persName><surname>Hamisch</surname><forename>Juliane</forename></persName>
+                    <affiliation>Germanisches Nationalmuseum, Nürnberg</affiliation>
+                </person>
+                <person xml:id="person__siegfried-handschuh-uni-passau-de">
+                    <persName><surname>Handschuh</surname><forename>Siegfried</forename></persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__siegfried-handschuh-gmail-com">
+                    <persName><surname>Handschuh</surname><forename>Siegfried</forename></persName>
+                    <affiliation>University of Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__vanessa-hannesschlaeger-oeaw-ac-at">
+                    <persName><surname>Hannesschläger</surname><forename>Vanessa</forename></persName>
+                    <affiliation>OEAW Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__rst-upb-de">
+                    <persName><surname>Hartel</surname><forename>Rita</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__hastik-linglit-tu-darmstadt-de">
+                    <persName><surname>Hastik</surname><forename>Canan</forename></persName>
+                    <affiliation>Technische Universität Darmstadt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__angelika-hechtl-wu-ac-at">
+                    <persName><surname>Hechtl</surname><forename>Angelika</forename></persName>
+                    <affiliation>Wirtschaftsuniversität Wien, Österreich</affiliation>
+                </person>
+                <person xml:id="person__malte-heckelen-ilw-uni-stuttgart-de">
+                    <persName><surname>Heckelen</surname><forename>Malte</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__adelheidh-gmail-com">
+                    <persName><surname>Heftberger</surname><forename>Adelheid</forename></persName>
+                    <affiliation>Brandenburgisches Zentrum für Medienwissenschaften,
+                        Potsdam</affiliation>
+                </person>
+                <person xml:id="person__barbara-heinisch-univie-ac-at">
+                    <persName><surname>Heinisch</surname><forename>Barbara</forename></persName>
+                    <affiliation>Universität Wien</affiliation>
+                </person>
+                <person xml:id="person__patrick-helling-uni-koeln-de">
+                    <persName><surname>Helling</surname><forename>Patrick</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__johannes-hellrich-uni-jena-de">
+                    <persName><surname>Hellrich</surname><forename>Johannes</forename></persName>
+                    <affiliation>Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität
+                        Jena, Jena, Deutschland; Jena University Language &amp; Information
+                        Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ulrike-henny-uni-wuerzburg-de">
+                    <persName><surname>Henny-Krahmer</surname><forename>Ulrike</forename></persName>
+                    <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität
+                        Würzburg</affiliation>
+                </person>
+                <person xml:id="person__andreas-henrich-uni-bamberg-de">
+                    <persName><surname>Henrich</surname><forename>Andreas</forename></persName>
+                    <affiliation>Otto-Friedrich-Universität Bamberg</affiliation>
+                </person>
+                <person xml:id="person__herrmann-hab-de">
+                    <persName><surname>Herrmann</surname><forename>Elisa</forename></persName>
+                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__berenike-herrmann-unibas-ch">
+                    <persName><surname>Herrmann</surname><forename>J. Berenike</forename></persName>
+                    <affiliation>University of Basel, Switzerland</affiliation>
+                </person>
+                <person xml:id="person__hess-uni-trier-de">
+                    <persName><surname>Hess</surname><forename>Jan</forename></persName>
+                    <affiliation>Trier Center for Digital Humanities (TCDH); Universität
+                        Trier</affiliation>
+                </person>
+                <person xml:id="person__heuwing-uni-hildesheim-de">
+                    <persName><surname>Heuwing</surname><forename>Ben</forename></persName>
+                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__shessbru-hse-ru">
+                    <persName><surname>Heßbrüggen-Walter</surname><forename>Stefan</forename></persName>
+                    <affiliation>National Research University Higher School of Economics,
+                        Russland</affiliation>
+                </person>
+                <person xml:id="person__hiebert-ghi-dc-org">
+                    <persName><surname>Hiebert</surname><forename>Matthew</forename></persName>
+                    <affiliation>German Historical Institute Washington</affiliation>
+                </person>
+                <person xml:id="person__hildenbr-uni-trier-de">
+                    <persName><surname>Hildenbrandt</surname><forename>Vera</forename></persName>
+                    <affiliation>Universität Trier, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sprachwissenschaft-uni-koeln-de">
+                    <persName><surname>Himmelmann</surname><forename>Nikolaus</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__erhard-hinrichs-uni-tuebingen-de">
+                    <persName><surname>Hinrichs</surname><forename>Erhard</forename></persName>
+                    <affiliation>Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__tobias-hodel-hist-uzh-ch">
+                    <persName><surname>Hodel</surname><forename>Tobias</forename></persName>
+                    <affiliation>Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
+                </person>
+                <person xml:id="person__hoenen-em-uni-frankfurt-de">
+                    <persName><surname>Hoenen</surname><forename>Armin</forename></persName>
+                    <affiliation>Goethe Universität Frankfurt, Germany</affiliation>
+                </person>
+                <person xml:id="person__christoph-hoffmann-oeaw-ac-at">
+                    <persName><surname>Hoffmann</surname><forename>Christoph</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__timo-homburg-gmx-de">
+                    <persName><surname>Homburg</surname><forename>Timo</forename></persName>
+                    <affiliation>Hochschule Mainz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jan-horstmann-uni-hamburg-de">
+                    <persName><surname>Horstmann</surname><forename>Jan</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__horstmann-sub-uni-goettingen-de">
+                    <persName><surname>Horstmann</surname><forename>Wolfram</forename></persName>
+                    <affiliation>Staats- und Universtitätsbibliothek Göttingen</affiliation>
+                </person>
+                <person xml:id="person__hotho-informatik-uni-wuerzburg-de">
+                    <persName><surname>Hotho</surname><forename>Andreas</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__gernot-howanitz-uni-passau-de">
+                    <persName><surname>Howanitz</surname><forename>Gernot</forename></persName>
+                    <affiliation>Lehrstuhl für Slavische Literaturen und Kulturen, Universität
+                        Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__marius-hug-googlemail-com">
+                    <persName><surname>Hug</surname><forename>Marius</forename></persName>
+                    <affiliation>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__haegert-uni-potsdam-de">
+                    <persName><surname>Hägert</surname><forename>Erik</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__elke-hoefler-uni-graz-at">
+                    <persName><surname>Höfler</surname><forename>Elke</forename></persName>
+                    <affiliation>Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__ionov-informatik-uni-frankfurt-de">
+                    <persName><surname>Ionov</surname><forename>Maxim</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__janina-jacke-uni-hamburg-de">
+                    <persName><surname>Jacke</surname><forename>Janina</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__milos-jakubicek-sketchengine-co-uk">
+                    <persName><surname>Jakubicek</surname><forename>Milos</forename></persName>
+                    <affiliation>Lexical Computing CZ s.r.o.,Tschechien</affiliation>
+                </person>
+                <person xml:id="person__fotis-jannidis-uni-wuerzburg-de">
+                    <persName><surname>Jannidis</surname><forename>Fotis</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__daniel-jeller-icar-us-eu">
+                    <persName><surname>Jeller</surname><forename>Daniel</forename></persName>
+                    <affiliation>ICARUS, Wien, Österreich</affiliation>
+                </person>
+                <person xml:id="person__r-jaschke-sheffield-ac-uk">
+                    <persName><surname>Jäschke</surname><forename>Robert</forename></persName>
+                    <affiliation>University of Sheffield, UK</affiliation>
+                </person>
+                <person xml:id="person__juergens-bbaw-de">
+                    <persName><surname>Jürgens</surname><forename>Marco</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__hannes-kahl-uni-leipzig-de">
+                    <persName><surname>Kahl</surname><forename>Hannes</forename></persName>
+                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__maximilian-kaiser-oeaw-ac-at">
+                    <persName><surname>Kaiser</surname><forename>Maximilian</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__jelena-kallas-eki-ee">
+                    <persName><surname>Kallas</surname><forename>Jelena</forename></persName>
+                    <affiliation>Eesti Keele Instituut, Estland</affiliation>
+                </person>
+                <person xml:id="person__pawel-kamocki-gmail-com">
+                    <persName><surname>Kamocki</surname><forename>Pawel</forename></persName>
+                    <affiliation>WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
+                </person>
+                <person xml:id="person__julian-kamphausen-uni-koeln-de">
+                    <persName><surname>Kamphausen</surname><forename>Julian</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__dario-kampkaspar-oeaw-ac-at">
+                    <persName><surname>Kampkaspar</surname><forename>Dario</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__stefan-karner-onb-ac-at">
+                    <persName><surname>Karner</surname><forename>Stefan</forename></persName>
+                    <affiliation>Österreichische Nationalbibliothek</affiliation>
+                </person>
+                <person xml:id="person__roxana-kath-me-com">
+                    <persName><surname>Kath</surname><forename>Roxana</forename></persName>
+                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__carina-kauf-stud-uni-goettingen-de">
+                    <persName><surname>Kauf</surname><forename>Carina</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__franz-keilholz-tu-dresden-de">
+                    <persName><surname>Keilholz</surname><forename>Franz</forename></persName>
+                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__kepper-edirom-de">
+                    <persName><surname>Kepper</surname><forename>Johannes</forename></persName>
+                    <affiliation>Universität Paderborn</affiliation>
+                </person>
+                <person xml:id="person__ilan-kdictionaries-com">
+                    <persName><surname>Kernerman</surname><forename>Ilan</forename></persName>
+                    <affiliation>K Dictionaries Ltd., Israel</affiliation>
+                </person>
+                <person xml:id="person__st150918-stud-uni-stuttgart-de">
+                    <persName><surname>Kessler</surname><forename>Linda</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__mike-kestemont-uantwerpen-be">
+                    <persName><surname>Kestemont</surname><forename>Mike</forename></persName>
+                    <affiliation>Universiteit Antwerpen</affiliation>
+                </person>
+                <person xml:id="person__mike-kestemont-gmail-com">
+                    <persName><surname>Kestemont</surname><forename>Mike</forename></persName>
+                    <affiliation>Universität Antwerpen, Belgien</affiliation>
+                </person>
+                <person xml:id="person__nora-ketschik-ilw-uni-stuttgart-de">
+                    <persName><surname>Ketschik</surname><forename>Nora</forename></persName>
+                    <affiliation>Institut für Literaturwissenschaft, Universtität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__eketzan-gmail-com">
+                    <persName><surname>Ketzan</surname><forename>Erik</forename></persName>
+                    <affiliation>Birkbeck, University of Lonfon</affiliation>
+                </person>
+                <person xml:id="person__evgeny-kim-ims-uni-stuttgart-de">
+                    <persName><surname>Kim</surname><forename>Evgeny</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__leonie-kirchhoff-uni-tuebingen-de">
+                    <persName><surname>Kirchhoff</surname><forename>Leonie</forename></persName>
+                    <affiliation>Eberhard Karls Universität Tübingen</affiliation>
+                </person>
+                <person xml:id="person__kiss-mailbox-org">
+                    <persName><surname>Kiss</surname><forename>Börge</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__contact-christopherkittel-eu">
+                    <persName><surname>Kittel</surname><forename>Christopher</forename></persName>
+                    <affiliation>Karl-Franzens-Universität Graz; Open Knowledge Forum
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__klaffki-hab-de">
+                    <persName><surname>Klaffki</surname><forename>Lisa</forename></persName>
+                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__f-klemstein-gmail-com">
+                    <persName><surname>Klemstein</surname><forename>Franziska</forename></persName>
+                    <affiliation>Technische Universität Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__rabea-kleymann-uni-hamburg-de">
+                    <persName><surname>Kleymann</surname><forename>Rabea</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__fritz-kliche-uni-hildesheim-de">
+                    <persName><surname>Kliche</surname><forename>Fritz</forename></persName>
+                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__roman-klinger-ims-uni-stuttgart-de">
+                    <persName><surname>Klinger</surname><forename>Roman</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jknauth-uni-goettingen-de">
+                    <persName><surname>Knauth</surname><forename>Jürgen</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__alexander-knoth-uni-potsdam-de">
+                    <persName><surname>Knoth</surname><forename>Alexander</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__gertraud-koch-uni-hamburg-de">
+                    <persName><surname>Koch</surname><forename>Gertraud</forename></persName>
+                    <affiliation>Universität Hamburg</affiliation>
+                </person>
+                <person xml:id="person__carina-koch-uni-graz-at">
+                    <persName><surname>Koch</surname><forename>Carina</forename></persName>
+                    <affiliation>Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__svetla-dcl-bas-bg">
+                    <persName><surname>Koeva</surname><forename>Svetla</forename></persName>
+                    <affiliation>Institute for Bulgarian Language, Bulgarien</affiliation>
+                </person>
+                <person xml:id="person__hubertus-kohle-gmail-com">
+                    <persName><surname>Kohle</surname><forename>Hubertus</forename></persName>
+                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__leonard-konle-uni-wuerzburg-de">
+                    <persName><surname>Konle</surname><forename>Leonard</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__tokonrad-uni-mainz-de">
+                    <persName><surname>Konrad</surname><forename>Tobias</forename></persName>
+                    <affiliation>Johannes Gutenberg-Universität Mainz, Deutschland; Technische
+                        Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der
+                        Literatur Mainz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__adamantios-koumpis-gmail-com">
+                    <persName><surname>Koumpis</surname><forename>Adamantios</forename></persName>
+                    <affiliation>University of Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__krauseto-hu-berlin-de">
+                    <persName><surname>Krause</surname><forename>Thomas</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__benjamin-krautter-gmail-com">
+                    <persName><surname>Krautter</surname><forename>Benjamin</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__volkhard-krech-rub-de">
+                    <persName><surname>Krech</surname><forename>Volker</forename></persName>
+                    <affiliation>RUB Bochum, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__simon-krek-guest-arnes-si">
+                    <persName><surname>Krek</surname><forename>Simon</forename></persName>
+                    <affiliation>Institut Josef Sefan, Slowenien</affiliation>
+                </person>
+                <person xml:id="person__gerhard-kremer-ims-uni-stuttgart-de">
+                    <persName><surname>Kremer</surname><forename>Gerhard</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__simonekronenwett-gmail-com">
+                    <persName><surname>Kronenwett</surname><forename>Simone</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__simone-kronenwett-uni-koeln-de">
+                    <persName><surname>Kronenwett</surname><forename>Simone</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__markus-krug-uni-wuerzburg-de">
+                    <persName><surname>Krug</surname><forename>Markus</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sybkram-zedat-fu-berlin-de">
+                    <persName><surname>Krämer</surname><forename>Sybille</forename></persName>
+                    <affiliation>Freie Universität Berlin, Deutschland, Institut für
+                        Philosophie</affiliation>
+                </person>
+                <person xml:id="person__cindy-kroeber-tu-dresden-de">
+                    <persName><surname>Kröber</surname><forename>Cindy</forename></persName>
+                    <affiliation>TU Dresden, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__bkroege-gwdg-de">
+                    <persName><surname>Kröger</surname><forename>Bärbel</forename></persName>
+                    <affiliation>Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__kruegel-uni-potsdam-de">
+                    <persName><surname>Krügel</surname><forename>André</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__andreas-kuczera-adwmainz-de">
+                    <persName><surname>Kuczera</surname><forename>Andreas</forename></persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
+                </person>
+                <person xml:id="person__kutzner-uni-hildesheim-de">
+                    <persName><surname>Kutzner</surname><forename>Kristin</forename></persName>
+                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__joachim-koehler-iais-fraunhofer-de">
+                    <persName><surname>Köhler</surname><forename>Joachim</forename></persName>
+                    <affiliation>Fraunhofer IAIS</affiliation>
+                </person>
+                <person xml:id="person__d-koelligan-uni-koeln-de">
+                    <persName><surname>Kölligan</surname><forename>Daniel</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__frank-kuehnlenz-cms-hu-berlin-de">
+                    <persName><surname>Kühnlenz</surname><forename>Frank</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__miriam-lahrsow-uni-tuebingen-de">
+                    <persName><surname>Lahrsow</surname><forename>Miriam</forename></persName>
+                    <affiliation>Eberhard Karls Universität Tübingen</affiliation>
+                </person>
+                <person xml:id="person__mlangne-gwdg-de">
+                    <persName><surname>Langner</surname><forename>Martin</forename></persName>
+                    <affiliation>Georg-August-Universität Göttingen, Deutschland -
+                        GCDH/Archäologisches Institut</affiliation>
+                </person>
+                <person xml:id="person__svetalashch-gmail-com">
+                    <persName><surname>Lashchuk</surname><forename>Svetlana</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                </person>
+                <person xml:id="person__laubrock-uni-potsdam-de">
+                    <persName><surname>Laubrock</surname><forename>Jochen</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__gerhard-lauer-unibas-ch">
+                    <persName><surname>Lauer</surname><forename>Gerhard</forename></persName>
+                    <affiliation>Universität Basel, Schweiz</affiliation>
+                </person>
+                <person xml:id="person__lebherz-uni-trier-de">
+                    <persName><surname>Lebherz</surname><forename>Daniel</forename></persName>
+                    <affiliation>Center for Informatics Research and Technology (CIRT); Universität
+                        Trier</affiliation>
+                </person>
+                <person xml:id="person__almut-leh-fernuni-hagen-de">
+                    <persName><surname>Leh</surname><forename>Almut</forename></persName>
+                    <affiliation>FernUniversität in Hagen</affiliation>
+                </person>
+                <person xml:id="person__katalin-lejtocicz-oeaw-ac-at">
+                    <persName><surname>Lejtovicz</surname><forename>Katalin</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__esciences-uni-trier-de">
+                    <persName><surname>Lemaire</surname><forename>Marina</forename></persName>
+                    <affiliation>Servicezentrum eSciences, Universität Trier,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__michael-leuk-adwmainz-de">
+                    <persName><surname>Leuk</surname><forename>Michael</forename></persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur Mainz,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__frank-leymann-iaas-uni-stuttgart-de">
+                    <persName><surname>Leymann</surname><forename>Frank</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__malinux-t-online-de">
+                    <persName><surname>Lindemann</surname><forename>Matthias</forename></persName>
+                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__david-lindemann-uni-hildesheim-de">
+                    <persName><surname>Lindemann</surname><forename>David</forename></persName>
+                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__loebel-bitgilde-de">
+                    <persName><surname>Loebel</surname><forename>Jens-Martin</forename></persName>
+                    <affiliation>bitGilde IT Solutions UG, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__lor-steinheim-institut-org">
+                    <persName><surname>Lordick</surname><forename>Harald</forename></persName>
+                    <affiliation>Steinheim-Institut, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__laessigs-ghi-dc-org">
+                    <persName><surname>Lässig</surname><forename>Simone</forename></persName>
+                    <affiliation>German Historical Institute Washington</affiliation>
+                </person>
+                <person xml:id="person__j-a-loecker-herschkowitz-univie-ac-at">
+                    <persName><surname>Löcker-Herschkowitz</surname><forename>Johannes
+                        A.</forename></persName>
+                    <affiliation>Universität Wien, Österreich</affiliation>
+                </person>
+                <person xml:id="person__anke-luedeling-hu-berlin-de">
+                    <persName><surname>Lüdeling</surname><forename>Anke</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__mache-sub-uni-goettingen-de">
+                    <persName><surname>Mache</surname><forename>Beata</forename></persName>
+                    <affiliation>Staats- und Universtitätsbibliothek Göttingen</affiliation>
+                </person>
+                <person xml:id="person__mac-steinheim-institut-org">
+                    <persName><surname>Mache</surname><forename>Beata</forename></persName>
+                    <affiliation>SUB Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ferdinand-maiwald-tu-dresden-de">
+                    <persName><surname>Maiwald</surname><forename>Ferdinand</forename></persName>
+                    <affiliation>TU Dresden, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__maiwald-bbaw-de">
+                    <persName><surname>Maiwald</surname><forename>Anke</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__stephan-makowski-uni-koeln-de">
+                    <persName><surname>Makowski</surname><forename>Stephan</forename></persName>
+                    <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__mandl-uni-hildesheim-de">
+                    <persName><surname>Mandl</surname><forename>Thomas</forename></persName>
+                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__cimartinez-flog-uned-es">
+                    <persName><surname>Martínez
+                        Cantón</surname><forename>Clara</forename></persName>
+                    <affiliation>UNED, Spanien</affiliation>
+                </person>
+                <person xml:id="person__bmathiak-uni-koeln-de">
+                    <persName><surname>Mathiak</surname><forename>Brigitte</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__mathiak-gmail-com">
+                    <persName><surname>Mathiak</surname><forename>Brigitte</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__corinna-mayer-dla-marbach-de">
+                    <persName><surname>Mayer</surname><forename>Corinna</forename></persName>
+                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel; Deutsches
+                        Literaturarchiv Marbach</affiliation>
+                </person>
+                <person xml:id="person__eva-mayr-donau-uni-ac-at">
+                    <persName><surname>Mayr</surname><forename>Eva</forename></persName>
+                    <affiliation>Donau-Universität Krems, Österreich</affiliation>
+                </person>
+                <person xml:id="person__john-mccr-ae">
+                    <persName><surname>McCrae</surname><forename>John</forename></persName>
+                    <affiliation>National Universtiy of Ireland, Galway Irland</affiliation>
+                </person>
+                <person xml:id="person__friedrich-meins-uni-leipzig-de">
+                    <persName><surname>Meins</surname><forename>Friedrich</forename></persName>
+                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__j-c-meister-uni-hamburg-de">
+                    <persName><surname>Meister</surname><forename>Jan
+                        Christoph</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jan-c-meister-uni-hamburg-de">
+                    <persName><surname>Meister</surname><forename>Jan
+                        Christoph</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__katja-mellmann-phil-uni-goettingen-de">
+                    <persName><surname>Mellmann</surname><forename>Katja</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__anna-menny-igdj-hh-de">
+                    <persName><surname>Menny</surname><forename>Anna</forename></persName>
+                    <affiliation>Institut für die Geschichte der deutschen Juden (IGdJ),
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__menzel-informatik-uni-hamburg-de">
+                    <persName><surname>Menzel</surname><forename>Wolfgang</forename></persName>
+                    <affiliation>Universität Hamburg</affiliation>
+                </person>
+                <person xml:id="person__imersch-campus-uni-paderborn-de">
+                    <persName><surname>Mersch</surname><forename>Isabelle</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__cmil-hashtable-de">
+                    <persName><surname>Milling</surname><forename>Carsten</forename></persName>
+                    <affiliation>Berlin</affiliation>
+                </person>
+                <person xml:id="person__katrin-moeller-geschichte-uni-halle-de">
+                    <persName><surname>Moeller</surname><forename>Katrin</forename></persName>
+                    <affiliation>Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität
+                        Halle-Wittenberg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__monica-monachini-ilc-cnr-it">
+                    <persName><surname>Monachini</surname><forename>Monica</forename></persName>
+                    <affiliation>Consiglio Nazionale delle Ricerche, Italien</affiliation>
+                </person>
+                <person xml:id="person__f-mondaca-uni-koeln-de">
+                    <persName><surname>Mondaca</surname><forename>Francisco</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__katharina-morik-tu-dortmund-de">
+                    <persName><surname>Morik</surname><forename>Katharina</forename></persName>
+                    <affiliation>Technische Universität Dortmund</affiliation>
+                </person>
+                <person xml:id="person__sandra-murr-ilw-uni-stuttgart-de">
+                    <persName><surname>Murr</surname><forename>Sandra</forename></persName>
+                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__lydia-informatik-uni-leipzig-de">
+                    <persName><surname>Müller</surname><forename>Lydia</forename></persName>
+                    <affiliation>Universität Leipzig</affiliation>
+                </person>
+                <person xml:id="person__andreas-w-mueller-outlook-com">
+                    <persName><surname>Müller</surname><forename>Andreas</forename></persName>
+                    <affiliation>Universität Wien, Österreich</affiliation>
+                </person>
+                <person xml:id="person__clmb-inf-fu-berlin-de">
+                    <persName><surname>Müller-Birn</surname><forename>Claudia</forename></persName>
+                    <affiliation>Freie Universität Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sander-muenster-tu-dresden-de">
+                    <persName><surname>Münster</surname><forename>Sander</forename></persName>
+                    <affiliation>TU Dresden, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__nantke-uni-wuppertal-de">
+                    <persName><surname>Nantke</surname><forename>Julia</forename></persName>
+                    <affiliation>Bergische Universität Wuppertal, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__robert-nasarek-geschichte-uni-halle-de">
+                    <persName><surname>Nasarek</surname><forename>Robert</forename></persName>
+                    <affiliation>Martin-Luther-Universität Halle-Wittenberg,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__navigli-di-uniroma1-it">
+                    <persName><surname>Navigli</surname><forename>Roberto</forename></persName>
+                    <affiliation>Università degli Studi di Roma La Spienza, Italien</affiliation>
+                </person>
+                <person xml:id="person__anna-neovesky-adwmainz-de">
+                    <persName><surname>Neovesky</surname><forename>Anna</forename></persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                </person>
+                <person xml:id="person__neuber-frederike-gmail-com">
+                    <persName><surname>Neuber</surname><forename>Frederike</forename></persName>
+                    <affiliation>Institut für Dokumentologie und Editorik e.V.;
+                        Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                </person>
+                <person xml:id="person__clemens-neudecker-sbb-spk-berlin-de">
+                    <persName><surname>Neudecker</surname><forename>Clemens</forename></persName>
+                    <affiliation>Staatsbibliothek zu Berlin Preußischer Kulturbesitz,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__c-neuefeind-uni-koeln-de">
+                    <persName><surname>Neuefeind</surname><forename>Claes</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__neumann-maxweberstiftung-de">
+                    <persName><surname>Neumann</surname><forename>Katrin</forename></persName>
+                    <affiliation>Max Weber Stiftung</affiliation>
+                </person>
+                <person xml:id="person__florian-niebling-uni-wuerzburg-de">
+                    <persName><surname>Niebling</surname><forename>Florian</forename></persName>
+                    <affiliation>JMU Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__oberhoff-upb-de">
+                    <persName><surname>Oberhoff</surname><forename>Andreas</forename></persName>
+                    <affiliation>Universität Paderborn</affiliation>
+                </person>
+                <person xml:id="person__carolin-odebrecht-hu-berlin-de">
+                    <persName><surname>Odebrecht</surname><forename>Carolin</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ommer-uni-heidelberg-de">
+                    <persName><surname>Ommer</surname><forename>Björn</forename></persName>
+                    <affiliation>Ruprecht-Karls-Universität Heidelberg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__taorkon-tootta-gmail-com">
+                    <persName><surname>Orlova</surname><forename>Tatyana</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                </person>
+                <person xml:id="person__dominik-orth-uni-wuppertal-de">
+                    <persName><surname>Orth</surname><forename>Dominik</forename></persName>
+                    <affiliation>Bergische Universität Wuppertal</affiliation>
+                </person>
+                <person xml:id="person__pado-ims-uni-stuttgart-de">
+                    <persName><surname>Padó</surname><forename>Sebastian</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität
+                        Stuttgart</affiliation>
+                </person>
+                <person xml:id="person__rebel368-gmail-com">
+                    <persName><surname>Palchikov</surname><forename>German</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                </person>
+                <person xml:id="person__franziska-pannach-stud-uni-goettingen-de">
+                    <persName><surname>Pannach</surname><forename>Franziska</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__johannes-pause-hotmail-de">
+                    <persName><surname>Pause</surname><forename>Johannes</forename></persName>
+                    <affiliation>Universität Luxemburg</affiliation>
+                </person>
+                <person xml:id="person__vnb282-ku-dk">
+                    <persName><surname>Pedersen</surname><forename>Bolette S.</forename></persName>
+                    <affiliation>Kobenhavns Universitet, Dänemark</affiliation>
+                </person>
+                <person xml:id="person__lukas-wandelt-pfahler-de">
+                    <persName><surname>Pfahler</surname><forename>Lukas</forename></persName>
+                    <affiliation>Technische Universität Dortmund</affiliation>
+                </person>
+                <person xml:id="person__pfarr-dg-tu-darmstadt-de">
+                    <persName><surname>Pfarr-Harfst</surname><forename>Mieke</forename></persName>
+                    <affiliation>Technische Universität Darmstadt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jasmin-pfeiffer-gmx-de">
+                    <persName><surname>Pfeiffer</surname><forename>Jasmin</forename></persName>
+                    <affiliation>FAU Erlangen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__pielstroem-biozentrum-uni-wuerzburg-de">
+                    <persName><surname>Pielström</surname><forename>Steffen</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__christopher-pollin-uni-graz-at">
+                    <persName><surname>Pollin</surname><forename>Christopher</forename></persName>
+                    <affiliation>Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__cpopp-gwdg-de">
+                    <persName><surname>Popp</surname><forename>Christian</forename></persName>
+                    <affiliation>Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__porta-rae-es">
+                    <persName><surname>Porta-Zamorano</surname><forename>Jordi</forename></persName>
+                    <affiliation>Real Academia Española; Spanien</affiliation>
+                </person>
+                <person xml:id="person__cprager-uni-bonn-de">
+                    <persName><surname>Prager</surname><forename>Christian</forename></persName>
+                    <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__st102459-stud-uni-stuttgart-de">
+                    <persName><surname>Preuß</surname><forename>Tanja</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__thomas-proisl-fau-de">
+                    <persName><surname>Proisl</surname><forename>Thomas</forename></persName>
+                    <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__puppe-informatik-uni-wuerzburg-de">
+                    <persName><surname>Puppe</surname><forename>Frank</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__marcus-poeckelmann-informatik-uni-halle-de">
+                    <persName><surname>Pöckelmann</surname><forename>Marcus</forename></persName>
+                    <affiliation>Martin-Luther-Universität Halle-Wittenberg,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__erik-radisch-uni-passau-de">
+                    <persName><surname>Radisch</surname><forename>Erik</forename></persName>
+                    <affiliation>Lehrstuhl für Digital Humanities, Universität Passau,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__rapp-linglit-tu-darmstadt-de">
+                    <persName><surname>Rapp</surname><forename>Andrea</forename></persName>
+                    <affiliation>Technische Universität Darmstadt, Deutschland; Akademie der
+                        Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__raspe-biblhertz-it">
+                    <persName><surname>Raspe</surname><forename>Martin</forename></persName>
+                    <affiliation>Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
+                </person>
+                <person xml:id="person__f-rau-uni-koeln-de">
+                    <persName><surname>Rau</surname><forename>Felix</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__michael-raunig-uni-graz-at">
+                    <persName><surname>Raunig</surname><forename>Michael</forename></persName>
+                    <affiliation>Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__simone-rebora-univr-it">
+                    <persName><surname>Rebora</surname><forename>Simone</forename></persName>
+                    <affiliation>University of Verona, Italy</affiliation>
+                </person>
+                <person xml:id="person__isabella-reger-uni-wuerzburg-de">
+                    <persName><surname>Reger</surname><forename>Isabella</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__malte-rehbein-uni-passau-de">
+                    <persName><surname>Rehbein</surname><forename>Malte</forename></persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__uta-reinoehl-uni-koeln-de">
+                    <persName><surname>Reinöhl</surname><forename>Uta</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__nils-reiter-ims-uni-stuttgart-de">
+                    <persName><surname>Reiter</surname><forename>Nils</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__claudia-resch-oeaw-ac-at">
+                    <persName><surname>Resch</surname><forename>Claudia</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__rettinghaus-bach-leipzig-de">
+                    <persName><surname>Rettinghaus</surname><forename>Klaus</forename></persName>
+                    <affiliation>Sächsische Akademie der Wissenschaften zu Leipzig, Projekt
+                        Bach-Repertorium</affiliation>
+                </person>
+                <person xml:id="person__pawlowski-lingua-uni-frankfurt-de">
+                    <persName><surname>Rind-Pawlowski</surname><forename>Monika</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__mail-torstenroeder-de">
+                    <persName><surname>Roeder</surname><forename>Torsten</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__arojasca-uni-koeln-de">
+                    <persName><surname>Rojas Castro</surname><forename>Antonio</forename></persName>
+                    <affiliation>Universität zu Köln, Cologne Center for eHumanities</affiliation>
+                </person>
+                <person xml:id="person__rols-spinfo-uni-koeln-de">
+                    <persName><surname>Rolshoven</surname><forename>Jürgen</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__matteo-romanello-dainst-de">
+                    <persName><surname>Romanello</surname><forename>Matteo</forename></persName>
+                    <affiliation>Deutsches Archäologisches Institut, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__lukas-rosenthaler-unibas-ch">
+                    <persName><surname>Rosenthaler</surname><forename>Lukas</forename></persName>
+                    <affiliation>and Service Center for the Humanities DaSCH, Universität Basel
+                        (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften,
+                        Schweiz</affiliation>
+                </person>
+                <person xml:id="person__pablo-ruiz-linhd-uned-es">
+                    <persName><surname>Ruiz Fabo</surname><forename>Pablo</forename></persName>
+                    <affiliation>UNED, Spanien</affiliation>
+                </person>
+                <person xml:id="person__peter-rumpolt-oeaw-ac-at">
+                    <persName><surname>Rumpolt</surname><forename>Peter</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__mruecker1-me-com">
+                    <persName><surname>Rücker</surname><forename>Michaela</forename></persName>
+                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jan-ruediger-uni-kassel-de">
+                    <persName><surname>Rüdiger</surname><forename>Jan Oliver</forename></persName>
+                    <affiliation>Universität Kassel, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sahle-uni-koeln-de">
+                    <persName><surname>Sahle</surname><forename>Patrick</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__massimo-salgaro-univr-it">
+                    <persName><surname>Salgaro</surname><forename>Massimo</forename></persName>
+                    <affiliation>University of Verona, Italy</affiliation>
+                </person>
+                <person xml:id="person__samushia-em-uni-frankfurt-de">
+                    <persName><surname>Samushia</surname><forename>Lela</forename></persName>
+                    <affiliation>Goethe Universität Frankfurt, Germany</affiliation>
+                </person>
+                <person xml:id="person__sargsyan-em-uni-frankfurt-de">
+                    <persName><surname>Sargsian</surname><forename>Hasmik</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__schassan-hab-de">
+                    <persName><surname>Schaßan</surname><forename>Torsten</forename></persName>
+                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__georg-schelbert-hu-berlin-de">
+                    <persName><surname>Schelbert</surname><forename>Georg</forename></persName>
+                    <affiliation>Humboldt-Universität zu Berlin</affiliation>
+                </person>
+                <person xml:id="person__philip-schildkamp-uni-koeln-de">
+                    <persName><surname>Schildkamp</surname><forename>Philip</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__andrea-schilz-uni-passau-de">
+                    <persName><surname>Schilz</surname><forename>Andrea</forename></persName>
+                    <affiliation>Universität Passau, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__claus-michael-schlesinger-ilw-uni-stuttgart-de">
+                    <persName><surname>Schlesinger</surname><forename>Claus-Michael</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__schlupko-uni-wuppertal-de">
+                    <persName><surname>Schlupkothen</surname><forename>Frederik</forename></persName>
+                    <affiliation>Bergische Universität Wuppertal, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__matthias-schloegl-oeaw-ac-at">
+                    <persName><surname>Schlögl</surname><forename>Matthias</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__schloer-informatik-uni-wuerzburg-de">
+                    <persName><surname>Schlör</surname><forename>Daniel</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__johannes-schmidt-uni-bielefeld-de">
+                    <persName><surname>Schmidt</surname><forename>Johannes</forename></persName>
+                    <affiliation>Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität
+                        Bielefeld</affiliation>
+                </person>
+                <person xml:id="person__thomas-schmidt-sprachlit-uni-regensburg-de">
+                    <persName><surname>Schmidt</surname><forename>Thomas</forename></persName>
+                    <affiliation>Lehrstuhl für Medieninformatik, Universität
+                        Regensburg</affiliation>
+                </person>
+                <person xml:id="person__gerlinde-schneider-uni-graz-at">
+                    <persName><surname>Schneider</surname><forename>Gerlinde</forename></persName>
+                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__walter-scholger-uni-graz-at">
+                    <persName><surname>Scholger</surname><forename>Walter</forename></persName>
+                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__martin-scholz-fau-de">
+                    <persName><surname>Scholz</surname><forename>Martin</forename></persName>
+                    <affiliation>Friedrich-Alexander Universität Erlangen-Nürnberg,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__daniel-schopper-oeaw-ac-at">
+                    <persName><surname>Schopper</surname><forename>Daniel</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__torsten-schrade-adwmainz-de">
+                    <persName><surname>Schrade</surname><forename>Torsten</forename></persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur Mainz,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__guenther-schreder-donau-uni-ac-at">
+                    <persName><surname>Schreder</surname><forename>Günther</forename></persName>
+                    <affiliation>Donau-Universität Krems, Österreich</affiliation>
+                </person>
+                <person xml:id="person__zoe-schubert-uni-koeln-de">
+                    <persName><surname>Schubert</surname><forename>Zoe</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__schubert-uni-leipzig-de">
+                    <persName><surname>Schubert</surname><forename>Charlotte</forename></persName>
+                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__dschulz-uni-wuppertal-de">
+                    <persName><surname>Schulz</surname><forename>Daniela</forename></persName>
+                    <affiliation>Bergische Universität Wuppertal</affiliation>
+                </person>
+                <person xml:id="person__sarah-schulz-ims-uni-stuttgart-de">
+                    <persName><surname>Schulz</surname><forename>Sarah</forename></persName>
+                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__schwengelbeck-isabel-gmail-com">
+                    <persName><surname>Schwengelbeck</surname><forename>Isabel</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__lkschae-gmail-com">
+                    <persName><surname>Schäfer</surname><forename>Lisa</forename></persName>
+                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__schoech-uni-trier-de">
+                    <persName><surname>Schöch</surname><forename>Christof</forename></persName>
+                    <affiliation>Universität Trier, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__hnrseidel-gmail-com">
+                    <persName><surname>Seidel</surname><forename>Henry</forename></persName>
+                    <affiliation>HU Berlin, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__pseipel1-uni-koeln-de">
+                    <persName><surname>Seipel</surname><forename>Peter</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__melanie-seltmann-univie-ac-at">
+                    <persName><surname>Seltmann</surname><forename>Melanie</forename></persName>
+                    <affiliation>Universität Wien</affiliation>
+                </person>
+                <person xml:id="person__pmpsepulveda-gmail-com">
+                    <persName><surname>Sepúlveda</surname><forename>Pedro</forename></persName>
+                    <affiliation>Neue Universität Lissabon, Portugal</affiliation>
+                </person>
+                <person xml:id="person__zhenya96-gmail-com">
+                    <persName><surname>Shlosman</surname><forename>Evgenia</forename></persName>
+                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                </person>
+                <person xml:id="person__severin-simmler-stud-mail-uni-wuerzburg-de">
+                    <persName><surname>Simmler</surname><forename>Severin</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__colin-sippl-stud-uni-regensburg-de">
+                    <persName><surname>Sippl</surname><forename>Colin</forename></persName>
+                    <affiliation>Lehrstuhl für Medieninformatik, Universität
+                        Regensburg</affiliation>
+                </person>
+                <person xml:id="person__s9naskac-stud-uni-saarland-de">
+                    <persName><surname>Skachkova</surname><forename>Natalia</forename></persName>
+                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__claudia-sojer-uibk-ac-at">
+                    <persName><surname>Sojer</surname><forename>Claudia</forename></persName>
+                    <affiliation>Universität Innsbruck, Österreich</affiliation>
+                </person>
+                <person xml:id="person__cmsmcq-blackmesatech-com">
+                    <persName><surname>Sperberg-McQueen</surname><forename>C.
+                        Michael</forename></persName>
+                    <affiliation>Black Mesa Technologies LLC, New Mexico</affiliation>
+                </person>
+                <person xml:id="person__csporled-gwdg-de">
+                    <persName><surname>Sporleder</surname><forename>Caroline</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__peter-stadler-upb-de">
+                    <persName><surname>Stadler</surname><forename>Peter</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__stadler-weber-gesamtausgabe-de">
+                    <persName><surname>Stadler</surname><forename>Peter</forename></persName>
+                    <affiliation>Universität Paderborn</affiliation>
+                </person>
+                <person xml:id="person__jan-erik-stange-uni-hamburg-de">
+                    <persName><surname>Stange</surname><forename>Jan-Erik</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__stede-uni-potsdam-de">
+                    <persName><surname>Stede</surname><forename>Manfred</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__elisabeth-steiner-uni-graz-at">
+                    <persName><surname>Steiner</surname><forename>Elisabeth</forename></persName>
+                    <affiliation>Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__steyer-hab-de">
+                    <persName><surname>Steyer</surname><forename>Timo</forename></persName>
+                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel; Herzog August
+                        Bibliothek Wolfenbüttel</affiliation>
+                </person>
+                <person xml:id="person__tobias-strauss-uni-rostock-de">
+                    <persName><surname>Strauß</surname><forename>Tobias</forename></persName>
+                    <affiliation>Universität Rostock CITLab</affiliation>
+                </person>
+                <person xml:id="person__strobel-staff-uni-marburg-de">
+                    <persName><surname>Strobel</surname><forename>Jochen</forename></persName>
+                    <affiliation>Philipps-Universität Marburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jannik-stroetgen-mpi-inf-mpg-de">
+                    <persName><surname>Strötgen</surname><forename>Jannik</forename></persName>
+                    <affiliation>Max-Planck-Institut für Informatik, Saarbrücken,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__alexander-stoeger-uni-jena-de">
+                    <persName><surname>Stöger</surname><forename>Alexander</forename></persName>
+                    <affiliation>Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität
+                        Jena, Jena, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__samira-tabti-ruhr-uni-bochum-de">
+                    <persName><surname>Tabti</surname><forename>Samira</forename></persName>
+                    <affiliation>RUB Bochum, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ttasovac-humanistika-org">
+                    <persName><surname>Tasovac</surname><forename>Toma</forename></persName>
+                    <affiliation>Centar za digitalne humanističke nauke, Serbien</affiliation>
+                </person>
+                <person xml:id="person__e-teich-mx-uni-saarland-de">
+                    <persName><surname>Teich</surname><forename>Elke</forename></persName>
+                    <affiliation>Universität des Saarlandes</affiliation>
+                </person>
+                <person xml:id="person__sht25-cl-cam-ac-uk">
+                    <persName><surname>Teufel</surname><forename>Simone</forename></persName>
+                    <affiliation>University of Cambridge, Vereinigtes Königreich</affiliation>
+                </person>
+                <person xml:id="person__ctheise2-uni-koeln-de">
+                    <persName><surname>Theisen</surname><forename>Christian</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ctheise1-smail-uni-koeln-de">
+                    <persName><surname>Theisen</surname><forename>Christian</forename></persName>
+                    <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__carole-tiberius-inl-nl">
+                    <persName><surname>Tiberius</surname><forename>Carole</forename></persName>
+                    <affiliation>Instituut voor Nederlandse Lexicologie, Niederlande</affiliation>
+                </person>
+                <person xml:id="person__sebastian-topp-uni-hamburg-de">
+                    <persName><surname>Topp</surname><forename>Sebastian</forename></persName>
+                    <affiliation>Universität Hamburg</affiliation>
+                </person>
+                <person xml:id="person__ltj-dsl-dk">
+                    <persName><surname>Trap-Jensen</surname><forename>Lars</forename></persName>
+                    <affiliation>Det Danske Sprog- og Litteraturselskab, Dänmark</affiliation>
+                </person>
+                <person xml:id="person__aaron-tratter-student-uibk-ac-at">
+                    <persName><surname>Tratter</surname><forename>Aaron Rudolf</forename></persName>
+                    <affiliation>Universität Innsbruck, Österreich</affiliation>
+                </person>
+                <person xml:id="person__trilcke-uni-potsdam-de">
+                    <persName><surname>Trilcke</surname><forename>Peer</forename></persName>
+                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__thorsten-trippel-uni-tuebingen-de">
+                    <persName><surname>Trippel</surname><forename>Thorsten</forename></persName>
+                    <affiliation>Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__tu-ids-mannheim-de">
+                    <persName><surname>Tu</surname><forename>Ngoc Duyen Tanja</forename></persName>
+                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sabine-ullrich-campus-lmu-de">
+                    <persName><surname>Ullrich</surname><forename>Sabine</forename></persName>
+                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__varadi-nytud-hu">
+                    <persName><surname>Varadi</surname><forename>Tamas</forename></persName>
+                    <affiliation>Magyar Tudományos Akadémia,Ungarn</affiliation>
+                </person>
+                <person xml:id="person__michael-vauth-tuhh-de">
+                    <persName><surname>Vauth</surname><forename>Michael</forename></persName>
+                    <affiliation>Technische Universität Hamburg</affiliation>
+                </person>
+                <person xml:id="person__verhoeve-uni-mainz-de">
+                    <persName><surname>Verhoeven-van
+                        Elsbergen</surname><forename>Ursula</forename></persName>
+                    <affiliation>Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der
+                        Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__fsha060-uni-hamburg-de">
+                    <persName><surname>Vertan</surname><forename>Cristina</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__cristina-vertan-uni-hamburg-de">
+                    <persName><surname>Vertan</surname><forename>Cristina</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__viehhauser-ilw-uni-stuttgart-de">
+                    <persName><surname>Viehhauser</surname><forename>Gabriel</forename></persName>
+                    <affiliation>Institut für Literaturwissenschaft, Universität
+                        Stuttgart</affiliation>
+                </person>
+                <person xml:id="person__thorsten-vitt-uni-wuerzburg-de">
+                    <persName><surname>Vitt</surname><forename>Thorsten</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__georg-vogeler-uni-graz-at">
+                    <persName><surname>Vogeler</surname><forename>Georg</forename></persName>
+                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                </person>
+                <person xml:id="person__ramon-voges-upb-de">
+                    <persName><surname>Voges</surname><forename>Ramon</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__vogt-andreas-uni-koeln-de">
+                    <persName><surname>Vogt</surname><forename>Andreas</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__vossf-mail-uni-paderborn-de">
+                    <persName><surname>Voss</surname><forename>Fabian</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__wagner-rg-mpg-de">
+                    <persName><surname>Wagner</surname><forename>Andreas</forename></persName>
+                    <affiliation>Max-Planck-Institut für europäische Rechtsgeschichte, Frankfurt am
+                        Main</affiliation>
+                </person>
+                <person xml:id="person__christian-wagner-univie-ac-at">
+                    <persName><surname>Wagner</surname><forename>Christian</forename></persName>
+                    <affiliation>Universität Wien, Österreich</affiliation>
+                </person>
+                <person xml:id="person__s-wagner-gnm-de">
+                    <persName><surname>Wagner</surname><forename>Sarah</forename></persName>
+                    <affiliation>Germanisches Nationalmuseum, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__ewagner-uni-bonn-de">
+                    <persName><surname>Wagner</surname><forename>Elisabeth</forename></persName>
+                    <affiliation>Rheinische Friedrich-Wilhelms-Universtität Bonn,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__dwahl-mail-uni-paderborn-de">
+                    <persName><surname>Wahl</surname><forename>Dominik</forename></persName>
+                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__walkowski-nowalkowski-de">
+                    <persName><surname>Walkowski</surname><forename>Niels-Oliver</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                </person>
+                <person xml:id="person__lukas-weimer-uni-wuerzburg-de">
+                    <persName><surname>Weimer</surname><forename>Lukas</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jwettla-gwdg-de">
+                    <persName><surname>Wettlaufer</surname><forename>Jörg</forename></persName>
+                    <affiliation>Göttingen Centre for Digital Humanities, Georg-August Universität
+                        Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__wichersschreur-em-uni-frankfurt-de">
+                    <persName><surname>Wichers
+                        Schreur</surname><forename>Jesse</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__twiehe-uni-koeln-de">
+                    <persName><surname>Wiehe</surname><forename>Thomas</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jan-wieners-uni-koeln-de">
+                    <persName><surname>Wieners</surname><forename>Jan G.</forename></persName>
+                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__j-wildgans-googlemail-com">
+                    <persName><surname>Wildgans</surname><forename>Julia</forename></persName>
+                    <affiliation>IDS Mannheim; Universität Mannheim</affiliation>
+                </person>
+                <person xml:id="person__marcus-willand-ilw-uni-stuttgart-de">
+                    <persName><surname>Willand</surname><forename>Marcus</forename></persName>
+                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__willenborg-bbaw-de">
+                    <persName><surname>Willenborg</surname><forename>Josef</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__florian-windhager-donau-uni-ac-at">
+                    <persName><surname>Windhager</surname><forename>Florian</forename></persName>
+                    <affiliation>Donau-Universität Krems, Österreich</affiliation>
+                </person>
+                <person xml:id="person__tanja-wissik-oeaw-ac-at">
+                    <persName><surname>Wissik</surname><forename>Tanja</forename></persName>
+                    <affiliation>Österreichische Akademie der Wissenschaften,
+                        Österreich</affiliation>
+                </person>
+                <person xml:id="person__witt-ids-mannheim-de">
+                    <persName><surname>Witt</surname><forename>Andreas</forename></persName>
+                    <affiliation>IDS Mannheim; Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__andreas-witt-uni-koeln-de">
+                    <persName><surname>Witt</surname><forename>Andreas</forename></persName>
+                    <affiliation>Universität zu Köln</affiliation>
+                </person>
+                <person xml:id="person__wodausch-uni-hildesheim-de">
+                    <persName><surname>Wodausch</surname><forename>David</forename></persName>
+                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__jana-a-wolf-hotmail-com">
+                    <persName><surname>Wolf</surname><forename>Jana</forename></persName>
+                    <affiliation>Mittelbayerische Zeitung Regensburg</affiliation>
+                </person>
+                <person xml:id="person__ulrike-wuttke-gmx-net">
+                    <persName><surname>Wuttke</surname><forename>Ulrike</forename></persName>
+                    <affiliation>Stellvertretende Vorsitzende der AG Datenzentren des DHd,
+                        Fachbereich Informationswissenschaften, Fachhochschule Potsdam,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__woeckener-gade-uni-leipzig-de">
+                    <persName><surname>Wöckener-Gade</surname><forename>Eva</forename></persName>
+                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__twuebbena-dfk-paris-org">
+                    <persName><surname>Wübbena</surname><forename>Thorsten</forename></persName>
+                    <affiliation>Max Weber Stiftung</affiliation>
+                </person>
+                <person xml:id="person__wuebbena-kunst-uni-frankfurt-de">
+                    <persName><surname>Wübbena</surname><forename>Thorsten</forename></persName>
+                    <affiliation>Goethe-Universität Frankfurt</affiliation>
+                </person>
+                <person xml:id="person__wuerzner-bbaw-de">
+                    <persName><surname>Würzner</surname><forename>Kay-Michael</forename></persName>
+                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</affiliation>
+                </person>
+                <person xml:id="person__xiaozhou-yu-tu-dresden-de">
+                    <persName><surname>Yu</surname><forename>Xiaozhou</forename></persName>
+                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__alexander-zeckey-stud-uni-goettingen-de">
+                    <persName><surname>Zeckey</surname><forename>Alexander</forename></persName>
+                    <affiliation>Georg-August-Universität Göttingen, Deutschland -
+                        GCDH/Archäologisches Institut</affiliation>
+                </person>
+                <person xml:id="person__zehe-informatik-uni-wuerzburg-de">
+                    <persName><surname>Zehe</surname><forename>Albin</forename></persName>
+                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__matthias-zeppelzauer-fhstp-ac-at">
+                    <persName><surname>Zeppelzauer</surname><forename>Matthias</forename></persName>
+                    <affiliation>Fachhochschule St. Pölten</affiliation>
+                </person>
+                <person xml:id="person__zeyen-uni-trier-de">
+                    <persName><surname>Zeyen</surname><forename>Christian</forename></persName>
+                    <affiliation>Center for Informatics Research and Technology (CIRT); Universität
+                        Trier</affiliation>
+                </person>
+                <person xml:id="person__stefan-ziehe-stud-uni-goettingen-de">
+                    <persName><surname>Ziehe</surname><forename>Stefan</forename></persName>
+                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__sebastian-zimmer-uni-koeln-de">
+                    <persName><surname>Zimmer</surname><forename>Sebastian</forename></persName>
+                    <affiliation>Cologne Center for eHumanities</affiliation>
+                </person>
+                <person xml:id="person__heike-zinsmeister-uni-hamburg-de">
+                    <persName><surname>Zinsmeister</surname><forename>Heike</forename></persName>
+                    <affiliation>Universität Hamburg</affiliation>
+                </person>
+                <person xml:id="person__angelika-zirker-uni-tuebingen-de">
+                    <persName><surname>Zirker</surname><forename>Angelika</forename></persName>
+                    <affiliation>Humboldt Universität zu Berlin; Eberhard Karls Universität
+                        Tübingen</affiliation>
+                </person>
+                <person xml:id="person__vhahn-informatik-uni-hamburg-de">
+                    <persName><surname>von Hahn</surname><forename>Walther</forename></persName>
+                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                </person>
+                <person xml:id="person__frederic-vonvlahovits-adwmainz-de">
+                    <persName><surname>von
+                        Vlahovits</surname><forename>Frederic</forename></persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                </person>
+                <person xml:id="person__matej-durco-oeaw-ac-at">
+                    <persName><surname>Ďurčo</surname><forename>Matej</forename></persName>
+                    <affiliation>Austrian Center for Digital Humanities, Österreichische Akademie
+                        der Wissenschaften, Österreich</affiliation>
+                </person>
+            </listPerson>
         </body>
-        <back>
-         <div type="notes">
-            <note xml:id="ftn1" n="1" rend="footnote text"> Wir werden aufgrund besserer Lesbarkeit im Folgenden nur noch die männliche Form verwenden – unsere Ausführungen beziehen sich aber selbstverständlich dennoch auf alle Geschlechter.</note>
-            <note xml:id="ftn2" n="2" rend="footnote text"> Auf diese persistente Skepsis verweisen beispielsweise auch Fiedler und Weiß in ihrem Tagungsbericht zur DHd-Konferenz 2015 in Graz (vgl. Fiedler/Weiß 2015).</note>
-            <note xml:id="ftn3" n="3" rend="footnote text"> Beispiele hierfür sind u.a. die folgenden Projekte aus dem Bereich der digitalen Literaturwissenschaft: “heureCLÉA”, ein Projekt zur automatischen Annotation von Zeitphänomenen in narrativen Texten (
-                            <ref target="http://heureclea.de">
-                                http://www.heureclea.de
-                            </ref>, vgl. Bögel et al. 2015); “Redewiedergabe. Eine literatur- und sprachwissenschaftliche Korpusanalyse”, ein Projekt zur automatisierten Annotation von Figurenrede (
-                            <ref target="http://www.redewiedergabe.de/">
-                                http://www.redewiedergabe.de
-                            </ref>, vgl. auch Brunner 2015); die “Computational Stylistics Group” (
-                            <ref target="https://sites.google.com/site/computationalstylistics/">
-                                https://sites.google.com/site/computationalstylistics
-                            </ref>, vgl. Rybicki/Eder/Hoover 2016); das “Rhythmicalizer”-Projekt (
-                            <ref target="http://www.rhythmicalizer.net/">
-                                http://www.rhythmicalizer.net
-                            </ref>, vgl. Baumann/Meyer-Sickendiek 2016), das ein Tool zur Erkennung von Prosodie in freien Versen entwickelt; ebenso wie Projekte zur Analyse von Figurennetzwerken wie etwa “Digital Literary Network Analysis” (
-                            <ref target="https://dlina.github.io/about/">
-                                https://dlina.github.io/about
-                            </ref>, vgl. Fischer et al. 2017).
-                        </note>
-            <note xml:id="ftn4" n="4" rend="footnote text"> So betonen beispielsweise Kindt und Köppe, dass literaturwissenschaftliche Interpretationen weniger auf strukturelle Aspekte oder bloßes Sprachverstehen gerichtet sind als vielmehr auf mannigfaltige, komplexe und oft nicht eindeutig umrissene Verstehensziele (vgl. Kindt/Köppe 2008: 12–14).</note>
-            <note xml:id="ftn5" n="5" rend="footnote text"> So sind beispielsweise bestehende Verzeichnisse für Tools zur Textanalyse aufgrund der vornehmlich technisch ausgerichteten Beschreibungen für Geisteswissenschaftler ohne DH-Vorwissen äußerst schwer zugänglich (z.B. TAPoR, 
-                            <ref target="http://www.tapor.ca">
-                                http://www.tapor.ca
-                            </ref>). Einen vielversprechenden Ansatz zur nutzbaren Aufbereitung und Vermittlung digitaler Methoden – allerdings vornehmlich in schulischen Kontexten – stellt das Projekt “Digitalität in den Fachdidaktiken” dar (
-                            <ref target="http://dhd-blog.org/?p=6812">
-                                http://dhd-blog.org/?p=6812
-                            </ref>).
-                        </note>
-            <note xml:id="ftn6" n="6" rend="footnote text"> So basieren zahlreiche DH-Praktiken zur Textanalyse auf der automatischen Verarbeitung von Textoberflächendaten wie Wortfrequenzen, beispielsweise stilometrische Untersuchungen oder Topic Modeling (vgl. Brett 2012).</note>
-            <note xml:id="ftn7" n="7" rend="footnote text"> Der Fragebogen bietet Nutzern zudem die Option, auf fehlende Antwort- oder sogar Fragemöglichkeiten hinzuweisen. Auf diese Weise kann der Fragebogen – und mit ihm forTEXTs Empfehlungssystem – im Laufe des Projekts weiter optimiert werden.</note>
-            <note xml:id="ftn8" n="8" rend="footnote text"> Affiliierte Projekte sind beispielsweise “3DH” (
-                                <ref target="http://www.threedh.net">
-                                    http://www.threedh.net
-                                </ref>) und “SANTA: Shared Task on the Analysis of Narrative levels Through Annotation” (
-                                <ref target="https://sharedtasksinthedh.github.io/">
-                                    https://sharedtasksinthedh.github.io/
-                                </ref>), in deren Rahmen narrative Ebenen in Texten annotiert werden.
-                            </note>
-            <note xml:id="ftn9" n="9" rend="footnote text"> Ein Vorbild hierfür ist der bereits in CATMA integrierte “Query Builder”, mithilfe dessen Nutzer komplexe Abfragen über Text- und Annotationsdaten laufen lassen können, ohne eine Abfragesprache lernen zu müssen.</note>
-            <note xml:id="ftn10" n="10" rend="footnote text"> Vgl. bspw. Bauer/Zirker 2015: Absatz 1.</note>
-            <note xml:id="ftn11" n="11" rend="footnote text"> So hat sich CATMA beispielsweise dem Konzept des 
-                            <hi rend="italic">hermeneutischen Markups</hi> verschrieben – darunter verstehen wir nach Piez Markup das bewusst interpretativ und flexibel ist (vgl. Piez 2010). Auf diese Weise erlaubt CATMA beispielsweise mehrfache und sogar “widersprüchliche” Annotationen derselben Textstelle – dennoch sind die Annotationen im standardisierten TEI-Format exportierbar und somit flexibel nachnutzbar. Diese Markup-Eigenschaften werden im Backend ermöglicht durch Standoff-Markup und die Nutzung von TEI Feature Structures (
-                            <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html">
-                                http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html
-                            </ref>).
-                        </note>
-            <note xml:id="ftn12" n="12" rend="footnote text"> Vgl. zu den Vorteilen von Klassifikationssystemen wie Taxonomien und Typologien auch Bailey 1994.</note>
-            <note xml:id="ftn13" n="13" rend="footnote text"> Zur Methode und zum Nutzen kollaborativen Annotierens, siehe auch Gius/Jacke 2015 und Gius/Jacke 2017.</note>
-         </div>
-         <div type="bibliogr">
-                <listBibl>
-                    <head>Bibliographie</head>
-                    <bibl><hi rend="bold">Bailey, Kenneth D. </hi>(1994): 
-                        <hi rend="italic">Typologies and Taxonomies. An Introduction to Classification Techniques</hi>. Thousand Oaks/London/New Delhi: Sage Publications.
-                    </bibl>
-                    <bibl><hi rend="bold">Bauer, Matthias / Zirker, Angelika </hi>(2015): “Whipping Boys Explained. Literary Annotation and Digital Humanities”, in: 
-                        <hi rend="italic">MLA Commons. Literary Studies in the Digital Age</hi>
-                        <ref target="https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/">
-                            https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Baumann, Timo / Meyer-Sickendiek, Burkhard </hi>(2016): “Large-scale Analysis of Spoken Free-verse Poetry”, in:
-                        <hi rend="italic"> Proceedings of LT4DH-Workshop 2016</hi>
-                        <ref target="http://edoc.sub.uni-hamburg.de/informatik/volltexte/2016/228/pdf/baumann_large_scale_analysis.pdf">
-                            http://edoc.sub.uni-hamburg.de/informatik/volltexte/2016/228/pdf/baumann_large_scale_analysis.pdf
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik </hi>(2015): “Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a Digital Heuristic of Narrative”, in: 
-                        <hi rend="italic">DHCommons Journal</hi> 1 
-                        <ref target="http://dhcommons.org/journal/issue-1/collaborative-text-annotation-meets-machine-learning-heurecl%C3%A9-digital-heuristic">
-                            http://dhcommons.org/journal/issue-1/collaborative-text-annotation-meets-machine-learning-heurecl%C3%A9-digital-heuristic
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Brett, Megan R. </hi>(2012): “Topic Modeling. A Basic Introduction”, in: 
-                        <hi rend="italic">Journal of Digital Humanities</hi> 2(1) 
-                        <ref target="http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/">
-                            http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Brunner, Annelen </hi>(2015): 
-                        <hi rend="italic">Automatische Erkennung von Redewiedergabe</hi>. Berlin / Boston: de Gruyter (= Narratologia Bd. 47).
-                    </bibl>
-                    <bibl><hi rend="bold">Fiedler, Maik / Weiß, Andreas </hi>(2015): “Von Daten zu Erkenntnissen. Digitale Geisteswissenschaften als Mittler zwischen Information und Interpretation. DHd-Jahrestagung 2015” 
-                        <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-6059">
-                            http://www.hsozkult.de/conferencereport/id/tagungsberichte-6059
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer </hi>(2017): “Network Dynamics, Plot Analysis. Approaching the Progressive Structuration of Literary Texts”, in: 
-                        <hi rend="italic">Digital Humanities 2017. Conference Abstracts</hi>  
-                        <ref target="https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf">
-                            https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: 
-                        <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, Sonderband 1 
-                        <ref target="http://www.zfdg.de/sb001_006">
-                            http://www.zfdg.de/sb001_006
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Gius, Evelyn / Jacke, Janina </hi>(2017): “The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis”, in: 
-                        <hi rend="italic">International Journal of Humanities and Arts Computing</hi> 11(2) 233–254.
-                    </bibl>
-                    <bibl><hi rend="bold">Kindt, Tom / Köppe, Tilmann </hi>(2008): “Einleitung”, in: dies. (eds.): 
-                        <hi rend="italic">Moderne Interpretationstheorien. Ein Reader</hi>. Göttingen: Vandenhoeck &amp; Ruprecht 7–26.
-                    </bibl>
-                    <bibl><hi rend="bold">Piez, Wendell </hi>(2010): “Towards Hermeneutic Markup. An Architectural Outline”, in: 
-                        <hi rend="italic">Digital Humanities 2010. Conference Abstracts</hi>
-                        <ref target="http://piez.org/wendell/papers/dh2010/">
-                            http://piez.org/wendell/papers/dh2010/
-                        </ref> [letzter Zugriff 06. September 2017].
-                    </bibl>
-                    <bibl><hi rend="bold">Rybicki, Jan / Eder, Maciej / Hoover, David </hi>(2016): “Computational stylistics and text analysis”, in: Crompton, Constance / Lane, Richard J. / Siemens, Ray (eds.): 
-                        <hi rend="italic">Doing Digital Humanities</hi>. London / New York: Routledge 123–144.
-                    </bibl>
-                    <bibl><hi rend="bold">Spörl, Uwe </hi>(2004): 
-                        <hi rend="italic">Basislexikon Literaturwissenschaft</hi>. 2., durchges. Aufl. Paderborn [u.a.]: Schöningh.
-                    </bibl>
-                    <bibl><hi rend="bold">Websites</hi></bibl>
-                    <bibl><hi rend="bold">3DH </hi>(<ref target="http://www.threedh.net">http://www.threedh.net</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">CATMA </hi>(<ref target="http://www.catma.de">http://www.catma.de</ref>) 
-                    </bibl>
-                    <bibl><hi rend="bold">Computational Stylistics Group </hi>(<ref target="https://sites.google.com/site/computationalstylistics/">https://sites.google.com/site/computationalstylistics</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">Digital Literary Network Analysis </hi>(<ref target="https://dlina.github.io/about/">https://dlina.github.io/about</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">Digitalität in den Fachdidaktiken</hi>. Projektpräsentation im DHd-Blog (
-                        <ref target="http://dhd-blog.org/?p=6812">
-                            http://dhd-blog.org/?p=6812</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">forTEXT </hi>(<ref target="http://www.fortext.net">http://www.fortext.net</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">heureCLÉA </hi>(<ref target="http://heureclea.de">http://www.heureclea.de</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">Redewiedergabe </hi>(<ref target="http://www.redewiedergabe.de/">http://www.redewiedergabe.de</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">Rhythmicalizer </hi>(<ref target="http://www.rhythmicalizer.net/">http://www.rhythmicalizer.net</ref>)
-                    </bibl>
-                    <bibl>
-                        <ref target="http://dhd-blog.org/?p=8138"><hi rend="bold">SANTA</hi>: Shared Task on the Analysis of Narrative levels Through Annotation (</ref>
-                        <ref target="https://sharedtasksinthedh.github.io/">https://sharedtasksinthedh.github.io/</ref><ref target="http://dhd-blog.org/?p=8138">)</ref>
-                    </bibl>
-                    <bibl><hi rend="bold">TAPoR</hi> (<ref target="http://www.tapor.ca">http://www.tapor.ca</ref>)
-                    </bibl>
-                    <bibl><hi rend="bold">TEI Feature Structures</hi> (<ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html">http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html</ref>)
-                    </bibl>
-                </listBibl>
-            </div>
-      </back>
     </text>
 </TEI>

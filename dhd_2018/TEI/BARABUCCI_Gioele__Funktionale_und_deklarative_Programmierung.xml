@@ -196,17 +196,17 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__876"><hi rend="bold">Barabucci, Gioele / Fischer, Franz </hi>(2017): „The formalization of textual criticism: bridging the gap between automated collation and edited critical texts“, in: Advances in Digital Scholarly Editing: Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp. Sidestone Press.</bibl>
-                    <bibl ref="#bibl__877"><hi rend="bold">CCeH </hi>(2014). „sanskrit-dict-to-tei: TEI-fy existing Sanskrit dictionaries.“, https://github.com/cceh/sanskrit-dict-to-tei (Das Repository wird im Laufe des Jahres 2018 veröffentlicht werden).</bibl>
-                    <bibl ref="#bibl__878"><hi rend="bold">Crowley, Ronan / Reeve, Jonathan / Schäuble, Johannes </hi>(2017). open-editions/corpus-joyce-ulysses-tei: Zenodo release (Version v0.1.1). Zenodo. 10.5281/zenodo.583139</bibl>
-                    <bibl ref="#bibl__879"><hi rend="bold">Dolstra, Eelco / Löh, Andres </hi>(2008). „NixOS: A purely functional Linux distribution“, in: ACM Sigplan Notices, 43(9): 367-378.</bibl>
-                    <bibl ref="#bibl__880"><hi rend="bold">Duvall, Paul M. / Matyas, Steve / Glover, Andrew </hi>(2007). „Continuous integration: improving software quality and reducing risk“. Pearson Education.</bibl>
-                    <bibl ref="#bibl__881"><hi rend="bold">Flanders, Julia / Muñoz, Trevor </hi>(2017). „An Introduction to Humanities Data Curation“, http://guide.dhcuration.org/contents/intro/ [letzter Zugriff 2018-01-10].</bibl>
-                    <bibl ref="#bibl__882"><hi rend="bold">Peng, Roger D </hi>(2009). „Reproducible research and biostatistics“, in: Biostatistics, 10(3): 405-408.</bibl>
-                    <bibl ref="#bibl__883"><hi rend="bold">Reeve, Jonathan </hi>(2016). „Git-Lit: an Application of Distributed Version Control Technology toward the Creation of 50,000 Digital Scholarly Editions“, in: Digital Humanities 2016: Conference Abstracts. Jagiellonian University &amp; Pedagogical University, Kraków, pp. 657-658.</bibl>
-                    <bibl ref="#bibl__884"><hi rend="bold">Schoen, Seth / Perry, Mike </hi>(2014). „Why and how of reproducible builds: Distrusting our own infrastructure for safer software releases“, https://air.mozilla.org/why-and-how-of-reproducible-builds-distrusting-our-own-infrastructure-for-safer-software-releases/ [letzter Zugriff 2018-01-10].</bibl>
-                    <bibl ref="#bibl__885"><hi rend="bold">Walsh, Norman </hi>(2007). „XProc: An XML pipeline language“ in: XML Prague 2007.</bibl>
-                    <bibl ref="#bibl__886"><hi rend="bold">van Zundert, Joris J. </hi>(2016). „Close Reading and Slow Programming — Computer Code as Digital Scholarly Edition.“, in: ESTS 2016.</bibl>
+                    <bibl ref="#bibl__888"><hi rend="bold">Barabucci, Gioele / Fischer, Franz </hi>(2017): „The formalization of textual criticism: bridging the gap between automated collation and edited critical texts“, in: Advances in Digital Scholarly Editing: Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp. Sidestone Press.</bibl>
+                    <bibl ref="#bibl__889"><hi rend="bold">CCeH </hi>(2014). „sanskrit-dict-to-tei: TEI-fy existing Sanskrit dictionaries.“, https://github.com/cceh/sanskrit-dict-to-tei (Das Repository wird im Laufe des Jahres 2018 veröffentlicht werden).</bibl>
+                    <bibl ref="#bibl__890"><hi rend="bold">Crowley, Ronan / Reeve, Jonathan / Schäuble, Johannes </hi>(2017). open-editions/corpus-joyce-ulysses-tei: Zenodo release (Version v0.1.1). Zenodo. 10.5281/zenodo.583139</bibl>
+                    <bibl ref="#bibl__891"><hi rend="bold">Dolstra, Eelco / Löh, Andres </hi>(2008). „NixOS: A purely functional Linux distribution“, in: ACM Sigplan Notices, 43(9): 367-378.</bibl>
+                    <bibl ref="#bibl__892"><hi rend="bold">Duvall, Paul M. / Matyas, Steve / Glover, Andrew </hi>(2007). „Continuous integration: improving software quality and reducing risk“. Pearson Education.</bibl>
+                    <bibl ref="#bibl__893"><hi rend="bold">Flanders, Julia / Muñoz, Trevor </hi>(2017). „An Introduction to Humanities Data Curation“, http://guide.dhcuration.org/contents/intro/ [letzter Zugriff 2018-01-10].</bibl>
+                    <bibl ref="#bibl__894"><hi rend="bold">Peng, Roger D </hi>(2009). „Reproducible research and biostatistics“, in: Biostatistics, 10(3): 405-408.</bibl>
+                    <bibl ref="#bibl__895"><hi rend="bold">Reeve, Jonathan </hi>(2016). „Git-Lit: an Application of Distributed Version Control Technology toward the Creation of 50,000 Digital Scholarly Editions“, in: Digital Humanities 2016: Conference Abstracts. Jagiellonian University &amp; Pedagogical University, Kraków, pp. 657-658.</bibl>
+                    <bibl ref="#bibl__896"><hi rend="bold">Schoen, Seth / Perry, Mike </hi>(2014). „Why and how of reproducible builds: Distrusting our own infrastructure for safer software releases“, https://air.mozilla.org/why-and-how-of-reproducible-builds-distrusting-our-own-infrastructure-for-safer-software-releases/ [letzter Zugriff 2018-01-10].</bibl>
+                    <bibl ref="#bibl__897"><hi rend="bold">Walsh, Norman </hi>(2007). „XProc: An XML pipeline language“ in: XML Prague 2007.</bibl>
+                    <bibl ref="#bibl__898"><hi rend="bold">van Zundert, Joris J. </hi>(2016). „Close Reading and Slow Programming — Computer Code as Digital Scholarly Edition.“, in: ESTS 2016.</bibl>
                 </listBibl>
             </div>
       </back>

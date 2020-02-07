@@ -225,7 +225,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__162">
+                    <bibl ref="#bibl__2299">
                         <hi style="font-size:12pt" xml:space="preserve">Andert, Martin, Frank Berger, Paul Molitor, und Jörg Ritter. 2015. „An Optimized Platform for Capturing Metadata of Historical Correspondence“. </hi>
                         <hi rend="italic" style="font-size:12pt">Literary and Linguistic Computing Advance Access</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> 30 (4): 471–480. </hi>
@@ -234,7 +234,7 @@
                         </ref>
                         <hi style="font-size:12pt">.</hi>
                     </bibl>
-                    <bibl ref="#bibl__163">
+                    <bibl ref="#bibl__152">
                         <hi style="font-size:12pt" xml:space="preserve">Dumont, Stefan. 2016. „CorrespSearch – Connecting Scholarly Editions of Letters“. </hi>
                         <hi rend="italic" style="font-size:12pt">Journal of the Text Encoding Initiative</hi>
                         <hi style="font-size:12pt">, Nr. Issue 10 (Dezember).</hi>
@@ -243,12 +243,12 @@
                         </ref>
                         <hi style="font-size:12pt">.</hi>
                     </bibl>
-                    <bibl ref="#bibl__164">
+                    <bibl ref="#bibl__2300">
                         <hi style="font-size:12pt" xml:space="preserve">Stadler, Peter. 2012. „Normdateien in der Edition“. </hi>
                         <hi rend="italic" style="font-size:12pt">editio</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> 26: 174–83.</hi>
                     </bibl>
-                    <bibl ref="#bibl__16">
+                    <bibl ref="#bibl__110">
                         <hi style="font-size:12pt" xml:space="preserve">TEI Consortium, Hrsg. o. J. </hi>
                         <hi rend="italic" style="font-size:12pt">TEI P5: Guidelines for Electronic Text Encoding and Interchange. Version 3.4.0 vom 23.07.2018.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> TEI Consortium. Zugegriffen 12. Oktober 2018. </hi>
@@ -257,7 +257,7 @@
                         </ref>
                         <hi style="font-size:12pt">.</hi>
                     </bibl>
-                    <bibl ref="#bibl__165">
+                    <bibl ref="#bibl__153">
                         <hi style="font-size:12pt" xml:space="preserve">TEI Correspondence SIG, Hrsg. 2015. „Correspondence Metadata Interchange Format (CMIF)“. </hi>
                         <ref target="https://github.com/TEI-Correspondence-SIG/CMIF">
                             <hi rend="underline color(0000FF)" style="font-size:12pt">https://github.com/TEI-Correspondence-SIG/CMIF</hi>

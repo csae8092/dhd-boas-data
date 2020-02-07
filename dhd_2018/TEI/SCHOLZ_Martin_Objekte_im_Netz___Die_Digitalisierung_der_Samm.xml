@@ -154,10 +154,10 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__45"><hi rend="bold">Görz, Günther </hi>: „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung” in: Kunstgeschichte, Open Peer Reviewed Journal, urn:nbn:de:bvb:355-kuge-167-7 [letzter Zugriff 10.01.2018].</bibl>
-                    <bibl ref="#bibl__46"><hi rend="bold">Hohmann, Georg </hi>(2011): „Die Anwendung von Ontologien zur Wissensrepräsentation und -kommunikation im Bereich des Kulturellen Erbes” in: Schomburg, Silke u.a. (eds.): Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland. Köln: Hochschulbibliothekszentrum NRW 33-39.</bibl>
-                    <bibl ref="#bibl__47"><hi rend="bold">Hohmann, Georg / Schiemann, Bernhard </hi>(2013): „An Ontology-Based Communication System for Cultural Heritage. Approach and Progress of the WissKI Project” in: Hans Bock u.a. (eds.): Scientific Computing and Cultural Heritage. Berlin: Springer 127-135.</bibl>
-                    <bibl ref="#bibl__48"><hi rend="bold">Wissenschaftsrat </hi>(2011): 
+                    <bibl ref="#bibl__49"><hi rend="bold">Görz, Günther </hi>: „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung” in: Kunstgeschichte, Open Peer Reviewed Journal, urn:nbn:de:bvb:355-kuge-167-7 [letzter Zugriff 10.01.2018].</bibl>
+                    <bibl ref="#bibl__50"><hi rend="bold">Hohmann, Georg </hi>(2011): „Die Anwendung von Ontologien zur Wissensrepräsentation und -kommunikation im Bereich des Kulturellen Erbes” in: Schomburg, Silke u.a. (eds.): Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland. Köln: Hochschulbibliothekszentrum NRW 33-39.</bibl>
+                    <bibl ref="#bibl__51"><hi rend="bold">Hohmann, Georg / Schiemann, Bernhard </hi>(2013): „An Ontology-Based Communication System for Cultural Heritage. Approach and Progress of the WissKI Project” in: Hans Bock u.a. (eds.): Scientific Computing and Cultural Heritage. Berlin: Springer 127-135.</bibl>
+                    <bibl ref="#bibl__53"><hi rend="bold">Wissenschaftsrat </hi>(2011): 
                         <hi rend="italic">Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastrukturen</hi>. Berlin 
                         <ptr target="https://www.wissenschaftsrat.de/download/archiv/10464-11.pdf"/>) [letzter Zugriff 10.01.2018].
                     </bibl>

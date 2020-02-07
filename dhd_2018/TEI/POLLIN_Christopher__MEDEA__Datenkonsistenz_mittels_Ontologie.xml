@@ -103,20 +103,20 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__631"><hi rend="bold">Berners-Lee, Tim. </hi>(2000): Weaving the Web: The Past, Present and Future of the World Wide Web by Its Inventor. London.</bibl>
-                    <bibl ref="#bibl__632"><hi rend="bold">Bookkeeping Ontologie</hi>, 
+                    <bibl ref="#bibl__648"><hi rend="bold">Berners-Lee, Tim. </hi>(2000): Weaving the Web: The Past, Present and Future of the World Wide Web by Its Inventor. London.</bibl>
+                    <bibl ref="#bibl__649"><hi rend="bold">Bookkeeping Ontologie</hi>, 
                         <ref target="http://glossa.uni-graz.at/o:medea.1951/ONTOLOGY">http://glossa.uni-graz.at/o:medea.1951/ONTOLOGY</ref> [letzter Zugriff 21.09.2017].
                     </bibl>
-                    <bibl ref="#bibl__633"><hi rend="bold">Dentler, Kathrin / et al. </hi>(2011): Comparison of reasoners for large ontologies in the OWL 2 EL profile. Semantic Web 2.2, 71-87.</bibl>
-                    <bibl ref="#bibl__634"><hi rend="bold">MEDEA</hi>, 
+                    <bibl ref="#bibl__650"><hi rend="bold">Dentler, Kathrin / et al. </hi>(2011): Comparison of reasoners for large ontologies in the OWL 2 EL profile. Semantic Web 2.2, 71-87.</bibl>
+                    <bibl ref="#bibl__651"><hi rend="bold">MEDEA</hi>, 
                         <ref target="https://medea.hypotheses.org/">https://medea.hypotheses.org</ref> [letzter Zugriff 21.09.2017].
                     </bibl>
-                    <bibl ref="#bibl__635"><hi rend="bold">Musen, M.A. </hi>(2015): The Protégé project: A look back and a look forward. AI Matters. Association of Computing Machinery Specific Interest Group in Artificial Intelligence, DOI: 10.1145/2557001.25757003. </bibl>
-                    <bibl ref="#bibl__636"><hi rend="bold">Neuroth, Heike / et al. </hi>(2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Hülsbusch.</bibl>
-                    <bibl ref="#bibl__637"><hi rend="bold">Steffen, Henniche / et al. </hi>(2015): Reasoning with Reasoning. Using Faceted Browsers to Find Meaning in Linked Data. Berlin, 1-61, 
+                    <bibl ref="#bibl__652"><hi rend="bold">Musen, M.A. </hi>(2015): The Protégé project: A look back and a look forward. AI Matters. Association of Computing Machinery Specific Interest Group in Artificial Intelligence, DOI: 10.1145/2557001.25757003. </bibl>
+                    <bibl ref="#bibl__653"><hi rend="bold">Neuroth, Heike / et al. </hi>(2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Hülsbusch.</bibl>
+                    <bibl ref="#bibl__654"><hi rend="bold">Steffen, Henniche / et al. </hi>(2015): Reasoning with Reasoning. Using Faceted Browsers to Find Meaning in Linked Data. Berlin, 1-61, 
                         <ref target="https://lirias.kuleuven.be/handle/123456789/485851">https://lirias.kuleuven.be/handle/123456789/485851</ref>
                     </bibl>
-                    <bibl ref="#bibl__638"><hi rend="bold">Vogeler, Georg </hi>(2016): The Content of Accounts and Registers in their Digital Edition. XML/TEI, Spreadsheets, and Semantic Web Technologies, in: SARNOWSKY, Jürgen (Hg.): Konzeptionelle Überlegungen zur Edition von Rechnungen und Amtsbüchern des späten Mittelalters. Göttingen, 13-41.</bibl>
+                    <bibl ref="#bibl__655"><hi rend="bold">Vogeler, Georg </hi>(2016): The Content of Accounts and Registers in their Digital Edition. XML/TEI, Spreadsheets, and Semantic Web Technologies, in: SARNOWSKY, Jürgen (Hg.): Konzeptionelle Überlegungen zur Edition von Rechnungen und Amtsbüchern des späten Mittelalters. Göttingen, 13-41.</bibl>
                 </listBibl>
             </div>
       </back>

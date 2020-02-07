@@ -96,18 +96,18 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__252">Brantl, Markus, / Ceynowa, Klaus / Meiers, Thomas / Wolf, Thomas (2017): „Visuelle Suche in historischen Werken“, in: Datenbank Spektrum 17: 53–60.</bibl>
-                    <bibl ref="#bibl__253">Hathitrust Statistics and Visualizations: 
+                    <bibl ref="#bibl__2087">Brantl, Markus, / Ceynowa, Klaus / Meiers, Thomas / Wolf, Thomas (2017): „Visuelle Suche in historischen Werken“, in: Datenbank Spektrum 17: 53–60.</bibl>
+                    <bibl ref="#bibl__2088">Hathitrust Statistics and Visualizations: 
                         <ref target="https://www.hathitrust.org/statistics_visualizations">https://www.hathitrust.org/statistics_visualizations</ref> [letzter Zugriff 27.10.18].
                     </bibl>
-                    <bibl ref="#bibl__254">Malaspina, Matilde / Zhong, Yujie (2017): “Image-matching technology applied to Fifteenth-century printed book illustration”, in: Lettera Matematica 5: 287–292.</bibl>
-                    <bibl ref="#bibl__255">Ott, Norbert (1999): „Leitmedium Holzschnitt“, in: Die Buchkultur im 15. und 16. Jahrhundert 2, Hamburg: Maximilian-Gesellschaft 163–252.</bibl>
-                    <bibl ref="#bibl__256">Reul, Christian / Springmann, Uwe / Puppe, Frank (2017): “LAREX – A semi-automatic open-source Tool for Layout Analysis and Region Extraction on Early Printed Books”, in Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, ACM.</bibl>
-                    <bibl ref="#bibl__257">Speth, Sebastian (2017): Dimensionen narrativer Sinnstiftung im frühneuhochdeutschen Prosaroman. Textgeschichtliche Interpretation von ‚Fortunatus’ und ‚Herzog Ernst’, Berlin/Boston: De Gruyter.</bibl>
-                    <bibl ref="#bibl__258">The 15cBOOKTRADE Project: 
+                    <bibl ref="#bibl__2089">Malaspina, Matilde / Zhong, Yujie (2017): “Image-matching technology applied to Fifteenth-century printed book illustration”, in: Lettera Matematica 5: 287–292.</bibl>
+                    <bibl ref="#bibl__2090">Ott, Norbert (1999): „Leitmedium Holzschnitt“, in: Die Buchkultur im 15. und 16. Jahrhundert 2, Hamburg: Maximilian-Gesellschaft 163–252.</bibl>
+                    <bibl ref="#bibl__2091">Reul, Christian / Springmann, Uwe / Puppe, Frank (2017): “LAREX – A semi-automatic open-source Tool for Layout Analysis and Region Extraction on Early Printed Books”, in Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, ACM.</bibl>
+                    <bibl ref="#bibl__2092">Speth, Sebastian (2017): Dimensionen narrativer Sinnstiftung im frühneuhochdeutschen Prosaroman. Textgeschichtliche Interpretation von ‚Fortunatus’ und ‚Herzog Ernst’, Berlin/Boston: De Gruyter.</bibl>
+                    <bibl ref="#bibl__2093">The 15cBOOKTRADE Project: 
                         <ref target="http://15cbooktrade.ox.ac.uk/">http://15cbooktrade.ox.ac.uk/</ref> [letzter Zugriff 27.10.18].
                     </bibl>
-                    <bibl ref="#bibl__28">Web Annotation Data Model: 
+                    <bibl ref="#bibl__179">Web Annotation Data Model: 
                         <ref target="https://www.w3.org/TR/annotation-model/">https://www.w3.org/TR/annotation-model/</ref> [letzter Zugriff 27.10.18].
                     </bibl>
                 </listBibl>

@@ -188,40 +188,40 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__4">
+                    <bibl ref="#bibl__5">
                         <hi rend="bold">AG Datenzentren des DHd (Hg.)</hi> (2017): Stellungnahme der DHd AG Datenzentren und des DHd-Verbands zur Nationalen Forschungsdateninfrastruktur (NFDI), URL: 
                         <ref target="http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf">
                             <hi rend="underline">http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__590">
+                    <bibl ref="#bibl__607">
                         <hi rend="bold">Allianz der deutschen Wissenschaftsorganisationen (Hg.)</hi> (2010): Grundsätze zum Umgang mit Forschungsdaten, URL: 
                         <ref target="http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf">
                             <hi rend="underline">http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__591">
+                    <bibl ref="#bibl__608">
                         <hi rend="bold">DFG (Hg.)</hi> (2015): DFG-Leitlinien zum Umgang mit Forschungsdaten, Bonn 2015, 
                         <ref target="http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html">
                             <hi rend="underline">http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__592">
+                    <bibl ref="#bibl__609">
                         <hi rend="bold">Nestor (Hg.)</hi> (2016): Standardisierung, 2016, URL: 
                         <ref target="https://wiki.dnb.de/display/NESTOR/Standardisierung">
                             <hi rend="underline">https://wiki.dnb.de/display/NESTOR/Standardisierung</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__593">
+                    <bibl ref="#bibl__65">
                         <hi rend="bold">Neuroth, Heike / Oßwald, Achim / Scheffel, Regine / Strathmann, Stefan / Huth, Karsten (Hg.): </hi>nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchivierung. Version 2.3, Göttingen 2010, URL: 
                         <ref target="http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf">
                             <hi rend="underline">http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__594">
+                    <bibl ref="#bibl__610">
                         <hi rend="bold">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim / Scheffel, Regine / Klump, Jens / Ludwig, Jens (Hg.)</hi> (2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Boizenburg / Göttingen.
                     </bibl>
-                    <bibl ref="#bibl__595">
+                    <bibl ref="#bibl__611">
                         <hi rend="bold">OECD (Hg.)</hi> (2007): OECD Principles and Guidelines for Access to Research Data from Public Funding, Paris 2007, URL: 
                         <ref target="http://www.oecd.org/sti/sci-tech/38500813.pdf">
                             <hi rend="underline">http://www.oecd.org/sti/sci-tech/38500813.pdf</hi>
@@ -238,13 +238,13 @@
                             <hi rend="underline">https://www.hrk.de/positionen/beschluss/detail/management-von-forschungsdaten-eine-zentrale-strategische-herausforderung-fuer-hochschulleitungen/</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__5">
+                    <bibl ref="#bibl__6">
                         <hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.)</hi> (2016): Leistung aus Vielfalt, Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen, URL: 
                         <ref target="http://www.rfii.de/de/category/dokumente/">
                             <hi rend="underline">http://www.rfii.de/de/category/dokumente/</hi>
                         </ref> [letzter Zugriff 22. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__596">
+                    <bibl ref="#bibl__612">
                         <hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.) </hi>(2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls zur Zielstellung und Voraussetzungen für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), URL: 
                         <ref target="http://www.rfii.de/de/category/dokumente/">
                             <hi rend="underline">http://www.rfii.de/de/category/dokumente/</hi>

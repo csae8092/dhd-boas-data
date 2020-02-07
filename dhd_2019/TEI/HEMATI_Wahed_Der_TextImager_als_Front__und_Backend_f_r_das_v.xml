@@ -116,29 +116,29 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__292">
+                    <bibl style="text-align:left; " ref="#bibl__2083">
                         <hi rend="bold">de Castilho</hi>, 
                         <hi rend="bold">Richard Eckart / Gurevych Iryna,</hi> (2014): “A broad-coverage collection of portable NLP components for building shareable analysis pipelines”, in: 
                         <hi rend="italic">Proceedings of the Workshop on Open Infrastructures and Analysis Frameworks for HLT</hi> 1–11.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__30">
+                    <bibl style="text-align:left; " ref="#bibl__177">
                         <hi rend="bold">Ferrucci, David</hi>
                         <hi rend="bold">/ Lally, Adam</hi> (2004). “UIMA: an architectural approach to unstructured information processing in the corporate research environment.”, in: 
                         <hi rend="italic">Natural Language Engineering 10(3-4)</hi> 327–348.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__293">
+                    <bibl style="text-align:left; " ref="#bibl__2084">
                         <hi rend="bold">Gleim, Rüdiger / Mehler, Alexander / Ernst, Alexandra</hi> (2012): „SOA implementation of the ehumanities desktop”, in: 
                         <hi rend="italic">Proceedings of the Workshop on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts</hi>.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__294">
+                    <bibl style="text-align:left; " ref="#bibl__2085">
                         <hi rend="bold">Hemati, Wahed / Uslu, Tolga / Mehler, Alexander</hi> (2016): “Textimager: a distributed uima-based system for nlp”, in: 
                         <hi rend="italic">Proceedings of the COLING 2016 System Demonstrations. FederatedConference on Computer Science and Information Systems</hi>.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__33">
+                    <bibl style="text-align:left; " ref="#bibl__178">
                         <hi rend="bold">Manning, Christopher / Surdenu, Mihai / Bauer, John / Finkel, Jenny / Bethard, Steven / McClosky, David</hi> (2014): “The stanford CoreNLP natural language processing toolkit”, in: 
                         <hi rend="italic">Proceedings of 52nd annual meeting of the association for computational linguistics: system demonstrations</hi> 55–60.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__295">
+                    <bibl style="text-align:left; " ref="#bibl__2086">
                         <hi rend="bold">OpenNLP (</hi>2010): “Apache OpenNLP”, in: 
                         <ref target="http://opennlp.apache.org">http://opennlp.apache.org</ref> [letzter Zugriff 05. Oktober 2018]
                     </bibl>

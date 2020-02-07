@@ -147,33 +147,33 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__723">ImageMagick (2018): Convert, Edit, Or Compose Bitmap Images @ ImageMagick, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2161">ImageMagick (2018): Convert, Edit, Or Compose Bitmap Images @ ImageMagick, URL: 
                         <ref target="https://www.imagemagick.org/">https://www.imagemagick.org/</ref>, zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__724">MDZ (2018): Münchner DigitalisierungsZentrum, Bayerische Staatsbibliothek, München, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2162">MDZ (2018): Münchner DigitalisierungsZentrum, Bayerische Staatsbibliothek, München, URL: 
                         <ref target="https://www.digitale-sammlungen.de/">https://www.digitale-sammlungen.de/</ref>, zuletzt besucht am 12.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__725">ocropy (2018): Python-based tools for document analysis and OCR, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2163">ocropy (2018): Python-based tools for document analysis and OCR, URL: 
                         <ref target="https://github.com/tmbdev/ocropy">https://github.com/tmbdev/ocropy</ref>, zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__726">ScanTailor (2018): ScanTailor, 
+                    <bibl style="text-align:left; " ref="#bibl__2164">ScanTailor (2018): ScanTailor, 
                         <ref target="http://scantailor.org/">http://scantailor.org/</ref>, zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__727">Springman, Uwe (2015): Ocrosis. A high accuracy OCR method to convert early printings into digital text, Center for Information and Language Processing (CIS), Ludwig-Maximilians-University, Munich, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2165">Springman, Uwe (2015): Ocrosis. A high accuracy OCR method to convert early printings into digital text, Center for Information and Language Processing (CIS), Ludwig-Maximilians-University, Munich, URL: 
                         <ref target="http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm">http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm</ref> zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__728">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, zuletzt besucht am 10.10.2018.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__729">Vanderkam, Dan (2015): Extracting text from an image using Ocropus, URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, zuletzt besucht am 10.10.2018.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__730">VD (2018): Digitale Sammlungen des 16. bis 19. Jahrhunderts, Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle (Saale), URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2166">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, zuletzt besucht am 10.10.2018.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__2167">Vanderkam, Dan (2015): Extracting text from an image using Ocropus, URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, zuletzt besucht am 10.10.2018.</bibl>
+                    <bibl style="text-align:left; " ref="#bibl__2168">VD (2018): Digitale Sammlungen des 16. bis 19. Jahrhunderts, Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle (Saale), URL: 
                         <ref target="http://digitale.bibliothek.uni-halle.de/">http://digitale.bibliothek.uni-halle.de/</ref>, zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__731">VirtualBox (2018): Oracle VM VirtualBox, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2169">VirtualBox (2018): Oracle VM VirtualBox, URL: 
                         <ref target="https://www.virtualbox.org/">https://www.virtualbox.org/</ref>, zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__732">Ubuntu (2018): The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2170">Ubuntu (2018): The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu, URL: 
                         <ref target="https://www.ubuntu.com/">https://www.ubuntu.com/</ref>, zuletzt besucht am 14.10.2018.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__733">ZVDD (2018): Zentrales Verzeichnis Digitalisierter Drucke, Georg August Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Göttingen, URL: 
+                    <bibl style="text-align:left; " ref="#bibl__2171">ZVDD (2018): Zentrales Verzeichnis Digitalisierter Drucke, Georg August Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Göttingen, URL: 
                         <ref target="http://www.zvdd.de/">http://www.zvdd.de/</ref>, zuletzt besucht am 12.10.2018.
                     </bibl>
                 </listBibl>

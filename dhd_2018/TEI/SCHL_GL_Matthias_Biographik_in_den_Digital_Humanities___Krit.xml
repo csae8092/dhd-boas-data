@@ -194,7 +194,7 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__778">
+                    <bibl ref="#bibl__793">
                         <anchor xml:id="id_docs-internal-guid-b0c2a807-f5ef-626d-ec3e-ff3349eac417"/>
                         <hi rend="bold">Österreichisches Biographisches Lexikon 1815–1950</hi>. Wien: Böhlau Verlag, Verlag der Österreichischen Akademie der Wissenschaften, 1954ff.; Online-Ausgabe:
                         <ref target="http://www.biographien.ac.at/">
@@ -203,38 +203,38 @@
                             <hi rend="color(#1155cc)underline">www.biographien.ac.at</hi>
                         </ref>, Zugriff: 14.12.2017.
                     </bibl>
-                    <bibl ref="#bibl__779"><hi rend="bold">Haber, P. </hi>(2011): „Neue – digitale – Wege für die Geschichtswissenschaft?: Die Rückkehr der Zahlen und Daten“. In: 
+                    <bibl ref="#bibl__794"><hi rend="bold">Haber, P. </hi>(2011): „Neue – digitale – Wege für die Geschichtswissenschaft?: Die Rückkehr der Zahlen und Daten“. In: 
                         <hi rend="italic">Neue Zürcher Zeitung</hi>, 2.1.2011.
                     </bibl>
-                    <bibl ref="#bibl__780"><hi rend="bold">gral </hi>(2016): „Big Data in den Geschichtswissenschaften“. In:
+                    <bibl ref="#bibl__795"><hi rend="bold">gral </hi>(2016): „Big Data in den Geschichtswissenschaften“. In:
                         <hi rend="italic">Die Presse</hi>, 4.4.2016.
                     </bibl>
-                    <bibl ref="#bibl__781"><hi rend="bold">Russo, I.; Caselli, T.; Monachini, M. </hi>(2015): „Extracting and Visualising Biographical Events
+                    <bibl ref="#bibl__796"><hi rend="bold">Russo, I.; Caselli, T.; Monachini, M. </hi>(2015): „Extracting and Visualising Biographical Events
                         from Wikipedia“. In: S. ter Braake et al. (eds.),
                         <hi rend="italic">BD2015. Biographical Data in a Digital World 2015. Proceedings of the 1st Conference on Biographical Data in a Digital World</hi>, Amsterdam, 111–115.
                     </bibl>
-                    <bibl ref="#bibl__782"><hi rend="bold">Reinert, M.; Schrott, M.; Ebneth, B. et al. </hi>(2015): „From Biographies to Data Curation – The Making of www.deutsche-biographie.de“. In: S. ter Braake et al. (eds.),
+                    <bibl ref="#bibl__797"><hi rend="bold">Reinert, M.; Schrott, M.; Ebneth, B. et al. </hi>(2015): „From Biographies to Data Curation – The Making of www.deutsche-biographie.de“. In: S. ter Braake et al. (eds.),
                         <hi rend="italic">BD2015</hi>, 13–19.
                     </bibl>
-                    <bibl ref="#bibl__783"><hi rend="bold">Stotz, S.; Stuß, V.; Reinert M.; Schrott M. </hi>(2015): „Interpersonal Relations in Biographical Dictionaries. A Case Study“. In: Serge ter Braake et al. (eds.),
+                    <bibl ref="#bibl__798"><hi rend="bold">Stotz, S.; Stuß, V.; Reinert M.; Schrott M. </hi>(2015): „Interpersonal Relations in Biographical Dictionaries. A Case Study“. In: Serge ter Braake et al. (eds.),
                         <hi rend="italic">BD2015</hi>, 74–80.
                     </bibl>
-                    <bibl ref="#bibl__784"><hi rend="bold">Gruber, Ch.; Feigl, R. </hi>(2009): „Von der Karteikarte zum biografischen Informationsmanagementsystem: Neue Wege am Institut Österreichisches Biographisches Lexikon und biographische Dokumentation“. In: M. Schattkowsky, F. Metasch (eds.), 
+                    <bibl ref="#bibl__799"><hi rend="bold">Gruber, Ch.; Feigl, R. </hi>(2009): „Von der Karteikarte zum biografischen Informationsmanagementsystem: Neue Wege am Institut Österreichisches Biographisches Lexikon und biographische Dokumentation“. In: M. Schattkowsky, F. Metasch (eds.), 
                         <hi rend="italic">Biografische Lexika im Internet: Internationale Tagung der „Sächsischen Biografie“ in Dresden (30. und 31. Mai 2008)</hi>
                         , Bausteine aus dem Institut für Sächsische Geschichte und Volkskunde 14, Dresden, 55–75.
                     </bibl>
-                    <bibl ref="#bibl__785"><hi rend="bold">Reitterer, H. </hi>(1998): „Österreichisches Biographisches Lexikon und biographische Dokumentation“. In: Csendes P., Lebensaft E. (eds.),
+                    <bibl ref="#bibl__800"><hi rend="bold">Reitterer, H. </hi>(1998): „Österreichisches Biographisches Lexikon und biographische Dokumentation“. In: Csendes P., Lebensaft E. (eds.),
                         <hi rend="italic">Traditionelle und zukunftsorientierte Ansätze biographischer Forschung und Lexikographie</hi>
                         , ÖBL – Schriftenreihe 4, Wien, 42–46.
                     </bibl>
-                    <bibl ref="#bibl__786"><hi rend="bold">Obermayer-Marnach E. </hi>(1957): „Einleitung“. In:
+                    <bibl ref="#bibl__801"><hi rend="bold">Obermayer-Marnach E. </hi>(1957): „Einleitung“. In:
                         <hi rend="italic">Österreichisches Biographisches Lexikon 1815–1950</hi>, Bd. 1, X–XV.
                     </bibl>
-                    <bibl ref="#bibl__787"><hi rend="bold">Latzke W. </hi>(1960): „Österreichisches Biographisches Lexikon 1815–1950, Bd. 1. und 2.“. In:
+                    <bibl ref="#bibl__802"><hi rend="bold">Latzke W. </hi>(1960): „Österreichisches Biographisches Lexikon 1815–1950, Bd. 1. und 2.“. In:
                         <hi rend="italic">Archivalische Zeitschrift</hi>
                         56, 1960, 143–145.
                     </bibl>
-                    <bibl ref="#bibl__788"><hi rend="bold">Heindl, W.; Tichy, M, eds. </hi>(1993): „
+                    <bibl ref="#bibl__803"><hi rend="bold">Heindl, W.; Tichy, M, eds. </hi>(1993): „
                         <hi rend="italic">»Durch Erkenntnis zu Freiheit und Glück …«. Frauen an der Universität Wien (ab 1897)</hi>
                         , Schriftenreihe des Universitätsarchivs, Universität Wien 5, Wien.
                     </bibl>

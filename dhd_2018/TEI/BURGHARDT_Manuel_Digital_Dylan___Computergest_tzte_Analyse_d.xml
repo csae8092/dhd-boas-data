@@ -215,75 +215,75 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__603">
+                    <bibl ref="#bibl__620">
                         <hi rend="bold">American National Corpus Project</hi> (2015a): 
                         <hi rend="italic">American National Corpus. Frequency Data</hi>. http://www.anc.org/data/anc-second-release/frequency-data/ [Letzter Zugriff 10. März 2017].
                     </bibl>
-                    <bibl ref="#bibl__604">
+                    <bibl ref="#bibl__621">
                         <hi rend="bold">American National Corpus Project</hi> (2015b): 
                         <hi rend="italic">The Open American National Corpus (OANC)</hi>. http://www.anc.org/ [Letzter Zugriff 10. März 2017].
                     </bibl>
-                    <bibl ref="#bibl__605">
+                    <bibl ref="#bibl__622">
                         <hi rend="bold">Brown, Donald</hi> (2014): 
                         <hi rend="italic">Bob Dylan: American troubadour</hi>. Lanham, Md. [u.a.]: Rowman &amp; Littlefield.
                     </bibl>
-                    <bibl ref="#bibl__606">
+                    <bibl ref="#bibl__623">
                         <hi rend="bold">Cott, Jonathan</hi> (2006): 
                         <hi rend="italic">Bob Dylan, the essential interviews</hi>. New York: Wenner Books.
                     </bibl>
-                    <bibl ref="#bibl__607">
+                    <bibl ref="#bibl__624">
                         <hi rend="bold">Derczynski, Leon et al.</hi> (2013): "Twitter part-of-speech tagging for all: Overcoming sparse and noisy data", in: 
                         <hi rend="italic">Proceedings of the Recent Advances in Natural Language Processing</hi> September, 198–206. http://www.derczynski.com/sheffield/papers/twitter_pos.pdf [Letzter Zugriff 9. März 2017].
                     </bibl>
-                    <bibl ref="#bibl__608">
+                    <bibl ref="#bibl__625">
                         <hi rend="bold">Dylan, Bob</hi> (2016): 
                         <hi rend="italic">The lyrics: 1961-2012</hi>. New York: Simon &amp; Schuster.
                     </bibl>
-                    <bibl ref="#bibl__609">
+                    <bibl ref="#bibl__626">
                         <hi rend="bold">Evert, Stefan</hi> (2005): "The Statistics of Word Cooccurrences, Word Pairs and Collocations", in: 
                         <hi rend="italic">Unpublished doctoral dissertation Institut fur maschinelle Sprachverarbeitung Universitat Stuttgart</hi> 98: August 2004, 353. http://en.scientificcommons.org/19948039 [Letzter Zugriff 3. März 2017].
                     </bibl>
-                    <bibl ref="#bibl__610">
+                    <bibl ref="#bibl__627">
                         <hi rend="bold">Fell, Michael / Sporleder, Caroline </hi>(2014): "Lyrics-based Analysis and Classification of Music", in: 
                         <hi rend="italic">International Conference on Computational Linguistics</hi> 25: 23–29, 620–631.
                     </bibl>
-                    <bibl ref="#bibl__611">
+                    <bibl ref="#bibl__628">
                         <hi rend="bold">Geisel, Sieglinde</hi> (2016): 
                         <hi rend="italic">Bob Dylan - Literaturnobelpreisträger wider Willen</hi>. Deutschlandradio Kultur. http://www.deutschlandradiokultur.de/bob-dylan-literaturnobelpreistraeger-wider-willen.1005.de.html?dram:article_id=373494 [Letzter Zugriff 7. März 2017].
                     </bibl>
-                    <bibl ref="#bibl__63">
+                    <bibl ref="#bibl__68">
                         <hi rend="bold">Rayson, Paul / Garside, Roger </hi>(2000): "Comparing corpora using frequency profiling", in: 
                         <hi rend="italic">Proceedings of the workshop on Comparing Corpora</hi> 1–6.
                     </bibl>
-                    <bibl ref="#bibl__612">
+                    <bibl ref="#bibl__629">
                         <hi rend="bold">Rayson, Paul / Berridge, Damon / Francis, Brian </hi>(2004): "Extending the Cochran rule for the comparison of word frequencies between corpora", in: 
                         <hi rend="italic">JADT 2004: 7es Journées internationales d’Analyse statistique des Données Textuelles:</hi> 1–12.
                     </bibl>
-                    <bibl ref="#bibl__613">
+                    <bibl ref="#bibl__630">
                         <hi rend="bold">Schmidt, Mathias R.</hi> (1983): 
                         <hi rend="italic">Bob Dylan und die sechziger Jahre: Aufbruch und Abkehr</hi>. Frankfurt am Main: Fischer Taschenbuch Verlag.
                     </bibl>
-                    <bibl ref="#bibl__614">
+                    <bibl ref="#bibl__631">
                         <hi rend="bold">Sippl, Colin / Burghardt, Manuel / Wolff, Christian / Mielke, Bettina </hi>(2016): Korpusbasierte Analyse österreichischer Parlamentsreden. In: 
                         <hi rend="italic">Netzwerke: Tagungsband des 19. Int. Rechtsinformatik Symposions IRIS 2016: 25.- 7. Feb. 2016, Univ. Salzburg, S. 139-148.</hi>
                     </bibl>
-                    <bibl ref="#bibl__615">
+                    <bibl ref="#bibl__632">
                         <hi rend="bold">Suzuki, Takafumi / Hosoya, Mai </hi>(2014): "Computational Stylistic Analysis of Popular Songs of Japanese Female Singer-songwriters", in: 
                         <hi rend="italic">Digital Humanities Quarterly</hi> 8: 1, .
                     </bibl>
-                    <bibl ref="#bibl__616">
+                    <bibl ref="#bibl__633">
                         <hi rend="bold">Svenska Akademien</hi> (2016): 
                         <hi rend="italic">Der Nobelpreis in Literatur des Jahres 2016</hi>.
                     </bibl>
-                    <bibl ref="#bibl__617">
+                    <bibl ref="#bibl__634">
                         <hi rend="bold">Taylor, Jeff / Israelson, Chad </hi>(2015): 
                         <hi rend="italic">The Political World of Bob Dylan: Freedom and Justice, Power and Sin</hi>. New York: Palgrave Macmillan.
                     </bibl>
-                    <bibl ref="#bibl__618">
+                    <bibl ref="#bibl__635">
                         <hi rend="bold">Toutanova, Kristina / Klein, Dan / Manning, Christopher D </hi>(2003): "Feature-rich part-of-speech tagging with a cyclic dependency network", in: 
                         <hi rend="italic">Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics on Human Language Technology - Volume 1 (NAACL ’03),</hi> 252–259. http://nlp.stanford.edu/~manning/papers/tagging.pdf [Letzter Zugriff 3. März 2017].
                     </bibl>
-                    <bibl ref="#bibl__619">
+                    <bibl ref="#bibl__636">
                         <hi rend="bold">Wissolik, Richard David / McGrath, Scott. / Colaianne, A. J. </hi>(1994): 
                         <hi rend="italic">Bob Dylan’s words: a critical dictionary and commentary</hi>. Greensburg, PA: Eadmer Press.
                     </bibl>

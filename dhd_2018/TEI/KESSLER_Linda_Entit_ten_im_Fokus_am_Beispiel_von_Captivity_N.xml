@@ -129,12 +129,12 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__24"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): “An End-to-end Environment for Research Question-Driven Entity Extraction and Network Analysis”, in: 
+                    <bibl ref="#bibl__26"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): “An End-to-end Environment for Research Question-Driven Entity Extraction and Network Analysis”, in: 
                         <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, 57–67, Vancouver, Canada. Association for Computational Linguistics.
                     </bibl>
-                    <bibl ref="#bibl__662"><hi rend="bold">Jannidis, Fotis / Krug, Markus / Toepfer, Martin / Puppe, Frank / Reger, Isabelle / Weimer, Lukas </hi>(2015): “Automatische Erkennung von Figuren in deutschsprachigen Romanen“. Abstract für die DHd 2015 in Graz.</bibl>
-                    <bibl ref="#bibl__663"><hi rend="bold">Kuhn, Jonas / Alexiadou, Artemis / Braun, Manuel / Ertl, Thomas / Holtz, Sabine / Kantner, Catleen, . . . Zittel, Claus </hi>(2016): “CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities“. Abstract für die DHd 2016 in Leipzig.</bibl>
-                    <bibl ref="#bibl__664"><hi rend="bold">Nadeau, David / Sekine, Satoshi </hi>(2007): “A survey of named entity recognition and classification. 
+                    <bibl ref="#bibl__679"><hi rend="bold">Jannidis, Fotis / Krug, Markus / Toepfer, Martin / Puppe, Frank / Reger, Isabelle / Weimer, Lukas </hi>(2015): “Automatische Erkennung von Figuren in deutschsprachigen Romanen“. Abstract für die DHd 2015 in Graz.</bibl>
+                    <bibl ref="#bibl__680"><hi rend="bold">Kuhn, Jonas / Alexiadou, Artemis / Braun, Manuel / Ertl, Thomas / Holtz, Sabine / Kantner, Catleen, . . . Zittel, Claus </hi>(2016): “CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities“. Abstract für die DHd 2016 in Leipzig.</bibl>
+                    <bibl ref="#bibl__681"><hi rend="bold">Nadeau, David / Sekine, Satoshi </hi>(2007): “A survey of named entity recognition and classification. 
                         <hi rend="italic">Linguisticae Investigationes”</hi>, 
                         <hi rend="italic">30</hi>, 3-26.
                     </bibl>

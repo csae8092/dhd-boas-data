@@ -102,40 +102,40 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__123">
+                    <bibl ref="#bibl__2876">
                         <hi rend="bold">Bartz, Gabriele / Gneiß, Markus</hi> (2018) (eds.): 
                         <hi rend="italic">Illuminierte Urkunden. Beiträge aus Diplomatik, Kunstgeschichte und Digital Humanities/Illuminated Charters</hi>. Essays from Diplomatic, Art History and Digital Humanities (= Archiv für Diplomatik, Schriftgeschichte, Siegel-und Wappenkunde 16), Wien: Böhlau Verlag.
                     </bibl>
-                    <bibl ref="#bibl__124">
+                    <bibl ref="#bibl__2877">
                         <hi rend="bold" style="font-size:12pt">Carretero-Campos, Concepcion / Bernaola-Galvan, Pedro / Coronado Jiménez, Ana Victoria / Carpena, Pedro</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2013): “Improving statistical keyword detection in short texts: Entropic and clustering approaches” in: Physica A 392: 1481-1492.</hi>
                     </bibl>
-                    <bibl ref="#bibl__125">
+                    <bibl ref="#bibl__2878">
                         <hi rend="bold" style="font-size:12pt">Herrera, Juan P. / Pury, Pedro A.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2008): “Statistical keyword detection in literary corpora” in: The European Physical Journal B 63/1: 135-146.</hi>
                     </bibl>
-                    <bibl ref="#bibl__126">
+                    <bibl ref="#bibl__2879">
                         <hi rend="bold" style="font-size:12pt">Jamaati, Maryam / Mehri, Ali</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2018): “Text mining by Tsallis entropy” in: Physica A 490: 1368-1376.</hi>
                     </bibl>
-                    <bibl ref="#bibl__127">
+                    <bibl ref="#bibl__2880">
                         <hi rend="bold" style="font-size:12pt">Perreaux, Nicolas</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2014): “De l’accumulation à l’exploitation? Expériences et propositions pour l’indexation et l’utilisation des bases de données diplomatiques“ in: Ambrosio/Barret/Vogeler (eds.) </hi>Digital diplomatics. The computer as a tool for the diplomatist? (= Archiv für Diplomatik Beihefte 14), Köln/Weimar/Wien
                         <hi style="font-size:12pt">: Böhlau Verlag 187-210.</hi>
                     </bibl>
-                    <bibl ref="#bibl__128">
+                    <bibl ref="#bibl__2881">
                         <hi rend="bold" style="font-size:12pt">Roland, Martin / Zajic, Andreas</hi>
                         <hi style="font-size:12pt"> (2013): “Illuminierte Urkunden des Mittelalters in Mitteleuropa“ in: Archiv für Diplomatik 59: 241-432.</hi>
                     </bibl>
-                    <bibl ref="#bibl__129">
+                    <bibl ref="#bibl__2882">
                         <hi rend="bold" style="font-size:12pt" xml:space="preserve">Shannon, Claude Elwood / Weaver, </hi>
                         <hi style="font-size:12pt">Warren (1963): “The Mathematical Theory of Communication” Champaign: Illinois University Press.</hi>
                     </bibl>
-                    <bibl ref="#bibl__130">
+                    <bibl ref="#bibl__2883">
                         <hi rend="bold" style="font-size:12pt">Tilahun, Gelila / Feuerverger, Andrey / Gervers, Michael</hi>
                         <hi style="font-size:12pt"> (2012): “Dating Medieval English Charters“ in: The Annals of Applied Statistics 6/4: 1615-1640.</hi>
                     </bibl>
-                    <bibl ref="#bibl__131">
+                    <bibl ref="#bibl__2884">
                         <hi rend="bold" style="font-size:12pt">Zhou, H. / Slater, G.W.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2003): „A metric to search for relevant words” in: Physica A 329 (2003) 309–327.</hi>
                     </bibl>

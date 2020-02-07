@@ -129,36 +129,36 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__891">
+                    <bibl ref="#bibl__903">
                         <hi rend="bold">Büttner, Nils </hi>(2014):
                         <hi rend="italic">Einführung in die frühneuzeitliche Ikonographie. Darmstadt: Wissenschaftliche Buchgesellschaft.</hi>
                     </bibl>
-                    <bibl ref="#bibl__892">
+                    <bibl ref="#bibl__904">
                         <hi rend="bold">Doerr, Martin / Lampe, Karl-Heinz / Krause, Siegfried </hi>(2011):
                         <hi rend="italic">Definition des CIDOC Conceptual Reference Model Version 5.0.1</hi>.; autor. durch die CIDOC CRM Special Interest Group (SIG) (= Beiträge zur Museologie 1). Berlin: ICOM Deutschland.
                     </bibl>
-                    <bibl ref="#bibl__45">
+                    <bibl ref="#bibl__49">
                         <hi rend="bold">Görz, Günther </hi>(2011): „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung” in: 
                         <hi rend="italic">Kunstgeschichte, Open Peer Reviewed Journal</hi>, urn:nbn:de:bvb:355-kuge-167-7 [letzter Zugriff 10.01.2018].
                     </bibl>
-                    <bibl ref="#bibl__46">
+                    <bibl ref="#bibl__50">
                         <hi rend="bold">Hohmann, Georg </hi>(2011): „Die Anwendung von Ontologien zur Wissensrepräsentation und -kommunikation im Bereich des Kulturellen Erbes” in: Schomburg, Silke u.a. (eds.): 
                         <hi rend="italic">Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland</hi>. Köln: Hochschulbibliothekszentrum NRW 33-39.
                     </bibl>
-                    <bibl ref="#bibl__47">
+                    <bibl ref="#bibl__51">
                         <hi rend="bold">Hohmann, Georg / Schiemann, Bernhard </hi>(2013): „An Ontology-Based Communication System for Cultural Heritage. Approach and Progress of the WissKI Project in: Hans Bock u.a. (eds.): 
                         <hi rend="italic">Scientific Computing and Cultural Heritage</hi>. Berlin: Springer 127-135.
                     </bibl>
-                    <bibl ref="#bibl__893">
+                    <bibl ref="#bibl__52">
                         <hi rend="bold">Hohmann, Georg / Fichtner, Mark </hi>(2015): „Chancen und Herausforderungen in der praktischen Anwendung von Ontologien für das Kulturerbe" in: Robertson – von Trotta, Caroline Y. / Schneider, Ralf Y. (eds.): 
                         <hi rend="italic">Digitales Kulturerbe</hi>. 
                         <hi rend="italic">Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis</hi>. (= Kulturelle Überlieferung – digital 2). Karlsruhe: KIT Scientific Publishing 115-128.
                     </bibl>
-                    <bibl ref="#bibl__85">
+                    <bibl ref="#bibl__92">
                         <hi rend="bold">Sahle, Patrick </hi>(2013a): 
                         <hi rend="italic">Digitale Editionsformen - Teil 1: Das typografische Erbe: Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. </hi>Norderstedt: BoD.
                     </bibl>
-                    <bibl ref="#bibl__85">
+                    <bibl ref="#bibl__92">
                         <hi rend="bold">Sahle, Patrick </hi>(2013b): 
                         <hi rend="italic">Digitale Editionsformen – Teil 2: Befunde, Theorie und Methodik. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. </hi>Norderstedt: BoD.
                     </bibl>

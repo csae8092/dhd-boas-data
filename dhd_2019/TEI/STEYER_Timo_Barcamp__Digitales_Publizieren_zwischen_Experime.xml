@@ -219,11 +219,11 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__24">
+                    <bibl ref="#bibl__182">
                         <hi rend="bold" style="font-size:10pt">Degkwitz, Andreas</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2015): “Enhanced Publications Exploit the Potential of Digital Media”, in: Evolving Genres of ETDs for Knowledge Discovery. Proceedings of ETD 2015 18th International Symposium on Electronic Theses and Dissertations 51-59.</hi>
                     </bibl>
-                    <bibl ref="#bibl__25">
+                    <bibl ref="#bibl__2374">
                         <hi rend="bold" style="font-size:10pt">DHd-Arbeitsgruppe</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2016): "Digitales Publizieren", in: DHd-Arbeitsgruppe (eds.): Working Paper "Digitales Publizieren" </hi>
                         <ref target="http://diglib.hab.de/ejournals/ed000008/startx.htm">
@@ -231,7 +231,7 @@
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff: 21.09.2018]</hi>
                     </bibl>
-                    <bibl ref="#bibl__12">
+                    <bibl ref="#bibl__175">
                         <hi rend="bold" style="font-size:10pt">Dogunke, Swantje / Steyer, Timo / Mayer, Corinna</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2018): "Barcamp Data and Demons: von Bestands- und Forschungsdaten zu Services. Treffen sich ein Bibliothekar, eine Archäologin, ein Informatiker, …", in: LIBREAS. Library Ideas 33 </hi>
                         <ref target="https://libreas.eu/ausgabe33/dogunke/">
@@ -239,19 +239,19 @@
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff: 21.09.2018].</hi>
                     </bibl>
-                    <bibl ref="#bibl__1119">
+                    <bibl ref="#bibl__2375">
                         <hi rend="bold" style="font-size:10pt" xml:space="preserve">Fitzpatrick, Kathleen </hi>
                         <hi style="font-size:10pt" xml:space="preserve">(2011): Planned Obsolescence Publishing, Technology, and the Future of the Academy. New York: New York Univ. Press. </hi>
                     </bibl>
-                    <bibl ref="#bibl__1120">
+                    <bibl ref="#bibl__2376">
                         <hi rend="bold" style="font-size:10pt" xml:space="preserve">Herb, Ulrich </hi>
                         <hi style="font-size:10pt">(2012): “Offenheit und wissenschaftliche Werke: Open Access, Open Review, Open Metrics, Open Science &amp; Open Knowledge”, in: Herb, Ulrich (eds): Open Initiatives: Offenheit in der digitalen Welt und Wissenschaft. Saarbrücken Universaar 11-44.</hi>
                     </bibl>
-                    <bibl ref="#bibl__1">
+                    <bibl ref="#bibl__107">
                         <hi rend="bold" style="font-size:10pt">Kohle, Hubertus</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2017): “Digitales Publizieren” in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler Verlag 199-205.</hi>
                     </bibl>
-                    <bibl ref="#bibl__26">
+                    <bibl ref="#bibl__183">
                         <hi rend="bold" style="font-size:10pt">Maciocci, Giuliano</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2017): "Designing Progressive Enhancement Into The Academic Manuscript: Considering a design strategy to accommodate interactive research articles", in: Blogpost auf eLife Sciences</hi>
                         <ref target="https://elifesciences.org/labs/e5737fd5/designing-progressive-enhancement-into-the-academic-manuscript">
@@ -259,7 +259,7 @@
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff: 21.09.2018].</hi>
                     </bibl>
-                    <bibl ref="#bibl__1121">
+                    <bibl ref="#bibl__2377">
                         <hi rend="bold" style="font-size:10pt">Penfold, Naomi</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2017): "Reproducible Document Stack – supporting the next-generation research article", in: Blogpost auf eLife Sciences</hi>
                         <ref target="https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article">
@@ -267,7 +267,7 @@
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff: 21.09.2018].</hi>
                     </bibl>
-                    <bibl ref="#bibl__1122">
+                    <bibl ref="#bibl__2378">
                         <hi rend="bold color(222222)" style="font-family:Roboto;font-size:10pt">SoSciSo Redaktion</hi>
                         <hi rend="color(222222)" style="font-family:Roboto;font-size:10pt" xml:space="preserve"> (2017): "Kollaboratives Schreiben mit webbasierten Programmen", in: Blogpost auf Social Science Software  </hi>
                         <ref target="https://www.sosciso.de/de/2017/kollaboratives-schreiben/">
@@ -275,7 +275,7 @@
                         </ref>
                         <hi style="font-size:10pt">[letzter Zugriff: 21.09.2018].</hi>
                     </bibl>
-                    <bibl ref="#bibl__1123">
+                    <bibl ref="#bibl__2379">
                         <hi rend="bold" style="font-size:10pt">W3C</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2017): "W3C Data Activity. Building the Web of Data" </hi>
                         <ref target="https://www.w3.org/2013/data/">

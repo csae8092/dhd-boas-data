@@ -269,66 +269,66 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1155">
+                    <bibl ref="#bibl__1158">
                         <hi rend="bold">Afros, Elena / Schryer, Catherine F.</hi> (2009): „Promotional (meta)discourse in research articles in language and literary studies“, in: 
                         <hi rend="italic">English for Specific Purposes</hi>. 28 (1), 58–68, doi: 10.1016/j.esp.2008.09.001.
                     </bibl>
-                    <bibl ref="#bibl__1156">
+                    <bibl ref="#bibl__1159">
                         <hi rend="bold">Andresen, Melanie / Zinsmeister, Heike</hi> (2017): „Approximating Style by N-gram-based Annotation“, in: 
                         <hi rend="italic">Proceedings of the Workshop on Stylistic Variation</hi>. Copenhagen, Denmark: Association for Computational Linguistics 105–115.
                     </bibl>
-                    <bibl ref="#bibl__1157">
+                    <bibl ref="#bibl__1160">
                         <hi rend="bold">Biber, Douglas / Conrad, Susan / Cortes, Viviana</hi> (2004): „If you look at…: Lexical bundles in university teaching and textbooks“, in: 
                         <hi rend="italic">Applied linguistics</hi>. 25 (3), 371–405.
                     </bibl>
-                    <bibl ref="#bibl__1158">
+                    <bibl ref="#bibl__1161">
                         <hi rend="bold">Bohnet, Bernd</hi> (2010): „Very High Accuracy and Fast Dependency Parsing is not a Contradiction“, in: 
                         <hi rend="italic">Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010)</hi>. Beijing, China.
                     </bibl>
-                    <bibl ref="#bibl__106">
+                    <bibl ref="#bibl__119">
                         <hi rend="bold">Eder, Maciej / Rybicki, Jan / Kestemont, Mike</hi> (2016): Stylometry with R: A Package for Computational Text Analysis. The R Journal 8(1). 107–121.
                     </bibl>
-                    <bibl ref="#bibl__1159">
+                    <bibl ref="#bibl__1162">
                         <hi rend="bold">Goldberg, Yoav / Orwant, Jon</hi> (2013): „A Dataset of Syntactic-Ngrams over Time from a Very Large Corpus of English Books“, in: 
                         <hi rend="italic">Second Joint Conference on Lexical and Computational Semantics (*SEM), Volume 1: Proceedings of the Main Conference and the Shared Task: Semantic Textual Similarity</hi>. Atlanta, Georgia, USA. 241–247.
                     </bibl>
-                    <bibl ref="#bibl__1160">
+                    <bibl ref="#bibl__1163">
                         <hi rend="bold">Graefen, Gabriele</hi> (1999): „Wie formuliert man wissenschaftlich?“, in: Barkowski, Hans; Wolff, Armin (Hrsg.) 
                         <hi rend="italic">Alternative Vermittlungsmethoden und Lernformen auf dem Prüfstand. Wissenschaftssprache - Fachsprache. Landeskunde aktuell. Interkulturelle Begegnungen - interkulturelles Lernen</hi>. Regensburg: Fachverband Deutsch als Fremdsprache (Materialien Deutsch als Fremdsprache), 222–239.
                     </bibl>
-                    <bibl ref="#bibl__1161">
+                    <bibl ref="#bibl__1164">
                         <hi rend="bold">Haggan, Madeline</hi> (2004): „Research paper titles in literature, linguistics and science: dimensions of attraction“, in: 
                         <hi rend="italic">Journal of Pragmatics</hi>. 36 (2), 293–317, doi: 10.1016/S0378-2166(03)00090-0.
                     </bibl>
-                    <bibl ref="#bibl__1162">
+                    <bibl ref="#bibl__1165">
                         <hi rend="bold">Jurafsky, Dan / Martin, James H.</hi> (2009): 
                         <hi rend="italic">Speech and language processing: An introduction to natural language processing, computational linguistics, and speech recognition</hi>. 2. Aufl. Upper Saddle River, London: Pearson (Prentice Hall series in artificial intelligence).
                     </bibl>
-                    <bibl ref="#bibl__1163">
+                    <bibl ref="#bibl__1166">
                         <hi rend="bold">Lijffijt, Jefrey / Nevalainen, Terttu / Säily, Tanja / Papapetrou, Panagiotis / Puolamäki, Kai / Mannila, Heikki</hi> (2014): „Significance testing of word frequencies in corpora“, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi>. 1–24, doi: 10.1093/llc/fqu064.
                     </bibl>
-                    <bibl ref="#bibl__1164">
+                    <bibl ref="#bibl__1167">
                         <hi rend="bold">Mahlberg, Michaela</hi> (2013): 
                         <hi rend="italic">Corpus stylistics and Dickens’s fiction</hi>. New York: Routledge (Routledge advances in corpus linguistics).
                     </bibl>
-                    <bibl ref="#bibl__1165">
+                    <bibl ref="#bibl__1168">
                         <hi rend="bold">Paquot, Magali / Bestgen, Yves</hi> (2009): „Distinctive words in academic writing: A comparison of three statistical tests for keyword extraction“, in: Jucker, Andreas H.; Schreier, Daniel; Hundt, Marianne (Hrsg.) 
                         <hi rend="italic">Corpora: Pragmatics and Discourse</hi>. Brill 247–269, doi: 10.1163/9789042029101_014.
                     </bibl>
-                    <bibl ref="#bibl__1166">
+                    <bibl ref="#bibl__1169">
                         <hi rend="bold">Scharloth, Joachim / Bubenhofer, Noah</hi> (2012): „Datengeleitete Korpuspragmatik. Korpusvergleich als Methode der Stilanalyse“, in: Felder, Ekkehard; Müller, Marcus; Vogel, Friedemann (Hrsg.) 
                         <hi rend="italic">Korpuspragmatik: thematische Korpora als Basis diskurslinguistischer Analysen</hi>. Berlin [u.a.]: De Gruyter (Linguistik - Impulse &amp; Tendenzen), 195–230.
                     </bibl>
-                    <bibl ref="#bibl__107">
+                    <bibl ref="#bibl__120">
                         <hi rend="bold">Schiller, Anne / Teufel, Simone / Thielen, Christine / Stöckert, Christine</hi> (1999): 
                         <hi rend="italic">Guidelines für das Tagging deutscher Textcorpora mit STTS (kleines und großes Tagset)</hi>. Stuttgart, Tübingen. http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf [letzter Zugriff am 11.01.2018].
                     </bibl>
-                    <bibl ref="#bibl__1167">
+                    <bibl ref="#bibl__1170">
                         <hi rend="bold">Seeker, Wolfgang / Kuhn, Jonas</hi> (2012): „Making Ellipses Explicit in Dependency Conversion for a German Treebank“, in: 
                         <hi rend="italic">Proceedings of the 8th International Conference on Language Resources and Evaluation</hi>. Istanbul, Turkey 3132–3139.
                     </bibl>
-                    <bibl ref="#bibl__1168">
+                    <bibl ref="#bibl__1171">
                         <hi rend="bold">Sidorov, Grigori / Velasquez, Francisco / Stamatatos, Efstathios / Gelbukh, Alexander / Chanona-Hernández, Liliana</hi> (2012): „Syntactic Dependency-Based N-grams as Classification Features“, in: Batyrshin, Ildar; Mendoza, Miguel González (Hrsg.) 
                         <hi rend="italic">Advances in Computational Intelligence</hi>. Springer (Lecture Notes in Computer Science), 1–11, doi: 10.1007/978-3-642-37798-3_1.
                     </bibl>

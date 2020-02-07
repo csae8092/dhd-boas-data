@@ -148,31 +148,31 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__277">
+                    <bibl style="text-align:left; " ref="#bibl__2945">
                         <hi rend="bold">Eckart de Castilho, Richard / Biemann, Chris / Gurevych, Iryna / Yiman, Seid Muhie</hi> (2014): “WebAnno: a flexible, web-based annotation tool for CLARIN”, in: 
                         <hi rend="italic">Proceedings of the CLARIN Annual Conference 2014</hi> 1-3.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__30">
+                    <bibl style="text-align:left; " ref="#bibl__177">
                         <hi rend="bold">Ferrucci, David / Lally, Adam</hi> (2004): “UIMA: An Architectural Approach to Unstructured Information Processing in the Corporate Research Environment”, in: 
                         <hi rend="italic">Natural Language Engineering</hi>, 10(3–4): 327-348.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__278">
+                    <bibl style="text-align:left; " ref="#bibl__2946">
                         <hi rend="bold">Remus, Steffen / Hedeland, Hanna / Ferger, Anne / Bührig, Kristin / Biemann, Chris</hi> (2018): “WebAnno meets EXMARaLDA”, in: 
                         <hi rend="italic">Selected papers from the CLARIN Annual Conference 2018, Pisa, 8–10 October 2018</hi>. Linköping: University Electronic Press.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__279">
+                    <bibl style="text-align:left; " ref="#bibl__2947">
                         <hi rend="bold">Schmidt, Thomas / Wörner, Kai</hi> (2014): “EXMARaLDA“, in: Durand, Jacques / Gut, Ulrike / Kristoffersen, Gjert (eds.): 
                         <hi rend="italic">Handbook on Corpus Phonology</hi>. Oxford: University Press 402-419.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__280">
+                    <bibl style="text-align:left; " ref="#bibl__2948">
                         <hi rend="bold">Schmidt, Thomas / Hedeland, Hanna / Jettka, Daniel</hi> (2017): “Conversion and annotation web services for spoken language data in CLARIN”, in: 
                         <hi rend="italic">Selected papers from the CLARIN Annual Conference 2016, Aix-en-Provence, 26–28 October 2016</hi>. Linköping: University Electronic Press 113–130.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__281">
+                    <bibl style="text-align:left; " ref="#bibl__2949">
                         <hi rend="bold">Sloetjes, Han</hi> (2014): “ELAN: Multimedia annotation application”, in: Durand, Jacques / Gut, Ulrike / Kristoffersen, Gjert (eds.): 
                         <hi rend="italic">Handbook on Corpus Phonology</hi>. Oxford: University Press 305–320.
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__282">
+                    <bibl style="text-align:left; " ref="#bibl__116">
                         <hi rend="bold">Yimam, Seid Muhie / Gurevych, Iryna / Eckart de Castilho, Richard / Biemann, Chris</hi> (2013): "WebAnno: A flexible, web-based and visually supported system for distributed annotations”, in: 
                         <hi rend="italic">Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics: System Demonstrations</hi>, Sofia, Bulgaria 1-6.
                     </bibl>

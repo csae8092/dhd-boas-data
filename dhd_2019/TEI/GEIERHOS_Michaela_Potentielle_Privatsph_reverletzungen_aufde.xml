@@ -125,25 +125,25 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left;" ref="#bibl__226">
+                    <bibl style="text-align:left;" ref="#bibl__2385">
                         <hi rend="bold">Kleinberg, Bennet / Mozes, Maximilian</hi> (2017): Web-based text anonymization with Node.js: Introducing NETANOS (Named entity-based Text Anonymization for Open Science). The Journal of Open Source Software.
                     </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__227">
+                    <bibl style="text-align:left;" ref="#bibl__2386">
                         <hi rend="bold">Dias, Francesco</hi> (2016): Multilingual Automated Text Anonymization. Inst. Superior Técnico of Lisboa, Lissabon, Portugal.
                     </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__228">
+                    <bibl style="text-align:left;" ref="#bibl__2387">
                         <hi rend="bold">Bäumer, Frederik S. / Geierhos, Michaela / Schulze, Sabine</hi> (2015): A System for Uncovering Latent Connectivity of Health Care Providers in Online Reviews. In Dregvaite, Giedre / Damaševičius, Robertas (Hsg.), Communications in Computer and Information Science: Band 538. ICIST 2015, Litauen, Oktober 15-16, 2015. Proceedings (S. 3–15). Cham, Schweiz: Springer International.
                     </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__229">
+                    <bibl style="text-align:left;" ref="#bibl__2388">
                         <hi rend="bold" xml:space="preserve">Bäumer, Frederik / Grote, Nicolai / Kersting, Joschka / Geierhos, Michaela </hi>(2017): Privacy Matters: Detecting Nocuous Patient Data Exposure in Online Physician Reviews. In Damaševičius, Robertas &amp; Mikašytė, Vilma (Hsg.), Communications in Computer and Information Science: Band 756. ICIST 2017, Litauen, 12.-14. Oktober 2017, Proceedings (S. 77–89). Cham, Schweiz: Springer International.
                     </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__230">
+                    <bibl style="text-align:left;" ref="#bibl__2389">
                         <hi rend="bold">Sweeney, Latanya</hi> (1996): Replacing personally-identifying information in medical records, the Scrub system. Proceedings of the AMIA annual fall symposium. American Medical Informatics Association. S. 333-337.
                     </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__231">
+                    <bibl style="text-align:left;" ref="#bibl__2390">
                         <hi rend="bold">Geierhos, Michaela / Bäumer, Frederik S.</hi> (2015): Erfahrungsberichte aus zweiter Hand: Erkenntnisse über die Autorschaft von Arztbewertungen in Online-Portalen. In: DHd 2015: Book of Abstracts, ZIM-ACDH, Graz, Österreich, 2015, S. 69-72.
                     </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__232">
+                    <bibl style="text-align:left;" ref="#bibl__2391">
                         <hi rend="bold">Gross, Ralph / Acquisti, Alessandro</hi> (2005): Information Revelation and Privacy in Online Social Networks (The Facebook case). In Proceedings of the ACM Workshop on Privacy in the Electronic Society, S. 71-80, Alexandria, USA, 2005.
                     </bibl>
                 </listBibl>

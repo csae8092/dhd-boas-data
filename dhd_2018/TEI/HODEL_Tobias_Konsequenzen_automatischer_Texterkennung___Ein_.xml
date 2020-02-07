@@ -139,25 +139,25 @@
         <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1220">
+                    <bibl ref="#bibl__1222">
                         <hi rend="bold">Devlin, Hannah</hi> (2017): AI programs exhibit racial and gender biases, research reveals. In: The Guardian vom 13.04. URL: https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals. 
                     </bibl>
-                    <bibl ref="#bibl__1221">
+                    <bibl ref="#bibl__1223">
                         <hi rend="bold">Grüning, Tobias, Labahn, Roger, Diem, Markus, Kleber, Florian, Fiel, Stefan</hi> (2017): READ-BAD: A New Dataset and Evaluation Scheme for Baseline Detection in Archival Documents. [Preprint submitted to DAS2018] arXiv:1705.03311. URL: https://arxiv.org/abs/1705.03311.
                     </bibl>
-                    <bibl ref="#bibl__1222">
+                    <bibl ref="#bibl__1224">
                         <hi rend="bold">Piotrowski, Michael</hi> (2012): Natural language processing for historical texts. Morgan &amp; Claypool, San Rafael. 
                     </bibl>
-                    <bibl ref="#bibl__94">
+                    <bibl ref="#bibl__103">
                         <hi rend="bold">Sahle, Patrick</hi> (2013): Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 3: Textbegriffe und Recodierung., Schriften des IDE. BoD, Norderstedt.
                     </bibl>
-                    <bibl ref="#bibl__110">
+                    <bibl ref="#bibl__123">
                         <hi rend="bold">Schöch, Christoph</hi> (2017): Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama. Digital Humanities Quarterly 11.
                     </bibl>
-                    <bibl ref="#bibl__1223">
+                    <bibl ref="#bibl__1225">
                         <hi rend="bold">Vobl, Thorsten, Gotscharek, Annette, Reffle, Uli, Ringlstetter, Christoph, Schulz, Klaus U.</hi> (2014): PoCoTo - an Open Source System for Efficient Interactive Postcorrection of OCRed Historical Texts, in: Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage, DATeCH ’14. ACM, New York, NY, USA, pp. 57–61. doi:10.1145/2595188.2595197
                     </bibl>
-                    <bibl ref="#bibl__1224">
+                    <bibl ref="#bibl__1226">
                         <hi rend="bold">Zundert, Joris J. van</hi> (2016): Screwmeneutics and Hermenumericals: The Computationality of Hermeneutics, in: Schreibman, Susan, Siemens, Ray, Unsworth, John (Eds.), A New Companion to Digital Humanities. John Wiley &amp; Sons, pp. 331–347.
                     </bibl>
                 </listBibl>

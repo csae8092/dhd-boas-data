@@ -138,32 +138,32 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__206">
+                    <bibl ref="#bibl__2608">
                         <hi rend="background-color(#ffffff)bold">Amsen, Eva </hi>
                         <hi rend="background-color(#ffffff)">(2014): “What is post-publication peer review?”, in: Blogpost auf F1000 Research Blog. </hi>
                         <ptr target="https://blog.f1000.com/2014/07/08/what-is-post-publication-peer-review/"/>
                         <hi rend="background-color(#ffffff)"> </hi>[letzter Zugriff: 14.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__24">
+                    <bibl ref="#bibl__182">
                         <hi rend="background-color(#ffffff)bold">Degkwitz, Andreas</hi>
                         <hi rend="background-color(#ffffff)"> (2015): “Enhanced Publications Exploit the Potential of Digital Media”, in: Evolving Genres of ETDs for Knowledge Discovery. Proceedings of ETD 2015 18th International Symposium on Electronic Theses and Dissertations 51–59.</hi>
                     </bibl>
-                    <bibl ref="#bibl__25">
+                    <bibl ref="#bibl__2609">
                         <hi rend="bold">DHd-Arbeitsgruppe</hi> (2016): "Digitales Publizieren", in: DHd-Arbeitsgruppe (eds.): Working Paper "Digitales Publizieren"
                         <ref target="http://diglib.hab.de/ejournals/ed000008/startx.htm"> </ref>
                         <ptr target="http://diglib.hab.de/ejournals/ed000008/startx.htm"/>[letzter Zugriff: 14.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__207">
+                    <bibl ref="#bibl__2610">
                         <hi rend="bold">Heller, Lambert / The, Ronald / Bartling, Sönke (</hi>2014): „Dynamic Publication Formats and Collaborative Authoring“, in: 
                         <hi rend="color(#333333)"> </hi>
                         <hi rend="color(#333333)">Bartling S., Friesike S. (eds): Opening Science. </hi>
                         <hi rend="color(#333333)">Cham: </hi>
                         <hi rend="color(#333333)">Springer</hi> 191–211. DOI: 10.1007/978-3-319-00026-8.
                     </bibl>
-                    <bibl ref="#bibl__1">
+                    <bibl ref="#bibl__107">
                         <hi rend="bold">Kohle, Hubertus</hi> (2017): “Digitales Publizieren” in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler Verlag 199–205.
                     </bibl>
-                    <bibl ref="#bibl__26">
+                    <bibl ref="#bibl__183">
                         <hi rend="bold">Maciocci, Giuliano</hi> (2017): "Designing Progressive Enhancement Into The Academic Manuscript: Considering a design strategy to accommodate interactive research articles", in: Blogpost auf eLife Sciences. 
                         <ptr target="https://elifesciences.org/labs/e5737fd5/designing-progressive-enhancement-into-the-academic-manuscript"/>[letzter Zugriff: 14.10.2018].
                     </bibl>

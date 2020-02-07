@@ -154,34 +154,34 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1078"><hi rend="bold">Flaischlen, Cäsar </hi>(1890): 
+                    <bibl ref="#bibl__1086"><hi rend="bold">Flaischlen, Cäsar </hi>(1890): 
                         <hi rend="italic">Graphische Litteratur-Tafel. Die deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf vom Beginn der schriftlichen Ueberlieferung an bis heute in graphischer Darstellung</hi>. Berlin: Behr's Verlag.
                     </bibl>
-                    <bibl ref="#bibl__1079"><hi rend="bold">Hölter, Achim </hi>(2005): „Überlegungen zu Raffaels Parnass-Fresko als Kanonbild“ in: Heimböckel, Dieter / Werlein, Uwe (eds.): 
+                    <bibl ref="#bibl__1087"><hi rend="bold">Hölter, Achim </hi>(2005): „Überlegungen zu Raffaels Parnass-Fresko als Kanonbild“ in: Heimböckel, Dieter / Werlein, Uwe (eds.): 
                         <hi rend="italic">Der Bildhunger der Literatur. Festschrift für Gunter E. Grimm</hi>. Würzburg 51-68.
                     </bibl>
-                    <bibl ref="#bibl__1080"><hi rend="bold">Hölter, Achim / Schmitz-Emans, Monika (eds.) </hi>(2013): 
+                    <bibl ref="#bibl__1088"><hi rend="bold">Hölter, Achim / Schmitz-Emans, Monika (eds.) </hi>(2013): 
                         <hi rend="italic">Literaturgeschichte und Bildmedien.</hi> Heidelberg: Synchron.
                     </bibl>
-                    <bibl ref="#bibl__1081"><hi rend="bold">Kohlstock, Manuel </hi>(2004): 
+                    <bibl ref="#bibl__1089"><hi rend="bold">Kohlstock, Manuel </hi>(2004): 
                         <hi rend="italic">Kartographie. Eine Einführung.</hi> Stuttgart: UTB.
                     </bibl>
-                    <bibl ref="#bibl__1082"><hi rend="bold">Lima, Manuel </hi>(2014): 
+                    <bibl ref="#bibl__1090"><hi rend="bold">Lima, Manuel </hi>(2014): 
                         <hi rend="italic">The Book of Trees. Visualizing Branches of Knowledge</hi>. New York: Princeton Architectural Press.
                     </bibl>
-                    <bibl ref="#bibl__84"><hi rend="bold">Moretti, Franco </hi>(2007): 
+                    <bibl ref="#bibl__91"><hi rend="bold">Moretti, Franco </hi>(2007): 
                         <hi rend="italic">Graphs, Maps, Trees. Abstract Models for Literary History</hi>. London, New York: Verso.
                     </bibl>
-                    <bibl ref="#bibl__1083"><hi rend="bold">openCV</hi>: 
+                    <bibl ref="#bibl__1091"><hi rend="bold">openCV</hi>: 
                         <hi rend="italic">Open Source Computer Vision Library</hi>. http://opencv.org [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__1084"><hi rend="bold">Rosenberg, Daniel / Grafton, Anthony </hi>(2010): 
+                    <bibl ref="#bibl__1092"><hi rend="bold">Rosenberg, Daniel / Grafton, Anthony </hi>(2010): 
                         <hi rend="italic">Cartographies of Time</hi>. New York: Princeton Architectural Press.
                     </bibl>
-                    <bibl ref="#bibl__1085"><hi rend="bold">Strass, Friedrich </hi>(1803): 
+                    <bibl ref="#bibl__1093"><hi rend="bold">Strass, Friedrich </hi>(1803): 
                         <hi rend="italic">Der Strom Der Zeiten.</hi> http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281767~90054624 [letzter Zugriff 24. September 2017].
                     </bibl>
-                    <bibl ref="#bibl__44"><hi rend="bold">TEI Consortium </hi>(2017). 
+                    <bibl ref="#bibl__109"><hi rend="bold">TEI Consortium </hi>(2017). 
                         <hi rend="italic">TEI P5 – Guidelines for Electronic Text Encoding and Interchange. Version 3.2.0.</hi> http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html [letzter Zugriff 25. September 2017].
                     </bibl>
                 </listBibl>

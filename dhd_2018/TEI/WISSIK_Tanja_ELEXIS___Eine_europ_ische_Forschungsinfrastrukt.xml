@@ -214,10 +214,10 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__7"><hi rend="bold">Schreibman, Susan / Ray Siemens, John Unsworth. ed. </hi>(2004): A Companion to Digital Humanites. Oxford: Blackwell.</bibl>
-                    <bibl ref="#bibl__894"><hi rend="bold">Oldman, Dominic /Doerr, Martin/ Gradmann, Stefan </hi>(2016): "Zen and the Art of Linked Data: New Strategies for a Semantc Web of Humanist Knowledge", in: Susan Schreibman/Ray Siemens/John Unsworth e. (2016): A New Companion to Digital Humanites, 2nd Editon. 2012. Oxford: Wiley-Blackwell</bibl>
-                    <bibl ref="#bibl__895"><hi rend="bold">Navigli Roberto / Ponzeto Simone P. </hi>(2012): "BabelNet: The Automatc Constructon, Evaluaton and Applicaton of a Wide-Coverage Multlingual Semantc Network", in: Artificial Intelligence, 193, Elsevier, 2012, pp. 217-250.</bibl>
-                    <bibl ref="#bibl__896"><hi rend="bold">McCrae,  John / Aguado-de-Cea, Guadalupe / Buitelaar, Paul / Cimiano, Philipp / Declerck, Thierry / Gómez-Pérez, Asunción / Gracia, Jorge / Hollink, Laura /Montel-Ponsoda, Elena / Spohr, Dennis / Wunner, Tobias </hi>(2012): "Interchanging lexical resources on the Semantc Web", in: Language Resources and Evaluaton, 46(6), pp 701-709, (2012).</bibl>
+                    <bibl ref="#bibl__8"><hi rend="bold">Schreibman, Susan / Ray Siemens, John Unsworth. ed. </hi>(2004): A Companion to Digital Humanites. Oxford: Blackwell.</bibl>
+                    <bibl ref="#bibl__905"><hi rend="bold">Oldman, Dominic /Doerr, Martin/ Gradmann, Stefan </hi>(2016): "Zen and the Art of Linked Data: New Strategies for a Semantc Web of Humanist Knowledge", in: Susan Schreibman/Ray Siemens/John Unsworth e. (2016): A New Companion to Digital Humanites, 2nd Editon. 2012. Oxford: Wiley-Blackwell</bibl>
+                    <bibl ref="#bibl__906"><hi rend="bold">Navigli Roberto / Ponzeto Simone P. </hi>(2012): "BabelNet: The Automatc Constructon, Evaluaton and Applicaton of a Wide-Coverage Multlingual Semantc Network", in: Artificial Intelligence, 193, Elsevier, 2012, pp. 217-250.</bibl>
+                    <bibl ref="#bibl__907"><hi rend="bold">McCrae,  John / Aguado-de-Cea, Guadalupe / Buitelaar, Paul / Cimiano, Philipp / Declerck, Thierry / Gómez-Pérez, Asunción / Gracia, Jorge / Hollink, Laura /Montel-Ponsoda, Elena / Spohr, Dennis / Wunner, Tobias </hi>(2012): "Interchanging lexical resources on the Semantc Web", in: Language Resources and Evaluaton, 46(6), pp 701-709, (2012).</bibl>
                 </listBibl>
             </div>
       </back>

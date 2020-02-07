@@ -223,115 +223,115 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__567">
+                    <bibl ref="#bibl__584">
                         <hi rend="bold">Alm, Cecilia Ovesdotter / Sproat, Richard</hi> (2005): "Emotional sequencing and development in fairy tales.", in:
                         <hi rend="italic"> International Conference on Affective Computing and Intelligent Interaction</hi> 668-674.
                     </bibl>
-                    <bibl ref="#bibl__568">
+                    <bibl ref="#bibl__585">
                         <hi rend="bold">Alm, Cecilia Ovesdotter / Roth, Dan / Sproat, Richard </hi>(2005): "Emotions from text: machine learning for text-based emotion prediction.", in: 
                         <hi rend="italic">Proceedings of the conference on human language technology and empirical methods in natural language processing</hi> 579-586.
                     </bibl>
-                    <bibl ref="#bibl__569">
+                    <bibl ref="#bibl__586">
                         <hi rend="bold">Buechel, Sven / Hellrich, Johannes / Hahn, Udo</hi> (2017): “The Course of Emotion in Three Centuries of German Text – A Methodological Framework.”, in: 
                         <hi rend="italic">Digital Humanities 2017</hi> 176-179.
                     </bibl>
-                    <bibl ref="#bibl__570">
+                    <bibl ref="#bibl__587">
                         <hi rend="bold">Clematide, Simon / Klenner, Manfred</hi> (2010): "Evaluation and extension of a polarity lexicon for German.", in: 
                         <hi rend="italic">Proceedings of the First Workshop on Computational Approaches to Subjectivity and Sentiment Analysis</hi> 7-13.
                     </bibl>
-                    <bibl ref="#bibl__571">
+                    <bibl ref="#bibl__588">
                         <hi rend="bold">D’Andrea, Alessia et al</hi>. (2015): "Approaches, tools and applications for sentiment analysis implementation.", in 
                         <hi rend="italic">International Journal of Computer Applications</hi> 125.3: 26-33.
                     </bibl>
-                    <bibl ref="#bibl__572">
+                    <bibl ref="#bibl__589">
                         <hi rend="bold">De Smedt, Tom / Daelemans, Walter</hi> (2012): "Pattern for python.", in: 
                         <hi rend="italic">Journal of Machine Learning Research </hi>13: 2063-2067.
                     </bibl>
-                    <bibl ref="#bibl__55">
+                    <bibl ref="#bibl__60">
                         <hi rend="bold">Eger, Steffen / Gleim, Rüdiger / Mehler, Alexander</hi>. (2016). “Lemmatization and Morphological Tagging in German and Latin: A Comparison and a Survey of the State-of-the-art.”, in: 
                         <hi rend="italic">LREC</hi> 1507–1513.
                     </bibl>
-                    <bibl ref="#bibl__573">
+                    <bibl ref="#bibl__590">
                         <hi rend="bold">Elsner, Micha</hi> (2012): "Character-based kernels for novelistic plot structure.", in: 
                         <hi rend="italic">Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics</hi> 634-644.
                     </bibl>
-                    <bibl ref="#bibl__574">
+                    <bibl ref="#bibl__591">
                         <hi rend="bold">Fleiss, Joseph L.</hi> (1971): "Measuring nominal scale agreement among many raters.", in: 
                         <hi rend="italic">Psychological bulletin</hi> 76.5: 378-382.
                     </bibl>
-                    <bibl ref="#bibl__575">
+                    <bibl ref="#bibl__592">
                         <hi rend="bold">Gonçalves, Pollyanna, et al.</hi> (2013): "Comparing and combining sentiment analysis methods.", in: 
                         <hi rend="italic">Proceedings of the first ACM conference on Online social networks</hi> 27-33.
                     </bibl>
-                    <bibl ref="#bibl__576">
+                    <bibl ref="#bibl__593">
                         <hi rend="bold">Jannidis, Fotis, et al.</hi> (2016): "Analyzing Features for the Detection of Happy Endings in German Novels.", in: 
                         <hi rend="italic">arXiv preprint</hi> arXiv:1611.09028
                     </bibl>
-                    <bibl ref="#bibl__577">
+                    <bibl ref="#bibl__594">
                         <hi rend="bold">Jurish, Bryan</hi> (2011): 
                         <hi rend="italic">Finite-state canonicalization techniques for historical German</hi>. Diss. Universitätsbibliothek der Universität Potsdam.
                     </bibl>
-                    <bibl ref="#bibl__578">
+                    <bibl ref="#bibl__595">
                         <hi rend="bold">Kakkonen, Tuomo / Kakkonen, Gordana Galić</hi> (2011): "SentiProfiler: creating comparable visual profiles of sentimental content in texts.", in: 
                         <hi rend="italic">Language Technologies for Digital Humanities and Cultural Heritage</hi> 62-67.
                     </bibl>
-                    <bibl ref="#bibl__579">
+                    <bibl ref="#bibl__596">
                         <hi rend="bold">Kennedy, Alistair / Inkpen, Diana</hi> (2006): "Sentiment classification of movie reviews using contextual valence shifters.", in: 
                         <hi rend="italic">Computational intelligence</hi> 22.2: 110-125.
                     </bibl>
-                    <bibl ref="#bibl__56">
+                    <bibl ref="#bibl__61">
                         <hi rend="bold">Kim, Evgeny / Padó, Sebastian / Klinger, Roman</hi> (2017): “Investigating the relationship between Literary Genres and Emotional Plot Development.”, in: 
                         <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi> 17–26.
                     </bibl>
-                    <bibl ref="#bibl__580">
+                    <bibl ref="#bibl__597">
                         <hi rend="bold">Kouloumpis, Efthymios / Wilson, Theresa / Moore, Johanna D. </hi> (2011): "Twitter sentiment analysis: The good the bad and the omg!.", in: In 
                         <hi rend="italic">Proceedings of the Fifth International Conference on Weblogs and Social Media</hi> 538-54.
                     </bibl>
-                    <bibl ref="#bibl__57">
+                    <bibl ref="#bibl__62">
                         <hi rend="bold">Liu, Bing</hi> (2016): 
                         <hi rend="italic">Sentiment analysis: Mining opinions, sentiments, and emotions. </hi>New York: Cambridge University Press.
                     </bibl>
-                    <bibl ref="#bibl__581">
+                    <bibl ref="#bibl__598">
                         <hi rend="bold">McGlohon, Mary / Glance, Natalie S. / Reiter, Zach</hi> (2010) "Star Quality: Aggregating Reviews to Rank Products and Merchants.", in: 
                         <hi rend="italic">Proceedings of the International Conference on Weblogs and Social Media (ICWSM-2010)</hi> 114-121.
                     </bibl>
-                    <bibl ref="#bibl__58">
+                    <bibl ref="#bibl__63">
                         <hi rend="bold">Mohammad, Saif</hi> (2011): "From once upon a time to happily ever after: Tracking emotions in novels and fairy tales.", in: 
                         <hi rend="italic">Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</hi> 105-114.
                     </bibl>
-                    <bibl ref="#bibl__582">
+                    <bibl ref="#bibl__599">
                         <hi rend="bold">Mohammad, Saif M. / Turney, Peter D.</hi> (2010): "Emotions evoked by common words and phrases: Using Mechanical Turk to create an emotion lexicon.", in: 
                         <hi rend="italic">Proceedings of the NAACL HLT 2010 workshop on computational approaches to analysis and generation of emotion in text</hi> 26-34.
                     </bibl>
-                    <bibl ref="#bibl__583">
+                    <bibl ref="#bibl__600">
                         <hi rend="bold">Nalisnick, Eric T. / Baird, Henry S.</hi> (2013): "Character-to-character sentiment analysis in shakespeare’s plays.“, in:
                         <hi rend="italic"> Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics</hi> 479–483.
                     </bibl>
-                    <bibl ref="#bibl__59">
+                    <bibl ref="#bibl__64">
                         <hi rend="bold">Remus, Robert / Quasthoff, Uwe / Gerhard, Heyer</hi> (2010): "SentiWS-A Publicly Available German-language Resource for Sentiment Analysis.", in: 
                         <hi rend="italic">LREC</hi> 1168-1171.
                     </bibl>
-                    <bibl ref="#bibl__584">
+                    <bibl ref="#bibl__601">
                         <hi rend="bold">Saif, Hassan, et al.</hi> (2014): "On stopwords, filtering and data sparsity for sentiment analysis of twitter.", in: 
                         <hi rend="italic">Proc. 9th Language Resources and Evaluation Conference (LREC)</hi> 810-817.
                     </bibl>
-                    <bibl ref="#bibl__585">
+                    <bibl ref="#bibl__602">
                         <hi rend="bold">Saße, Günter</hi> (1993): 
                         <hi rend="italic">Liebe und Ehe: oder, wie sich die Spontaneität des Herzens zu den Normen der Gesellschaft verhält. Lessings Minna von Barnhelm.</hi> Tübingen: Niemeyer.
                     </bibl>
-                    <bibl ref="#bibl__586">
+                    <bibl ref="#bibl__603">
                         <hi rend="bold">Schmid, Helmut</hi> (1995): "Improvements in part-of-speech tagging with an application to German.", in: 
                         <hi rend="italic">Proceedings of the acl sigdat-workshop</hi>.
                     </bibl>
-                    <bibl ref="#bibl__587">
+                    <bibl ref="#bibl__604">
                         <hi rend="bold">Vinodhini, G. / Chandrasekaran, R. M.</hi> (2012): "Sentiment analysis and opinion mining: a survey.", in: 
                         <hi rend="italic">International Journal of Advanced Research in Computer Science and Software Engineering</hi> 2.6: 282-292.
                     </bibl>
-                    <bibl ref="#bibl__588">
+                    <bibl ref="#bibl__605">
                         <hi rend="bold">Võ, Melissa LH, et al.</hi> (2009): "The Berlin affective word list reloaded (BAWL-R) ", in: 
                         <hi rend="italic">Behavior research methods</hi> 41.2: 534-538.
                     </bibl>
-                    <bibl ref="#bibl__589">
+                    <bibl ref="#bibl__606">
                         <hi rend="bold">Waltinger, Ulli</hi> (2010): "Sentiment Analysis Reloaded-A Comparative Study on Sentiment Polarity Identification Combining Machine Learning and Subjectivity Features.", in: 
                         <hi rend="italic">Proceedings of the 6th International Conference on Web Information Systems and Technologies (WEBIST '10)</hi>.
                     </bibl>

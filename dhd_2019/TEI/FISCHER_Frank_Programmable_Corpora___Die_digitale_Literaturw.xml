@@ -200,22 +200,22 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__178">
+                    <bibl ref="#bibl__2888">
                         <hi rend="bold">Bleier, Roman; Klug, Helmut W.</hi> (2018): Discussing Interfaces in Digital Scholarly Editing. In: Digital Scholarly Editions as Interfaces. BoD, Norderstedt, S. V–XV. URL: 
                         <ptr target="https://kups.ub.uni-koeln.de/9094/"/>
                     </bibl>
-                    <bibl ref="#bibl__179">
+                    <bibl ref="#bibl__2889">
                         <hi rend="bold">de la Iglesia, Martin; Fischer, </hi>
                         <hi rend="bold">Frank</hi> (2016): The Facebook of German Playwrights. URL: 
                         <ptr target="https://dlina.github.io/The-Facebook-of-German-Playwrights/"/>
                     </bibl>
-                    <bibl ref="#bibl__180">
+                    <bibl ref="#bibl__2890">
                         <hi rend="bold">Fischer, Frank; Dazord, Gilles; Göbel, Mathias; Kittel, Christopher; Trilcke, </hi>
                         <hi rend="bold">P</hi>
                         <hi rend="bold">eer</hi> (2017): Le drame comme réseau de relations. Une application de l‘analyse automatisée pour l’histoire littéraire du théâtre. In: Revue d'historiographie du théâtre. № 4. URL: 
                         <ptr target="https://hal.archives-ouvertes.fr/hal-01811799"/>
                     </bibl>
-                    <bibl ref="#bibl__181">
+                    <bibl ref="#bibl__2891">
                         <hi rend="color(#000000)bold">Fischer</hi>
                         <hi rend="color(#000000)bold">, </hi>
                         <hi rend="color(#000000)bold">Frank; Kittel, Christopher; Milling, Carsten; Schultz, Anika; Trilcke, Peer; Wolf, Jana</hi>
@@ -227,32 +227,32 @@
                         <hi rend="color(#000000)">f. DOI: </hi>
                         <ptr target="https://doi.org/10.6084/m9.figshare.5926363.v1"/>
                     </bibl>
-                    <bibl ref="#bibl__182">
+                    <bibl ref="#bibl__2892">
                         <hi rend="bold">Göbel, </hi>
                         <hi rend="bold">Mathias; Fischer, Frank</hi> (2015): The Birth and Death of German Playwrights. URL: 
                         <ptr target="https://dlina.github.io/The-Birth-and-Death-of-German-Playwrights/"/>
                     </bibl>
-                    <bibl ref="#bibl__183">
+                    <bibl ref="#bibl__2893">
                         <hi rend="bold">Göbel, Mathias; Meiners, Hanna-Lena</hi> (2016): Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus. In: 
                         <anchor xml:id="id_docs-internal-guid-39423eac-7fff-1a03-1138-bcac56bc7278"/>
                         <hi rend="color(#000000)">Konferenzabstracts zur DHd201</hi>
                         <hi rend="color(#000000)">6</hi>, Bern/CH. S. 140–143. URL: 
                         <ref target="http://www.dhd2016.de/abstracts/vorträge-007.html">http://www.dhd2016.de/abstracts/vortr%C3%A4ge-007.html</ref>
                     </bibl>
-                    <bibl ref="#bibl__184">
+                    <bibl ref="#bibl__2894">
                         <hi rend="bold">Grayson, Siobhán; Wade, Karen; Meaney, Gerardine; Greene, Derek</hi> (2016): The Sense and Sensibility of Different Sliding Windows in Constructing Co-Occurrence Networks from Literature. In: 2nd IFIP International Workshop on Computational History and Data-Driven Humanities. Trinity College Dublin 2016. PDF: 
                         <ptr target="http://derekgreene.com/papers/grayson16chdh.pdf"/>
                     </bibl>
-                    <bibl ref="#bibl__185">
+                    <bibl ref="#bibl__2895">
                         <hi rend="bold">Kittel; Christopher; Fischer, Frank</hi> (2014–2018): dramavis. Python-Skriptsammlung. Repo: 
                         <ptr target="https://github.com/lehkost/dramavis"/>
                     </bibl>
-                    <bibl ref="#bibl__186">
+                    <bibl ref="#bibl__2896">
                         <hi rend="bold">Schöch, Christoph et al.</hi> (2018): Distant Reading for European Literary History. A COST Action [Poster]. In: DH2018: Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C. URL: 
                         <anchor xml:id="id_line1"/>
                         <ref target="view-source:https://dh2018.adho.org/en/?p=11345">https://dh2018.adho.org/en/?p=11345</ref>
                     </bibl>
-                    <bibl ref="#bibl__18">
+                    <bibl ref="#bibl__2897">
                         <hi rend="bold">Trilcke, </hi>
                         <hi rend="bold">Peer; </hi>
                         <hi rend="bold">Fischer, </hi>

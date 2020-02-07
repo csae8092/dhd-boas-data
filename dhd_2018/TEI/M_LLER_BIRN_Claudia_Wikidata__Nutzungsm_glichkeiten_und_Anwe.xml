@@ -143,54 +143,54 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__471">
+                    <bibl ref="#bibl__489">
                         <hi rend="bold">Erxleben, Fredo / Günther, Michael / Krötzsch, Markus / Mendez,  Julian / Vrandeăić, Denny</hi> (2014): 
                         <hi rend="italic">“Introducing Wikidata to the Linked Data Web”, </hi>in: 
                         <hi rend="italic">Proceedings of the 13th International Semantic Web Conference</hi>. New York: Springer-Verlag  50-65.
                     </bibl>
-                    <bibl ref="#bibl__472">
+                    <bibl ref="#bibl__490">
                         <hi rend="bold">Harpring, Patricia </hi>(2010): 
                         <hi rend="italic">Introduction to Controlled Vocabularies: Terminology for Art, Architecture, and Other Cultural Works</hi>, Los Angeles: Getty Publications.
                     </bibl>
-                    <bibl ref="#bibl__17">
+                    <bibl ref="#bibl__19">
                         <hi rend="bold">Kohle, Hubertus </hi>(2013): 
                         <hi rend="italic">Digitale Bildwissenschaft</hi>, Glückstadt: Hülsbusch.
                     </bibl>
-                    <bibl ref="#bibl__473">
+                    <bibl ref="#bibl__491">
                         <hi rend="bold">Locher, Hubert / Warnke, Martin </hi>(2014): Ergebnisse des Round Table „Kritische Massen – Zur Anschlussfähigkeit digitaler Bildbestände an die aktuelle Kunsthistorische Forschung“ , in: 
                         <hi rend="italic">Kunstgeschichte. Open Peer Reviewed Journal</hi>  07 Okt 2014
                         <ref target="http://www.kunstgeschichte-ejournal.net/412/">
                             <hi rend="color(1155CC)">http://www.kunstgeschichte-ejournal.net/412/</hi>
                         </ref> [letzter Zugriff 25. September 2017]
                     </bibl>
-                    <bibl ref="#bibl__474">
+                    <bibl ref="#bibl__492">
                         <hi rend="bold">Ohlig, Jens / Schelbert, Georg</hi> (2017): „Datenpartnerschaften mit Wikidata – Projekt Durchblick“, 
                         <hi rend="italic">Wikimedia DE-Blog</hi>, 21. Aug. 2017  
                         <ref target="https://blog.wikimedia.de/2017/08/21/datenpartnerschaften-mit-wikidata-projekt-durchblick/">
                             <hi rend="color(1155CC)">https://blog.wikimedia.de/2017/08/21/datenpartnerschaften-mit-wikidata-projekt-durchblick/</hi>
                         </ref> [letzter Zugriff 25. September 2017]
                     </bibl>
-                    <bibl ref="#bibl__475">
+                    <bibl ref="#bibl__493">
                         <hi rend="bold">Müller-Birn, Claudia / Karran, Benjamin / Lehmann, Janette / Luczak-Rösch, Markus </hi>(2015): 
                         <hi rend="italic bold">“</hi>
                         <hi rend="italic">Peer-production system or collaborative ontology development effort: what is Wikidata?” </hi>in 
                         <hi rend="italic">Proceedings of OpenSym 2015 - Conference on Open Collaboration.</hi> San Francisco: ACM.
                     </bibl>
-                    <bibl ref="#bibl__476">
+                    <bibl ref="#bibl__494">
                         <hi rend="bold">Patton, Glenn E.</hi> (2010): 
                         <hi rend="italic">Funktionale Anforderungen an Normdaten: Ein konzeptionelles Modell</hi> (IFLA Working Group on Functional Requirements and Numbering of Authority Records – FRANAR) Berlin, New York: De Gruyter.
                     </bibl>
-                    <bibl ref="#bibl__477">
+                    <bibl ref="#bibl__495">
                         <hi rend="bold">Poulter, Martin</hi> (2017): “Wikidata – the new hub for cultural heritage”, 
                         <hi rend="italic">Wikimedia UK-Blog</hi>, 20. Jan. 2017
                         <ref target="https://blog.wikimedia.org.uk/2017/01/wikidata-the-new-hub-for-cultural-heritage/">
                             <hi rend="color(1155CC)">https://blog.wikimedia.org.uk/2017/01/wikidata-the-new-hub-for-cultural-heritage/</hi>
                         </ref> [letzter Zugriff 25. September 2017]
                     </bibl>
-                    <bibl ref="#bibl__478">
+                    <bibl ref="#bibl__496">
                         <hi rend="bold">Vrandečić, Denny / Krötzsch, Markus </hi>(2014): “Wikidata: a free collaborative knowledge base”, in: Commun. ACM 57(10), 78–85.
                     </bibl>
-                    <bibl ref="#bibl__479">
+                    <bibl ref="#bibl__497">
                         <hi rend="bold">Woitas, Kathi</hi>: „Bibliografische Daten, Normdaten und Metadaten im Semantic Web – Konzepte der Bibliografischen Kontrolle im Wandel“, in: 
                         <hi rend="italic">Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft</hi>, 10.05.2013 (
                         <ref target="http://nbn-resolving.de/urn:nbn:de:kobv:11-100209272">

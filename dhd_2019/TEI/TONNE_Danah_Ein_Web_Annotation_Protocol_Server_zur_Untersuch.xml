@@ -221,58 +221,58 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1124">
+                    <bibl ref="#bibl__2532">
                         <hi rend="bold" xml:space="preserve">Borek, Luise / Perkins, Jody / Schöch, Christof / Dombrowski, Quinn </hi>(2016): „TaDiRAH: A Case Study in pragmatic classification“ in: 
                         <hi rend="italic">DHQ: Digital Humanities Quarterly 10/1</hi>.
                     </bibl>
-                    <bibl ref="#bibl__1125">
+                    <bibl ref="#bibl__2533">
                         <hi rend="bold">Ciccarese, Paolo / Young, Benjamin / Sanderson, Robert</hi> (2017): „Web Annotation Vocabulary. W3C Recommendation“ 
                         <ref target="https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/">https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/</ref> [letzter Zugriff 19.12.2018].
                     </bibl>
-                    <bibl ref="#bibl__1126">
+                    <bibl ref="#bibl__2534">
                         <hi rend="bold">Glück, Helmut</hi> (2002): 
                         <hi rend="italic">Deutsch als Fremdsprache in Europa vom Mittelalter bis zur Barockzeit</hi>. Berlin/New York: De Gruyter.
                     </bibl>
-                    <bibl ref="#bibl__1127">
+                    <bibl ref="#bibl__2535">
                         <hi rend="bold">Linked Data Platform</hi> (LDP) 1.0: 
                         <ref target="https://www.w3.org/TR/ldp/">https://www.w3.org/TR/ldp/</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1128">
+                    <bibl ref="#bibl__2536">
                         <hi rend="bold">Montanari, Elio</hi> (1984): La sezione linguistica del Peri Hermeneias di Aristotele. Florenz.
                     </bibl>
-                    <bibl ref="#bibl__1129">
+                    <bibl ref="#bibl__2537">
                         <hi rend="bold">PAGE XML-Schema</hi>: 
                         <ref target="https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1130">
+                    <bibl ref="#bibl__2538">
                         <hi rend="bold">Reinsch, Diether Roderich</hi> (2001): „Fragmente einer Organon-Handschrift des zehnten Jahrhunderts aus dem Katharinenkloster auf dem Berg Sinai“ in: 
                         <hi rend="italic">Philologus 151</hi>: 151-177.
                     </bibl>
-                    <bibl ref="#bibl__1131">
+                    <bibl ref="#bibl__2539">
                         <hi rend="bold" xml:space="preserve">Sanderson, Robert </hi>(2017): „Web Annotation Protocol. W3C Recommendation“ 
                         <ref target="https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/">https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/</ref> [letzter Zugriff 08.11.2018]. 
                     </bibl>
-                    <bibl ref="#bibl__1132">
+                    <bibl ref="#bibl__2540">
                         <hi rend="bold">Sonderforschungsbereich 980 „Episteme in Bewegung“</hi>: 
                         <ref target="http://www.sfb-episteme.de/">http://www.sfb-episteme.de/</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1133">
+                    <bibl ref="#bibl__2541">
                         <hi rend="bold">SPARQL</hi>: 
                         <ref target="https://www.w3.org/TR/sparql11-query/">https://www.w3.org/TR/sparql11-query/</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1134">
+                    <bibl ref="#bibl__2542">
                         <hi rend="bold">SVG</hi>: 
                         <ref target="https://www.w3.org/TR/SVG11/">https://www.w3.org/TR/SVG11/</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1135">
+                    <bibl ref="#bibl__2543">
                         <hi rend="bold">TDB2</hi>: 
                         <ref target="https://jena.apache.org/documentation/tdb2/">https://jena.apache.org/documentation/tdb2/</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1136">
+                    <bibl ref="#bibl__2544">
                         <hi rend="bold">XML Forms Data Format Specification</hi>: 
                         <ref target="https://web.archive.org/web/20160408204348/https://partners.adobe.com/public/developer/en/xml/XFDF_Spec_3.0.pdf">https://web.archive.org/web/20160408204348/https://partners.adobe.com/public/developer/en/xml/XFDF_Spec_3.0.pdf</ref> [letzter Zugriff 05.10.2018].
                     </bibl>
-                    <bibl ref="#bibl__1137">
+                    <bibl ref="#bibl__2545">
                         <hi rend="bold">Young, Benjamin / Ciccarese, Paolo / Sanderson, Robert</hi> (2017): „Web Annotation Data Model. W3C Recommendation“ 
                         <ref target="https://www.w3.org/TR/2017/REC-annotation-model-20170223/">https://www.w3.org/TR/2017/REC-annotation-model-20170223/</ref> [letzter Zugriff 08.11.2018].
                     </bibl>

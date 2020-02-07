@@ -99,19 +99,19 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__132">
+                    <bibl ref="#bibl__152">
                         <hi rend="bold">Dumont, Stefan.</hi> 2018. „CorrespSearch – Connecting Scholarly Editions of Letters“. Journal of the Text Encoding Initiative 10. [Im Erscheinen].
                     </bibl>
-                    <bibl ref="#bibl__1665">
+                    <bibl ref="#bibl__1653">
                         <hi rend="bold">Lordick, Harald, Rainer Becker, Michael Bender, Luise Borek, Canan Hastik, Thomas Kollatz, Beata Mache, Andrea Rapp, Ruth Reiche, und Niels-Oliver Walkowski.</hi> 2016. „Digitale Annotationen in der geisteswissenschaftlichen Praxis“. Bibliothek Forschung und Praxis 40 (2): 186–199. doi:10.1515/bfp-2016-0042.
                     </bibl>
-                    <bibl ref="#bibl__1666">
+                    <bibl ref="#bibl__1654">
                         <hi rend="bold">Sanderson, Robert, Paolo Ciccarese, und Benjamin Young</hi>. 2017. „Web Annotation Data Model. W3C Recommendation“. W3C. https://www.w3.org/TR/annotation-model/.
                     </bibl>
-                    <bibl ref="#bibl__1667">
+                    <bibl ref="#bibl__1655">
                         <hi rend="bold">Stadler, Peter.</hi> 2012. „Normdateien in der Edition“. editio 26: 174–83.
                     </bibl>
-                    <bibl ref="#bibl__133">
+                    <bibl ref="#bibl__153">
                         <hi rend="bold">TEI Correspondence SIG.</hi> 2015. „Correspondence Metadata Interchange Format (CMIF)“. https://github.com/TEI-Correspondence-SIG/CMIF.
                     </bibl>
                 </listBibl>

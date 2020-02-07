@@ -115,19 +115,19 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__1216">
+                    <bibl style="text-align:left; " ref="#bibl__2655">
                         <hi rend="bold color(444444)">T. Uslu, A. Mehler, A. Niekler, and W. Hemati</hi>
                         <hi rend="color(444444)" xml:space="preserve"> (2018): “Towards a DDC-based Topic Network Model of Wikipedia”, in </hi>
                         <hi rend="italic color(444444)">Proceedings of 2nd International Workshop on Modeling, Analysis, and Management of Social Networks and their Applications (SOCNET 2018), February 28, 2018</hi>
                         <hi rend="color(444444)">, 2018. </hi>
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1217">
+                    <bibl style="text-align:left; " ref="#bibl__2656">
                         <hi rend="bold color(444444)">T. Uslu and A. Mehler</hi>
                         <hi rend="color(444444)">(2018): “PolyViz: a Visualization System for a Special Kind of Multipartite Graphs”, in </hi>
                         <hi rend="italic color(444444)">Proceedings of the IEEE VIS 2018</hi>
                         <hi rend="color(444444)">.</hi>
                     </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1218">
+                    <bibl style="text-align:left; " ref="#bibl__2657">
                         <hi rend="bold color(444444)">D. Baumartz, T. Uslu, and A. Mehler</hi>
                         <hi rend="color(444444)">(2018): “LTV: Labeled Topic Vector”, in </hi>
                         <hi rend="italic color(444444)">Proceedings of COLING 2018, the 27th International Conference on Computational Linguistics: System Demonstrations, August 20-26</hi>

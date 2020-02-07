@@ -102,7 +102,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__53">
+                    <bibl ref="#bibl__34">
                         <hi rend="color(#000000)bold">Blei, David M.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2012): „Probabilistic Topic Models“, in </hi>
@@ -110,17 +110,17 @@
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.</hi>
                     </bibl>
-                    <bibl ref="#bibl__797">Chaney, Allison J.B./ Blei, David M. (2012): "The Visualizing Topic Models", in: 
+                    <bibl ref="#bibl__2885">Chaney, Allison J.B./ Blei, David M. (2012): "The Visualizing Topic Models", in: 
                         <hi rend="italic">Proceedings of the S</hi>
                         <hi rend="italic">ixth International AAAI</hi>
                         <hi rend="italic"> Conference on </hi>
                         <hi rend="italic">Weblogs and Social Media</hi> 419-422.
                     </bibl>
-                    <bibl ref="#bibl__798">Jannidis, Fotis/ Pielström, Steffen / Schöch, Christof / Vitt, Thorsten (2017): "Making topic modeling easy: a programming library in Python", in: 
+                    <bibl ref="#bibl__2886">Jannidis, Fotis/ Pielström, Steffen / Schöch, Christof / Vitt, Thorsten (2017): "Making topic modeling easy: a programming library in Python", in: 
                         <hi rend="italic">Proceedings of the </hi>
                         <hi rend="italic">Digital Humanities 2017 Conference</hi>.
                     </bibl>
-                    <bibl ref="#bibl__40">
+                    <bibl ref="#bibl__7">
                         <hi rend="color(#000000)bold">McCallum, Andrew K.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2002): </hi>
@@ -131,19 +131,19 @@
                         </ref>
                         <hi rend="color(#000000)">.</hi>
                     </bibl>
-                    <bibl ref="#bibl__799">
+                    <bibl ref="#bibl__127">
                         <hi rend="color(#000000) background-color(#ffffff)bold">Rehurek, Radim/ Sojka, Petr</hi>
                         <hi rend="color(#000000) background-color(#ffffff)"> </hi>
                         <hi rend="color(#000000) background-color(#ffffff)">(2010): "Software framework for topic modelling with large corpora." </hi>
                         <hi rend="color(#000000) background-color(#ffffff)italic">In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks</hi>
                         <hi rend="color(#000000) background-color(#ffffff)">.</hi>
                     </bibl>
-                    <bibl ref="#bibl__800">Simmler, Severin/ Vitt, Thorsten / Pielström. Steffen (2018): "LDA Topic Modeling über eine graphisches Interface", in: 
+                    <bibl ref="#bibl__2887">Simmler, Severin/ Vitt, Thorsten / Pielström. Steffen (2018): "LDA Topic Modeling über eine graphisches Interface", in: 
                         <hi rend="italic">Konferenzabstracts</hi>
                         <hi rend="italic"> </hi>
                         <hi rend="italic">der 5. Tagung des Verbands Digital Humanities im deutschsprachigen Raum e.V.</hi> 428-429.
                     </bibl>
-                    <bibl ref="#bibl__801">
+                    <bibl ref="#bibl__128">
                         <hi rend="color(#000000)bold">Steyvers, Mark/ Griffiths, Tom</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2006): „Probabilistic Topic Models“, in </hi>

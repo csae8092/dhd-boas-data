@@ -122,41 +122,41 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1681">
+                    <bibl ref="#bibl__1669">
                         <hi rend="bold">Bonabeau, Eric </hi>(2002):
                         “Agent-based modeling: Methods and techniques for simulating human systems” in: 
                         <hi rend="italic">Proceedings of the National Academy of Sciences</hi>, 99(suppl 3):7280– 7287 
                     </bibl>
-                    <bibl ref="#bibl__1682">
+                    <bibl ref="#bibl__1670">
                         <hi rend="bold">Davidsson, Paul</hi> (2002): "Agent based social simulation"
                             in: <hi rend="italic">Journal of Artificial Societies and Social Simulation</hi> 5(1):
                         <ref target="http://jasss.soc.surrey.ac.uk/5/1/7.html">http://jasss.soc.surrey.ac.uk/5/1/7.html</ref>
                         [letzter Zugriff 11.Januar 2017]
                     </bibl>
-                    <bibl ref="#bibl__1683">
+                    <bibl ref="#bibl__1671">
                         <hi rend="bold">Gilbert, Nigel</hi> (2007): 
                             <hi rend="italic">"Computational social science: Agent-based social simulation"</hi>
                             in: Amblard, Frédéric / Phan, Dennis (eds.): Agent-based Modelling and Simulation in the Social and Human Sciences.
                             Oxford: The Bardwell Press 115-133.
                     </bibl>
-                    <bibl ref="#bibl__97">
+                    <bibl ref="#bibl__106">
                         <hi rend="bold">Kohle, Hubertus</hi> (2017): 
                             <hi rend="italic">"Digitale Rekonstruktion und Simulation"</hi>
                             in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities: Eine Einführung. 
                             Stuttgart: J. B.Metzler 315-327.
                     </bibl>
-                    <bibl ref="#bibl__1684">
+                    <bibl ref="#bibl__1672">
                         <hi rend="bold">Law, Averill M.</hi> (2015): 
                             Simulation Modeling and Analysis. 5.Auflage. Tucson: McGraw Hill Education.
                     </bibl>
-                    <bibl ref="#bibl__1685">
+                    <bibl ref="#bibl__1673">
                         <hi rend="bold">Mann, Klaus</hi> (1995): Tagebücher 1931 – 1933. Reinbek: Rowohlt.
                     </bibl>
-                    <bibl ref="#bibl__1686">
+                    <bibl ref="#bibl__1674">
                         <hi rend="bold">Richter, Michael M. / Weber, Rosina O. </hi>(2013): 
                             Case-Based Reasoning: A Textbook. Berlin: Springer.
                     </bibl>
-                    <bibl ref="#bibl__1687">
+                    <bibl ref="#bibl__1675">
                         <hi rend="bold">Taylor, Ian J. / Deelman, Ewa / Gannon, Dennis B. / Shields, Matthew</hi> (2014): 
                             Workflows for e-Science: Scientific Workflows for Grids.London: Springer
                     </bibl>

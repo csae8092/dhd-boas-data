@@ -100,15 +100,15 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl rend="Bibliography" ref="#bibl__17">
+                    <bibl rend="Bibliography" ref="#bibl__2038">
                         <ref target="BIBLIOGRAPHY">Dunst, A., Hartel, R., &amp; Laubrock, J. (2017). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 
                             <hi rend="italic">2nd International Workshop on coMics Analysis, Processing, and Understanding, 14th IAPR International Conference on Document Analysis and Recognition.</hi> Kyoto, Japan.
                         </ref>
                     </bibl>
-                    <bibl rend="Bibliography" ref="#bibl__676">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. 
+                    <bibl rend="Bibliography" ref="#bibl__2039">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. 
                         <hi rend="italic">Proceedings of the 22nd annual conference on Computer graphics and interactive techniques</hi> (pp. 191-198). ACM.
                     </bibl>
-                    <bibl rend="Bibliography" ref="#bibl__677">Revoy, D. (2017). 
+                    <bibl rend="Bibliography" ref="#bibl__2040">Revoy, D. (2017). 
                         <hi rend="italic">Pepper &amp; Carrot. Episode 21: The Magic Contest</hi>. (Pepper and Carrot) Retrieved 2018 10, from 
                         <ref target="https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest">https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest</ref>
                     </bibl>

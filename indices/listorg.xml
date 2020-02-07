@@ -1,19 +1,1061 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-         <titleStmt>
-            <title type="main">Organisationsregsiter</title>
-            <title type="sub">DHd Book of Abstracts 2018, 2019</title>
-         </titleStmt>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <p/>
-         </sourceDesc>
+            <titleStmt>
+                <title type="main">Organisationsregsiter</title>
+                <title type="sub">DHd Book of Abstracts 2018, 2019</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
-        <body><listOrg><org xml:id="org__1"><orgName>:sterreichische Akademie der Wissenschaften, Österreich</orgName></org><org xml:id="org__2"><orgName>ACDH, Österreich</orgName></org><org xml:id="org__3"><orgName>ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich</orgName></org><org xml:id="org__4"><orgName>Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</orgName></org><org xml:id="org__5"><orgName>Akademie der Wissenschaften und Literatur | Mainz, Deutschland</orgName></org><org xml:id="org__6"><orgName>Akademie der Wissenschaften und der Literatur Mainz</orgName></org><org xml:id="org__7"><orgName>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</orgName></org><org xml:id="org__8"><orgName>Akademie der Wissenschaften und der Literatur | Mainz</orgName></org><org xml:id="org__9"><orgName>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</orgName></org><org xml:id="org__10"><orgName>Akademie der Wissenschaften und der Literatur, Mainz</orgName></org><org xml:id="org__11"><orgName>Akademie der Wissenschaften und der Literatur, Mainz; Johann Wolfgang Goethe-Universität Frankfurt am Main</orgName></org><org xml:id="org__12"><orgName>Akademie der Wissenschaften zu Göttingen, Deutschland</orgName></org><org xml:id="org__13"><orgName>Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich</orgName></org><org xml:id="org__14"><orgName>BBAW, Deutschland</orgName></org><org xml:id="org__15"><orgName>Bach-Archiv Leipzig, Deutschland</orgName></org><org xml:id="org__16"><orgName>Bayerische Akademie der Wissenschaften, Deutschland</orgName></org><org xml:id="org__17"><orgName>Bergische Universität Wuppertal</orgName></org><org xml:id="org__18"><orgName>Bergische Universität Wuppertal, Deutschland</orgName></org><org xml:id="org__19"><orgName>Berlin</orgName></org><org xml:id="org__20"><orgName>Berlin-Brandenburgische Akademie der Wisesnschaften, Deutschland</orgName></org><org xml:id="org__21"><orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName></org><org xml:id="org__22"><orgName>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</orgName></org><org xml:id="org__23"><orgName>Beste Worte GmbH</orgName></org><org xml:id="org__24"><orgName>Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</orgName></org><org xml:id="org__25"><orgName>Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin, Deutschland</orgName></org><org xml:id="org__26"><orgName>Birkbeck, University of Lonfon</orgName></org><org xml:id="org__27"><orgName>Black Mesa Technologies LLC, New Mexico</orgName></org><org xml:id="org__28"><orgName>Brandenburgisches Zentrum für Medienwissenschaften, Potsdam</orgName></org><org xml:id="org__29"><orgName>Buchbinderei Mohr, Trier, Deutschland</orgName></org><org xml:id="org__30"><orgName>CCeH, Universität Köln, Deutschland</orgName></org><org xml:id="org__31"><orgName>Centar za digitalne humanističke nauke, Serbien</orgName></org><org xml:id="org__32"><orgName>Center for Digital Humanities, Universität Trier, Deutschland</orgName></org><org xml:id="org__33"><orgName>Center for Informatics Research and Technology (CIRT); Universität Trier</orgName></org><org xml:id="org__34"><orgName>Center für Digitale Systeme</orgName></org><org xml:id="org__35"><orgName>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</orgName></org><org xml:id="org__36"><orgName>Chair of Literary Computing, Universität Würzburg, Deutschland</orgName></org><org xml:id="org__37"><orgName>Citlab, Universität Rostock</orgName></org><org xml:id="org__38"><orgName>Cologne Center for eHumanities</orgName></org><org xml:id="org__39"><orgName>Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland</orgName></org><org xml:id="org__40"><orgName>Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der Universität zu Köln</orgName></org><org xml:id="org__41"><orgName>Computer Vision Lab, TU Wien</orgName></org><org xml:id="org__42"><orgName>Consiglio Nazionale delle Ricerche, Italien</orgName></org><org xml:id="org__43"><orgName>DFKI GmbH, Deutschland</orgName></org><org xml:id="org__44"><orgName>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</orgName></org><org xml:id="org__45"><orgName>Data Center for the Humanities, Universität zu Köln</orgName></org><org xml:id="org__46"><orgName>Data Center for the Humanities, Universität zu Köln, Deutschland</orgName></org><org xml:id="org__47"><orgName>Det Danske Sprog- og Litteraturselskab, Dänmark</orgName></org><org xml:id="org__48"><orgName>Deutsche Nationalbibliothek, Frankfurt a.M.</orgName></org><org xml:id="org__49"><orgName>Deutsches Archäologisches Institut, Deutschland</orgName></org><org xml:id="org__50"><orgName>Deutsches Historisches Institut Paris, Frankreich</orgName></org><org xml:id="org__51"><orgName>Deutsches Museum, Deutschland</orgName></org><org xml:id="org__52"><orgName>Digital Humanities Lab, EPF Lausanne</orgName></org><org xml:id="org__53"><orgName>Donau Universität Krems, Österreich</orgName></org><org xml:id="org__54"><orgName>Donau-Universität Krems, Österreich</orgName></org><org xml:id="org__55"><orgName>Eberhard Karls Universität Tübingen</orgName></org><org xml:id="org__56"><orgName>Eberhard Karls Universität Tübingen, Deutschland</orgName></org><org xml:id="org__57"><orgName>Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität zu Berlin</orgName></org><org xml:id="org__58"><orgName>Eesti Keele Instituut, Estland</orgName></org><org xml:id="org__59"><orgName>Electronic Textual Cultures Lab, University of Victoria, Canada</orgName></org><org xml:id="org__60"><orgName>FAU Erlangen, Deutschland</orgName></org><org xml:id="org__61"><orgName>FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</orgName></org><org xml:id="org__62"><orgName>FH Potsdam, Deutschland</orgName></org><org xml:id="org__63"><orgName>FSU Jena, Deutschland</orgName></org><org xml:id="org__64"><orgName>Fachhochschule Potsdam</orgName></org><org xml:id="org__65"><orgName>Fachhochschule Potsdam, Deutschland</orgName></org><org xml:id="org__66"><orgName>Fachhochschule St. Pölten</orgName></org><org xml:id="org__67"><orgName>FernUniversität in Hagen</orgName></org><org xml:id="org__68"><orgName>Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</orgName></org><org xml:id="org__69"><orgName>Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</orgName></org><org xml:id="org__70"><orgName>Forschungsverbund MWW, Deutschland</orgName></org><org xml:id="org__71"><orgName>Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August Bibliothek Wolfenbüttel</orgName></org><org xml:id="org__72"><orgName>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August Bibliothek Wolfenbüttel</orgName></org><org xml:id="org__73"><orgName>Forschungsverbund Marbach Weimar Wolfenbüttel; Deutsches Literaturarchiv Marbach</orgName></org><org xml:id="org__74"><orgName>Forschungsverbund Marbach Weimar Wolfenbüttel; Herzog August Bibliothek Wolfenbüttel</orgName></org><org xml:id="org__75"><orgName>Forschungsverbund Marbach Weimar Wolfenbüttel; Klassik Stiftung Weimar</orgName></org><org xml:id="org__76"><orgName>Fraunhofer IAIS</orgName></org><org xml:id="org__77"><orgName>Freie Universität Berlin</orgName></org><org xml:id="org__78"><orgName>Freie Universität Berlin, Deutschland</orgName></org><org xml:id="org__79"><orgName>Freie Universität Berlin, Deutschland, Institut für Philosophie</orgName></org><org xml:id="org__80"><orgName>Freier Journalist und Informatiker, Berlin</orgName></org><org xml:id="org__81"><orgName>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</orgName></org><org xml:id="org__82"><orgName>Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</orgName></org><org xml:id="org__83"><orgName>Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</orgName></org><org xml:id="org__84"><orgName>Friedrich-Schiller-Universität Jena, Deutschland</orgName></org><org xml:id="org__85"><orgName>GCDH, Universität Göttingen, Deutschland</orgName></org><org xml:id="org__86"><orgName>Georg-August-Universität Göttingen</orgName></org><org xml:id="org__87"><orgName>Georg-August-Universität Göttingen, Deutschland</orgName></org><org xml:id="org__88"><orgName>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</orgName></org><org xml:id="org__89"><orgName>Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</orgName></org><org xml:id="org__90"><orgName>German Historical Institute Washington</orgName></org><org xml:id="org__91"><orgName>Germanisches Nationalmuseum</orgName></org><org xml:id="org__92"><orgName>Germanisches Nationalmuseum, Deutschland</orgName></org><org xml:id="org__93"><orgName>Germanisches Nationalmuseum, Nürnberg</orgName></org><org xml:id="org__94"><orgName>Goethe University of Frankfurt, Deutschland</orgName></org><org xml:id="org__95"><orgName>Goethe Universität Frankfurt am Main, Deutschland</orgName></org><org xml:id="org__96"><orgName>Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</orgName></org><org xml:id="org__97"><orgName>Goethe Universität Frankfurt, Deutschland</orgName></org><org xml:id="org__98"><orgName>Goethe Universität Frankfurt, Germany</orgName></org><org xml:id="org__99"><orgName>Goethe-Universität Frankfurt</orgName></org><org xml:id="org__100"><orgName>Goethe-Universität Frankfurt / Freies Deutsches Hochstift</orgName></org><org xml:id="org__101"><orgName>Goethe-Universität Frankfurt, Deutschland</orgName></org><org xml:id="org__102"><orgName>Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland</orgName></org><org xml:id="org__103"><orgName>Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland; Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</orgName></org><org xml:id="org__104"><orgName>Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen, Deutschland</orgName></org><org xml:id="org__105"><orgName>HU Berlin, Deutschland</orgName></org><org xml:id="org__106"><orgName>Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</orgName></org><org xml:id="org__107"><orgName>Herzog August Bibliothek Wolfenbüttel</orgName></org><org xml:id="org__108"><orgName>Herzog August Bibliothek Wolfenbüttel, Deutschland</orgName></org><org xml:id="org__109"><orgName>Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</orgName></org><org xml:id="org__110"><orgName>Higher School of Economics, Moskau</orgName></org><org xml:id="org__111"><orgName>Higher School of Economics, Moskau, Russland</orgName></org><org xml:id="org__112"><orgName>Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg, Deutschland</orgName></org><org xml:id="org__113"><orgName>Hochschule Mainz - University of Applied Sciences, Deutschland</orgName></org><org xml:id="org__114"><orgName>Hochschule Mainz – University of Applied Sciences</orgName></org><org xml:id="org__115"><orgName>Hochschule Mainz, Deutschland</orgName></org><org xml:id="org__116"><orgName>Hochschule für angewandte Wissenschaften, Hamburg</orgName></org><org xml:id="org__117"><orgName>Humboldt Universität zu Berlin; Eberhard Karls Universität Tübingen</orgName></org><org xml:id="org__118"><orgName>Humboldt-Universität zu Berlin</orgName></org><org xml:id="org__119"><orgName>Humboldt-Universität zu Berlin, Deutschland</orgName></org><org xml:id="org__120"><orgName>Humboldt-Universität, Berlin</orgName></org><org xml:id="org__121"><orgName>ICARUS, Wien, Österreich</orgName></org><org xml:id="org__122"><orgName>IDS Mannheim; Universität Mannheim</orgName></org><org xml:id="org__123"><orgName>IDS Mannheim; Universität zu Köln</orgName></org><org xml:id="org__124"><orgName>Institut Josef Sefan, Slowenien</orgName></org><org xml:id="org__125"><orgName>Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg</orgName></org><org xml:id="org__126"><orgName>Institut für Deutsche Sprache, Deutschland</orgName></org><org xml:id="org__127"><orgName>Institut für Deutsche Sprache, Mannheim, Deutschland</orgName></org><org xml:id="org__128"><orgName>Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</orgName></org><org xml:id="org__129"><orgName>Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</orgName></org><org xml:id="org__130"><orgName>Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</orgName></org><org xml:id="org__131"><orgName>Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</orgName></org><org xml:id="org__132"><orgName>Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der Wissenschaften</orgName></org><org xml:id="org__133"><orgName>Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</orgName></org><org xml:id="org__134"><orgName>Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</orgName></org><org xml:id="org__135"><orgName>Institut für Europäische Geschichte, Deutschland</orgName></org><org xml:id="org__136"><orgName>Institut für Geoinformatik, WWU Münster, Deutschland</orgName></org><org xml:id="org__137"><orgName>Institut für Germanistik, AAU Klagenfurt</orgName></org><org xml:id="org__138"><orgName>Institut für Linguistik, Universität zu Köln</orgName></org><org xml:id="org__139"><orgName>Institut für Literaturwissenschaft, Universität Stuttgart</orgName></org><org xml:id="org__140"><orgName>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</orgName></org><org xml:id="org__141"><orgName>Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</orgName></org><org xml:id="org__142"><orgName>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</orgName></org><org xml:id="org__143"><orgName>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</orgName></org><org xml:id="org__144"><orgName>Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</orgName></org><org xml:id="org__145"><orgName>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</orgName></org><org xml:id="org__146"><orgName>Institute for Bulgarian Language, Bulgarien</orgName></org><org xml:id="org__147"><orgName>Instituut voor Nederlandse Lexicologie, Niederlande</orgName></org><org xml:id="org__148"><orgName>JGU Mainz, Deutschland</orgName></org><org xml:id="org__149"><orgName>JMU Würzburg, Deutschland</orgName></org><org xml:id="org__150"><orgName>Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</orgName></org><org xml:id="org__151"><orgName>Johann Wolfgang Goethe-Universität Frankfurt am Main</orgName></org><org xml:id="org__152"><orgName>Johannes Gutenberg-Universität Mainz</orgName></org><org xml:id="org__153"><orgName>Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</orgName></org><org xml:id="org__154"><orgName>Johannes Gutenberg-Universität Mainz, Deutschland; Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</orgName></org><org xml:id="org__155"><orgName>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</orgName></org><org xml:id="org__156"><orgName>Julius-Maximilians-Universität Würzburg</orgName></org><org xml:id="org__157"><orgName>Julius-Maximilians-Universität Würzburg, Deutschland</orgName></org><org xml:id="org__158"><orgName>K Dictionaries Ltd., Israel</orgName></org><org xml:id="org__159"><orgName>Karl-Franzens-Universität Graz</orgName></org><org xml:id="org__160"><orgName>Karl-Franzens-Universität Graz; Open Knowledge Forum Österreich</orgName></org><org xml:id="org__161"><orgName>Karlsruher Institut für Technologie, Deutschland</orgName></org><org xml:id="org__162"><orgName>Kobenhavns Universitet, Dänemark</orgName></org><org xml:id="org__163"><orgName>L'Université Paris Descartes, Frankreich</orgName></org><org xml:id="org__164"><orgName>LMU München, Deutschland</orgName></org><org xml:id="org__165"><orgName>Landesarchiv Baden-Württemberg, Deutschland</orgName></org><org xml:id="org__166"><orgName>Language Technology Group, Universität Hamburg, Deutschland</orgName></org><org xml:id="org__167"><orgName>Le Mans Université, Frankreich</orgName></org><org xml:id="org__168"><orgName>Lehrstuhl für Digital Humanities, Universität Passau, Deutschland</orgName></org><org xml:id="org__169"><orgName>Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web Information Systems, Universität Passau, Deutschland</orgName></org><org xml:id="org__170"><orgName>Lehrstuhl für Medieninformatik, Universität Regensburg</orgName></org><org xml:id="org__171"><orgName>Lehrstuhl für Slavische Literaturen und Kulturen, Universität Passau, Deutschland</orgName></org><org xml:id="org__172"><orgName>Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)</orgName></org><org xml:id="org__173"><orgName>Leiterin des Rats für Informationsinfrastrukturen (RfII), Geschäftsstelle Göttingen</orgName></org><org xml:id="org__174"><orgName>Lexical Computing CZ s.r.o.,Tschechien</orgName></org><org xml:id="org__175"><orgName>Ludwig-Maximilians-Universität München, Deutschland</orgName></org><org xml:id="org__176"><orgName>MLU Halle/Wittenberg, Deutschland</orgName></org><org xml:id="org__177"><orgName>Magyar Tudományos Akadémia,Ungarn</orgName></org><org xml:id="org__178"><orgName>Martin-Luther-Universität Halle-Wittenberg, Deutschland</orgName></org><org xml:id="org__179"><orgName>Max Weber Stiftung</orgName></org><org xml:id="org__180"><orgName>Max Weber Stiftung, Bonn</orgName></org><org xml:id="org__181"><orgName>Max-Planck-Institut für Informatik, Saarbrücken, Deutschland</orgName></org><org xml:id="org__182"><orgName>Max-Planck-Institut für Kunstgeschichte Rom</orgName></org><org xml:id="org__183"><orgName>Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</orgName></org><org xml:id="org__184"><orgName>Max-Planck-Institut für europäische Rechtsgeschichte, Frankfurt am Main</orgName></org><org xml:id="org__185"><orgName>Medienzentrum/TU Dresden, Deutschland</orgName></org><org xml:id="org__186"><orgName>Mittelbayerische Zeitung Regensburg</orgName></org><org xml:id="org__187"><orgName>Nasjonalbiblioteket, Oslo, Norwegen</orgName></org><org xml:id="org__188"><orgName>National Research University Higher School of Economics, Moskau, Russland</orgName></org><org xml:id="org__189"><orgName>National Research University Higher School of Economics, Russland</orgName></org><org xml:id="org__190"><orgName>National Universtiy of Ireland, Galway Irland</orgName></org><org xml:id="org__191"><orgName>Neue Universität Lissabon, Portugal</orgName></org><org xml:id="org__192"><orgName>Niedersächsische Staats- und Universitätsbibliothek Göttingen</orgName></org><org xml:id="org__193"><orgName>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</orgName></org><org xml:id="org__194"><orgName>Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</orgName></org><org xml:id="org__195"><orgName>Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</orgName></org><org xml:id="org__196"><orgName>OEAW Österreichische Akademie der Wissenschaften, Österreich</orgName></org><org xml:id="org__197"><orgName>Otto-Friedrich-Universität Bamberg</orgName></org><org xml:id="org__198"><orgName>Philipps-Universität Marburg, Deutschland</orgName></org><org xml:id="org__199"><orgName>RUB Bochum, Deutschland</orgName></org><org xml:id="org__200"><orgName>RWTH Aachen, Deutschland</orgName></org><org xml:id="org__201"><orgName>Real Academia Española; Spanien</orgName></org><org xml:id="org__202"><orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</orgName></org><org xml:id="org__203"><orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland; La Trobe University, Department of Archaeology and History, Australien</orgName></org><org xml:id="org__204"><orgName>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</orgName></org><org xml:id="org__205"><orgName>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University Melbourne, Australien</orgName></org><org xml:id="org__206"><orgName>Robert-Musil-Institut, AAU Klagenfurt</orgName></org><org xml:id="org__207"><orgName>Ruprecht-Karls-Universität Heidelberg, Deutschland</orgName></org><org xml:id="org__208"><orgName>Ruprecht-Karls-Universität, Heidelberg</orgName></org><org xml:id="org__209"><orgName>Römisch-Germanische Kommission des Deutschen Archäologischen Instituts</orgName></org><org xml:id="org__210"><orgName>SUB Göttingen, Deutschland</orgName></org><org xml:id="org__211"><orgName>Servicezentrum eSciences, Universität Trier, Deutschland</orgName></org><org xml:id="org__212"><orgName>Sprache und Raum Laboratorium, Universität Zürich, Schweiz</orgName></org><org xml:id="org__213"><orgName>Staats- und Universtitätsbibliothek Göttingen</orgName></org><org xml:id="org__214"><orgName>Staatsarchiv des Kantons Zürich, Schweiz</orgName></org><org xml:id="org__215"><orgName>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</orgName></org><org xml:id="org__216"><orgName>Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</orgName></org><org xml:id="org__217"><orgName>Steinbuch Centre for Computing / KIT</orgName></org><org xml:id="org__218"><orgName>Steinheim-Institut, Deutschland</orgName></org><org xml:id="org__219"><orgName>Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich Informationswissenschaften, Fachhochschule Potsdam, Deutschland</orgName></org><org xml:id="org__220"><orgName>Stiftung Preußischer Kulturbesitz</orgName></org><org xml:id="org__221"><orgName>Stiftung Preußischer Kulturbesitz, Berlin</orgName></org><org xml:id="org__222"><orgName>Stiftung Preußischer Kulturbesitz, Deutschland</orgName></org><org xml:id="org__223"><orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</orgName></org><org xml:id="org__224"><orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland; Universität Leipzig, Deutschland</orgName></org><org xml:id="org__225"><orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Projekt Bach-Repertorium</orgName></org><org xml:id="org__226"><orgName>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</orgName></org><org xml:id="org__227"><orgName>Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</orgName></org><org xml:id="org__228"><orgName>TU Dresden, Deutschland</orgName></org><org xml:id="org__229"><orgName>Technische Universität Berlin, Deutschland</orgName></org><org xml:id="org__230"><orgName>Technische Universität Darmstadt, Deutschland</orgName></org><org xml:id="org__231"><orgName>Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</orgName></org><org xml:id="org__232"><orgName>Technische Universität Dortmund</orgName></org><org xml:id="org__233"><orgName>Technische Universität Dresden, Deutschland</orgName></org><org xml:id="org__234"><orgName>Technische Universität Dresden, Institut für Philosophie</orgName></org><org xml:id="org__235"><orgName>Technische Universität Hamburg</orgName></org><org xml:id="org__236"><orgName>Technische Universität Hamburg, Deutschland</orgName></org><org xml:id="org__237"><orgName>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</orgName></org><org xml:id="org__238"><orgName>Trier Center for Digital Humanities (TCDH); Universität Trier</orgName></org><org xml:id="org__239"><orgName>ULB Darmstadt, Deutschland</orgName></org><org xml:id="org__240"><orgName>UNED, Spanien</orgName></org><org xml:id="org__241"><orgName>Universidade Nova de Lisboa, Portugal</orgName></org><org xml:id="org__242"><orgName>Universiteit Antwerpen</orgName></org><org xml:id="org__243"><orgName>University of Amsterdam, Niederlande</orgName></org><org xml:id="org__244"><orgName>University of Basel, Switzerland</orgName></org><org xml:id="org__245"><orgName>University of Cambridge, Vereinigtes Königreich</orgName></org><org xml:id="org__246"><orgName>University of Passau, Deutschland</orgName></org><org xml:id="org__247"><orgName>University of Sheffield, UK</orgName></org><org xml:id="org__248"><orgName>University of Verona, Italy</orgName></org><org xml:id="org__249"><orgName>Università degli Studi di Roma La Spienza, Italien</orgName></org><org xml:id="org__250"><orgName>Università di Bologna, Italien</orgName></org><org xml:id="org__251"><orgName>Universität Antwerpen, Belgien</orgName></org><org xml:id="org__252"><orgName>Universität Bamberg, Deutschland</orgName></org><org xml:id="org__253"><orgName>Universität Basel, Schweiz</orgName></org><org xml:id="org__254"><orgName>Universität Bern, Historisches Institut</orgName></org><org xml:id="org__255"><orgName>Universität Bern, Historisches Institut; Universität zu Köln, Cologne Center for eHumanities</orgName></org><org xml:id="org__256"><orgName>Universität Bern, Schweiz</orgName></org><org xml:id="org__257"><orgName>Universität Bern, Schweiz; Cologne Center for eHumanities</orgName></org><org xml:id="org__258"><orgName>Universität Bonn, Abteilung für Altamerikanistik, Deutschland</orgName></org><org xml:id="org__259"><orgName>Universität Cambridge, Vereinigtes Königreich</orgName></org><org xml:id="org__260"><orgName>Universität Erlangen</orgName></org><org xml:id="org__261"><orgName>Universität Graz</orgName></org><org xml:id="org__262"><orgName>Universität Graz, Österreich</orgName></org><org xml:id="org__263"><orgName>Universität Göttingen, Deutschland</orgName></org><org xml:id="org__264"><orgName>Universität Hamburg</orgName></org><org xml:id="org__265"><orgName>Universität Hamburg, Deutschland</orgName></org><org xml:id="org__266"><orgName>Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</orgName></org><org xml:id="org__267"><orgName>Universität Heidelberg; Universität Stuttgart</orgName></org><org xml:id="org__268"><orgName>Universität Hildesheim, Deutschland</orgName></org><org xml:id="org__269"><orgName>Universität Innsbruck, Österreich</orgName></org><org xml:id="org__270"><orgName>Universität Kassel, Deutschland</orgName></org><org xml:id="org__271"><orgName>Universität Leipzig</orgName></org><org xml:id="org__272"><orgName>Universität Leipzig, Deutschland</orgName></org><org xml:id="org__273"><orgName>Universität Leipzig\Historisches Seminar, Deutschland</orgName></org><org xml:id="org__274"><orgName>Universität Luxemburg</orgName></org><org xml:id="org__275"><orgName>Universität Osnabrück, Deutschland</orgName></org><org xml:id="org__276"><orgName>Universität Paderborn</orgName></org><org xml:id="org__277"><orgName>Universität Paderborn, Deutschland</orgName></org><org xml:id="org__278"><orgName>Universität Passau, Deutschland</orgName></org><org xml:id="org__279"><orgName>Universität Potsdam</orgName></org><org xml:id="org__280"><orgName>Universität Potsdam, Deutschland</orgName></org><org xml:id="org__281"><orgName>Universität Regensburg</orgName></org><org xml:id="org__282"><orgName>Universität Regensburg, Deutschland</orgName></org><org xml:id="org__283"><orgName>Universität Rostock CITLab</orgName></org><org xml:id="org__284"><orgName>Universität St. Gallen, Schweiz</orgName></org><org xml:id="org__285"><orgName>Universität Stuttgart</orgName></org><org xml:id="org__286"><orgName>Universität Stuttgart, Deutschland</orgName></org><org xml:id="org__287"><orgName>Universität Trier, Deutschland</orgName></org><org xml:id="org__288"><orgName>Universität Wien</orgName></org><org xml:id="org__289"><orgName>Universität Wien, Österreich</orgName></org><org xml:id="org__290"><orgName>Universität Würzburg</orgName></org><org xml:id="org__291"><orgName>Universität Würzburg, Deutschland</orgName></org><org xml:id="org__292"><orgName>Universität Zürich, Schweiz</orgName></org><org xml:id="org__293"><orgName>Universität des Saarlandes</orgName></org><org xml:id="org__294"><orgName>Universität des Saarlandes, Deutschland</orgName></org><org xml:id="org__295"><orgName>Universität des Saarlandes, Saarbrücken, Deutschland</orgName></org><org xml:id="org__296"><orgName>Universität zu Köln</orgName></org><org xml:id="org__297"><orgName>Universität zu Köln, Cologne Center for eHumanities</orgName></org><org xml:id="org__298"><orgName>Universität zu Köln, Deutschland</orgName></org><org xml:id="org__299"><orgName>Universitätsbibliothek Heidelberg</orgName></org><org xml:id="org__300"><orgName>Universitätsbibliothek Leipzig, Deutschland</orgName></org><org xml:id="org__301"><orgName>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</orgName></org><org xml:id="org__302"><orgName>Vienna University of Technology, Computer Vision Lab</orgName></org><org xml:id="org__303"><orgName>WU Wien</orgName></org><org xml:id="org__304"><orgName>WWU Münster, Germany; ELDA, France; IDS Mannheim</orgName></org><org xml:id="org__305"><orgName>WWU Münster, Germany; IDS Mannheim; ELDA, France</orgName></org><org xml:id="org__306"><orgName>Wirtschaftsuniversität Wien, Österreich</orgName></org><org xml:id="org__307"><orgName>ZIM-ACDH, Universität Graz, Österreich</orgName></org><org xml:id="org__308"><orgName>Zürcher Hochschule der Künste, Schweiz</orgName></org><org xml:id="org__309"><orgName>and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften, Schweiz</orgName></org><org xml:id="org__310"><orgName>bitGilde IT Solutions UG, Deutschland</orgName></org><org xml:id="org__311"><orgName>unabhängiger Wissenschaftler</orgName></org><org xml:id="org__312"><orgName>ÖAW, Wien</orgName></org><org xml:id="org__313"><orgName>Österreichische Akademie der Wissenschaften, Wien, Österreich</orgName></org><org xml:id="org__314"><orgName>Österreichische Akademie der Wissenschaften, Österreich</orgName></org><org xml:id="org__315"><orgName>Österreichische Nationalbibliothek</orgName></org><org xml:id="org__316"><orgName/></org></listOrg></body>
+        <body>
+            <listOrg>
+                <org xml:id="org__1">
+                    <orgName>:sterreichische Akademie der Wissenschaften, Österreich</orgName>
+                </org>
+                <org xml:id="org__2">
+                    <orgName>ACDH, Österreich</orgName>
+                </org>
+                <org xml:id="org__3">
+                    <orgName>ACDH-ÖAW, Österreichische Akademie der Wissenschaften,
+                        Österreich</orgName>
+                </org>
+                <org xml:id="org__4">
+                    <orgName>Akademie der Wissenschaften Mainz - Digitale Akademie,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__5">
+                    <orgName>Akademie der Wissenschaften und Literatur | Mainz,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__6">
+                    <orgName>Akademie der Wissenschaften und der Literatur Mainz</orgName>
+                </org>
+                <org xml:id="org__7">
+                    <orgName>Akademie der Wissenschaften und der Literatur Mainz,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__8">
+                    <orgName>Akademie der Wissenschaften und der Literatur | Mainz</orgName>
+                </org>
+                <org xml:id="org__9">
+                    <orgName>Akademie der Wissenschaften und der Literatur | Mainz,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__10">
+                    <orgName>Akademie der Wissenschaften und der Literatur, Mainz</orgName>
+                </org>
+                <org xml:id="org__11">
+                    <orgName>Akademie der Wissenschaften und der Literatur, Mainz; Johann Wolfgang
+                        Goethe-Universität Frankfurt am Main</orgName>
+                </org>
+                <org xml:id="org__12">
+                    <orgName>Akademie der Wissenschaften zu Göttingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__13">
+                    <orgName>Austrian Center for Digital Humanities, Österreichische Akademie der
+                        Wissenschaften, Österreich</orgName>
+                </org>
+                <org xml:id="org__14">
+                    <orgName>BBAW, Deutschland</orgName>
+                </org>
+                <org xml:id="org__15">
+                    <orgName>Bach-Archiv Leipzig, Deutschland</orgName>
+                </org>
+                <org xml:id="org__16">
+                    <orgName>Bayerische Akademie der Wissenschaften, Deutschland</orgName>
+                </org>
+                <org xml:id="org__17">
+                    <orgName>Bergische Universität Wuppertal</orgName>
+                </org>
+                <org xml:id="org__18">
+                    <orgName>Bergische Universität Wuppertal, Deutschland</orgName>
+                </org>
+                <org xml:id="org__19">
+                    <orgName>Berlin</orgName>
+                </org>
+                <org xml:id="org__20">
+                    <orgName>Berlin-Brandenburgische Akademie der Wisesnschaften,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__21">
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                </org>
+                <org xml:id="org__22">
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__23">
+                    <orgName>Beste Worte GmbH</orgName>
+                </org>
+                <org xml:id="org__24">
+                    <orgName>Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__25">
+                    <orgName>Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__26">
+                    <orgName>Birkbeck, University of Lonfon</orgName>
+                </org>
+                <org xml:id="org__27">
+                    <orgName>Black Mesa Technologies LLC, New Mexico</orgName>
+                </org>
+                <org xml:id="org__28">
+                    <orgName>Brandenburgisches Zentrum für Medienwissenschaften, Potsdam</orgName>
+                </org>
+                <org xml:id="org__29">
+                    <orgName>Buchbinderei Mohr, Trier, Deutschland</orgName>
+                </org>
+                <org xml:id="org__30">
+                    <orgName>CCeH, Universität Köln, Deutschland</orgName>
+                </org>
+                <org xml:id="org__31">
+                    <orgName>Centar za digitalne humanističke nauke, Serbien</orgName>
+                </org>
+                <org xml:id="org__32">
+                    <orgName>Center for Digital Humanities, Universität Trier, Deutschland</orgName>
+                </org>
+                <org xml:id="org__33">
+                    <orgName>Center for Informatics Research and Technology (CIRT); Universität
+                        Trier</orgName>
+                </org>
+                <org xml:id="org__34">
+                    <orgName>Center für Digitale Systeme</orgName>
+                </org>
+                <org xml:id="org__35">
+                    <orgName>Chair of Applied Computer Science and Artificial Intelligence,
+                        Universität Würzburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__36">
+                    <orgName>Chair of Literary Computing, Universität Würzburg,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__37">
+                    <orgName>Citlab, Universität Rostock</orgName>
+                </org>
+                <org xml:id="org__38">
+                    <orgName>Cologne Center for eHumanities</orgName>
+                </org>
+                <org xml:id="org__39">
+                    <orgName>Cologne Center for eHumanities (CCeH), Universität zu Köln,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__40">
+                    <orgName>Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der
+                        Universität zu Köln</orgName>
+                </org>
+                <org xml:id="org__41">
+                    <orgName>Computer Vision Lab, TU Wien</orgName>
+                </org>
+                <org xml:id="org__42">
+                    <orgName>Consiglio Nazionale delle Ricerche, Italien</orgName>
+                </org>
+                <org xml:id="org__43">
+                    <orgName>DFKI GmbH, Deutschland</orgName>
+                </org>
+                <org xml:id="org__44">
+                    <orgName>Data Center for the Humanities (DCH), Universität zu Köln,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__45">
+                    <orgName>Data Center for the Humanities, Universität zu Köln</orgName>
+                </org>
+                <org xml:id="org__46">
+                    <orgName>Data Center for the Humanities, Universität zu Köln,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__47">
+                    <orgName>Det Danske Sprog- og Litteraturselskab, Dänmark</orgName>
+                </org>
+                <org xml:id="org__48">
+                    <orgName>Deutsche Nationalbibliothek, Frankfurt a.M.</orgName>
+                </org>
+                <org xml:id="org__49">
+                    <orgName>Deutsches Archäologisches Institut, Deutschland</orgName>
+                </org>
+                <org xml:id="org__50">
+                    <orgName>Deutsches Historisches Institut Paris, Frankreich</orgName>
+                </org>
+                <org xml:id="org__51">
+                    <orgName>Deutsches Museum, Deutschland</orgName>
+                </org>
+                <org xml:id="org__52">
+                    <orgName>Digital Humanities Lab, EPF Lausanne</orgName>
+                </org>
+                <org xml:id="org__53">
+                    <orgName>Donau Universität Krems, Österreich</orgName>
+                </org>
+                <org xml:id="org__54">
+                    <orgName>Donau-Universität Krems, Österreich</orgName>
+                </org>
+                <org xml:id="org__55">
+                    <orgName>Eberhard Karls Universität Tübingen</orgName>
+                </org>
+                <org xml:id="org__56">
+                    <orgName>Eberhard Karls Universität Tübingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__57">
+                    <orgName>Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität
+                        zu Berlin</orgName>
+                </org>
+                <org xml:id="org__58">
+                    <orgName>Eesti Keele Instituut, Estland</orgName>
+                </org>
+                <org xml:id="org__59">
+                    <orgName>Electronic Textual Cultures Lab, University of Victoria,
+                        Canada</orgName>
+                </org>
+                <org xml:id="org__60">
+                    <orgName>FAU Erlangen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__61">
+                    <orgName>FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt,
+                        Computerphilologie und Mediävistik</orgName>
+                </org>
+                <org xml:id="org__62">
+                    <orgName>FH Potsdam, Deutschland</orgName>
+                </org>
+                <org xml:id="org__63">
+                    <orgName>FSU Jena, Deutschland</orgName>
+                </org>
+                <org xml:id="org__64">
+                    <orgName>Fachhochschule Potsdam</orgName>
+                </org>
+                <org xml:id="org__65">
+                    <orgName>Fachhochschule Potsdam, Deutschland</orgName>
+                </org>
+                <org xml:id="org__66">
+                    <orgName>Fachhochschule St. Pölten</orgName>
+                </org>
+                <org xml:id="org__67">
+                    <orgName>FernUniversität in Hagen</orgName>
+                </org>
+                <org xml:id="org__68">
+                    <orgName>Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</orgName>
+                </org>
+                <org xml:id="org__69">
+                    <orgName>Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</orgName>
+                </org>
+                <org xml:id="org__70">
+                    <orgName>Forschungsverbund MWW, Deutschland</orgName>
+                </org>
+                <org xml:id="org__71">
+                    <orgName>Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August
+                        Bibliothek Wolfenbüttel</orgName>
+                </org>
+                <org xml:id="org__72">
+                    <orgName>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog
+                        August Bibliothek Wolfenbüttel</orgName>
+                </org>
+                <org xml:id="org__73">
+                    <orgName>Forschungsverbund Marbach Weimar Wolfenbüttel; Deutsches
+                        Literaturarchiv Marbach</orgName>
+                </org>
+                <org xml:id="org__74">
+                    <orgName>Forschungsverbund Marbach Weimar Wolfenbüttel; Herzog August Bibliothek
+                        Wolfenbüttel</orgName>
+                </org>
+                <org xml:id="org__75">
+                    <orgName>Forschungsverbund Marbach Weimar Wolfenbüttel; Klassik Stiftung
+                        Weimar</orgName>
+                </org>
+                <org xml:id="org__76">
+                    <orgName>Fraunhofer IAIS</orgName>
+                </org>
+                <org xml:id="org__77">
+                    <orgName>Freie Universität Berlin</orgName>
+                </org>
+                <org xml:id="org__78">
+                    <orgName>Freie Universität Berlin, Deutschland</orgName>
+                </org>
+                <org xml:id="org__79">
+                    <orgName>Freie Universität Berlin, Deutschland, Institut für
+                        Philosophie</orgName>
+                </org>
+                <org xml:id="org__80">
+                    <orgName>Freier Journalist und Informatiker, Berlin</orgName>
+                </org>
+                <org xml:id="org__81">
+                    <orgName>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</orgName>
+                </org>
+                <org xml:id="org__82">
+                    <orgName>Friedrich-Alexander Universität Erlangen-Nürnberg,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__83">
+                    <orgName>Friedrich-Alexander-Universität Erlangen-Nürnberg,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__84">
+                    <orgName>Friedrich-Schiller-Universität Jena, Deutschland</orgName>
+                </org>
+                <org xml:id="org__85">
+                    <orgName>GCDH, Universität Göttingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__86">
+                    <orgName>Georg-August-Universität Göttingen</orgName>
+                </org>
+                <org xml:id="org__87">
+                    <orgName>Georg-August-Universität Göttingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__88">
+                    <orgName>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches
+                        Institut</orgName>
+                </org>
+                <org xml:id="org__89">
+                    <orgName>Georg-Eckert-Institut – Leibniz-Institut für internationale
+                        Schulbuchforschung (GEI)</orgName>
+                </org>
+                <org xml:id="org__90">
+                    <orgName>German Historical Institute Washington</orgName>
+                </org>
+                <org xml:id="org__91">
+                    <orgName>Germanisches Nationalmuseum</orgName>
+                </org>
+                <org xml:id="org__92">
+                    <orgName>Germanisches Nationalmuseum, Deutschland</orgName>
+                </org>
+                <org xml:id="org__93">
+                    <orgName>Germanisches Nationalmuseum, Nürnberg</orgName>
+                </org>
+                <org xml:id="org__94">
+                    <orgName>Goethe University of Frankfurt, Deutschland</orgName>
+                </org>
+                <org xml:id="org__95">
+                    <orgName>Goethe Universität Frankfurt am Main, Deutschland</orgName>
+                </org>
+                <org xml:id="org__96">
+                    <orgName>Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut,
+                        Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</orgName>
+                </org>
+                <org xml:id="org__97">
+                    <orgName>Goethe Universität Frankfurt, Deutschland</orgName>
+                </org>
+                <org xml:id="org__98">
+                    <orgName>Goethe Universität Frankfurt, Germany</orgName>
+                </org>
+                <org xml:id="org__99">
+                    <orgName>Goethe-Universität Frankfurt</orgName>
+                </org>
+                <org xml:id="org__100">
+                    <orgName>Goethe-Universität Frankfurt / Freies Deutsches Hochstift</orgName>
+                </org>
+                <org xml:id="org__101">
+                    <orgName>Goethe-Universität Frankfurt, Deutschland</orgName>
+                </org>
+                <org xml:id="org__102">
+                    <orgName>Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität
+                        Jena, Jena, Deutschland</orgName>
+                </org>
+                <org xml:id="org__103">
+                    <orgName>Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität
+                        Jena, Jena, Deutschland; Jena University Language &amp; Information
+                        Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__104">
+                    <orgName>Göttingen Centre for Digital Humanities, Georg-August Universität
+                        Göttingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__105">
+                    <orgName>HU Berlin, Deutschland</orgName>
+                </org>
+                <org xml:id="org__106">
+                    <orgName>Hamburger Zentrum für Sprachkorpora, Universität Hamburg,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__107">
+                    <orgName>Herzog August Bibliothek Wolfenbüttel</orgName>
+                </org>
+                <org xml:id="org__108">
+                    <orgName>Herzog August Bibliothek Wolfenbüttel, Deutschland</orgName>
+                </org>
+                <org xml:id="org__109">
+                    <orgName>Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund
+                        Marbach Weimar Wolfenbüttel, Deutschland</orgName>
+                </org>
+                <org xml:id="org__110">
+                    <orgName>Higher School of Economics, Moskau</orgName>
+                </org>
+                <org xml:id="org__111">
+                    <orgName>Higher School of Economics, Moskau, Russland</orgName>
+                </org>
+                <org xml:id="org__112">
+                    <orgName>Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität
+                        Halle-Wittenberg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__113">
+                    <orgName>Hochschule Mainz - University of Applied Sciences,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__114">
+                    <orgName>Hochschule Mainz – University of Applied Sciences</orgName>
+                </org>
+                <org xml:id="org__115">
+                    <orgName>Hochschule Mainz, Deutschland</orgName>
+                </org>
+                <org xml:id="org__116">
+                    <orgName>Hochschule für angewandte Wissenschaften, Hamburg</orgName>
+                </org>
+                <org xml:id="org__117">
+                    <orgName>Humboldt Universität zu Berlin; Eberhard Karls Universität
+                        Tübingen</orgName>
+                </org>
+                <org xml:id="org__118">
+                    <orgName>Humboldt-Universität zu Berlin</orgName>
+                </org>
+                <org xml:id="org__119">
+                    <orgName>Humboldt-Universität zu Berlin, Deutschland</orgName>
+                </org>
+                <org xml:id="org__120">
+                    <orgName>Humboldt-Universität, Berlin</orgName>
+                </org>
+                <org xml:id="org__121">
+                    <orgName>ICARUS, Wien, Österreich</orgName>
+                </org>
+                <org xml:id="org__122">
+                    <orgName>IDS Mannheim; Universität Mannheim</orgName>
+                </org>
+                <org xml:id="org__123">
+                    <orgName>IDS Mannheim; Universität zu Köln</orgName>
+                </org>
+                <org xml:id="org__124">
+                    <orgName>Institut Josef Sefan, Slowenien</orgName>
+                </org>
+                <org xml:id="org__125">
+                    <orgName>Institut für Deutsche Philologie, Julius-Maximilians-Universität
+                        Würzburg</orgName>
+                </org>
+                <org xml:id="org__126">
+                    <orgName>Institut für Deutsche Sprache, Deutschland</orgName>
+                </org>
+                <org xml:id="org__127">
+                    <orgName>Institut für Deutsche Sprache, Mannheim, Deutschland</orgName>
+                </org>
+                <org xml:id="org__128">
+                    <orgName>Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische
+                        Akademie der Wissenschaften</orgName>
+                </org>
+                <org xml:id="org__129">
+                    <orgName>Institut für Dokumentologie und Editorik (IDE);
+                        Karl-Franzens-Universität Graz</orgName>
+                </org>
+                <org xml:id="org__130">
+                    <orgName>Institut für Dokumentologie und Editorik (IDE); Universität zu
+                        Köln</orgName>
+                </org>
+                <org xml:id="org__131">
+                    <orgName>Institut für Dokumentologie und Editorik (IDE); Österreichische
+                        Nationalbibliothek</orgName>
+                </org>
+                <org xml:id="org__132">
+                    <orgName>Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische
+                        Akademie der Wissenschaften</orgName>
+                </org>
+                <org xml:id="org__133">
+                    <orgName>Institut für Dokumentologie und Editorik e.V.; Universität
+                        Würzburg</orgName>
+                </org>
+                <org xml:id="org__134">
+                    <orgName>Institut für Dokumentologie und Editorik e.V.; Universität zu
+                        Köln/CCeH</orgName>
+                </org>
+                <org xml:id="org__135">
+                    <orgName>Institut für Europäische Geschichte, Deutschland</orgName>
+                </org>
+                <org xml:id="org__136">
+                    <orgName>Institut für Geoinformatik, WWU Münster, Deutschland</orgName>
+                </org>
+                <org xml:id="org__137">
+                    <orgName>Institut für Germanistik, AAU Klagenfurt</orgName>
+                </org>
+                <org xml:id="org__138">
+                    <orgName>Institut für Linguistik, Universität zu Köln</orgName>
+                </org>
+                <org xml:id="org__139">
+                    <orgName>Institut für Literaturwissenschaft, Universität Stuttgart</orgName>
+                </org>
+                <org xml:id="org__140">
+                    <orgName>Institut für Literaturwissenschaft, Universität Stuttgart,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__141">
+                    <orgName>Institut für Literaturwissenschaft, Universtität Stuttgart,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__142">
+                    <orgName>Institut für Maschinelle Sprachverarbeitung, Universität
+                        Stuttgart</orgName>
+                </org>
+                <org xml:id="org__143">
+                    <orgName>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__144">
+                    <orgName>Institut für die Geschichte der deutschen Juden (IGdJ),
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__145">
+                    <orgName>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__146">
+                    <orgName>Institute for Bulgarian Language, Bulgarien</orgName>
+                </org>
+                <org xml:id="org__147">
+                    <orgName>Instituut voor Nederlandse Lexicologie, Niederlande</orgName>
+                </org>
+                <org xml:id="org__148">
+                    <orgName>JGU Mainz, Deutschland</orgName>
+                </org>
+                <org xml:id="org__149">
+                    <orgName>JMU Würzburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__150">
+                    <orgName>Jena University Language &amp; Information Engineering Lab (JULIE Lab),
+                        Friedrich-Schiller-Universität Jena, Jena, Deutschland</orgName>
+                </org>
+                <org xml:id="org__151">
+                    <orgName>Johann Wolfgang Goethe-Universität Frankfurt am Main</orgName>
+                </org>
+                <org xml:id="org__152">
+                    <orgName>Johannes Gutenberg-Universität Mainz</orgName>
+                </org>
+                <org xml:id="org__153">
+                    <orgName>Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der
+                        Wissenschaften und der Literatur Mainz, Deutschland</orgName>
+                </org>
+                <org xml:id="org__154">
+                    <orgName>Johannes Gutenberg-Universität Mainz, Deutschland; Technische
+                        Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der
+                        Literatur Mainz, Deutschland</orgName>
+                </org>
+                <org xml:id="org__155">
+                    <orgName>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv
+                        Mainz</orgName>
+                </org>
+                <org xml:id="org__156">
+                    <orgName>Julius-Maximilians-Universität Würzburg</orgName>
+                </org>
+                <org xml:id="org__157">
+                    <orgName>Julius-Maximilians-Universität Würzburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__158">
+                    <orgName>K Dictionaries Ltd., Israel</orgName>
+                </org>
+                <org xml:id="org__159">
+                    <orgName>Karl-Franzens-Universität Graz</orgName>
+                </org>
+                <org xml:id="org__160">
+                    <orgName>Karl-Franzens-Universität Graz; Open Knowledge Forum
+                        Österreich</orgName>
+                </org>
+                <org xml:id="org__161">
+                    <orgName>Karlsruher Institut für Technologie, Deutschland</orgName>
+                </org>
+                <org xml:id="org__162">
+                    <orgName>Kobenhavns Universitet, Dänemark</orgName>
+                </org>
+                <org xml:id="org__163">
+                    <orgName>L'Université Paris Descartes, Frankreich</orgName>
+                </org>
+                <org xml:id="org__164">
+                    <orgName>LMU München, Deutschland</orgName>
+                </org>
+                <org xml:id="org__165">
+                    <orgName>Landesarchiv Baden-Württemberg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__166">
+                    <orgName>Language Technology Group, Universität Hamburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__167">
+                    <orgName>Le Mans Université, Frankreich</orgName>
+                </org>
+                <org xml:id="org__168">
+                    <orgName>Lehrstuhl für Digital Humanities, Universität Passau,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__169">
+                    <orgName>Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web
+                        Information Systems, Universität Passau, Deutschland</orgName>
+                </org>
+                <org xml:id="org__170">
+                    <orgName>Lehrstuhl für Medieninformatik, Universität Regensburg</orgName>
+                </org>
+                <org xml:id="org__171">
+                    <orgName>Lehrstuhl für Slavische Literaturen und Kulturen, Universität Passau,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__172">
+                    <orgName>Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)</orgName>
+                </org>
+                <org xml:id="org__173">
+                    <orgName>Leiterin des Rats für Informationsinfrastrukturen (RfII),
+                        Geschäftsstelle Göttingen</orgName>
+                </org>
+                <org xml:id="org__174">
+                    <orgName>Lexical Computing CZ s.r.o.,Tschechien</orgName>
+                </org>
+                <org xml:id="org__175">
+                    <orgName>Ludwig-Maximilians-Universität München, Deutschland</orgName>
+                </org>
+                <org xml:id="org__176">
+                    <orgName>MLU Halle/Wittenberg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__177">
+                    <orgName>Magyar Tudományos Akadémia,Ungarn</orgName>
+                </org>
+                <org xml:id="org__178">
+                    <orgName>Martin-Luther-Universität Halle-Wittenberg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__179">
+                    <orgName>Max Weber Stiftung</orgName>
+                </org>
+                <org xml:id="org__180">
+                    <orgName>Max Weber Stiftung, Bonn</orgName>
+                </org>
+                <org xml:id="org__181">
+                    <orgName>Max-Planck-Institut für Informatik, Saarbrücken, Deutschland</orgName>
+                </org>
+                <org xml:id="org__182">
+                    <orgName>Max-Planck-Institut für Kunstgeschichte Rom</orgName>
+                </org>
+                <org xml:id="org__183">
+                    <orgName>Max-Planck-Institut für europäische Rechtsgeschichte,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__184">
+                    <orgName>Max-Planck-Institut für europäische Rechtsgeschichte, Frankfurt am
+                        Main</orgName>
+                </org>
+                <org xml:id="org__185">
+                    <orgName>Medienzentrum/TU Dresden, Deutschland</orgName>
+                </org>
+                <org xml:id="org__186">
+                    <orgName>Mittelbayerische Zeitung Regensburg</orgName>
+                </org>
+                <org xml:id="org__187">
+                    <orgName>Nasjonalbiblioteket, Oslo, Norwegen</orgName>
+                </org>
+                <org xml:id="org__188">
+                    <orgName>National Research University Higher School of Economics, Moskau,
+                        Russland</orgName>
+                </org>
+                <org xml:id="org__189">
+                    <orgName>National Research University Higher School of Economics,
+                        Russland</orgName>
+                </org>
+                <org xml:id="org__190">
+                    <orgName>National Universtiy of Ireland, Galway Irland</orgName>
+                </org>
+                <org xml:id="org__191">
+                    <orgName>Neue Universität Lissabon, Portugal</orgName>
+                </org>
+                <org xml:id="org__192">
+                    <orgName>Niedersächsische Staats- und Universitätsbibliothek Göttingen</orgName>
+                </org>
+                <org xml:id="org__193">
+                    <orgName>Niedersächsische Staats- und Universitätsbibliothek Göttingen,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__194">
+                    <orgName>Niedersächsische Staats- und Universitätsbibliothek, Göttingen,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__195">
+                    <orgName>Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität
+                        Bielefeld</orgName>
+                </org>
+                <org xml:id="org__196">
+                    <orgName>OEAW Österreichische Akademie der Wissenschaften, Österreich</orgName>
+                </org>
+                <org xml:id="org__197">
+                    <orgName>Otto-Friedrich-Universität Bamberg</orgName>
+                </org>
+                <org xml:id="org__198">
+                    <orgName>Philipps-Universität Marburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__199">
+                    <orgName>RUB Bochum, Deutschland</orgName>
+                </org>
+                <org xml:id="org__200">
+                    <orgName>RWTH Aachen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__201">
+                    <orgName>Real Academia Española; Spanien</orgName>
+                </org>
+                <org xml:id="org__202">
+                    <orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
+                        Altamerikanistik, Deutschland</orgName>
+                </org>
+                <org xml:id="org__203">
+                    <orgName>Rheinische Friedrich-Wilhelms-Universität, Abteilung für
+                        Altamerikanistik, Deutschland; La Trobe University, Department of
+                        Archaeology and History, Australien</orgName>
+                </org>
+                <org xml:id="org__204">
+                    <orgName>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</orgName>
+                </org>
+                <org xml:id="org__205">
+                    <orgName>Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe
+                        University Melbourne, Australien</orgName>
+                </org>
+                <org xml:id="org__206">
+                    <orgName>Robert-Musil-Institut, AAU Klagenfurt</orgName>
+                </org>
+                <org xml:id="org__207">
+                    <orgName>Ruprecht-Karls-Universität Heidelberg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__208">
+                    <orgName>Ruprecht-Karls-Universität, Heidelberg</orgName>
+                </org>
+                <org xml:id="org__209">
+                    <orgName>Römisch-Germanische Kommission des Deutschen Archäologischen
+                        Instituts</orgName>
+                </org>
+                <org xml:id="org__210">
+                    <orgName>SUB Göttingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__211">
+                    <orgName>Servicezentrum eSciences, Universität Trier, Deutschland</orgName>
+                </org>
+                <org xml:id="org__212">
+                    <orgName>Sprache und Raum Laboratorium, Universität Zürich, Schweiz</orgName>
+                </org>
+                <org xml:id="org__213">
+                    <orgName>Staats- und Universtitätsbibliothek Göttingen</orgName>
+                </org>
+                <org xml:id="org__214">
+                    <orgName>Staatsarchiv des Kantons Zürich, Schweiz</orgName>
+                </org>
+                <org xml:id="org__215">
+                    <orgName>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__216">
+                    <orgName>Staatsbibliothek zu Berlin Preußischer Kulturbesitz,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__217">
+                    <orgName>Steinbuch Centre for Computing / KIT</orgName>
+                </org>
+                <org xml:id="org__218">
+                    <orgName>Steinheim-Institut, Deutschland</orgName>
+                </org>
+                <org xml:id="org__219">
+                    <orgName>Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich
+                        Informationswissenschaften, Fachhochschule Potsdam, Deutschland</orgName>
+                </org>
+                <org xml:id="org__220">
+                    <orgName>Stiftung Preußischer Kulturbesitz</orgName>
+                </org>
+                <org xml:id="org__221">
+                    <orgName>Stiftung Preußischer Kulturbesitz, Berlin</orgName>
+                </org>
+                <org xml:id="org__222">
+                    <orgName>Stiftung Preußischer Kulturbesitz, Deutschland</orgName>
+                </org>
+                <org xml:id="org__223">
+                    <orgName>Sächsische Akademie der Wissenschaften zu Leipzig,
+                        Deutschland</orgName>
+                </org>
+                <org xml:id="org__224">
+                    <orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland;
+                        Universität Leipzig, Deutschland</orgName>
+                </org>
+                <org xml:id="org__225">
+                    <orgName>Sächsische Akademie der Wissenschaften zu Leipzig, Projekt
+                        Bach-Repertorium</orgName>
+                </org>
+                <org xml:id="org__226">
+                    <orgName>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek
+                        Dresden</orgName>
+                </org>
+                <org xml:id="org__227">
+                    <orgName>Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
+                        Dresden (SLUB), Deutschland</orgName>
+                </org>
+                <org xml:id="org__228">
+                    <orgName>TU Dresden, Deutschland</orgName>
+                </org>
+                <org xml:id="org__229">
+                    <orgName>Technische Universität Berlin, Deutschland</orgName>
+                </org>
+                <org xml:id="org__230">
+                    <orgName>Technische Universität Darmstadt, Deutschland</orgName>
+                </org>
+                <org xml:id="org__231">
+                    <orgName>Technische Universität Darmstadt, Deutschland; Akademie der
+                        Wissenschaften und der Literatur Mainz, Deutschland</orgName>
+                </org>
+                <org xml:id="org__232">
+                    <orgName>Technische Universität Dortmund</orgName>
+                </org>
+                <org xml:id="org__233">
+                    <orgName>Technische Universität Dresden, Deutschland</orgName>
+                </org>
+                <org xml:id="org__234">
+                    <orgName>Technische Universität Dresden, Institut für Philosophie</orgName>
+                </org>
+                <org xml:id="org__235">
+                    <orgName>Technische Universität Hamburg</orgName>
+                </org>
+                <org xml:id="org__236">
+                    <orgName>Technische Universität Hamburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__237">
+                    <orgName>Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</orgName>
+                </org>
+                <org xml:id="org__238">
+                    <orgName>Trier Center for Digital Humanities (TCDH); Universität Trier</orgName>
+                </org>
+                <org xml:id="org__239">
+                    <orgName>ULB Darmstadt, Deutschland</orgName>
+                </org>
+                <org xml:id="org__240">
+                    <orgName>UNED, Spanien</orgName>
+                </org>
+                <org xml:id="org__241">
+                    <orgName>Universidade Nova de Lisboa, Portugal</orgName>
+                </org>
+                <org xml:id="org__242">
+                    <orgName>Universiteit Antwerpen</orgName>
+                </org>
+                <org xml:id="org__243">
+                    <orgName>University of Amsterdam, Niederlande</orgName>
+                </org>
+                <org xml:id="org__244">
+                    <orgName>University of Basel, Switzerland</orgName>
+                </org>
+                <org xml:id="org__245">
+                    <orgName>University of Cambridge, Vereinigtes Königreich</orgName>
+                </org>
+                <org xml:id="org__246">
+                    <orgName>University of Passau, Deutschland</orgName>
+                </org>
+                <org xml:id="org__247">
+                    <orgName>University of Sheffield, UK</orgName>
+                </org>
+                <org xml:id="org__248">
+                    <orgName>University of Verona, Italy</orgName>
+                </org>
+                <org xml:id="org__249">
+                    <orgName>Università degli Studi di Roma La Spienza, Italien</orgName>
+                </org>
+                <org xml:id="org__250">
+                    <orgName>Università di Bologna, Italien</orgName>
+                </org>
+                <org xml:id="org__251">
+                    <orgName>Universität Antwerpen, Belgien</orgName>
+                </org>
+                <org xml:id="org__252">
+                    <orgName>Universität Bamberg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__253">
+                    <orgName>Universität Basel, Schweiz</orgName>
+                </org>
+                <org xml:id="org__254">
+                    <orgName>Universität Bern, Historisches Institut</orgName>
+                </org>
+                <org xml:id="org__255">
+                    <orgName>Universität Bern, Historisches Institut; Universität zu Köln, Cologne
+                        Center for eHumanities</orgName>
+                </org>
+                <org xml:id="org__256">
+                    <orgName>Universität Bern, Schweiz</orgName>
+                </org>
+                <org xml:id="org__257">
+                    <orgName>Universität Bern, Schweiz; Cologne Center for eHumanities</orgName>
+                </org>
+                <org xml:id="org__258">
+                    <orgName>Universität Bonn, Abteilung für Altamerikanistik, Deutschland</orgName>
+                </org>
+                <org xml:id="org__259">
+                    <orgName>Universität Cambridge, Vereinigtes Königreich</orgName>
+                </org>
+                <org xml:id="org__260">
+                    <orgName>Universität Erlangen</orgName>
+                </org>
+                <org xml:id="org__261">
+                    <orgName>Universität Graz</orgName>
+                </org>
+                <org xml:id="org__262">
+                    <orgName>Universität Graz, Österreich</orgName>
+                </org>
+                <org xml:id="org__263">
+                    <orgName>Universität Göttingen, Deutschland</orgName>
+                </org>
+                <org xml:id="org__264">
+                    <orgName>Universität Hamburg</orgName>
+                </org>
+                <org xml:id="org__265">
+                    <orgName>Universität Hamburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__266">
+                    <orgName>Universität Heidelberg, Interdisziplinäres Zentrum für
+                        wissenschaftliches Rechnen, Heidelberg</orgName>
+                </org>
+                <org xml:id="org__267">
+                    <orgName>Universität Heidelberg; Universität Stuttgart</orgName>
+                </org>
+                <org xml:id="org__268">
+                    <orgName>Universität Hildesheim, Deutschland</orgName>
+                </org>
+                <org xml:id="org__269">
+                    <orgName>Universität Innsbruck, Österreich</orgName>
+                </org>
+                <org xml:id="org__270">
+                    <orgName>Universität Kassel, Deutschland</orgName>
+                </org>
+                <org xml:id="org__271">
+                    <orgName>Universität Leipzig</orgName>
+                </org>
+                <org xml:id="org__272">
+                    <orgName>Universität Leipzig, Deutschland</orgName>
+                </org>
+                <org xml:id="org__273">
+                    <orgName>Universität Leipzig\Historisches Seminar, Deutschland</orgName>
+                </org>
+                <org xml:id="org__274">
+                    <orgName>Universität Luxemburg</orgName>
+                </org>
+                <org xml:id="org__275">
+                    <orgName>Universität Osnabrück, Deutschland</orgName>
+                </org>
+                <org xml:id="org__276">
+                    <orgName>Universität Paderborn</orgName>
+                </org>
+                <org xml:id="org__277">
+                    <orgName>Universität Paderborn, Deutschland</orgName>
+                </org>
+                <org xml:id="org__278">
+                    <orgName>Universität Passau, Deutschland</orgName>
+                </org>
+                <org xml:id="org__279">
+                    <orgName>Universität Potsdam</orgName>
+                </org>
+                <org xml:id="org__280">
+                    <orgName>Universität Potsdam, Deutschland</orgName>
+                </org>
+                <org xml:id="org__281">
+                    <orgName>Universität Regensburg</orgName>
+                </org>
+                <org xml:id="org__282">
+                    <orgName>Universität Regensburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__283">
+                    <orgName>Universität Rostock CITLab</orgName>
+                </org>
+                <org xml:id="org__284">
+                    <orgName>Universität St. Gallen, Schweiz</orgName>
+                </org>
+                <org xml:id="org__285">
+                    <orgName>Universität Stuttgart</orgName>
+                </org>
+                <org xml:id="org__286">
+                    <orgName>Universität Stuttgart, Deutschland</orgName>
+                </org>
+                <org xml:id="org__287">
+                    <orgName>Universität Trier, Deutschland</orgName>
+                </org>
+                <org xml:id="org__288">
+                    <orgName>Universität Wien</orgName>
+                </org>
+                <org xml:id="org__289">
+                    <orgName>Universität Wien, Österreich</orgName>
+                </org>
+                <org xml:id="org__290">
+                    <orgName>Universität Würzburg</orgName>
+                </org>
+                <org xml:id="org__291">
+                    <orgName>Universität Würzburg, Deutschland</orgName>
+                </org>
+                <org xml:id="org__292">
+                    <orgName>Universität Zürich, Schweiz</orgName>
+                </org>
+                <org xml:id="org__293">
+                    <orgName>Universität des Saarlandes</orgName>
+                </org>
+                <org xml:id="org__294">
+                    <orgName>Universität des Saarlandes, Deutschland</orgName>
+                </org>
+                <org xml:id="org__295">
+                    <orgName>Universität des Saarlandes, Saarbrücken, Deutschland</orgName>
+                </org>
+                <org xml:id="org__296">
+                    <orgName>Universität zu Köln</orgName>
+                </org>
+                <org xml:id="org__297">
+                    <orgName>Universität zu Köln, Cologne Center for eHumanities</orgName>
+                </org>
+                <org xml:id="org__298">
+                    <orgName>Universität zu Köln, Deutschland</orgName>
+                </org>
+                <org xml:id="org__299">
+                    <orgName>Universitätsbibliothek Heidelberg</orgName>
+                </org>
+                <org xml:id="org__300">
+                    <orgName>Universitätsbibliothek Leipzig, Deutschland</orgName>
+                </org>
+                <org xml:id="org__301">
+                    <orgName>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</orgName>
+                </org>
+                <org xml:id="org__302">
+                    <orgName>Vienna University of Technology, Computer Vision Lab</orgName>
+                </org>
+                <org xml:id="org__303">
+                    <orgName>WU Wien</orgName>
+                </org>
+                <org xml:id="org__304">
+                    <orgName>WWU Münster, Germany; ELDA, France; IDS Mannheim</orgName>
+                </org>
+                <org xml:id="org__305">
+                    <orgName>WWU Münster, Germany; IDS Mannheim; ELDA, France</orgName>
+                </org>
+                <org xml:id="org__306">
+                    <orgName>Wirtschaftsuniversität Wien, Österreich</orgName>
+                </org>
+                <org xml:id="org__307">
+                    <orgName>ZIM-ACDH, Universität Graz, Österreich</orgName>
+                </org>
+                <org xml:id="org__308">
+                    <orgName>Zürcher Hochschule der Künste, Schweiz</orgName>
+                </org>
+                <org xml:id="org__309">
+                    <orgName>and Service Center for the Humanities DaSCH, Universität Basel (DHLab)
+                        und Schweizerische Akademie der Geistes- und Sozialwissenschaften,
+                        Schweiz</orgName>
+                </org>
+                <org xml:id="org__310">
+                    <orgName>bitGilde IT Solutions UG, Deutschland</orgName>
+                </org>
+                <org xml:id="org__311">
+                    <orgName>unabhängiger Wissenschaftler</orgName>
+                </org>
+                <org xml:id="org__312">
+                    <orgName>ÖAW, Wien</orgName>
+                </org>
+                <org xml:id="org__313">
+                    <orgName>Österreichische Akademie der Wissenschaften, Wien, Österreich</orgName>
+                </org>
+                <org xml:id="org__314">
+                    <orgName>Österreichische Akademie der Wissenschaften, Österreich</orgName>
+                </org>
+                <org xml:id="org__315">
+                    <orgName>Österreichische Nationalbibliothek</orgName>
+                </org>
+                <org xml:id="org__316">
+                    <orgName/>
+                </org>
+            </listOrg>
+        </body>
     </text>
 </TEI>

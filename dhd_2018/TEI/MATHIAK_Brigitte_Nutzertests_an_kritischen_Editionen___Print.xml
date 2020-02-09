@@ -147,117 +147,117 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1323">
-                        <hi rend="bold">Barrett, A</hi>. (2005): “The Information-Seeking Habits of Graduate Student Researchers in the Humanities” in: 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1323"><hi rend="bold">Barrett, A</hi>. (2005): “The Information-Seeking Habits of Graduate Student Researchers in the Humanities” in: 
                         <hi rend="italic">The Journal of Academic Librarianship</hi> 31(4), 324–331.
-                    </bibl>
-                    <bibl ref="#bibl__1324">
-                        <hi rend="bold">Belkin, N</hi>. (1993): “Interaction with Texts: Information Retrieval as Information Seeking Behavior” in: Knorz, G., Krause, J., Womser-Hacker, C. (Eds.) Information Retrieval '93: Von der Modellierung zur Anwendung, Regensburg, vol. 12, pp. 55-66 . Schriften zur Informationswissenschaft.
-                    </bibl>
-                    <bibl ref="#bibl__1325">
-                        <hi rend="bold">Bevan, N</hi>. (1995): “Measuring Usability as Quality of Use” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1324"><hi rend="bold">Belkin, N</hi>. (1993): “Interaction with Texts: Information Retrieval as Information Seeking Behavior” in: Knorz, G., Krause, J., Womser-Hacker, C. (Eds.) Information Retrieval '93: Von der Modellierung zur Anwendung, Regensburg, vol. 12, pp. 55-66 . Schriften zur Informationswissenschaft.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1325"><hi rend="bold">Bevan, N</hi>. (1995): “Measuring Usability as Quality of Use” in: 
                         <hi rend="italic">Software Quality Journal</hi> 4: 115.
-                    </bibl>
-                    <bibl ref="#bibl__1326">
-                        <hi rend="bold">Buchanan, G./Cunningham, S.J./ Blandford, A./ Rimmer, J. / Warwick, C.</hi> (2005): “Information seeking by humanities scholars” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1326"><hi rend="bold">Buchanan, G./Cunningham, S.J./ Blandford, A./ Rimmer, J. / Warwick, C.</hi> (2005): “Information seeking by humanities scholars” in: 
                         <hi rend="italic">International Conference on Theory and Practice of Digital Libraries</hi> (pp. 218-229). Springer, Berlin, Heidelberg. 
-                    </bibl>
-                    <bibl ref="#bibl__1327">
-                        <hi rend="bold">Caria, F./ Mathiak. B.</hi> (2017): “Hybrid Focus Group for the Evaluation of Digital Scholarly Editions of Literary Authors”, IDE. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1327"><hi rend="bold">Caria, F./ Mathiak. B.</hi> (2017): “Hybrid Focus Group for the Evaluation of Digital Scholarly Editions of Literary Authors”, IDE. 
                         <hi rend="italic">In Druck</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1328">
-                        <hi rend="bold">Chu, C</hi>.(1999): “Literary Critics at Work and their Information Needs: A Research-Phases Model” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1328"><hi rend="bold">Chu, C</hi>.(1999): “Literary Critics at Work and their Information Needs: A Research-Phases Model” in: 
                         <hi rend="italic">Library and Information Science Research</hi>, 21(2): 247-73. 
-                    </bibl>
-                    <bibl ref="#bibl__1329">
-                        <hi rend="bold">Cooper, A./ Reimann, R. / Cronin, D.</hi> (2007): “About face 3: the essentials of interaction design”. John Wiley &amp; Sons. 
-                    </bibl>
-                    <bibl ref="#bibl__1330">
-                        <hi rend="bold">D’Iorio, P</hi>.(2015): “On the Scholarly Use of the Internet. A Conceptual Model” in A. Bozzi (éd.), 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1329"><hi rend="bold">Cooper, A./ Reimann, R. / Cronin, D.</hi> (2007): “About face 3: the essentials of interaction design”. John Wiley &amp; Sons. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1330"><hi rend="bold">D’Iorio, P</hi>.(2015): “On the Scholarly Use of the Internet. A Conceptual Model” in A. Bozzi (éd.), 
                         <hi rend="italic">Digital Texts, Translations, Lexicons in a Multi-Modular Web Application : the method and samples</hi>, Firenze, Olschki, 1-25. 
-                    </bibl>
-                    <bibl ref="#bibl__1331">
-                        <hi rend="bold">Drucker, J.</hi> (2011): “Humanities Approaches to Interface Theory” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1331"><hi rend="bold">Drucker, J.</hi> (2011): “Humanities Approaches to Interface Theory” in: 
                         <hi rend="italic">Culture Machine</hi>, vol. pp. 1- 20. 
-                    </bibl>
-                    <bibl ref="#bibl__1332">
-                        <hi rend="bold">Duff, W. M., Johnson, C</hi>. (2002): “Accidentally Found on Purpose: Information-Seeking Behavior of Historians in Archives” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1332"><hi rend="bold">Duff, W. M., Johnson, C</hi>. (2002): “Accidentally Found on Purpose: Information-Seeking Behavior of Historians in Archives” in: 
                         <hi rend="italic">The Library Quarterly</hi>, Vol. 72, No. 4, pp. 472-496.
-                    </bibl>
-                    <bibl ref="#bibl__1333">
-                        <hi rend="bold">Ellis, D</hi>. (2003): “A Comparison of the Information Seeking Patterns of Researchers in the Physical and Social Sciences.” Journal of Documentation, vol. 49, no. 4, 356 - 369.
-                    </bibl>
-                    <bibl ref="#bibl__1334">
-                        <hi rend="bold">Gibbs, F./ Owens, T</hi>. (2012): “Building Better Digital Humanities Tools: Toward broader audiences and user-centered designs”. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1333"><hi rend="bold">Ellis, D</hi>. (2003): “A Comparison of the Information Seeking Patterns of Researchers in the Physical and Social Sciences.” Journal of Documentation, vol. 49, no. 4, 356 - 369.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1334"><hi rend="bold">Gibbs, F./ Owens, T</hi>. (2012): “Building Better Digital Humanities Tools: Toward broader audiences and user-centered designs”. 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 6:2.
-                    </bibl>
-                    <bibl ref="#bibl__1335">
-                        <hi rend="bold">Leblanc, E</hi>. (2016): “Thinking About Users and Their Interfaces: The Case of Fonte Gaia Bib” in: Book of Abstracts for 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1335"><hi rend="bold">Leblanc, E</hi>. (2016): “Thinking About Users and Their Interfaces: The Case of Fonte Gaia Bib” in: Book of Abstracts for 
                         <hi rend="italic">Digital Scholarly Editions as Interfaces</hi>. International Symposium. Austrian Centre for Digital Humanities at the University of Graz 49-50
-                    </bibl>
-                    <bibl ref="#bibl__1336">
-                        <hi rend="bold">Kelly, A</hi>. (2015): “Tablet computers for the dissemination of digital scholarly editions” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1336"><hi rend="bold">Kelly, A</hi>. (2015): “Tablet computers for the dissemination of digital scholarly editions” in: 
                         <hi rend="italic">Manuscritica</hi>, no. 28, pp. 123-140.
-                    </bibl>
-                    <bibl ref="#bibl__1337">
-                        <hi rend="bold">Kern, D. / Mathiak, B</hi>., (2015): “Are There Any Differences in Data Set Retrieval Compared to Well-Known Literature Retrieval?” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1337"><hi rend="bold">Kern, D. / Mathiak, B</hi>., (2015): “Are There Any Differences in Data Set Retrieval Compared to Well-Known Literature Retrieval?” in: 
                         <hi rend="italic">International Conference on Theory and Practice of Digital Libraries</hi> 197-208. Springer, Cham.
-                    </bibl>
-                    <bibl ref="#bibl__1338">
-                        <hi rend="bold">McCarthy, J./ Wright, P</hi>. (2007): “Technology as Experience” MIT Press.
-                    </bibl>
-                    <bibl ref="#bibl__1339">
-                        <hi rend="bold">Nielsen, J</hi>. (1994): “Guerrilla HCI: Using Discount Usability Engineering to Penetrate the Intimidation Barrier”, 1994. http://www.nngroup.com/articles/guerrilla-hci/. [letzter Zugriff 23. September 2017]
-                    </bibl>
-                    <bibl ref="#bibl__1340">
-                        <hi rend="bold">Mueller, P., Oppenheimer, D</hi>. (2014): “The pen is mightier than the keyboard” in
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1338"><hi rend="bold">McCarthy, J./ Wright, P</hi>. (2007): “Technology as Experience” MIT Press.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1339"><hi rend="bold">Nielsen, J</hi>. (1994): “Guerrilla HCI: Using Discount Usability Engineering to Penetrate the Intimidation Barrier”, 1994. http://www.nngroup.com/articles/guerrilla-hci/. [letzter Zugriff 23. September 2017]
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1340"><hi rend="bold">Mueller, P., Oppenheimer, D</hi>. (2014): “The pen is mightier than the keyboard” in
                         <hi rend="italic"> Psychological Science</hi> 6(25) 1159-1168.
-                    </bibl>
-                    <bibl ref="#bibl__1341">
-                        <hi rend="bold">Nietzsche, F.W. / Colli, G. / Montinari, M</hi>. (1997): “Werke: Kritische Gesamtausgabe (Vol. 5, No. 1)“ de Gruyter.
-                    </bibl>
-                    <bibl ref="#bibl__1342">
-                        <hi rend="bold">Palmer, C.L./ Teffeau, L.C. / Pirmann, C.M.</hi> (2009): “Scholarly information practices in the online environment”. Report commissioned by OCLC Research. Published online at: www. oclc.org/programs/publications/reports/2009-02.pdf. [letzter Zugriff 23. September 2017]
-                    </bibl>
-                    <bibl ref="#bibl__1343">
-                        <hi rend="bold">Porter, Dorothy</hi> (2013): “Medievalists and the Scholarly Digital Edition.” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1341"><hi rend="bold">Nietzsche, F.W. / Colli, G. / Montinari, M</hi>. (1997): “Werke: Kritische Gesamtausgabe (Vol. 5, No. 1)“ de Gruyter.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1342"><hi rend="bold">Palmer, C.L./ Teffeau, L.C. / Pirmann, C.M.</hi> (2009): “Scholarly information practices in the online environment”. Report commissioned by OCLC Research. Published online at: www. oclc.org/programs/publications/reports/2009-02.pdf. [letzter Zugriff 23. September 2017]
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1343"><hi rend="bold">Porter, Dorothy</hi> (2013): “Medievalists and the Scholarly Digital Edition.” in: 
                         <hi rend="italic">Scholarly Editing</hi> 34, 1-26. 
-                    </bibl>
-                    <bibl ref="#bibl__1344">
-                        <hi rend="bold">Porter, Dorothy</hi> (2016): “What is an Edition anyway? A critical examination of Digital Editions since 2002”. Keynote lecture. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1344"><hi rend="bold">Porter, Dorothy</hi> (2016): “What is an Edition anyway? A critical examination of Digital Editions since 2002”. Keynote lecture. 
                         <hi rend="italic">Digital Scholarly Editions as Interfaces.</hi> International Symposium. Austrian Centre for Digital Humanities at the University of Graz. https://static.uni-graz.at/fileadmin/gewi-zentren/Informationsmodellierung/PDF/Porter_what-is-an-edition-anyway-min.pdf [letzter Zugriff 23. September 2017] 
-                    </bibl>
-                    <bibl ref="#bibl__1345">
-                        <hi rend="bold">Rimmer, J</hi>. (2008): “An examination of the physical and digital qualities of humanities research.” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1345"><hi rend="bold">Rimmer, J</hi>. (2008): “An examination of the physical and digital qualities of humanities research.” in: 
                         <hi rend="italic">Information Processing and Management</hi>, vol. 44, no. 3, pp. 1374-1392.
-                    </bibl>
-                    <bibl ref="#bibl__1346">
-                        <hi rend="bold">Ruecker, S./ Radzikowska, M./ Sinclair, S.</hi> (2011): “Visual Interface Design for Digital Cultural Heritage. A Guide to Rich Prospect Browsing”, Routledge : New York, 2011.
-                    </bibl>
-                    <bibl ref="#bibl__1347">
-                        <hi rend="bold">Sahle, P</hi>. (2013): “Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 1: Textbegriffe und Recodierung“. Dissertation, Universität zu Köln, 2013.
-                    </bibl>
-                    <bibl ref="#bibl__1348">
-                        <hi rend="bold">Santos, T</hi>. (2015): “LdoD Archive: User Experience and Identity Design Processes” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1346"><hi rend="bold">Ruecker, S./ Radzikowska, M./ Sinclair, S.</hi> (2011): “Visual Interface Design for Digital Cultural Heritage. A Guide to Rich Prospect Browsing”, Routledge : New York, 2011.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1347"><hi rend="bold">Sahle, P</hi>. (2013): “Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 1: Textbegriffe und Recodierung“. Dissertation, Universität zu Köln, 2013.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1348"><hi rend="bold">Santos, T</hi>. (2015): “LdoD Archive: User Experience and Identity Design Processes” in: 
                         <hi rend="italic"> Digital Literary Studies</hi>, Coimbra. https://www.researchgate.net/publication/280621302_LdoD_Archive_User_Experience
                         _and_Identity_Design_Processes [letzter Zugriff 23. September 2017]
-                    </bibl>
-                    <bibl ref="#bibl__39">
-                        <hi rend="bold">Unsworth, J</hi>. (2000): “Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?” in 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__39"><hi rend="bold">Unsworth, J</hi>. (2000): “Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?” in 
                         <hi rend="italic">Humanities Computing: formal methods, experimental practice</hi> sponsored by King's College, London.
-                    </bibl>
-                    <bibl ref="#bibl__1349">
-                        <hi rend="bold">Visconti, A</hi>. (2010): “Songs of Innocence and of Experience: Amateur Users and Digital Texts” Dissertation, School of Information, University of Michigan. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1349"><hi rend="bold">Visconti, A</hi>. (2010): “Songs of Innocence and of Experience: Amateur Users and Digital Texts” Dissertation, School of Information, University of Michigan. 
                         <lb/>https://deepblue.lib.umich.edu/handle/2027.42/71380 [letzter Zugriff 23. September 2017]
-                    </bibl>
-                    <bibl ref="#bibl__1350">
-                        <hi rend="bold">Warwick, C./ Terras, M. / Nyhan, J</hi>. eds. (2012): “Digital humanities in practice”. Facet Publishing. 
-                    </bibl>
-                    <bibl ref="#bibl__1351">
-                        <hi rend="bold">Warwick, Claire</hi> (2006) “The LAIRAH Project: Log Analysis of Digital Resources in the Arts and Humanities”. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1350"><hi rend="bold">Warwick, C./ Terras, M. / Nyhan, J</hi>. eds. (2012): “Digital humanities in practice”. Facet Publishing. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1351"><hi rend="bold">Warwick, Claire</hi> (2006) “The LAIRAH Project: Log Analysis of Digital Resources in the Arts and Humanities”. 
                         <hi rend="italic">Final Report to the Arts and Humanities Research Council</hi>. Arts and Humanities Research Council. http://discovery.ucl.ac.uk/189677/ [letzter Zugriff 23. September 2017] 
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

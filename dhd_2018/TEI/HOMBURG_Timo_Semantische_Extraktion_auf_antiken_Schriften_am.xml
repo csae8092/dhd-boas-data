@@ -97,21 +97,21 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1667">
-                        <hi rend="bold">Inglese, G.</hi> (2015): “Towards a hittite treebank. basic challenges and methodological remarks.” In: Corpus-Based Research in the Humanities (CRH) p. 59 1.1
-                    </bibl>
-                    <bibl ref="#bibl__155">
-                        <hi rend="bold">Homburg, T.</hi> (2017): “Postagging and semantic dictionary creation for Hittite cuneiform.” In:DH2017 (2017)
-                    </bibl>
-                    <bibl ref="#bibl__156">
-                        <hi rend="bold">Homburg, T., Chiarcos, C.</hi> (2016): “Word segmentation for Akkadian cuneiform.” In: LREC2016 1.1
-                    </bibl>
-                    <bibl ref="#bibl__157">
-                        <hi rend="bold">Homburg, T., Chiarcos, C., Richter T., Wicke, D.</hi> (2015): “Learning Cuneiform the Modern Way.” In: DhD2015 
-                    </bibl>
-                    <bibl ref="#bibl__1668">
-                        <hi rend="bold">Sukhareva, M., Fuscagni, F., Daxenberger, J., Görke, S., Prechel, D., Gurevych,I.</hi> (Aug 2017): “Distantly supervised pos tagging of low-resource languages under extreme data sparsity: The case of Hittite.” In: LaTeCH-CLfL ’17 Proceedings of the 11th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. pp.95–104 1.1
-                    </bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1667"><hi rend="bold">Inglese, G.</hi> (2015): “Towards a hittite treebank. basic challenges and methodological remarks.” In: Corpus-Based Research in the Humanities (CRH) p. 59 1.1
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__155"><hi rend="bold">Homburg, T.</hi> (2017): “Postagging and semantic dictionary creation for Hittite cuneiform.” In:DH2017 (2017)
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__156"><hi rend="bold">Homburg, T., Chiarcos, C.</hi> (2016): “Word segmentation for Akkadian cuneiform.” In: LREC2016 1.1
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__157"><hi rend="bold">Homburg, T., Chiarcos, C., Richter T., Wicke, D.</hi> (2015): “Learning Cuneiform the Modern Way.” In: DhD2015 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1668"><hi rend="bold">Sukhareva, M., Fuscagni, F., Daxenberger, J., Görke, S., Prechel, D., Gurevych,I.</hi> (Aug 2017): “Distantly supervised pos tagging of low-resource languages under extreme data sparsity: The case of Hittite.” In: LaTeCH-CLfL ’17 Proceedings of the 11th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. pp.95–104 1.1
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

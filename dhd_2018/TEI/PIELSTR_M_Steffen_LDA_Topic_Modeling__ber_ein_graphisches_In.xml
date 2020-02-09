@@ -111,30 +111,30 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__34">
-                        <anchor xml:id="id_docs-internal-guid-2033756f-ba93-21db-bc18-ce75d429b064"/>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__34"><anchor xml:id="id_docs-internal-guid-2033756f-ba93-21db-bc18-ce75d429b064"/>
                         <hi rend="bold">Blei, David M.</hi>
                         (2012): „Probabilistic Topic Models“, in 
                         <hi rend="italic">Communication of the ACM</hi>
                         55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.
-                    </bibl>
-                    <bibl ref="#bibl__7">
-                        <hi rend="bold">McCallum, Andrew K.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__7"><hi rend="bold">McCallum, Andrew K.</hi>
                         (2002): <hi rend="italic">MALLET : A Machine Learning for Language Toolkit</hi>.
                         <ref target="http://mallet.cs.umass.edu/">
                             <hi rend="underline">http://mallet.cs.umass.edu</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__127">
-                        <hi rend="bold">Rehurek, Radim/ Sojka, Petr</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__127"><hi rend="bold">Rehurek, Radim/ Sojka, Petr</hi>
                         (2010): "Software framework for topic modelling with large corpora."
                         <hi rend="italic">In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__128">
-                        <hi rend="bold">Steyvers, Mark/ Griffiths, Tom</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__128"><hi rend="bold">Steyvers, Mark/ Griffiths, Tom</hi>
                         (2006): „Probabilistic Topic Models“, in
                         <hi rend="italic">Latent Semantic Analysis: A Road to Meaning</hi>, herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

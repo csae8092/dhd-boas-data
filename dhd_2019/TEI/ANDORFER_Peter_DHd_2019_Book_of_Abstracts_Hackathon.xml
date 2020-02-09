@@ -242,73 +242,73 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1985">
-                        <hi rend="bold" style="font-size:10pt">Borgman, Christine L.</hi>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1985"><hi rend="bold" style="font-size:10pt">Borgman, Christine L.</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2010): “The Digital Future is Now. A Call to Action for the Humanities”, in: Digital Humanities Quarterly 3 (4): #p16, </hi>
                         <ref target="http://www.digitalhumanities.org/dhq/vol/3/4/000077/000077.html">
                             <hi rend="color(1155CC)" style="font-size:10pt">http://www.digitalhumanities.org/dhq/vol/3/4/000077/000077.html</hi>
                         </ref>
                         <hi style="font-size:10pt">[letzter Zugriff 26. September 2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1986">
-                        <hi rend="bold" style="font-size:10pt">Cremer, Fabian</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1986"><hi rend="bold" style="font-size:10pt">Cremer, Fabian</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2018): “Nun sag, wie hältst Du es mit dem Digitalen Publizieren, Digital Humanities?”, in: Digitale Redaktion (Blog), 21.03.2018, </hi>
                         <ref target="https://editorial.hypotheses.org/113">
                             <hi rend="color(1155CC)" style="font-size:10pt">https://editorial.hypotheses.org/113</hi>
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff 26. September 2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1987">
-                        <hi rend="bold" style="font-size:10pt">DHd-AG</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1987"><hi rend="bold" style="font-size:10pt">DHd-AG</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> "Digitales Publizieren" (2016): “Digitales Publizieren”, Working Paper, 01.03.2016,</hi>
                         <ref target="http://diglib.hab.de/ejournals/ed000008/startx.htm">
                             <hi rend="color(1155CC)" style="font-size:10pt">http://diglib.hab.de/ejournals/ed000008/startx.htm</hi>
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff 26. September 2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1988">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Hannesschläger, Vanessa / Andorfer, Peter </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1988"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Hannesschläger, Vanessa / Andorfer, Peter </hi>
                         <hi style="font-size:10pt">(2018): Menschen gendern? Datenmodellierung zur Erhebung von Geschlechterverteilung am Beispiel der TEI2016 Abstracts App, DHd 2018, Köln,</hi>
                         <ref target="https://doi.org/10.5281/zenodo.1182576">
                             <hi rend="color(1155CC)" style="font-size:10pt">https://doi.org/10.5281/zenodo.1182576</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__115">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Jannidis, Fotis /  Kohle, Hubertus / Rehbein, Malte </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__115"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Jannidis, Fotis /  Kohle, Hubertus / Rehbein, Malte </hi>
                         <hi style="font-size:10pt">(2017)(eds.): Digital Humanities. Eine Einführung,  Stuttgart: J. B. Metzler.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__107">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Kohle, Hubertus </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__107"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Kohle, Hubertus </hi>
                         <hi style="font-size:10pt">(2017): “Digitales Publizieren”, in: Jannidis, Fotis et al. (eds.): Digital Humanities. Eine Einführung,  Stuttgart: J. B. Metzler 199-205.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1989">
-                        <hi rend="bold" style="font-size:10pt">Klaffki, Lisa / Schmunk, Stefan / Stäcker Thomas</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1989"><hi rend="bold" style="font-size:10pt">Klaffki, Lisa / Schmunk, Stefan / Stäcker Thomas</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2018): “Stand der Kulturgutdigitalisierung in Deutschland. Eine Analyse und Handlungsvorschläge des DARIAH-DE Stakeholdergremiums 'Wissenschaftliche Sammlungen'”, DARIAH-DE Working Papers 26, Göttingen, URN: </hi>
                         <ref target="http://resolver.sub.uni-goettingen.de/purl/?dariah-2018-1">
                             <hi rend="color(1155CC)" style="font-size:10pt">urn:nbn:de:gbv:7-dariah-2018-1-3</hi>
                         </ref>
                         <hi style="font-size:10pt">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1990">
-                        <hi rend="bold" style="font-size:10pt">Stäcker, Thomas</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1990"><hi rend="bold" style="font-size:10pt">Stäcker, Thomas</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2012): “Wie schreibt man digital humanities?”, in: DHd-Blog, 19.08.2012,</hi>
                         <ref target="https://dhd-blog.org/?p=673" xml:space="preserve"> </ref>
                         <ref target="https://dhd-blog.org/?p=673">
                             <hi rend="color(1155CC)" style="font-size:10pt">https://dhd-blog.org/?p=673</hi>
                         </ref>
                         <hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff 26. September 2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1991">
-                        <hi rend="bold" style="font-size:10pt">Stäcker, Thomas</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1991"><hi rend="bold" style="font-size:10pt">Stäcker, Thomas</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2017): “Digital Humanities : eine Einführung / Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hg.)”, in:  O-Bib. Das Offene Bibliotheksjournal 4(3): 142-148, </hi>
                         <ref target="https://doi.org/10.5282/o-bib/2017H3S142-148">
                             <hi rend="color(1155CC)" style="font-size:10pt">https://doi.org/10.5282/o-bib/2017H3S142-148</hi>
                         </ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1992">
-                        <hi rend="bold" style="font-size:10pt">Vogeler, Georg</hi>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__1992"><hi rend="bold" style="font-size:10pt">Vogeler, Georg</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2018)(ed.): DHd 2018. Kritik der digitalen Vernunft. Konferenzabstracts, Köln: Universität zu Köln 2018.</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

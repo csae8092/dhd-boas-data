@@ -165,15 +165,15 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__147">
-                        <hi rend="bold">Leifert, Gundram / Strauß, Tobias / Grüning, Tobias / Wustlich, Welf / Labahn, Roger</hi> (2016): „Cells in Multidimensional Recurrent Neural Networks” in: Journal of Machine Learning Research 17, 1-37.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2918">
-                        <hi rend="bold">Prell, Martin</hi> (2018): „»ps: ich bitt noch mahl umb ver gebung meines confusen und üblen schreibens wegen« – Frühneuzeitliche Briefe als Herausforderung automatisierter Handschriftenerkennung“. Online: https://doi.org/10.22032/dbt.34849.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2919">
-                        <hi rend="bold">READ</hi> (2018): „Tutorials and How To Guides“. Online: https://read.transkribus.eu/transkribus/.
-                    </bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__147"><hi rend="bold">Leifert, Gundram / Strauß, Tobias / Grüning, Tobias / Wustlich, Welf / Labahn, Roger</hi> (2016): „Cells in Multidimensional Recurrent Neural Networks” in: Journal of Machine Learning Research 17, 1-37.
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2918"><hi rend="bold">Prell, Martin</hi> (2018): „»ps: ich bitt noch mahl umb ver gebung meines confusen und üblen schreibens wegen« – Frühneuzeitliche Briefe als Herausforderung automatisierter Handschriftenerkennung“. Online: https://doi.org/10.22032/dbt.34849.
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2919"><hi rend="bold">READ</hi> (2018): „Tutorials and How To Guides“. Online: https://read.transkribus.eu/transkribus/.
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

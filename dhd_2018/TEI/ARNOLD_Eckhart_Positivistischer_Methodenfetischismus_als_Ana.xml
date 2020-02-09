@@ -111,32 +111,32 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__543">Beispiele methodenfixierter Forschung in der analytischen Philosophie und Spieltheorie:</bibl>
-                    <bibl ref="#bibl__544"><hi rend="bold">Brian Skyrms</hi>: The Stag Hunt and the Evolution of Social Structure, Cambridge University Press 2004.</bibl>
-                    <bibl ref="#bibl__545"><hi rend="bold">Rudolf Schüssler</hi>: Kooperation unter Egoisten: Vier Dilemmata, Scientia Nova Oldenbourg 1998.</bibl>
-                    <bibl ref="#bibl__546">
-                        <hi rend="bold"><hi rend="italic">Zur Kritik der methodenfixierter, "scientistischer" Ansätze in der analytischen Philosophie und in den Sozialwissenschaften:</hi></hi>
-                    </bibl>
-                    <bibl ref="#bibl__547"><hi rend="bold">John Dupré</hi>: Human Nature and the Limits of Science, Clarendon Press 2002.</bibl>
-                    <bibl ref="#bibl__548"><hi rend="bold">Ian Shapiro</hi>: The Flight from Reality in the Human Sciences, Princeton University Press 2009.</bibl>
-                    <bibl ref="#bibl__549"><hi rend="bold">Eckhart Arnold</hi>: How Models Fail. A Critical Look at the History of Computer Simulations of the Evolution of Cooperation, in: Catrin Misselhorn (Ed.): Collective Agency and Cooperation in Natural and Artificial Systems, Springer 2015, p. 261-279, 
+                    <bibl>Beispiele methodenfixierter Forschung in der analytischen Philosophie und Spieltheorie:<rs type="bibl" ref="#bibl__543"/></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__544"><hi rend="bold">Brian Skyrms</hi>: The Stag Hunt and the Evolution of Social Structure, Cambridge University Press 2004.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__545"><hi rend="bold">Rudolf Schüssler</hi>: Kooperation unter Egoisten: Vier Dilemmata, Scientia Nova Oldenbourg 1998.</rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__546"><hi rend="bold"><hi rend="italic">Zur Kritik der methodenfixierter, "scientistischer" Ansätze in der analytischen Philosophie und in den Sozialwissenschaften:</hi></hi>
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__547"><hi rend="bold">John Dupré</hi>: Human Nature and the Limits of Science, Clarendon Press 2002.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__548"><hi rend="bold">Ian Shapiro</hi>: The Flight from Reality in the Human Sciences, Princeton University Press 2009.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__549"><hi rend="bold">Eckhart Arnold</hi>: How Models Fail. A Critical Look at the History of Computer Simulations of the Evolution of Cooperation, in: Catrin Misselhorn (Ed.): Collective Agency and Cooperation in Natural and Artificial Systems, Springer 2015, p. 261-279, 
                         <ptr target="https://t1p.de/HMF"/>
-                    </bibl>
-                    <bibl ref="#bibl__550"><hi rend="bold">James Urmson</hi>: Philosophical Analysis, Clarendon Press 1960. (
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__550"><hi rend="bold">James Urmson</hi>: Philosophical Analysis, Clarendon Press 1960. (
                         <hi rend="italic">Ein Klassiker!</hi>)
-                    </bibl>
-                    <bibl ref="#bibl__551">Zu möglichen Beispielen und Kritik im Bereich Digital Humanities</bibl>
-                    <bibl ref="#bibl__552"><hi rend="bold">Alan Kirkness</hi>: Es leben die Riesenschildkröten! Plädoyer für die wissenschaftlich-historische Lexikographie des Deutschen, Lexicographia 32, 2017, S. 17-137. (
+                    </rs></bibl>
+                    <bibl>Zu möglichen Beispielen und Kritik im Bereich Digital Humanities<rs type="bibl" ref="#bibl__551"/></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__552"><hi rend="bold">Alan Kirkness</hi>: Es leben die Riesenschildkröten! Plädoyer für die wissenschaftlich-historische Lexikographie des Deutschen, Lexicographia 32, 2017, S. 17-137. (
                         <hi rend="italic">bezieht sich kritisch auf</hi>
                         <ref target="https://www.dwds.de/"><hi rend="italic">https://www.dwds.de</hi></ref>)
-                    </bibl>
-                    <bibl ref="#bibl__553"><hi rend="bold">David M. Berry / Anders Fagerjord</hi>: Digital Humanities. Knowledge and Critique in a Digital Age, polity press 2017. (
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__553"><hi rend="bold">David M. Berry / Anders Fagerjord</hi>: Digital Humanities. Knowledge and Critique in a Digital Age, polity press 2017. (
                         <hi rend="italic">kritisiert im 4. Kapitel die unreflektierte Verwendung von Visualisierungen am Beispiel von: </hi>
                         <ptr target="http://www.the-everyday.net/"/>)
-                    </bibl>
-                    <bibl ref="#bibl__554">Zu Paradigmenwechseln und "wissenschaftlichem Imperialismus"</bibl>
-                    <bibl ref="#bibl__555"><hi rend="bold">Thomas S. Kuhn</hi>: The Essential Tension. Selected Studies in Scientific Tradition and Change, University of Chicago Press, 1977.</bibl>
-                    <bibl ref="#bibl__556"><hi rend="bold">Uskali Mäki / Adrian Walsh / Manuela Fernández Pinto</hi>: Scientific Imperialism: Exploring the Boundaries of Interdisciplinarity, Routledge 2017.</bibl>
+                    </rs></bibl>
+                    <bibl>Zu Paradigmenwechseln und "wissenschaftlichem Imperialismus"<rs type="bibl" ref="#bibl__554"/></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__555"><hi rend="bold">Thomas S. Kuhn</hi>: The Essential Tension. Selected Studies in Scientific Tradition and Change, University of Chicago Press, 1977.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__556"><hi rend="bold">Uskali Mäki / Adrian Walsh / Manuela Fernández Pinto</hi>: Scientific Imperialism: Exploring the Boundaries of Interdisciplinarity, Routledge 2017.</rs></bibl>
                 </listBibl>
             </div>
       </back>

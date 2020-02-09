@@ -201,55 +201,55 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__2672">
-                        <hi rend="bold">Crowley, Elliot / Zisserman, Andrew</hi> (2016): “The Art of Detection”, in: Computer Vision – ECCV 2016 Workshops. ECCV 2016. Lecture Notes in Computer Science, vol 9913. Springer, Cham. 
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2672"><hi rend="bold">Crowley, Elliot / Zisserman, Andrew</hi> (2016): “The Art of Detection”, in: Computer Vision – ECCV 2016 Workshops. ECCV 2016. Lecture Notes in Computer Science, vol 9913. Springer, Cham. 
                         <hi rend="page-numbers-info">S. 721-737</hi>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2673">
-                        <hi rend="bold">Gatys, Leon A. / Ecker, Alexander S. / Bethge, Matthias (2015):</hi>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2673"><hi rend="bold">Gatys, Leon A. / Ecker, Alexander S. / Bethge, Matthias (2015):</hi>
                         <hi rend="italic">A neural algorithm of artistic style</hi> arXiv preprint arXiv:1508.06576.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__105">
-                        <hi rend="bold" xml:space="preserve">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__105"><hi rend="bold" xml:space="preserve">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”, in: 
                         <hi rend="italic">Proceedings of ISIC, the Information Behaviour Conference, Zadar, Croatia, 20-23 September, 2016: Part 1</hi>. 
                         <hi rend="italic" xml:space="preserve">Information Research, 21 </hi>
                         <hi rend="italic">(4)</hi> http://www.informationr.net/ir/21-4/isic/isic1606.html
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2674">
-                        <hi rend="bold" xml:space="preserve">Im, Chanjong / Ghauri, Junaid / Rothman, John / Mandl, Thomas (2018): </hi>“Deep Learning Approaches to Classification of Production Technology for 19th Century Books”, in: Lernen. Wissen. Daten. Analysen (LWDA 2018) Workshop Fachgruppe Information Retrieval (FGIR 2018) August 22-24, Mannheim: 150-158. http://ceur-ws.org/Vol-2191
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__19">
-                        <hi rend="bold" xml:space="preserve">Kohle, Hubertus (2013): </hi>Digitale Bildwissenschaft. Glückstadt: Verlag Werner Hülsbusch.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2675">
-                        <hi rend="bold" xml:space="preserve">Krig, Scott (2016): </hi>Computer Vision Metrics. Cham: Springer.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2676">
-                        <hi rend="bold" xml:space="preserve">Mehri, Maroua / Heroux, Pierre / Gomez-Krämer, Petra / Mullot, Rémy </hi>(2017): “Texture feature bench-marking and evaluation for historical document image analysis”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2674"><hi rend="bold" xml:space="preserve">Im, Chanjong / Ghauri, Junaid / Rothman, John / Mandl, Thomas (2018): </hi>“Deep Learning Approaches to Classification of Production Technology for 19th Century Books”, in: Lernen. Wissen. Daten. Analysen (LWDA 2018) Workshop Fachgruppe Information Retrieval (FGIR 2018) August 22-24, Mannheim: 150-158. http://ceur-ws.org/Vol-2191
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__19"><hi rend="bold" xml:space="preserve">Kohle, Hubertus (2013): </hi>Digitale Bildwissenschaft. Glückstadt: Verlag Werner Hülsbusch.
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2675"><hi rend="bold" xml:space="preserve">Krig, Scott (2016): </hi>Computer Vision Metrics. Cham: Springer.
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2676"><hi rend="bold" xml:space="preserve">Mehri, Maroua / Heroux, Pierre / Gomez-Krämer, Petra / Mullot, Rémy </hi>(2017): “Texture feature bench-marking and evaluation for historical document image analysis”, in: 
                         <hi rend="italic">International Journal on Document Analysis and Recognition (IJDAR)</hi> 20 (1): 325-364. 
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2677">
-                        <hi rend="bold">Pech, Klaus-Ulrich</hi> (2008): Der ökonomisch-technische Prozess und die Entwicklung der Kinder- und Jugendbuchliteratur, in: Brunken, Otto / Brüggemann, Theodor / Hurrelmann, Bettina / Michels-Kohlhage, Maria / Wilkending, Gisela (Hrsg.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2677"><hi rend="bold">Pech, Klaus-Ulrich</hi> (2008): Der ökonomisch-technische Prozess und die Entwicklung der Kinder- und Jugendbuchliteratur, in: Brunken, Otto / Brüggemann, Theodor / Hurrelmann, Bettina / Michels-Kohlhage, Maria / Wilkending, Gisela (Hrsg.): 
                         <hi rend="italic">Handbuch zur Kinder- und Jugendliteratur. Von 1850 bis 1900</hi>. Stuttgart, Weimar: J. B. Metzler 15-22.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2678">
-                        <hi rend="bold">Redmon, Joseph / Divvala, Santosh / Girshick, Ross / Farhadi, Ali</hi> (2016): “You only look once: Unified, real-time object detection”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2678"><hi rend="bold">Redmon, Joseph / Divvala, Santosh / Girshick, Ross / Farhadi, Ali</hi> (2016): “You only look once: Unified, real-time object detection”, in: 
                         <hi rend="italic">Proceedings of the IEEE conference on computer vision and pattern recognition</hi>: 779-788.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2679">
-                        <hi rend="bold" xml:space="preserve">Ries, Hans </hi>(1992): Illustration und Illustratoren des Kinder- und Jugendbuchs im deutschsprachigen Raum 1871–1914. Osnabrück: Wenner.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__160">
-                        <hi rend="bold">Saleh, Babak / Elgammal, Ahmed</hi> (2015): “Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2679"><hi rend="bold" xml:space="preserve">Ries, Hans </hi>(1992): Illustration und Illustratoren des Kinder- und Jugendbuchs im deutschsprachigen Raum 1871–1914. Osnabrück: Wenner.
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__160"><hi rend="bold">Saleh, Babak / Elgammal, Ahmed</hi> (2015): “Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature”, in: 
                         <hi rend="italic">Computer Science &gt; Computer Vision and Pattern Recognition,</hi> Arbeitsberichte. http://arxiv.org/abs/1505.00855
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2680">
-                        <hi rend="bold">Schmideler, Sebastian</hi> (2014): „Das bildende Bild, das unterhaltende Bild, das bewegte Bild – Zur Codalität und Medialität in der Wissen vermittelnden Kinder- und Jugendliteratur des 18. und 19. Jahrhunderts“, in: Weinkauff, Gina u.a. (Hrsg.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2680"><hi rend="bold">Schmideler, Sebastian</hi> (2014): „Das bildende Bild, das unterhaltende Bild, das bewegte Bild – Zur Codalität und Medialität in der Wissen vermittelnden Kinder- und Jugendliteratur des 18. und 19. Jahrhunderts“, in: Weinkauff, Gina u.a. (Hrsg.): 
                         <hi rend="italic">Kinder- und Jugendliteratur in Medienkontexten. Adaption – Hybridisierung – Intermedialität – Konvergenz</hi>. Frankfurt a. M.: Peter Lang 13-26.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2681">
-                        <hi rend="bold" xml:space="preserve">Yarlagadda, Pradeep / Monroy, Antonio / Carque, Bernd / Ommer, Björn (2013): </hi>“Towards a Computer-based Understanding of Medieval Images”, in: Bock, Hans Georg / Jäger, Willi / Winckler, Michael J. (eds.): Scientific Computing and Cultural Heritage. Contributions in Computational Humanities. Berlin: Springer 89-97.
-                    </bibl>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2681"><hi rend="bold" xml:space="preserve">Yarlagadda, Pradeep / Monroy, Antonio / Carque, Bernd / Ommer, Björn (2013): </hi>“Towards a Computer-based Understanding of Medieval Images”, in: Bock, Hans Georg / Jäger, Willi / Winckler, Michael J. (eds.): Scientific Computing and Cultural Heritage. Contributions in Computational Humanities. Berlin: Springer 89-97.
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

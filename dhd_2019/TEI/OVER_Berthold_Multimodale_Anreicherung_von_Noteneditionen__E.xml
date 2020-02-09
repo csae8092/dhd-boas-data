@@ -123,94 +123,94 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2062">
-                        <hi rend="bold">Albrecht-Hohmaier, Martin / Siegert, Christine</hi> (2015): „Eine codierte Opernedition als Angebot für Wissenschaft, Lehre und Musikpraxis. Überlegungen am Beispiel von Giuseppe Sarti (1729–1802)“ in: Thomas Bein (ed.): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2062"><hi rend="bold">Albrecht-Hohmaier, Martin / Siegert, Christine</hi> (2015): „Eine codierte Opernedition als Angebot für Wissenschaft, Lehre und Musikpraxis. Überlegungen am Beispiel von Giuseppe Sarti (1729–1802)“ in: Thomas Bein (ed.): 
                         <hi rend="italic">Vom Nutzen der Edition. Zur Bedeutung moderner Editorik für die Erforschung von Literatur- und Kulturgeschichte</hi> (= Beihefte zu editio 39). Berlin: de Gruyter 1–17.
-                    </bibl>
-                    <bibl ref="#bibl__2063">
-                        <hi rend="bold">Brandt, Stefan</hi> (2002): „Gleicher Text, unterschiedliche Realisierungen. Zum Einfluss des sängerischen Personals auf Arienkompositionen bei Porpora und Händel“ in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2063"><hi rend="bold">Brandt, Stefan</hi> (2002): „Gleicher Text, unterschiedliche Realisierungen. Zum Einfluss des sängerischen Personals auf Arienkompositionen bei Porpora und Händel“ in: 
                         <hi rend="italic">Basler Jahrbuch für historische Musikpraxis</hi> XXVI: 109–127.
-                    </bibl>
-                    <bibl ref="#bibl__2064">
-                        <hi rend="bold">Burden, Michael</hi> (2013): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2064"><hi rend="bold">Burden, Michael</hi> (2013): 
                         <hi rend="italic">Regina Mingotti: Diva and Impresario at the King’s Theatre London</hi> (= Royal Musical Association Monographs 22). Farnham.
-                    </bibl>
-                    <bibl ref="#bibl__2065">
-                        <hi rend="bold">Calella, Michele</hi> (2007): „Zwischen Autorwillen und Produktionssystem. Zur Frage des ‚Werkcharakters‘ in der Oper des 18. Jahrhunderts“ in: Ulrich Konrad (ed.), 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2065"><hi rend="bold">Calella, Michele</hi> (2007): „Zwischen Autorwillen und Produktionssystem. Zur Frage des ‚Werkcharakters‘ in der Oper des 18. Jahrhunderts“ in: Ulrich Konrad (ed.), 
                         <hi rend="italic">Bearbeitungspraxis in der Oper des späten 18. Jahrhunderts. Bericht über die Internationale wissenschaftliche Tagung vom 18. bis 20. Februar 2005 in Würzburg</hi> (= Würzburger musikhistorische Beiträge Bd. 27). Tutzing: Schneider 15–32.
-                    </bibl>
-                    <bibl ref="#bibl__2066">
-                        <hi rend="bold">Calella, Michele</hi> (2014), 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2066"><hi rend="bold">Calella, Michele</hi> (2014), 
                         <hi rend="italic">Musikalische Autorschaft. Der Komponist zwischen Mittelalter und Neuzeit</hi> (= Schweizer Beiträge zur Musikforschung 20). Kassel: Bärenreiter. 
-                    </bibl>
-                    <bibl ref="#bibl__2067">
-                        <hi rend="bold">Décout, Maxime</hi> (2017), 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2067"><hi rend="bold">Décout, Maxime</hi> (2017), 
                         <hi rend="italic">Qui a peur de l’imitation?</hi> Paris : Les éditions de minuit.
-                    </bibl>
-                    <bibl ref="#bibl__2068">
-                        <hi rend="bold">Freeman, Daniel E.</hi> (1992): „An 18
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2068"><hi rend="bold">Freeman, Daniel E.</hi> (1992): „An 18
                         <hi rend="superscript">th</hi>-Century Singer’s Commission of ‚Baggage‘ Arias“ in: 
                         <hi rend="italic">Early Music</hi> 20/3: 427–433.
-                    </bibl>
-                    <bibl ref="#bibl__2069">
-                        <hi rend="bold">Goehr, Lydia</hi> (2007): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2069"><hi rend="bold">Goehr, Lydia</hi> (2007): 
                         <hi rend="italic">The Imaginary Museum of Musical Works: an Essay in the Philosophy of Music</hi>. Oxford: Oxford University Press.
-                    </bibl>
-                    <bibl ref="#bibl__2070">
-                        <hi rend="bold">Herold, Kristin / Siegert, Christine</hi> (2016): „Die Gattung als vernetzte Struktur. Überlegungen zur Oper um 1800“ in: Kristina Richts, Peter Stadler (eds.): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2070"><hi rend="bold">Herold, Kristin / Siegert, Christine</hi> (2016): „Die Gattung als vernetzte Struktur. Überlegungen zur Oper um 1800“ in: Kristina Richts, Peter Stadler (eds.): 
                         <hi rend="italic">„Ei, dem alten Herrn zoll’ ich Achtung gern“. Festschrift für Joachim Veit zum 60. Geburtstag</hi>. München: Allitera Verlag 671–702.
-                    </bibl>
-                    <bibl ref="#bibl__2071">
-                        <hi rend="bold">Holmes, William</hi> (1993): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2071"><hi rend="bold">Holmes, William</hi> (1993): 
                         <hi rend="italic">Opera Observed: Views of a Florentine Impresario in the Early Eighteenth Century</hi>, Chicago: University of Chicago Press.
-                    </bibl>
-                    <bibl ref="#bibl__2072">
-                        <hi rend="bold">Kanz, Roland</hi> (2002): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2072"><hi rend="bold">Kanz, Roland</hi> (2002): 
                         <hi rend="italic">Die Kunst des Capriccio. Kreativer Eigensinn in Renaissance und Barock</hi>. München: Deutscher Kunstverlag.
-                    </bibl>
-                    <bibl ref="#bibl__2073">
-                        <hi rend="bold">Korsmeier, Claudia Maria</hi> (2000): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2073"><hi rend="bold">Korsmeier, Claudia Maria</hi> (2000): 
                         <hi rend="italic">Der Sänger Giovanni Carestini (1700–1760) und „seine“ Komponisten</hi> (= Schriften zur Musikwissenschaft aus Münster 13). Eisenach: Verlag der Musikalienhandlung Wagner.
-                    </bibl>
-                    <bibl ref="#bibl__2074">
-                        <hi rend="bold">LaRue, C. Stephen</hi> (1995): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2074"><hi rend="bold">LaRue, C. Stephen</hi> (1995): 
                         <hi rend="italic">Handel and His Singers. The Creation of the Royal Academy Operas</hi>, 
                         <hi rend="italic">1720–1728</hi>. Oxford: Clarendon Press.
-                    </bibl>
-                    <bibl ref="#bibl__2075">
-                        <hi rend="bold">Over, Berthold</hi> (i.Dr.): „Zwischen multipler Autorschaft und autonomem Kunstwerk. Musikalische ‘Werke’ im 17. und 18. Jahrhundert“ in: Panja Mücke (ed.):
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2075"><hi rend="bold">Over, Berthold</hi> (i.Dr.): „Zwischen multipler Autorschaft und autonomem Kunstwerk. Musikalische ‘Werke’ im 17. und 18. Jahrhundert“ in: Panja Mücke (ed.):
                         <hi rend="italic" xml:space="preserve"> Geschichte der Musik im Barock</hi>, Bd. 1: 
                         <hi rend="italic">Weltliche Vokalmusik</hi> (Handbuch der Musik des Barock 1). Laaber: Laaber Verlag.
-                    </bibl>
-                    <bibl ref="#bibl__2076">
-                        <hi rend="bold" xml:space="preserve">Siegert, Christine </hi>(2016): „Zum Pasticcio-Problem“ in: Thomas Betzwieser (ed.):
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2076"><hi rend="bold" xml:space="preserve">Siegert, Christine </hi>(2016): „Zum Pasticcio-Problem“ in: Thomas Betzwieser (ed.):
                         <hi rend="italic" xml:space="preserve"> Opernkonzeptionen zwischen Berlin und Bayreuth. Das musikalische Theater der Markgräfin Wilhelmine. Referate des Symposiums anlässlich der Aufführung von</hi> L’Huomo 
                         <hi rend="italic" xml:space="preserve">im Markgräflichen Opernhaus in Bayreuth am 2. Oktober 2009 </hi>(= Thurnauer Schriften zum Musiktheater 31). Würzburg: Königshausen &amp; Neumann 155–166.
-                    </bibl>
-                    <bibl ref="#bibl__2077">
-                        <hi rend="bold">Strohm, Reinhard</hi> (2011): „Wer entscheidet? Möglichkeiten der Zusammenarbeit an Pasticcio-Opern” in: Daniel Brandenburg / Thomas Seedorf (ed.): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2077"><hi rend="bold">Strohm, Reinhard</hi> (2011): „Wer entscheidet? Möglichkeiten der Zusammenarbeit an Pasticcio-Opern” in: Daniel Brandenburg / Thomas Seedorf (ed.): 
                         <hi rend="italic">„Per ben vestir la virtuosa“. Die Oper des 18. und frühen 19. Jahrhunderts im Spannungsfeld zwischen Komponisten und Sängern</hi>, (= Forum Musikwissenschaft 6). Schliengen: Edition Argus 62–78. 
-                    </bibl>
-                    <bibl ref="#bibl__2078">
-                        <hi rend="bold">Strohm, Reinhard</hi> (2009a): „Händels Pasticci“ in: Arnold Jacobshagen / Panja Mücke (ed.), 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2078"><hi rend="bold">Strohm, Reinhard</hi> (2009a): „Händels Pasticci“ in: Arnold Jacobshagen / Panja Mücke (ed.), 
                         <hi rend="italic">Händels Opern</hi>, Teilband 2. Laaber: Laaber Verlag 351–358.
-                    </bibl>
-                    <bibl ref="#bibl__2079">
-                        <hi rend="bold">Strohm, Reinhard</hi> (2009b): „Der wandernde Gluck und die verwandelte ‚Ipermestra‘“ in: Irene Brandenburg / Tanja Gölz (ed.), 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2079"><hi rend="bold">Strohm, Reinhard</hi> (2009b): „Der wandernde Gluck und die verwandelte ‚Ipermestra‘“ in: Irene Brandenburg / Tanja Gölz (ed.), 
                         <hi rend="italic">Gluck der Europäer</hi> (= Gluck-Studien 5). Kassel: Bärenreiter 37–63.
-                    </bibl>
-                    <bibl ref="#bibl__2080">
-                        <hi rend="bold">Tillett, Barbara</hi> (2005): „What is FRBR? A Conceptual Model for the Bibliographic Universe“ in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2080"><hi rend="bold">Tillett, Barbara</hi> (2005): „What is FRBR? A Conceptual Model for the Bibliographic Universe“ in: 
                         <hi rend="italic">Australian Library Journal</hi> 54: 24–30.
-                    </bibl>
-                    <bibl ref="#bibl__2081">
-                        <hi rend="bold">Woyke, Saskia </hi> (1998): „Faustina Bordoni-Hasse. Eine Sängerinnenkarriere im 18. Jahrhundert“ in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2081"><hi rend="bold">Woyke, Saskia </hi> (1998): „Faustina Bordoni-Hasse. Eine Sängerinnenkarriere im 18. Jahrhundert“ in: 
                         <hi rend="italic">Göttinger Händel-Beiträge</hi> 7: 218–257.
-                    </bibl>
-                    <bibl ref="#bibl__2082">
-                        <hi rend="bold">zur Nieden, Gesa</hi> (2015): „Mobile Musicians: Paths of Migration in Early Modern Europe” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2082"><hi rend="bold">zur Nieden, Gesa</hi> (2015): „Mobile Musicians: Paths of Migration in Early Modern Europe” in: 
                         <hi rend="italic">European History Yearbook</hi> 16: 111–129.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

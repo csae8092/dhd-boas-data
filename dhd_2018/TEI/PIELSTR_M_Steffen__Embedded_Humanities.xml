@@ -130,78 +130,78 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1562">
-                        <hi rend="bold">Bamman, D./ Underwood, T./ Smith, N. A. </hi>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1562"><hi rend="bold">Bamman, D./ Underwood, T./ Smith, N. A. </hi>
                         (2014): „A Bayesian Mixed Effects Model of Literary Character“,
                         in
                         <hi rend="italic">Proceedings of ACL</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__34">
-                        <hi rend="bold">Blei, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__34"><hi rend="bold">Blei, </hi>
                         <hi rend="bold">David</hi>
                         <hi rend="bold"> </hi>
                         (2012): „Probabilistic Topic Models“,
                         in
                         <hi rend="italic">Communications of the ACM</hi>
                          55, 77-84.
-                    </bibl>
-                    <bibl ref="#bibl__1563">
-                        <hi rend="bold">Bolukbasi, T./ Chang, K. W./ Zou, J./ Saligrama, V./ Kalai, A.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1563"><hi rend="bold">Bolukbasi, T./ Chang, K. W./ Zou, J./ Saligrama, V./ Kalai, A.</hi>
                          (2016): „Quantifying and Reducing Stereotypes in Word Embeddings“, 
                         in
                         <hi rend="italic">arXiv:1606.06121</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__1564">
-                        <hi rend="bold">Chang, J./ Gerrish, S./ </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1564"><hi rend="bold">Chang, J./ Gerrish, S./ </hi>
                         <hi rend="bold">Sang</hi>
                         <hi rend="bold">, C./ Boyd-Graber, J. L./ Blei, D. M. </hi>
                         (2009): „Reading Tea Leaves: How Humans Interpret Topic Models“,
                         in
                          Proceedings of NIPS, 288-296.
-                    </bibl>
-                    <bibl ref="#bibl__1565">
-                        <hi rend="bold">Hamilton, W. L./ Leskovec, J./ Jurafsky, D.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1565"><hi rend="bold">Hamilton, W. L./ Leskovec, J./ Jurafsky, D.</hi>
                          (2016): „Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change“,
                         in
                         <hi rend="italic">Proceedings of ACL</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__1566">
-                        <hi rend="bold">Manning, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1566"><hi rend="bold">Manning, </hi>
                         <hi rend="bold">Christopher D.</hi>
                          (2016): „Computational Linguistics and Deep Learning“,
                         in
                         <hi rend="italic">Computational Linguistics </hi>
                         41, 701-707.
-                    </bibl>
-                    <bibl ref="#bibl__1567">
-                        <hi rend="bold">Martinez-Ortiz, C./ Huijnen, P./ Kenter, T./ Verheul, J./ Wevers, M./ van Eijnatten, J.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1567"><hi rend="bold">Martinez-Ortiz, C./ Huijnen, P./ Kenter, T./ Verheul, J./ Wevers, M./ van Eijnatten, J.</hi>
                          (2016): „ShiCo: A Visualization Tool for Shifting Concepts Through Time“,
                         in
                         <hi rend="italic">Digital Humanities Benelux: Book af Abstracts</hi>
                         , s.p.
-                    </bibl>
-                    <bibl ref="#bibl__1568">
-                        <hi rend="bold">Mikolov, T./ Sutskever, I./ Chen, K./ Corrado, G. S./ Dean, J.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1568"><hi rend="bold">Mikolov, T./ Sutskever, I./ Chen, K./ Corrado, G. S./ Dean, J.</hi>
                          (2013): „Distributed representations of words and phrases and their compositionality“,
                         in
                         <hi rend="italic">Proceedings of NIPS 2013</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__98">
-                        <hi rend="bold">Mimno, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__98"><hi rend="bold">Mimno, </hi>
                         <hi rend="bold">David</hi>
                          (2012): „Computational Historiography: Data Mining in a Century of Classics Journals“,
                         in
                         <hi rend="italic">ACM Journal of Computing in Cultural Heritage</hi>
                          5.
-                    </bibl>
-                    <bibl ref="#bibl__1569">
-                        <hi rend="bold">Schoech, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1569"><hi rend="bold">Schoech, </hi>
                         <hi rend="bold">Christof</hi>
                         <hi rend="bold"> </hi>
                         (2017): „Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama“,
                         <hi rend="italic">Digital Humanities Quarterly</hi>
                          11, s.p.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

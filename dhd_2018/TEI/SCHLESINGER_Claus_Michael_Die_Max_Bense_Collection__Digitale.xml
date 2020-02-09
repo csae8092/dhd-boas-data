@@ -103,14 +103,14 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1236"><hi rend="bold">Bense, M. </hi>(1965) Aesthetica. Einführung in die neue Ästhetik. Agis-Verlag, Baden-Baden.</bibl>
-                    <bibl ref="#bibl__1237"><hi rend="bold">Bense, M. </hi>(13.3.1968) "Ist Kunst berechenbar?". Frankfurter Allgemeine Zeitung, S 22.</bibl>
-                    <bibl ref="#bibl__1238"><hi rend="bold">Bense, M. </hi>(1969) Einführung in die informationstheoretische Ästhetik. Grundlegung und Anwendung in der Texttheorie. Rowohlt, Reinbek bei Hamburg.</bibl>
-                    <bibl ref="#bibl__1239"><hi rend="bold">Bense, M., Walther, E. </hi>(1997-1998) Ausgewählte Schriften in vier Bänden. J.B. Metzler, Stuttgart.</bibl>
-                    <bibl ref="#bibl__1240"><hi rend="bold">Bense, M. </hi>(2000) Radiotexte : Essays, Vorträge, Hörspiele. Winter, Heidelberg.</bibl>
-                    <bibl ref="#bibl__1241"><hi rend="bold">Klütsch, C. </hi>(2012) Information Aesthetics and the Stuttgart School. In: Higgins, H.: Mainframe experimentalism: early computing and the foundations of the digital arts, University of California Press, Berkeley, S 65-89.</bibl>
-                    <bibl ref="#bibl__1242"><hi rend="bold">Schlesinger, C. / Zittel, C. / Zentrum für Kunst und Medien Karlsruhe </hi>(2018): Max-Bense-Collection, http://max-bense.ub.uni-stuttgart.de, Zugriff: 15.1.2018</bibl>
-                    <bibl ref="#bibl__1243"><hi rend="bold">Schlesinger, C. </hi>(2018): Omeka-Theme "Stuttgart", https://github.com/cmcx/theme-stuttgart, Zugriff: 15.1.2018</bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1236"><hi rend="bold">Bense, M. </hi>(1965) Aesthetica. Einführung in die neue Ästhetik. Agis-Verlag, Baden-Baden.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1237"><hi rend="bold">Bense, M. </hi>(13.3.1968) "Ist Kunst berechenbar?". Frankfurter Allgemeine Zeitung, S 22.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1238"><hi rend="bold">Bense, M. </hi>(1969) Einführung in die informationstheoretische Ästhetik. Grundlegung und Anwendung in der Texttheorie. Rowohlt, Reinbek bei Hamburg.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1239"><hi rend="bold">Bense, M., Walther, E. </hi>(1997-1998) Ausgewählte Schriften in vier Bänden. J.B. Metzler, Stuttgart.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1240"><hi rend="bold">Bense, M. </hi>(2000) Radiotexte : Essays, Vorträge, Hörspiele. Winter, Heidelberg.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1241"><hi rend="bold">Klütsch, C. </hi>(2012) Information Aesthetics and the Stuttgart School. In: Higgins, H.: Mainframe experimentalism: early computing and the foundations of the digital arts, University of California Press, Berkeley, S 65-89.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1242"><hi rend="bold">Schlesinger, C. / Zittel, C. / Zentrum für Kunst und Medien Karlsruhe </hi>(2018): Max-Bense-Collection, http://max-bense.ub.uni-stuttgart.de, Zugriff: 15.1.2018</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1243"><hi rend="bold">Schlesinger, C. </hi>(2018): Omeka-Theme "Stuttgart", https://github.com/cmcx/theme-stuttgart, Zugriff: 15.1.2018</rs></bibl>
                 </listBibl>
             </div>
       </back>

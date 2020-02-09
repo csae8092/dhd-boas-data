@@ -113,8 +113,8 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2427">
-                        <hi rend="color(#000000)bold">D’Ignazio, Catherine / Klein, </hi>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2427"><hi rend="color(#000000)bold">D’Ignazio, Catherine / Klein, </hi>
                         <hi rend="color(#000000)bold">Lauren F.</hi>
                         <hi rend="color(#000000)"> (201</hi>
                         <hi rend="color(#000000)">6</hi>
@@ -124,9 +124,9 @@
                         <hi rend="color(#000000)italic">W</hi>
                         <hi rend="color(#000000)">orkshop on Visualization for the Digital Humanities (VIS4D</hi>
                         <hi rend="color(#000000)">H), Baltimore. IEEE.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2428">
-                        <hi rend="color(#000000)bold">Freire, Jualina / Koop, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2428"><hi rend="color(#000000)bold">Freire, Jualina / Koop, </hi>
                         <hi rend="color(#000000)bold">D. / </hi>
                         <hi rend="color(#000000)bold">Santos, </hi>
                         <hi rend="color(#000000)bold">E. /</hi>
@@ -136,9 +136,9 @@
                         <hi rend="color(#000000)">in: </hi>
                         <hi rend="color(#000000)">Computing in Science &amp; Engineering May/June 2008,</hi>
                         <hi rend="color(#000000)"> 11-21, DOI 10.1109/MCSE.2008.79. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__2429">
-                        <hi rend="color(#000000)bold">Lebo, Timothy / Sahoo, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2429"><hi rend="color(#000000)bold">Lebo, Timothy / Sahoo, </hi>
                         <hi rend="color(#000000)bold">Satya / </hi>
                         <hi rend="color(#000000)bold">McGuinness, </hi>
                         <hi rend="color(#000000)bold">Deborah</hi>
@@ -146,15 +146,15 @@
                         <hi rend="color(#000000)">(2013): PROV-O: The PROV Ontology. W3C Recommendation.</hi>
                         <hi rend="color(#000000)"> https://www.w3.org/TR/prov-o/ </hi>
                         <hi rend="color(#000000)">[letzter Zugriff 12. Oktober 2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2430">
-                        <hi rend="color(#000000)bold">Rämisch, Florian / Mühleder, Peter </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2430"><hi rend="color(#000000)bold">Rämisch, Florian / Mühleder, Peter </hi>
                         <hi rend="color(#000000)">(2018),</hi>
                         <hi rend="color(#000000)">Provit</hi>
                         <hi rend="color(#000000)"> (Version v0.2.3). Zenodo, DOI http://doi.org/10.5281/zenodo.2268521</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2431">
-                        <hi rend="color(#000000)bold">Oliveira, Wellington / De Oliveira, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2431"><hi rend="color(#000000)bold">Oliveira, Wellington / De Oliveira, </hi>
                         <hi rend="color(#000000)bold">Daniel</hi>
                         <hi rend="color(#000000)bold"> / Braganholo,</hi>
                         <hi rend="color(#000000)bold">Vanessa</hi>
@@ -165,9 +165,9 @@
                         <hi rend="color(#000000)">Surveys 51/3, </hi>
                         <hi rend="color(#000000)">53:1-53:25, DOI </hi>
                         <hi rend="color(#000000)">10.1145/3184900.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2432">
-                        <lb/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2432"><lb/>
                         <hi rend="color(#000000)bold">Pasquier, T. / Lau, M. K. / Trisovic, A. </hi>
                         <hi rend="color(#000000)bold">/</hi>
                         <hi rend="color(#000000)bold"> Boose, E. R. / Couturier, B. / Crosas, M. / Seltzer, M.</hi>
@@ -178,7 +178,7 @@
                         <hi rend="color(#000000)">Scientific Data 4, </hi>
                         <hi rend="color(#000000)">DOI </hi>
                         <hi rend="color(#000000)">10.1038/sdata.2017.114.</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

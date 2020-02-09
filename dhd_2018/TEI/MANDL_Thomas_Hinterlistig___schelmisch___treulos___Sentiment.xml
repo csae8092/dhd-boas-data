@@ -141,33 +141,33 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1058">
-                        <hi rend="bold">Bender, Michael</hi> (2016): Forschungsumgebungen in den Digital Humanities: Nutzerbedarf, Wissenstransfer, Textualität. Walter de Gruyter GmbH &amp; Co KG
-                    </bibl>
-                    <bibl ref="#bibl__1059">
-                        <hi rend="bold">De Luca, Ernesto William</hi> (2014): Welt der Kinder. Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung. URL: http://welt-der-kinder.gei.de
-                    </bibl>
-                    <bibl ref="#bibl__1060">
-                        <hi rend="bold">Fuchs, Eckhardt</hi> (2014): Das Schulbuch in der Forschung. Analysen und Empfehlungen für die Bildungspraxis. Georg-Eckert-Institut für internationale Schulbuch-forschung. Band 4. V &amp; R unipress in Göttingen
-                    </bibl>
-                    <bibl ref="#bibl__105">
-                        <hi rend="bold">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”. In: Information Research 21 (4) http://www.informationr.net/ir/21-4/isic/isic1606.html
-                    </bibl>
-                    <bibl ref="#bibl__1061">
-                        <hi rend="bold">Liu, Bing</hi> (2012): Sentiment Analysis and Opinion Mining. Morgan &amp; Claypool Publishers
-                    </bibl>
-                    <bibl ref="#bibl__1062">
-                        <hi rend="bold">Ramsay, Stephen</hi> (2008): “Algorithmic Criticism”. In: A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, http://www.digitalhumanities.org/companionDLS/
-                    </bibl>
-                    <bibl ref="#bibl__1063">
-                        <hi rend="bold">Schnober, Carsten / Iryna Gurevych</hi> (2015): “Combining Topic Models for Corpus Exploration: Applying LDA for Complex Corpus Research Tasks in a Digital Humanities Project.” In Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications, TM ’15. New York, NY, USA: ACM, 2015, S. 11–20.
-                    </bibl>
-                    <bibl ref="#bibl__1064">
-                        <hi rend="bold">Somasundaran, Swapna / Josef Ruppenhofer / Janyce Wiebe</hi> (2008) "Discourse level opinion relations: An annotation study." In: Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue. Association for Computational Linguistics.
-                    </bibl>
-                    <bibl ref="#bibl__1065">
-                        <hi rend="bold">Struß, Julia Maria</hi> (2016): Multilinguales aspektbasiertes Opinion Mining: Entwicklung eines ressourcenarmen Extraktionsverfahrens und Untersuchung von Nutzerperspektiven. Dissertation Universität Hildesheim.
-                    </bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1058"><hi rend="bold">Bender, Michael</hi> (2016): Forschungsumgebungen in den Digital Humanities: Nutzerbedarf, Wissenstransfer, Textualität. Walter de Gruyter GmbH &amp; Co KG
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1059"><hi rend="bold">De Luca, Ernesto William</hi> (2014): Welt der Kinder. Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung. URL: http://welt-der-kinder.gei.de
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1060"><hi rend="bold">Fuchs, Eckhardt</hi> (2014): Das Schulbuch in der Forschung. Analysen und Empfehlungen für die Bildungspraxis. Georg-Eckert-Institut für internationale Schulbuch-forschung. Band 4. V &amp; R unipress in Göttingen
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__105"><hi rend="bold">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”. In: Information Research 21 (4) http://www.informationr.net/ir/21-4/isic/isic1606.html
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1061"><hi rend="bold">Liu, Bing</hi> (2012): Sentiment Analysis and Opinion Mining. Morgan &amp; Claypool Publishers
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1062"><hi rend="bold">Ramsay, Stephen</hi> (2008): “Algorithmic Criticism”. In: A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, http://www.digitalhumanities.org/companionDLS/
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1063"><hi rend="bold">Schnober, Carsten / Iryna Gurevych</hi> (2015): “Combining Topic Models for Corpus Exploration: Applying LDA for Complex Corpus Research Tasks in a Digital Humanities Project.” In Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications, TM ’15. New York, NY, USA: ACM, 2015, S. 11–20.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1064"><hi rend="bold">Somasundaran, Swapna / Josef Ruppenhofer / Janyce Wiebe</hi> (2008) "Discourse level opinion relations: An annotation study." In: Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue. Association for Computational Linguistics.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1065"><hi rend="bold">Struß, Julia Maria</hi> (2016): Multilinguales aspektbasiertes Opinion Mining: Entwicklung eines ressourcenarmen Extraktionsverfahrens und Untersuchung von Nutzerperspektiven. Dissertation Universität Hildesheim.
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

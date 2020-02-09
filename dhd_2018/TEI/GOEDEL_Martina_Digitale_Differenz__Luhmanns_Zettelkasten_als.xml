@@ -202,17 +202,17 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__439">
-                        <hi rend="bold">Krajewski, Markus</hi> (2002):
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__439"><hi rend="bold">Krajewski, Markus</hi> (2002):
                         <hi rend="italic">ZettelWirtschaft. Die Geburt der Kartei aus dem Geiste der Bibliothek</hi>
                         . Berlin: Kadmos.
-                    </bibl>
-                    <bibl ref="#bibl__35">
-                        <hi rend="bold">Schmidt, Johannes F.K.</hi> (2016): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
-                    </bibl>
-                    <bibl ref="#bibl__440">
-                        <hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
-                    </bibl>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__35"><hi rend="bold">Schmidt, Johannes F.K.</hi> (2016): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__440"><hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

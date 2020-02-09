@@ -170,65 +170,65 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1103"><hi rend="bold">Arias-Hernandez, R., Green, T. M., &amp; Fisher, B. </hi>(2012). From cognitive amplifiers to cognitive prostheses: Understandings of the material basis of cognition in visual analytics. 
+                    <bibl><rs type="bibl" ref="#bibl__1103"><hi rend="bold">Arias-Hernandez, R., Green, T. M., &amp; Fisher, B. </hi>(2012). From cognitive amplifiers to cognitive prostheses: Understandings of the material basis of cognition in visual analytics. 
                         <hi rend="italic">Interdisciplinary Science Reviews</hi>, 
                         <hi rend="italic">37</hi>(1), 4–18.
-                    </bibl>
-                    <bibl ref="#bibl__1104"><hi rend="bold">Bubenhofer, N. </hi>(2016): Drei Thesen zu Visualisierungspraktiken in den Digital Humanities. In 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1104"><hi rend="bold">Bubenhofer, N. </hi>(2016): Drei Thesen zu Visualisierungspraktiken in den Digital Humanities. In 
                         <hi rend="italic">Rechtsgeschichte - Legal History</hi>, 
                         <hi rend="italic">24</hi>, S.351-355. 
-                    </bibl>
-                    <bibl ref="#bibl__1105"><hi rend="bold">Butler, J. </hi>(2001). Was ist Kritik? Ein Essay über Foucault’s Tugend. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1105"><hi rend="bold">Butler, J. </hi>(2001). Was ist Kritik? Ein Essay über Foucault’s Tugend. 
                         <hi rend="italic">EIPCP, 5 </hi>(2001).
-                    </bibl>
-                    <bibl ref="#bibl__1106"><hi rend="bold">Calhoun, C. </hi>(1995). 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1106"><hi rend="bold">Calhoun, C. </hi>(1995). 
                         <hi rend="italic">Critical Social Theory: Culture, History, and the Challenge of Difference</hi>. Cambridge, Mass: Wiley-Blackwell. 
-                    </bibl>
-                    <bibl ref="#bibl__1107"><hi rend="bold">Card, S. K., Mackinlay, J. D., and Shneiderman, B. </hi>(1999). Using Vision to Think, chapter 1: Information Visualization, pages 1–34. Morgan Kaufmann.</bibl>
-                    <bibl ref="#bibl__1108">vDörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In 
-                        <hi rend="italic">Proceedings of the SIGCHI conference on human factors in computing systems</hi> (pp. 1215–1224). ACM.
-                    </bibl>
-                    <bibl ref="#bibl__1109"><hi rend="bold">Dörk, M., Feng, P., Collins, C., &amp; Carpendale, S.</hi> (2013). Critical InfoVis: exploring the politics of visualization. In 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1107"><hi rend="bold">Card, S. K., Mackinlay, J. D., and Shneiderman, B. </hi>(1999). Using Vision to Think, chapter 1: Information Visualization, pages 1–34. Morgan Kaufmann.</rs></bibl>
+                    <bibl>vDörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In 
+                        <rs type="bibl" ref="#bibl__1108"><hi rend="italic">Proceedings of the SIGCHI conference on human factors in computing systems</hi> (pp. 1215–1224). ACM.
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1109"><hi rend="bold">Dörk, M., Feng, P., Collins, C., &amp; Carpendale, S.</hi> (2013). Critical InfoVis: exploring the politics of visualization. In 
                         <hi rend="italic">CHI’13 Extended Abstracts on Human Factors in Computing Systems</hi> (pp. 2189–2198). ACM.  
-                    </bibl>
-                    <bibl ref="#bibl__111"><hi rend="bold">Dörk, M., Pietsch, C., &amp; Credico, G. </hi>(2017). One view is not enough. High-level visualizations of a large cultural collection. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__111"><hi rend="bold">Dörk, M., Pietsch, C., &amp; Credico, G. </hi>(2017). One view is not enough. High-level visualizations of a large cultural collection. 
                         <hi rend="italic">Special Issue of Information Design Journal</hi>, 
                         <hi rend="italic">23(1):39–47</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__18"><hi rend="bold">Drucker, J. </hi>(2011). Humanities approaches to graphical display. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__18"><hi rend="bold">Drucker, J. </hi>(2011). Humanities approaches to graphical display. 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 
                         <hi rend="italic">5</hi>(1), 1–21. 
-                    </bibl>
-                    <bibl ref="#bibl__93"><hi rend="bold">Foucault, M. </hi>(1992). 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__93"><hi rend="bold">Foucault, M. </hi>(1992). 
                         <hi rend="italic">Was ist Kritik?</hi>  Berlin: Merve. 
-                    </bibl>
-                    <bibl ref="#bibl__1110"><hi rend="bold">Glinka, K., Meier, S., &amp; Dörk, M. </hi>(2015). Visualising the» Un-seen «: Towards Critical Approaches and Strategies of Inclusion in Digital Cultural Heritage Interfaces. In C. Busch &amp; J. Sieck (Eds.), 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1110"><hi rend="bold">Glinka, K., Meier, S., &amp; Dörk, M. </hi>(2015). Visualising the» Un-seen «: Towards Critical Approaches and Strategies of Inclusion in Digital Cultural Heritage Interfaces. In C. Busch &amp; J. Sieck (Eds.), 
                         <hi rend="italic">Kultur und Informatik (XIII) - Cross Media</hi> (pp. 105–118). Berlin: Werner Hülsbusch. 
-                    </bibl>
-                    <bibl ref="#bibl__1111"><hi rend="bold">Hooland, S. van, &amp; Verborgh, R.</hi> (2014). 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1111"><hi rend="bold">Hooland, S. van, &amp; Verborgh, R.</hi> (2014). 
                         <hi rend="italic">Linked Data for Libraries, Archives and Museums: How to clean, link and publish your metadata</hi>. Facet Publishing.
-                    </bibl>
-                    <bibl ref="#bibl__1112"><hi rend="bold">Jaeggi, R., &amp; Wesche, T.</hi> (2013). 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1112"><hi rend="bold">Jaeggi, R., &amp; Wesche, T.</hi> (2013). 
                         <hi rend="italic">Was ist Kritik?</hi> Frankfurt: Suhrkamp. 
-                    </bibl>
-                    <bibl ref="#bibl__1113"><hi rend="bold">Jones, A. L. </hi>(1993). Exploding Canons: The Anthropology of Museums. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1113"><hi rend="bold">Jones, A. L. </hi>(1993). Exploding Canons: The Anthropology of Museums. 
                         <hi rend="italic">Annual Review of Anthropology</hi>, 
                         <hi rend="italic">22</hi>(1), 201–220. 
-                    </bibl>
-                    <bibl ref="#bibl__1114"><hi rend="bold">Latour, B. </hi>(2004). Why has critique run out of steam? From matters of fact to matters of concern. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1114"><hi rend="bold">Latour, B. </hi>(2004). Why has critique run out of steam? From matters of fact to matters of concern. 
                         <hi rend="italic">Critical Inquiry</hi>, 
                         <hi rend="italic">30</hi>(2), 225–248. 
-                    </bibl>
-                    <bibl ref="#bibl__1115"><hi rend="bold">Swartz, D. </hi>(2012). 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1115"><hi rend="bold">Swartz, D. </hi>(2012). 
                         <hi rend="italic">Culture and power: The sociology of Pierre Bourdieu</hi>. University of Chicago Press. 
-                    </bibl>
-                    <bibl ref="#bibl__22"><hi rend="bold">Whitelaw, M.</hi> (2015). Generous Interfaces for Digital Cultural Collections. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__22"><hi rend="bold">Whitelaw, M.</hi> (2015). Generous Interfaces for Digital Cultural Collections. 
                         <hi rend="italic">Digital Humanities Quarterly</hi>, 
                         <hi rend="italic">9</hi>(1). 
-                    </bibl>
-                    <bibl ref="#bibl__112"><hi rend="bold">Windhager F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. </hi> (2017). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__112"><hi rend="bold">Windhager F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. </hi> (2017). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. 
                         <hi rend="italic">Transactions of Visualization and Computer Graphics </hi>(eingereicht)
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -123,36 +123,36 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__113">
-                        <hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2015): “Whipping Boys Explained: Literary Annotation and Digital Humanities.” in: 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__113"><hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2015): “Whipping Boys Explained: Literary Annotation and Digital Humanities.” in: 
                         <hi rend="italic">Literary Studies in the Digital Age: An Evolving Anthology</hi>. 
                         <ref target="https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/">https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/</ref> [letzter Zugriff 23. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__1116">
-                        <hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2017a): “TEASys (Tübingen Explanatory Annotations System): Die erklärende Annotation literarischer Texte in den Digital Humanities.” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1116"><hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2017a): “TEASys (Tübingen Explanatory Annotations System): Die erklärende Annotation literarischer Texte in den Digital Humanities.” in: 
                         <hi rend="italic">DHd2017: Digitale Nachhaltigkeit. Konferenzabstracts </hi>274-276.
-                    </bibl>
-                    <bibl ref="#bibl__114">
-                        <hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2017b): “Explanatory Annotation of Literary Texts and the Reader: Seven Types of Problems.” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__114"><hi rend="bold">Bauer, Matthias / Zirker, Angelika</hi> (2017b): “Explanatory Annotation of Literary Texts and the Reader: Seven Types of Problems.” in: 
                         <hi rend="italic">IJHAC</hi> 11.2: 212-232.
-                    </bibl>
-                    <bibl ref="#bibl__115">
-                        <hi rend="bold">Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte </hi>(2017): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__115"><hi rend="bold">Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte </hi>(2017): 
                         <hi rend="italic">Digital Humanities: Eine Einführung</hi>. Stuttgart: Metzler.
-                    </bibl>
-                    <bibl ref="#bibl__1117">
-                        <hi rend="bold">Ralle, Inga H.</hi> (2016): “Maschinenlesbar – menschenlesbar.” in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1117"><hi rend="bold">Ralle, Inga H.</hi> (2016): “Maschinenlesbar – menschenlesbar.” in: 
                         <hi rend="italic">Editio: internationales Jahrbuch für Editionswissenschaft </hi>30.1: 144-156.
-                    </bibl>
-                    <bibl ref="#bibl__1118">
-                        <hi rend="bold">Sahle, Patrick</hi> (2013): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1118"><hi rend="bold">Sahle, Patrick</hi> (2013): 
                         <hi rend="italic">Digitale Editionsformen: Teil 2: Befunde, Theorien und Methodik</hi>. Norderstedt: Book on Demand.
-                    </bibl>
-                    <bibl ref="#bibl__1119">
-                        <hi rend="bold">Stroud, Matthew D.</hi> (2006): “The Closest Reading: Creating Annotated Online Editions.”
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1119"><hi rend="bold">Stroud, Matthew D.</hi> (2006): “The Closest Reading: Creating Annotated Online Editions.”
                         <hi rend="italic"> in: Bass, Laura R. / Greer, Margaret R. (eds.): Approaches to Teaching Early Modern Spanish Drama. New York: Modern Language Association of America </hi>214-219
                         <hi rend="italic">.</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

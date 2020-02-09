@@ -203,59 +203,59 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1195"><hi rend="bold">Burrows, John / Craig, Hugh </hi>(2012) „Authors and characters“, in: 
+                    <bibl><rs type="bibl" ref="#bibl__1195"><hi rend="bold">Burrows, John / Craig, Hugh </hi>(2012) „Authors and characters“, in: 
                         <hi rend="italic">English Studies</hi> 93(3): 292–309.
-                    </bibl>
-                    <bibl ref="#bibl__1196"><hi rend="bold">Detken, Anke </hi>(2014): „Die Figur und ihr Fach: Konzeptionelle Überlegungen am Beispiel von Lessing und Schiller“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1196"><hi rend="bold">Detken, Anke </hi>(2014): „Die Figur und ihr Fach: Konzeptionelle Überlegungen am Beispiel von Lessing und Schiller“, in: 
                         <hi rend="italic">Zeitschrift für Literatur- und Theatersoziologie</hi> 11: 36–53.
-                    </bibl>
-                    <bibl ref="#bibl__1197"><hi rend="bold">Eder, Maciej </hi>(2013): „Computational Sylistics and Biblical Translation: How Reliable Can a Dendrogram Be?“, in: Piotrowski Tadeusz / Grabowski, Łukasz. 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1197"><hi rend="bold">Eder, Maciej </hi>(2013): „Computational Sylistics and Biblical Translation: How Reliable Can a Dendrogram Be?“, in: Piotrowski Tadeusz / Grabowski, Łukasz. 
                         <hi rend="italic">The Translator and the Computer</hi>.
                         Breslau: WSF Press: 155–170.
-                    </bibl>
-                    <bibl ref="#bibl__121"><hi rend="bold">Eder, Maciej / Kestemont, Mike /Rybicki, Jan </hi>(2013): „Stylometry with R: a Suite of Tools“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__121"><hi rend="bold">Eder, Maciej / Kestemont, Mike /Rybicki, Jan </hi>(2013): „Stylometry with R: a Suite of Tools“, in: 
                         <hi rend="italic">Digital Humanities 2013: Conference Abstracts</hi>: 487–89.
-                    </bibl>
-                    <bibl ref="#bibl__122"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2017): „Understanding and Explaining Delta Measures for Authorship Attribution“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__122"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2017): „Understanding and Explaining Delta Measures for Authorship Attribution“, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi>: ii4–ii16 https://doi.org/10.1093/llc/fqx023 [letzter Zugriff 15. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__1198"><hi rend="bold">Fields, Paul J. / Bassist, Larry / Roper, Matt </hi>(2017): „Characters in 19th Century Novels Display Distinctive Voices as Seen by Stylometric Analysis“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1198"><hi rend="bold">Fields, Paul J. / Bassist, Larry / Roper, Matt </hi>(2017): „Characters in 19th Century Novels Display Distinctive Voices as Seen by Stylometric Analysis“, in: 
                         <hi rend="italic">DH2017 Conference Abstracts</hi> https://dh2017.adho.org/abstracts/494/494.pdf [letzter Zugriff 15. September 2017].
                         Harris, Edward P. (1992): „Lessing und das Rollenfachsystem. Überlegungen zur praktischen Charakterologie im 18. Jahrhundert“, in: Bender, Wolfgang F.:
                         <hi rend="italic"> Schauspielkunst im 18. Jahrhundert: Grundlagen, Praxis, Autoren. </hi>Stuttgart: Steiner: 221–235.
-                    </bibl>
-                    <bibl ref="#bibl__1199"><hi rend="bold">Hoover, David </hi>(2017): „The Microanalysis of Style Variation“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1199"><hi rend="bold">Hoover, David </hi>(2017): „The Microanalysis of Style Variation“, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> https://doi.org/10.1093/llc/fqx022 [letzter Zugriff 15. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__1200"><hi rend="bold">Jannidis, Fotis </hi>(2014): „Der Autor ganz nah. Autorstil in Stilistik und Stilometrie“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1200"><hi rend="bold">Jannidis, Fotis </hi>(2014): „Der Autor ganz nah. Autorstil in Stilistik und Stilometrie“, in: 
                         <hi rend="italic">Theorien und Praktiken der Autorschaft</hi>. Schaffrick, Matthias / Willand, Marcus. Berlin, Boston: De Gruyter: 169–195.
-                    </bibl>
-                    <bibl ref="#bibl__1201"><hi rend="bold">Jockers, Matthew L. </hi>(2015): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1201"><hi rend="bold">Jockers, Matthew L. </hi>(2015): 
                         <hi rend="italic">Revealing Sentiment and Plot Arcs with the Syuzhet Package </hi>http://www.matthewjockers.net/2015/02/02/syuzhet/ [letzter Zugriff 15. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__1202"><hi rend="bold">Jockers, Matthew </hi>(2013): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1202"><hi rend="bold">Jockers, Matthew </hi>(2013): 
                         <hi rend="italic">Macroanalysis: Digital Methods and Literary History</hi>. Urbana u.a.: Topics in the Digital Humanities.
-                    </bibl>
-                    <bibl ref="#bibl__1203"><hi rend="bold">Masten, Jeffrey </hi>(1997): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1203"><hi rend="bold">Masten, Jeffrey </hi>(1997): 
                         <hi rend="italic">Textual Intercourse: Collaboration, Authorship and Sexualities in Renaissance Drama</hi>. Cambridge: Cambridge University Press.
-                    </bibl>
-                    <bibl ref="#bibl__63"><hi rend="bold">Mohammad, Saif </hi>(2011): “From Once Upon a Time to Happily Ever After: Tracking Emotions in Novels and Fairy Tales”, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__63"><hi rend="bold">Mohammad, Saif </hi>(2011): “From Once Upon a Time to Happily Ever After: Tracking Emotions in Novels and Fairy Tales”, in: 
                         <hi rend="italic">Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</hi>: 105–114.
-                    </bibl>
-                    <bibl ref="#bibl__44"><hi rend="bold">Moretti, Franco </hi>(2000): „Conjectures of World Literature“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__44"><hi rend="bold">Moretti, Franco </hi>(2000): „Conjectures of World Literature“, in: 
                         <hi rend="italic">New Left Review </hi>1: 54–68.
-                    </bibl>
-                    <bibl ref="#bibl__1204"><hi rend="bold">Moretti, Franco </hi>(2005): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1204"><hi rend="bold">Moretti, Franco </hi>(2005): 
                         <hi rend="italic">Graphs, Maps, Trees: Abstract Models for a Literary History</hi>. London: Verso.
                         Nalisnick, Eric T. / Baird, Henry S. (2013): „Character-to-Character Sentiment Analysis in Shakespeare’s Plays, in: 
                         <hi rend="italic">Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics</hi>: 479–483.
-                    </bibl>
-                    <bibl ref="#bibl__1205"><hi rend="bold">Schöch, Christof </hi>(2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1205"><hi rend="bold">Schöch, Christof </hi>(2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: 
                         <hi rend="italic">Literaturwissenschaft im digitalen Medienwandel. Beihefte zu Philologie im Netz
                         </hi> 7: 130–157.
                         Willand, Marcus / Reiter, Nils (2017): „Geschlecht und Gattung: Digitale Analysen von Kleists ‚Familie Schroffenstein‘, in: 
                         <hi rend="italic">Kleist Jahrbuch </hi>2017: 177–195.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

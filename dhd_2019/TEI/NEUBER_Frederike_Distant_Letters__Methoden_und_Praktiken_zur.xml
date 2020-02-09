@@ -264,8 +264,8 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2177">
-                        <anchor xml:id="id_docs-internal-guid-ab139cc9-7fff-fe6e-39c4-1a663ce0b6b5"/>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2177"><anchor xml:id="id_docs-internal-guid-ab139cc9-7fff-fe6e-39c4-1a663ce0b6b5"/>
                         <hi rend="color(#000000)bold">Andorfer, Peter</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2017):</hi>
@@ -284,9 +284,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2178">
-                        <hi rend="color(#000000)bold">Bernauer, Markus / Miller, Norbert / Neuber, Frederike </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2178"><hi rend="color(#000000)bold">Bernauer, Markus / Miller, Norbert / Neuber, Frederike </hi>
                         <hi rend="color(#000000)">(eds.)</hi>
                         <hi rend="color(#000000)bold"> </hi>
                         <hi rend="color(#000000)">(2018): </hi>
@@ -301,9 +301,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__129">
-                        <anchor xml:id="id_docs-internal-guid-e36ff6d7-7fff-5585-3e62-ed6816c58f62"/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__129"><anchor xml:id="id_docs-internal-guid-e36ff6d7-7fff-5585-3e62-ed6816c58f62"/>
                         <hi rend="color(#000000)bold">Burrows, John </hi>
                         <hi rend="color(#000000)">(2002)</hi>
                         <hi rend="color(#000000)">: „Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship“, </hi>
@@ -312,9 +312,9 @@
                         <hi rend="color(#000000)italic">Literary and Linguistic Computing</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">17/3, S. 267–287.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2179">
-                        <hi rend="color(#000000)bold">Dumont, Stefan </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2179"><hi rend="color(#000000)bold">Dumont, Stefan </hi>
                         <hi rend="color(#000000)">(</hi>
                         <hi rend="color(#000000)">2016): „</hi>
                         <hi rend="color(#000000)">correspSearch – Connecting Scholarly Editions of Letters“, </hi>
@@ -332,9 +332,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__119">
-                        <hi rend="color(#000000)bold">Eder, Maciej / </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__119"><hi rend="color(#000000)bold">Eder, Maciej / </hi>
                         <hi rend="color(#000000)bold">Rybicki, </hi>
                         <hi rend="color(#000000)bold">Jan /</hi>
                         <hi rend="color(#000000)bold"> Kestemont, </hi>
@@ -345,9 +345,9 @@
                         <hi rend="color(#000000)">: </hi>
                         <hi rend="color(#000000)italic">The R Journal </hi>
                         <hi rend="color(#000000)">8/1 (2016), S. 107–121.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2180">
-                        <hi rend="color(#000000)bold">Ette Ottmar</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2180"><hi rend="color(#000000)bold">Ette Ottmar</hi>
                         <hi rend="color(#000000)"> (eds.) (seit 2016): </hi>
                         <hi rend="color(#000000)italic">edition humboldt digital.</hi>
                         <hi rend="color(#000000)"> Berlin-Brandenburgische Akademie der Wissenschaften, Berlin. Version 3 vom 14.09.2018; </hi>
@@ -357,9 +357,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2181">
-                        <hi rend="color(#000000)bold">Graham, </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2181"><hi rend="color(#000000)bold">Graham, </hi>
                         <hi rend="color(#000000)bold">Shawn / </hi>
                         <hi rend="color(#000000)bold">Weingart, S</hi>
                         <hi rend="color(#000000)bold">cott / </hi>
@@ -376,9 +376,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2182">
-                        <anchor xml:id="id_docs-internal-guid-63457661-7fff-3886-91d7-dfe5e4f5ad1c"/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2182"><anchor xml:id="id_docs-internal-guid-63457661-7fff-3886-91d7-dfe5e4f5ad1c"/>
                         <hi rend="color(#000000)bold">Heiden, Serge </hi>
                         <hi rend="color(#000000)">(2010): </hi>
                         <hi rend="color(#000000)">„The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme“. </hi>
@@ -386,9 +386,9 @@
                         <hi rend="color(#000000)">, Nov 2010, Sendai, Japan. Institute for Digital Enhancement of Cognitive Development, Waseda University, </hi>
                         <hi rend="color(#000000)">S.</hi>
                         <hi rend="color(#000000)">389–398. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__2183">
-                        <anchor xml:id="id_docs-internal-guid-efc7fee9-7fff-7877-0c19-9092c13f3cb9"/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2183"><anchor xml:id="id_docs-internal-guid-efc7fee9-7fff-7877-0c19-9092c13f3cb9"/>
                         <hi rend="color(#000000)bold">Herrmann, Berenike J. / van Dalen-Oskam, </hi>
                         <hi rend="color(#000000)bold">Karina / Schöch, </hi>
                         <hi rend="color(#000000)bold">Schöch </hi>
@@ -397,9 +397,9 @@
                         <hi rend="color(#000000)">: </hi>
                         <hi rend="color(#000000)italic">Journal of Literary Theory</hi>
                         <hi rend="color(#000000)"> 9/1, S. 25–52.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2184">
-                        <anchor xml:id="id_docs-internal-guid-c0a26e04-7fff-00df-00be-421bc1f6056f"/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2184"><anchor xml:id="id_docs-internal-guid-c0a26e04-7fff-00df-00be-421bc1f6056f"/>
                         <hi rend="color(#000000)bold">Rhody, Lisa M. </hi>
                         <hi rend="color(#000000)">(2012)</hi>
                         <hi rend="color(#000000)">.: „Topic Modeling and Figurative Language“, </hi>
@@ -413,9 +413,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__123">
-                        <anchor xml:id="id_docs-internal-guid-c717f2fd-7fff-fb71-14ad-ce8199b455b8"/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__123"><anchor xml:id="id_docs-internal-guid-c717f2fd-7fff-fb71-14ad-ce8199b455b8"/>
                         <hi rend="color(#000000)bold">Schöch, Christof </hi>
                         <hi rend="color(#000000)">(2017)</hi>
                         <hi rend="color(#000000)">: „Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama“, </hi>
@@ -429,9 +429,9 @@
                         <hi rend="color(#000000)">. </hi>
                         <hi rend="color(#000000)">Januar 2019</hi>
                         <hi rend="color(#000000)">].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2185">
-                        <hi rend="color(#000000)bold">Walmsley, Priscilla</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2185"><hi rend="color(#000000)bold">Walmsley, Priscilla</hi>
                         <hi rend="color(#000000)"> (2009): </hi>
                         <hi rend="color(#000000)italic">XQuery</hi>
                         <hi rend="color(#000000)">: </hi>
@@ -444,7 +444,7 @@
                         <hi rend="color(#000000)italic">XML</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">Data. O’Reilly Media.</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -259,8 +259,8 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2872">
-                        <hi rend="color(#000000)bold">Grüntgens, Max / Schrade, Torsten</hi>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2872"><hi rend="color(#000000)bold">Grüntgens, Max / Schrade, Torsten</hi>
                         <hi rend="color(#000000)"> (2016): Data repositories in the Humanities and the Semantic Web: modelling, linking, visualising. </hi>
                         <hi rend="color(#000000)">In: </hi>
                         <hi rend="color(#000000)italic">Adamou, A., Daga, E., Isaksen, L. (</hi>
@@ -269,9 +269,9 @@
                         <hi rend="color(#000000)">. Aachen</hi>
                         <hi rend="color(#000000)">, </hi>
                         <hi rend="color(#000000)">S. 53–64.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2873">
-                        <hi rend="color(#000000)bold">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2873"><hi rend="color(#000000)bold">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian</hi>
                         <hi rend="color(#000000)"> (2015): Metadaten, LOD und der Mehrwert standardisierter und vernetzter Daten. In: </hi>
                         <hi rend="color(#000000)italic">Heike Neuroth, Andrea Rapp, Sibylle Söring (Hrsg.): TextGrid: Von der Community – für die Community. Eine Virtuelle Forschungsumgebung für </hi>
                         <hi rend="color(#000000)italic">die Geisteswissenschaften</hi>
@@ -285,9 +285,9 @@
                         <hi rend="color(#000000)">.201</hi>
                         <hi rend="color(#000000)">9</hi>
                         <hi rend="color(#000000)">]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2874">
-                        <hi rend="color(#000000)bold">Kuczera, Andreas</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2874"><hi rend="color(#000000)bold">Kuczera, Andreas</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(</hi>
                         <hi rend="color(#000000)">2017</hi>
@@ -300,14 +300,14 @@
                         <ptr target="https://doi.org/10.1515/abitech-2017-0042"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[Letzter Zugriff 09.01.2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2875">
-                        <hi rend="color(#000000)bold">Schrade, Torsten </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2875"><hi rend="color(#000000)bold">Schrade, Torsten </hi>
                         <hi rend="color(#000000)">(2013): Datenstrukturierung. </hi>In:
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)italic">Über die Praxis des kulturwissenschaftlichen Arbeitens. Ein Handwörterbuch.</hi>
                         <hi rend="color(#000000)"> Bielefeld: transcript, S. 91–97.</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

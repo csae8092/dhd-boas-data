@@ -99,90 +99,90 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1795">
-                        <hi rend="bold" style="font-size:10pt">Banski, Piotr / Frick, Elena / Witt, Andreas</hi>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1795"><hi rend="bold" style="font-size:10pt">Banski, Piotr / Frick, Elena / Witt, Andreas</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2016): "Corpus Query Lingua Franca (CQLF)". </hi>
                         <hi rend="italic" style="font-size:10pt">Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)</hi>
                         <hi style="font-size:10pt" xml:space="preserve">, Portorož, Slovenia 2804-2809.  </hi>
                         <ref target="https://nbn-resolving.org/urn:nbn:de:bsz:mh39-50405">
                             <hi style="font-size:10pt">https://nbn-resolving.org/urn:nbn:de:bsz:mh39-50405</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__1796">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Eshkol-Taravella, I. / Baude, O. / Maurel, D. / Hriba, L. / Dugua, C. / Tellier, I., </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1796"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Eshkol-Taravella, I. / Baude, O. / Maurel, D. / Hriba, L. / Dugua, C. / Tellier, I., </hi>
                         <hi style="font-size:10pt" xml:space="preserve">(2012), "Un grand corpus oral ,disponible’ : le corpus d’Orléans 1968-2012. " In: </hi>
                         <hi rend="italic" style="font-size:10pt">Ressources linguistiques libres, TAL.</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> 52,3/2011, 17-46. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__1797">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Fandrych, Christian / Meißner, Cordula / Wallner, Franziska (eds.) </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1797"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Fandrych, Christian / Meißner, Cordula / Wallner, Franziska (eds.) </hi>
                         <hi style="font-size:10pt">(2017): "Gesprochene Wissenschaftssprache – digital Verfahren zur Annotation und Analyse müdlicher Korpora."</hi>
                         <hi rend="italic" style="font-size:10pt">Deutsch als Fremd- und Zweitsprache.</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> Tübingen: Stauffenburg.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1798">
-                        <hi rend="bold" style="font-size:10pt">Hedeland, Hanna / Wörner, Kai</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1798"><hi rend="bold" style="font-size:10pt">Hedeland, Hanna / Wörner, Kai</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2012): "Experiences and Problems creating a CMDI profile from an existing Metadata Schema". </hi>
                         <hi rend="italic" style="font-size:10pt">Proceedings of LREC-Workshop Describing LRs with Metadata: Towards Flexibility and Interoperability in the Documentation of LR</hi>
                         <hi style="font-size:10pt">, Istanbul, European Language Resources Association (ELRA) 37-40.</hi>
                         <ref target="http://www.lrec-conf.org/proceedings/lrec2012/workshops/11.LREC2012%20Metadata%20Proceedings.pdf">
                             <hi style="font-size:10pt">http://www.lrec-conf.org/proceedings/lrec2012/workshops/11.LREC2012%20Metadata%20Proceedings.pdf</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__1799">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Hedeland, Hanna / Lehmberg, Timm / Schmidt, Thomas / Wörner, Kai </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1799"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Hedeland, Hanna / Lehmberg, Timm / Schmidt, Thomas / Wörner, Kai </hi>
                         <hi style="font-size:10pt" xml:space="preserve">(2014): "Multilingual Corpora at the Hamburg Centre for Language Corpora". In: Ruhi, Şükriye/Haugh, Michael/Schmidt, Thomas/Wörner, Kai (Hrsg.): </hi>
                         <hi rend="italic" style="font-size:10pt" xml:space="preserve">Best Practices for Spoken Corpora in Linguistic Research. </hi>
                         <hi style="font-size:10pt">Newcastle: Cambridge Scholars Publishing, 2014. S. 208-224.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1800">
-                        <hi rend="bold" style="font-size:10pt">ISO</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1800"><hi rend="bold" style="font-size:10pt">ISO</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (ed.) (2016): </hi>
                         <hi rend="italic" style="font-size:10pt">ISO 24624:2016 Language resource management – Transcription of spoken language.</hi>
                         <ref target="https://www.iso.org/standard/37338.html">
                             <hi style="font-size:10pt">https://www.iso.org/standard/37338.html</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__1801">
-                        <hi rend="bold" style="font-size:10pt">ISO</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1801"><hi rend="bold" style="font-size:10pt">ISO</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (ed.) (2018): </hi>
                         <hi rend="italic" style="font-size:10pt">ISO 24623-1:2018 Language resource management – Corpus query lingua franca (CQLF) -- Part 1: Metamodel.</hi>
                         <ref target="https://www.iso.org/standard/37337.html">
                             <hi style="font-size:10pt">https://www.iso.org/standard/37337.html</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__1802">
-                        <hi rend="bold" style="font-size:10pt">Komrsková, Zuzana / Kopřivová, Marie / Lukeš, David / Poukarová, Petra / Goláňová, Hana</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1802"><hi rend="bold" style="font-size:10pt">Komrsková, Zuzana / Kopřivová, Marie / Lukeš, David / Poukarová, Petra / Goláňová, Hana</hi>
                         <hi style="font-size:10pt">(2018).</hi>
                         <hi rend="bold" style="font-size:10pt">“</hi>
                         <hi style="font-size:10pt">New Spoken Corpora of Czech: ORTOFON and DIALEKT.”</hi>
                         <hi rend="italic" style="font-size:10pt">Journal of Linguistics</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> 68:2, 219-228. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__1803">
-                        <hi rend="bold" style="font-size:10pt">Schmidt, Thomas</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1803"><hi rend="bold" style="font-size:10pt">Schmidt, Thomas</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2014): "(More) Common Ground for Processing Spoken Language Corpora?" In: Ruhi, Şükriye/Haugh, Michael/Schmidt, Thomas/Wörner, Kai (eds.): </hi>
                         <hi rend="italic" style="font-size:10pt">Best Practices for Spoken Corpora in Linguistic Research.</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> Newcastle: Cambridge Scholars Publishing, 2014 249-265. </hi>
                         <ref target="http://pub.ids-mannheim.de/autoren/divers/3119.html">
                             <hi style="font-size:10pt">http://pub.ids-mannheim.de/autoren/divers/3119.html</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__1804">
-                        <hi rend="bold" style="font-size:10pt" xml:space="preserve">Schmidt, Thomas </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1804"><hi rend="bold" style="font-size:10pt" xml:space="preserve">Schmidt, Thomas </hi>
                         <hi style="font-size:10pt" xml:space="preserve">(2017): "DGD – Die Datenbank für Gesprochenes Deutsch. Mündliche Korpora am Institut für Deutsche Sprache (IDS) in Mannheim." In: </hi>
                         <hi rend="italic" style="font-size:10pt">Zeitschrift für Germanistische Linguistik</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> 45(3), S. 451-463. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__1805">
-                        <hi rend="bold" style="font-size:10pt">Schmidt, Thomas / Elenius, Kjell / Trilsbeek, Paul</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1805"><hi rend="bold" style="font-size:10pt">Schmidt, Thomas / Elenius, Kjell / Trilsbeek, Paul</hi>
                         <hi style="font-size:10pt" xml:space="preserve"> (2010): "Multimedia encoding and annotation". In: Hinrichs, Erhard (ed.): </hi>
                         <hi rend="italic" style="font-size:10pt">Interoperability and standards</hi>
                         <hi style="font-size:10pt">. Utrecht: Utrecht University, 2010 121-124.</hi>
                         <ref target="http://www.exmaralda.org/files/CLARIN_Standards.pdf">
                             <hi style="font-size:10pt">http://www.exmaralda.org/files/CLARIN_Standards.pdf</hi>
                         </ref>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

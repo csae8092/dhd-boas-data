@@ -176,25 +176,25 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__502"><hi rend="bold">Blackwell, Christopher / Smith, Neel </hi>(2014): "The Canonical Text Service (CTS)" 
+                    <bibl><rs type="bibl" ref="#bibl__502"><hi rend="bold">Blackwell, Christopher / Smith, Neel </hi>(2014): "The Canonical Text Service (CTS)" 
                         <ptr target="http://cite-architecture.github.io/cts/"/> [letzter Zugriff 18. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__503"><hi rend="bold">Bohnet, Bernd / Nivre, Joakim </hi>(2012): "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing" in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__503"><hi rend="bold">Bohnet, Bernd / Nivre, Joakim </hi>(2012): "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing" in: 
                         <hi rend="italic">Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning</hi>: 1455-1465.
-                    </bibl>
-                    <bibl ref="#bibl__504"><hi rend="bold">Crane, Gregory </hi>(1991): "Generating and parsing classical greek" in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__504"><hi rend="bold">Crane, Gregory </hi>(1991): "Generating and parsing classical greek" in: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 6(4):243–245.
-                    </bibl>
-                    <bibl ref="#bibl__505"><hi rend="bold">Kath, Roxana / Keilholz, Franz / Klinker, Fabian / Pöckelmann, Marcus / Rücker, Michaela / Švitek, Mihael / Wöckener-Gade, Eva / Yu, Xiaozhou </hi>(2017): "Paraphrasenerkennung im Projekt Digital Plato" in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__505"><hi rend="bold">Kath, Roxana / Keilholz, Franz / Klinker, Fabian / Pöckelmann, Marcus / Rücker, Michaela / Švitek, Mihael / Wöckener-Gade, Eva / Yu, Xiaozhou </hi>(2017): "Paraphrasenerkennung im Projekt Digital Plato" in: 
                         <hi rend="italic">Tagungsband der 4. Jahrestagung der Digital Humanities im deutschsprachigen Raum</hi>: 266-270.
-                    </bibl>
-                    <bibl ref="#bibl__506"><hi rend="bold">Kusner, Matt J. / Sun, Yu / Kolkin, Nicholas I. / Weinberger, Kilian Q. </hi>(2015): "From Word Embeddings To Document Distances" in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__506"><hi rend="bold">Kusner, Matt J. / Sun, Yu / Kolkin, Nicholas I. / Weinberger, Kilian Q. </hi>(2015): "From Word Embeddings To Document Distances" in: 
                         <hi rend="italic">Proceedings of the 32. International Conference on Machine Learning</hi>: 957–966.
-                    </bibl>
-                    <bibl ref="#bibl__45"><hi rend="bold">Mikolov, Tomas / Sutskever, Ilya / Chen, Kai / Corrado, Greg S. / Dean, Jeff </hi>(2013): "Distributed representations of words and phrases and their compositionality" in: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__45"><hi rend="bold">Mikolov, Tomas / Sutskever, Ilya / Chen, Kai / Corrado, Greg S. / Dean, Jeff </hi>(2013): "Distributed representations of words and phrases and their compositionality" in: 
                         <hi rend="italic">Advances in Neural Information Processing Systems</hi> 26: 3111–3119.
-                    </bibl>
-                    <bibl ref="#bibl__507"><hi rend="bold">Pöckelmann, Marcus / Ritter, Jörg / Wöckener-Gade, Eva / Schubert, Charlotte </hi>(2017): "Paraphrasensuche mittels word2vec und der Word Mover’s Distance im Altgriechischen"in: Digital Classics Online, Band 3, Ausgabe 3, S. 24-36.</bibl>
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__507"><hi rend="bold">Pöckelmann, Marcus / Ritter, Jörg / Wöckener-Gade, Eva / Schubert, Charlotte </hi>(2017): "Paraphrasensuche mittels word2vec und der Word Mover’s Distance im Altgriechischen"in: Digital Classics Online, Band 3, Ausgabe 3, S. 24-36.</rs></bibl>
                 </listBibl>
             </div>
       </back>

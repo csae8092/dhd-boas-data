@@ -84,34 +84,34 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2586">Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.</bibl>
-                    <bibl ref="#bibl__2587">Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.</bibl>
-                    <bibl ref="#bibl__2588">Open Science Network Austria (OANA): Über Open Science. 
-                        <ref target="https://www.oana.at/ueber-open-science/">https://www.oana.at/ueber-open-science/</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2589">Pomerantz, Jeffrey / Peek, Robin: Fifty shades of open. In: 
-                        <hi rend="italic">First Monday</hi> 4/2016. 
+                    <bibl>Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.<rs type="bibl" ref="#bibl__2586"/></bibl>
+                    <bibl>Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.<rs type="bibl" ref="#bibl__2587"/></bibl>
+                    <bibl>Open Science Network Austria (OANA): Über Open Science. 
+                        <rs type="bibl" ref="#bibl__2588"><ref target="https://www.oana.at/ueber-open-science/">https://www.oana.at/ueber-open-science/</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Pomerantz, Jeffrey / Peek, Robin: Fifty shades of open. In: 
+                        <rs type="bibl" ref="#bibl__2589"><hi rend="italic">First Monday</hi> 4/2016. 
                         <ref target="http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460">http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460</ref>
-                    </bibl>
-                    <bibl ref="#bibl__2590">Ressourcen zum Projekt:</bibl>
-                    <bibl ref="#bibl__2591">Web-App: 
-                        <ref target="https://handkeinzungen.acdh.oeaw.ac.at/">https://handkeinzungen.acdh.oeaw.ac.at/</ref>
-                    </bibl>
-                    <bibl ref="#bibl__2592">Projekt-Logbuch: 
-                        <ref target="https://github.com/vanyh/handkeinzungen">https://github.com/vanyh/handkeinzungen</ref>
-                    </bibl>
-                    <bibl ref="#bibl__2593">Github-Repository: 
-                        <ref target="https://github.com/vanyh/handkeinzungen-app">https://github.com/vanyh/handkeinzungen-app</ref>
-                    </bibl>
-                    <bibl ref="#bibl__2594">Wikiversity-Seite: 
-                        <ref target="https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke">https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke</ref>
-                    </bibl>
-                    <bibl ref="#bibl__2595">Zotero-Gruppe: 
-                        <ref target="https://www.zotero.org/groups/1840645/peter_handke_stage_texts">https://www.zotero.org/groups/1840645/peter_handke_stage_texts</ref>
-                    </bibl>
-                    <bibl ref="#bibl__2596">Twitter-Account: 
-                        <ref target="https://twitter.com/HandkeinZungen">https://twitter.com/HandkeinZungen</ref>
-                    </bibl>
+                    </rs></bibl>
+                    <bibl>Ressourcen zum Projekt:<rs type="bibl" ref="#bibl__2590"/></bibl>
+                    <bibl>Web-App: 
+                        <rs type="bibl" ref="#bibl__2591"><ref target="https://handkeinzungen.acdh.oeaw.ac.at/">https://handkeinzungen.acdh.oeaw.ac.at/</ref>
+                    </rs></bibl>
+                    <bibl>Projekt-Logbuch: 
+                        <rs type="bibl" ref="#bibl__2592"><ref target="https://github.com/vanyh/handkeinzungen">https://github.com/vanyh/handkeinzungen</ref>
+                    </rs></bibl>
+                    <bibl>Github-Repository: 
+                        <rs type="bibl" ref="#bibl__2593"><ref target="https://github.com/vanyh/handkeinzungen-app">https://github.com/vanyh/handkeinzungen-app</ref>
+                    </rs></bibl>
+                    <bibl>Wikiversity-Seite: 
+                        <rs type="bibl" ref="#bibl__2594"><ref target="https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke">https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke</ref>
+                    </rs></bibl>
+                    <bibl>Zotero-Gruppe: 
+                        <rs type="bibl" ref="#bibl__2595"><ref target="https://www.zotero.org/groups/1840645/peter_handke_stage_texts">https://www.zotero.org/groups/1840645/peter_handke_stage_texts</ref>
+                    </rs></bibl>
+                    <bibl>Twitter-Account: 
+                        <rs type="bibl" ref="#bibl__2596"><ref target="https://twitter.com/HandkeinZungen">https://twitter.com/HandkeinZungen</ref>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

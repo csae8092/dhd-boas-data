@@ -146,24 +146,24 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1446"><hi rend="bold">Calle-Martin, J. &amp; A. Miranda-García </hi>(2012). „Stylometry and Authorship Attribution: Introduction to the Special Issue“, 
+                    <bibl><rs type="bibl" ref="#bibl__1446"><hi rend="bold">Calle-Martin, J. &amp; A. Miranda-García </hi>(2012). „Stylometry and Authorship Attribution: Introduction to the Special Issue“, 
                         <hi rend="italic">Stylometry and Authorship Attribution</hi>, special issue of 
                         <hi rend="italic">English Studies</hi> 93-3: 251-58.
-                    </bibl>
-                    <bibl ref="#bibl__140"><hi rend="bold">Dunst, A., R. Hartel &amp; J. Laubrock </hi>(2017). „The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities” 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__140"><hi rend="bold">Dunst, A., R. Hartel &amp; J. Laubrock </hi>(2017). „The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities” 
                         <hi rend="italic">Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017)</hi> [im Druck].
-                    </bibl>
-                    <bibl ref="#bibl__141"><hi rend="bold">Holmes, D </hi>(1998). „The Evolution of Stylometry in Humaninities Scholarship“ 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__141"><hi rend="bold">Holmes, D </hi>(1998). „The Evolution of Stylometry in Humaninities Scholarship“ 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 13-3: 111-17.
-                    </bibl>
-                    <bibl ref="#bibl__1447"><hi rend="bold">Kohle, H. </hi>(2013). 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1447"><hi rend="bold">Kohle, H. </hi>(2013). 
                         <hi rend="italic">Digitale Bildwissenschaft</hi>. Glückstadt: VWH.
-                    </bibl>
-                    <bibl ref="#bibl__1448"><hi rend="bold">Manovich, L. </hi>(2011) “Style Space: How to Compare Image Sets and Follow their Evolution”, http://manovich.net/index.php/projects/style-space.</bibl>
-                    <bibl ref="#bibl__1449"><hi rend="bold">Manovich, L., J. Douglas, T. Zepel </hi>(2011). „How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare.</bibl>
-                    <bibl ref="#bibl__142"><hi rend="bold">Qi, Hanchao, Armeen Taeb &amp; Shannon M. Hughes </hi>, „Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings” 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1448"><hi rend="bold">Manovich, L. </hi>(2011) “Style Space: How to Compare Image Sets and Follow their Evolution”, http://manovich.net/index.php/projects/style-space.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1449"><hi rend="bold">Manovich, L., J. Douglas, T. Zepel </hi>(2011). „How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__142"><hi rend="bold">Qi, Hanchao, Armeen Taeb &amp; Shannon M. Hughes </hi>, „Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings” 
                         <hi rend="italic">Signal Processing</hi> 93-3 (2013): 541-53.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

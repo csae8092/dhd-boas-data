@@ -96,31 +96,31 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1066"><hi rend="bold">Chaiken, Shelly / Eagly, Alice H. Eagly </hi>(1989): “Heuristic and Systematic Information Processing Within and Beyond the Persuasion Context.” In: Uleman, J.S. / Bargh, J.A.: 
+                    <bibl><rs type="bibl" ref="#bibl__1066"><hi rend="bold">Chaiken, Shelly / Eagly, Alice H. Eagly </hi>(1989): “Heuristic and Systematic Information Processing Within and Beyond the Persuasion Context.” In: Uleman, J.S. / Bargh, J.A.: 
                         <hi rend="italic">Unintended Thought. </hi>New York: Gilford, 212–52.
-                    </bibl>
-                    <bibl ref="#bibl__1067"><hi rend="bold">Deffuant, Guillaume / Neau, David / Amblard, Frederic / Weisbuch, Gérard </hi>(2000): „Mixing Beliefs among interacting agents.“ 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1067"><hi rend="bold">Deffuant, Guillaume / Neau, David / Amblard, Frederic / Weisbuch, Gérard </hi>(2000): „Mixing Beliefs among interacting agents.“ 
                         <hi rend="italic">Advances in Complex Systems 3</hi> (1-4): 87-98.
-                    </bibl>
-                    <bibl ref="#bibl__1068"><hi rend="bold">Esser, Hartmut. </hi>(1996): “Die Definition der Situation.” 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1068"><hi rend="bold">Esser, Hartmut. </hi>(1996): “Die Definition der Situation.” 
                         <hi rend="italic">Kölner Zeitschrift für Soziologie und Sozialpsychologie</hi> 48 (2): 1–34.
-                    </bibl>
-                    <bibl ref="#bibl__1069"><hi rend="bold">Hegselmann, Rainer / Krause, Ulrich </hi>(2002): “Opinion dynamics and bounded confidence. Models, Analysis and Simulation.” 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1069"><hi rend="bold">Hegselmann, Rainer / Krause, Ulrich </hi>(2002): “Opinion dynamics and bounded confidence. Models, Analysis and Simulation.” 
                         <hi rend="italic">Journal of Artificial Societies and Social Simulation 5 (3). URL: http://jasss.soc.surrey.ac.uk/5/3/2.html.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1070"><hi rend="bold">Karimpanal, Thommen George, / Wilhelm, Erik </hi>(2017): “Identification and Off-Policy Learning of Multiple Objectives Using Adaptive Clustering.” 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1070"><hi rend="bold">Karimpanal, Thommen George, / Wilhelm, Erik </hi>(2017): “Identification and Off-Policy Learning of Multiple Objectives Using Adaptive Clustering.” 
                         <hi rend="italic">Neurocomputing</hi> 263: 39-47.
-                    </bibl>
-                    <bibl ref="#bibl__106"><hi rend="bold">Kohle, Hubertus </hi>(2017): “Digitale Rekonstruktion und Simulation”. In: Jannidis, Fotis / Kohle, Hubertus (eds.): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__106"><hi rend="bold">Kohle, Hubertus </hi>(2017): “Digitale Rekonstruktion und Simulation”. In: Jannidis, Fotis / Kohle, Hubertus (eds.): 
                         <hi rend="italic">Digital Humanities. Eine Einführung</hi>. Stuttgart: J.B. Metzler, 315-327.
-                    </bibl>
-                    <bibl ref="#bibl__1071"><hi rend="bold">Kroneberg, Clemens. </hi>(2010): “Das Modell Der Frame-Selektion: Grundlagen Und Soziologische Anwendung Einer Integrativen Handlungstheorie.” PhD, Universität Mannheim.</bibl>
-                    <bibl ref="#bibl__1072"><hi rend="bold">Petty, Richard E., und John T. Cacioppo. </hi>(1986): “The Elaboration Likelihood Model of Persuasion.” In: 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1071"><hi rend="bold">Kroneberg, Clemens. </hi>(2010): “Das Modell Der Frame-Selektion: Grundlagen Und Soziologische Anwendung Einer Integrativen Handlungstheorie.” PhD, Universität Mannheim.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1072"><hi rend="bold">Petty, Richard E., und John T. Cacioppo. </hi>(1986): “The Elaboration Likelihood Model of Persuasion.” In: 
                         <hi rend="italic">Advances in Experimental Social Psychology</hi> 19: 123–205.
-                    </bibl>
-                    <bibl ref="#bibl__1073"><hi rend="bold">Wen, Feng / Chen, Zonghai / Zhuo, Rui / Zhou, Guangming </hi>(2006): “Reinforcement Learning Method of Continuous State Adaptively Discretized Based on K-Means Clustering.” 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1073"><hi rend="bold">Wen, Feng / Chen, Zonghai / Zhuo, Rui / Zhou, Guangming </hi>(2006): “Reinforcement Learning Method of Continuous State Adaptively Discretized Based on K-Means Clustering.” 
                         <hi rend="italic">Control and Decision</hi> 21 (2): 143-146.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

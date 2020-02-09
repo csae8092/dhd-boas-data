@@ -258,26 +258,26 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__369">
-                        <hi rend="bold">Kuhn, Jonas / Reiter, Nils</hi> (2015): "A Plea for a Method-Driven Agenda in the Digital Humanities" in: 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__369"><hi rend="bold">Kuhn, Jonas / Reiter, Nils</hi> (2015): "A Plea for a Method-Driven Agenda in the Digital Humanities" in: 
                         <hi rend="italic">Digital Humanities 2015: Conference Abstracts</hi>, Sydney.
-                    </bibl>
-                    <bibl ref="#bibl__370">
-                        <hi rend="bold">Reiter, Nils / Blessing, Andre / Echelmeyer, Nora / Koch, Steffen / Kremer, Gerhard / Murr, Sandra / Overbeck, Maximilian / Pichler, Axel</hi> (2017a): "CUTE: CRETA Unshared Task zu Entitätenreferenzen" in 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__370"><hi rend="bold">Reiter, Nils / Blessing, Andre / Echelmeyer, Nora / Koch, Steffen / Kremer, Gerhard / Murr, Sandra / Overbeck, Maximilian / Pichler, Axel</hi> (2017a): "CUTE: CRETA Unshared Task zu Entitätenreferenzen" in 
                         <hi rend="italic">Konferenzabstracts DHd2017</hi>, Bern.
-                    </bibl>
-                    <bibl ref="#bibl__371">
-                        <hi rend="bold">Reiter, Nils / Kuhn, Jonas / Willand, Marcus</hi> (2017b): "To GUI or not to GUI?" in 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__371"><hi rend="bold">Reiter, Nils / Kuhn, Jonas / Willand, Marcus</hi> (2017b): "To GUI or not to GUI?" in 
                         <hi rend="italic">Proceedings of INFORMATIK 2017</hi>, Chemnitz.
-                    </bibl>
-                    <bibl ref="#bibl__26">
-                        <hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils</hi> (2017): "An end-to-end environment for research question-driven entity extraction and network analysis" in 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__26"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils</hi> (2017): "An end-to-end environment for research question-driven entity extraction and network analysis" in 
                         <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, Vancouver.
-                    </bibl>
-                    <bibl ref="#bibl__372">
-                        <hi rend="bold">Lotman, Juri</hi> (1972): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__372"><hi rend="bold">Lotman, Juri</hi> (1972): 
                         <hi rend="italic">Die Struktur literarischer Texte</hi>, München.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

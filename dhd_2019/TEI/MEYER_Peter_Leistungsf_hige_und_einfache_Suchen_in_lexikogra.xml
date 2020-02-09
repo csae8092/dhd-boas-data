@@ -112,46 +112,46 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__2392">
-                        <hi rend="bold">Bhowmick, Sourav S. / Choi, Byron / Li, Chengkai</hi> (2018): 
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2392"><hi rend="bold">Bhowmick, Sourav S. / Choi, Byron / Li, Chengkai</hi> (2018): 
                         <hi rend="italic">Human Interaction with Graphs: A Visual Querying Perspective</hi>. San Rafael, CA: Morgan &amp; Claypool Publishers.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2393">
-                        <hi rend="bold">Bonifati, Angela / Fletcher, George / Voigt, Hannes / Yakovets, Nikolay</hi> (2018): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2393"><hi rend="bold">Bonifati, Angela / Fletcher, George / Voigt, Hannes / Yakovets, Nikolay</hi> (2018): 
                         <hi rend="italic">Querying Graphs</hi>. San Rafael, CA: Morgan &amp; Claypool Publishers. 
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2394">
-                        <hi rend="bold">Ferré, Sébastien</hi> (2017): "Sparklis: An Expressive Query Builder for SPARQL Endpoints with Guidance in Natural Language“, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2394"><hi rend="bold">Ferré, Sébastien</hi> (2017): "Sparklis: An Expressive Query Builder for SPARQL Endpoints with Guidance in Natural Language“, in: 
                         <hi rend="italic">Semantic Web: Interoperability, Usability, Applicability</hi> 8(3): 405-418.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2395">
-                        <hi rend="bold">Gracia, Jorge / Kernerman, Ilan / Bosque-Gil, Julia</hi> (2017): "Toward Linked Data-Native Dictionaries“, in: Kosem, Iztok / Tiberius, Carole / Jakubíček, Miloš / Kallas, Jelena / Krek, Simon / Baisa, Vít (eds.):
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2395"><hi rend="bold">Gracia, Jorge / Kernerman, Ilan / Bosque-Gil, Julia</hi> (2017): "Toward Linked Data-Native Dictionaries“, in: Kosem, Iztok / Tiberius, Carole / Jakubíček, Miloš / Kallas, Jelena / Krek, Simon / Baisa, Vít (eds.):
                         <hi rend="italic" xml:space="preserve"> Electronic lexicography in the 21st century. Proceedings of eLex 2017 conference</hi>. Brno: Lexical Computing 550-559 https://elex.link/elex2017/proceedings-download/ [letzter Zugriff 12. Oktober 2018].
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2396">
-                        <hi rend="bold">Měchura, Michal</hi> (2016): "Data structures in lexicography: from trees to graphs“, in: Horák, Aleš / Rychlý, Pavel / Rambousek, Adam (eds.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2396"><hi rend="bold">Měchura, Michal</hi> (2016): "Data structures in lexicography: from trees to graphs“, in: Horák, Aleš / Rychlý, Pavel / Rambousek, Adam (eds.): 
                         <hi rend="italic">Proceedings of the Tenth Workshop on Recent Advances in Slavonic Natural Languages Processing, RASLAN 2016</hi>. Brno: Tribun EU 97-104.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2397">
-                        <hi rend="bold">Meyer, Peter / Eppinger, Mirjam</hi> (2018): "fLexiCoGraph: Creating and Managing Curated Graph-Based Lexicographical Data", in: Čibej, Jaka / Gorjanc, Vojko / Kosem, Iztok / Krek, Simon (eds.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2397"><hi rend="bold">Meyer, Peter / Eppinger, Mirjam</hi> (2018): "fLexiCoGraph: Creating and Managing Curated Graph-Based Lexicographical Data", in: Čibej, Jaka / Gorjanc, Vojko / Kosem, Iztok / Krek, Simon (eds.): 
                         <hi rend="italic">Proceedings of the XVIII EURALEX International Congress. Lexicography in Global Contexts, 17-21 July, Ljubljana</hi>. Ljubljana: Znanstvena založba 1017-1022.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2398">
-                        <hi rend="bold">Pienta, Robert / Navathe, Shamkant / Tamersoy, Acar / Tong, Hanghang / Endert, Alex / Chau, Duen Horng</hi> (2016): "VISAGE: Interactive Visual Graph Querying", in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2398"><hi rend="bold">Pienta, Robert / Navathe, Shamkant / Tamersoy, Acar / Tong, Hanghang / Endert, Alex / Chau, Duen Horng</hi> (2016): "VISAGE: Interactive Visual Graph Querying", in: 
                         <hi rend="italic">AVI: Proceedings of the Workshop on Advanced Visual Interfaces</hi> 272–279. 
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2399">
-                        <hi rend="bold">Robinson, Ian / Eifrem, Emil / Webber, Jim</hi> (2013): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2399"><hi rend="bold">Robinson, Ian / Eifrem, Emil / Webber, Jim</hi> (2013): 
                         <hi rend="italic">Graph Databases</hi>. Sebastopol, CA: O'Reilly &amp; Associates.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2400">
-                        <hi rend="bold">Rodriguez, Marko A.</hi> (2015): "The Gremlin Graph Traversal Machine and Language", in: Cheney, James / Neumann, Thomas (eds.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2400"><hi rend="bold">Rodriguez, Marko A.</hi> (2015): "The Gremlin Graph Traversal Machine and Language", in: Cheney, James / Neumann, Thomas (eds.): 
                         <hi rend="italic">Proceedings of the 15th Symposium on Database Programming Languages (DBPL 2015).</hi> New York: The Association for Computing Machinery 1-10.
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__2401">
-                        <hi rend="bold" xml:space="preserve">Wood, Peter T. </hi>(2012): "Query Languages for Graph Databases", in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">
+                        <rs type="bibl" ref="#bibl__2401"><hi rend="bold" xml:space="preserve">Wood, Peter T. </hi>(2012): "Query Languages for Graph Databases", in: 
                         <hi rend="italic">SIGMOD Record</hi> 41(1): 50-60.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -109,125 +109,125 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2434">
-                        <hi rend="bold" style="font-size:9pt">Andresen, Knud / Apel, Linde / Heinsohn, Kirsten</hi>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2434"><hi rend="bold" style="font-size:9pt">Andresen, Knud / Apel, Linde / Heinsohn, Kirsten</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (eds.) (2015): </hi>
                         <hi rend="italic" style="font-size:9pt">Es gilt das gesprochene Wort. Oral History und Zeitgeschichte heute</hi>
                         <hi style="font-size:9pt">, Göttingen</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2435">
-                        <hi rend="bold" style="font-size:9pt">Apostolopoulos, Nicolas / Pagenstecher, Cord</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2435"><hi rend="bold" style="font-size:9pt">Apostolopoulos, Nicolas / Pagenstecher, Cord</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (eds.) (2013): </hi>
                         <hi rend="italic" style="font-size:9pt">Erinnern an Zwangsarbeit. Zeitzeugen-Interviews in der digitalen Welt</hi>
                         <hi style="font-size:9pt">, Berlin</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2436">
-                        <hi rend="bold" style="font-size:9pt">Apostolopoulos, Nicolas / Barricelli, Michele / Koch, Gertrud</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2436"><hi rend="bold" style="font-size:9pt">Apostolopoulos, Nicolas / Barricelli, Michele / Koch, Gertrud</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (eds.) (2016): </hi>
                         <hi rend="italic" style="font-size:9pt">Preserving Survivors' Memories. Digital Testimony Collections about Nazi Persecution: History, Education and Media</hi>
                         <hi style="font-size:9pt" xml:space="preserve">, Berlin: Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ), URL: </hi>
                         <hi rend="Hyperlink">http://www.stiftung-evz.de/fileadmin/user_upload/EVZ_Uploads/Handlungsfelder/Auseinandersetzung_mit_der_Geschichte_01/Bildungsarbeit-mit-Zeugnissen/Testimonies_Band3_Web.pdf [10. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2437">
-                        <hi rend="bold" style="font-size:9pt" xml:space="preserve">Armaselu, Florentina / Danescu, Elena / Klein, Francois </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2437"><hi rend="bold" style="font-size:9pt" xml:space="preserve">Armaselu, Florentina / Danescu, Elena / Klein, Francois </hi>
                         <hi style="font-size:9pt" xml:space="preserve">(2018): Oral History and Linguistic Analysis. A Study in Digital and Contemporary European History, in: </hi>
                         <hi rend="italic" style="font-size:9pt">CLARIN Annual Conference 2018 Proceedings</hi>
                         <hi style="font-size:9pt" xml:space="preserve">: 11-15, URL: </hi>
                         <hi rend="Hyperlink">https://office.clarin.eu/v/CE-2018-1292-CLARIN2018_ConferenceProceedings.pdf</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> [10. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2438">
-                        <hi rend="bold" style="font-size:9pt">BBC</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2438"><hi rend="bold" style="font-size:9pt">BBC</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (1999): </hi>
                         <hi rend="italic" style="font-size:9pt">Nazi slaves take case to US</hi>
                         <hi style="font-size:9pt" xml:space="preserve">, 12.10.1999, URL: </hi>
                         <hi rend="Hyperlink">http://news.bbc.co.uk/2/hi/europe/472104.stm [10. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2439">
-                        <hi rend="bold" style="font-size:9pt">Droumpouki, Anna Maria</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2439"><hi rend="bold" style="font-size:9pt">Droumpouki, Anna Maria</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2016): „Erinnerungen an die Okkupation in Griechenland. Entstehung, Entwicklung und gesellschaftliche Bedeutung eines deutsch-griechischen Dokumentationsprojekts“, in: </hi>
                         <hi rend="italic" style="font-size:9pt">BIOS. Zeitschrift für Biographieforschung und Oral History</hi>
                         <hi style="font-size:9pt" xml:space="preserve">, 29/1: 141-151. </hi>
                         <hi rend="Hyperlink">https://doi.org/10.3224/bios.v29i1.09 [10. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2440">
-                        <hi rend="bold" style="font-size:9pt">Kasten, Erich / Roller, Katja / Wilbur, Joshua</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2440"><hi rend="bold" style="font-size:9pt">Kasten, Erich / Roller, Katja / Wilbur, Joshua</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (eds.) (2017):</hi>
                         <hi rend="italic" style="font-size:9pt">Oral History Meets Linguistics</hi>
                         <hi style="font-size:9pt" xml:space="preserve">, Fürstenberg: SEC, 185-207, URL: </hi>
                         <hi rend="Hyperlink">http://www.siberian-studies.org/publications/orhili_E.html</hi>
                         <hi style="font-size:9pt">[10. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2441">
-                        <hi rend="bold" style="font-size:9pt">Klingenböck, Gerda</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2441"><hi rend="bold" style="font-size:9pt">Klingenböck, Gerda</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2009): „Stimmen aus der Vergangenheit. Interviews von Überlebenden des Nationalsozialismus in systematischen Sammlungen von 1945 bis heute“, in: Daniel Baranowski (eds.): </hi>
                         <hi rend="italic" style="font-size:9pt">„Ich bin die Stimme der sechs Millionen“. Das Videoarchiv im Ort der Information</hi>
                         <hi style="font-size:9pt">, Berlin: Stiftung Denkmal für die ermordeten Juden Europas, 27-40</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2442">
-                        <anchor xml:id="Toc294710188"/>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2442"><anchor xml:id="Toc294710188"/>
                         <anchor xml:id="Toc286761893"/>
                         <hi rend="bold" style="font-size:9pt">Leh, Almut</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2000): „Forschungsethische Probleme in der Zeitzeugenforschung“, in: </hi>
                         <hi rend="italic" style="font-size:9pt">BIOS. Zeitschrift für Biographieforschung und Oral History</hi>
                         <hi style="font-size:9pt">, 13: 64-76</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2443">
-                        <hi rend="bold" style="font-size:9pt">Leh, Almut</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2443"><hi rend="bold" style="font-size:9pt">Leh, Almut</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2015): „Vierzig Jahre Oral History in Deutschland. Betrag zu einer Gegenwartsdiagnose von Zeitzeugenarchiven am Beispiel des Archivs ‚Deutsches Gedächtnis‘“, in: </hi>
                         <hi rend="italic" style="font-size:9pt">Westfälische Forschungen. Zeitschrift des LWL-Instituts für westfälische Regionalgeschichte</hi>
                         <hi style="font-size:9pt">, 65: 255-268</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2444">
-                        <hi rend="bold" style="font-size:9pt">Pagenstecher, Cord</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2444"><hi rend="bold" style="font-size:9pt">Pagenstecher, Cord</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2010): „‘We were treated like slaves.‘ Remembering forced labor for Nazi Germany“, in: Gesa Mackenthun, Raphael Hörmann (eds.), </hi>
                         <hi rend="italic" style="font-size:9pt">Human Bondage in the Cultural Contact Zone. Transdisciplinary Perspectives on Slavery and Its Discourses</hi>
                         <hi style="font-size:9pt">, Münster: Waxmann 275-291</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2445">
-                        <hi rend="bold" style="font-size:9pt">Pagenstecher, Cord / Pfänder, Stefan</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2445"><hi rend="bold" style="font-size:9pt">Pagenstecher, Cord / Pfänder, Stefan</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2017): „Hidden dialogues. Towards an interactional understanding of Oral History interviews“, in: Kasten, Erich / Roller, Katja / Wilbur, Joshua (eds.): </hi>
                         <hi rend="italic" style="font-size:9pt">Oral History Meets Linguistics</hi>
                         <hi style="font-size:9pt">, Fürstenberg: SEC: 185-207</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2446">
-                        <hi rend="bold" style="font-size:9pt">Pagenstecher, Cord</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2446"><hi rend="bold" style="font-size:9pt">Pagenstecher, Cord</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2018a): „Testimonies in digital environments: comparing and (de-)contextualising interviews with Holocaust survivor Anita Lasker-Wallfisch“, in: </hi>
                         <hi rend="italic" style="font-size:9pt">Oral History Journal</hi>
                         <hi style="font-size:9pt">, 46 (2): 109-118</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2447">
-                        <hi rend="bold" style="font-size:9pt">Pagenstecher, Cord</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2447"><hi rend="bold" style="font-size:9pt">Pagenstecher, Cord</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2018b): „Curating and Analyzing Oral History Collections“, in: </hi>
                         <hi rend="italic" style="font-size:9pt">CLARIN Annual Conference 2018 Proceedings</hi>
                         <hi style="font-size:9pt" xml:space="preserve">, ed. by Inguna Skadin and Maria Eskevich: 34-38, URL: </hi>
                         <hi rend="Hyperlink">https://office.clarin.eu/v/CE-2018-1292-CLARIN2018_ConferenceProceedings.pdf</hi>
                         <hi style="font-size:9pt">[10. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2448">
-                        <hi rend="bold" style="font-size:9pt">Sabrow, Martin / Frei, Norbert</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2448"><hi rend="bold" style="font-size:9pt">Sabrow, Martin / Frei, Norbert</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (eds.) (2012): Die Geburt des Zeitzeugen nach 1945</hi>
                         <hi rend="italic" style="font-size:9pt">,</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> Göttingen: Wallstein</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2449">
-                        <hi rend="bold" style="font-size:9pt">Schmidt, Thomas</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2449"><hi rend="bold" style="font-size:9pt">Schmidt, Thomas</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2011): „A TEI-based Approach to Standardising Spoken Language Transcription“, in:</hi>
                         <hi rend="italic" style="font-size:9pt">Journal of the Text Encoding Initiative</hi>
                         <hi style="font-size:9pt">, 1, DOI:10.4000/jtei.142.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2450">
-                        <hi rend="bold" style="font-size:9pt">Stanislav, Petr, Jan Švec und Pavel Ircing</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2450"><hi rend="bold" style="font-size:9pt">Stanislav, Petr, Jan Švec und Pavel Ircing</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2016): „An Engine for Online Video Search in Large Archives of the Holocaust Testimonies“, in:</hi>
                         <hi rend="italic" style="font-size:9pt">Interspeech 2016: Show &amp; Tell Contribution</hi>
                         <hi style="font-size:9pt" xml:space="preserve">, </hi>
                         <hi rend="Hyperlink">https://www.isca-speech.org/archive/Interspeech_2016/pdfs/2016.PDF [10</hi>
                         <hi style="font-size:9pt">. Januar 2019]</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2451">
-                        <hi rend="bold" style="font-size:9pt">Wieviorka, Annette</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2451"><hi rend="bold" style="font-size:9pt">Wieviorka, Annette</hi>
                         <hi style="font-size:9pt" xml:space="preserve"> (2006): The Era of the Witness, New York</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

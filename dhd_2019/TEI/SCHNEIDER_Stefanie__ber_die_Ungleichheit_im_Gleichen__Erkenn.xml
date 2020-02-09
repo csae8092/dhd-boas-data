@@ -144,49 +144,49 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2402">Aumueller, Martin / Bernhardsson, Erik / Faitfull, Alec (2018): 
-                        <hi rend="italic">ANN Benchmarks</hi>, 
+                    <bibl>Aumueller, Martin / Bernhardsson, Erik / Faitfull, Alec (2018): 
+                        <rs type="bibl" ref="#bibl__2402"><hi rend="italic">ANN Benchmarks</hi>, 
                         <ptr target="http://sss.projects.itu.dk/ann-benchmarks/index.html"/> (26.09.2018).
-                    </bibl>
-                    <bibl ref="#bibl__2403">Bergel, Giles / Franklin, Alexandra / Heaney, Michael / Arand-Jelovic, Relja / Zisserman, Andrew / Funke, Donata (2013): „Content-based Image Recognition on Printed Broadside Ballads. The Bodleian Libraries’ Imagematch Tool“, in: 
-                        <hi rend="italic">Proceedings of the IFLA World Library and Information Congress</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__2404">Foo, Jun Jie / Zobel, Justin / Sinha, Ranjan (2007): „Clustering Near-duplicate Images in Large Collections“, in: 
-                        <hi rend="italic">Proceedings of the ACM SIGMM International Workshop on Multimedia Information Retrieval</hi> 21–30.
-                    </bibl>
-                    <bibl ref="#bibl__2405">Hentschel, Christian / Wiradarma, Timur P. / Sack, Harald (2016): „An Approach to Large Scale Interactive Retrieval of Cultural Heritage“, in: 
-                        <hi rend="italic">Proceedings of the </hi>
+                    </rs></bibl>
+                    <bibl>Bergel, Giles / Franklin, Alexandra / Heaney, Michael / Arand-Jelovic, Relja / Zisserman, Andrew / Funke, Donata (2013): „Content-based Image Recognition on Printed Broadside Ballads. The Bodleian Libraries’ Imagematch Tool“, in: 
+                        <rs type="bibl" ref="#bibl__2403"><hi rend="italic">Proceedings of the IFLA World Library and Information Congress</hi>.
+                    </rs></bibl>
+                    <bibl>Foo, Jun Jie / Zobel, Justin / Sinha, Ranjan (2007): „Clustering Near-duplicate Images in Large Collections“, in: 
+                        <rs type="bibl" ref="#bibl__2404"><hi rend="italic">Proceedings of the ACM SIGMM International Workshop on Multimedia Information Retrieval</hi> 21–30.
+                    </rs></bibl>
+                    <bibl>Hentschel, Christian / Wiradarma, Timur P. / Sack, Harald (2016): „An Approach to Large Scale Interactive Retrieval of Cultural Heritage“, in: 
+                        <rs type="bibl" ref="#bibl__2405"><hi rend="italic">Proceedings of the </hi>
                         <hi rend="italic">23</hi>
                         <hi rend="italic">th IEEE International Conference on Image Processing</hi> 3693–3697.
-                    </bibl>
-                    <bibl ref="#bibl__2406">Ke, Yan / Sukthankar, Rahul (2004): „PCA-SIFT. A More Distinctive Representation for Local Image Descriptors“, in: 
-                        <hi rend="italic">Proceedings of the IEEE International Conference on Computer and Pattern Recognition</hi> 506–513.
-                    </bibl>
-                    <bibl ref="#bibl__2407">Ke, Yan / Sukthankar, Rahul / Huston, Larry (2004): „An Efficient Parts-based Near-duplicate and Sub-image Retrieval System“, in: 
-                        <hi rend="italic">Proceedings of the </hi>
+                    </rs></bibl>
+                    <bibl>Ke, Yan / Sukthankar, Rahul (2004): „PCA-SIFT. A More Distinctive Representation for Local Image Descriptors“, in: 
+                        <rs type="bibl" ref="#bibl__2406"><hi rend="italic">Proceedings of the IEEE International Conference on Computer and Pattern Recognition</hi> 506–513.
+                    </rs></bibl>
+                    <bibl>Ke, Yan / Sukthankar, Rahul / Huston, Larry (2004): „An Efficient Parts-based Near-duplicate and Sub-image Retrieval System“, in: 
+                        <rs type="bibl" ref="#bibl__2407"><hi rend="italic">Proceedings of the </hi>
                         <hi rend="italic">12</hi>
                         <hi rend="italic">th ACM International Conference on Multimedia</hi> 869–876.
-                    </bibl>
-                    <bibl ref="#bibl__2408">Lowe, David G. (1999): „Object Recognition from Local Scale-invariant Features“, in: 
-                        <hi rend="italic">Proceedings of the </hi>
+                    </rs></bibl>
+                    <bibl>Lowe, David G. (1999): „Object Recognition from Local Scale-invariant Features“, in: 
+                        <rs type="bibl" ref="#bibl__2408"><hi rend="italic">Proceedings of the </hi>
                         <hi rend="italic">7</hi>
                         <hi rend="italic">th IEEE International Conference on Computer Vision</hi> 1150–1157.
-                    </bibl>
-                    <bibl ref="#bibl__2409">Lowe, David G. (2004): „Distinctive Image Features from Scale-invariant Keypoints“, in: 
-                        <hi rend="italic">International Journal of Computer Vision</hi> 60 (2): 91–110.
-                    </bibl>
-                    <bibl ref="#bibl__2410">Malkov, Yury A. / Yashunin, Dmitry A. (2016): 
-                        <hi rend="italic">Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs</hi>.
-                    </bibl>
-                    <bibl ref="#bibl__2411">Monroy, Antonio / Bell, Peter / Ommer, Björn (2014): „Morphological Analysis for Investigating Artistic Images“, in: 
-                        <hi rend="italic">Image and Vision Computing</hi> 32 (6): 414–423.
-                    </bibl>
-                    <bibl ref="#bibl__2412">Qamra, Arun / Meng, Yan / Chang, Edward Y. (2005): „Enhanced Perceptual Distance Functions and Indexing for Image Replica Recognition“, in: 
-                        <hi rend="italic">IEEE Transactions on Pattern Analysis and Machine Intelligence</hi> 27 (3): 379–391.
-                    </bibl>
-                    <bibl ref="#bibl__2413">Zuiderveld, Karel (1994): „Contrast Limited Adaptive Histogram Equalization“, in: 
-                        <hi rend="italic">Academic Press</hi> 474–485.
-                    </bibl>
+                    </rs></bibl>
+                    <bibl>Lowe, David G. (2004): „Distinctive Image Features from Scale-invariant Keypoints“, in: 
+                        <rs type="bibl" ref="#bibl__2409"><hi rend="italic">International Journal of Computer Vision</hi> 60 (2): 91–110.
+                    </rs></bibl>
+                    <bibl>Malkov, Yury A. / Yashunin, Dmitry A. (2016): 
+                        <rs type="bibl" ref="#bibl__2410"><hi rend="italic">Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs</hi>.
+                    </rs></bibl>
+                    <bibl>Monroy, Antonio / Bell, Peter / Ommer, Björn (2014): „Morphological Analysis for Investigating Artistic Images“, in: 
+                        <rs type="bibl" ref="#bibl__2411"><hi rend="italic">Image and Vision Computing</hi> 32 (6): 414–423.
+                    </rs></bibl>
+                    <bibl>Qamra, Arun / Meng, Yan / Chang, Edward Y. (2005): „Enhanced Perceptual Distance Functions and Indexing for Image Replica Recognition“, in: 
+                        <rs type="bibl" ref="#bibl__2412"><hi rend="italic">IEEE Transactions on Pattern Analysis and Machine Intelligence</hi> 27 (3): 379–391.
+                    </rs></bibl>
+                    <bibl>Zuiderveld, Karel (1994): „Contrast Limited Adaptive Histogram Equalization“, in: 
+                        <rs type="bibl" ref="#bibl__2413"><hi rend="italic">Academic Press</hi> 474–485.
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

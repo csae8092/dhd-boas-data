@@ -176,29 +176,29 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__912">Berliner Appell zum Erhalt des digitalen Kulturerbes, September 2013. http://www.berliner-appell.org [letzter Zugriff am 25. September 2017].</bibl>
-                    <bibl ref="#bibl__913"> 
-                        <hi rend="bold">Busch, Hannah / Chandna, Swati </hi>(2017): “eCodicology: The Computer and the Mediaeval Library” in: Busch, Hannah / Fischer, Franz / Sahle, Patrick (Hrsg.): 
+                    <bibl>Berliner Appell zum Erhalt des digitalen Kulturerbes, September 2013. http://www.berliner-appell.org [letzter Zugriff am 25. September 2017].<rs type="bibl" ref="#bibl__912"/></bibl>
+                    <bibl> 
+                        <rs type="bibl" ref="#bibl__913"><hi rend="bold">Busch, Hannah / Chandna, Swati </hi>(2017): “eCodicology: The Computer and the Mediaeval Library” in: Busch, Hannah / Fischer, Franz / Sahle, Patrick (Hrsg.): 
                         <hi rend="italic">Kodikologie und Paläographie im digitalen Zeitalter 4. </hi>Norderstedt: BoD. urn:nbn:de:hbz:38-77742
-                    </bibl>
-                    <bibl ref="#bibl__914"><hi rend="bold">Chandna, Swati / Tonne, Danah / Jejkal, Thomas / Stotzka, Rainer / Krause, Celia / Vanscheidt, Philipp / Busch, Hannah / Prabhune, Ajinkya </hi>(2015): “Software Workflow for the Automatic Tagging of Mediaeval Manuscript Images (SWATI)” in: Ringger, Eric K. / Bart Lamiroy (eds.): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__914"><hi rend="bold">Chandna, Swati / Tonne, Danah / Jejkal, Thomas / Stotzka, Rainer / Krause, Celia / Vanscheidt, Philipp / Busch, Hannah / Prabhune, Ajinkya </hi>(2015): “Software Workflow for the Automatic Tagging of Mediaeval Manuscript Images (SWATI)” in: Ringger, Eric K. / Bart Lamiroy (eds.): 
                         <hi rend="italic">SPIE Proceedings 9402.</hi>
                         <hi rend="italic">Document Recognition and Retrieval XXII</hi>. San Francisco, February 11-12 2015.
-                    </bibl>
-                    <bibl ref="#bibl__915"><hi rend="bold">Knoche, Michael</hi> (2017): „Rettung von Bücherschätzen. In guter Ordnung, aber schlechter Verfassung“ in: F.A.Z. vom 18.07.2017. http://www.faz.net/-gqz-8zv5x [letzter Zugriff 25. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__916"><hi rend="bold">Pierazzo, Elena</hi> (2015): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__915"><hi rend="bold">Knoche, Michael</hi> (2017): „Rettung von Bücherschätzen. In guter Ordnung, aber schlechter Verfassung“ in: F.A.Z. vom 18.07.2017. http://www.faz.net/-gqz-8zv5x [letzter Zugriff 25. September 2017].
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__916"><hi rend="bold">Pierazzo, Elena</hi> (2015): 
                         <hi rend="italic">Digital Scholarly Editing. Theories, Models and Methods.</hi> London: Routledge.
-                    </bibl>
-                    <bibl ref="#bibl__917"><hi rend="bold">Schreiber, Carolin / </hi>
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__917"><hi rend="bold">Schreiber, Carolin / </hi>
                         <hi rend="bold">Fabian, Claudia</hi>
                         <hi rend="bold"> (Red.)</hi> (2015): 
                         <hi rend="italic">Digitalisierung mittelalterlicher Handschriften in deutschen Bibliotheken.</hi> Masterplan. München. http://www.handschriftenzentren.de/wp-content/uploads/2016/06/Priorisierungsfragen-Masterplan_pub.pdf
-                    </bibl>
-                    <bibl ref="#bibl__918"><hi rend="bold">Weber, Jürgen / Hähner, Ulrike (Hrsg.) </hi>(2014): 
+                    </rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__918"><hi rend="bold">Weber, Jürgen / Hähner, Ulrike (Hrsg.) </hi>(2014): 
                         <hi rend="italic">Restaurieren nach dem Brand. Die Rettung der Bücher der Herzogin Anna Amalia Bibliothek</hi>. Petersberg: Michael Imhof Verlag.
-                    </bibl>
-                    <bibl ref="#bibl__919">Weimarer Appell zur Erhaltung schriftlichen Kulturguts, September 2014.</bibl>
+                    </rs></bibl>
+                    <bibl>Weimarer Appell zur Erhaltung schriftlichen Kulturguts, September 2014.<rs type="bibl" ref="#bibl__919"/></bibl>
                 </listBibl>
             </div>
       </back>

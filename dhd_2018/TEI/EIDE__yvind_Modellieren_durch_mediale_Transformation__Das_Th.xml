@@ -176,108 +176,108 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1488">
-                        <hi rend="bold">A-Frame</hi> (2018). “A-Frame - Make WebVR.” Mozilla Corporation. Letzter Zugriff Januar 12, 2018. 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1488"><hi rend="bold">A-Frame</hi> (2018). “A-Frame - Make WebVR.” Mozilla Corporation. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://aframe.io/">
                             <hi rend="underline">https://aframe.io/</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1489">
-                        <hi rend="bold">Brecht, Bertolt</hi> (1989): “Der gute Mensch von Sezuan”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1489"><hi rend="bold">Brecht, Bertolt</hi> (1989): “Der gute Mensch von Sezuan”, in: 
                         <hi rend="italic">Werke.</hi> Große kommentierte Berliner und Frankfurter Ausgabe, herausgegeben von Werner Hecht, Jan Knopf, Werner Mittenzwei und Klaus-Detlef Müller, Band 6: Stücke 6, bearbeitet von Klaus-Detlef Müller. Frankfurt am Main: Suhrkamp Verlag: 175-279, 280 f.
-                    </bibl>
-                    <bibl ref="#bibl__1490">
-                        <hi rend="bold">Brutzman, Don</hi> (2018). “Applications, Players and Plugins for X3D / VRML Viewing”. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1490"><hi rend="bold">Brutzman, Don</hi> (2018). “Applications, Players and Plugins for X3D / VRML Viewing”. Letzter Zugriff Januar 12, 2018. 
                         <ref target="http://www.web3d.org/x3d/content/examples/X3dResources.html">
                             <hi rend="underline">http://www.web3d.org/x3d/content/examples/X3dResources.html</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1491">
-                        <hi rend="bold">Ciula, Arianna / Eide, Øyvind</hi> (2017): “Modelling in Digital Humanities: Signs in Context”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1491"><hi rend="bold">Ciula, Arianna / Eide, Øyvind</hi> (2017): “Modelling in Digital Humanities: Signs in Context”, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> 32: i33–i46. 10.1093/llc/fqw045
-                    </bibl>
-                    <bibl ref="#bibl__1492">
-                        <hi rend="bold">Elleström, Lars</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1492"><hi rend="bold">Elleström, Lars</hi> (2014): 
                         <hi rend="italic">Media Transformation. The Transfer of Media Characteristics among Media. </hi>Houndmills, Basingstoke, Hampshire: Palgrave Macmillan.
-                    </bibl>
-                    <bibl ref="#bibl__1493">
-                        <hi rend="bold">Gibson, William</hi> (1995): “Burning chrome”, in
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1493"><hi rend="bold">Gibson, William</hi> (1995): “Burning chrome”, in
                         <hi rend="italic"> “Burning chrome and other stories</hi>”. London: Voyager. First published: 
                         <hi rend="italic">Omni</hi>, 1982.
-                    </bibl>
-                    <bibl ref="#bibl__1494">
-                        <hi rend="bold">Google</hi> (2018). “Google Cardboard.” Google VR. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1494"><hi rend="bold">Google</hi> (2018). “Google Cardboard.” Google VR. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://vr.google.com/cardboard/">
                             <hi rend="underline">https://vr.google.com/cardboard/</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1495">
-                        <hi rend="bold">HTC Corporation</hi> (2018). “Vive”. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1495"><hi rend="bold">HTC Corporation</hi> (2018). “Vive”. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://www.vive.com/de/">
                             <hi rend="underline">https://www.vive.com/de/</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1496">
-                        <hi rend="bold">Kralemann, Björn / Lattmann, Claas</hi> (2013): “Models as icons: modeling models in the semiotic framework of Peirce’s theory of signs.” 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1496"><hi rend="bold">Kralemann, Björn / Lattmann, Claas</hi> (2013): “Models as icons: modeling models in the semiotic framework of Peirce’s theory of signs.” 
                         <hi rend="italic">Synthese,</hi> 190: 3397–3420.
-                    </bibl>
-                    <bibl ref="#bibl__1497">
-                        <hi rend="bold">Lang, Joachim</hi> (2006): “Episches Theater als Film”. Würzburg: Verlag Königshausen &amp; Neumann GmbH, 2006.
-                    </bibl>
-                    <bibl ref="#bibl__1498">
-                        <hi rend="bold">Lem, Stanislaw</hi> (1981): “
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1497"><hi rend="bold">Lang, Joachim</hi> (2006): “Episches Theater als Film”. Würzburg: Verlag Königshausen &amp; Neumann GmbH, 2006.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1498"><hi rend="bold">Lem, Stanislaw</hi> (1981): “
                         <hi rend="italic">Summa technologieae</hi>”. Berlin: Suhrkamp Verlag.
-                    </bibl>
-                    <bibl ref="#bibl__1499">
-                        <hi rend="bold">McFerran, Damien</hi>. 2017. “The Nintendo Virtual Boy Could Be Getting New Software.” nintendolife.com. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1499"><hi rend="bold">McFerran, Damien</hi>. 2017. “The Nintendo Virtual Boy Could Be Getting New Software.” nintendolife.com. Letzter Zugriff Januar 12, 2018. 
                         <ref target="http://www.nintendolife.com/news/2017/10/the_nintendo_virtual_boy_could_be_getting_new_software">
                             <hi rend="underline">http://www.nintendolife.com/news/2017/10/the_nintendo_virtual_boy_could_be_getting_new_software</hi>.
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__1500">
-                        <hi rend="bold">Oculus VR, LLC</hi> (2018). “oculus rift”. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1500"><hi rend="bold">Oculus VR, LLC</hi> (2018). “oculus rift”. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://www.oculus.com/rift/">
                             <hi rend="underline">https://www.oculus.com/rift/</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1501">
-                        <hi rend="bold">React VR</hi> (2018). “React VR: Build VR websites and interactive 360 experiences with React.” Facebook. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1501"><hi rend="bold">React VR</hi> (2018). “React VR: Build VR websites and interactive 360 experiences with React.” Facebook. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://aframe.io/">
                             <hi rend="underline">https://aframe.io/</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1502">
-                        <hi rend="bold">Ryan, Marie-Laure</hi> (2015): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1502"><hi rend="bold">Ryan, Marie-Laure</hi> (2015): 
                         <hi rend="italic">Narrative as Virtual Reality 2</hi>. Baltimore: John Hopkins University Press.
-                    </bibl>
-                    <bibl ref="#bibl__1503">
-                        <hi rend="bold">Stephenson, Neal</hi> (1992): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1503"><hi rend="bold">Stephenson, Neal</hi> (1992): 
                         <hi rend="italic">Snow Crash.</hi> New York: Bantam Books.
-                    </bibl>
-                    <bibl ref="#bibl__1504">
-                        <hi rend="bold">Techopedia Inc</hi> (2018). “Virtual Reality Modeling Language (VRML)”. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1504"><hi rend="bold">Techopedia Inc</hi> (2018). “Virtual Reality Modeling Language (VRML)”. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://www.techopedia.com/definition/4808/virtual-reality-modeling-language-vrml">
                             <hi rend="underline">https://www.techopedia.com/definition/4808/virtual-reality-modeling-language-vrml</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__145">
-                        <hi rend="bold">Unity Technologies</hi> (2018). “Unity - Game Engine.” Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__145"><hi rend="bold">Unity Technologies</hi> (2018). “Unity - Game Engine.” Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://unity3d.com/de/">
                             <hi rend="underline">https://unity3d.com/de/</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1505">
-                        <hi rend="bold">WebGL Public Wiki contributors</hi> (2018). "Getting Started," WebGL Public Wiki. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1505"><hi rend="bold">WebGL Public Wiki contributors</hi> (2018). "Getting Started," WebGL Public Wiki. Letzter Zugriff Januar 12, 2018. 
                         <ref target="http://www.khronos.org/webgl/wiki_1_15/index.php?title=Getting_Started&amp;oldid=371">
                             <hi rend="underline">http://www.khronos.org/webgl/wiki_1_15/index.php?title=Getting_Started&amp;oldid=371</hi>
                         </ref>.
-                    </bibl>
-                    <bibl ref="#bibl__1506">
-                        <hi rend="bold">WebVR</hi> (2018). “Bringing Virtual Reality to the Web”. Letzter Zugriff Januar 12, 2018. 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1506"><hi rend="bold">WebVR</hi> (2018). “Bringing Virtual Reality to the Web”. Letzter Zugriff Januar 12, 2018. 
                         <ref target="https://webvr.info/">
                             <hi rend="underline">https://webvr.info/</hi>
                         </ref>.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

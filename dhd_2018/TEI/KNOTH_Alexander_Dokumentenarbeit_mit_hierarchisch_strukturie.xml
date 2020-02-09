@@ -220,124 +220,124 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1023">
-                        <hi rend="bold">Boli-Bennett, John</hi> (1979): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1023"><hi rend="bold">Boli-Bennett, John</hi> (1979): 
                         <hi rend="italic">The Ideology of Expanding State Authority in National Constitutions, 1870-1970, in: Meyer, John W. / Michael Thomas Hannan (eds.): National development and the world system: educational, economic and political change. Chicago: University of Chicago Press 222-237. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__1024">
-                        <hi rend="bold">Boli-Bennett, John / John W. Meyer</hi> (1978): The ideology of childhood and the state: Rules distinguishing children in national constitutions, 1870-1970, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1024"><hi rend="bold">Boli-Bennett, John / John W. Meyer</hi> (1978): The ideology of childhood and the state: Rules distinguishing children in national constitutions, 1870-1970, in: 
                         <hi rend="italic">American Sociological Review 43: </hi>797–812
                         <hi rend="italic">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1025">
-                        <hi rend="bold">Bubenhofer, Noah / Joachim Scharloth</hi> (2015): Themenheft „Maschinelle Textanalyse“,
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1025"><hi rend="bold">Bubenhofer, Noah / Joachim Scharloth</hi> (2015): Themenheft „Maschinelle Textanalyse“,
                         <hi rend="italic"> in: Zeitschrift für germanistische Linguistik, 43.1.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1026">
-                        <hi rend="bold">Eckart de Castilho, Richard / Gurevych, Iryna</hi> (2014): A broad-coverage collection of portable NLP components for building shareable analysis pipelines. In: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1026"><hi rend="bold">Eckart de Castilho, Richard / Gurevych, Iryna</hi> (2014): A broad-coverage collection of portable NLP components for building shareable analysis pipelines. In: 
                         <hi rend="italic">Proceedings of the Workshop on Open Infrastructures and Analysis Frameworks for HLT (OIAF4HLT) at COLING 2014</hi>, 1-11, Dublin, Ireland.
-                    </bibl>
-                    <bibl ref="#bibl__1027">
-                        <hi rend="bold">Go, Julian</hi> (2003): A Globalizing Constitutionalism? Views from the Postcolony, 1945-2000, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1027"><hi rend="bold">Go, Julian</hi> (2003): A Globalizing Constitutionalism? Views from the Postcolony, 1945-2000, in: 
                         <hi rend="italic">International Sociology</hi> 18.1: 71-95.
-                    </bibl>
-                    <bibl ref="#bibl__1028">
-                        <hi rend="bold">Gosewinkel, Dieter / Johannes Masing / Andreas Würschinger</hi> (2006): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1028"><hi rend="bold">Gosewinkel, Dieter / Johannes Masing / Andreas Würschinger</hi> (2006): 
                         <hi rend="italic">Die Verfassungen in Europa 1789-1949. </hi>München: Beck
                         <hi rend="italic">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1029">
-                        <hi rend="bold">Hausser, Roland</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1029"><hi rend="bold">Hausser, Roland</hi> (2014): 
                         <hi rend="italic">Foundations of Computational Linguistics: </hi>Human-Computer Communication in Natural Language
                         <hi rend="italic">. </hi>Berlin: Springer.
-                    </bibl>
-                    <bibl ref="#bibl__1030">
-                        <hi rend="bold">Heintz, Bettina / Annette Schnabel</hi> (2006): Verfassungen als Spiegel globaler Normen? Eine quantitative Analyse der Gleichberechtigungsartikel in nationalen Verfassungen, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1030"><hi rend="bold">Heintz, Bettina / Annette Schnabel</hi> (2006): Verfassungen als Spiegel globaler Normen? Eine quantitative Analyse der Gleichberechtigungsartikel in nationalen Verfassungen, in: 
                         <hi rend="italic">Koelner Zeitschrift für Soziologie und Sozialpsychologie, </hi>58.4, 685-716.
-                    </bibl>
-                    <bibl ref="#bibl__1031">
-                        <hi rend="bold">Jepperson, Ronald L</hi> (1991): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1031"><hi rend="bold">Jepperson, Ronald L</hi> (1991): 
                         <hi rend="italic">Institutions, Institutional Effects, and Institutionalism, in: DiMaggio, Paul / Walter W. Powell (eds.): The New Institutionalism in Organizational Analysis. Chicago: University of Chicago Press 143-163.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__11">
-                        <hi rend="bold">Kuckartz, Udo</hi> (2012): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__11"><hi rend="bold">Kuckartz, Udo</hi> (2012): 
                         <hi rend="italic">Qualitative Inhaltsanalyse. </hi>Methoden, Praxis, Computerunterstützung. Weinheim / Basel: Beltz.
-                    </bibl>
-                    <bibl ref="#bibl__1032">
-                        <hi rend="bold">Lobin, Henning</hi> (2010): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1032"><hi rend="bold">Lobin, Henning</hi> (2010): 
                         <hi rend="italic">Computerlinguistik und Texttechnologie. </hi>Paderborn / München: Fink.
-                    </bibl>
-                    <bibl ref="#bibl__1033">
-                        <hi rend="bold">Lupton, Deborah</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1033"><hi rend="bold">Lupton, Deborah</hi> (2014): 
                         <hi rend="italic">Digital sociology. </hi>New York: Routledge.
-                    </bibl>
-                    <bibl ref="#bibl__1034">
-                        <hi rend="bold">Manning, Christopher D. / Prabhakar Raghavan / Hinrich Schütze</hi> (2008): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1034"><hi rend="bold">Manning, Christopher D. / Prabhakar Raghavan / Hinrich Schütze</hi> (2008): 
                         <hi rend="italic">Introduction to information retrieval. </hi>New York: Cambridge University Press.
-                    </bibl>
-                    <bibl ref="#bibl__1035">
-                        <hi rend="bold">Mayntz, Renate</hi> (1997): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1035"><hi rend="bold">Mayntz, Renate</hi> (1997): 
                         <hi rend="italic">Soziale Dynamik und politische Steuerung: </hi>theoretische und methodologische Überlegungen. Frankfurt/Main: Campus.
-                    </bibl>
-                    <bibl ref="#bibl__12">
-                        <hi rend="bold">Mayring, Philipp</hi> (2015): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__12"><hi rend="bold">Mayring, Philipp</hi> (2015): 
                         <hi rend="italic">Qualitative Inhaltsanalyse. </hi>Grundlagen, Techniken. Weinheim / Basel: Beltz.
-                    </bibl>
-                    <bibl ref="#bibl__1036">
-                        <hi rend="bold">Meyer, John W.</hi> (2005): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1036"><hi rend="bold">Meyer, John W.</hi> (2005): 
                         <hi rend="italic">Die Weltgesellschaft und der Nationalstaat, in: ders., Weltkultur: wie die westlichen Prinzipien die Welt durchdringen. Frankfurt/Main: Suhrkamp 85-132.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1037">
-                        <hi rend="bold">Mikolov, Thomas / Wen-tau Yih / Geoffrey Zweig </hi>(2013): Linguistic Regularities in Continuous Space Word Representations, in:
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1037"><hi rend="bold">Mikolov, Thomas / Wen-tau Yih / Geoffrey Zweig </hi>(2013): Linguistic Regularities in Continuous Space Word Representations, in:
                         <hi rend="italic"> Proceedings of the HLT-NAACL conference </hi>746-752. 
-                    </bibl>
-                    <bibl ref="#bibl__1038">
-                        <hi rend="bold">Prior, Lindsay</hi> (2011): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1038"><hi rend="bold">Prior, Lindsay</hi> (2011): 
                         <hi rend="italic">Using documents in social research. </hi>Los Angeles: Sage.
-                    </bibl>
-                    <bibl ref="#bibl__1039">
-                        <hi rend="bold">Salton, Gerard / Andrew Wong / Shungshu Yang</hi> (1975): A vector-space model for information retrieval, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1039"><hi rend="bold">Salton, Gerard / Andrew Wong / Shungshu Yang</hi> (1975): A vector-space model for information retrieval, in: 
                         <hi rend="italic">Journal of the American Society for Information Science</hi> 18: 613-620.
-                    </bibl>
-                    <bibl ref="#bibl__1040">
-                        <hi rend="bold">Schimank, Uwe</hi> (1999): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1040"><hi rend="bold">Schimank, Uwe</hi> (1999): 
                         <hi rend="italic">Funktionale Differenzierung und Systemintegration der modernen Gesellschaft: </hi>Soziale Integration. Opladen: Westdeutscher Verlag.
-                    </bibl>
-                    <bibl ref="#bibl__102">
-                        <hi rend="bold">Strauss, Anselm L. / Juliet M. Corbin</hi> (1996): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__102"><hi rend="bold">Strauss, Anselm L. / Juliet M. Corbin</hi> (1996): 
                         <hi rend="italic">Grounded theory: </hi>Grundlagen qualitativer Sozialforschung. Weinheim: Beltz.
-                    </bibl>
-                    <bibl ref="#bibl__1041">
-                        <hi rend="bold">Thelen, Kathleen</hi> (1999): Historical Institutionalism in Comparative Politics, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1041"><hi rend="bold">Thelen, Kathleen</hi> (1999): Historical Institutionalism in Comparative Politics, in: 
                         <hi rend="italic">Annual Review of Political Science</hi> 2.1: 369-404.
-                    </bibl>
-                    <bibl ref="#bibl__1042">
-                        <hi rend="bold">Thelen, Kathleen</hi> (2002): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1042"><hi rend="bold">Thelen, Kathleen</hi> (2002): 
                         <hi rend="italic">The explanatory power of historical institutionalism, in: Mayntz, Renate (eds.): Akteure-Mechanismen–Modelle. Zur Theoriefähigkeit makro-sozialer Analysen. Frankfurt / New York: Campus) 91-107.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1043">
-                        <hi rend="bold">Vorländer, Hans</hi> (2007): Europas multiple Konstitutionalismen, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1043"><hi rend="bold">Vorländer, Hans</hi> (2007): Europas multiple Konstitutionalismen, in: 
                         <hi rend="italic">Zeitschrift für Staats- und Europawissenschaften</hi> 5.2: 160-180.
-                    </bibl>
-                    <bibl ref="#bibl__1044">
-                        <hi rend="bold">Weber, Max</hi> (1972): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1044"><hi rend="bold">Weber, Max</hi> (1972): 
                         <hi rend="italic">Wirtschaft und Gesellschaft: </hi>Grundriss der verstehenden Soziologie. Tübingen: Mohr.
-                    </bibl>
-                    <bibl ref="#bibl__1045">
-                        <hi rend="bold">„XML Schema”. World Wide Web Consortium (W3C)</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1045"><hi rend="bold">„XML Schema”. World Wide Web Consortium (W3C)</hi>
                         <ref target="http://www.w3c.org/XML/Schema">http://www.w3c.org/XML/Schema</ref>, 
                         [letzter Zugriff] 10.09.2017).
-                    </bibl>
-                    <bibl ref="#bibl__1046">
-                        <hi rend="bold">„XQuery 1.0: An XML Query Language“. World Wide Web Consortium (W3C) </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1046"><hi rend="bold">„XQuery 1.0: An XML Query Language“. World Wide Web Consortium (W3C) </hi>
                         <ref target="http://www.w3.org/TR/xquery">http://www.w3.org/TR/xquery
                         </ref> [letzter Zugriff 10.09.17]. 
-                    </bibl>
-                    <bibl ref="#bibl__1047">
-                        <hi rend="bold">„XSL Transformation Version 1.0“. World Wide Web Consortium (W3C)</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1047"><hi rend="bold">„XSL Transformation Version 1.0“. World Wide Web Consortium (W3C)</hi>
                         <ref target="http://www.w3c.org/TR/xslt">http://www.w3c.org/TR/xslt
                         </ref> [letzter Zugriff 10.09.17].
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

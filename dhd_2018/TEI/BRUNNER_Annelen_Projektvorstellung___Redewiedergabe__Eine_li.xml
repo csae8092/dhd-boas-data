@@ -140,52 +140,52 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__825">
-                        <hi rend="bold">Ágel, Vilmos</hi> (2000): "Syntax des Neuhochdeutschen bis zur Mitte des 20. Jahrhunderts", in: Besch, Werner / Betten, Anne / Reichmann, Oskar (eds.): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__825"><hi rend="bold">Ágel, Vilmos</hi> (2000): "Syntax des Neuhochdeutschen bis zur Mitte des 20. Jahrhunderts", in: Besch, Werner / Betten, Anne / Reichmann, Oskar (eds.): 
                         <hi rend="italic">Sprachgeschichte.</hi> Ein Handbuch zur Geschichte der deutschen Sprache und ihrer Erforschung. Berlin / Boston: de Gruyter 1855-1903.
-                    </bibl>
-                    <bibl ref="#bibl__81">
-                        <hi rend="bold">Brunner, Annelen</hi> (2015): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__81"><hi rend="bold">Brunner, Annelen</hi> (2015): 
                         <hi rend="italic">Automatische Erkennung von Redewiedergabe.</hi> Ein Beitrag zur quantitativen Narratologie (= Narratologia 47). Berlin / Boston: de Gruyter. 
-                    </bibl>
-                    <bibl ref="#bibl__82">
-                        <hi rend="bold">Elson, David K. / Dames, Nicholas J. / McKeown, Kathleen</hi> (2010): "Extracting Social Networks from Literary Fiction", in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__82"><hi rend="bold">Elson, David K. / Dames, Nicholas J. / McKeown, Kathleen</hi> (2010): "Extracting Social Networks from Literary Fiction", in: 
                        <hi rend="italic">Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics</hi> 138-147.
-                    </bibl>
-                    <bibl ref="#bibl__826">
-                        <hi rend="bold">Fritz, Gerd</hi> (2005): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__826"><hi rend="bold">Fritz, Gerd</hi> (2005): 
                         <hi rend="italic">Einführung in die historische Semantik.</hi> Tübingen: M. Niemeyer.
-                    </bibl>
-                    <bibl ref="#bibl__827">
-                        <hi rend="bold">Genette, Gérard</hi> (1998): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__827"><hi rend="bold">Genette, Gérard</hi> (1998): 
                         <hi rend="italic">Die Erzählung.</hi> München: Wilhelm Fink.
-                    </bibl>
-                    <bibl ref="#bibl__828">
-                        <hi rend="bold">Iosif, Elias / Mishra, Taniya</hi> (2014): "From Speaker Identification to Affective Analysis: A Multi-Step System from Analyzing Children's Stories", in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__828"><hi rend="bold">Iosif, Elias / Mishra, Taniya</hi> (2014): "From Speaker Identification to Affective Analysis: A Multi-Step System from Analyzing Children's Stories", in: 
                        <hi rend="italic">Proceedings of the Third Workshop on Computational Linguistics for Literature</hi> 40-49.
-                    </bibl>
-                    <bibl ref="#bibl__829">
-                        <hi rend="bold">Krestel, Ralf / Bergler, Sabine / Witte, René</hi> (2008): "Minding the Source: Automatic Tagging of Reported Speech in Newspaper Articles", in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__829"><hi rend="bold">Krestel, Ralf / Bergler, Sabine / Witte, René</hi> (2008): "Minding the Source: Automatic Tagging of Reported Speech in Newspaper Articles", in: 
                        <hi rend="italic">Proceedings of the Sixth International Language Resources and Evaluation Conference</hi>
                        <hi rend="italic">(LREC 2008) </hi>2823-2828.
-                    </bibl>
-                    <bibl ref="#bibl__83">
-                        <hi rend="bold">Martínez, Matías / Scheffel, Michael</hi> (2007): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__83"><hi rend="bold">Martínez, Matías / Scheffel, Michael</hi> (2007): 
                         <hi rend="italic">Einführung in die Erzähltheorie.</hi> München: C. H. Beck.
-                    </bibl>
-                    <bibl ref="#bibl__830">
-                       <hi rend="bold">McHale, Brian</hi> (2014): "Speech Representation" in: Hühn, Peter / Pier, John / Schmid, Wolf / Schönert, Jörg (eds.): 
+                    </rs></bibl>
+                    <bibl>
+                       <rs type="bibl" ref="#bibl__830"><hi rend="bold">McHale, Brian</hi> (2014): "Speech Representation" in: Hühn, Peter / Pier, John / Schmid, Wolf / Schönert, Jörg (eds.): 
                        <hi rend="italic">The living handbook of narratology.</hi> Hamburg: Hamburg University Press 434-446 
                        <ptr target="http://www.lhn.uni-hamburg.de/article/speech-representation"/> [letzter Zugriff 18. September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__831">
-                        <hi rend="bold">Schöch, Christof / Schlör, Daniel / Popp, Stefanie / Brunner, Annelen / Henny, Ulrike / Calvo Tello, José </hi>(2016): "Straight talk! Automatic Recognition of Direct Speech in Nineteenth-century French Novels", in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__831"><hi rend="bold">Schöch, Christof / Schlör, Daniel / Popp, Stefanie / Brunner, Annelen / Henny, Ulrike / Calvo Tello, José </hi>(2016): "Straight talk! Automatic Recognition of Direct Speech in Nineteenth-century French Novels", in: 
                        <hi rend="italic">Conference Abstracts. Jagiellonian University &amp; Pedagogical University</hi> 346-353.
-                    </bibl>
-                    <bibl ref="#bibl__832">
-                        <hi rend="bold">Semino, Elena / Short, Mick</hi> (2004): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__832"><hi rend="bold">Semino, Elena / Short, Mick</hi> (2004): 
                         <hi rend="italic">Corpus stylistics. </hi>Speech, writing and thought presentation in a corpus of English writing. London / New York: Routledge.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

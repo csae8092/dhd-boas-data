@@ -149,7 +149,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__147">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</bibl>
+                    <bibl>Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.<rs type="bibl" ref="#bibl__147"/></bibl>
                 </listBibl>
             </div>
         </back>

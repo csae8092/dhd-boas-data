@@ -103,26 +103,26 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__173">
-                        <hi rend="bold">Gfrereis, Heike / Strittmatter, Ellen</hi> (2013): Zettelkästen. Maschinen der Phantasie. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.
-                    </bibl>
-                    <bibl ref="#bibl__2414">
-                        <hi rend="bold">Gödel, Martina / Schmidt, Johannes / Zimmer, Sebastian</hi> (2018): Digitale Differenz. Luhmanns Zettelkasten als physisch-historisches Objekt und als vernetzter Navigationsraum (Vortragsabstract), in: Georg Vogeler (ed.): DHd 2018: Kritik der digitalen Vernunft. Köln, 178-181 (
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__173"><hi rend="bold">Gfrereis, Heike / Strittmatter, Ellen</hi> (2013): Zettelkästen. Maschinen der Phantasie. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2414"><hi rend="bold">Gödel, Martina / Schmidt, Johannes / Zimmer, Sebastian</hi> (2018): Digitale Differenz. Luhmanns Zettelkasten als physisch-historisches Objekt und als vernetzter Navigationsraum (Vortragsabstract), in: Georg Vogeler (ed.): DHd 2018: Kritik der digitalen Vernunft. Köln, 178-181 (
                         <ref target="http://dhd2018.uni-koeln.de/">http://dhd2018.uni-koeln.de/</ref>)
-                    </bibl>
-                    <bibl ref="#bibl__2415">
-                        <hi rend="bold">Gödel, Martina / Zimmer, Sebastian</hi> (2017): Niklas Luhmanns Werk und Lesekosmos - DH in der bibliographischen Dimension (Vortragsabstract), in: Georg Vogeler (ed.): Konferenzabstracts. DHd 2017 Bern: Digitale Nachhaltigkeit. Bern, 180-184 (
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2415"><hi rend="bold">Gödel, Martina / Zimmer, Sebastian</hi> (2017): Niklas Luhmanns Werk und Lesekosmos - DH in der bibliographischen Dimension (Vortragsabstract), in: Georg Vogeler (ed.): Konferenzabstracts. DHd 2017 Bern: Digitale Nachhaltigkeit. Bern, 180-184 (
                         <ref target="http://dhd2018.uni-koeln.de/">http://www.dhd2017.ch/</ref>)
-                    </bibl>
-                    <bibl ref="#bibl__2416">
-                        <hi rend="bold">Krajewski, Markus</hi> (2011): Paper Machines. About cards &amp; catalogs, 1548-1929. Cambridge: MIT Press.
-                    </bibl>
-                    <bibl ref="#bibl__35">
-                        <hi rend="bold">Schmidt, Johannes F.K.</hi> (2018): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
-                    </bibl>
-                    <bibl ref="#bibl__2417">
-                        <hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
-                    </bibl>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2416"><hi rend="bold">Krajewski, Markus</hi> (2011): Paper Machines. About cards &amp; catalogs, 1548-1929. Cambridge: MIT Press.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__35"><hi rend="bold">Schmidt, Johannes F.K.</hi> (2018): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2417"><hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

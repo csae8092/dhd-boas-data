@@ -163,46 +163,46 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1878">
-                        <hi rend="bold">Barthes, Roland</hi> (1976): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1878"><hi rend="bold">Barthes, Roland</hi> (1976): 
                         <hi rend="italic">S/Z</hi>. Frankfurt am Main: Suhrkamp.
-                    </bibl>
-                    <bibl ref="#bibl__1879">Brossard, Dominique (2013): 
-                        <hi rend="background(white)">„</hi>New media landscape and the science information consumer”, in: 
+                    </rs></bibl>
+                    <bibl>Brossard, Dominique (2013): 
+                        <rs type="bibl" ref="#bibl__1879"><hi rend="background(white)">„</hi>New media landscape and the science information consumer”, in: 
                         <hi rend="italic">PNAS</hi> 110 (3), 14096–14101. 
                         <ref target="https://www.pnas.org/content/pnas/110/Supplement_3/14096.full.pdf">
                             <hi rend="underline color(1155CC)">https://www.pnas.org/content/pnas/110/Supplement_3/14096.full.pdf</hi>
                         </ref>, [Zugriff 21.12.2018]. 
-                    </bibl>
-                    <bibl ref="#bibl__1880">
-                        <hi rend="bold">Bucher, Hans-Jürgen</hi> (2007): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1880"><hi rend="bold">Bucher, Hans-Jürgen</hi> (2007): 
                         <hi rend="background(white)">„</hi>Textdesign und Multimodalität. Zur Semantik und Pragmatik medialer Gestaltungsformen”, in: Roth, Kersten Sven / Spitzmüller, Jürgen (eds.): 
                         <hi rend="italic">Textdesign und Textwirkung in der massenmedialen Kommunikation</hi>. Konstanz: UVK, 49–76. 
-                    </bibl>
-                    <bibl ref="#bibl__1881">
-                        <hi rend="bold">Eco, Umberto</hi> (1985): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1881"><hi rend="bold">Eco, Umberto</hi> (1985): 
                         <hi rend="italic">Einführung in die Semiotik</hi>. München: Fink.
-                    </bibl>
-                    <bibl ref="#bibl__1882">
-                        <hi rend="bold">Herb, Ulrich / Beucke, Daniel</hi> (2013): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1882"><hi rend="bold">Herb, Ulrich / Beucke, Daniel</hi> (2013): 
                         <hi rend="background(white)">„</hi>Die Zukunft der Impact-Messung. Social Media, Nutzung und Zitate im World Wide Web”, in: 
                         <hi rend="italic">Wissenschaftsmanagement. Zeitschrift für Innovation</hi> 19 (4), 22–25. 
                         <ref target="https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/23789/1/Die_Zukunft_der_Impact_Messung_fuer_Reps_fertig.pdf">
                             <hi rend="underline color(1155CC)">https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/23789/1/Die_Zukunft_der_Impact_Messung_fuer_Reps_fertig.pdf</hi>
                         </ref> [Zugriff: 21.12.2018].
-                    </bibl>
-                    <bibl ref="#bibl__1883">
-                        <hi rend="bold">Gao, Jin / Nyhan, Julianne / Duke-Williams, Oliver / Mahony, Simon</hi> (2018): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1883"><hi rend="bold">Gao, Jin / Nyhan, Julianne / Duke-Williams, Oliver / Mahony, Simon</hi> (2018): 
                         <hi rend="background(white)">„</hi>Visualising The Digital Humanities Community: A Comparison Study Between Citation Network And Social Network”, in: 
                         <hi rend="italic" xml:space="preserve">Digital Humanities 2018. Book of Abstracts. </hi>Puentes-Bridges.
-                    </bibl>
-                    <bibl ref="#bibl__1884">
-                        <hi rend="bold">Neuberger, Christian</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1884"><hi rend="bold">Neuberger, Christian</hi> (2014): 
                         <hi rend="background(white)">„</hi>Social Media in der Wissenschaftsöffentlichkeit. Forschungsstand und Empfehlungen”, in: Weingart, Peter / Schulz, Patricia (eds.): 
                         <hi rend="italic">Wissen – Nachricht – Sensation. Zur Kommunikation zwischen Wissenschaft, Medien und Öffentlichkeit</hi>. Weilerswist: Velbrück, 315–368.
-                    </bibl>
-                    <bibl ref="#bibl__1885">
-                        <hi rend="bold background(white)">Puschmann, Cornelius / Bastos, Marco</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1885"><hi rend="bold background(white)">Puschmann, Cornelius / Bastos, Marco</hi>
                         <hi rend="background(white)" xml:space="preserve"> (2015): „How Digital Are the Digital Humanities? An Analysis of Two Scholarly Blogging Platforms”, in: </hi>
                         <hi rend="italic background(white)">PLOS ONE</hi>
                         <hi rend="background(white)" xml:space="preserve"> 10 (2): e0115035. </hi>
@@ -210,49 +210,49 @@
                             <hi rend="underline background(white)">https://doi.org/10.1371/journal.pone.0115035</hi>
                         </ref>
                         <hi rend="background(white)" xml:space="preserve"> [Zugriff 2.10.2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1886">
-                        <hi rend="bold background(white)">Reid, Alexander</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1886"><hi rend="bold background(white)">Reid, Alexander</hi>
                         <hi rend="background(white)" xml:space="preserve"> (2011): „Social Media Assemblages in Digital Humanities: from Backchannel to Buzz”, in: Wankel, Charles (ed.): </hi>
                         <hi rend="italic background(white)">Teaching Arts and Science with the New Social Media</hi>
                         <hi rend="background(white)">. West Yorkshire: Emerald Publishing, 321–338.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1887">
-                        <hi rend="bold background(white)">Roesler, Alexander / Stiegler, Bernd</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1887"><hi rend="bold background(white)">Roesler, Alexander / Stiegler, Bernd</hi>
                         <hi rend="background(white)" xml:space="preserve"> (eds. 2005): </hi>
                         <hi rend="italic background(white)">Grundbegriffe der Medientheorie</hi>
                         <hi rend="background(white)">. Paderborn: UTB.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1888">
-                        <hi rend="bold">Ross, Claire</hi> (2012): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1888"><hi rend="bold">Ross, Claire</hi> (2012): 
                         <hi rend="background(white)">„</hi>Social media for digital humanities and community engagement”, in: Warwick, Claire / Terras, Melissa / Nyhann, Julianne (eds.): 
                         <hi rend="italic">Digital Humanities in Practice</hi>. London: Facet Publishing.
-                    </bibl>
-                    <bibl ref="#bibl__1889">
-                        <hi rend="bold">Schäfer, Mike S.</hi> (2017): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1889"><hi rend="bold">Schäfer, Mike S.</hi> (2017): 
                         <hi rend="background(white)">„</hi>Wissenschaftskommunikation online”, in: Bonfadelli, Heinz et al. (eds.): 
                         <hi rend="italic">Forschungsfeld Wissenschaftskommunikation</hi>. Wiesbaden: Springer. 
                         <ref target="https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf">
                             <hi rend="underline color(1155CC)">https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf</hi>
                         </ref> [Zugriff 21.12.2018].
-                    </bibl>
-                    <bibl ref="#bibl__1890">
-                        <hi rend="bold">Schelhowe, Heidi</hi> (2000): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1890"><hi rend="bold">Schelhowe, Heidi</hi> (2000): 
                         <hi rend="background(white)" xml:space="preserve">„Informatik”, in: Braun, Christina von / Stephan, Inge (eds.): </hi>
                         <hi rend="italic background(white)">Gender-Studien. Eine Einführung</hi>
                         <hi rend="background(white)">. Stuttgart, Weimar: Metzler, 207–216.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1891">
-                        <hi rend="bold">Scheu, Andreas M. / Volpers, Anna Maria</hi> (2017): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1891"><hi rend="bold">Scheu, Andreas M. / Volpers, Anna Maria</hi> (2017): 
                         <hi rend="background(white)">„</hi>Sozial- und Geisteswissenschaften im öffentlichen Diskurs”, in: Bonfadelli, Heinz et al
                         <hi rend="italic">.</hi> (eds.): 
                         <hi rend="italic">Forschungsfeld Wissenschaftskommunikation</hi>. Wiesbaden: Springer. 
                         <ref target="https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf">
                             <hi rend="underline color(1155CC)">https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf</hi>
                         </ref> [Zugriff 21.12.2018].
-                    </bibl>
-                    <bibl ref="#bibl__0">
-                        <hi rend="bold background(white)">Terras, Melissa</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__0"><hi rend="bold background(white)">Terras, Melissa</hi>
                         <hi rend="background(white)" xml:space="preserve"> (2012): „The Impact of Social Media on the Dissemination of Research: Results of an Experiment”. in:</hi>
                         <hi rend="italic background(white)" xml:space="preserve"> Journal of Digital Humanities</hi>
                         <hi rend="background(white)" xml:space="preserve"> 1 (3). </hi>
@@ -260,13 +260,13 @@
                             <hi rend="underline color(1155CC) background(white)">http://journalofdigitalhumanities.org/1-3/the-impact-of-social-media-on-the-dissemination-of-research-by-melissa-terras/</hi>
                         </ref>
                         <hi rend="background(white)" xml:space="preserve"> [Zugriff 2.10.2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__1892">
-                        <hi rend="bold color(333333)">Voigt, Kristin</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1892"><hi rend="bold color(333333)">Voigt, Kristin</hi>
                         <hi rend="color(333333)" xml:space="preserve"> (2012): </hi>
                         <hi rend="italic color(333333)" xml:space="preserve">Informelle Wissenschaftskommunikation und </hi>
                         <hi rend="color(333333)">Social Media. Berlin: Frank &amp; Timme.</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

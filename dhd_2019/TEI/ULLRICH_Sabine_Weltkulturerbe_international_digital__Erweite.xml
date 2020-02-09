@@ -123,27 +123,27 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__169">Fellbaum, Christiane (1998): WordNet: An Electronic Lexical Database. Cambridge, MA: MIT Press.</bibl>
-                    <bibl ref="#bibl__2658">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Seebauer, Patrick / Strutynska, Olga (2012): “New (re)search possibilities for Wittgenstein‘s Nachlass“. 35th International Wittgenstein Symposium 2012, Kirchberg am Wechsel, Contributions, pp. 102-105. Kirchberg am Wechsel: ALWS.</bibl>
-                    <bibl ref="#bibl__154">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind (2014): “Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein advanced search tools (WAST)”. Digital Access to Textual Cultural Heritage 2014 (DaTeCH 2014), pp. 91-96. Madrid.</bibl>
-                    <bibl ref="#bibl__2659">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Bruder, Daniel / Arends, Ina / Baiter, Johannes (2015): “Wittgensteins Nachlass: Erkenntnisse und Weiterentwicklung der FinderApp WiTTFind”. 2. Tagung Digital Humanities im deutschsprachigen Raum 23.-27.2 (Graz).</bibl>
-                    <bibl ref="#bibl__170">Hamp, Birgit / Helmut Feldweg (1997): "GermaNet - a Lexical-Semantic Net for German." Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications. Madrid.</bibl>
-                    <bibl ref="#bibl__171">Henrich, Verena / Erhard Hinrichs (2010): "GernEdiT - The GermaNet Editing Tool". Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010). Valletta, Malta, pp. 2228-2235.</bibl>
-                    <bibl ref="#bibl__2660">Krey, Angela (2014): “Semantische Annotation von Adjektiven im Big Typescript von Ludwig Wittgenstein”. Bachelorarbeit, CIS.</bibl>
-                    <bibl ref="#bibl__2661">Lindinger, Matthias (2015): “Entwicklung eines WEB-basierten Faksimileviewers mit Highlighting von Suchmaschinen-Treffern und Anzeige der zugehörigen Texte in</bibl>
-                    <bibl ref="#bibl__2662">unterschiedlichen Editionsformaten. Masterthesis, CIS.</bibl>
-                    <bibl ref="#bibl__2663">Luong, Minh-Thang / Hieu Pham / Christopher D Manning (2015):Effective approaches to attention-based neural machine translation. EMNLP.</bibl>
-                    <bibl ref="#bibl__2664">Luong, Minh-Thang / Eugene Brevdo / Rui Zhao (2017):Neural Machine Translation (seq2seq) Tutorial, https//github.com/tensorflow/nmt, zugegriffen am 9.10.2018.</bibl>
-                    <bibl ref="#bibl__163">Miller, George A. (1995):WordNet: A Lexical Database for English.
-                        <lb/>Communications of the ACM Vol. 38, No. 11: 39-41.
-                    </bibl>
-                    <bibl ref="#bibl__2665">Pichler, Alois (2010): „Towards the New Bergen Electronic Edition“. In: Wittgenstein After His Nachlass. Ed. Nuno Venturinha, pp. 157-172. Houndmills: Palgrave Macmillan.</bibl>
-                    <bibl ref="#bibl__2666">Pichler, Alois. / Bruvik, Tone Merete (2014): “Digital Critical Editing: Separating Encoding from Presentation”. In: Digital Critical Editions. Ed. Daniel Apollon, Claire Bélisle, Philippe Régnier, pp. 179-202. Urbana Champaign: University of Illinois Press.</bibl>
-                    <bibl ref="#bibl__2667">Röhrer, Ines (2017): “Musik und Ludwig Wittgenstein: Semantische Suche in seinem Nachlass”. Bachelorarbeit, CIS.</bibl>
-                    <bibl ref="#bibl__2668">Still, Sebastian (2018): Ludwig Wittgenstein: 100 Jahre Traktatus. Der Odyssee-Reader, ein web-basiertes Tool zur text-genetischen Suche im Traktatus, Masterthesis, Ludwig-Maximilians-Universität München.</bibl>
-                    <bibl ref="#bibl__2669">Sutskever, Ilya / Oriol Vinyals, / Quoc V. Le. (2014): Sequence to sequence learning with neural networks. NIPS.</bibl>
-                    <bibl ref="#bibl__2670">Trötzmüller, Eva (2017): “Unesco-Weltdokumentenerbe - Zwei Neuaufnahmen”. https://www.unesco.at/presse/artikel/article/unesco-weltdokumentenerbe-zwei-neuaufnahmen/, zugegriffen am 12.10.2018</bibl>
-                    <bibl ref="#bibl__2671">Ullrich, Sabine /Bruder, Daniel / Hadersbeck, Maximilian (2018): “Aufdecken von “versteckten” Einflüssen: Teil-Automatisierte Textgenetische Prozesse mit Methoden der Computerlinguistik und des Machine Learning”, 5. Tagung Digital Humanities im deutschsprachigen Raum 26.2.-2.3. (Köln)</bibl>
+                    <bibl>Fellbaum, Christiane (1998): WordNet: An Electronic Lexical Database. Cambridge, MA: MIT Press.<rs type="bibl" ref="#bibl__169"/></bibl>
+                    <bibl>Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Seebauer, Patrick / Strutynska, Olga (2012): “New (re)search possibilities for Wittgenstein‘s Nachlass“. 35th International Wittgenstein Symposium 2012, Kirchberg am Wechsel, Contributions, pp. 102-105. Kirchberg am Wechsel: ALWS.<rs type="bibl" ref="#bibl__2658"/></bibl>
+                    <bibl>Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind (2014): “Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein advanced search tools (WAST)”. Digital Access to Textual Cultural Heritage 2014 (DaTeCH 2014), pp. 91-96. Madrid.<rs type="bibl" ref="#bibl__154"/></bibl>
+                    <bibl>Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Bruder, Daniel / Arends, Ina / Baiter, Johannes (2015): “Wittgensteins Nachlass: Erkenntnisse und Weiterentwicklung der FinderApp WiTTFind”. 2. Tagung Digital Humanities im deutschsprachigen Raum 23.-27.2 (Graz).<rs type="bibl" ref="#bibl__2659"/></bibl>
+                    <bibl>Hamp, Birgit / Helmut Feldweg (1997): "GermaNet - a Lexical-Semantic Net for German." Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications. Madrid.<rs type="bibl" ref="#bibl__170"/></bibl>
+                    <bibl>Henrich, Verena / Erhard Hinrichs (2010): "GernEdiT - The GermaNet Editing Tool". Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010). Valletta, Malta, pp. 2228-2235.<rs type="bibl" ref="#bibl__171"/></bibl>
+                    <bibl>Krey, Angela (2014): “Semantische Annotation von Adjektiven im Big Typescript von Ludwig Wittgenstein”. Bachelorarbeit, CIS.<rs type="bibl" ref="#bibl__2660"/></bibl>
+                    <bibl>Lindinger, Matthias (2015): “Entwicklung eines WEB-basierten Faksimileviewers mit Highlighting von Suchmaschinen-Treffern und Anzeige der zugehörigen Texte in<rs type="bibl" ref="#bibl__2661"/></bibl>
+                    <bibl>unterschiedlichen Editionsformaten. Masterthesis, CIS.<rs type="bibl" ref="#bibl__2662"/></bibl>
+                    <bibl>Luong, Minh-Thang / Hieu Pham / Christopher D Manning (2015):Effective approaches to attention-based neural machine translation. EMNLP.<rs type="bibl" ref="#bibl__2663"/></bibl>
+                    <bibl>Luong, Minh-Thang / Eugene Brevdo / Rui Zhao (2017):Neural Machine Translation (seq2seq) Tutorial, https//github.com/tensorflow/nmt, zugegriffen am 9.10.2018.<rs type="bibl" ref="#bibl__2664"/></bibl>
+                    <bibl>Miller, George A. (1995):WordNet: A Lexical Database for English.
+                        <rs type="bibl" ref="#bibl__163"><lb/>Communications of the ACM Vol. 38, No. 11: 39-41.
+                    </rs></bibl>
+                    <bibl>Pichler, Alois (2010): „Towards the New Bergen Electronic Edition“. In: Wittgenstein After His Nachlass. Ed. Nuno Venturinha, pp. 157-172. Houndmills: Palgrave Macmillan.<rs type="bibl" ref="#bibl__2665"/></bibl>
+                    <bibl>Pichler, Alois. / Bruvik, Tone Merete (2014): “Digital Critical Editing: Separating Encoding from Presentation”. In: Digital Critical Editions. Ed. Daniel Apollon, Claire Bélisle, Philippe Régnier, pp. 179-202. Urbana Champaign: University of Illinois Press.<rs type="bibl" ref="#bibl__2666"/></bibl>
+                    <bibl>Röhrer, Ines (2017): “Musik und Ludwig Wittgenstein: Semantische Suche in seinem Nachlass”. Bachelorarbeit, CIS.<rs type="bibl" ref="#bibl__2667"/></bibl>
+                    <bibl>Still, Sebastian (2018): Ludwig Wittgenstein: 100 Jahre Traktatus. Der Odyssee-Reader, ein web-basiertes Tool zur text-genetischen Suche im Traktatus, Masterthesis, Ludwig-Maximilians-Universität München.<rs type="bibl" ref="#bibl__2668"/></bibl>
+                    <bibl>Sutskever, Ilya / Oriol Vinyals, / Quoc V. Le. (2014): Sequence to sequence learning with neural networks. NIPS.<rs type="bibl" ref="#bibl__2669"/></bibl>
+                    <bibl>Trötzmüller, Eva (2017): “Unesco-Weltdokumentenerbe - Zwei Neuaufnahmen”. https://www.unesco.at/presse/artikel/article/unesco-weltdokumentenerbe-zwei-neuaufnahmen/, zugegriffen am 12.10.2018<rs type="bibl" ref="#bibl__2670"/></bibl>
+                    <bibl>Ullrich, Sabine /Bruder, Daniel / Hadersbeck, Maximilian (2018): “Aufdecken von “versteckten” Einflüssen: Teil-Automatisierte Textgenetische Prozesse mit Methoden der Computerlinguistik und des Machine Learning”, 5. Tagung Digital Humanities im deutschsprachigen Raum 26.2.-2.3. (Köln)<rs type="bibl" ref="#bibl__2671"/></bibl>
                 </listBibl>
             </div>
         </back>

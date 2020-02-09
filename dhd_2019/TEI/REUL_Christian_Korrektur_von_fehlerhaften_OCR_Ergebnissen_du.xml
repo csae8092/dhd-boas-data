@@ -170,23 +170,23 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2186">
-                        <hi rend="bold">Altschul, Stephen F. / Madden, Thomas L. / Alejandro A. Schäffer / Zhang, Jinghui / Zhang, Zheng / Miller, Webb / Lipman, David J.</hi> (1997): “Gapped BLAST and PSI-BLAST: a new generation of protein database search programs” in Nucleic Acids Res 25 (3389-3402).
-                    </bibl>
-                    <bibl ref="#bibl__2187">
-                        <hi rend="bold">Moustafa, Ahmed</hi> (2018): “JAligner: Open source java implementation of Smith-Waterman” in 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2186"><hi rend="bold">Altschul, Stephen F. / Madden, Thomas L. / Alejandro A. Schäffer / Zhang, Jinghui / Zhang, Zheng / Miller, Webb / Lipman, David J.</hi> (1997): “Gapped BLAST and PSI-BLAST: a new generation of protein database search programs” in Nucleic Acids Res 25 (3389-3402).
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2187"><hi rend="bold">Moustafa, Ahmed</hi> (2018): “JAligner: Open source java implementation of Smith-Waterman” in 
                         <ref target="http://jaligner.sourceforge.net/">http://jaligner.sourceforge.net</ref>.
-                    </bibl>
-                    <bibl ref="#bibl__2188">
-                        <hi rend="bold">Needleman, Saul B. / Wunsch, Christian D.</hi> (1970): “
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2188"><hi rend="bold">Needleman, Saul B. / Wunsch, Christian D.</hi> (1970): “
                         <hi rend="HTML_Cite">A general method applicable to the search for similarities in the amino acid sequence of two proteins” in</hi> Journal of Molecular Biology 48, (443–453).
-                    </bibl>
-                    <bibl ref="#bibl__2189">
-                        <hi rend="bold">Smith, David A. / Cordell, Ryan / Dillon Maddock Elizabeth / Stramp, Nick / Wilkerson, John</hi> (2014): “Detecting and modeling local text reuse” in Proceedings of the JCDL’14 (Joint Conference on Digital Libraries; 183–192), IEEE Press.
-                    </bibl>
-                    <bibl ref="#bibl__2190">
-                        <hi rend="bold">Vesanto, Aleksi / Nivala, Asko / Salakoski, Tapio / Salmi, Hannu / Filip, Ginter</hi> (2017): “A system for identifying and exploring text repetition in large historical document corpora” in Proceedings of 21. NoDaLiDa (Nordic Conference on Computational Linguistics).
-                    </bibl>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2189"><hi rend="bold">Smith, David A. / Cordell, Ryan / Dillon Maddock Elizabeth / Stramp, Nick / Wilkerson, John</hi> (2014): “Detecting and modeling local text reuse” in Proceedings of the JCDL’14 (Joint Conference on Digital Libraries; 183–192), IEEE Press.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2190"><hi rend="bold">Vesanto, Aleksi / Nivala, Asko / Salakoski, Tapio / Salmi, Hannu / Filip, Ginter</hi> (2017): “A system for identifying and exploring text repetition in large historical document corpora” in Proceedings of 21. NoDaLiDa (Nordic Conference on Computational Linguistics).
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

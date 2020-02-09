@@ -217,24 +217,24 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__616">
-                        <hi rend="bold">Herrmann-Wolf, J. Berenike / Lauer, Gerhard</hi> (2016): „Aufbau und Annotation des Kafka/Referenzkorpus“ in: Burr Elisabeth (ed): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__616"><hi rend="bold">Herrmann-Wolf, J. Berenike / Lauer, Gerhard</hi> (2016): „Aufbau und Annotation des Kafka/Referenzkorpus“ in: Burr Elisabeth (ed): 
                         <hi rend="italic">DHd 2016 : Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma</hi> : Konferenzabstracts : Universität Leipzig 7. bis 12. März 2016. [Duisburg]: nisaba 158-160.
-                    </bibl>
-                    <bibl ref="#bibl__617">
-                        <hi rend="bold">Mihm, Melanie</hi> (2016): „Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa“ in: Burr Elisabeth (ed): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__617"><hi rend="bold">Mihm, Melanie</hi> (2016): „Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa“ in: Burr Elisabeth (ed): 
                         <hi rend="italic">DHd 2016 : Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma</hi> : Konferenzabstracts : Universität Leipzig 7. bis 12. März 2016. [Duisburg]: nisaba 198-200.
-                    </bibl>
-                    <bibl ref="#bibl__67">
-                        <hi rend="bold">Schöch, Christof</hi> (2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: Schöch, Christof / Schneider, Lars (eds.): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__67"><hi rend="bold">Schöch, Christof</hi> (2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: Schöch, Christof / Schneider, Lars (eds.): 
                         <hi rend="italic">Literaturwissenschaft im digitalen Medienwandel</hi> (=Philologie im Netz Beiheft 7) 130-157 http://web.fu-berlin.de/phin/beiheft7/b7t08.pdf [letzter Zugriff 25.September 2017].
-                    </bibl>
-                    <bibl ref="#bibl__618">
-                        <hi rend="bold">Schnell, Rainer / Hill, Paul B. / Esser, Elke</hi> (2011): Methoden der empirischen Sozialforschung. 9., aktualisierte Aufl. München: Oldenbourg
-                    </bibl>
-                    <bibl ref="#bibl__619">
-                        <hi rend="bold">Thesenpapier des Fachverbands „Digital Humanities im deutschsprachigen Raum“ (DHd)</hi> (2014): „Digital Humanities 2020“, vorgestellt im März 2014 auf der ersten Jahrestagung des Verbandes in Passau. http://dig-hum.de/digital-humanities-2020.
-                    </bibl>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__618"><hi rend="bold">Schnell, Rainer / Hill, Paul B. / Esser, Elke</hi> (2011): Methoden der empirischen Sozialforschung. 9., aktualisierte Aufl. München: Oldenbourg
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__619"><hi rend="bold">Thesenpapier des Fachverbands „Digital Humanities im deutschsprachigen Raum“ (DHd)</hi> (2014): „Digital Humanities 2020“, vorgestellt im März 2014 auf der ersten Jahrestagung des Verbandes in Passau. http://dig-hum.de/digital-humanities-2020.
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

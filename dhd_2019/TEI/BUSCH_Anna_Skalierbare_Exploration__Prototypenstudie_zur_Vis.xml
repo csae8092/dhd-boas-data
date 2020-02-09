@@ -173,12 +173,12 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left;" ref="#bibl__21">
-                        <hi rend="bold">Dörk, Marian / Carpendale, Sheelagh / Williamson, Carey</hi> (2011): “The Information Flaneur: A Fresh Look at Information Seeking”, in: 
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__21"><hi rend="bold">Dörk, Marian / Carpendale, Sheelagh / Williamson, Carey</hi> (2011): “The Information Flaneur: A Fresh Look at Information Seeking”, in: 
                         <hi rend="italic">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</hi>, 1215-1224.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__111">
-                        <hi rend="bold">Dörk, Marian / Pietsch, Christopher / Credico, Gabriel</hi> (2017): “
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__111"><hi rend="bold">Dörk, Marian / Pietsch, Christopher / Credico, Gabriel</hi> (2017): “
                         <ref target="http://mariandoerk.de/papers/idj2017.pdf">
                             <hi rend="underline color(0000FF)">One view is not enough: High-level visualizations of a large cultural collection</hi>
                         </ref>”, in: 
@@ -186,17 +186,17 @@
                         <ref target="http://mariandoerk.de/papers/idj2017.pdf">
                             <hi rend="underline color(1155CC)">http://mariandoerk.de/papers/idj2017.pdf</hi>
                         </ref>
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2006">
-                        <hi rend="bold">Efimova, Svetlana</hi> (2018): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2006"><hi rend="bold">Efimova, Svetlana</hi> (2018): 
                         <hi rend="italic">Das Schriftsteller-Notizbuch als Denkmedium in der russischen und deutschen Literatur</hi>. Paderborn: Wilhelm Fink.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__173">
-                        <hi rend="bold">Gfrereis, Heike / Strittmatter, Ellen</hi> (eds.) (2013): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__173"><hi rend="bold">Gfrereis, Heike / Strittmatter, Ellen</hi> (eds.) (2013): 
                         <hi rend="italic">Zettelkästen. Maschinen der Phantasie</hi>. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__135">
-                        <hi rend="bold">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian</hi> (2017): “
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__135"><hi rend="bold">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian</hi> (2017): “
                         <ref target="http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html">
                             <hi rend="underline color(0000FF)">Past Visions and Reconciling Views: Visualizing Time, Texture and Themes in Cultural Collections</hi>
                         </ref>”, in: 
@@ -204,73 +204,73 @@
                         <ref target="http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html">
                             <hi rend="underline color(1155CC)">http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html</hi>
                         </ref>
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2007">
-                        <hi rend="bold">Haber, Peter</hi> (2010): “Autorenbibliotheken im digitalen Zeitalter”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2007"><hi rend="bold">Haber, Peter</hi> (2010): “Autorenbibliotheken im digitalen Zeitalter”, in: 
                         <hi rend="italic">Quatro. Zeitschrift des Schweizerischen Literaturarchivs</hi> 30/31, 39-43.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2008">
-                        <hi rend="bold">Höppner, Stefan / Jessen, Caroline / Münkner, Jörn</hi> (eds.) (2018)
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2008"><hi rend="bold">Höppner, Stefan / Jessen, Caroline / Münkner, Jörn</hi> (eds.) (2018)
                         <hi rend="bold" xml:space="preserve">: </hi>
                         <hi rend="italic">Autorschaft und Bibliothek. Sammlungsstrategien und Schreibverfahren</hi>. Mit einem Vorwort von Reinhard Laube. Göttingen: Wallstein.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2009">
-                        <hi rend="bold" xml:space="preserve">Hoffmann, Christoph </hi>(2008): “Wie lesen? Das Notizbuch als Bühne der Forschung” in: Birgit Griesecke (ed.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2009"><hi rend="bold" xml:space="preserve">Hoffmann, Christoph </hi>(2008): “Wie lesen? Das Notizbuch als Bühne der Forschung” in: Birgit Griesecke (ed.): 
                         <hi rend="italic">Werkstätten des Möglichen 1930-1936: L. Fleck, E. Husserl, R. Musil, L. Wittgenstein</hi>, Würzburg: 45-57.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2010">
-                        <hi rend="bold" xml:space="preserve">Knoche, Michael </hi>(ed.) (2015): Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2011">
-                        <hi rend="bold">Krajewski, Markus</hi> (2011): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2010"><hi rend="bold" xml:space="preserve">Knoche, Michael </hi>(ed.) (2015): Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz.
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2011"><hi rend="bold">Krajewski, Markus</hi> (2011): 
                         <hi rend="italic">Paper Machines. About cards &amp; catalogs, 1548-1929</hi>. Cambridge: MIT Press.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__143">
-                        <hi rend="bold" xml:space="preserve">Kreiseler, Sarah / Brüggemann, Viktoria / Dörk, Marian </hi>(2017): “Tracing exploratory modes in digital collections of museum web sites using reverse information architecture”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__143"><hi rend="bold" xml:space="preserve">Kreiseler, Sarah / Brüggemann, Viktoria / Dörk, Marian </hi>(2017): “Tracing exploratory modes in digital collections of museum web sites using reverse information architecture”, in: 
                         <hi rend="italic">First Monday</hi> 22.4.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__59">
-                        <hi rend="bold">Moretti, Franco</hi> (2013): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__59"><hi rend="bold">Moretti, Franco</hi> (2013): 
                         <hi rend="italic">Distant Reading</hi>. London: Verso.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2012">
-                        <hi rend="bold">Perlin, Ken / Fox, David </hi>(1993): “Pad: an alternative approach to the computer interface”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2012"><hi rend="bold">Perlin, Ken / Fox, David </hi>(1993): “Pad: an alternative approach to the computer interface”, in: 
                         <hi rend="italic">SIGGRAPH '93: Proceedings of the 20th annual conference on Computer graphics and interactive techniques</hi>, 57-64.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2013">
-                        <hi rend="bold">Rasch, Wolfgang</hi> (2005): “Zeitungstiger, Bücherfresser. Die Bibliothek Theodor Fontanes als Fragment und Aufgabe betrachtet”, in: Ute Schneider (ed.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2013"><hi rend="bold">Rasch, Wolfgang</hi> (2005): “Zeitungstiger, Bücherfresser. Die Bibliothek Theodor Fontanes als Fragment und Aufgabe betrachtet”, in: Ute Schneider (ed.): 
                         <hi rend="italic">Imprimatur. Ein Jahrbuch für Bücherfreunde</hi>. N.F. [Bd.] XIX. Wiesbaden: Harrassowitz 103-144.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2014">
-                        <hi rend="bold">Rohmann, Ivonne</hi> (2015): “Aspekte der Erschließung und Rekonstruktion nachgelassener Privatbibliotheken am Beispiel der Büchersammlungen Herders, Wielands, Schillers und Goethes”, in: Michael Knoche (ed.), 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2014"><hi rend="bold">Rohmann, Ivonne</hi> (2015): “Aspekte der Erschließung und Rekonstruktion nachgelassener Privatbibliotheken am Beispiel der Büchersammlungen Herders, Wielands, Schillers und Goethes”, in: Michael Knoche (ed.), 
                         <hi rend="italic">Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung</hi>. Wiesbaden: Harrassowitz 17-59.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__35">
-                        <hi rend="bold" xml:space="preserve">Schmidt, Johannes </hi>(2016): “Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine”, in: Alberto Cevolini (ed.): 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__35"><hi rend="bold" xml:space="preserve">Schmidt, Johannes </hi>(2016): “Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine”, in: Alberto Cevolini (ed.): 
                         <hi rend="italic">Forgetting Machines. Knowledge Management Evolution in Early Modern Europe</hi>. Leiden: Brill 289-311.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2015">
-                        <hi rend="bold" xml:space="preserve">Shneiderman, Ben </hi>(1996): “The eyes have it: A task by data type taxonomy for information visualizations”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2015"><hi rend="bold" xml:space="preserve">Shneiderman, Ben </hi>(1996): “The eyes have it: A task by data type taxonomy for information visualizations”, in: 
                         <hi rend="italic">Visual Languages, 1996. Proceedings., IEEE Symposium. IEEE</hi>, 336-343.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2016">
-                        <hi rend="bold" xml:space="preserve">Thud, Alice / Hinrichs, Uta / Carpendale, Sheelagh </hi>(2012): “The bohemian bookshelf”, in: P
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2016"><hi rend="bold" xml:space="preserve">Thud, Alice / Hinrichs, Uta / Carpendale, Sheelagh </hi>(2012): “The bohemian bookshelf”, in: P
                         <hi rend="italic">roceedings of the SIGCHI Conference on Human Factors in Computing Systems</hi>, 1461-1470.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__174">
-                        <hi rend="bold" xml:space="preserve">Weitin, Thomas </hi>(2017): “Scalable Reading”, in: 
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__174"><hi rend="bold" xml:space="preserve">Weitin, Thomas </hi>(2017): “Scalable Reading”, in: 
                         <ref target="https://doi.org/10.1007/s41244-017-0048-4">
                             <hi rend="italic underline color(1155CC)">Zeitschrift für Literaturwissenschaft und Linguistik</hi>
                         </ref> 47.1: 1-6. 
                         <ref target="https://doi.org/10.1007/s41244-017-0048-4">
                             <hi rend="underline color(1155CC)">https://doi.org/10.1007/s41244-017-0048-4</hi>
                         </ref>
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__2017">
-                        <hi rend="bold" xml:space="preserve">Wieland, Magnus </hi>(2015): “Materialität des Lesens. Zur Topographie von Annotationsspuren in Autorenbibliotheken”, in: Knoche, Michael (ed.)  Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz 147-173.
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__23">
-                        <hi rend="bold">Windhager, Florian / Federico, Paolo / Schreder, Günther / Glinka, Katrin / Dörk, Marian / Miksch, Silvia/ Mayr, Eva</hi> (2018): “
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__2017"><hi rend="bold" xml:space="preserve">Wieland, Magnus </hi>(2015): “Materialität des Lesens. Zur Topographie von Annotationsspuren in Autorenbibliotheken”, in: Knoche, Michael (ed.)  Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz 147-173.
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__23"><hi rend="bold">Windhager, Florian / Federico, Paolo / Schreder, Günther / Glinka, Katrin / Dörk, Marian / Miksch, Silvia/ Mayr, Eva</hi> (2018): “
                         <ref target="http://mariandoerk.de/papers/tvcg2018.pdf">
                             <hi rend="underline color(0000FF)">Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges</hi>
                         </ref>”, in: 
@@ -278,9 +278,9 @@
                         <ref target="http://mariandoerk.de/papers/tvcg2018.pdf">
                             <hi rend="underline color(1155CC)">http://mariandoerk.de/papers/tvcg2018.pdf</hi>
                         </ref>
-                    </bibl>
-                    <bibl style="text-align:left;" ref="#bibl__22">
-                        <hi rend="bold">Whitelaw, Mitchell</hi> (2015): “
+                    </rs></bibl>
+                    <bibl style="text-align:left;">
+                        <rs type="bibl" ref="#bibl__22"><hi rend="bold">Whitelaw, Mitchell</hi> (2015): “
                         <ref target="http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html">
                             <hi rend="color(1155CC)">Generous Interfaces for Digital Cultural Collections</hi>
                         </ref>”, in: 
@@ -288,7 +288,7 @@
                         <ref target="http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html">
                             <hi rend="color(1155CC)">http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html</hi>
                         </ref>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

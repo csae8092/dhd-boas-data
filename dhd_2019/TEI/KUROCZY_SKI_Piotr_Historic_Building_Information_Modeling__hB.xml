@@ -202,35 +202,35 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__1944">Antonopoulou, S., &amp; Bryan, P. (2017). BIM for Heritage - Developing a Historic Building Information Model. Historic England.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1945">Apollonio, F. I., Rizzo, F., Bertacchi, S., Dall’Osso, G., Corbelli, A., &amp; Grana, C. (2017). SACHER: Smart Architecture for Cultural Heritage in Emilia Romagna. In C. Grana &amp; L. Baraldi (Eds.), Digital Libraries and Archives (Vol. 733, pp. 142–156). Cham: Springer International Publishing. 
-                        <ref target="https://doi.org/10.1007/978-3-319-68130-6_12">https://doi.org/10.1007/978-3-319-68130-6_12</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1946">Baker, D. (2012). Defining Paradata in Heritage Visualization. In Paradata an Transparency in Virtual Heritage (pp. 163–175). Ashgate.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1947">Blümel, I. (2013). Metadatenbasierte Kontextualisierung architektonischer 3D-Modelle. Berlin.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1948">Bruschke, J., &amp; Wacker, M. (2016). Simplifying Documentation of Digital Reconstruction Processes. In S. Münster, M. Pfarr-Harfst, P. Kuroczyński, &amp; M. Ioannides (Eds.), 3D Research Challenges in Cultural Heritage II (Vol. 10025, pp. 256–271). Cham: Springer International Publishing. 
-                        <ref target="https://doi.org/10.1007/978-3-319-47647-6_12">https://doi.org/10.1007/978-3-319-47647-6_12</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1949">Favro, D. (2012). Se non e vero, e ben trovato (If Not True, It Is Well Conceived): Digital Immersive Reconstructions of Historical Environments. Journal of the Society of Architectural Historians, 71(3), 273–277. 
-                        <ref target="https://doi.org/10.1525/jsah.2012.71.3.273">https://doi.org/10.1525/jsah.2012.71.3.273</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1950">Freitag, B., &amp; Stenzer, A. (2017). MonArch – A Digital Archive for Cultural Heritage. In Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte (Vol. 26, pp. 122–129). Heidelberg: arthistoricum.net.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1951">Heusinger, L. (1983). Kunstgeschichte und EDV: 8 Thesen, 11(4). 
-                        <ref target="https://doi.org/10.11588/kb.1983.4.9808">https://doi.org/10.11588/kb.1983.4.9808</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1952">Hoppe, S. (2001). Die Fußnoten des Modells. CAD-Modelle als interaktive Wissensräume am Beispiel des Altenberger-Dom-Projektes. In M. Frings (Ed.), Der Modelle Tugend. CAD und die neuen Räume der Kunstgeschichte (pp. 87–102). Weimar: VDG.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1953">Kuroczyński, P. (2017). Virtual Research Environment for digital 3D reconstructions – Standards, thresholds and prospects. Studies in Digital Heritage, 1(2), 456. 
-                        <ref target="https://doi.org/10.14434/sdh.v1i2.23330">https://doi.org/10.14434/sdh.v1i2.23330</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1954">Kuroczyński, P., Hauck, O., &amp; Dworak, D. (2016). 3D Models on Triple Paths - New Pathways for Documenting and Visualizing Virtual Reconstructions. In S. Münster, M. Pfarr-Harfst, P. Kuroczyński, &amp; M. Ioannides (Eds.), 3D Research Challenges in Cultural Heritage II (Vol. 10025, pp. 149–172). Cham: Springer International Publishing. 
-                        <ref target="https://doi.org/10.1007/978-3-319-47647-6_8">https://doi.org/10.1007/978-3-319-47647-6_8</ref>
-                    </bibl>
-                    <bibl style="text-align:left; " ref="#bibl__172">Messemer, H. (2016). The Beginnings of Digital Visualization of Historical Architecture in the Academic Field. In S. Hoppe &amp; S. Breitling (Eds.), Virtual Palaces, Part II – Lost Palaces and their Afterlife. Virtual Reconstruction between Science and Media (Vol. 3). Heidelberg: arthistoricum.net.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1955">Murphy, M. (2012). Historic Building Information Modelling (HBIM) for Recording and Documenting Classical Architecture in Dublin 1700 to 1830. Dublin.</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1956">Piotrowski, M., Colavizza, G., Thiery, F., &amp; Bruhn, K.-C. (2014). The Labeling System: A New Approach to Overcome the Vocabulary Bottleneck. In DH-CASE ’14 DH-CASE II: Collaborative Annotations on Shared Environments: metadata, tools and techniques in the Digital Humanities (Vol. Article No. 1).</bibl>
-                    <bibl style="text-align:left; " ref="#bibl__1957">Russell, B. C., Martin-Brualla, R., Butler, D. J., Seitz, S. M., &amp; Zettlemoyer, L. (2013). 3D Wikipedia: using online text to automatically label and navigate reconstructed geometry. ACM Transactions on Graphics, 32(6), 1–10. 
-                        <ref target="https://doi.org/10.1145/2508363.2508425">https://doi.org/10.1145/2508363.2508425</ref>
-                    </bibl>
+                    <bibl style="text-align:left; ">Antonopoulou, S., &amp; Bryan, P. (2017). BIM for Heritage - Developing a Historic Building Information Model. Historic England.<rs type="bibl" ref="#bibl__1944"/></bibl>
+                    <bibl style="text-align:left; ">Apollonio, F. I., Rizzo, F., Bertacchi, S., Dall’Osso, G., Corbelli, A., &amp; Grana, C. (2017). SACHER: Smart Architecture for Cultural Heritage in Emilia Romagna. In C. Grana &amp; L. Baraldi (Eds.), Digital Libraries and Archives (Vol. 733, pp. 142–156). Cham: Springer International Publishing. 
+                        <rs type="bibl" ref="#bibl__1945"><ref target="https://doi.org/10.1007/978-3-319-68130-6_12">https://doi.org/10.1007/978-3-319-68130-6_12</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Baker, D. (2012). Defining Paradata in Heritage Visualization. In Paradata an Transparency in Virtual Heritage (pp. 163–175). Ashgate.<rs type="bibl" ref="#bibl__1946"/></bibl>
+                    <bibl style="text-align:left; ">Blümel, I. (2013). Metadatenbasierte Kontextualisierung architektonischer 3D-Modelle. Berlin.<rs type="bibl" ref="#bibl__1947"/></bibl>
+                    <bibl style="text-align:left; ">Bruschke, J., &amp; Wacker, M. (2016). Simplifying Documentation of Digital Reconstruction Processes. In S. Münster, M. Pfarr-Harfst, P. Kuroczyński, &amp; M. Ioannides (Eds.), 3D Research Challenges in Cultural Heritage II (Vol. 10025, pp. 256–271). Cham: Springer International Publishing. 
+                        <rs type="bibl" ref="#bibl__1948"><ref target="https://doi.org/10.1007/978-3-319-47647-6_12">https://doi.org/10.1007/978-3-319-47647-6_12</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Favro, D. (2012). Se non e vero, e ben trovato (If Not True, It Is Well Conceived): Digital Immersive Reconstructions of Historical Environments. Journal of the Society of Architectural Historians, 71(3), 273–277. 
+                        <rs type="bibl" ref="#bibl__1949"><ref target="https://doi.org/10.1525/jsah.2012.71.3.273">https://doi.org/10.1525/jsah.2012.71.3.273</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Freitag, B., &amp; Stenzer, A. (2017). MonArch – A Digital Archive for Cultural Heritage. In Das Digitale und die Denkmalpflege: Bestandserfassung - Denkmalvermittlung - Datenarchivierung - Rekonstruktion verlorener Objekte (Vol. 26, pp. 122–129). Heidelberg: arthistoricum.net.<rs type="bibl" ref="#bibl__1950"/></bibl>
+                    <bibl style="text-align:left; ">Heusinger, L. (1983). Kunstgeschichte und EDV: 8 Thesen, 11(4). 
+                        <rs type="bibl" ref="#bibl__1951"><ref target="https://doi.org/10.11588/kb.1983.4.9808">https://doi.org/10.11588/kb.1983.4.9808</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Hoppe, S. (2001). Die Fußnoten des Modells. CAD-Modelle als interaktive Wissensräume am Beispiel des Altenberger-Dom-Projektes. In M. Frings (Ed.), Der Modelle Tugend. CAD und die neuen Räume der Kunstgeschichte (pp. 87–102). Weimar: VDG.<rs type="bibl" ref="#bibl__1952"/></bibl>
+                    <bibl style="text-align:left; ">Kuroczyński, P. (2017). Virtual Research Environment for digital 3D reconstructions – Standards, thresholds and prospects. Studies in Digital Heritage, 1(2), 456. 
+                        <rs type="bibl" ref="#bibl__1953"><ref target="https://doi.org/10.14434/sdh.v1i2.23330">https://doi.org/10.14434/sdh.v1i2.23330</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Kuroczyński, P., Hauck, O., &amp; Dworak, D. (2016). 3D Models on Triple Paths - New Pathways for Documenting and Visualizing Virtual Reconstructions. In S. Münster, M. Pfarr-Harfst, P. Kuroczyński, &amp; M. Ioannides (Eds.), 3D Research Challenges in Cultural Heritage II (Vol. 10025, pp. 149–172). Cham: Springer International Publishing. 
+                        <rs type="bibl" ref="#bibl__1954"><ref target="https://doi.org/10.1007/978-3-319-47647-6_8">https://doi.org/10.1007/978-3-319-47647-6_8</ref>
+                    </rs></bibl>
+                    <bibl style="text-align:left; ">Messemer, H. (2016). The Beginnings of Digital Visualization of Historical Architecture in the Academic Field. In S. Hoppe &amp; S. Breitling (Eds.), Virtual Palaces, Part II – Lost Palaces and their Afterlife. Virtual Reconstruction between Science and Media (Vol. 3). Heidelberg: arthistoricum.net.<rs type="bibl" ref="#bibl__172"/></bibl>
+                    <bibl style="text-align:left; ">Murphy, M. (2012). Historic Building Information Modelling (HBIM) for Recording and Documenting Classical Architecture in Dublin 1700 to 1830. Dublin.<rs type="bibl" ref="#bibl__1955"/></bibl>
+                    <bibl style="text-align:left; ">Piotrowski, M., Colavizza, G., Thiery, F., &amp; Bruhn, K.-C. (2014). The Labeling System: A New Approach to Overcome the Vocabulary Bottleneck. In DH-CASE ’14 DH-CASE II: Collaborative Annotations on Shared Environments: metadata, tools and techniques in the Digital Humanities (Vol. Article No. 1).<rs type="bibl" ref="#bibl__1956"/></bibl>
+                    <bibl style="text-align:left; ">Russell, B. C., Martin-Brualla, R., Butler, D. J., Seitz, S. M., &amp; Zettlemoyer, L. (2013). 3D Wikipedia: using online text to automatically label and navigate reconstructed geometry. ACM Transactions on Graphics, 32(6), 1–10. 
+                        <rs type="bibl" ref="#bibl__1957"><ref target="https://doi.org/10.1145/2508363.2508425">https://doi.org/10.1145/2508363.2508425</ref>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

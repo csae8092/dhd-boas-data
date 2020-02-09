@@ -299,85 +299,85 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliography</head>
-                    <bibl ref="#bibl__1507">
-                        <hi rend="bold">Amann, Klaus / Corino, Karl / Fanta, Walter </hi>(2009): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1507"><hi rend="bold">Amann, Klaus / Corino, Karl / Fanta, Walter </hi>(2009): 
                         <hi rend="italic">Robert Musil, Klagenfurter Ausgabe. </hi>Klagenfurt: Robert Musil-Institut der Universität Klagenfurt.
-                    </bibl>
-                    <bibl ref="#bibl__1508">
-                        <hi rend="bold">Arntzen, Helmut</hi> (1980): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1508"><hi rend="bold">Arntzen, Helmut</hi> (1980): 
                         <hi rend="italic">Musil-Kommentar sämtlicher zu Lebzeiten erschienener Schriften außer dem Roman “Der Mann ohne Eigenschaften”</hi>. München: Winkler.
-                    </bibl>
-                    <bibl ref="#bibl__1509">
-                        <hi rend="bold">Corino, Karl</hi> (1973): “Robert Musil, Aus der Geschichte eines Regiments”, in: Studi Germanici 11: 109–115.
-                    </bibl>
-                    <bibl ref="#bibl__1510">
-                        <hi rend="bold">Corino, Karl</hi> (2003): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1509"><hi rend="bold">Corino, Karl</hi> (1973): “Robert Musil, Aus der Geschichte eines Regiments”, in: Studi Germanici 11: 109–115.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1510"><hi rend="bold">Corino, Karl</hi> (2003): 
                         <hi rend="italic">Robert Musil: eine Biographie</hi>, Reinbek bei Hamburg: Rowohlt.
-                    </bibl>
-                    <bibl ref="#bibl__1511">
-                        <hi rend="bold">Corino, Karl</hi> (2010): “Klaviersonnen über Schluchten des Gemüts. Robert Musil und die Musik”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1511"><hi rend="bold">Corino, Karl</hi> (2010): “Klaviersonnen über Schluchten des Gemüts. Robert Musil und die Musik”, in: 
                         <hi rend="italic">Das Plateau</hi> 120: 4–21.
-                    </bibl>
-                    <bibl ref="#bibl__1512">
-                        <hi rend="bold">Dinklage, Karl</hi> (1960): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1512"><hi rend="bold">Dinklage, Karl</hi> (1960): 
                         <hi rend="italic">Robert Musil. Leben, Werk, Wirkung</hi>, Zürich.
-                    </bibl>
-                    <bibl ref="#bibl__119">
-                        <hi rend="bold">Eder, Maciej / Kestemont, Mike / Rybicki, Jan </hi>(2016): “Stylometry with R: a package for computational text analysis”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__119"><hi rend="bold">Eder, Maciej / Kestemont, Mike / Rybicki, Jan </hi>(2016): “Stylometry with R: a package for computational text analysis”, in: 
                         <hi rend="italic">R Journal</hi> 8(1): 107–121.
-                    </bibl>
-                    <bibl ref="#bibl__1513">
-                        <hi rend="bold">Eder, Maciej</hi> (2015): “Does size matter? Authorship attribution, small samples, big problem”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1513"><hi rend="bold">Eder, Maciej</hi> (2015): “Does size matter? Authorship attribution, small samples, big problem”, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> 30(2): 167–182.
-                    </bibl>
-                    <bibl ref="#bibl__1514">
-                        <hi rend="bold">Fontanari, Alessandro / Libardi, Massimo </hi>(1987): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1514"><hi rend="bold">Fontanari, Alessandro / Libardi, Massimo </hi>(1987): 
                         <hi rend="italic">La guerra parallela</hi>. Trento: Reverdito.
-                    </bibl>
-                    <bibl ref="#bibl__1515">
-                        <hi rend="bold">Halvani, Oren / Winter, Christian / Pflug, Anika</hi> (2016): “Authorship verification for different languages, genres and topics”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1515"><hi rend="bold">Halvani, Oren / Winter, Christian / Pflug, Anika</hi> (2016): “Authorship verification for different languages, genres and topics”, in: 
                         <hi rend="italic">Digital Investigation</hi> 16: 33–43.
-                    </bibl>
-                    <bibl ref="#bibl__1516">
-                        <hi rend="bold">Herrmann, J. Berenike</hi> (2018): “In test bed with Kafka. Introducing a mixed-method approach to digital stylistics”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1516"><hi rend="bold">Herrmann, J. Berenike</hi> (2018): “In test bed with Kafka. Introducing a mixed-method approach to digital stylistics”, in: 
                         <hi rend="italic">Digital Humanities Quarterly</hi> [in press].
-                    </bibl>
-                    <bibl ref="#bibl__1517">
-                        <hi rend="bold">Hirst, Graeme / Feiguina, Ol’ga</hi> (2007): “Bigrams of syntactic labels for authorship discrimination of short texts”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1517"><hi rend="bold">Hirst, Graeme / Feiguina, Ol’ga</hi> (2007): “Bigrams of syntactic labels for authorship discrimination of short texts”, in: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 22(4): 405–417.
-                    </bibl>
-                    <bibl ref="#bibl__1518">
-                        <hi rend="bold">Jockers, Mattew / Witten, Daniela </hi>(2010): “A comparative study of machine learning methods for authorship attribution”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1518"><hi rend="bold">Jockers, Mattew / Witten, Daniela </hi>(2010): “A comparative study of machine learning methods for authorship attribution”, in: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 25(2): 215–223.
-                    </bibl>
-                    <bibl ref="#bibl__1519">
-                        <hi rend="bold">Juola, Patrick / Noecker, John / Ryan, Mike / Zhao, Mengjia</hi> (2008): “JGAAP3.0 – authorship attribution for the rest of us”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1519"><hi rend="bold">Juola, Patrick / Noecker, John / Ryan, Mike / Zhao, Mengjia</hi> (2008): “JGAAP3.0 – authorship attribution for the rest of us”, in: 
                         <hi rend="italic">Digital Humanities 2008: Book of Abstracts</hi>: 250–251.
-                    </bibl>
-                    <bibl ref="#bibl__1520">
-                        <hi rend="bold">Juola, Patrick</hi> (2015): “The Rowling Case: A Proposed Standard Analytic Protocol for Authorship Questions”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1520"><hi rend="bold">Juola, Patrick</hi> (2015): “The Rowling Case: A Proposed Standard Analytic Protocol for Authorship Questions”, in: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> 30: 100–113.
-                    </bibl>
-                    <bibl ref="#bibl__1521">
-                        <hi rend="bold">Koppel, Moshe / Winter Yaron</hi> (2014): “Determining if two documents are by the same author”, in: JASIST 65(1): 178-187.
-                    </bibl>
-                    <bibl ref="#bibl__1522">
-                        <hi rend="bold">Roth, Marie-Louise</hi> (1972): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1521"><hi rend="bold">Koppel, Moshe / Winter Yaron</hi> (2014): “Determining if two documents are by the same author”, in: JASIST 65(1): 178-187.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1522"><hi rend="bold">Roth, Marie-Louise</hi> (1972): 
                         <hi rend="italic">Robert Musil. Ethik und Ästhetik</hi>. München: List.
-                    </bibl>
-                    <bibl ref="#bibl__1523">
-                        <hi rend="bold">Schaunig, Regina</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1523"><hi rend="bold">Schaunig, Regina</hi> (2014): 
                         <hi rend="italic">Der Dichter im Dienst des Generals. Robert Musils Propagandaschriften im ersten Weltkrieg</hi>. Klagenfurt: Kitab.
-                    </bibl>
-                    <bibl ref="#bibl__1524">
-                        <hi rend="bold">Stamatatos, Efstathios / Daelemans, Walter / Verhoeven, Ben / Potthast, Martin / Stein, Benno / Juola, Patrick / Sanchez-Perez, Miguel A. / Barrón-Cedeño, Alberto</hi> (2014): “Overview of the Author Identification Task at PAN 2014
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1524"><hi rend="bold">Stamatatos, Efstathios / Daelemans, Walter / Verhoeven, Ben / Potthast, Martin / Stein, Benno / Juola, Patrick / Sanchez-Perez, Miguel A. / Barrón-Cedeño, Alberto</hi> (2014): “Overview of the Author Identification Task at PAN 2014
                         <anchor xml:id="Hlk493150859"/>”, in: 
                         <hi rend="italic">CLEF 2014 (Working Notes)</hi>: 877-897.
-                    </bibl>
-                    <bibl ref="#bibl__1525">
-                        <hi rend="bold">Urbaner, Roman</hi> (2001): “‘... daran zugrunde gegangen, daß sie Tagespolitik treiben wollte‘? Die ‚(Tiroler) Soldaten-Zeitung‘ 1915-1917”, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1525"><hi rend="bold">Urbaner, Roman</hi> (2001): “‘... daran zugrunde gegangen, daß sie Tagespolitik treiben wollte‘? Die ‚(Tiroler) Soldaten-Zeitung‘ 1915-1917”, in: 
                         <hi rend="italic">eForum zeitGeschichte</hi> 3/4. www.eforum-zeitgeschichte.at [accessed 14.09.2017]
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

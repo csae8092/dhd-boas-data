@@ -173,47 +173,47 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1013">
-                        <hi rend="bold">Geldner, Karl Friedrich</hi> (2003) [1951-57]: 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1013"><hi rend="bold">Geldner, Karl Friedrich</hi> (2003) [1951-57]: 
                         <hi rend="italic">Der Rig-Veda. Aus dem Sanskrit ins Deutsche übersetzt und mit einem laufenden Kommentar versehen von Karl Friedrich Geldner</hi>. Cambridge (Mass.): Harvard University Press.
-                    </bibl>
-                    <bibl ref="#bibl__1014">
-                        <hi rend="bold">Grassmann, Hermann</hi> (1873): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1014"><hi rend="bold">Grassmann, Hermann</hi> (1873): 
                         <hi rend="italic">Wörterbuch zum Rig-veda</hi>. Wiesbaden, O. Harrassowitz.
-                    </bibl>
-                    <bibl ref="#bibl__1015">
-                        <hi rend="bold">Grassmann, Hermann</hi> (1876): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1015"><hi rend="bold">Grassmann, Hermann</hi> (1876): 
                         <hi rend="italic">Rig-veda. Übersetzt und mit kritischen und erläuternden Anmerkungen versehen von Hermann Grassmann</hi>. Leipzig: F.A. Brockhaus.
-                    </bibl>
-                    <bibl ref="#bibl__1016">
-                        <hi rend="bold">Griffith, Ralph T. H.</hi> (1896): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1016"><hi rend="bold">Griffith, Ralph T. H.</hi> (1896): 
                         <hi rend="italic">The Hymns of the Rigveda</hi>. Benares: Lazarus.
-                    </bibl>
-                    <bibl ref="#bibl__1017">
-                        <hi rend="bold">Keydana, Götz / Luraghi, Silvia</hi> (2012): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1017"><hi rend="bold">Keydana, Götz / Luraghi, Silvia</hi> (2012): 
                         <hi rend="italic">Definite referential null objects in Vedic Sanskrit and Ancient Greek</hi>. Acta Linguistica Hafniensia 44 (2):116–28. 
                         <ptr target="https://doi.org/10.1080/03740463.2013.776245"/>.
-                    </bibl>
-                    <bibl ref="#bibl__1018">
-                        <hi rend="bold">Kulikov, Leonid</hi> (2012): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1018"><hi rend="bold">Kulikov, Leonid</hi> (2012): 
                         <hi rend="italic">The Vedic -ya-Presents: Passives and Intransitivity in Old Indo-Aryan</hi>. Amsterdam, Netherlands: Rodopi.
-                    </bibl>
-                    <bibl ref="#bibl__1019">
-                        <hi rend="bold">Oldenberg, Hermann</hi> (1909/1912): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1019"><hi rend="bold">Oldenberg, Hermann</hi> (1909/1912): 
                         <hi rend="italic">R̥gveda. Textkritische und exegetische Noten</hi>. Berlin: Weidmann.
-                    </bibl>
-                    <bibl ref="#bibl__1020">
-                        <hi rend="bold">Reinöhl, Uta</hi> (2016): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1020"><hi rend="bold">Reinöhl, Uta</hi> (2016): 
                         <hi rend="italic">Grammaticalization and the Rise of Configurationality in Indo-Aryan.</hi> Oxford: Oxford University Press
-                    </bibl>
-                    <bibl ref="#bibl__1021">
-                        <hi rend="bold">Scarlata, Salvatore / Widmer, Paul</hi> (2015): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1021"><hi rend="bold">Scarlata, Salvatore / Widmer, Paul</hi> (2015): 
                         <hi rend="italic">Vedische exozentrische Komposita mit drei Relationen</hi>. Indo-Iranian Journal, 58(1):26-47.
-                    </bibl>
-                    <bibl ref="#bibl__1022">
-                        <hi rend="bold">Widmer, Paul</hi> (2007): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1022"><hi rend="bold">Widmer, Paul</hi> (2007): 
                         <hi rend="italic">Der altindische vrkī́-Typus und hethitisch nakki-: Der indogermanische Instrumental zwischen Syntax und Morphologie. </hi>Zeitschrift für Sprachwissenschaft, (1-2):190-208.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

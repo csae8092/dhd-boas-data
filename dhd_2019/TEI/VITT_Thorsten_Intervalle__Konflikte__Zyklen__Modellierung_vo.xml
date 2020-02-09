@@ -217,8 +217,8 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__2113">
-                        <anchor xml:id="id_docs-internal-guid-dcac9358-7fff-2a51-4a30-189d5cae570c"/>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2113"><anchor xml:id="id_docs-internal-guid-dcac9358-7fff-2a51-4a30-189d5cae570c"/>
                         <hi rend="color(#000000)bold">Allen, James F.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1983): “Maintaining knowledge about temporal intervals”, in: Communication of ACM 21(11): 832–843 doi: </hi>
@@ -226,26 +226,26 @@
                             <hi rend="color(#1155cc)underline">10.1145/182.358434</hi>
                         </ref>
                         <hi rend="color(#000000)">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2114">
-                        <hi rend="color(#000000)bold">Barro, Senén / Marín, Roque / Mira, José / Patón, Alfonso R.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2114"><hi rend="color(#000000)bold">Barro, Senén / Marín, Roque / Mira, José / Patón, Alfonso R.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1994): “A model and a language for the fuzzy representation and handling of time”, in: Fuzzy Sets and Systems 61: 153–175. doi: </hi>
                         <ref target="https://doi.org/10.1016/0165-0114(94)90231-3">
                             <hi rend="color(#1155cc)underline">10.1016/0165-0114(94)90231-3</hi>
                         </ref>
                         <hi rend="color(#000000)">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2115">
-                        <hi rend="color(#000000)bold">Bayliss, Alex</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2115"><hi rend="color(#000000)bold">Bayliss, Alex</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2015): “Quality in Bayesian chronological models in archaeology”, in: World Archaeology 47(4): 677-700. doi: </hi>
                         <ref target="https://doi.org/10.1080/00438243.2015.1067640">
                             <hi rend="color(#1155cc)underline">10.1080/00438243.2015.1067640</hi>
                         </ref>
-                    </bibl>
-                    <bibl ref="#bibl__2116">
-                        <hi rend="color(#000000)bold">Bohnenkamp, Anne</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2116"><hi rend="color(#000000)bold">Bohnenkamp, Anne</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1994): </hi>
                         <hi rend="color(#000000)italic">„</hi>
@@ -257,14 +257,14 @@
                         <hi rend="color(#000000)italic">“</hi>
                         <hi rend="color(#000000)italic">.</hi>
                         <hi rend="color(#000000)"> Frankfurt am Main / Leipzig: Insel.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2117">
-                        <hi rend="color(#000000)bold">Burgess, Richard W. / Witakowski, Witold</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2117"><hi rend="color(#000000)bold">Burgess, Richard W. / Witakowski, Witold</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1999): Studies in Eusebian and Post-Eusebian Chronography (= Historia. Einzelschriften; 135). Stuttgart: Steiner. </hi>
-                    </bibl>
-                    <bibl ref="#bibl__2118">
-                        <hi rend="color(#000000)bold">Eades, Peter / Lin, Xue-Min / Tamassia, Roberto</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2118"><hi rend="color(#000000)bold">Eades, Peter / Lin, Xue-Min / Tamassia, Roberto</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1993): “A fast and effective heuristic for the feedback arc set problem”, in: Information Processing Letters 47(6): 319–323. doi:</hi>
                         <ref target="https://doi.org/10.1016/0020-0190(93)90079-O">
@@ -274,9 +274,9 @@
                             <hi rend="color(#1155cc)underline">10.1016/0020-0190(93)90079-O</hi>
                         </ref>
                         <hi rend="color(#000000)">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2119">
-                        <hi rend="color(#000000)bold">Even, Guy / Naor, Joseph / Schieber, Baruch / Sudan, Madhu</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2119"><hi rend="color(#000000)bold">Even, Guy / Naor, Joseph / Schieber, Baruch / Sudan, Madhu</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1998): “Approximating Minimum Feedback Sets and Multicuts in Directed Graphs”, in: Algorithmica 20(2): 151–174. doi:</hi>
                         <ref target="https://doi.org/10.1007/PL00009191">
@@ -286,53 +286,53 @@
                             <hi rend="color(#1155cc)underline">10.1007/PL00009191</hi>
                         </ref>
                         <hi rend="color(#000000)">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2120">
-                        <hi rend="color(#000000)bold">Fischer-Lamberg, Renate</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2120"><hi rend="color(#000000)bold">Fischer-Lamberg, Renate</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1955): Untersuchungen zur Chronologie von Faust II 2 und 3. Diss. phil. (masch.), Humboldt-Universität Berlin.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2121">
-                        <hi rend="color(#000000)bold">Gansner, Emden R. / North, Stephen C.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2121"><hi rend="color(#000000)bold">Gansner, Emden R. / North, Stephen C.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2000): “An open graph visualization system and its applications to software engineering”, in: Software: Practice and Experience 30(11): 1203–1233. doi: </hi>
                         <ref target="https://doi.org/10.1002/1097-024X(200009)30:11%3C1203::AID-SPE338%3E3.0.CO;2-N">
                             <hi rend="color(#1155cc)underline">10.1002/1097-024X(200009)30:11&lt;1203::AID-SPE338&gt;3.0.CO;2-N</hi>
                         </ref>
                         <hi rend="color(#000000)">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2122">
-                        <hi rend="color(#000000)bold">Grafton, Anthony</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2122"><hi rend="color(#000000)bold">Grafton, Anthony</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1993): Joseph Scaliger. A Study in the History of Classical Scholarship. Vol. II: Historical Chronology</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(= Oxford-Warburg Studies). Oxford: Clarendon.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2123">
-                        <hi rend="color(#000000)bold">Hagberg, Aric A. / Schult, Daniel A. / Swart, Pieter J.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2123"><hi rend="color(#000000)bold">Hagberg, Aric A. / Schult, Daniel A. / Swart, Pieter J.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2008): “Exploring Network Structure, Dynamics, and Function using NetworkX”, in: Varoquaux, Gael / Vaught, Travis / Millman, Jarrod (eds): Proceedings of the 7th Python in Science Conference (SciPy2008) in Pasadena, CA </hi>
                         <ptr target="https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-08-05495"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[letzter Zugriff 14. Oktober 2018].</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2124">
-                        <hi rend="color(#000000)bold">Karp, Richard M.</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2124"><hi rend="color(#000000)bold">Karp, Richard M.</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1972): "Reducibility Among Combinatorial Problems", in: Miller, Raymond Edward / Thatcher, James W. (eds.): Complexity of Computer Computations. New York: Plenum 85–103. doi: 10.1007/978-3-540-68279-0_8.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2125">
-                        <hi rend="color(#000000)bold">Manber, Udi</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2125"><hi rend="color(#000000)bold">Manber, Udi</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(1989): Introduction to Algorithms: A Creative Approach. Reading, MA: Addison-Wesley.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2126">
-                        <hi rend="color(#000000)bold">Pereltsvaig, Asya / Lewis, Martin</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2126"><hi rend="color(#000000)bold">Pereltsvaig, Asya / Lewis, Martin</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2015): The Indo-European Controversy. Facts and Fallacies in Historical Linguistics. Cambridge: Cambridge University Press.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2127">
-                        <hi rend="color(#000000)bold">Schockaert, Steven </hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2127"><hi rend="color(#000000)bold">Schockaert, Steven </hi>
                         <hi rend="color(#000000)">/</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)bold">De Cock, Martine</hi>
@@ -345,25 +345,25 @@
                             <hi rend="color(#1155cc)underline">10.1016/j.artint.2008.01.001</hi>
                         </ref>
                         <hi rend="color(#000000)">.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2128">
-                        <hi rend="color(#000000)bold">Trovato, Paolo</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2128"><hi rend="color(#000000)bold">Trovato, Paolo</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2014): Everything You Always Wanted to Know About Lachmann's Method. A Non-Standard Handbook of Genealogical Textual Criticism in the Age of Post-Structuralism, Cladistics, and Copy-Text. Padova: libreriauniversitaria.it</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2129">
-                        <hi rend="color(#000000)bold">Van Hulle, Dirk</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2129"><hi rend="color(#000000)bold">Van Hulle, Dirk</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2018): “Editing the Wake’s Genesis: Digital Genetic Criticism”, in: Sartor, Genevieve (ed.): James Joyce and Genetic Criticism. Genesic Fields (= European Joyce Studies; 28). Leiden, Boston: Brill Rodopi 37–54.</hi>
-                    </bibl>
-                    <bibl ref="#bibl__2130">
-                        <hi rend="color(#000000)bold">Wissenbach, Moritz / Pravida, Dietmar / Middell, Gregor</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__2130"><hi rend="color(#000000)bold">Wissenbach, Moritz / Pravida, Dietmar / Middell, Gregor</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(2012): “Reasoning about Genesis or The Mechanical Philologist”, in: Meister, Jan Christoph (ed.): Digital Humanities 2012. Conference Abstracts. Hamburg: Hamburg University Press 418–422 </hi>
                         <ptr target="http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/reasoning-about-genesis-or-the-mechanical-philologist.1.html"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[letzter Zugriff 14. Oktober 2018].</hi>
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
         </back>

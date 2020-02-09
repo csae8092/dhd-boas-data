@@ -465,37 +465,37 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__1005">Das 
-                        <hi rend="bold">Arbeitsrepositorium</hi> ist unter &lt;
+                    <bibl>Das 
+                        <rs type="bibl" ref="#bibl__1005"><hi rend="bold">Arbeitsrepositorium</hi> ist unter &lt;
                         <ptr target="https://github.com/weltliteratur/dnb"/>&gt; zu finden.
-                    </bibl>
-                    <bibl ref="#bibl__1006">
-                        <hi rend="bold">Bergengruen, Werner</hi> (1960): Titulus. Das ist: Miszellen, Kollektaneen u. fragmentar., mit gelegentl. Irrtümern durchsetzte Gedanken zur Naturgeschichte d. dt. Buchtitels oder unbetitelter Lebensroman e. Bibliotheksbeamten. Zürich: Verlag der Arche.
-                    </bibl>
-                    <bibl ref="#bibl__1007">
-                        <hi rend="bold">DNB</hi> (2017): »Wir über uns«, Stand 16.03.2017. URL: &lt;
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1006"><hi rend="bold">Bergengruen, Werner</hi> (1960): Titulus. Das ist: Miszellen, Kollektaneen u. fragmentar., mit gelegentl. Irrtümern durchsetzte Gedanken zur Naturgeschichte d. dt. Buchtitels oder unbetitelter Lebensroman e. Bibliotheksbeamten. Zürich: Verlag der Arche.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1007"><hi rend="bold">DNB</hi> (2017): »Wir über uns«, Stand 16.03.2017. URL: &lt;
                         <ptr target="http://www.dnb.de/DE/Wir/wir_node.html"/>&gt;.
-                    </bibl>
-                    <bibl ref="#bibl__1008">
-                        <hi rend="bold">Fischer, Frank; Jäschke, Robert</hi> (2018): Ein Quantum Literatur. Empirische Daten zu einer Theorie des literarischen Textumfangs. DFG-Symposium »Digitale Literaturwissenschaft«. Villa Vigoni, 9.–13. Oktober 2017. (Entsprechender Sammelband erscheint demnächst.)
-                    </bibl>
-                    <bibl ref="#bibl__1009">
-                        <hi rend="bold">Häntzschel, Günter; Hummel, Adrian; Zedler, Jörg</hi> (2009): Deutschsprachige Buchkultur der 1950er Jahre. Fiktionale Literatur in Quellen, Analysen und Interpretationen. Wiesbaden: Harrassowitz 2009. URL: &lt;
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1008"><hi rend="bold">Fischer, Frank; Jäschke, Robert</hi> (2018): Ein Quantum Literatur. Empirische Daten zu einer Theorie des literarischen Textumfangs. DFG-Symposium »Digitale Literaturwissenschaft«. Villa Vigoni, 9.–13. Oktober 2017. (Entsprechender Sammelband erscheint demnächst.)
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1009"><hi rend="bold">Häntzschel, Günter; Hummel, Adrian; Zedler, Jörg</hi> (2009): Deutschsprachige Buchkultur der 1950er Jahre. Fiktionale Literatur in Quellen, Analysen und Interpretationen. Wiesbaden: Harrassowitz 2009. URL: &lt;
                         <ptr target="https://books.google.com/books?id=t88xc3CzK60C"/>&gt;.
-                    </bibl>
-                    <bibl ref="#bibl__1010">
-                        <hi rend="bold">Moretti, Franco</hi> (2009): Style Inc. Reflections on Seven Thousand Titles (British Novels, 1740–1850). In: Critical Inquiry, Vol. 36, No. 1 (Autumn 2009), S. 134–158.
-                    </bibl>
-                    <bibl ref="#bibl__1011">
-                        <hi rend="bold">Pandzko, Jim</hi>
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1010"><hi rend="bold">Moretti, Franco</hi> (2009): Style Inc. Reflections on Seven Thousand Titles (British Novels, 1740–1850). In: Critical Inquiry, Vol. 36, No. 1 (Autumn 2009), S. 134–158.
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1011"><hi rend="bold">Pandzko, Jim</hi>
                         <hi rend="bold">; </hi>
                         <hi rend="bold">Böhmermann, Jan </hi>(2017): Menschen Leben Tanzen Welt [Musikvideo]. In: Neo Magazin Royale, 05.04.2017. URL: &lt;
                         <ptr target="https://youtu.be/h8MVXC_hqNY"/>&gt;.
-                    </bibl>
-                    <bibl ref="#bibl__1012">
-                        <hi rend="bold">Schmidt, Ben</hi> (2017): A brief visual history of MARC cataloging at the Library of Congress. In: Sapping Attention [Blog], 16.05.2017. URL: &lt;
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__1012"><hi rend="bold">Schmidt, Ben</hi> (2017): A brief visual history of MARC cataloging at the Library of Congress. In: Sapping Attention [Blog], 16.05.2017. URL: &lt;
                         <ptr target="http://sappingattention.blogspot.de/2017/05/a-brief-visual-history-of-marc.html"/>&gt;.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

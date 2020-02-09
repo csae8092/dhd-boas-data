@@ -96,78 +96,78 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl ref="#bibl__931">
-                        <hi rend="bold">Albrecht, Jan Philipp</hi> (2014): 
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__931"><hi rend="bold">Albrecht, Jan Philipp</hi> (2014): 
                         <hi rend="italic">Finger weg von unseren Daten! Wie wir entmündigt und ausgenommen werden</hi>. München: Droemer Knaur.
-                    </bibl>
-                    <bibl ref="#bibl__932">
-                        <hi rend="bold">Bal, Mieke</hi> (2006): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__932"><hi rend="bold">Bal, Mieke</hi> (2006): 
                         <hi rend="italic">Kulturanalyse</hi>. Frankfurt am Main: Suhrkamp.
-                    </bibl>
-                    <bibl ref="#bibl__933">
-                        <hi rend="bold">Dawkins, Richard</hi> (1976): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__933"><hi rend="bold">Dawkins, Richard</hi> (1976): 
                         <hi rend="italic">The Selfish Gene</hi>. Oxford: Oxford University Press.
-                    </bibl>
-                    <bibl ref="#bibl__934">
-                        <hi rend="bold">Engemann, Christoph</hi> (2003): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__934"><hi rend="bold">Engemann, Christoph</hi> (2003): 
                         <hi rend="italic">Electronic Government – vom User zum Bürger. Zur kritischen Theorie des Internet</hi>. Bielefeld: transcript.
-                    </bibl>
-                    <bibl ref="#bibl__93">
-                        <hi rend="bold">Foucault, Michel</hi> (1992): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__93"><hi rend="bold">Foucault, Michel</hi> (1992): 
                         <hi rend="italic">Was ist Kritik?</hi> Aus dem Französischen von Walter Seitter. Berlin: Merve.
-                    </bibl>
-                    <bibl ref="#bibl__935">
-                        <hi rend="bold">Foucault, Michel</hi> (1995): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__935"><hi rend="bold">Foucault, Michel</hi> (1995): 
                         <hi rend="italic">Archäologie des Wissens</hi>. Übersetzt von Ulrich Köppen. 7. Aufl., Frankfurt am Main: Suhrkamp.
-                    </bibl>
-                    <bibl ref="#bibl__936">
-                        <hi rend="bold">Foucault, Michel</hi> (2003): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__936"><hi rend="bold">Foucault, Michel</hi> (2003): 
                         <hi rend="italic">Die Ordnung des Diskurses</hi>. Aus dem Französischen von Walter Seitter. Mit einem Essay von Ralf Konersmann. 9. Aufl., Frankfurt am Main: S. Fischer.
-                    </bibl>
-                    <bibl ref="#bibl__937">
-                        <hi rend="bold">Horkheimer, Max</hi> (1995): „Traditionelle und kritische Theorie (1937)“, in: Ders.: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__937"><hi rend="bold">Horkheimer, Max</hi> (1995): „Traditionelle und kritische Theorie (1937)“, in: Ders.: 
                         <hi rend="italic">Traditionelle und kritische Theorie. Fünf Aufsätze</hi>. Frankfurt am Main: S. Fischer 205-259.
-                    </bibl>
-                    <bibl ref="#bibl__938">
-                        <hi rend="bold">Horkheimer, Max / Adorno, Theodor W.</hi> (2000): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__938"><hi rend="bold">Horkheimer, Max / Adorno, Theodor W.</hi> (2000): 
                         <hi rend="italic">Dialektik der Aufklärung. Philosophische Fragmente</hi>. 12. Aufl., Frankfurt am Main: S. Fischer.
-                    </bibl>
-                    <bibl ref="#bibl__939">
-                        <hi rend="bold">Lanier, Jaron</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__939"><hi rend="bold">Lanier, Jaron</hi> (2014): 
                         <hi rend="italic">Wem gehört die Zukunft? Du bist nicht die Zukunft der Internet-Konzerne. Du bist ihr Produkt</hi>. Hamburg: Hoffmann und Campe.
-                    </bibl>
-                    <bibl ref="#bibl__940">
-                        <hi rend="bold">Lovink, Geert</hi> (2008): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__940"><hi rend="bold">Lovink, Geert</hi> (2008): 
                         <hi rend="italic">Zero Comments. Elemente einer kritischen Internetkultur</hi>. Bielefeld: transcript.
-                    </bibl>
-                    <bibl ref="#bibl__941">
-                        <hi rend="bold">Morozov, Evgeny</hi> (2013): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__941"><hi rend="bold">Morozov, Evgeny</hi> (2013): 
                         <hi rend="italic">Smarte neue Welt. Digitale Technik und die Freiheit des Menschen</hi>. München: Blessing.
-                    </bibl>
-                    <bibl ref="#bibl__942">
-                        <hi rend="bold">Reichert, Ramón</hi> (2013): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__942"><hi rend="bold">Reichert, Ramón</hi> (2013): 
                         <hi rend="italic">Die Macht der Vielen. Über den neuen Kult der digitalen Vernetzung</hi>. Bielefeld: transcript.
-                    </bibl>
-                    <bibl ref="#bibl__943">
-                        <hi rend="bold">Schäfer, Mirko Tobias</hi> (2011): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__943"><hi rend="bold">Schäfer, Mirko Tobias</hi> (2011): 
                         <hi rend="italic">Bastard Culture! How User Participation Transforms Cultural Production</hi>. Amsterdam: Amsterdam University Press. http://oapen.org/download?type=document&amp;docid=371358 [letzter Zugriff 14. Januar 2018].
-                    </bibl>
-                    <bibl ref="#bibl__944">
-                        <hi rend="bold">Schäfer, Mirko Tobias / van Es, Karin</hi> (eds., 2017): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__944"><hi rend="bold">Schäfer, Mirko Tobias / van Es, Karin</hi> (eds., 2017): 
                         <hi rend="italic">The Datafied Society. Studying Culture Through Data</hi>. Amsterdam: Amsterdam University Press.
-                    </bibl>
-                    <bibl ref="#bibl__945">
-                        <hi rend="bold">Shifman, Limor</hi> (2014): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__945"><hi rend="bold">Shifman, Limor</hi> (2014): 
                         <hi rend="italic">Meme. Kunst, Kultur und Politik im digitalen Zeitalter</hi>. Berlin: Suhrkamp.
-                    </bibl>
-                    <bibl ref="#bibl__946">
-                        <hi rend="bold">Ullmaier, Johannes</hi> (2017): „Kategorien der Kritik. Detaillierte Inhaltsübersicht zu einer ungeschriebenen Studie“, in: 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__946"><hi rend="bold">Ullmaier, Johannes</hi> (2017): „Kategorien der Kritik. Detaillierte Inhaltsübersicht zu einer ungeschriebenen Studie“, in: 
                         <hi rend="italic">Testcard. Beiträge zur Popgeschichte</hi> 25: 70-88.
-                    </bibl>
-                    <bibl ref="#bibl__947">
-                        <hi rend="bold">Wagner, Thomas</hi> (2017): 
+                    </rs></bibl>
+                    <bibl>
+                        <rs type="bibl" ref="#bibl__947"><hi rend="bold">Wagner, Thomas</hi> (2017): 
                         <hi rend="italic">Das Netz in unsere Hand! Vom digitalen Kapitalismus zur Datendemokratie</hi>. Köln: PapyRossa.
-                    </bibl>
+                    </rs></bibl>
                 </listBibl>
             </div>
       </back>

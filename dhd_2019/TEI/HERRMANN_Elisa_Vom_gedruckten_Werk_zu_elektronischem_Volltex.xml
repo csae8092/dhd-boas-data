@@ -87,7 +87,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; " ref="#bibl__2546"> Lorem ipsum</bibl>
+                    <bibl style="text-align:left; "> Lorem ipsum<rs type="bibl" ref="#bibl__2546"/></bibl>
                 </listBibl>
             </div>
         </back>

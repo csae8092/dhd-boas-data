@@ -8,7 +8,7 @@
                         <surname>Czmiel</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>czmiel@bbaw.de</email>
                 </author>
                 <author ref="#person__grabsch-bbaw-de">
@@ -16,7 +16,7 @@
                         <surname>Grabsch</surname>
                         <forename>Sascha</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>grabsch@bbaw.de</email>
                 </author>
                 <author ref="#person__juergens-bbaw-de">
@@ -24,7 +24,7 @@
                         <surname>Jürgens</surname>
                         <forename>Marco</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>juergens@bbaw.de</email>
                 </author>
                 <author ref="#person__maiwald-bbaw-de">
@@ -32,7 +32,7 @@
                         <surname>Maiwald</surname>
                         <forename>Anke</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>maiwald@bbaw.de</email>
                 </author>
                 <author ref="#person__willenborg-bbaw-de">
@@ -40,7 +40,7 @@
                         <surname>Willenborg</surname>
                         <forename>Josef</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>willenborg@bbaw.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>dumont@bbaw.de</email>
                 </author>
             </titleStmt>

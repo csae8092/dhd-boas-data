@@ -11,7 +11,7 @@
                         <surname>Schneider</surname>
                         <forename>Stefanie</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>stefanie.schneider@itg.uni-muenchen.de</email>
                 </author>
                 <author ref="#person__hubertus-kohle-lmu-de">
@@ -19,7 +19,7 @@
                         <surname>Kohle</surname>
                         <forename>Hubertus</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>hubertus.kohle@lmu.de</email>
                 </author>
                 <author ref="#person__severin-jo-burg-gmail-com">
@@ -27,7 +27,7 @@
                         <surname>Burg</surname>
                         <forename>Severin</forename>
                     </persName>
-                    <affiliation>Università di Bologna, Italien</affiliation>
+                    <affiliation ref="#org__257">Università di Bologna, Italien</affiliation>
                     <email>severin.jo.burg@gmail.com</email>
                 </author>
                 <author ref="#person__kuechenhoff-stat-uni-muenchen-de">
@@ -35,7 +35,7 @@
                         <surname>Küchenhoff</surname>
                         <forename>Helmut</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>kuechenhoff@stat.uni-muenchen.de</email>
                 </author>
             </titleStmt>

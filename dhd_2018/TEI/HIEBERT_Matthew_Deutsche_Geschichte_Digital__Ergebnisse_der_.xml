@@ -8,7 +8,7 @@
                         <surname>Hiebert</surname>
                         <forename>Matthew</forename>
                     </persName>
-                    <affiliation>German Historical Institute Washington</affiliation>
+                    <affiliation ref="#org__174">German Historical Institute Washington</affiliation>
                     <email>hiebert@ghi-dc.org</email>
                 </author>
                 <author ref="#person__laessigs-ghi-dc-org">
@@ -16,7 +16,7 @@
                         <surname>Lässig</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation>German Historical Institute Washington</affiliation>
+                    <affiliation ref="#org__174">German Historical Institute Washington</affiliation>
                     <email>laessigs@ghi-dc.org</email>
                 </author>
                 <author ref="#person__andreas-witt-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Witt</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>andreas.witt@uni-koeln.de</email>
                 </author>
             </titleStmt>

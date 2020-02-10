@@ -8,7 +8,7 @@
                         <surname>Müller-Laackman</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>jonas.mueller-laackman@bbaw.de</email>
                 </author>
                 <author ref="#person__dumont-bbaw-de">
@@ -16,7 +16,7 @@
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>dumont@bbaw.de</email>
                 </author>
                 <author ref="#person__grabsch-bbaw-de">
@@ -24,7 +24,7 @@
                         <surname>Grabsch</surname>
                         <forename>Sascha</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>grabsch@bbaw.de</email>
                 </author>
             </titleStmt>

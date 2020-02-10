@@ -8,7 +8,7 @@
                         <surname>Mukhametov</surname>
                         <forename>Sergey</forename>
                     </persName>
-                    <affiliation>Institut für Geoinformatik, WWU Münster, Deutschland</affiliation>
+                    <affiliation ref="#org__235">Institut für Geoinformatik, WWU Münster, Deutschland</affiliation>
                     <email>s.mukhametov@gmail.com</email>
                 </author>
                 <author ref="#person__wolfgang-kesselheim-ds-uzh-ch">
@@ -16,7 +16,7 @@
                         <surname>Kesselheim</surname>
                         <forename>Wolfgang</forename>
                     </persName>
-                    <affiliation>Sprache und Raum Laboratorium, Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__236">Sprache und Raum Laboratorium, Universität Zürich, Schweiz</affiliation>
                     <email>wolfgang.kesselheim@ds.uzh.ch</email>
                 </author>
                 <author ref="#person__c-brandenberger-access-uzh-ch">
@@ -24,7 +24,7 @@
                         <surname>Brandenbeger</surname>
                         <forename>Christina</forename>
                     </persName>
-                    <affiliation>Sprache und Raum Laboratorium, Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__236">Sprache und Raum Laboratorium, Universität Zürich, Schweiz</affiliation>
                     <email>c.brandenberger@access.uzh.ch</email>
                 </author>
             </titleStmt>

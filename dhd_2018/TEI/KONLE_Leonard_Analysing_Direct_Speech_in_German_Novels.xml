@@ -11,7 +11,7 @@
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__leonard-konle-uni-wuerzburg-de">
@@ -19,7 +19,7 @@
                         <surname>Konle</surname>
                         <forename>Leonard</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>leonard.konle@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__zehe-informatik-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Zehe</surname>
                         <forename>Albin</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>zehe@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -35,7 +35,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__markus-krug-uni-wuerzburg-de">
@@ -43,7 +43,7 @@
                         <surname>Krug</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

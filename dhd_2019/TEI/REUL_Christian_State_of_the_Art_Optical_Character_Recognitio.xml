@@ -8,7 +8,7 @@
                         <surname>Reul</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>christian.reul@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__uwe-springmann-net">
@@ -16,7 +16,7 @@
                         <surname>Springmann</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>uwe@springmann.net</email>
                 </author>
                 <author ref="#person__christoph-wick-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Wick</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>christoph.wick@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__frank-puppe-uni-wuerzburg-de">
@@ -32,7 +32,7 @@
                         <surname>Puppe</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>frank.puppe@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

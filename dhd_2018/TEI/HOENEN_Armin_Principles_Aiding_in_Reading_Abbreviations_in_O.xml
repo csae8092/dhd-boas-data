@@ -11,7 +11,7 @@
                         <surname>Hoenen</surname>
                         <forename>Armin</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Germany</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt, Germany</affiliation>
                     <email>hoenen@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__samushia-em-uni-frankfurt-de">
@@ -19,7 +19,7 @@
                         <surname>Samushia</surname>
                         <forename>Lela</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Germany</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt, Germany</affiliation>
                     <email>samushia@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

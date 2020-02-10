@@ -8,7 +8,7 @@
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation>Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>nantke@uni-wuppertal.de</email>
                 </author>
                 <author ref="#person__schlupko-uni-wuppertal-de">
@@ -16,7 +16,7 @@
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
                     </persName>
-                    <affiliation>Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>schlupko@uni-wuppertal.de</email>
                 </author>
             </titleStmt>

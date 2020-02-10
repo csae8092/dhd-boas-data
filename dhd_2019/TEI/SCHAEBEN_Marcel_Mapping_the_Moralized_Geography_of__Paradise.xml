@@ -8,7 +8,7 @@
                         <surname>Schaeben</surname>
                         <forename>Marcel</forename>
                     </persName>
-                    <affiliation>Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__1">Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland</affiliation>
                     <email>m.schaeben@uni-koeln.de</email>
                 </author>
                 <author ref="#person__elkhatib-randa-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>El Khatib</surname>
                         <forename>Randa</forename>
                     </persName>
-                    <affiliation>Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
+                    <affiliation ref="#org__294">Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
                     <email>elkhatib.randa@gmail.com</email>
                 </author>
             </titleStmt>

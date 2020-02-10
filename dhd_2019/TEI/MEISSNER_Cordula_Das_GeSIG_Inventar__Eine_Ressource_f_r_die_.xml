@@ -8,7 +8,7 @@
                         <surname>Meißner</surname>
                         <forename>Cordula</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
                     <email>cordula.meissner@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__f-wallner-rz-uni-leipzig-de">
@@ -16,7 +16,7 @@
                         <surname>Wallner</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
                     <email>f.wallner@rz.uni-leipzig.de</email>
                 </author>
             </titleStmt>

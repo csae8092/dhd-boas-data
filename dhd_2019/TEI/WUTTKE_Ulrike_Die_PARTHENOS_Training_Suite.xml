@@ -8,7 +8,7 @@
                         <surname>Wuttke</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>FH Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__240">FH Potsdam, Deutschland</affiliation>
                     <email>wuttke@fh-potsdam.de</email>
                 </author>
                 <author ref="#person__neuroth-fh-potsdam-de">
@@ -16,7 +16,7 @@
                         <surname>Neuroth</surname>
                         <forename>Heike</forename>
                     </persName>
-                    <affiliation>FH Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__240">FH Potsdam, Deutschland</affiliation>
                     <email>neuroth@fh-potsdam.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Dimpel</surname>
                         <forename>Friedrich Michael</forename>
                     </persName>
-                    <affiliation>FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</affiliation>
+                    <affiliation ref="#org__4">FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</affiliation>
                     <email>mail@dimpel.de</email>
                 </author>
             </titleStmt>

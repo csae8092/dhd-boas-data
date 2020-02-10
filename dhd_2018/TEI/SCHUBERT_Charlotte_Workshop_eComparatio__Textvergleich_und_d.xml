@@ -8,7 +8,7 @@
                         <surname>Schubert</surname>
                         <forename>Charlotte</forename>
                     </persName>
-                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>schubert@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__hannes-kahl-uni-leipzig-de">
@@ -16,7 +16,7 @@
                         <surname>Kahl</surname>
                         <forename>Hannes</forename>
                     </persName>
-                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>hannes.kahl@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__friedrich-meins-uni-leipzig-de">
@@ -24,7 +24,7 @@
                         <surname>Meins</surname>
                         <forename>Friedrich</forename>
                     </persName>
-                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>friedrich_meins@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__oliver-braeckel-uni-leipzig-de">
@@ -32,7 +32,7 @@
                         <surname>Bräckel</surname>
                         <forename>Oliver</forename>
                     </persName>
-                    <affiliation>Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig\Historisches Seminar, Deutschland</affiliation>
                     <email>oliver.braeckel@uni-leipzig.de</email>
                 </author>
             </titleStmt>

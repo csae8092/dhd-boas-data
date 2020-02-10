@@ -11,7 +11,7 @@
                         <surname>Goedel</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__1">Cologne Center for eHumanities</affiliation>
                     <email>mgoedel@uni-koeln.de</email>
                 </author>
                 <author ref="#person__sebastian-zimmer-uni-koeln-de">
@@ -19,7 +19,7 @@
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation>Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__1">Cologne Center for eHumanities</affiliation>
                     <email>sebastian.zimmer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__johannes-schmidt-uni-bielefeld-de">
@@ -27,7 +27,7 @@
                         <surname>Schmidt</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation>Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</affiliation>
+                    <affiliation ref="#org__83">Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</affiliation>
                     <email>johannes.schmidt@uni-bielefeld.de</email>
                 </author>
             </titleStmt>

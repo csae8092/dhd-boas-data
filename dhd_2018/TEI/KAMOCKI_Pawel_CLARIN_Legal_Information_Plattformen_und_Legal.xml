@@ -8,7 +8,7 @@
                         <surname>Kamocki</surname>
                         <forename>Pawel</forename>
                     </persName>
-                    <affiliation>WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
+                    <affiliation ref="#org__76 #org__78 #org__77">WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
                     <email>pawel.kamocki@gmail.com</email>
                 </author>
                 <author ref="#person__eketzan-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>Ketzan</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation>Birkbeck, University of Lonfon</affiliation>
+                    <affiliation ref="#org__79">Birkbeck, University of Lonfon</affiliation>
                     <email>eketzan@gmail.com</email>
                 </author>
                 <author ref="#person__j-wildgans-googlemail-com">
@@ -24,7 +24,7 @@
                         <surname>Wildgans</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation>IDS Mannheim; Universität Mannheim</affiliation>
+                    <affiliation ref="#org__78 #org__81">IDS Mannheim; Universität Mannheim</affiliation>
                     <email>j.wildgans@googlemail.com</email>
                 </author>
                 <author ref="#person__witt-ids-mannheim-de">
@@ -32,7 +32,7 @@
                         <surname>Witt</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>IDS Mannheim; Universität zu Köln</affiliation>
+                    <affiliation ref="#org__78 #org__0">IDS Mannheim; Universität zu Köln</affiliation>
                     <email>witt@ids-mannheim.de</email>
                 </author>
             </titleStmt>

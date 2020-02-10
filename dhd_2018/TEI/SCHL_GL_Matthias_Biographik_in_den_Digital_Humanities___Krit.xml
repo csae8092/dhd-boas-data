@@ -11,7 +11,7 @@
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>matthias.schloegl@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__agoston-bernad-oeaw-ac-at">
@@ -19,7 +19,7 @@
                         <surname>Bernád</surname>
                         <forename>Ágoston</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>agoston.bernad@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__maximilian-kaiser-oeaw-ac-at">
@@ -27,7 +27,7 @@
                         <surname>Kaiser</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>maximilian.kaiser@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__katalin-lejtocicz-oeaw-ac-at">
@@ -35,7 +35,7 @@
                         <surname>Lejtovicz</surname>
                         <forename>Katalin</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>katalin.lejtocicz@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__peter-rumpolt-oeaw-ac-at">
@@ -43,7 +43,7 @@
                         <surname>Rumpolt</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>peter.rumpolt@oeaw.ac.at</email>
                 </author>
             </titleStmt>

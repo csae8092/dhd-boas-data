@@ -11,7 +11,7 @@
                         <surname>Lordick</surname>
                         <forename>Harald</forename>
                     </persName>
-                    <affiliation>Steinheim-Institut, Deutschland</affiliation>
+                    <affiliation ref="#org__182">Steinheim-Institut, Deutschland</affiliation>
                     <email>lor@steinheim-institut.org</email>
                 </author>
                 <author ref="#person__mac-steinheim-institut-org">
@@ -19,7 +19,7 @@
                         <surname>Mache</surname>
                         <forename>Beata</forename>
                     </persName>
-                    <affiliation>SUB Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__183">SUB Göttingen, Deutschland</affiliation>
                     <email>mac@steinheim-institut.org</email>
                 </author>
             </titleStmt>

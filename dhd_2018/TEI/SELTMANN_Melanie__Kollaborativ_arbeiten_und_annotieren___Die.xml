@@ -8,7 +8,7 @@
                         <surname>Seltmann</surname>
                         <forename>Melanie</forename>
                     </persName>
-                    <affiliation>Universität Wien</affiliation>
+                    <affiliation ref="#org__6">Universität Wien</affiliation>
                     <email>melanie.seltmann@univie.ac.at</email>
                 </author>
                 <author ref="#person__ludwig-maximilian-breuer-univie-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Breuer</surname>
                         <forename>Ludwig Maximilian</forename>
                     </persName>
-                    <affiliation>Universität Wien</affiliation>
+                    <affiliation ref="#org__6">Universität Wien</affiliation>
                     <email>ludwig.maximilian.breuer@univie.ac.at</email>
                 </author>
                 <author ref="#person__barbara-heinisch-univie-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Heinisch</surname>
                         <forename>Barbara</forename>
                     </persName>
-                    <affiliation>Universität Wien</affiliation>
+                    <affiliation ref="#org__6">Universität Wien</affiliation>
                     <email>barbara.heinisch@univie.ac.at</email>
                 </author>
             </titleStmt>

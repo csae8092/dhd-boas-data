@@ -8,7 +8,7 @@
                         <surname>Staecker</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>ULB Darmstadt, Deutschland</affiliation>
+                    <affiliation ref="#org__245">ULB Darmstadt, Deutschland</affiliation>
                     <email>thomas.staecker@ulb.tu-darmstadt.de</email>
                 </author>
             </titleStmt>

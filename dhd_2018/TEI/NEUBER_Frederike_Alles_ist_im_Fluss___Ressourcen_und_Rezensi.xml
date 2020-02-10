@@ -11,7 +11,7 @@
                         <surname>Neuber</surname>
                         <forename>Frederike</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__51 #org__34">Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>neuber.frederike@gmail.com</email>
                 </author>
                 <author ref="#person__ulrike-henny-uni-wuerzburg-de">
@@ -19,7 +19,7 @@
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</affiliation>
+                    <affiliation ref="#org__51 #org__13">Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -27,7 +27,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
+                    <affiliation ref="#org__51 #org__0">Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
                 <author ref="#person__franz-fischer-uni-koeln-de">
@@ -35,7 +35,7 @@
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
+                    <affiliation ref="#org__51 #org__0">Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
             </titleStmt>

@@ -11,7 +11,7 @@
                         <surname>Romanello</surname>
                         <forename>Matteo</forename>
                     </persName>
-                    <affiliation>Deutsches Archäologisches Institut, Deutschland</affiliation>
+                    <affiliation ref="#org__107">Deutsches Archäologisches Institut, Deutschland</affiliation>
                     <email>matteo.romanello@dainst.de</email>
                 </author>
                 <author ref="#person__tobias-gradl-uni-bamberg-de">
@@ -19,7 +19,7 @@
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation>Universität Bamberg, Deutschland</affiliation>
+                    <affiliation ref="#org__108">Universität Bamberg, Deutschland</affiliation>
                     <email>tobias.gradl@uni-bamberg.de</email>
                 </author>
             </titleStmt>

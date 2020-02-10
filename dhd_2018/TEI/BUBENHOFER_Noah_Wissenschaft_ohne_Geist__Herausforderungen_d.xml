@@ -8,7 +8,7 @@
                         <surname>Bubenhofer</surname>
                         <forename>Noah</forename>
                     </persName>
-                    <affiliation>Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__89">Universität Zürich, Schweiz</affiliation>
                     <email>bubenhofer@cl.uzh.ch</email>
                 </author>
             </titleStmt>

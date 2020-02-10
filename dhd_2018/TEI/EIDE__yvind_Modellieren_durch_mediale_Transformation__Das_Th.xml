@@ -8,7 +8,7 @@
                         <surname>Wieners</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>jan.wieners@uni-koeln.de</email>
                 </author>
                 <author ref="#person__zoe-schubert-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Schubert</surname>
                         <forename>Zoe</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>zoe.schubert@uni-koeln.de</email>
                 </author>
                 <author ref="#person__oeide-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Eide</surname>
                         <forename>Øyvind</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>oeide@uni-koeln.de</email>
                 </author>
             </titleStmt>

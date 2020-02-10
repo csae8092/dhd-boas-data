@@ -8,7 +8,7 @@
                         <surname>Chiarcos</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>chiarcos@informatik.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__donandt-informatik-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Donandt</surname>
                         <forename>Kathrin</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>donandt@informatik.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__ionov-informatik-uni-frankfurt-de">
@@ -24,7 +24,7 @@
                         <surname>Ionov</surname>
                         <forename>Maxim</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>ionov@informatik.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__pawlowski-lingua-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Rind-Pawlowski</surname>
                         <forename>Monika</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>pawlowski@lingua.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__sargsyan-em-uni-frankfurt-de">
@@ -40,7 +40,7 @@
                         <surname>Sargsian</surname>
                         <forename>Hasmik</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>Sargsyan@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__wichersschreur-em-uni-frankfurt-de">
@@ -48,7 +48,7 @@
                         <surname>Wichers Schreur</surname>
                         <forename>Jesse</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>wichersschreur@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Mellmann</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>katja.mellmann@phil.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__keli-du-stud-mail-uni-wuerzburg-de">
@@ -16,7 +16,7 @@
                         <surname>Du</surname>
                         <forename>Keli</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>keli.du@stud-mail.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

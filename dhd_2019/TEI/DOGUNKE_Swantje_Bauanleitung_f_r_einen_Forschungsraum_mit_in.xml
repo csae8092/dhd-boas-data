@@ -8,7 +8,7 @@
                         <surname>Dogunke</surname>
                         <forename>Swantje</forename>
                     </persName>
-                    <affiliation>Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
+                    <affiliation ref="#org__21">Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
                     <email>swantje.dogunke@klassik-stiftung.de</email>
                 </author>
                 <author ref="#person__steyer-hab-de">
@@ -16,7 +16,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__233">Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
             </titleStmt>

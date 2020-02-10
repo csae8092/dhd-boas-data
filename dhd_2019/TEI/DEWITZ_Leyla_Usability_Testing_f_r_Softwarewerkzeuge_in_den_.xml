@@ -8,7 +8,7 @@
                         <surname>Dewitz</surname>
                         <forename>Leyla</forename>
                     </persName>
-                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dresden, Deutschland</affiliation>
                     <email>leyla.dewitz@tu-dresden.de</email>
                 </author>
                 <author ref="#person__sander-muenster-tu-dresden-de">
@@ -16,7 +16,7 @@
                         <surname>Münster</surname>
                         <forename>Sander</forename>
                     </persName>
-                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
                 <author ref="#person__florian-niebling-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Niebling</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>florian.niebling@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

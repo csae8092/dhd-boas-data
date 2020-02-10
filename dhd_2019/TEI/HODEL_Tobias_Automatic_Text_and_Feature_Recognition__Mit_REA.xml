@@ -8,7 +8,7 @@
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation>Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__176">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                     <email>tobias.hodel@uzh.ch</email>
                 </author>
                 <author ref="#person__diem-cvl-tuwien-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Diem</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Computer Vision Lab, TU Wien</affiliation>
+                    <affiliation ref="#org__309">Computer Vision Lab, TU Wien</affiliation>
                     <email>diem@cvl.tuwien.ac.at</email>
                 </author>
                 <author ref="#person__sofia-oliveiraares-epfl-ch">
@@ -24,7 +24,7 @@
                         <surname>Oliveira Ares</surname>
                         <forename>Sofia</forename>
                     </persName>
-                    <affiliation>Digital Humanities Lab, EPF Lausanne</affiliation>
+                    <affiliation ref="#org__310">Digital Humanities Lab, EPF Lausanne</affiliation>
                     <email>sofia.oliveiraares@epfl.ch</email>
                 </author>
                 <author ref="#person__max-weidemann-uni-rostock-de">
@@ -32,7 +32,7 @@
                         <surname>Weidemann</surname>
                         <forename>Max</forename>
                     </persName>
-                    <affiliation>Citlab, Universität Rostock</affiliation>
+                    <affiliation ref="#org__311">Citlab, Universität Rostock</affiliation>
                     <email>max.weidemann@uni-rostock.de</email>
                 </author>
             </titleStmt>

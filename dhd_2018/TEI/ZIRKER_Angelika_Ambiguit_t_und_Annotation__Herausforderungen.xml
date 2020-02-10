@@ -8,7 +8,7 @@
                         <surname>Zirker</surname>
                         <forename>Angelika</forename>
                     </persName>
-                    <affiliation>Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität zu Berlin</affiliation>
+                    <affiliation ref="#org__48 #org__27">Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität zu Berlin</affiliation>
                     <email>angelika.zirker@uni-tuebingen.de</email>
                 </author>
             </titleStmt>

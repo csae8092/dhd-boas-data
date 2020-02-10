@@ -11,7 +11,7 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>frafis@gmail.com</email>
                 </author>
                 <author ref="#person__ingo-boerner-univie-ac-at">
@@ -19,7 +19,7 @@
                         <surname>Ingo</surname>
                         <forename>Börner</forename>
                     </persName>
-                    <affiliation>Universität Wien</affiliation>
+                    <affiliation ref="#org__6">Universität Wien</affiliation>
                     <email>ingo.boerner@univie.ac.at</email>
                 </author>
                 <author ref="#person__goebel-sub-uni-goettingen-de">
@@ -27,7 +27,7 @@
                         <surname>Mathias</surname>
                         <forename>Göbel</forename>
                     </persName>
-                    <affiliation>WU Wien</affiliation>
+                    <affiliation ref="#org__305">WU Wien</affiliation>
                     <email>goebel@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__angelika-hechtl-wu-ac-at">
@@ -35,7 +35,7 @@
                         <surname>Angelika</surname>
                         <forename>Hechtl</forename>
                     </persName>
-                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
+                    <affiliation ref="#org__39">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
                     <email>angelika.hechtl@wu.ac.at</email>
                 </author>
                 <author ref="#person__contact-christopherkittel-eu">
@@ -43,7 +43,7 @@
                         <surname>Christopher</surname>
                         <forename>Kittel</forename>
                     </persName>
-                    <affiliation>Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__191">Karl-Franzens-Universität Graz</affiliation>
                     <email>contact@christopherkittel.eu</email>
                 </author>
                 <author ref="#person__cmil-hashtable-de">
@@ -51,7 +51,7 @@
                         <surname>Carsten</surname>
                         <forename>Milling</forename>
                     </persName>
-                    <affiliation>Berlin</affiliation>
+                    <affiliation ref="#org__193">Berlin</affiliation>
                     <email>cmil@hashtable.de</email>
                 </author>
                 <author ref="#person__trilcke-uni-potsdam-de">
@@ -59,7 +59,7 @@
                         <surname>Peer</surname>
                         <forename>Trilcke</forename>
                     </persName>
-                    <affiliation>Universität Potsdam</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam</affiliation>
                     <email>trilcke@uni-potsdam.de</email>
                 </author>
             </titleStmt>

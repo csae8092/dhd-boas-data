@@ -8,7 +8,7 @@
                         <surname>Schwengelbeck</surname>
                         <forename>Isabel</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>schwengelbeck.isabel@gmail.com</email>
                 </author>
                 <author ref="#person__dwahl-mail-uni-paderborn-de">
@@ -16,7 +16,7 @@
                         <surname>Wahl</surname>
                         <forename>Dominik</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>dwahl@mail.uni-paderborn.de</email>
                 </author>
                 <author ref="#person__foesterkarl-gmail-com">
@@ -24,7 +24,7 @@
                         <surname>Foester</surname>
                         <forename>Karl</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>foesterkarl@gmail.com</email>
                 </author>
                 <author ref="#person__dennisfriedl-paderborn-com">
@@ -32,7 +32,7 @@
                         <surname>Friedl</surname>
                         <forename>Dennis</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>dennisfriedl@paderborn.com</email>
                 </author>
                 <author ref="#person__fabian-fluss92-gmx-de">
@@ -40,7 +40,7 @@
                         <surname>Fluss</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>fabian.fluss92@gmx.de</email>
                 </author>
                 <author ref="#person__imersch-campus-uni-paderborn-de">
@@ -48,7 +48,7 @@
                         <surname>Mersch</surname>
                         <forename>Isabelle</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>imersch@campus.uni-paderborn.de</email>
                 </author>
                 <author ref="#person__vossf-mail-uni-paderborn-de">
@@ -56,7 +56,7 @@
                         <surname>Voss</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>vossf@mail.uni-paderborn.de</email>
                 </author>
                 <author ref="#person__martin-droege-upb-de">
@@ -64,7 +64,7 @@
                         <surname>Dröge</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>martin.droege@upb.de</email>
                 </author>
                 <author ref="#person__peter-stadler-upb-de">
@@ -72,7 +72,7 @@
                         <surname>Stadler</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>peter.stadler@upb.de</email>
                 </author>
                 <author ref="#person__ramon-voges-upb-de">
@@ -80,7 +80,7 @@
                         <surname>Voges</surname>
                         <forename>Ramon</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>ramon.voges@upb.de</email>
                 </author>
             </titleStmt>

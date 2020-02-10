@@ -11,7 +11,7 @@
                         <surname>Klaus</surname>
                         <forename>Carsten</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>s8caklau@stud.uni-saarland.de</email>
                 </author>
                 <author ref="#person__fankhauser-ids-mannheim-de">
@@ -19,7 +19,7 @@
                         <surname>Fankhauser</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>fankhauser@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__dklakow-lsv-uni-saarland-de">
@@ -27,7 +27,7 @@
                         <surname>Klakow</surname>
                         <forename>Dietrich</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>dklakow@lsv.uni-saarland.de</email>
                 </author>
             </titleStmt>

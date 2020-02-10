@@ -8,7 +8,7 @@
                         <surname>Wehrheim</surname>
                         <forename>Lino</forename>
                     </persName>
-                    <affiliation>Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__33">Universität Regensburg, Deutschland</affiliation>
                     <email>lino.wehrheim@ur.de</email>
                 </author>
             </titleStmt>

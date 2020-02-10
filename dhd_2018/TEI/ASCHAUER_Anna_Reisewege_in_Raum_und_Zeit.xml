@@ -8,7 +8,7 @@
                         <surname>Aschauer</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation>Institut für Europäische Geschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__127">Institut für Europäische Geschichte, Deutschland</affiliation>
                     <email>aschauer@ieg-mainz.de</email>
                 </author>
                 <author ref="#person__buechler-ieg-mainz-de">
@@ -16,7 +16,7 @@
                         <surname>Büchler</surname>
                         <forename>Marco</forename>
                     </persName>
-                    <affiliation>Institut für Europäische Geschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__127">Institut für Europäische Geschichte, Deutschland</affiliation>
                     <email>buechler@ieg-mainz.de</email>
                 </author>
                 <author ref="#person__tobias-gradl-uni-bamberg-de">
@@ -24,7 +24,7 @@
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation>Otto-Friedrich-Universität Bamberg</affiliation>
+                    <affiliation ref="#org__129">Otto-Friedrich-Universität Bamberg</affiliation>
                     <email>tobias.gradl@uni-bamberg.de</email>
                 </author>
                 <author ref="#person__andreas-henrich-uni-bamberg-de">
@@ -32,7 +32,7 @@
                         <surname>Henrich</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Otto-Friedrich-Universität Bamberg</affiliation>
+                    <affiliation ref="#org__129">Otto-Friedrich-Universität Bamberg</affiliation>
                     <email>andreas.henrich@uni-bamberg.de</email>
                 </author>
             </titleStmt>

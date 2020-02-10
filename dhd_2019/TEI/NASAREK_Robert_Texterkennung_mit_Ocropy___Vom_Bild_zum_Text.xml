@@ -8,7 +8,7 @@
                         <surname>Nasarek</surname>
                         <forename>Robert</forename>
                     </persName>
-                    <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__59">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>robert.nasarek@geschichte.uni-halle.de</email>
                 </author>
                 <author ref="#person__andreas-mueller-geschichte-uni-halle-de">
@@ -16,7 +16,7 @@
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__59">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>andreas.mueller@geschichte.uni-halle.de</email>
                 </author>
             </titleStmt>

@@ -11,7 +11,7 @@
                         <surname>Hoffmann</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>christoph.hoffmann@oeaw.ac.at</email>
                 </author>
             </titleStmt>

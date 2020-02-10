@@ -11,7 +11,7 @@
                         <surname>Schüller</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>RWTH Aachen, Deutschland</affiliation>
+                    <affiliation ref="#org__246">RWTH Aachen, Deutschland</affiliation>
                     <email>schueller@humtec.rwth-aachen.de</email>
                 </author>
                 <author ref="#person__mittelberg-humtec-rwth-aachen-de">
@@ -19,7 +19,7 @@
                         <surname>Mittelberg</surname>
                         <forename>Irene</forename>
                     </persName>
-                    <affiliation>RWTH Aachen, Deutschland</affiliation>
+                    <affiliation ref="#org__246">RWTH Aachen, Deutschland</affiliation>
                     <email>mittelberg@humtec.rwth-aachen.de</email>
                 </author>
             </titleStmt>

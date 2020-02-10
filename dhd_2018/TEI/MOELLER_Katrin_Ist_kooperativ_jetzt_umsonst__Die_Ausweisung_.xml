@@ -8,7 +8,7 @@
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__59">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>katrin.moeller@geschichte.uni-halle.de</email>
                 </author>
             </titleStmt>

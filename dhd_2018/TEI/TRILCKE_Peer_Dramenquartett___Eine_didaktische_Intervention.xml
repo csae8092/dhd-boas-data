@@ -8,7 +8,7 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
                 <author ref="#person__contact-christopherkittel-eu">
@@ -16,7 +16,7 @@
                         <surname>Kittel</surname>
                         <forename>Christopher</forename>
                     </persName>
-                    <affiliation>Karl-Franzens-Universität Graz; Open Knowledge Forum Österreich</affiliation>
+                    <affiliation ref="#org__191 #org__192">Karl-Franzens-Universität Graz; Open Knowledge Forum Österreich</affiliation>
                     <email>contact@christopherkittel.eu</email>
                 </author>
                 <author ref="#person__cmil-hashtable-de">
@@ -24,7 +24,7 @@
                         <surname>Milling</surname>
                         <forename>Carsten</forename>
                     </persName>
-                    <affiliation>Berlin</affiliation>
+                    <affiliation ref="#org__193">Berlin</affiliation>
                     <email>cmil@hashtable.de</email>
                 </author>
                 <author ref="#person__trilcke-uni-potsdam-de">
@@ -32,7 +32,7 @@
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>trilcke@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__jana-a-wolf-hotmail-com">
@@ -40,7 +40,7 @@
                         <surname>Wolf</surname>
                         <forename>Jana</forename>
                     </persName>
-                    <affiliation>Mittelbayerische Zeitung Regensburg</affiliation>
+                    <affiliation ref="#org__194">Mittelbayerische Zeitung Regensburg</affiliation>
                     <email>jana_a_wolf@hotmail.com</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Hamisch</surname>
                         <forename>Juliane</forename>
                     </persName>
-                    <affiliation>Germanisches Nationalmuseum, Nürnberg</affiliation>
+                    <affiliation ref="#org__32">Germanisches Nationalmuseum, Nürnberg</affiliation>
                     <email>j.hamisch@gnm.de</email>
                 </author>
                 <author ref="#person__p-grosse-gnm-de">
@@ -16,7 +16,7 @@
                         <surname>Große</surname>
                         <forename>Peggy</forename>
                     </persName>
-                    <affiliation>Germanisches Nationalmuseum, Nürnberg</affiliation>
+                    <affiliation ref="#org__32">Germanisches Nationalmuseum, Nürnberg</affiliation>
                     <email>p.grosse@gnm.de</email>
                 </author>
             </titleStmt>

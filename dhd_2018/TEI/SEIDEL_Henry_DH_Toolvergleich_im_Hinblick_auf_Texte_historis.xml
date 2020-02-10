@@ -8,7 +8,7 @@
                         <surname>Aehnlich</surname>
                         <forename>Barbara</forename>
                     </persName>
-                    <affiliation>FSU Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__126">FSU Jena, Deutschland</affiliation>
                     <email>barbara.aehnlich@uni-jena.de</email>
                 </author>
                 <author ref="#person__hnrseidel-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>Seidel</surname>
                         <forename>Henry</forename>
                     </persName>
-                    <affiliation>HU Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__43">HU Berlin, Deutschland</affiliation>
                     <email>hnrseidel@gmail.com</email>
                 </author>
             </titleStmt>

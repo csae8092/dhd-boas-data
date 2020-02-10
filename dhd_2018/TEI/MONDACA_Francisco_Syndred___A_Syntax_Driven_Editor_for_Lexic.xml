@@ -8,7 +8,7 @@
                         <surname>Mondaca</surname>
                         <forename>Francisco</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>f.mondaca@uni-koeln.de</email>
                 </author>
                 <author ref="#person__rols-spinfo-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Rolshoven</surname>
                         <forename>Jürgen</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>rols@spinfo.uni-koeln.de</email>
                 </author>
                 <author ref="#person__philip-schildkamp-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Schildkamp</surname>
                         <forename>Philip</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>philip.schildkamp@uni-koeln.de</email>
                 </author>
                 <author ref="#person__vogt-andreas-uni-koeln-de">
@@ -32,7 +32,7 @@
                         <surname>Vogt</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>vogt.andreas@uni-koeln.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Koch</surname>
                         <forename>Gertraud</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>gertraud.koch@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__lina-franken-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Franken</surname>
                         <forename>Lina</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>lina.franken@uni-hamburg.de</email>
                 </author>
             </titleStmt>

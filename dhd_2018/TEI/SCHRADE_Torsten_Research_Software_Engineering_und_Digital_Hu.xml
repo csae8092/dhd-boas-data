@@ -8,7 +8,7 @@
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>Torsten.Schrade@adwmainz.de</email>
                 </author>
                 <author ref="#person__czmiel-bbaw-de">
@@ -16,7 +16,7 @@
                         <surname>Czmiel</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>czmiel@bbaw.de</email>
                 </author>
                 <author ref="#person__stephan-druskat-hu-berlin-de">
@@ -24,7 +24,7 @@
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
             </titleStmt>

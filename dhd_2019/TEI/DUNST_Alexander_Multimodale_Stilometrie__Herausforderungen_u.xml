@@ -8,7 +8,7 @@
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>alexander.dunst@gmail.com</email>
                 </author>
                 <author ref="#person__rst-upb-de">
@@ -16,7 +16,7 @@
                         <surname>Hartel</surname>
                         <forename>Rita</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>rst@upb.de</email>
                 </author>
             </titleStmt>

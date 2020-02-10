@@ -8,7 +8,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__20 #org__19">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
                 <author ref="#person__neumann-maxweberstiftung-de">
@@ -16,7 +16,7 @@
                         <surname>Neumann</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__44">Max Weber Stiftung</affiliation>
                     <email>neumann@maxweberstiftung.de</email>
                 </author>
                 <author ref="#person__melanie-seltmann-univie-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Seltmann</surname>
                         <forename>Melanie</forename>
                     </persName>
-                    <affiliation>Universität Wien</affiliation>
+                    <affiliation ref="#org__6">Universität Wien</affiliation>
                     <email>melanie.seltmann@univie.ac.at</email>
                 </author>
                 <author ref="#person__walter-scholger-uni-graz-at">
@@ -32,7 +32,7 @@
                         <surname>Walter</surname>
                         <forename>Scholger</forename>
                     </persName>
-                    <affiliation>Universität Graz</affiliation>
+                    <affiliation ref="#org__7">Universität Graz</affiliation>
                     <email>walter.scholger@uni-graz.at</email>
                 </author>
             </titleStmt>

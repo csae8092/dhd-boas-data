@@ -8,7 +8,7 @@
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>MLU Halle/Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__250">MLU Halle/Wittenberg, Deutschland</affiliation>
                     <email>andreas.mueller@geschichte.uni-halle.de</email>
                 </author>
             </titleStmt>

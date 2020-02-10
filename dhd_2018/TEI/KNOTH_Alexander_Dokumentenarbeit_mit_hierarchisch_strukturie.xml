@@ -8,7 +8,7 @@
                         <surname>Knoth</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>alexander.knoth@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__stede-uni-potsdam-de">
@@ -16,7 +16,7 @@
                         <surname>Stede</surname>
                         <forename>Manfred</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>stede@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__haegert-uni-potsdam-de">
@@ -24,7 +24,7 @@
                         <surname>Hägert</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>haegert@uni-potsdam.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>martina.scholger@uni-graz.at</email>
                 </author>
             </titleStmt>

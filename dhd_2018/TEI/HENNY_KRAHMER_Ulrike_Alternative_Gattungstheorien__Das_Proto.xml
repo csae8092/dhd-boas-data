@@ -11,7 +11,7 @@
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__katrin-betz-uni-wuerzburg-de">
@@ -19,7 +19,7 @@
                         <surname>Betz</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>katrin.betz@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__schloer-informatik-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Schlör</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>schloer@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -35,7 +35,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

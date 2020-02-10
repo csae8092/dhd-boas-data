@@ -11,7 +11,7 @@
                         <surname>Blessing</surname>
                         <forename>Andre</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>andre.blessing@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
@@ -19,7 +19,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
             </titleStmt>

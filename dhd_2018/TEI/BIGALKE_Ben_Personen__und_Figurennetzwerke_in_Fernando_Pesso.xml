@@ -11,7 +11,7 @@
                         <surname>Bigalke</surname>
                         <forename>Ben</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>bbigalke@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__sdrach-smail-uni-koeln-de">
@@ -19,7 +19,7 @@
                         <surname>Drach</surname>
                         <forename>Sviatoslav</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>sdrach@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__ulrike-henny-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__pmpsepulveda-gmail-com">
@@ -35,7 +35,7 @@
                         <surname>Sepúlveda</surname>
                         <forename>Pedro</forename>
                     </persName>
-                    <affiliation>Neue Universität Lissabon, Portugal</affiliation>
+                    <affiliation ref="#org__112">Neue Universität Lissabon, Portugal</affiliation>
                     <email>pmpsepulveda@gmail.com</email>
                 </author>
                 <author ref="#person__ctheise2-uni-koeln-de">
@@ -43,7 +43,7 @@
                         <surname>Theisen</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>ctheise2@uni-koeln.de</email>
                 </author>
             </titleStmt>

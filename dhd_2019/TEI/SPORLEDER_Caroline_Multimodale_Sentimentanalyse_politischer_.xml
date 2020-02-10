@@ -11,7 +11,7 @@
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>stefan.ziehe@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__csporled-gwdg-de">
@@ -19,7 +19,7 @@
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
-                    <affiliation>GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>csporled@gwdg.de</email>
                 </author>
             </titleStmt>

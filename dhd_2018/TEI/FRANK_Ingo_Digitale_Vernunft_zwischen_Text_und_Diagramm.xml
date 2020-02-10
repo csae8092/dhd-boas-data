@@ -11,7 +11,7 @@
                         <surname>Frank</surname>
                         <forename>Ingo</forename>
                     </persName>
-                    <affiliation>Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)</affiliation>
+                    <affiliation ref="#org__125">Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)</affiliation>
                     <email>frank@ios-regensburg.de</email>
                 </author>
             </titleStmt>

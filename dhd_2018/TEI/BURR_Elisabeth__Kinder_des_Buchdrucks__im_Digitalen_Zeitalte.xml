@@ -8,7 +8,7 @@
                         <surname>Burr</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
                     <email>elisabeth.burr@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__uf28bope-studserv-uni-leipzig-de">
@@ -16,7 +16,7 @@
                         <surname>Fußbahn</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
                     <email>uf28bope@studserv.uni-leipzig.de</email>
                 </author>
             </titleStmt>

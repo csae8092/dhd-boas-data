@@ -8,7 +8,7 @@
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__uslu-em-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
                     </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>uslu@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__gleim-em-uni-frankfurt-de">
@@ -24,7 +24,7 @@
                         <surname>Gleim</surname>
                         <forename>Rüdiger</forename>
                     </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>gleim@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__baumartz-stud-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Baumartz</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>baumartz@stud.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

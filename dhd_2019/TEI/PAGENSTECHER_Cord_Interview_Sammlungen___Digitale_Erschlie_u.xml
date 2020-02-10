@@ -8,7 +8,7 @@
                         <surname>Pagenstecher</surname>
                         <forename>Cord</forename>
                     </persName>
-                    <affiliation>Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland</affiliation>
                     <email>cord.pagenstecher@cedis.fu-berlin.de</email>
                 </author>
             </titleStmt>

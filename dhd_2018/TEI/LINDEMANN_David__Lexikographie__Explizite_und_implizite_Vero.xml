@@ -11,7 +11,7 @@
                         <surname>Lindemann</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
                     <email>david.lindemann@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__fritz-kliche-uni-hildesheim-de">
@@ -19,7 +19,7 @@
                         <surname>Kliche</surname>
                         <forename>Fritz</forename>
                     </persName>
-                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
                     <email>fritz.kliche@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__kutzner-uni-hildesheim-de">
@@ -27,7 +27,7 @@
                         <surname>Kutzner</surname>
                         <forename>Kristin</forename>
                     </persName>
-                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
                     <email>kutzner@uni-hildesheim.de</email>
                 </author>
             </titleStmt>

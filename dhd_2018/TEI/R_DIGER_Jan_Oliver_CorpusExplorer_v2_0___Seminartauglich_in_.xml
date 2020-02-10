@@ -8,7 +8,7 @@
                         <surname>Rüdiger</surname>
                         <forename>Jan Oliver</forename>
                     </persName>
-                    <affiliation>Universität Kassel, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Kassel, Deutschland</affiliation>
                     <email>jan.ruediger@uni-kassel.de</email>
                 </author>
             </titleStmt>

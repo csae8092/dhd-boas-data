@@ -8,7 +8,7 @@
                         <surname>Wachter</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>christian.wachter@stud.uni-goettingen.de</email>
                 </author>
             </titleStmt>

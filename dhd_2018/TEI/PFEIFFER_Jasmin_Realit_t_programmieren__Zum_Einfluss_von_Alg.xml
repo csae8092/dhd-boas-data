@@ -11,7 +11,7 @@
                         <surname>Pfeiffer</surname>
                         <forename>Jasmin</forename>
                     </persName>
-                    <affiliation>FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__4">FAU Erlangen, Deutschland</affiliation>
                     <email>jasmin_pfeiffer@gmx.de</email>
                 </author>
             </titleStmt>

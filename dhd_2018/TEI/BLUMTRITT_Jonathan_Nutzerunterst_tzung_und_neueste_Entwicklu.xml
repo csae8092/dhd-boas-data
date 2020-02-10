@@ -9,7 +9,7 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__f-rau-uni-koeln-de">
@@ -17,7 +17,7 @@
                         <surname>Rau</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>f.rau@uni-koeln.de</email>
                 </author>
             </titleStmt>

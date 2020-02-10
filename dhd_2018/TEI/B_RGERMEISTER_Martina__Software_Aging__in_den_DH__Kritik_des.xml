@@ -8,7 +8,7 @@
                         <surname>Bürgermeister</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__116">ZIM-ACDH, Universität Graz, Österreich</affiliation>
                     <email>martina.buergermeister@uni-graz.at</email>
                 </author>
                 <author ref="#person__gerlinde-schneider-uni-graz-at">
@@ -16,7 +16,7 @@
                         <surname>Schneider</surname>
                         <forename>Gerlinde</forename>
                     </persName>
-                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__116">ZIM-ACDH, Universität Graz, Österreich</affiliation>
                     <email>gerlinde.schneider@uni-graz.at</email>
                 </author>
                 <author ref="#person__stephan-makowski-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Makowski</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__197">CCeH, Universität Köln, Deutschland</affiliation>
                     <email>stephan.makowski@uni-koeln.de</email>
                 </author>
                 <author ref="#person__daniel-jeller-icar-us-eu">
@@ -32,7 +32,7 @@
                         <surname>Jeller</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>ICARUS, Wien, Österreich</affiliation>
+                    <affiliation ref="#org__198">ICARUS, Wien, Österreich</affiliation>
                     <email>daniel.jeller@icar-us.eu</email>
                 </author>
                 <author ref="#person__jbigalke-smail-uni-koeln-de">
@@ -40,7 +40,7 @@
                         <surname>Bigalke</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__197">CCeH, Universität Köln, Deutschland</affiliation>
                     <email>JBigalke@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__ctheise1-smail-uni-koeln-de">
@@ -48,7 +48,7 @@
                         <surname>Theisen</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>CCeH, Universität Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__197">CCeH, Universität Köln, Deutschland</affiliation>
                     <email>ctheise1@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__georg-vogeler-uni-graz-at">
@@ -56,7 +56,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__116">ZIM-ACDH, Universität Graz, Österreich</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
             </titleStmt>

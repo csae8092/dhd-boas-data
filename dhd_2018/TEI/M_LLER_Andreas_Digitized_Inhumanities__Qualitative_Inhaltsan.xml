@@ -8,7 +8,7 @@
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Wien, Österreich</affiliation>
                     <email>andreas.w.mueller@outlook.com</email>
                 </author>
             </titleStmt>

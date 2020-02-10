@@ -11,7 +11,7 @@
                         <surname>Koch</surname>
                         <forename>Carina</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>carina.koch@uni-graz.at</email>
                 </author>
             </titleStmt>

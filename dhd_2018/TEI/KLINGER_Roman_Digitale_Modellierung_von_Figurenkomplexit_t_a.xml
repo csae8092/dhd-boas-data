@@ -8,7 +8,7 @@
                         <surname>Braun</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universität Stuttgart</affiliation>
                     <email>manuel.braun@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__roman-klinger-ims-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Klinger</surname>
                         <forename>Roman</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</affiliation>
                     <email>roman.klinger@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__pado-ims-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Padó</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart</affiliation>
                     <email>pado@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__viehhauser-ilw-uni-stuttgart-de">
@@ -32,7 +32,7 @@
                         <surname>Viehhauser</surname>
                         <forename>Gabriel</forename>
                     </persName>
-                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universität Stuttgart</affiliation>
                     <email>viehhauser@ilw.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

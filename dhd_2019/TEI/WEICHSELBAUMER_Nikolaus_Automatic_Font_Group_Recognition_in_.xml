@@ -8,7 +8,7 @@
                         <surname>Weichselbaumer</surname>
                         <forename>Nikolaus</forename>
                     </persName>
-                    <affiliation>JGU Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__259">JGU Mainz, Deutschland</affiliation>
                     <email>weichsel@uni-mainz.de</email>
                 </author>
                 <author ref="#person__mathias-seuret-fau-de">
@@ -16,7 +16,7 @@
                         <surname>Seuret</surname>
                         <forename>Mathias</forename>
                     </persName>
-                    <affiliation>FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__4">FAU Erlangen, Deutschland</affiliation>
                     <email>mathias.seuret@fau.de</email>
                 </author>
                 <author ref="#person__limbach-uni-mainz-de">
@@ -24,7 +24,7 @@
                         <surname>Limbach</surname>
                         <forename>Saskia</forename>
                     </persName>
-                    <affiliation>JGU Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__259">JGU Mainz, Deutschland</affiliation>
                     <email>limbach@uni-mainz.de</email>
                 </author>
                 <author ref="#person__vincent-christlein-fau-de">
@@ -32,7 +32,7 @@
                         <surname>Christlein</surname>
                         <forename>Vincent</forename>
                     </persName>
-                    <affiliation>FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__4">FAU Erlangen, Deutschland</affiliation>
                     <email>vincent.christlein@fau.de</email>
                 </author>
                 <author ref="#person__andreas-maier-fau-de">
@@ -40,7 +40,7 @@
                         <surname>Maier</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__4">FAU Erlangen, Deutschland</affiliation>
                     <email>andreas.maier@fau.de</email>
                 </author>
             </titleStmt>

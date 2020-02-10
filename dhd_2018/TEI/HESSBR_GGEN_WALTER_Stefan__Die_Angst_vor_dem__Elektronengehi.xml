@@ -11,7 +11,7 @@
                         <surname>Heßbrüggen-Walter</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>National Research University Higher School of Economics, Russland</affiliation>
+                    <affiliation ref="#org__46">National Research University Higher School of Economics, Russland</affiliation>
                     <email>shessbru@hse.ru</email>
                 </author>
             </titleStmt>

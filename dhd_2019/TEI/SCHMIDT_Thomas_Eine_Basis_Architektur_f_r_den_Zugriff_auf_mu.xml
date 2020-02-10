@@ -8,7 +8,7 @@
                         <surname>Batinic</surname>
                         <forename>Josip</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>josip.batinic@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__frick-ids-mannheim-de">
@@ -16,7 +16,7 @@
                         <surname>Frick</surname>
                         <forename>Elena</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>frick@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__gasch-ids-mannheim-de">
@@ -24,7 +24,7 @@
                         <surname>Gasch</surname>
                         <forename>Joachim</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>gasch@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__thomas-schmidt-ids-mannheim-de">
@@ -32,7 +32,7 @@
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>thomas.schmidt@ids-mannheim.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Schulz</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>julian.schulz@lmu.de</email>
                 </author>
             </titleStmt>

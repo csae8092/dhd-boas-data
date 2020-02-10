@@ -8,7 +8,7 @@
                         <surname>Sojer</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation>Universität Innsbruck, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Innsbruck, Österreich</affiliation>
                     <email>claudia.sojer@uibk.ac.at</email>
                 </author>
                 <author ref="#person__aaron-tratter-student-uibk-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Tratter</surname>
                         <forename>Aaron Rudolf</forename>
                     </persName>
-                    <affiliation>Universität Innsbruck, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Innsbruck, Österreich</affiliation>
                     <email>aaron.tratter@student.uibk.ac.at</email>
                 </author>
             </titleStmt>

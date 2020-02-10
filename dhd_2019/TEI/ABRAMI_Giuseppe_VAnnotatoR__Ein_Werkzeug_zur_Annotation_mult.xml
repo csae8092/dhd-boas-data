@@ -11,7 +11,7 @@
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>abrami@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__s2717197-stud-uni-frankfurt-de">
@@ -19,7 +19,7 @@
                         <surname>Spiekermann</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>s2717197@stud.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__mehler-em-uni-frankfurt-de">
@@ -27,7 +27,7 @@
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

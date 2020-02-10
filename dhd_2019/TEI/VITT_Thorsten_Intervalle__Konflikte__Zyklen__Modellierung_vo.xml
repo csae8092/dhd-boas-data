@@ -11,7 +11,7 @@
                         <surname>Vitt</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__57">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>thorsten.vitt@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__bruening-faustedition-de">
@@ -19,7 +19,7 @@
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
                     </persName>
-                    <affiliation>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
+                    <affiliation ref="#org__238">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
                     <email>bruening@faustedition.de</email>
                 </author>
                 <author ref="#person__dpravida-goethehaus-frankfurt-de">
@@ -27,7 +27,7 @@
                         <surname>Pravida</surname>
                         <forename>Dietmar</forename>
                     </persName>
-                    <affiliation>Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
+                    <affiliation ref="#org__238">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
                     <email>dpravida@goethehaus-frankfurt.de</email>
                 </author>
                 <author ref="#person__wissenbach-faustedition-de">
@@ -35,7 +35,7 @@
                         <surname>Wissenbach</surname>
                         <forename>Moritz</forename>
                     </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__57">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>wissenbach@faustedition.de</email>
                 </author>
             </titleStmt>

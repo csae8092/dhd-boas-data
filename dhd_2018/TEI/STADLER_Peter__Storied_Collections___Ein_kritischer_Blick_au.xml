@@ -11,7 +11,7 @@
                         <surname>Stadler</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Paderborn</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
                     <email>stadler@weber-gesamtausgabe.de</email>
                 </author>
                 <author ref="#person__kepper-edirom-de">
@@ -19,7 +19,7 @@
                         <surname>Kepper</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation>Universität Paderborn</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
                     <email>kepper@edirom.de</email>
                 </author>
                 <author ref="#person__irmlind-capelle-uni-paderborn-de">
@@ -27,7 +27,7 @@
                         <surname>Capelle</surname>
                         <forename>Irmlind</forename>
                     </persName>
-                    <affiliation>Universität Paderborn</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
                     <email>irmlind.capelle@uni-paderborn.de</email>
                 </author>
                 <author ref="#person__oberhoff-upb-de">
@@ -35,7 +35,7 @@
                         <surname>Oberhoff</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität Paderborn</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
                     <email>oberhoff@upb.de</email>
                 </author>
             </titleStmt>

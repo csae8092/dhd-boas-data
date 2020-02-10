@@ -11,7 +11,7 @@
                         <surname>Hug</surname>
                         <forename>Marius</forename>
                     </persName>
-                    <affiliation>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__38">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>marius.hug@googlemail.com</email>
                 </author>
             </titleStmt>

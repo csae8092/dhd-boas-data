@@ -11,7 +11,7 @@
                         <surname>Mache</surname>
                         <forename>Beata</forename>
                     </persName>
-                    <affiliation>Staats- und Universtitätsbibliothek Göttingen</affiliation>
+                    <affiliation ref="#org__39">Staats- und Universtitätsbibliothek Göttingen</affiliation>
                     <email>mache@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__thorsten-trippel-uni-tuebingen-de">
@@ -19,7 +19,7 @@
                         <surname>Trippel</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation>Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+                    <affiliation ref="#org__48">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
                     <email>thorsten.trippel@uni-tuebingen.de</email>
                 </author>
                 <author ref="#person__effinger-ub-uni-heidelberg-de">
@@ -27,7 +27,7 @@
                         <surname>Effinger</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation>Universitätsbibliothek Heidelberg</affiliation>
+                    <affiliation ref="#org__49">Universitätsbibliothek Heidelberg</affiliation>
                     <email>effinger@ub.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__tobias-gradl-uni-bamberg-de">
@@ -35,7 +35,7 @@
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation>Otto-Friedrich-Universität Bamberg</affiliation>
+                    <affiliation ref="#org__129">Otto-Friedrich-Universität Bamberg</affiliation>
                     <email>tobias.gradl@uni-bamberg.de</email>
                 </author>
                 <author ref="#person__haaf-bbaw-de">
@@ -43,7 +43,7 @@
                         <surname>Haaf</surname>
                         <forename>Susanne</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>haaf@bbaw.de</email>
                 </author>
                 <author ref="#person__erhard-hinrichs-uni-tuebingen-de">
@@ -51,7 +51,7 @@
                         <surname>Hinrichs</surname>
                         <forename>Erhard</forename>
                     </persName>
-                    <affiliation>Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+                    <affiliation ref="#org__48">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
                     <email>erhard.hinrichs@uni-tuebingen.de</email>
                 </author>
                 <author ref="#person__horstmann-sub-uni-goettingen-de">
@@ -59,7 +59,7 @@
                         <surname>Horstmann</surname>
                         <forename>Wolfram</forename>
                     </persName>
-                    <affiliation>Staats- und Universtitätsbibliothek Göttingen</affiliation>
+                    <affiliation ref="#org__39">Staats- und Universtitätsbibliothek Göttingen</affiliation>
                     <email>horstmann@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__lydia-informatik-uni-leipzig-de">
@@ -67,7 +67,7 @@
                         <surname>Müller</surname>
                         <forename>Lydia</forename>
                     </persName>
-                    <affiliation>Universität Leipzig</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig</affiliation>
                     <email>lydia@informatik.uni-leipzig.de</email>
                 </author>
                 <author ref="#person__torsten-schrade-adwmainz-de">
@@ -75,7 +75,7 @@
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur Mainz</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur Mainz</affiliation>
                     <email>torsten.schrade@adwmainz.de</email>
                 </author>
                 <author ref="#person__e-teich-mx-uni-saarland-de">
@@ -83,7 +83,7 @@
                         <surname>Teich</surname>
                         <forename>Elke</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes</affiliation>
                     <email>e.teich@mx.uni-saarland.de</email>
                 </author>
             </titleStmt>

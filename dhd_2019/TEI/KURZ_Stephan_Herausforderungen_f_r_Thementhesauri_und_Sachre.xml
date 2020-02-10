@@ -11,7 +11,7 @@
                         <surname>Kurz</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>stephan.kurz@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__ksenia-zaytseva-oeaw-ac-at">
@@ -19,7 +19,7 @@
                         <surname>Zaytseva</surname>
                         <forename>Ksenia</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>ksenia.zaytseva@oeaw.ac.at</email>
                 </author>
             </titleStmt>

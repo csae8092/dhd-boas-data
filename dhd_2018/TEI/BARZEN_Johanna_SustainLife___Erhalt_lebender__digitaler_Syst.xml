@@ -8,7 +8,7 @@
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>johanna.barzen@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__jonathan-blumtritt-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__uwe-breitenbuecher-iaas-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>uwe.breitenbuecher@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__simonekronenwett-gmail-com">
@@ -32,7 +32,7 @@
                         <surname>Kronenwett</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>simonekronenwett@gmail.com</email>
                 </author>
                 <author ref="#person__frank-leymann-iaas-uni-stuttgart-de">
@@ -40,7 +40,7 @@
                         <surname>Leymann</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>frank.leymann@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__bmathiak-uni-koeln-de">
@@ -48,7 +48,7 @@
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
                 <author ref="#person__c-neuefeind-uni-koeln-de">
@@ -56,7 +56,7 @@
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>c.neuefeind@uni-koeln.de</email>
                 </author>
             </titleStmt>

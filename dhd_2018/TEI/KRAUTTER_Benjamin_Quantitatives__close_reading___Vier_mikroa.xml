@@ -8,7 +8,7 @@
                         <surname>Krautter</surname>
                         <forename>Benjamin</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>Benjamin.Krautter@gmail.com</email>
                 </author>
             </titleStmt>

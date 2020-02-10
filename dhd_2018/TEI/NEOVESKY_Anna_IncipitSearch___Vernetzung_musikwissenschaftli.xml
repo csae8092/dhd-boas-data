@@ -8,7 +8,7 @@
                         <surname>Neovesky</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>Anna.Neovesky@adwmainz.de</email>
                 </author>
                 <author ref="#person__frederic-vonvlahovits-adwmainz-de">
@@ -16,7 +16,7 @@
                         <surname>von Vlahovits</surname>
                         <forename>Frederic</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>Frederic.vonVlahovits@adwmainz.de</email>
                 </author>
             </titleStmt>

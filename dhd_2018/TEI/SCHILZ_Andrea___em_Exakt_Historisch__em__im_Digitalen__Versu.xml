@@ -11,7 +11,7 @@
                         <surname>Schilz</surname>
                         <forename>Andrea</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>andrea.schilz@uni-passau.de</email>
                 </author>
             </titleStmt>

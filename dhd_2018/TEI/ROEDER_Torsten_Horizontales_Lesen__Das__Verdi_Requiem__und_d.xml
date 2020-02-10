@@ -11,7 +11,7 @@
                         <surname>Roeder</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>mail@torstenroeder.de</email>
                 </author>
             </titleStmt>

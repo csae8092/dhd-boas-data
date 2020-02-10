@@ -8,7 +8,7 @@
                         <surname>Götzelmann</surname>
                         <forename>Germaine</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>germaine.goetzelmann@kit.edu</email>
                 </author>
             </titleStmt>

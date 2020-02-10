@@ -11,7 +11,7 @@
                         <surname>Mühleder</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universitätsbibliothek Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__49">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>peter.muehleder@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__tracy-hoffmann-uni-leipzig-de">
@@ -19,7 +19,7 @@
                         <surname>Hoffmann</surname>
                         <forename>Tracy</forename>
                     </persName>
-                    <affiliation>Universitätsbibliothek Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__49">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>tracy.hoffmann@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__raemisch-ub-uni-leipzig-de">
@@ -27,7 +27,7 @@
                         <surname>Rämisch</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation>Universitätsbibliothek Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__49">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>raemisch@ub.uni-leipzig.de</email>
                 </author>
             </titleStmt>

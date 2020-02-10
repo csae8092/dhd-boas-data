@@ -8,7 +8,7 @@
                         <surname>Schwappach</surname>
                         <forename>Florin</forename>
                     </persName>
-                    <affiliation>Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__33">Universität Regensburg, Deutschland</affiliation>
                     <email>florin.schwappach@ur.de</email>
                 </author>
                 <author ref="#person__burghardt-informatik-uni-leipzig-de">
@@ -16,7 +16,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
             </titleStmt>

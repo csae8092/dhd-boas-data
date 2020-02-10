@@ -8,7 +8,7 @@
                         <surname>Hess</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation>Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
+                    <affiliation ref="#org__211 #org__8">Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
                     <email>hess@uni-trier.de</email>
                 </author>
                 <author ref="#person__lebherz-uni-trier-de">
@@ -16,7 +16,7 @@
                         <surname>Lebherz</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
+                    <affiliation ref="#org__212 #org__8">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>lebherz@uni-trier.de</email>
                 </author>
                 <author ref="#person__zeyen-uni-trier-de">
@@ -24,7 +24,7 @@
                         <surname>Zeyen</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
+                    <affiliation ref="#org__212 #org__8">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>zeyen@uni-trier.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Müller-Birn</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation>Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland</affiliation>
                     <email>clmb@inf.fu-berlin.de</email>
                 </author>
                 <author ref="#person__georg-schelbert-hu-berlin-de">
@@ -16,7 +16,7 @@
                         <surname>Schelbert</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation>Humboldt-Universität zu Berlin</affiliation>
+                    <affiliation ref="#org__27">Humboldt-Universität zu Berlin</affiliation>
                     <email>georg.schelbert@hu-berlin.de</email>
                 </author>
                 <author ref="#person__raspe-biblhertz-it">
@@ -24,7 +24,7 @@
                         <surname>Raspe</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
+                    <affiliation ref="#org__28">Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
                     <email>raspe@biblhertz.it</email>
                 </author>
                 <author ref="#person__wuebbena-kunst-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt</affiliation>
                     <email>wuebbena@kunst.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

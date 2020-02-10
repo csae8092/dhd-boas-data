@@ -11,7 +11,7 @@
                         <surname>Hoenen</surname>
                         <forename>Armin</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>hoenen@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

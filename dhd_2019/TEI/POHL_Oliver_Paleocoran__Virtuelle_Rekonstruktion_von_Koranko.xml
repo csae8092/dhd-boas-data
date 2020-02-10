@@ -11,7 +11,7 @@
                         <surname>Pohl</surname>
                         <forename>Oliver</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>opohl@bbaw.de</email>
                 </author>
                 <author ref="#person__marx-bbaw-de">
@@ -19,7 +19,7 @@
                         <surname>Marx</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>marx@bbaw.de</email>
                 </author>
                 <author ref="#person__stfranke-bbaw-de">
@@ -27,7 +27,7 @@
                         <surname>Franke</surname>
                         <forename>Stefanie</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>stfranke@bbaw.de</email>
                 </author>
                 <author ref="#person__artika-bbaw-de">
@@ -35,7 +35,7 @@
                         <surname>Artika</surname>
                         <forename>Farah</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>artika@bbaw.de</email>
                 </author>
                 <author ref="#person__schnoepf-bbaw-de">
@@ -43,7 +43,7 @@
                         <surname>Schnöpf</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>schnoepf@bbaw.de</email>
                 </author>
                 <author ref="#person__mahmutovic-bbaw-de">
@@ -51,7 +51,7 @@
                         <surname>Mahmutovic</surname>
                         <forename>Edin</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>mahmutovic@bbaw.de</email>
                 </author>
             </titleStmt>

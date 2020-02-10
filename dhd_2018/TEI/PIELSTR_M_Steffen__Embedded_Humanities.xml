@@ -8,7 +8,7 @@
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__mike-kestemont-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>Kestemont</surname>
                         <forename>Mike</forename>
                     </persName>
-                    <affiliation>Universität Antwerpen, Belgien</affiliation>
+                    <affiliation ref="#org__3">Universität Antwerpen, Belgien</affiliation>
                     <email>mike.kestemont@gmail.com</email>
                 </author>
             </titleStmt>

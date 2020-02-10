@@ -8,7 +8,7 @@
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__59">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>katrin.moeller@geschichte.uni-halle.de</email>
                 </author>
                 <author ref="#person__anderas-mueller-geschichte-uni-halle-de">
@@ -16,7 +16,7 @@
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__59">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>anderas.mueller@geschichte.uni-halle.de</email>
                 </author>
                 <author ref="#person__anne-purschwitz-geschichte-uni-halle-de">
@@ -24,7 +24,7 @@
                         <surname>Purschwitz</surname>
                         <forename>Anne</forename>
                     </persName>
-                    <affiliation>Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__59">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>anne.purschwitz@geschichte.uni-halle.de</email>
                 </author>
             </titleStmt>

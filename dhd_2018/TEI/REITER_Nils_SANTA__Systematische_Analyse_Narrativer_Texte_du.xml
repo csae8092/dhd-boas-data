@@ -8,7 +8,7 @@
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>nils.reiter@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__jannik-stroetgen-mpi-inf-mpg-de">
@@ -24,7 +24,7 @@
                         <surname>Strötgen</surname>
                         <forename>Jannik</forename>
                     </persName>
-                    <affiliation>Max-Planck-Institut für Informatik, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__214">Max-Planck-Institut für Informatik, Saarbrücken, Deutschland</affiliation>
                     <email>jannik.stroetgen@mpi-inf.mpg.de</email>
                 </author>
                 <author ref="#person__marcus-willand-ilw-uni-stuttgart-de">
@@ -32,7 +32,7 @@
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>marcus.willand@ilw.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

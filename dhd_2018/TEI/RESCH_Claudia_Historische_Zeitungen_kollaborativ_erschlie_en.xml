@@ -8,7 +8,7 @@
                         <surname>Resch</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>claudia.resch@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__dario-kampkaspar-oeaw-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Kampkaspar</surname>
                         <forename>Dario</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>dario.kampkaspar@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__daniel-schopper-oeaw-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Schopper</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>daniel.schopper@oeaw.ac.at</email>
                 </author>
             </titleStmt>

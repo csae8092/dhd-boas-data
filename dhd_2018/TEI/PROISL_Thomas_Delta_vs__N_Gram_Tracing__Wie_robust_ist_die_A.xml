@@ -11,7 +11,7 @@
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
                 <author ref="#person__stefan-evert-fau-de">
@@ -19,7 +19,7 @@
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>stefan.evert@fau.de</email>
                 </author>
             </titleStmt>

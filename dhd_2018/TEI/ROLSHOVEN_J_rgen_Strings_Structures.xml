@@ -11,7 +11,7 @@
                         <surname>Rolshoven</surname>
                         <forename>Jürgen</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>rols@spinfo.uni-koeln.de</email>
                 </author>
                 <author ref="#person__vetemi-smail-uni-koeln-de">
@@ -19,7 +19,7 @@
                         <surname>Etimi</surname>
                         <forename>Valmir</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>vetemi@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__pseipel1-uni-koeln-de">
@@ -27,7 +27,7 @@
                         <surname>Seipel</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>pseipel1@uni-koeln.de</email>
                 </author>
                 <author ref="#person__twiehe-uni-koeln-de">
@@ -35,7 +35,7 @@
                         <surname>Wiehe</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>twiehe@uni-koeln.de</email>
                 </author>
             </titleStmt>

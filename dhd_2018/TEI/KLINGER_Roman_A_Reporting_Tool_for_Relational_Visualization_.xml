@@ -10,7 +10,7 @@
                         <surname>Barth</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>florian.barth@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__evgeny-kim-ims-uni-stuttgart-de">
@@ -18,7 +18,7 @@
                         <surname>Kim</surname>
                         <forename>Evgeny</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>evgeny.kim@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__sandra-murr-ilw-uni-stuttgart-de">
@@ -26,7 +26,7 @@
                         <surname>Murr</surname>
                         <forename>Sandra</forename>
                     </persName>
-                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>sandra.murr@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__roman-klinger-ims-uni-stuttgart-de">
@@ -34,7 +34,7 @@
                         <surname>Klinger</surname>
                         <forename>Roman</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>roman.klinger@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

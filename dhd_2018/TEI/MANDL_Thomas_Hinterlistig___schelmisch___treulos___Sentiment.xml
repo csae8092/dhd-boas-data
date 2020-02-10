@@ -8,7 +8,7 @@
                         <surname>Wodausch</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
                     <email>wodausch@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__fiedler-gei-de">
@@ -16,7 +16,7 @@
                         <surname>Fiedler</surname>
                         <forename>Maik</forename>
                     </persName>
-                    <affiliation>Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
+                    <affiliation ref="#org__165">Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
                     <email>fiedler@gei.de</email>
                 </author>
                 <author ref="#person__heuwing-uni-hildesheim-de">
@@ -24,7 +24,7 @@
                         <surname>Heuwing</surname>
                         <forename>Ben</forename>
                     </persName>
-                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
                     <email>heuwing@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__mandl-uni-hildesheim-de">
@@ -32,7 +32,7 @@
                         <surname>Mandl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
                     <email>mandl@uni-hildesheim.de</email>
                 </author>
             </titleStmt>

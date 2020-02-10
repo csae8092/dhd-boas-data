@@ -8,7 +8,7 @@
                         <surname>Löcker-Herschkowitz</surname>
                         <forename>Johannes A.</forename>
                     </persName>
-                    <affiliation>Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Wien, Österreich</affiliation>
                     <email>j.a.loecker-herschkowitz@univie.ac.at</email>
                 </author>
                 <author ref="#person__christian-wagner-univie-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Wagner</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Wien, Österreich</affiliation>
                     <email>christian.wagner@univie.ac.at</email>
                 </author>
             </titleStmt>

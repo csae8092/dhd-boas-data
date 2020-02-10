@@ -11,7 +11,7 @@
                         <surname>Faynberg</surname>
                         <forename>Veronika</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>berenis0102@gmail.com</email>
                 </author>
                 <author ref="#person__frafis-gmail-com">
@@ -19,7 +19,7 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>frafis@gmail.com</email>
                 </author>
                 <author ref="#person__svetalashch-gmail-com">
@@ -27,7 +27,7 @@
                         <surname>Lashchuk</surname>
                         <forename>Svetlana</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>svetalashch@gmail.com</email>
                 </author>
                 <author ref="#person__taorkon-tootta-gmail-com">
@@ -35,7 +35,7 @@
                         <surname>Orlova</surname>
                         <forename>Tatyana</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>taorkon.tootta@gmail.com</email>
                 </author>
                 <author ref="#person__rebel368-gmail-com">
@@ -43,7 +43,7 @@
                         <surname>Palchikov</surname>
                         <forename>German</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>rebel368@gmail.com</email>
                 </author>
                 <author ref="#person__zhenya96-gmail-com">
@@ -51,7 +51,7 @@
                         <surname>Shlosman</surname>
                         <forename>Evgenia</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau, Russland</affiliation>
                     <email>zhenya96@gmail.com</email>
                 </author>
             </titleStmt>

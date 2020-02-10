@@ -8,7 +8,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
                 <author ref="#person__gunter-vasold-uni-graz-at">
@@ -16,7 +16,7 @@
                         <surname>Vasold</surname>
                         <forename>Gunter</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>gunter.vasold@uni-graz.at</email>
                 </author>
                 <author ref="#person__matthias-schloegl-oeaw-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
                     <email>matthias.schloegl@oeaw.ac.at</email>
                 </author>
             </titleStmt>

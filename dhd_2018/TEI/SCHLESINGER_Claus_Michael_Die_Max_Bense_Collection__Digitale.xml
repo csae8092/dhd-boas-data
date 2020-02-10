@@ -11,7 +11,7 @@
                         <surname>Schlesinger</surname>
                         <forename>Claus-Michael</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>claus-michael.schlesinger@ilw.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

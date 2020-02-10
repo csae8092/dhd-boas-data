@@ -8,7 +8,7 @@
                         <surname>Haas</surname>
                         <forename>Gabriele</forename>
                     </persName>
-                    <affiliation>University of Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">University of Passau, Deutschland</affiliation>
                     <email>haasgab@fim.uni-passau.de</email>
                 </author>
                 <author ref="#person__adamantios-koumpis-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>Koumpis</surname>
                         <forename>Adamantios</forename>
                     </persName>
-                    <affiliation>University of Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">University of Passau, Deutschland</affiliation>
                     <email>adamantios.koumpis@gmail.com</email>
                 </author>
                 <author ref="#person__siegfried-handschuh-gmail-com">
@@ -24,7 +24,7 @@
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
                     </persName>
-                    <affiliation>University of Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">University of Passau, Deutschland</affiliation>
                     <email>siegfried.handschuh@gmail.com</email>
                 </author>
             </titleStmt>

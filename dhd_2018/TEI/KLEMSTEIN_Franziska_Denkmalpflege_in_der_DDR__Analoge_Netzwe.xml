@@ -8,7 +8,7 @@
                         <surname>Klemstein</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation>Technische Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Berlin, Deutschland</affiliation>
                     <email>f.klemstein@gmail.com</email>
                 </author>
             </titleStmt>

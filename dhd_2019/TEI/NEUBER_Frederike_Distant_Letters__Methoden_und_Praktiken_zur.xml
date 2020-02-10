@@ -11,7 +11,7 @@
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>dumont@bbaw.de</email>
                 </author>
                 <author ref="#person__haaf-bbaw-de">
@@ -19,7 +19,7 @@
                         <surname>Haaf</surname>
                         <forename>Susanne</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>haaf@bbaw.de</email>
                 </author>
                 <author ref="#person__ulrike-henny-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__benjamin-krautter-ilw-uni-stuttgart-de">
@@ -35,7 +35,7 @@
                         <surname>Krautter</surname>
                         <forename>Benjamin</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>benjamin.krautter@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__neuber-bbaw-de">
@@ -43,7 +43,7 @@
                         <surname>Neuber</surname>
                         <forename>Frederike</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>neuber@bbaw.de</email>
                 </author>
             </titleStmt>

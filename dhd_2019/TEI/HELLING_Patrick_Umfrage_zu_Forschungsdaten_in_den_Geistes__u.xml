@@ -8,7 +8,7 @@
                         <surname>Metzmacher</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__37">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>katja.metzmacher@uni-koeln.de</email>
                 </author>
                 <author ref="#person__patrick-helling-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Helling</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__37">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>patrick.helling@uni-koeln.de</email>
                 </author>
                 <author ref="#person__jonathan-blumtritt-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__37">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__bmathiak-uni-koeln-de">
@@ -32,7 +32,7 @@
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
                     </persName>
-                    <affiliation>Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__37">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
             </titleStmt>

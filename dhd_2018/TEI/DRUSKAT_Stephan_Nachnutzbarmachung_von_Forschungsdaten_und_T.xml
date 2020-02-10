@@ -11,7 +11,7 @@
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
                 <author ref="#person__fsha060-uni-hamburg-de">
@@ -19,7 +19,7 @@
                         <surname>Vertan</surname>
                         <forename>Cristina</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>fsha060@uni-hamburg.de</email>
                 </author>
             </titleStmt>

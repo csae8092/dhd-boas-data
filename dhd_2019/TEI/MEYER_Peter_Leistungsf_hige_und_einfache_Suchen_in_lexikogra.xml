@@ -11,7 +11,7 @@
                         <surname>Meyer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>meyer@ids-mannheim.de</email>
                 </author>
             </titleStmt>

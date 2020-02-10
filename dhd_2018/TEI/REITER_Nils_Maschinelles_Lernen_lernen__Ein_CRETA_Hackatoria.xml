@@ -8,7 +8,7 @@
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>nils.reiter@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__nora-ketschik-ilw-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Ketschik</surname>
                         <forename>Nora</forename>
                     </persName>
-                    <affiliation>Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</affiliation>
                     <email>nora.ketschik@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__gerhard-kremer-ims-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Kremer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>gerhard.kremer@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__sarah-schulz-ims-uni-stuttgart-de">
@@ -32,7 +32,7 @@
                         <surname>Schulz</surname>
                         <forename>Sarah</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>sarah.schulz@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

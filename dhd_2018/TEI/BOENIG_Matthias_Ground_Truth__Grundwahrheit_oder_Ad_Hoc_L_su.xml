@@ -8,7 +8,7 @@
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>boenig@bbaw.de</email>
                 </author>
                 <author ref="#person__maria-federbusch-sbb-spk-berlin-de">
@@ -16,7 +16,7 @@
                         <surname>Federbusch</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation>Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__38">Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>maria.federbusch@sbb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__herrmann-hab-de">
@@ -24,7 +24,7 @@
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>herrmann@hab.de</email>
                 </author>
                 <author ref="#person__clemens-neudecker-sbb-spk-berlin-de">
@@ -32,7 +32,7 @@
                         <surname>Neudecker</surname>
                         <forename>Clemens</forename>
                     </persName>
-                    <affiliation>Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__38">Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>clemens.neudecker@sbb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__wuerzner-bbaw-de">
@@ -40,7 +40,7 @@
                         <surname>Würzner</surname>
                         <forename>Kay-Michael</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>wuerzner@bbaw.de</email>
                 </author>
             </titleStmt>

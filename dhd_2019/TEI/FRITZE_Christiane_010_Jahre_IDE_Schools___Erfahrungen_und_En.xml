@@ -8,7 +8,7 @@
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
+                    <affiliation ref="#org__51 #org__75">Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
                     <email>christiane.fritze@onb.ac.at</email>
                 </author>
                 <author ref="#person__franz-fischer-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+                    <affiliation ref="#org__51 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__georg-vogeler-uni-graz-at">
@@ -24,7 +24,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__51 #org__191">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
                 <author ref="#person__schnoepf-i-d-e-de">
@@ -32,7 +32,7 @@
                         <surname>Schnöpf</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__51 #org__34">Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>schnoepf@i-d-e.de</email>
                 </author>
                 <author ref="#person__martina-scholger-uni-graz-at">
@@ -40,7 +40,7 @@
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__51 #org__191">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>martina.scholger@uni-graz.at</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -48,7 +48,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation>Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+                    <affiliation ref="#org__51 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
             </titleStmt>

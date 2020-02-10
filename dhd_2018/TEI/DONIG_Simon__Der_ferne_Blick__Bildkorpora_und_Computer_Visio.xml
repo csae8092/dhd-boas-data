@@ -11,7 +11,7 @@
                         <surname>Donig</surname>
                         <forename>Simon</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>simon.donig@uni-passau.de</email>
                 </author>
                 <author ref="#person__siegfried-handschuh-uni-passau-de">
@@ -19,7 +19,7 @@
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>Siegfried.Handschuh@uni-passau.de</email>
                 </author>
                 <author ref="#person__erik-radisch-uni-passau-de">
@@ -27,7 +27,7 @@
                         <surname>Radisch</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>erik.radisch@uni-passau.de</email>
                 </author>
                 <author ref="#person__malte-rehbein-uni-passau-de">
@@ -35,7 +35,7 @@
                         <surname>Rehbein</surname>
                         <forename>Malte</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>malte.rehbein@uni-passau.de</email>
                 </author>
                 <author ref="#person__hastik-linglit-tu-darmstadt-de">
@@ -43,7 +43,7 @@
                         <surname>Hastik</surname>
                         <forename>Canan</forename>
                     </persName>
-                    <affiliation>Technische Universität Darmstadt, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
                     <email>hastik@linglit.tu-darmstadt.de</email>
                 </author>
                 <author ref="#person__hubertus-kohle-gmail-com">
@@ -51,7 +51,7 @@
                         <surname>Kohle</surname>
                         <forename>Hubertus</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>hubertus.kohle@gmail.com</email>
                 </author>
                 <author ref="#person__ommer-uni-heidelberg-de">
@@ -59,7 +59,7 @@
                         <surname>Ommer</surname>
                         <forename>Björn</forename>
                     </persName>
-                    <affiliation>Ruprecht-Karls-Universität Heidelberg, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Ruprecht-Karls-Universität Heidelberg, Deutschland</affiliation>
                     <email>ommer@uni-heidelberg.de</email>
                 </author>
             </titleStmt>

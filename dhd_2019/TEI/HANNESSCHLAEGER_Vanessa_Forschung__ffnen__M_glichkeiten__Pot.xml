@@ -8,7 +8,7 @@
                         <surname>Hannesschlaeger</surname>
                         <forename>Vanessa</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>vanessa.hannesschlaeger@oeaw.ac.at</email>
                 </author>
             </titleStmt>

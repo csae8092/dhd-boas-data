@@ -8,7 +8,7 @@
                         <surname>Kuroczyński</surname>
                         <forename>Piotr</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz – University of Applied Sciences</affiliation>
                     <email>piotr.kuroczynski@hs-mainz.de</email>
                 </author>
                 <author ref="#person__julia-brandt-hs-mainz-de">
@@ -16,7 +16,7 @@
                         <surname>Brandt</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz – University of Applied Sciences</affiliation>
                     <email>julia.brandt@hs-mainz.de</email>
                 </author>
                 <author ref="#person__karolina-jara-hs-mainz-de">
@@ -24,7 +24,7 @@
                         <surname>Jara</surname>
                         <forename>Karolina</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz – University of Applied Sciences</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz – University of Applied Sciences</affiliation>
                     <email>karolina.jara@hs-mainz.de</email>
                 </author>
                 <author ref="#person__p-grosse-gnm-de">
@@ -32,7 +32,7 @@
                         <surname>Grosse</surname>
                         <forename>Peggy</forename>
                     </persName>
-                    <affiliation>Germanisches Nationalmuseum</affiliation>
+                    <affiliation ref="#org__32">Germanisches Nationalmuseum</affiliation>
                     <email>p.grosse@gnm.de</email>
                 </author>
             </titleStmt>

@@ -11,7 +11,7 @@
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>c.neuefeind@uni-koeln.de</email>
                 </author>
                 <author ref="#person__philip-schildkamp-uni-koeln-de">
@@ -19,7 +19,7 @@
                         <surname>Schildkamp</surname>
                         <forename>Philip</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>philip.schildkamp@uni-koeln.de</email>
                 </author>
                 <author ref="#person__bmathiak-uni-koeln-de">
@@ -27,7 +27,7 @@
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
                 <author ref="#person__lukas-harzenetter-iaas-uni-stuttgart-de">
@@ -35,7 +35,7 @@
                         <surname>Harzenetter</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>lukas.harzenetter@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
@@ -43,7 +43,7 @@
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>johanna.barzen@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__uwe-breitenbuecher-iaas-uni-stuttgart-de">
@@ -51,7 +51,7 @@
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>uwe.breitenbuecher@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__frank-leymann-iaas-uni-stuttgart-de">
@@ -59,7 +59,7 @@
                         <surname>Leymann</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>frank.leymann@iaas.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

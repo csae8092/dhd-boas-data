@@ -11,7 +11,7 @@
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
                     </persName>
-                    <affiliation>Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>doerk@fh-potsdam.de</email>
                 </author>
                 <author ref="#person__k-glinka-smb-spk-berlin-de">
@@ -19,7 +19,7 @@
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>k.glinka@smb.spk-berlin.de</email>
                 </author>
             </titleStmt>

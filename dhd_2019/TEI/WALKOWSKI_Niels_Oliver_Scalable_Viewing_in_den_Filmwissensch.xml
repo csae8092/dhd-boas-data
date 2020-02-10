@@ -8,7 +8,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Universität Leipzig</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
                 <author ref="#person__johannes-pause-uni-lu">
@@ -16,7 +16,7 @@
                         <surname>Pause</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation>Universität Luxemburg</affiliation>
+                    <affiliation ref="#org__86">Universität Luxemburg</affiliation>
                     <email>johannes.pause@uni.lu</email>
                 </author>
                 <author ref="#person__walkowski-nowalkowski-de">
@@ -24,7 +24,7 @@
                         <surname>Walkowski</surname>
                         <forename>Niels-Oliver</forename>
                     </persName>
-                    <affiliation>unabhängiger Wissenschaftler</affiliation>
+                    <affiliation ref="#org__285">unabhängiger Wissenschaftler</affiliation>
                     <email>walkowski@nowalkowski.de</email>
                 </author>
             </titleStmt>

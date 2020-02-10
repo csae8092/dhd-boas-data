@@ -8,7 +8,7 @@
                         <surname>Forney</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität Bern, Historisches Institut</affiliation>
+                    <affiliation ref="#org__72">Universität Bern, Historisches Institut</affiliation>
                     <email>christian.forney@hist.unibe.ch</email>
                 </author>
                 <author ref="#person__arojasca-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Rojas Castro</surname>
                         <forename>Antonio</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Cologne Center for eHumanities</affiliation>
                     <email>arojasca@uni-koeln.de</email>
                 </author>
                 <author ref="#person__p-daengeli-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Bern, Historisches Institut; Universität zu Köln, Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__72 #org__0">Universität Bern, Historisches Institut; Universität zu Köln, Cologne Center for eHumanities</affiliation>
                     <email>p.daengeli@uni-koeln.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg; Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__58 #org__29">Universität Heidelberg; Universität Stuttgart</affiliation>
                     <email>marcus.willand@gs.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__evelyn-gius-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
                     </persName>
-                    <affiliation>Universität Hamburg</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart</affiliation>
                     <email>nils.reiter@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

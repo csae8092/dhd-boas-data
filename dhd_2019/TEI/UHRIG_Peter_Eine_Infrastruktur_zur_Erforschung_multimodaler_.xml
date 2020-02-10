@@ -8,7 +8,7 @@
                         <surname>Uhrig</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Osnabrück, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität Osnabrück, Deutschland</affiliation>
                     <email>peter.uhrig@uos.de</email>
                 </author>
             </titleStmt>

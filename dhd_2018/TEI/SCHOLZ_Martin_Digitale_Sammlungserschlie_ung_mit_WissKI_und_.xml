@@ -11,7 +11,7 @@
                         <surname>Scholz</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>martin.scholz@fau.de</email>
                 </author>
                 <author ref="#person__s-wagner-gnm-de">
@@ -19,7 +19,7 @@
                         <surname>Wagner</surname>
                         <forename>Sarah</forename>
                     </persName>
-                    <affiliation>Germanisches Nationalmuseum, Deutschland</affiliation>
+                    <affiliation ref="#org__32">Germanisches Nationalmuseum, Deutschland</affiliation>
                     <email>s.wagner@gnm.de</email>
                 </author>
             </titleStmt>

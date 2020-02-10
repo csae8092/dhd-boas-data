@@ -8,7 +8,7 @@
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>sebastian.zimmer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__mgoedel-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Gödel</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>mgoedel@uni-koeln.de</email>
                 </author>
                 <author ref="#person__dana-persch-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Persch</surname>
                         <forename>Dana</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>dana.persch@uni-koeln.de</email>
                 </author>
             </titleStmt>

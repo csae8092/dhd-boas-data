@@ -8,7 +8,7 @@
                         <surname>Toscano</surname>
                         <forename>Roberta</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>toscano-r@outlook.de</email>
                 </author>
             </titleStmt>

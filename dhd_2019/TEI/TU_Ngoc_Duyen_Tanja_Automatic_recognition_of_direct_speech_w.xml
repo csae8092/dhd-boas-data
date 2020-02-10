@@ -8,7 +8,7 @@
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>tu@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__markus-krug-uni-wuerzburg-de">
@@ -16,7 +16,7 @@
                         <surname>Krug</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__brunner-ids-mannheim-de">
@@ -24,7 +24,7 @@
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>brunner@ids-mannheim.de</email>
                 </author>
             </titleStmt>

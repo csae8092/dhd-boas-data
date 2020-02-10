@@ -11,7 +11,7 @@
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
                     </persName>
-                    <affiliation>Forschungsverbund MWW, Deutschland</affiliation>
+                    <affiliation ref="#org__21">Forschungsverbund MWW, Deutschland</affiliation>
                     <email>henrike.fricke@hab.de</email>
                 </author>
                 <author ref="#person__klaffki-hab-de">
@@ -19,7 +19,7 @@
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation>Forschungsverbund MWW, Deutschland</affiliation>
+                    <affiliation ref="#org__21">Forschungsverbund MWW, Deutschland</affiliation>
                     <email>klaffki@hab.de</email>
                 </author>
             </titleStmt>

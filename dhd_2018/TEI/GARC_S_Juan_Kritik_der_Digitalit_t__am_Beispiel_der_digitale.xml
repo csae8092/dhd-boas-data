@@ -8,7 +8,7 @@
                         <surname>Garcés</surname>
                         <forename>Juan</forename>
                     </persName>
-                    <affiliation>Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</affiliation>
+                    <affiliation ref="#org__16">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</affiliation>
                     <email>juan.garces@slub-dresden.de</email>
                 </author>
                 <author ref="#person__johannes-braeuer-tu-dresden-de">
@@ -16,7 +16,7 @@
                         <surname>Bräuer</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation>Technische Universität Dresden, Institut für Philosophie</affiliation>
+                    <affiliation ref="#org__163">Technische Universität Dresden, Institut für Philosophie</affiliation>
                     <email>johannes.braeuer@tu-dresden.de</email>
                 </author>
             </titleStmt>

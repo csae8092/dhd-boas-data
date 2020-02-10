@@ -11,7 +11,7 @@
                         <surname>Heckelen</surname>
                         <forename>Malte</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>malte.heckelen@ilw.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

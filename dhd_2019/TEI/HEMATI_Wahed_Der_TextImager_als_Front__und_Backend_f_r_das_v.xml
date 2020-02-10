@@ -8,7 +8,7 @@
                         <surname>Hemati</surname>
                         <forename>Wahed</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>hemati@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__mehler-em-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__uslu-em-uni-frankfurt-de">
@@ -24,7 +24,7 @@
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>uslu@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__abrami-em-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>abrami@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

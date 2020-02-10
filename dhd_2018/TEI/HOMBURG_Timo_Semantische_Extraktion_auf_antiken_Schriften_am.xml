@@ -8,7 +8,7 @@
                         <surname>Homburg</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz, Deutschland</affiliation>
                     <email>timo.homburg@gmx.de</email>
                 </author>
             </titleStmt>

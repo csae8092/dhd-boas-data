@@ -8,7 +8,7 @@
                         <surname>Böttger</surname>
                         <forename>Lucie</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
+                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>Lucie.boettger@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__alexander-zeckey-stud-uni-goettingen-de">
@@ -16,7 +16,7 @@
                         <surname>Zeckey</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
+                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>alexander.zeckey@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__mlangne-gwdg-de">
@@ -24,7 +24,7 @@
                         <surname>Langner</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
+                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>mlangne@gwdg.de</email>
                 </author>
             </titleStmt>

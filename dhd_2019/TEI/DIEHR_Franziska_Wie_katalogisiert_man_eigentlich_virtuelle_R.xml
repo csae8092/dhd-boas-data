@@ -8,7 +8,7 @@
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>f.diehr@smb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__k-glinka-smb-spk-berlin-de">
@@ -16,7 +16,7 @@
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>k.glinka@smb.spk-berlin.de</email>
                 </author>
             </titleStmt>

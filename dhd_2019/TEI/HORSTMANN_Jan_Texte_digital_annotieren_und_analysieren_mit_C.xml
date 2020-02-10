@@ -8,7 +8,7 @@
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-c-meister-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>jan-c-meister@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__marco-petris-uni-hamburg-de">
@@ -24,7 +24,7 @@
                         <surname>Petris</surname>
                         <forename>Marco</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>marco.petris@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__mareike-schumacher-uni-hamburg-de">
@@ -32,7 +32,7 @@
                         <surname>Schumacher</surname>
                         <forename>Mareike</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>mareike.schumacher@uni-hamburg.de</email>
                 </author>
             </titleStmt>

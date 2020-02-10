@@ -11,7 +11,7 @@
                         <surname>Reinöhl</surname>
                         <forename>Uta</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>uta.reinoehl@uni-koeln.de</email>
                 </author>
                 <author ref="#person__d-koelligan-uni-koeln-de">
@@ -19,7 +19,7 @@
                         <surname>Kölligan</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>d.koelligan@uni-koeln.de</email>
                 </author>
                 <author ref="#person__kiss-mailbox-org">
@@ -27,7 +27,7 @@
                         <surname>Kiss</surname>
                         <forename>Börge</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>kiss@mailbox.org</email>
                 </author>
                 <author ref="#person__f-mondaca-uni-koeln-de">
@@ -35,7 +35,7 @@
                         <surname>Mondaca</surname>
                         <forename>Francisco</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>f.mondaca@uni-koeln.de</email>
                 </author>
                 <author ref="#person__c-neuefeind-uni-koeln-de">
@@ -43,7 +43,7 @@
                         <surname>Neuefeind</surname>
                         <forename>Claes</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>c.neuefeind@uni-koeln.de</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -51,7 +51,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
             </titleStmt>

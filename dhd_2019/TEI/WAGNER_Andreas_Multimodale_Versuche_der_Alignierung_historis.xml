@@ -11,7 +11,7 @@
                         <surname>Wagner</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__28">Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
                     <email>wagner@rg.mpg.de</email>
                 </author>
                 <author ref="#person__bragagnolo-rg-mpg-de">
@@ -19,7 +19,7 @@
                         <surname>Bragagnolo</surname>
                         <forename>Manuela</forename>
                     </persName>
-                    <affiliation>Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__28">Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
                     <email>bragagnolo@rg.mpg.de</email>
                 </author>
             </titleStmt>

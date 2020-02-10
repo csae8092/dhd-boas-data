@@ -8,7 +8,7 @@
                         <surname>Tonne</surname>
                         <forename>Danah</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>danah.tonne@kit.edu</email>
                 </author>
                 <author ref="#person__germaine-goetzelmann-kit-edu">
@@ -16,7 +16,7 @@
                         <surname>Götzelmann</surname>
                         <forename>Germaine</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>germaine.goetzelmann@kit.edu</email>
                 </author>
                 <author ref="#person__philipp-hegel-fu-berlin-de">
@@ -24,7 +24,7 @@
                         <surname>Hegel</surname>
                         <forename>Philipp</forename>
                     </persName>
-                    <affiliation>Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland</affiliation>
                     <email>philipp.hegel@fu-berlin.de</email>
                 </author>
                 <author ref="#person__m-krewet-fu-berlin-de">
@@ -32,7 +32,7 @@
                         <surname>Krewet</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation>Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland</affiliation>
                     <email>m.krewet@fu-berlin.de</email>
                 </author>
                 <author ref="#person__julia-huebner-fu-berlin-de">
@@ -40,7 +40,7 @@
                         <surname>Hübner</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation>Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland</affiliation>
                     <email>julia.huebner@fu-berlin.de</email>
                 </author>
                 <author ref="#person__ssoering-cedis-fu-berlin-de">
@@ -48,7 +48,7 @@
                         <surname>Söring</surname>
                         <forename>Sibylle</forename>
                     </persName>
-                    <affiliation>Center für Digitale Systeme</affiliation>
+                    <affiliation ref="#org__277">Center für Digitale Systeme</affiliation>
                     <email>ssoering@cedis.fu-berlin.de</email>
                 </author>
                 <author ref="#person__andreas-loeffler-bermayer-de">
@@ -56,7 +56,7 @@
                         <surname>Löffler</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>andreas@loeffler-bermayer.de</email>
                 </author>
                 <author ref="#person__mail-hitzker-de">
@@ -64,7 +64,7 @@
                         <surname>Hitzker</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>mail@hitzker.de</email>
                 </author>
                 <author ref="#person__markus-hoefler-live-de">
@@ -72,7 +72,7 @@
                         <surname>Höfler</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>Markus.Hoefler@live.de</email>
                 </author>
                 <author ref="#person__timo-schmidt2-student-kit-edu">
@@ -80,7 +80,7 @@
                         <surname>Schmidt</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__234">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>timo.schmidt2@student.kit.edu</email>
                 </author>
             </titleStmt>

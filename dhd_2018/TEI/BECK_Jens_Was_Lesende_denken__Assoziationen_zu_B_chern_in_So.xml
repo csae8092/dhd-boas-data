@@ -8,7 +8,7 @@
                         <surname>Beck</surname>
                         <forename>Jens</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>jens_beck@gmx.de</email>
                 </author>
                 <author ref="#person__marcus-willand-ilw-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation>Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>marcus.willand@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation>Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>Nils.Reiter@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

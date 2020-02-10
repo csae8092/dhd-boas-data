@@ -8,7 +8,7 @@
                         <surname>Herrmann</surname>
                         <forename>J. Berenike</forename>
                     </persName>
-                    <affiliation>Universität Basel, Schweiz</affiliation>
+                    <affiliation ref="#org__25">Universität Basel, Schweiz</affiliation>
                     <email>berenike.herrmann@unibas.ch</email>
                 </author>
             </titleStmt>

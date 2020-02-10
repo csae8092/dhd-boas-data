@@ -8,7 +8,7 @@
                         <surname>Wigg-Wolf</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Römisch-Germanische Kommission des Deutschen Archäologischen Instituts</affiliation>
+                    <affiliation ref="#org__248">Römisch-Germanische Kommission des Deutschen Archäologischen Instituts</affiliation>
                     <email>david.wigg-wolf@dainst.de</email>
                 </author>
                 <author ref="#person__tolle-dbis-cs-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Tolle</surname>
                         <forename>Karsten</forename>
                     </persName>
-                    <affiliation>Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
+                    <affiliation ref="#org__208">Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
                     <email>tolle@dbis.cs.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__timo-kissinger-adwmainz-de">
@@ -24,7 +24,7 @@
                         <surname>Kissinger</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>Timo.Kissinger@adwmainz.de</email>
                 </author>
             </titleStmt>

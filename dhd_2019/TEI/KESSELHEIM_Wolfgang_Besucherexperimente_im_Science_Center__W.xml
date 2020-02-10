@@ -8,7 +8,7 @@
                         <surname>Kesselheim</surname>
                         <forename>Wolfgang</forename>
                     </persName>
-                    <affiliation>Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__89">Universität Zürich, Schweiz</affiliation>
                     <email>wolfgang.kesselheim@ds.uzh.ch</email>
                 </author>
                 <author ref="#person__christoph-hottiger-access-uzh-ch">
@@ -16,7 +16,7 @@
                         <surname>Hottiger</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation>Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__89">Universität Zürich, Schweiz</affiliation>
                     <email>christoph.hottiger@access.uzh.ch</email>
                 </author>
             </titleStmt>

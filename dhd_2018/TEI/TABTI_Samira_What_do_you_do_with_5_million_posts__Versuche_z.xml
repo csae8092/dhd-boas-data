@@ -8,7 +8,7 @@
                         <surname>Pfahler</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation>Technische Universität Dortmund</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dortmund</affiliation>
                     <email>lukas@wandelt-pfahler.de</email>
                 </author>
                 <author ref="#person__frederik-elwert-rub-de">
@@ -16,7 +16,7 @@
                         <surname>Elwert</surname>
                         <forename>Frederik</forename>
                     </persName>
-                    <affiliation>RUB Bochum, Deutschland</affiliation>
+                    <affiliation ref="#org__179">RUB Bochum, Deutschland</affiliation>
                     <email>frederik.elwert@rub.de</email>
                 </author>
                 <author ref="#person__samira-tabti-ruhr-uni-bochum-de">
@@ -24,7 +24,7 @@
                         <surname>Tabti</surname>
                         <forename>Samira</forename>
                     </persName>
-                    <affiliation>RUB Bochum, Deutschland</affiliation>
+                    <affiliation ref="#org__179">RUB Bochum, Deutschland</affiliation>
                     <email>Samira.Tabti@ruhr-uni-bochum.de</email>
                 </author>
                 <author ref="#person__katharina-morik-tu-dortmund-de">
@@ -32,7 +32,7 @@
                         <surname>Morik</surname>
                         <forename>Katharina</forename>
                     </persName>
-                    <affiliation>Technische Universität Dortmund</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dortmund</affiliation>
                     <email>katharina.morik@tu-dortmund.de</email>
                 </author>
                 <author ref="#person__volkhard-krech-rub-de">
@@ -40,7 +40,7 @@
                         <surname>Krech</surname>
                         <forename>Volker</forename>
                     </persName>
-                    <affiliation>RUB Bochum, Deutschland</affiliation>
+                    <affiliation ref="#org__179">RUB Bochum, Deutschland</affiliation>
                     <email>volkhard.krech@rub.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Schlör</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>daniel.schloer@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__blerta-veseli-stud-mail-uni-wuerzburg-de">
@@ -16,7 +16,7 @@
                         <surname>Veseli</surname>
                         <forename>Blerta</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>blerta.veseli@stud-mail.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

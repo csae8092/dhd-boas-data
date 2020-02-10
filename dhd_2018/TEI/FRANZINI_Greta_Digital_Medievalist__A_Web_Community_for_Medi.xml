@@ -8,7 +8,7 @@
                         <surname>Franzini</surname>
                         <forename>Greta</forename>
                     </persName>
-                    <affiliation>Georg-August-Universität Göttingen</affiliation>
+                    <affiliation ref="#org__2">Georg-August-Universität Göttingen</affiliation>
                     <email>gfranzini@etrap.eu</email>
                 </author>
                 <author ref="#person__franz-fischer-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation>Universität zu Köln</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__mike-kestemont-uantwerpen-be">
@@ -24,7 +24,7 @@
                         <surname>Kestemont</surname>
                         <forename>Mike</forename>
                     </persName>
-                    <affiliation>Universiteit Antwerpen</affiliation>
+                    <affiliation ref="#org__3">Universiteit Antwerpen</affiliation>
                     <email>mike.kestemont@uantwerpen.be</email>
                 </author>
             </titleStmt>

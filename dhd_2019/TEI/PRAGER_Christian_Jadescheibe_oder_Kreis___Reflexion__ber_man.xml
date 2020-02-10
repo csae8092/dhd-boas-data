@@ -8,7 +8,7 @@
                         <surname>Prager</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__295">Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
                 <author ref="#person__hubert-mara-iwr-uni-heidelberg-de">
@@ -16,7 +16,7 @@
                         <surname>Mara</surname>
                         <forename>Hubert</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__58">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>hubert.mara@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__bartosz-bogacz-iwr-uni-heidelberg-de">
@@ -24,7 +24,7 @@
                         <surname>Bogacz</surname>
                         <forename>Bartosz</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__58">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>bartosz.bogacz@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__felix-feldmann-iwr-uni-heidelberg-de">
@@ -32,7 +32,7 @@
                         <surname>Feldmann</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation>Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__58">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>felix.feldmann@iwr.uni-heidelberg.de</email>
                 </author>
             </titleStmt>

@@ -11,7 +11,7 @@
                         <surname>Schöch</surname>
                         <forename>Christof</forename>
                     </persName>
-                    <affiliation>Universität Trier, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Trier, Deutschland</affiliation>
                     <email>schoech@uni-trier.de</email>
                 </author>
                 <author ref="#person__zehe-informatik-uni-wuerzburg-de">
@@ -19,7 +19,7 @@
                         <surname>Zehe</surname>
                         <forename>Albin</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>zehe@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__jose-calvo-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>jose.calvo@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -35,7 +35,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

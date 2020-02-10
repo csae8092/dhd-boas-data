@@ -8,7 +8,7 @@
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__90">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>thomas.schmidt@sprachlit.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__manuel-burghardt-ur-de">
@@ -16,7 +16,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__90">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>manuel.burghardt@ur.de</email>
                 </author>
                 <author ref="#person__katrin-dennerlein-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Dennerlein</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation>Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg</affiliation>
+                    <affiliation ref="#org__92">Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg</affiliation>
                     <email>katrin.dennerlein@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

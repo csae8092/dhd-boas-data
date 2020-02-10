@@ -8,7 +8,7 @@
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation>Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__176">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                     <email>tobias.hodel@hist.uzh.ch</email>
                 </author>
             </titleStmt>

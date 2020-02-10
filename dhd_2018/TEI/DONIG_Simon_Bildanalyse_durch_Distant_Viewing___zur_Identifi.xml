@@ -11,7 +11,7 @@
                         <surname>Donig</surname>
                         <forename>Simon</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>simon.donig@uni-passau.de</email>
                 </author>
                 <author ref="#person__maria-christoforaki-uni-passau-de">
@@ -19,7 +19,7 @@
                         <surname>Christoforaki</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>Maria.Christoforaki@Uni-Passau.De</email>
                 </author>
                 <author ref="#person__bernhard-bermeitinger-uni-passau-de">
@@ -27,7 +27,7 @@
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>Bernhard.Bermeitinger@uni-passau.de</email>
                 </author>
                 <author ref="#person__siegfried-handschuh-uni-passau-de">
@@ -35,7 +35,7 @@
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
                     </persName>
-                    <affiliation>Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
                     <email>Siegfried.Handschuh@uni-passau.de</email>
                 </author>
             </titleStmt>

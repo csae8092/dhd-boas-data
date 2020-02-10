@@ -11,7 +11,7 @@
                         <surname>Schaßan</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>schassan@hab.de</email>
                 </author>
             </titleStmt>

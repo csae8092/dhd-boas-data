@@ -8,7 +8,7 @@
                         <surname>Bosse</surname>
                         <forename>Anke</forename>
                     </persName>
-                    <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__65">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>anke.bosse@aau.at</email>
                 </author>
                 <author ref="#person__walter-fanta-aau-at">
@@ -16,7 +16,7 @@
                         <surname>Fanta</surname>
                         <forename>Walter</forename>
                     </persName>
-                    <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__65">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>walter.fanta@aau.at</email>
                 </author>
                 <author ref="#person__katharina-godler-aau-at">
@@ -24,7 +24,7 @@
                         <surname>Godler</surname>
                         <forename>Katharina</forename>
                     </persName>
-                    <affiliation>Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__65">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>katharina.godler@aau.at</email>
                 </author>
                 <author ref="#person__bruening-em-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
                     </persName>
-                    <affiliation>Goethe-Universität Frankfurt / Freies Deutsches Hochstift</affiliation>
+                    <affiliation ref="#org__5">Goethe-Universität Frankfurt / Freies Deutsches Hochstift</affiliation>
                     <email>Bruening@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__artur-boelderl-aau-at">
@@ -40,7 +40,7 @@
                         <surname>Boelderl</surname>
                         <forename>Artur</forename>
                     </persName>
-                    <affiliation>Institut für Germanistik, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__68">Institut für Germanistik, AAU Klagenfurt</affiliation>
                     <email>artur.boelderl@aau.at</email>
                 </author>
             </titleStmt>

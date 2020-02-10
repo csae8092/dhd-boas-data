@@ -8,7 +8,7 @@
                         <surname>Seemann</surname>
                         <forename>Nina</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>nina.seemann@upb.de</email>
                 </author>
                 <author ref="#person__mlmerten-mail-upb-de">
@@ -16,7 +16,7 @@
                         <surname>Merten</surname>
                         <forename>Marie-Luis</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>mlmerten@mail.upb.de</email>
                 </author>
             </titleStmt>

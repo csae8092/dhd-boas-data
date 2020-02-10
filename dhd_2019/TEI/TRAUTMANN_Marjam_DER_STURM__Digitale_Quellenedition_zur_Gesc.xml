@@ -8,7 +8,7 @@
                         <surname>Lorenz</surname>
                         <forename>Anne Katrin</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>anne.lorenz@adwmainz.de</email>
                 </author>
                 <author ref="#person__lea-mueller-dannhausen-gmx-de">
@@ -16,7 +16,7 @@
                         <surname>Müller-Dannhausen</surname>
                         <forename>Lea</forename>
                     </persName>
-                    <affiliation>Johannes Gutenberg-Universität Mainz</affiliation>
+                    <affiliation ref="#org__55">Johannes Gutenberg-Universität Mainz</affiliation>
                     <email>lea.mueller-dannhausen@gmx.de</email>
                 </author>
                 <author ref="#person__marjam-trautmann-adwmainz-de">
@@ -24,7 +24,7 @@
                         <surname>Trautmann</surname>
                         <forename>Marjam</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>marjam.trautmann@adwmainz.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Raunig</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>michael.raunig@uni-graz.at</email>
                 </author>
                 <author ref="#person__elke-hoefler-uni-graz-at">
@@ -16,7 +16,7 @@
                         <surname>Höfler</surname>
                         <forename>Elke</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>elke.hoefler@uni-graz.at</email>
                 </author>
             </titleStmt>

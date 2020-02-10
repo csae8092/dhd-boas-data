@@ -11,7 +11,7 @@
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>sabine.ullrich@campus.lmu.de</email>
                 </author>
                 <author ref="#person__dmb77-cam-ac-uk">
@@ -19,7 +19,7 @@
                         <surname>Bruder</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Universität Cambridge, Vereinigtes Königreich</affiliation>
+                    <affiliation ref="#org__9">Universität Cambridge, Vereinigtes Königreich</affiliation>
                     <email>dmb77@cam.ac.uk</email>
                 </author>
                 <author ref="#person__maximilian-cis-uni-muenchen-de">
@@ -27,7 +27,7 @@
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>maximilian@cis.uni-muenchen.de</email>
                 </author>
             </titleStmt>

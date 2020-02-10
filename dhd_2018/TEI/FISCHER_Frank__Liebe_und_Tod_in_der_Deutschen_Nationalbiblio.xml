@@ -11,7 +11,7 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Higher School of Economics, Moskau</affiliation>
+                    <affiliation ref="#org__45">Higher School of Economics, Moskau</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
                 <author ref="#person__r-jaschke-sheffield-ac-uk">
@@ -19,7 +19,7 @@
                         <surname>Jäschke</surname>
                         <forename>Robert</forename>
                     </persName>
-                    <affiliation>Humboldt-Universität, Berlin</affiliation>
+                    <affiliation ref="#org__27">Humboldt-Universität, Berlin</affiliation>
                     <email>r.jaschke@sheffield.ac.uk</email>
                 </author>
             </titleStmt>

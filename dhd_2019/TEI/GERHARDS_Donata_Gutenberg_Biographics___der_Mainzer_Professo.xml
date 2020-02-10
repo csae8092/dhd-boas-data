@@ -8,7 +8,7 @@
                         <surname>Gerhards</surname>
                         <forename>Donata</forename>
                     </persName>
-                    <affiliation>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</affiliation>
+                    <affiliation ref="#org__55 #org__262">Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</affiliation>
                     <email>dgerhard@students.uni-mainz.de</email>
                 </author>
                 <author ref="#person__f-huether-ub-uni-mainz-de">
@@ -16,7 +16,7 @@
                         <surname>Hüther</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</affiliation>
+                    <affiliation ref="#org__55 #org__262">Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</affiliation>
                     <email>F.Huether@ub.uni-mainz.de</email>
                 </author>
             </titleStmt>

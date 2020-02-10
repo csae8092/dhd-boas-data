@@ -11,7 +11,7 @@
                         <surname>Seltmann</surname>
                         <forename>Melanie E.-H.</forename>
                     </persName>
-                    <affiliation>Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Wien, Österreich</affiliation>
                     <email>melanie.seltmann@univie.ac.at</email>
                 </author>
             </titleStmt>

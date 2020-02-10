@@ -8,7 +8,7 @@
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>laubrock@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__ddubray-uni-potsdam-de">
@@ -16,7 +16,7 @@
                         <surname>Dubray</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>ddubray@uni-potsdam.de</email>
                 </author>
             </titleStmt>

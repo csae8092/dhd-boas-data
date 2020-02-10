@@ -11,7 +11,7 @@
                         <surname>Arnold</surname>
                         <forename>Eckhart</forename>
                     </persName>
-                    <affiliation>Bayerische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__88">Bayerische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>arnold@badw.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Bäumer</surname>
                         <forename>Frederik Simon</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>fbaeumer@mail.upb.de</email>
                 </author>
                 <author ref="#person__bbuff-mail-upb-de">
@@ -16,7 +16,7 @@
                         <surname>Buff</surname>
                         <forename>Bianca</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>bbuff@mail.upb.de</email>
                 </author>
                 <author ref="#person__geierhos-mail-upb-de">
@@ -24,7 +24,7 @@
                         <surname>Geierhos</surname>
                         <forename>Michaela</forename>
                     </persName>
-                    <affiliation>Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
                     <email>geierhos@mail.upb.de</email>
                 </author>
             </titleStmt>

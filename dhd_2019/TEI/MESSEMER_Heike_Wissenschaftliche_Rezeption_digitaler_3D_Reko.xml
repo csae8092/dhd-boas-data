@@ -8,7 +8,7 @@
                         <surname>Messemer</surname>
                         <forename>Heike</forename>
                     </persName>
-                    <affiliation>Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__57">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>heike.messemer@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

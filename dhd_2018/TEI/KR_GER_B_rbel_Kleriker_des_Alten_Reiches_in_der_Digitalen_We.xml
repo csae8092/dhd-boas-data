@@ -8,7 +8,7 @@
                         <surname>Kröger</surname>
                         <forename>Bärbel</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
                     <email>bkroege@gwdg.de</email>
                 </author>
                 <author ref="#person__cpopp-gwdg-de">
@@ -16,7 +16,7 @@
                         <surname>Popp</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
                     <email>cpopp@gwdg.de</email>
                 </author>
             </titleStmt>

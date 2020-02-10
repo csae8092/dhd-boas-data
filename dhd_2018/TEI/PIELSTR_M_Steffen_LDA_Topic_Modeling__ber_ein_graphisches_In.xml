@@ -11,7 +11,7 @@
                         <surname>Simmler</surname>
                         <forename>Severin</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>severin.simmler@stud-mail.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__thorsten-vitt-uni-wuerzburg-de">
@@ -19,7 +19,7 @@
                         <surname>Vitt</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>thorsten.vitt@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__pielstroem-biozentrum-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Pielström</surname>
                         <forename>Steffen</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>pielstroem@biozentrum.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

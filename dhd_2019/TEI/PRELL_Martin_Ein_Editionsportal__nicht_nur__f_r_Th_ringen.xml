@@ -8,7 +8,7 @@
                         <surname>Prell</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__223">Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
                     <email>martin.prell@uni-jena.de</email>
                 </author>
             </titleStmt>

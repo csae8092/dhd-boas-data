@@ -8,7 +8,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
                 <author ref="#person__selina-meyer-stud-uni-regensburg-de">
@@ -16,7 +16,7 @@
                         <surname>Meyer</surname>
                         <forename>Selina</forename>
                     </persName>
-                    <affiliation>Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__33">Universität Regensburg, Deutschland</affiliation>
                     <email>Selina.Meyer@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__stephanie-schmidbauer-stud-uni-regensburg-de">
@@ -24,7 +24,7 @@
                         <surname>Schmidtbauer</surname>
                         <forename>Stephanie</forename>
                     </persName>
-                    <affiliation>Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__33">Universität Regensburg, Deutschland</affiliation>
                     <email>Stephanie.Schmidbauer@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__johannes-molz-googlemail-com">
@@ -32,7 +32,7 @@
                         <surname>Molz</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation>Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>johannes.molz@googlemail.com</email>
                 </author>
             </titleStmt>

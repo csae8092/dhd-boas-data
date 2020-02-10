@@ -8,7 +8,7 @@
                         <surname>Sippl</surname>
                         <forename>Colin</forename>
                     </persName>
-                    <affiliation>Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__90">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>Colin.Sippl@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__florian-fuchs-stud-uni-regensburg-de">
@@ -16,7 +16,7 @@
                         <surname>Fuchs</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation>Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__90">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>Florian.Fuchs@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__manuel-burghardt-ur-de">
@@ -24,7 +24,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation>Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__90">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>manuel.burghardt@ur.de</email>
                 </author>
             </titleStmt>

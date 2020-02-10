@@ -8,7 +8,7 @@
                         <surname>Bürgermeister</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation>Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
                     <email>martina.buergermeister@uni-graz.at</email>
                 </author>
                 <author ref="#person__gabriele-bartz-oeaw-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Bartz</surname>
                         <forename>Gabriele</forename>
                     </persName>
-                    <affiliation>ÖAW, Wien</affiliation>
+                    <affiliation ref="#org__301">ÖAW, Wien</affiliation>
                     <email>Gabriele.Bartz@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__markus-gneiss-oeaw-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Gneiß</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>ÖAW, Wien</affiliation>
+                    <affiliation ref="#org__301">ÖAW, Wien</affiliation>
                     <email>Markus.Gneiss@oeaw.ac.at</email>
                 </author>
             </titleStmt>

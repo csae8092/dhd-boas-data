@@ -11,7 +11,7 @@
                         <surname>Scherl</surname>
                         <forename>Magdalena</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz, Deutschland</affiliation>
                     <email>magdalenascherl@gmail.com</email>
                 </author>
                 <author ref="#person__martin-unold-gmail-com">
@@ -19,7 +19,7 @@
                         <surname>Unold</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz, Deutschland</affiliation>
                     <email>martin.unold@gmail.com</email>
                 </author>
                 <author ref="#person__timo-homburg-hs-mainz-de">
@@ -27,7 +27,7 @@
                         <surname>Homburg</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz, Deutschland</affiliation>
                     <email>timo.homburg@hs-mainz.de</email>
                 </author>
             </titleStmt>

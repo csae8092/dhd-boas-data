@@ -11,7 +11,7 @@
                         <surname>Bruder</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>University of Cambridge, Vereinigtes Königreich</affiliation>
+                    <affiliation ref="#org__9">University of Cambridge, Vereinigtes Königreich</affiliation>
                     <email>dmb77@cam.ac.uk</email>
                 </author>
                 <author ref="#person__sht25-cl-cam-ac-uk">
@@ -19,7 +19,7 @@
                         <surname>Teufel</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation>University of Cambridge, Vereinigtes Königreich</affiliation>
+                    <affiliation ref="#org__9">University of Cambridge, Vereinigtes Königreich</affiliation>
                     <email>sht25@cl.cam.ac.uk</email>
                 </author>
             </titleStmt>

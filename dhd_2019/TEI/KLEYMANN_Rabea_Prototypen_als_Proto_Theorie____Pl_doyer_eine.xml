@@ -8,7 +8,7 @@
                         <surname>Kleymann</surname>
                         <forename>Rabea</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>r.kleymann90@gmail.com</email>
                 </author>
             </titleStmt>

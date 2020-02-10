@@ -8,7 +8,7 @@
                         <surname>Strobel</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation>Philipps-Universität Marburg, Deutschland</affiliation>
+                    <affiliation ref="#org__70">Philipps-Universität Marburg, Deutschland</affiliation>
                     <email>strobel@staff.uni-marburg.de</email>
                 </author>
                 <author ref="#person__buerger-slub-dresden-de">
@@ -16,7 +16,7 @@
                         <surname>Bürger</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</affiliation>
+                    <affiliation ref="#org__16">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</affiliation>
                     <email>buerger@slub-dresden.de</email>
                 </author>
             </titleStmt>

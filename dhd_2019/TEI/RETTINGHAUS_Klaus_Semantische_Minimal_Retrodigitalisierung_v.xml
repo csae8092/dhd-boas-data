@@ -11,7 +11,7 @@
                         <surname>Rettinghaus</surname>
                         <forename>Klaus</forename>
                     </persName>
-                    <affiliation>Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__54">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
                     <email>klaus.rettinghaus@gmail.com</email>
                 </author>
             </titleStmt>

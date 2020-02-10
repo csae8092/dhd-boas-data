@@ -8,7 +8,7 @@
                         <surname>Lauer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation>Universität Basel, Schweiz</affiliation>
+                    <affiliation ref="#org__25">Universität Basel, Schweiz</affiliation>
                     <email>gerhard.lauer@unibas.ch</email>
                 </author>
             </titleStmt>

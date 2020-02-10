@@ -8,7 +8,7 @@
                         <surname>Gálffy</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>agalffy@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__julian-kamphausen-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Kamphausen</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>julian.kamphausen@uni-koeln.de</email>
                 </author>
                 <author ref="#person__simone-kronenwett-uni-koeln-de">
@@ -24,7 +24,7 @@
                         <surname>Kronenwett</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>simone.kronenwett@uni-koeln.de</email>
                 </author>
                 <author ref="#person__jan-wieners-uni-koeln-de">
@@ -32,7 +32,7 @@
                         <surname>Wieners</surname>
                         <forename>Jan G.</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>jan.wieners@uni-koeln.de</email>
                 </author>
             </titleStmt>

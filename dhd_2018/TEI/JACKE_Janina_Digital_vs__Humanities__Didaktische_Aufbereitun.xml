@@ -8,7 +8,7 @@
                         <surname>Jacke</surname>
                         <forename>Janina</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>janina.jacke@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-horstmann-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__j-c-meister-uni-hamburg-de">
@@ -24,7 +24,7 @@
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>j-c-meister@uni-hamburg.de</email>
                 </author>
             </titleStmt>

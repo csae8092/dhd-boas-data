@@ -11,7 +11,7 @@
                         <surname>Jarosch</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>julian.jarosch@adwmainz.de</email>
                 </author>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
@@ -19,7 +19,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
                 <author ref="#person__torsten-schrade-adwmainz-de">
@@ -27,7 +27,7 @@
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>torsten.schrade@adwmainz.de</email>
                 </author>
                 <author ref="#person__tariq-yousef-adwmainz-de">
@@ -35,7 +35,7 @@
                         <surname>Yousef</surname>
                         <forename>Tariq</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>tariq.yousef@adwmainz.de</email>
                 </author>
             </titleStmt>

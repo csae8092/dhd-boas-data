@@ -8,7 +8,7 @@
                         <surname>Krämer</surname>
                         <forename>Sybille</forename>
                     </persName>
-                    <affiliation>Freie Universität Berlin, Deutschland, Institut für Philosophie</affiliation>
+                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland, Institut für Philosophie</affiliation>
                     <email>sybkram@zedat.fu-berlin.de</email>
                 </author>
             </titleStmt>

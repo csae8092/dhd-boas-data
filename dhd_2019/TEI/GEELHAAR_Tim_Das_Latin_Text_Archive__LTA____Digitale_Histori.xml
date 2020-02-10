@@ -8,7 +8,7 @@
                         <surname>Geelhaar</surname>
                         <forename>Tim</forename>
                     </persName>
-                    <affiliation>Goethe Universität Frankfurt am Main, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Goethe Universität Frankfurt am Main, Deutschland</affiliation>
                     <email>geelhaar@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

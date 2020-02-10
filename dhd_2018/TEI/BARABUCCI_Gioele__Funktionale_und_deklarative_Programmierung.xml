@@ -11,7 +11,7 @@
                         <surname>Barabucci</surname>
                         <forename>Gioele</forename>
                     </persName>
-                    <affiliation>Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
                     <email>gioele.barabucci@uni-koeln.de</email>
                 </author>
             </titleStmt>

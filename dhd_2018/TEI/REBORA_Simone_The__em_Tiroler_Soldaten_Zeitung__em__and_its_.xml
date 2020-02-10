@@ -8,7 +8,7 @@
                         <surname>Salgaro</surname>
                         <forename>Massimo</forename>
                     </persName>
-                    <affiliation>University of Verona, Italy</affiliation>
+                    <affiliation ref="#org__184">University of Verona, Italy</affiliation>
                     <email>massimo.salgaro@univr.it</email>
                 </author>
                 <author ref="#person__simone-rebora-univr-it">
@@ -16,7 +16,7 @@
                         <surname>Rebora</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation>University of Verona, Italy</affiliation>
+                    <affiliation ref="#org__184">University of Verona, Italy</affiliation>
                     <email>simone.rebora@univr.it</email>
                 </author>
                 <author ref="#person__gerhard-lauer-unibas-ch">
@@ -24,7 +24,7 @@
                         <surname>Lauer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation>University of Basel, Switzerland</affiliation>
+                    <affiliation ref="#org__186">University of Basel, Switzerland</affiliation>
                     <email>gerhard.lauer@unibas.ch</email>
                 </author>
                 <author ref="#person__berenike-herrmann-unibas-ch">
@@ -32,7 +32,7 @@
                         <surname>Herrmann</surname>
                         <forename>J. Berenike</forename>
                     </persName>
-                    <affiliation>University of Basel, Switzerland</affiliation>
+                    <affiliation ref="#org__186">University of Basel, Switzerland</affiliation>
                     <email>berenike.herrmann@unibas.ch</email>
                 </author>
             </titleStmt>

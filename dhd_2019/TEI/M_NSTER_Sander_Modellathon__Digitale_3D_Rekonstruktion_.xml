@@ -8,7 +8,7 @@
                         <surname>Münster</surname>
                         <forename>Sander</forename>
                     </persName>
-                    <affiliation>TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__118">TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
                 <author ref="#person__jonas-christen-zhdk-ch">
@@ -16,7 +16,7 @@
                         <surname>Christen</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation>Zürcher Hochschule der Künste, Schweiz</affiliation>
+                    <affiliation ref="#org__132">Zürcher Hochschule der Künste, Schweiz</affiliation>
                     <email>jonas.christen@zhdk.ch</email>
                 </author>
             </titleStmt>

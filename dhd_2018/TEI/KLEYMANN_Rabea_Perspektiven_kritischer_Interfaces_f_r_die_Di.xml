@@ -8,7 +8,7 @@
                         <surname>Kleymann</surname>
                         <forename>Rabea</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>Rabea.Kleymann@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-c-meister-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>jan-c-meister@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-erik-stange-uni-hamburg-de">
@@ -24,7 +24,7 @@
                         <surname>Stange</surname>
                         <forename>Jan-Erik</forename>
                     </persName>
-                    <affiliation>Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
                     <email>jan-erik.stange@uni-hamburg.de</email>
                 </author>
             </titleStmt>

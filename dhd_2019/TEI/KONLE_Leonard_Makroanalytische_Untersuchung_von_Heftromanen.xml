@@ -11,7 +11,7 @@
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__leonardkonle-gmail-com">
@@ -19,7 +19,7 @@
                         <surname>Konle</surname>
                         <forename>Leonard</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>leonardkonle@gmail.com</email>
                 </author>
                 <author ref="#person__p-leinen-dnb-de">
@@ -27,7 +27,7 @@
                         <surname>Leinen</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Deutsche Nationalbibliothek, Frankfurt a.M.</affiliation>
+                    <affiliation ref="#org__271">Deutsche Nationalbibliothek, Frankfurt a.M.</affiliation>
                     <email>P.Leinen@dnb.de</email>
                 </author>
             </titleStmt>

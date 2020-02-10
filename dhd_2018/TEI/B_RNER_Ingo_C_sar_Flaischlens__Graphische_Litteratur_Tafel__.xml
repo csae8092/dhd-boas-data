@@ -8,7 +8,7 @@
                         <surname>Börner</surname>
                         <forename>Ingo</forename>
                     </persName>
-                    <affiliation>Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__6">Universität Wien, Österreich</affiliation>
                     <email>ingo.boerner@univie.ac.at</email>
                 </author>
                 <author ref="#person__ffischer-hse-ru">
@@ -16,7 +16,7 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation>National Research University Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__46">National Research University Higher School of Economics, Moskau, Russland</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
                 <author ref="#person__angelika-hechtl-wu-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Hechtl</surname>
                         <forename>Angelika</forename>
                     </persName>
-                    <affiliation>Wirtschaftsuniversität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__168">Wirtschaftsuniversität Wien, Österreich</affiliation>
                     <email>angelika.hechtl@wu.ac.at</email>
                 </author>
                 <author ref="#person__r-jaschke-sheffield-ac-uk">
@@ -32,7 +32,7 @@
                         <surname>Jäschke</surname>
                         <forename>Robert</forename>
                     </persName>
-                    <affiliation>University of Sheffield, UK</affiliation>
+                    <affiliation ref="#org__169">University of Sheffield, UK</affiliation>
                     <email>r.jaschke@sheffield.ac.uk</email>
                 </author>
                 <author ref="#person__trilcke-uni-potsdam-de">
@@ -40,7 +40,7 @@
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
                     </persName>
-                    <affiliation>Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
                     <email>trilcke@uni-potsdam.de</email>
                 </author>
             </titleStmt>

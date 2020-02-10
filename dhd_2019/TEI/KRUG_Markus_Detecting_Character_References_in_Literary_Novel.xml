@@ -8,7 +8,7 @@
                         <surname>Krug</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__266">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__sebastian-kempf-informatik-uni-wuerzburg-de">
@@ -16,7 +16,7 @@
                         <surname>Kempf</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__266">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>sebastian.kempf@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__david-schmidt-informatik-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>David</surname>
                         <forename>Schmidt</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__266">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>david.schmidt@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__lukas-weimer-uni-wuerzburg-de">
@@ -32,7 +32,7 @@
                         <surname>Lukas</surname>
                         <forename>Weimer</forename>
                     </persName>
-                    <affiliation>Chair of Literary Computing, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__269">Chair of Literary Computing, Universität Würzburg, Deutschland</affiliation>
                     <email>lukas.weimer@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__frank-puppe-informatik-uni-wuerzburg-de">
@@ -40,7 +40,7 @@
                         <surname>Frank</surname>
                         <forename>Puppe</forename>
                     </persName>
-                    <affiliation>Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__266">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>frank.puppe@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Ernst</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>University of Amsterdam, Niederlande</affiliation>
+                    <affiliation ref="#org__158">University of Amsterdam, Niederlande</affiliation>
                     <email>t.ernst@uva.nl</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Rössel</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>roessel@hab.de</email>
                 </author>
                 <author ref="#person__maus-hab-de">
@@ -16,7 +16,7 @@
                         <surname>Maus</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>maus@hab.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>König</surname>
                         <forename>Mareike</forename>
                     </persName>
-                    <affiliation>Deutsches Historisches Institut Paris, Frankreich</affiliation>
+                    <affiliation ref="#org__232">Deutsches Historisches Institut Paris, Frankreich</affiliation>
                     <email>mkoenig@dhi-paris.fr</email>
                 </author>
             </titleStmt>

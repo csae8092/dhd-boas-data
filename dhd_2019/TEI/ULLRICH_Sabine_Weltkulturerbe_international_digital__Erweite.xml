@@ -8,7 +8,7 @@
                         <surname>Röhrer</surname>
                         <forename>Ines</forename>
                     </persName>
-                    <affiliation>LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__289">LMU München, Deutschland</affiliation>
                     <email>i.roehrer@campus.lmu.de</email>
                 </author>
                 <author ref="#person__sabine-ullrich-campus-lmu-de">
@@ -16,7 +16,7 @@
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
                     </persName>
-                    <affiliation>LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__289">LMU München, Deutschland</affiliation>
                     <email>sabine.ullrich@campus.lmu.de</email>
                 </author>
                 <author ref="#person__maximilian-cis-uni-muenchen-de">
@@ -24,7 +24,7 @@
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation>LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__289">LMU München, Deutschland</affiliation>
                     <email>maximilian@cis.uni-muenchen.de</email>
                 </author>
             </titleStmt>

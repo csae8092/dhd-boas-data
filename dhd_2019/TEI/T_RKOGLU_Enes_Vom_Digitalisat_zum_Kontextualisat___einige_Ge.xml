@@ -8,7 +8,7 @@
                         <surname>Türkoglu</surname>
                         <forename>Enes</forename>
                     </persName>
-                    <affiliation>Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der Universität zu Köln</affiliation>
+                    <affiliation ref="#org__1">Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der Universität zu Köln</affiliation>
                     <email>enes.tuerkoglu@uni-koeln.de</email>
                 </author>
             </titleStmt>

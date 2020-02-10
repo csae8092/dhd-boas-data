@@ -8,7 +8,7 @@
                         <surname>Rittershaus</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation>Hochschule Mainz - University of Applied Sciences, Deutschland</affiliation>
+                    <affiliation ref="#org__56">Hochschule Mainz - University of Applied Sciences, Deutschland</affiliation>
                     <email>david.rittershaus@hs-mainz.de</email>
                 </author>
             </titleStmt>

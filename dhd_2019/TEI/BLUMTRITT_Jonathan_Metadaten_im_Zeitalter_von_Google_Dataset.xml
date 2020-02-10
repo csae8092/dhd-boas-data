@@ -8,7 +8,7 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation>Data Center for the Humanities, Universität zu Köln</affiliation>
+                    <affiliation ref="#org__37">Data Center for the Humanities, Universität zu Köln</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__frau-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Rau</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation>Institut für Linguistik, Universität zu Köln</affiliation>
+                    <affiliation ref="#org__244">Institut für Linguistik, Universität zu Köln</affiliation>
                     <email>frau@uni-koeln.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Burckhardt</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation>Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
+                    <affiliation ref="#org__113">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
                     <email>burckhardtd@geschichte.hu-berlin.de</email>
                 </author>
                 <author ref="#person__anna-menny-igdj-hh-de">
@@ -16,7 +16,7 @@
                         <surname>Menny</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation>Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
+                    <affiliation ref="#org__113">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
                     <email>anna.menny@igdj-hh.de</email>
                 </author>
             </titleStmt>

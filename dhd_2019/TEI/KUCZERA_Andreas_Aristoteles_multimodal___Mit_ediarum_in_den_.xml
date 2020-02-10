@@ -11,7 +11,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation>Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
                 <author ref="#person__fechner-bbaw-de">
@@ -19,7 +19,7 @@
                         <surname>Martin</surname>
                         <forename>Fechner</forename>
                     </persName>
-                    <affiliation>Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>fechner@bbaw.de</email>
                 </author>
             </titleStmt>

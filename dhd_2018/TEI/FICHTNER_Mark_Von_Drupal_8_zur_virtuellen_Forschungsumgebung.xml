@@ -8,7 +8,7 @@
                         <surname>Fichtner</surname>
                         <forename>Mark</forename>
                     </persName>
-                    <affiliation>Germanisches Nationalmuseum, Deutschland</affiliation>
+                    <affiliation ref="#org__32">Germanisches Nationalmuseum, Deutschland</affiliation>
                     <email>m.fichtner@wiss-ki.eu</email>
                 </author>
             </titleStmt>

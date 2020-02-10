@@ -8,7 +8,7 @@
                         <surname>Hannesschläger</surname>
                         <forename>Vanessa</forename>
                     </persName>
-                    <affiliation>ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>Vanessa.Hannesschlaeger@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__pawel-kamocki-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>Kamocki</surname>
                         <forename>Pawel</forename>
                     </persName>
-                    <affiliation>L'Université Paris Descartes, Frankreich</affiliation>
+                    <affiliation ref="#org__115">L'Université Paris Descartes, Frankreich</affiliation>
                     <email>pawel.kamocki@gmail.com</email>
                 </author>
                 <author ref="#person__walter-scholger-uni-graz-at">
@@ -24,7 +24,7 @@
                         <surname>Scholger</surname>
                         <forename>Walter</forename>
                     </persName>
-                    <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__116">ZIM-ACDH, Universität Graz, Österreich</affiliation>
                     <email>walter.scholger@uni-graz.at</email>
                 </author>
             </titleStmt>

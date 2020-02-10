@@ -8,7 +8,7 @@
                         <surname>Krautter</surname>
                         <forename>Benjamin</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>Benjamin.Krautter@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__janis-pagel-ims-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Pagel</surname>
                         <forename>Janis</forename>
                     </persName>
-                    <affiliation>Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
                     <email>janis.pagel@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

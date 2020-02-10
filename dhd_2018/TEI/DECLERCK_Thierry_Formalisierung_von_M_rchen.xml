@@ -8,7 +8,7 @@
                         <surname>Declerck</surname>
                         <forename>Thierry</forename>
                     </persName>
-                    <affiliation>DFKI GmbH, Deutschland</affiliation>
+                    <affiliation ref="#org__117">DFKI GmbH, Deutschland</affiliation>
                     <email>declerck@dfki.de</email>
                 </author>
                 <author ref="#person__aamann-coli-uni-saarland-de">
@@ -16,7 +16,7 @@
                         <surname>Aman</surname>
                         <forename>Anastasija</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
                     <email>aamann@coli.uni-saarland.de</email>
                 </author>
                 <author ref="#person__stefang-coli-uni-saarland-de">
@@ -24,7 +24,7 @@
                         <surname>Grünewald</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
                     <email>stefang@coli.uni-saarland.de</email>
                 </author>
                 <author ref="#person__malinux-t-online-de">
@@ -32,7 +32,7 @@
                         <surname>Lindemann</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
                     <email>malinux@t-online.de</email>
                 </author>
                 <author ref="#person__lkschae-gmail-com">
@@ -40,7 +40,7 @@
                         <surname>Schäfer</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
                     <email>lkschae@gmail.com</email>
                 </author>
                 <author ref="#person__s9naskac-stud-uni-saarland-de">
@@ -48,7 +48,7 @@
                         <surname>Skachkova</surname>
                         <forename>Natalia</forename>
                     </persName>
-                    <affiliation>Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
                     <email>s9naskac@stud.uni-saarland.de</email>
                 </author>
             </titleStmt>

@@ -11,7 +11,7 @@
                         <surname>Dahnke</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation>Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
                     <email>fedja_anatevka@web.de</email>
                 </author>
             </titleStmt>

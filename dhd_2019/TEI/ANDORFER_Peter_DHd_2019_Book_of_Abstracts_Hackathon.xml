@@ -8,7 +8,7 @@
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>peter.andorfer@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__cremer-maxweberstiftung-de">
@@ -16,7 +16,7 @@
                         <surname>Cremer</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation>Max Weber Stiftung, Bonn</affiliation>
+                    <affiliation ref="#org__44">Max Weber Stiftung, Bonn</affiliation>
                     <email>Cremer@MaxWeberStiftung.de</email>
                 </author>
                 <author ref="#person__steyer-hab-de">
@@ -24,7 +24,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation>Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__20">Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
             </titleStmt>

@@ -11,7 +11,7 @@
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>svenjasimone.guhr@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__franziska-pannach-stud-uni-goettingen-de">
@@ -19,7 +19,7 @@
                         <surname>Pannach</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>franziska.pannach@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__stefan-ziehe-stud-uni-goettingen-de">
@@ -27,7 +27,7 @@
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>stefan.ziehe@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__jknauth-uni-goettingen-de">
@@ -35,7 +35,7 @@
                         <surname>Knauth</surname>
                         <forename>Jürgen</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>jknauth@uni-goettingen.de</email>
                 </author>
                 <author ref="#person__carina-kauf-stud-uni-goettingen-de">
@@ -43,7 +43,7 @@
                         <surname>Kauf</surname>
                         <forename>Carina</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>carina.kauf@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__csporled-gwdg-de">
@@ -51,7 +51,7 @@
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
-                    <affiliation>Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Universität Göttingen, Deutschland</affiliation>
                     <email>csporled@gwdg.de</email>
                 </author>
             </titleStmt>

@@ -8,7 +8,7 @@
                         <surname>Dimpel</surname>
                         <forename>Friedrich</forename>
                     </persName>
-                    <affiliation>Universität Erlangen</affiliation>
+                    <affiliation ref="#org__303">Universität Erlangen</affiliation>
                     <email>mail@dimpel.de</email>
                 </author>
                 <author ref="#person__thomas-proisl-fau-de">
@@ -16,7 +16,7 @@
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation>Universität Erlangen</affiliation>
+                    <affiliation ref="#org__303">Universität Erlangen</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
             </titleStmt>

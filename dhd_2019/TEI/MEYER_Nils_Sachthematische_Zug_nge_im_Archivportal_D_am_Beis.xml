@@ -8,7 +8,7 @@
                         <surname>Meyer</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation>Landesarchiv Baden-Württemberg, Deutschland</affiliation>
+                    <affiliation ref="#org__288">Landesarchiv Baden-Württemberg, Deutschland</affiliation>
                     <email>nils.meyer@la-bw.de</email>
                 </author>
             </titleStmt>

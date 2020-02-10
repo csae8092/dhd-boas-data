@@ -8,7 +8,7 @@
                         <surname>Stuber</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation>Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__25">Universität Bern, Schweiz</affiliation>
                     <email>martin.stuber@hist.unibe.ch</email>
                 </author>
                 <author ref="#person__p-daengeli-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation>Universität Bern, Schweiz; Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__25 #org__1">Universität Bern, Schweiz; Cologne Center for eHumanities</affiliation>
                     <email>p.daengeli@uni-koeln.de</email>
                 </author>
                 <author ref="#person__christian-forney-hist-unibe-ch">
@@ -24,7 +24,7 @@
                         <surname>Forney</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation>Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__25">Universität Bern, Schweiz</affiliation>
                     <email>christian.forney@hist.unibe.ch</email>
                 </author>
             </titleStmt>

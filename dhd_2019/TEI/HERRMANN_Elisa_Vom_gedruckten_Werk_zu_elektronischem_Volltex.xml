@@ -11,7 +11,7 @@
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>boenig@bbaw.de</email>
                 </author>
                 <author ref="#person__elisa-herrmann-hab-de">
@@ -19,7 +19,7 @@
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>elisa.herrmann@hab.de</email>
                 </author>
                 <author ref="#person__volker-hartmann-kit-edu">
@@ -27,7 +27,7 @@
                         <surname>Hartmann</surname>
                         <forename>Volker</forename>
                     </persName>
-                    <affiliation ref="#org__282">Steinbuch Centre for Computing / KIT</affiliation>
+                    <affiliation ref="#org__435">Steinbuch Centre for Computing / KIT</affiliation>
                     <email>volker.hartmann@kit.edu</email>
                 </author>
             </titleStmt>
@@ -87,7 +87,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; "> Lorem ipsum<rs type="bibl" ref="#bibl__2546"/></bibl>
+                    <bibl style="text-align:left; "> Lorem ipsum<rs type="bibl" ref="#bibl__3782"><rs type="bibl" ref="#bibl__2546"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

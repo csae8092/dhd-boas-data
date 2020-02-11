@@ -11,7 +11,7 @@
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__36">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
                 <author ref="#person__stefan-evert-fau-de">
@@ -19,7 +19,7 @@
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__36">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>stefan.evert@fau.de</email>
                 </author>
             </titleStmt>
@@ -113,29 +113,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1584"><hi rend="bold">Argamon, Shlomo</hi> (2008): „Interpreting Burrows’ delta: Geometric and probabilistic foundations“. In: 
+                        <rs type="bibl" ref="#bibl__201"><rs type="bibl" ref="#bibl__1584"><hi rend="bold">Argamon, Shlomo</hi> (2008): „Interpreting Burrows’ delta: Geometric and probabilistic foundations“. In: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 23/2: 131–47. https://doi.org/10.1093/llc/fqn003
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__129"><hi rend="bold">Burrows, John</hi> (2002): „‘Delta’—A measure of stylistic difference and a guide to likely authorship“. In: 
+                        <rs type="bibl" ref="#bibl__172"><rs type="bibl" ref="#bibl__129"><hi rend="bold">Burrows, John</hi> (2002): „‘Delta’—A measure of stylistic difference and a guide to likely authorship“. In: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 17/3: 267–87. https://doi.org/10.1093/llc/17.3.267.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__122"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten</hi> (2017): „Understanding and explaining Delta measures for authorship attribution.“ In: 
+                        <rs type="bibl" ref="#bibl__162"><rs type="bibl" ref="#bibl__122"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten</hi> (2017): „Understanding and explaining Delta measures for authorship attribution.“ In: 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi>. https://doi.org/10.1093/llc/fqx023.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1585"><hi rend="bold">Grieve, Jack / Carmody, Emily / Clarke, Isobelle / Gideon, Hannah / Heini, Annina / Nini, Andrea / Waibel, Emily</hi> (in Begutachtung): „Attributing the Bixby Letter using n-gram tracing“. Eingereicht bei 
+                        <rs type="bibl" ref="#bibl__1645"><rs type="bibl" ref="#bibl__1585"><hi rend="bold">Grieve, Jack / Carmody, Emily / Clarke, Isobelle / Gideon, Hannah / Heini, Annina / Nini, Andrea / Waibel, Emily</hi> (in Begutachtung): „Attributing the Bixby Letter using n-gram tracing“. Eingereicht bei 
                         <hi rend="italic">Digital Scholarship in the Humanities</hi> am 26. Mai 2017.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__130"><hi rend="bold">Jannidis, Fotis / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten</hi> (2015): „Improving Burrows’ Delta – An empirical evaluation of text distance measures“. In: 
+                        <rs type="bibl" ref="#bibl__177"><rs type="bibl" ref="#bibl__130"><hi rend="bold">Jannidis, Fotis / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten</hi> (2015): „Improving Burrows’ Delta – An empirical evaluation of text distance measures“. In: 
                         <hi rend="italic">Digital Humanities 2015: Conference Abstracts</hi>. http://dh2015.org/abstracts.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1586"><hi rend="bold">Smith, Peter W. H. / Aldridge, W.</hi> (2011): „Improving authorship attribution: Optimizing Burrows’ delta method“. In: 
+                        <rs type="bibl" ref="#bibl__202"><rs type="bibl" ref="#bibl__1586"><hi rend="bold">Smith, Peter W. H. / Aldridge, W.</hi> (2011): „Improving authorship attribution: Optimizing Burrows’ delta method“. In: 
                         <hi rend="italic">Journal of Quantitative Linguistics</hi> 18/1: 63–88. https://doi.org/10.1080/09296174.2011.533591.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

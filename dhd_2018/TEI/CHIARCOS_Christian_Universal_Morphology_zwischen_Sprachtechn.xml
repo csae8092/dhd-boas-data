@@ -8,7 +8,7 @@
                         <surname>Chiarcos</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>chiarcos@informatik.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__donandt-informatik-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Donandt</surname>
                         <forename>Kathrin</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>donandt@informatik.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__ionov-informatik-uni-frankfurt-de">
@@ -24,7 +24,7 @@
                         <surname>Ionov</surname>
                         <forename>Maxim</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>ionov@informatik.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__pawlowski-lingua-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Rind-Pawlowski</surname>
                         <forename>Monika</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>pawlowski@lingua.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__sargsyan-em-uni-frankfurt-de">
@@ -40,7 +40,7 @@
                         <surname>Sargsian</surname>
                         <forename>Hasmik</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>Sargsyan@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__wichersschreur-em-uni-frankfurt-de">
@@ -48,7 +48,7 @@
                         <surname>Wichers Schreur</surname>
                         <forename>Jesse</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>wichersschreur@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>
@@ -220,16 +220,16 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__421"><hi rend="bold">Chiarcos, Christian / Ionov, Maxim / Rind-Pawlowski, Monika / Fäth, Christian / Wichers Schreur, Jesse / Nevskaya, Irina</hi> (2017): “LLODifying linguistic glosses” in: 
+                        <rs type="bibl" ref="#bibl__517"><rs type="bibl" ref="#bibl__421"><hi rend="bold">Chiarcos, Christian / Ionov, Maxim / Rind-Pawlowski, Monika / Fäth, Christian / Wichers Schreur, Jesse / Nevskaya, Irina</hi> (2017): “LLODifying linguistic glosses” in: 
                         <hi rend="italic">Proceedings of the First International Conference on Language, Data and Knowledge (LDK 2017), Galway, Ireland, June 2017</hi>. Springer (Lecture Notes in Artificial Intelligence (LNAI)), 89-103 https://doi.org/10.1007/978-3-319-59888-8_7 [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__422"><hi rend="bold">Cotterell, Ryan / Kirov, Christo / Sylak-Glassman, John / Yarowsky, David / Eisner, Jason / Hulden, Mans</hi> (2016). “The SIGMORPHON 2016 Shared Task Morphological Reinflection” in: 
+                        <rs type="bibl" ref="#bibl__518"><rs type="bibl" ref="#bibl__422"><hi rend="bold">Cotterell, Ryan / Kirov, Christo / Sylak-Glassman, John / Yarowsky, David / Eisner, Jason / Hulden, Mans</hi> (2016). “The SIGMORPHON 2016 Shared Task Morphological Reinflection” in: 
                         <hi rend="italic">Proceedings of the 14th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology, Berlin, Germany, August, 2016</hi>. Association for Computational Linguistics, 10-22 http://anthology.aclweb.org/W16-2002.pdf [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__423"><hi rend="bold">Sylak-Glassman / John</hi> (2016). “The composition and use of the universal morphological feature schema (UniMorph schema)”. Technical report, Department of Computer Science, Johns Hopkins University, working draft, v.2, https://unimorph.github.io/doc/unimorph-schema.pdf [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__519"><rs type="bibl" ref="#bibl__423"><hi rend="bold">Sylak-Glassman / John</hi> (2016). “The composition and use of the universal morphological feature schema (UniMorph schema)”. Technical report, Department of Computer Science, Johns Hopkins University, working draft, v.2, https://unimorph.github.io/doc/unimorph-schema.pdf [letzter Zugriff 14. Januar 2018]
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

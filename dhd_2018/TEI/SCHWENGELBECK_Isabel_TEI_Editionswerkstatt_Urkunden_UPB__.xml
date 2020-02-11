@@ -8,7 +8,7 @@
                         <surname>Schwengelbeck</surname>
                         <forename>Isabel</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>schwengelbeck.isabel@gmail.com</email>
                 </author>
                 <author ref="#person__dwahl-mail-uni-paderborn-de">
@@ -16,7 +16,7 @@
                         <surname>Wahl</surname>
                         <forename>Dominik</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>dwahl@mail.uni-paderborn.de</email>
                 </author>
                 <author ref="#person__foesterkarl-gmail-com">
@@ -24,7 +24,7 @@
                         <surname>Foester</surname>
                         <forename>Karl</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>foesterkarl@gmail.com</email>
                 </author>
                 <author ref="#person__dennisfriedl-paderborn-com">
@@ -32,7 +32,7 @@
                         <surname>Friedl</surname>
                         <forename>Dennis</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>dennisfriedl@paderborn.com</email>
                 </author>
                 <author ref="#person__fabian-fluss92-gmx-de">
@@ -40,7 +40,7 @@
                         <surname>Fluss</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>fabian.fluss92@gmx.de</email>
                 </author>
                 <author ref="#person__imersch-campus-uni-paderborn-de">
@@ -48,7 +48,7 @@
                         <surname>Mersch</surname>
                         <forename>Isabelle</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>imersch@campus.uni-paderborn.de</email>
                 </author>
                 <author ref="#person__vossf-mail-uni-paderborn-de">
@@ -56,7 +56,7 @@
                         <surname>Voss</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>vossf@mail.uni-paderborn.de</email>
                 </author>
                 <author ref="#person__martin-droege-upb-de">
@@ -64,7 +64,7 @@
                         <surname>Dröge</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>martin.droege@upb.de</email>
                 </author>
                 <author ref="#person__peter-stadler-upb-de">
@@ -72,7 +72,7 @@
                         <surname>Stadler</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>peter.stadler@upb.de</email>
                 </author>
                 <author ref="#person__ramon-voges-upb-de">
@@ -80,7 +80,7 @@
                         <surname>Voges</surname>
                         <forename>Ramon</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>ramon.voges@upb.de</email>
                 </author>
             </titleStmt>
@@ -170,11 +170,11 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1441"><hi rend="bold">Bernsen, Daniel</hi> (2017): 
+                        <rs type="bibl" ref="#bibl__1503"><rs type="bibl" ref="#bibl__1441"><hi rend="bold">Bernsen, Daniel</hi> (2017): 
                         <hi rend="italic">“Arbeiten mit digitalen Quellen im Geschichtsunterricht“, in: Bernsen, Daniel / Kerber, Ulf (eds.): Praxishandbuch Historisches Lernen und Medienbildung im digitalen Zeitalter, Opladen/ Berlin/ Toronto: Verlag Barbara Budrich 295-303.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1442"><hi rend="bold">Kelly, T. Mills</hi> (2013): 
+                        <rs type="bibl" ref="#bibl__1504"><rs type="bibl" ref="#bibl__1442"><hi rend="bold">Kelly, T. Mills</hi> (2013): 
                         <hi rend="italic">“Teaching History in the Digital Age“, Ann Arbor: MI: University of Michigan Press, </hi>
                         <ref target="http://dx.doi.org/10.3998/dh.12146032.0001.001">
                             <hi rend="italic">http://dx.doi.org/10.39</hi>
@@ -183,17 +183,17 @@
                             <hi rend="italic">98/dh.12146032.0001.001</hi>
                         </ref>
                         <hi rend="italic"> [letzter Zugriff: 08. September 2017].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1443"><hi rend="bold">Meyer zu Schlochtern, Josef </hi>(2014): 
+                        <rs type="bibl" ref="#bibl__1505"><rs type="bibl" ref="#bibl__1443"><hi rend="bold">Meyer zu Schlochtern, Josef </hi>(2014): 
                         <hi rend="italic">“Die Academia Theodoriana. Von der Jesuitenuniversität zur Theologischen Fakultät Paderborn 1614-2014“, Paderborn: Schöningh.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1444"><hi rend="bold">Pfanzelter, Eva </hi>(2017): 
+                        <rs type="bibl" ref="#bibl__1506"><rs type="bibl" ref="#bibl__1444"><hi rend="bold">Pfanzelter, Eva </hi>(2017): 
                         <hi rend="italic">“Analoge vs. digitale Quellen: eine Standortbestimmung“, in: Bernsen, Daniel / Kerber, Ulf (eds.): Praxishandbuch Historisches Lernen und Medienbildung im digitalen Zeitalter, Opladen/ Berlin/ Toronto: Verlag Barbara Budrich 85-94.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1445"><hi rend="bold">Sahle, Patrick</hi> (2013): 
+                        <rs type="bibl" ref="#bibl__1507"><rs type="bibl" ref="#bibl__1445"><hi rend="bold">Sahle, Patrick</hi> (2013): 
                         <hi rend="italic">“Digitale Editionsformen. Teil I: Das typografische Erbe, Teil II: Befunde, Theorie und Methodik, Teil III: Textbegriffe und Recodierung.“ Norderstedt: Schriften des Instituts für Dokumentologie und Editorik 7-9, </hi>
                         <ref target="http://kups.ub.uni-koeln.de/5351/">
                             <hi rend="italic">urn:nbn:de:hbz:38-53510</hi>
@@ -207,7 +207,7 @@
                             <hi rend="italic">urn:nbn:de:hbz:38-53534</hi>
                         </ref>
                         <hi rend="italic"> [letzter Zugriff: 08. September 2017].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

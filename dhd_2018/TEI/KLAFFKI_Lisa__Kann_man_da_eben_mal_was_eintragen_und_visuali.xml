@@ -11,7 +11,7 @@
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>klaffki@hab.de</email>
                 </author>
                 <author ref="#person__steyer-hab-de">
@@ -19,7 +19,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation ref="#org__19 #org__20">Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27 #org__28">Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
             </titleStmt>
@@ -129,39 +129,39 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__363"><hi rend="bold">Auktionskataloge</hi>: 
+                        <rs type="bibl" ref="#bibl__462"><rs type="bibl" ref="#bibl__363"><hi rend="bold">Auktionskataloge</hi>: 
                         <ptr target="http://dev.hab.de/auktionskataloge"/>[letzter Zugriff 11.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__364"><hi rend="bold">Autorenbibliotheken</hi>: 
+                        <rs type="bibl" ref="#bibl__463"><rs type="bibl" ref="#bibl__364"><hi rend="bold">Autorenbibliotheken</hi>: 
                         <ref target="http://www.mww-forschung.de/forschungsprojekte/autorenbibliotheken/?menuopen=1">http://www.mww-forschung.de/forschungsprojekte/autorenbibliotheken
                         </ref>[letzter Zugriff 11.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__365"><hi rend="bold">Beyer, Hartmut et.al. </hi>(2017): “Bibliotheken im Buch: Die Erschließung von privaten Büchersammlungen der Frühneuzeit über Auktionskataloge”, in: Busch, Hannah / Fischer, Franz und Sahle, Patrick (Hrsg.): Kodikologie und Paläographie im digitalen Zeitalter 4 (Codicology and Palaeography in the Digital Age). Norderstedt: Books on Demand 43–70.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__28"><rs type="bibl" ref="#bibl__365"><hi rend="bold">Beyer, Hartmut et.al. </hi>(2017): “Bibliotheken im Buch: Die Erschließung von privaten Büchersammlungen der Frühneuzeit über Auktionskataloge”, in: Busch, Hannah / Fischer, Franz und Sahle, Patrick (Hrsg.): Kodikologie und Paläographie im digitalen Zeitalter 4 (Codicology and Palaeography in the Digital Age). Norderstedt: Books on Demand 43–70.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__366"><hi rend="bold">DARIAH-DE in Kürze</hi>: 
+                        <rs type="bibl" ref="#bibl__464"><rs type="bibl" ref="#bibl__366"><hi rend="bold">DARIAH-DE in Kürze</hi>: 
                         <ptr target="https://de.dariah.eu/dariah-de-in-kurze"/> [letzter Zugriff 11.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__24"><hi rend="bold">Gradl, Tobias / Henrich, Andreas / Plutte, Christoph</hi> (2015): “Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Föderation von Kollektionen”, in: Baum, Constanze / Stäcker, Thomas (Hrsg.): Grenzen und Möglichkeiten der Digital Humanities (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). text/html Format. DOI: 
+                        <rs type="bibl" ref="#bibl__29"><rs type="bibl" ref="#bibl__24"><hi rend="bold">Gradl, Tobias / Henrich, Andreas / Plutte, Christoph</hi> (2015): “Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Föderation von Kollektionen”, in: Baum, Constanze / Stäcker, Thomas (Hrsg.): Grenzen und Möglichkeiten der Digital Humanities (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). text/html Format. DOI: 
                         <ref target="http://dx.doi.org/10.17175/sb001_020">http://dx.doi.org/10.17175/sb001_020
                         </ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__25"><hi rend="bold">Gradl, Tobias / Henrich, Andreas</hi> (2016): “Die DARIAH-DE Föderationsarchitektur. Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen”, in: Neuroth, Heike et al. (Hrsg.): Bibliothek – Forschung und Praxis 40 (2): 222–228. DOI: 
+                        <rs type="bibl" ref="#bibl__30"><rs type="bibl" ref="#bibl__25"><hi rend="bold">Gradl, Tobias / Henrich, Andreas</hi> (2016): “Die DARIAH-DE Föderationsarchitektur. Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen”, in: Neuroth, Heike et al. (Hrsg.): Bibliothek – Forschung und Praxis 40 (2): 222–228. DOI: 
                         <ptr target="https://doi.org/10.1515/bfp-2016-0027"/>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__367"><hi rend="bold">Kollatz, Thomas</hi> (2016): “Raum-Zeit-Analysen mit Geo-Browser und Datasheet-Editor”, in: Neuroth, Heike et al. (Hrsg.): Bibliothek – Forschung und Praxis 40 (2): 229–233. 
+                        <rs type="bibl" ref="#bibl__465"><rs type="bibl" ref="#bibl__367"><hi rend="bold">Kollatz, Thomas</hi> (2016): “Raum-Zeit-Analysen mit Geo-Browser und Datasheet-Editor”, in: Neuroth, Heike et al. (Hrsg.): Bibliothek – Forschung und Praxis 40 (2): 229–233. 
                         <ptr target="https://doi.org/10.1515/bfp-2016-0032"/>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__368"><hi rend="bold">Puhl, Johanna et. al. </hi>(2015): Diskussion und Definition eines Research Data LifeCycle für die digitalen Geisteswissenschaften (= DARIAH-DE Working Papers Nr. 11). Göttingen: DARIAH-DE. URN:
+                        <rs type="bibl" ref="#bibl__466"><rs type="bibl" ref="#bibl__368"><hi rend="bold">Puhl, Johanna et. al. </hi>(2015): Diskussion und Definition eines Research Data LifeCycle für die digitalen Geisteswissenschaften (= DARIAH-DE Working Papers Nr. 11). Göttingen: DARIAH-DE. URN:
                         <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-4-4">http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-4-4
                         </ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

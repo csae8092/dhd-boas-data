@@ -11,7 +11,7 @@
                         <surname>Lordick</surname>
                         <forename>Harald</forename>
                     </persName>
-                    <affiliation ref="#org__182">Steinheim-Institut, Deutschland</affiliation>
+                    <affiliation ref="#org__181">Steinheim-Institut, Deutschland</affiliation>
                     <email>lor@steinheim-institut.org</email>
                 </author>
                 <author ref="#person__mac-steinheim-institut-org">
@@ -19,7 +19,7 @@
                         <surname>Mache</surname>
                         <forename>Beata</forename>
                     </persName>
-                    <affiliation ref="#org__183">SUB Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__182">SUB Göttingen, Deutschland</affiliation>
                     <email>mac@steinheim-institut.org</email>
                 </author>
             </titleStmt>
@@ -139,48 +139,48 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1468"><hi rend="bold">BEACON Findbuch</hi>
+                        <rs type="bibl" ref="#bibl__1529"><rs type="bibl" ref="#bibl__1468"><hi rend="bold">BEACON Findbuch</hi>
                         <ptr target="http://beacon.findbuch.de/"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1469"><hi rend="bold">Gemeinsame Normdatei</hi> (GND) 
+                        <rs type="bibl" ref="#bibl__1530"><rs type="bibl" ref="#bibl__1469"><hi rend="bold">Gemeinsame Normdatei</hi> (GND) 
                         <ptr target="http://www.dnb.de/DE/Standardisierung/GND/gnd_node.html"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1470"><hi rend="bold">Danowski, Patrick / Pohl, Adrian</hi> (Hg.) (2013): 
+                        <rs type="bibl" ref="#bibl__1531"><rs type="bibl" ref="#bibl__1470"><hi rend="bold">Danowski, Patrick / Pohl, Adrian</hi> (Hg.) (2013): 
                         <hi rend="italic">(Open) Linked Data in Bibliotheken</hi> (Bibliotheks- und Informationspraxis 50), Berlin.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1471"><hi rend="bold">Hartmann, Sarah</hi> (2017): GND-Webformular – eine neue Schnittstelle für die GND 
+                        <rs type="bibl" ref="#bibl__1532"><rs type="bibl" ref="#bibl__1471"><hi rend="bold">Hartmann, Sarah</hi> (2017): GND-Webformular – eine neue Schnittstelle für die GND 
                         <ptr target="https://wiki.dnb.de/download/attachments/125420735/2-4_%20GND-Webformular_Hartmann.pdf?version=1&amp;modificationDate=1501514388000&amp;api=v2"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1472"><hi rend="bold">Informationsseite zur GND</hi>
+                        <rs type="bibl" ref="#bibl__1533"><rs type="bibl" ref="#bibl__1472"><hi rend="bold">Informationsseite zur GND</hi>
                         <ptr target="https://wiki.dnb.de/display/ILTIS/Informationsseite+zur+GND"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1473"><hi rend="bold">Lordick, Harald</hi> (2015): »BEACON – »Leuchtfeuer« für Online-Publikationen«, in: 
+                        <rs type="bibl" ref="#bibl__1534"><rs type="bibl" ref="#bibl__1473"><hi rend="bold">Lordick, Harald</hi> (2015): »BEACON – »Leuchtfeuer« für Online-Publikationen«, in: 
                         <hi rend="italic">Deutsch-jüdische Geschichte digital,</hi> 17. Mai 2015, 
                         <ptr target="https://djgd.hypotheses.org/672"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1474"><hi rend="bold">Lordick, Harald</hi> (2016): Fachspezifische und nutzerzentrierte Perspektiven — Quellen vernetzen mit der Gemeinsamen Normdatei, in: 
+                        <rs type="bibl" ref="#bibl__1535"><rs type="bibl" ref="#bibl__1474"><hi rend="bold">Lordick, Harald</hi> (2016): Fachspezifische und nutzerzentrierte Perspektiven — Quellen vernetzen mit der Gemeinsamen Normdatei, in: 
                         <hi rend="italic">Deutsch-jüdische Geschichte digital,</hi> 27. November 2016, 
                         <ptr target="https://djgd.hypotheses.org/1181"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1475"><hi rend="bold">Mache, Beata</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__1536"><rs type="bibl" ref="#bibl__1475"><hi rend="bold">Mache, Beata</hi> (2015): 
                         <hi rend="italic">Digitale Edition und Erschließung eines interreligiösen Periodikums aus dem Vormärz als editionsphilologische Aufgabe: Universal-Kirchenzeitung für die Geistlichkeit und die gebildete Weltklasse des protestantischen, katholischen und israelitischen Deutschlands (1837),</hi> Duisburg, Essen, Univ., Diss., 2015 
                         <ref target="http://nbn-resolving.de/urn:nbn:de:hbz:464-20150327-080454-5">urn:nbn:de:hbz:464-20150327-080454-5</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1476"><hi rend="bold">Plum, Nathalie Madeleine</hi> (2017): Ein Thesaurus für den Naturschutz. Erstellung eines vernetzten Vokabulars für die Literaturdatenbank DNL-online, in: 
+                        <rs type="bibl" ref="#bibl__1537"><rs type="bibl" ref="#bibl__1476"><hi rend="bold">Plum, Nathalie Madeleine</hi> (2017): Ein Thesaurus für den Naturschutz. Erstellung eines vernetzten Vokabulars für die Literaturdatenbank DNL-online, in: 
                         <hi rend="italic">Natur und Landschaft. Zeitschrift für Naturschutz und Landschaftspflege,</hi> 92 (2017), Nr. 8, S. 356–364.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1477"><hi rend="bold">Wikipedia:BEACON</hi>
+                        <rs type="bibl" ref="#bibl__1538"><rs type="bibl" ref="#bibl__1477"><hi rend="bold">Wikipedia:BEACON</hi>
                         <ptr target="https://de.wikipedia.org/wiki/Wikipedia:BEACON"/> [letzter Zugriff 14. Januar 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -8,7 +8,7 @@
                         <surname>Bürgermeister</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
                     <email>martina.buergermeister@uni-graz.at</email>
                 </author>
                 <author ref="#person__gabriele-bartz-oeaw-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Bartz</surname>
                         <forename>Gabriele</forename>
                     </persName>
-                    <affiliation ref="#org__301">ÖAW, Wien</affiliation>
+                    <affiliation ref="#org__453">ÖAW, Wien</affiliation>
                     <email>Gabriele.Bartz@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__markus-gneiss-oeaw-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Gneiß</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__301">ÖAW, Wien</affiliation>
+                    <affiliation ref="#org__453">ÖAW, Wien</affiliation>
                     <email>Markus.Gneiss@oeaw.ac.at</email>
                 </author>
             </titleStmt>
@@ -103,42 +103,42 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2876"><hi rend="bold">Bartz, Gabriele / Gneiß, Markus</hi> (2018) (eds.): 
+                        <rs type="bibl" ref="#bibl__4100"><rs type="bibl" ref="#bibl__2876"><hi rend="bold">Bartz, Gabriele / Gneiß, Markus</hi> (2018) (eds.): 
                         <hi rend="italic">Illuminierte Urkunden. Beiträge aus Diplomatik, Kunstgeschichte und Digital Humanities/Illuminated Charters</hi>. Essays from Diplomatic, Art History and Digital Humanities (= Archiv für Diplomatik, Schriftgeschichte, Siegel-und Wappenkunde 16), Wien: Böhlau Verlag.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2877"><hi rend="bold" style="font-size:12pt">Carretero-Campos, Concepcion / Bernaola-Galvan, Pedro / Coronado Jiménez, Ana Victoria / Carpena, Pedro</hi>
+                        <rs type="bibl" ref="#bibl__4101"><rs type="bibl" ref="#bibl__2877"><hi rend="bold" style="font-size:12pt">Carretero-Campos, Concepcion / Bernaola-Galvan, Pedro / Coronado Jiménez, Ana Victoria / Carpena, Pedro</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2013): “Improving statistical keyword detection in short texts: Entropic and clustering approaches” in: Physica A 392: 1481-1492.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2878"><hi rend="bold" style="font-size:12pt">Herrera, Juan P. / Pury, Pedro A.</hi>
+                        <rs type="bibl" ref="#bibl__4102"><rs type="bibl" ref="#bibl__2878"><hi rend="bold" style="font-size:12pt">Herrera, Juan P. / Pury, Pedro A.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2008): “Statistical keyword detection in literary corpora” in: The European Physical Journal B 63/1: 135-146.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2879"><hi rend="bold" style="font-size:12pt">Jamaati, Maryam / Mehri, Ali</hi>
+                        <rs type="bibl" ref="#bibl__4103"><rs type="bibl" ref="#bibl__2879"><hi rend="bold" style="font-size:12pt">Jamaati, Maryam / Mehri, Ali</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2018): “Text mining by Tsallis entropy” in: Physica A 490: 1368-1376.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2880"><hi rend="bold" style="font-size:12pt">Perreaux, Nicolas</hi>
+                        <rs type="bibl" ref="#bibl__4104"><rs type="bibl" ref="#bibl__2880"><hi rend="bold" style="font-size:12pt">Perreaux, Nicolas</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2014): “De l’accumulation à l’exploitation? Expériences et propositions pour l’indexation et l’utilisation des bases de données diplomatiques“ in: Ambrosio/Barret/Vogeler (eds.) </hi>Digital diplomatics. The computer as a tool for the diplomatist? (= Archiv für Diplomatik Beihefte 14), Köln/Weimar/Wien
                         <hi style="font-size:12pt">: Böhlau Verlag 187-210.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2881"><hi rend="bold" style="font-size:12pt">Roland, Martin / Zajic, Andreas</hi>
+                        <rs type="bibl" ref="#bibl__4105"><rs type="bibl" ref="#bibl__2881"><hi rend="bold" style="font-size:12pt">Roland, Martin / Zajic, Andreas</hi>
                         <hi style="font-size:12pt"> (2013): “Illuminierte Urkunden des Mittelalters in Mitteleuropa“ in: Archiv für Diplomatik 59: 241-432.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2882"><hi rend="bold" style="font-size:12pt" xml:space="preserve">Shannon, Claude Elwood / Weaver, </hi>
+                        <rs type="bibl" ref="#bibl__4106"><rs type="bibl" ref="#bibl__2882"><hi rend="bold" style="font-size:12pt" xml:space="preserve">Shannon, Claude Elwood / Weaver, </hi>
                         <hi style="font-size:12pt">Warren (1963): “The Mathematical Theory of Communication” Champaign: Illinois University Press.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2883"><hi rend="bold" style="font-size:12pt">Tilahun, Gelila / Feuerverger, Andrey / Gervers, Michael</hi>
+                        <rs type="bibl" ref="#bibl__4107"><rs type="bibl" ref="#bibl__2883"><hi rend="bold" style="font-size:12pt">Tilahun, Gelila / Feuerverger, Andrey / Gervers, Michael</hi>
                         <hi style="font-size:12pt"> (2012): “Dating Medieval English Charters“ in: The Annals of Applied Statistics 6/4: 1615-1640.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2884"><hi rend="bold" style="font-size:12pt">Zhou, H. / Slater, G.W.</hi>
+                        <rs type="bibl" ref="#bibl__4108"><rs type="bibl" ref="#bibl__2884"><hi rend="bold" style="font-size:12pt">Zhou, H. / Slater, G.W.</hi>
                         <hi style="font-size:12pt" xml:space="preserve"> (2003): „A metric to search for relevant words” in: Physica A 329 (2003) 309–327.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

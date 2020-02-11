@@ -11,7 +11,7 @@
                         <surname>Toschka</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>patrick.toschka@adwmainz.de</email>
                 </author>
             </titleStmt>
@@ -101,55 +101,55 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2700"><hi rend="bold">Carroll, Jeremy J. / Bizer, Christian / Hayes, Patrick / Stickler, Patrick</hi> (2004): “Named Graphs, Provenance and Trust”, pdf Format, URL: 
+                        <rs type="bibl" ref="#bibl__3929"><rs type="bibl" ref="#bibl__2700"><hi rend="bold">Carroll, Jeremy J. / Bizer, Christian / Hayes, Patrick / Stickler, Patrick</hi> (2004): “Named Graphs, Provenance and Trust”, pdf Format, URL: 
                         <ref target="http://wifo5-03.informatik.uni-mannheim.de/bizer/SWTSGuide/carroll-ISWC2004.pdf">
                             <hi rend="color(1155CC)">http://wifo5-03.informatik.uni-mannheim.de/bizer/SWTSGuide/carroll-ISWC2004.pdf</hi>
                         </ref> (letzter Zugriff: 08. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2701"><hi rend="bold">Google Inc.</hi> (2018): “Understand how structured data works”, URL:
+                        <rs type="bibl" ref="#bibl__3930"><rs type="bibl" ref="#bibl__2701"><hi rend="bold">Google Inc.</hi> (2018): “Understand how structured data works”, URL:
                         <ref target="https://developers.google.com/search/docs/guides/intro-structured-data">
                             <hi rend="color(1155CC)">https://developers.google.com/search/docs/guides/intro-structured-data</hi>
                         </ref>, text/html Format, (letzter Zugriff: 04. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2702"><hi rend="bold">Guha, R.V. / Brickley, Dan / MacBeth, Steve</hi> (2015): “Schema.org: Evolution of Structured Data on the Web” in: 
+                        <rs type="bibl" ref="#bibl__3931"><rs type="bibl" ref="#bibl__2702"><hi rend="bold">Guha, R.V. / Brickley, Dan / MacBeth, Steve</hi> (2015): “Schema.org: Evolution of Structured Data on the Web” in: 
                         <hi rend="italic">Queue - Structured Data</hi>, Vol. 13 No. 9, text/html Format, URL: 
                         <ref target="https://queue.acm.org/detail.cfm?id=2857276">
                             <hi rend="color(1155CC)">https://queue.acm.org/detail.cfm?id=2857276</hi>
                         </ref> (letzter Zugriff: 08. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2703"><hi rend="bold">Halpin, Harry / Herman, Ivan / Hayes, Patrick J.</hi> (2009): “When owl:sameAs isn’t the Same: An Analysis of Identity Links on the Semantic Web”, pdf Format, URL: 
+                        <rs type="bibl" ref="#bibl__3932"><rs type="bibl" ref="#bibl__2703"><hi rend="bold">Halpin, Harry / Herman, Ivan / Hayes, Patrick J.</hi> (2009): “When owl:sameAs isn’t the Same: An Analysis of Identity Links on the Semantic Web”, pdf Format, URL: 
                         <ref target="https://www.w3.org/2009/12/rdf-ws/papers/ws21">
                             <hi rend="color(1155CC)">https://www.w3.org/2009/12/rdf-ws/papers/ws21</hi>
                         </ref> (letzter Zugriff: 08. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2704"><hi rend="bold">Lahntaler, Markus</hi> (2012): “Third Generation Web APIs. Bridging the Gap Between REST and Linked Data”, pdf Format, URL:
+                        <rs type="bibl" ref="#bibl__3933"><rs type="bibl" ref="#bibl__2704"><hi rend="bold">Lahntaler, Markus</hi> (2012): “Third Generation Web APIs. Bridging the Gap Between REST and Linked Data”, pdf Format, URL:
                         <ref target="http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf">
                             <hi rend="color(1155CC)">http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf</hi>
                         </ref> (letzter Zugriff: 04. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2705"><hi rend="bold">W3C World Wide Web Consortium</hi> (2014): “JSON-LD 1.0. A JSON-based Serialization for Linked Data”, text/html Format, URL:
+                        <rs type="bibl" ref="#bibl__3934"><rs type="bibl" ref="#bibl__2705"><hi rend="bold">W3C World Wide Web Consortium</hi> (2014): “JSON-LD 1.0. A JSON-based Serialization for Linked Data”, text/html Format, URL:
                         <ref target="http://www.w3.org/TR/2014/REC-json-ld-20140116/">
                             <hi rend="color(1155CC)">http://www.w3.org/TR/2014/REC-json-ld-20140116/</hi>
                         </ref> (letzter Zugriff: 04. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2706"><hi rend="bold">W3C World Wide Web Consortium</hi> (2015): “RDFa Core 1.1 – Third Edition. Syntax and processing rules for embedding RDF through attributes”, text/html Format, URL:
+                        <rs type="bibl" ref="#bibl__3935"><rs type="bibl" ref="#bibl__2706"><hi rend="bold">W3C World Wide Web Consortium</hi> (2015): “RDFa Core 1.1 – Third Edition. Syntax and processing rules for embedding RDF through attributes”, text/html Format, URL:
                         <ref target="http://www.w3.org/TR/2015/REC-rdfa-core-20150317/">
                             <hi rend="color(1155CC)">http://www.w3.org/TR/2015/REC-rdfa-core-20150317/</hi>
                         </ref> (letzter Zugriff: 04. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2707"><hi rend="bold">Wettlaufer, Jörg</hi> (2018): “Der nächste Schritt? Semantic Web und digitale Editionen” in: 
+                        <rs type="bibl" ref="#bibl__3936"><rs type="bibl" ref="#bibl__2707"><hi rend="bold">Wettlaufer, Jörg</hi> (2018): “Der nächste Schritt? Semantic Web und digitale Editionen” in: 
                         <hi rend="italic">Digitale Metamorphose: Digital Humanities und Editionswissenschaft</hi>, Hg. von Roland S. Kamzelak / Timo Steyer. 2018 (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2), text/html Format, URL: 
                         <ref target="http://dx.doi.org/10.17175/sb002_007">
                             <hi rend="color(1155CC)">http://dx.doi.org/10.17175/sb002_007</hi>
                         </ref> (letzter Zugriff: 08. Januar 2019).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

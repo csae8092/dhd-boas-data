@@ -8,7 +8,7 @@
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
                     <email>laubrock@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__ddubray-uni-potsdam-de">
@@ -16,7 +16,7 @@
                         <surname>Dubray</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
                     <email>ddubray@uni-potsdam.de</email>
                 </author>
             </titleStmt>
@@ -136,56 +136,56 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2898"><hi rend="bold">Chollet, F.</hi> (2016). Xception: Deep learning with depthwise separable convolutions. In: 
+                        <rs type="bibl" ref="#bibl__4122"><rs type="bibl" ref="#bibl__2898"><hi rend="bold">Chollet, F.</hi> (2016). Xception: Deep learning with depthwise separable convolutions. In: 
                         <hi rend="italic">CoRR</hi>: abs/1610.02357.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2899"><hi rend="bold">Chu, W. / Wu, Y.</hi> (2018). “Image style classification based on learnt deep correlation features.” In: 
+                        <rs type="bibl" ref="#bibl__4123"><rs type="bibl" ref="#bibl__2899"><hi rend="bold">Chu, W. / Wu, Y.</hi> (2018). “Image style classification based on learnt deep correlation features.” In: 
                         <hi rend="italic">IEEE Transactions on Multimedia</hi> 20(9): 2491–2502.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__56"><hi rend="bold">Deng, J. / Dong, W. / Socher, R. / Li, L.-J. / Li, K. / Fei-Fei, L. (2009). „</hi>ImageNet: A Large-Scale Hierarchical Image Database.” In: 2009 IEEE Conference on Computer Vision and Pattern Recognition: 248–255.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__68"><rs type="bibl" ref="#bibl__56"><hi rend="bold">Deng, J. / Dong, W. / Socher, R. / Li, L.-J. / Li, K. / Fei-Fei, L. (2009). „</hi>ImageNet: A Large-Scale Hierarchical Image Database.” In: 2009 IEEE Conference on Computer Vision and Pattern Recognition: 248–255.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__140"><hi rend="bold">Dunst, A. / Hartel, R. / Laubrock, J.</hi> (2017). „The Graphic Narrative Corpus (GNC): Design, annotation, and analysis for the Digital Humanities.” In: 
+                        <rs type="bibl" ref="#bibl__189"><rs type="bibl" ref="#bibl__140"><hi rend="bold">Dunst, A. / Hartel, R. / Laubrock, J.</hi> (2017). „The Graphic Narrative Corpus (GNC): Design, annotation, and analysis for the Digital Humanities.” In: 
                         <hi rend="italic">2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)</hi> 03: 15–20.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2900"><hi rend="bold">Laubrock, J. / Hohenstein, S. / Kümmerer, M.</hi> (2018). „Attention to comics: Cognitive processing during the reading of graphic literature.” In: Dunst, A., Laubrock, J., and Wildfeuer, J., editors, 
+                        <rs type="bibl" ref="#bibl__4124"><rs type="bibl" ref="#bibl__2900"><hi rend="bold">Laubrock, J. / Hohenstein, S. / Kümmerer, M.</hi> (2018). „Attention to comics: Cognitive processing during the reading of graphic literature.” In: Dunst, A., Laubrock, J., and Wildfeuer, J., editors, 
                         <hi rend="italic">Empirical Comics Research: Digital, Multimodal, and Cognitive Methods</hi>, ch.12: 239–263. Routledge, New York.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2901"><hi rend="bold">Matsui, Y. / Ito, K. / Aramaki, Y. / Fujimoto, A. / Ogawa, T. / Yamasaki, T. / Aizawa, K.</hi> (2017). “Sketch-based manga retrieval using Manga109 dataset.” In: 
+                        <rs type="bibl" ref="#bibl__4125"><rs type="bibl" ref="#bibl__2901"><hi rend="bold">Matsui, Y. / Ito, K. / Aramaki, Y. / Fujimoto, A. / Ogawa, T. / Yamasaki, T. / Aizawa, K.</hi> (2017). “Sketch-based manga retrieval using Manga109 dataset.” In: 
                         <hi rend="italic">Multimedia Tools and Applications</hi> 76(20): 21811–21838.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2902"><hi rend="bold">Gatys, L. A. / Ecker, A. S. / Bethge, M.</hi> (2016). “Image style transfer using convolutional neural networks.” In: 
+                        <rs type="bibl" ref="#bibl__4126"><rs type="bibl" ref="#bibl__2902"><hi rend="bold">Gatys, L. A. / Ecker, A. S. / Bethge, M.</hi> (2016). “Image style transfer using convolutional neural networks.” In: 
                         <hi rend="italic">IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</hi> 2016: 2414–2423.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2903"><hi rend="bold">LeCun, Y. / Boser, B. / Denker, J. S. / Henderson, D. / Howard, R. E. / Hubbard, W. / Jackel, L. D.</hi> (1989). “Backpropagation applied to handwritten zip code recognition.” In: 
+                        <rs type="bibl" ref="#bibl__4127"><rs type="bibl" ref="#bibl__2903"><hi rend="bold">LeCun, Y. / Boser, B. / Denker, J. S. / Henderson, D. / Howard, R. E. / Hubbard, W. / Jackel, L. D.</hi> (1989). “Backpropagation applied to handwritten zip code recognition.” In: 
                         <hi rend="italic">Neural Computation</hi> 1(4): 541–551.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2904"><hi rend="bold">Ronneberger, O. / Fischer, P. / Brox, T.</hi> (2015). „U-Net: Convolutional Networks for Biomedical Image Segmentation.” In: 
+                        <rs type="bibl" ref="#bibl__4128"><rs type="bibl" ref="#bibl__2904"><hi rend="bold">Ronneberger, O. / Fischer, P. / Brox, T.</hi> (2015). „U-Net: Convolutional Networks for Biomedical Image Segmentation.” In: 
                         <hi rend="italic">Medical Image Computing and Computer-Assisted Intervention (MICCAI)</hi>, Springer, LNCS, Vol.9351: 234--241.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2905"><hi rend="bold">Sanakoyeu, A. / Kotovenko, D. / Lang, S., / Ommer, B.</hi> (2018). “A Style-Aware Content Loss for Real-time HD Style Transfer.” In: 
+                        <rs type="bibl" ref="#bibl__4129"><rs type="bibl" ref="#bibl__2905"><hi rend="bold">Sanakoyeu, A. / Kotovenko, D. / Lang, S., / Ommer, B.</hi> (2018). “A Style-Aware Content Loss for Real-time HD Style Transfer.” In: 
                         <hi rend="italic">arXiv preprint</hi> arXiv:1807.10201.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2906"><hi rend="bold">Wölfflin, H.</hi> (1915). 
+                        <rs type="bibl" ref="#bibl__4130"><rs type="bibl" ref="#bibl__2906"><hi rend="bold">Wölfflin, H.</hi> (1915). 
                         <hi rend="italic">Kunstgeschichtliche Grundbegriffe: das Problem der Stilentwickelung in der neueren Kunst.</hi> München: Bruckmann.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2907"><hi rend="bold">Yamins, D. L. K. / DiCarlo, J. J.</hi> (2016). “Using goal-driven deep learning models to understand sensory cortex”. In: 
+                        <rs type="bibl" ref="#bibl__4131"><rs type="bibl" ref="#bibl__2907"><hi rend="bold">Yamins, D. L. K. / DiCarlo, J. J.</hi> (2016). “Using goal-driven deep learning models to understand sensory cortex”. In: 
                         <hi rend="italic">Nature Neuroscience</hi> 19(3):356–365.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__161"><hi rend="bold">Simonyan, K. / Zisserman, A.</hi> (2014). “Very deep convolutional networks for large-scale image recognition.” In: 
+                        <rs type="bibl" ref="#bibl__219"><rs type="bibl" ref="#bibl__161"><hi rend="bold">Simonyan, K. / Zisserman, A.</hi> (2014). “Very deep convolutional networks for large-scale image recognition.” In: 
                         <hi rend="italic">arXiv preprint</hi> arXiv:1409.1556
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

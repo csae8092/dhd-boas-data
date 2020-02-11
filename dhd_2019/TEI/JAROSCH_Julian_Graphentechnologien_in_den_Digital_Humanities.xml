@@ -11,7 +11,7 @@
                         <surname>Jarosch</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>julian.jarosch@adwmainz.de</email>
                 </author>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
@@ -19,7 +19,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
                 <author ref="#person__torsten-schrade-adwmainz-de">
@@ -27,7 +27,7 @@
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>torsten.schrade@adwmainz.de</email>
                 </author>
                 <author ref="#person__tariq-yousef-adwmainz-de">
@@ -35,7 +35,7 @@
                         <surname>Yousef</surname>
                         <forename>Tariq</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>tariq.yousef@adwmainz.de</email>
                 </author>
             </titleStmt>
@@ -260,7 +260,7 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2872"><hi rend="color(#000000)bold">Grüntgens, Max / Schrade, Torsten</hi>
+                        <rs type="bibl" ref="#bibl__4098"><rs type="bibl" ref="#bibl__2872"><hi rend="color(#000000)bold">Grüntgens, Max / Schrade, Torsten</hi>
                         <hi rend="color(#000000)"> (2016): Data repositories in the Humanities and the Semantic Web: modelling, linking, visualising. </hi>
                         <hi rend="color(#000000)">In: </hi>
                         <hi rend="color(#000000)italic">Adamou, A., Daga, E., Isaksen, L. (</hi>
@@ -269,9 +269,9 @@
                         <hi rend="color(#000000)">. Aachen</hi>
                         <hi rend="color(#000000)">, </hi>
                         <hi rend="color(#000000)">S. 53–64.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2873"><hi rend="color(#000000)bold">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian</hi>
+                        <rs type="bibl" ref="#bibl__227"><rs type="bibl" ref="#bibl__2873"><hi rend="color(#000000)bold">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian</hi>
                         <hi rend="color(#000000)"> (2015): Metadaten, LOD und der Mehrwert standardisierter und vernetzter Daten. In: </hi>
                         <hi rend="color(#000000)italic">Heike Neuroth, Andrea Rapp, Sibylle Söring (Hrsg.): TextGrid: Von der Community – für die Community. Eine Virtuelle Forschungsumgebung für </hi>
                         <hi rend="color(#000000)italic">die Geisteswissenschaften</hi>
@@ -285,9 +285,9 @@
                         <hi rend="color(#000000)">.201</hi>
                         <hi rend="color(#000000)">9</hi>
                         <hi rend="color(#000000)">]</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2874"><hi rend="color(#000000)bold">Kuczera, Andreas</hi>
+                        <rs type="bibl" ref="#bibl__4099"><rs type="bibl" ref="#bibl__2874"><hi rend="color(#000000)bold">Kuczera, Andreas</hi>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">(</hi>
                         <hi rend="color(#000000)">2017</hi>
@@ -300,14 +300,14 @@
                         <ptr target="https://doi.org/10.1515/abitech-2017-0042"/>
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)">[Letzter Zugriff 09.01.2019]</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2875"><hi rend="color(#000000)bold">Schrade, Torsten </hi>
+                        <rs type="bibl" ref="#bibl__228"><rs type="bibl" ref="#bibl__2875"><hi rend="color(#000000)bold">Schrade, Torsten </hi>
                         <hi rend="color(#000000)">(2013): Datenstrukturierung. </hi>In:
                         <hi rend="color(#000000)"> </hi>
                         <hi rend="color(#000000)italic">Über die Praxis des kulturwissenschaftlichen Arbeitens. Ein Handwörterbuch.</hi>
                         <hi rend="color(#000000)"> Bielefeld: transcript, S. 91–97.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

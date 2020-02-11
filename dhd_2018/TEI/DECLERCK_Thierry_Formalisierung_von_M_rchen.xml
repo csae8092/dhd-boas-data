@@ -8,7 +8,7 @@
                         <surname>Declerck</surname>
                         <forename>Thierry</forename>
                     </persName>
-                    <affiliation ref="#org__117">DFKI GmbH, Deutschland</affiliation>
+                    <affiliation ref="#org__119">DFKI GmbH, Deutschland</affiliation>
                     <email>declerck@dfki.de</email>
                 </author>
                 <author ref="#person__aamann-coli-uni-saarland-de">
@@ -16,7 +16,7 @@
                         <surname>Aman</surname>
                         <forename>Anastasija</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Deutschland</affiliation>
                     <email>aamann@coli.uni-saarland.de</email>
                 </author>
                 <author ref="#person__stefang-coli-uni-saarland-de">
@@ -24,7 +24,7 @@
                         <surname>Grünewald</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Deutschland</affiliation>
                     <email>stefang@coli.uni-saarland.de</email>
                 </author>
                 <author ref="#person__malinux-t-online-de">
@@ -32,7 +32,7 @@
                         <surname>Lindemann</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Deutschland</affiliation>
                     <email>malinux@t-online.de</email>
                 </author>
                 <author ref="#person__lkschae-gmail-com">
@@ -40,7 +40,7 @@
                         <surname>Schäfer</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Deutschland</affiliation>
                     <email>lkschae@gmail.com</email>
                 </author>
                 <author ref="#person__s9naskac-stud-uni-saarland-de">
@@ -48,7 +48,7 @@
                         <surname>Skachkova</surname>
                         <forename>Natalia</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Deutschland</affiliation>
                     <email>s9naskac@stud.uni-saarland.de</email>
                 </author>
             </titleStmt>
@@ -228,9 +228,9 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__667"><hi rend="bold">Propp, Vladimir ; Scott, Laurence </hi>(Hrsg.): Morphology of the folktale. 2. überarbeitete Auflage. Austin, TX u.a., 1977</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__668"><hi rend="bold">Antonia Scheidel and Thierry Declerck. </hi>2010. Apftml - augmented proppian fairy tale markup language. In Sándor Dar´anyi and Piroska Lendvai, editors, First International AMICUS Workshop on Automated Motif Discovery in Cultural Heritage and Scientific Communication Texts. Szeged University.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__669"><hi rend="bold">Nikolina Koleva, Thierry Declerck, and Hans-Ulrich Krieger</hi>. 2012. An ontology-based iterative text processing strategy for detecting and recognizing characters in folktales. In Jan Christoph Meister, editor, Digital Humanities 2012 Conference Abstracts, pages 467–470, Hamburg, 7. University of Hamburg, Hamburg University Press</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__761"><rs type="bibl" ref="#bibl__667"><hi rend="bold">Propp, Vladimir ; Scott, Laurence </hi>(Hrsg.): Morphology of the folktale. 2. überarbeitete Auflage. Austin, TX u.a., 1977</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__762"><rs type="bibl" ref="#bibl__668"><hi rend="bold">Antonia Scheidel and Thierry Declerck. </hi>2010. Apftml - augmented proppian fairy tale markup language. In Sándor Dar´anyi and Piroska Lendvai, editors, First International AMICUS Workshop on Automated Motif Discovery in Cultural Heritage and Scientific Communication Texts. Szeged University.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__763"><rs type="bibl" ref="#bibl__669"><hi rend="bold">Nikolina Koleva, Thierry Declerck, and Hans-Ulrich Krieger</hi>. 2012. An ontology-based iterative text processing strategy for detecting and recognizing characters in folktales. In Jan Christoph Meister, editor, Digital Humanities 2012 Conference Abstracts, pages 467–470, Hamburg, 7. University of Hamburg, Hamburg University Press</rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

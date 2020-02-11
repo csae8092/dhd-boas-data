@@ -8,7 +8,7 @@
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
                     <email>laubrock@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__ddubray-uni-potsdam-de">
@@ -16,7 +16,7 @@
                         <surname>Dubray</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
                     <email>ddubray@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__kruegel-uni-potsdam-de">
@@ -24,7 +24,7 @@
                         <surname>Krügel</surname>
                         <forename>André</forename>
                     </persName>
-                    <affiliation ref="#org__41">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
                     <email>kruegel@uni-potsdam.de</email>
                 </author>
             </titleStmt>
@@ -128,76 +128,76 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1684"><hi rend="bold">Blei, D.</hi> (2012). Probabilistic Topic Models. Communication of the ACM, 55, 77-84.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1739"><rs type="bibl" ref="#bibl__1684"><hi rend="bold">Blei, D.</hi> (2012). Probabilistic Topic Models. Communication of the ACM, 55, 77-84.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__140"><hi rend="bold">Dunst, A., Hartel, R. &amp; Laubrock, J.</hi> (im Druck). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 
+                        <rs type="bibl" ref="#bibl__189"><rs type="bibl" ref="#bibl__140"><hi rend="bold">Dunst, A., Hartel, R. &amp; Laubrock, J.</hi> (im Druck). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 
                         <hi rend="italic">Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017).</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1685"><hi rend="bold">Girshick, R., Donahue, J., Darrell, T., &amp; Malik, J.</hi> (2013). Rich feature hierarchies for accurate object detection and semantic segmentation. 
+                        <rs type="bibl" ref="#bibl__1740"><rs type="bibl" ref="#bibl__1685"><hi rend="bold">Girshick, R., Donahue, J., Darrell, T., &amp; Malik, J.</hi> (2013). Rich feature hierarchies for accurate object detection and semantic segmentation. 
                         <hi rend="italic">arXiv</hi>:1311.2524.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1686"><hi rend="bold">Gumbrecht, H. U. </hi>(2014)
+                        <rs type="bibl" ref="#bibl__1741"><rs type="bibl" ref="#bibl__1686"><hi rend="bold">Gumbrecht, H. U. </hi>(2014)
                         <hi rend="bold">.</hi> Das Denken muss nun auch den Daten folgen. 
                         <hi rend="italic">Frankfurter Allgemeine Zeitung, 12.03.2014, S. 14</hi>, 
                         <ref target="http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/neue-serie-das-digitale-denken-das-denken-muss-nun-auch-den-daten-folgen-12840532.html">http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/neue-serie-das-digitale-denken-das-denken-muss-nun-auch-den-daten-folgen-12840532.html</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1687"><hi rend="bold">He, K., Zhang, X., Ren, S., &amp; Sun, J.</hi> (2015). Deep residual learning for image recognition. 
+                        <rs type="bibl" ref="#bibl__1742"><rs type="bibl" ref="#bibl__1687"><hi rend="bold">He, K., Zhang, X., Ren, S., &amp; Sun, J.</hi> (2015). Deep residual learning for image recognition. 
                         <hi rend="italic">CoRR</hi>, abs/1512.03385.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1688"><hi rend="bold">Juola, P. </hi>(2006)
+                        <rs type="bibl" ref="#bibl__217"><rs type="bibl" ref="#bibl__1688"><hi rend="bold">Juola, P. </hi>(2006)
                         <hi rend="bold">.</hi> Authorship Attribution. 
                         <hi rend="italic">Foundations and Trends in Information Retrieval, 1</hi>, 233-334.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1689"><hi rend="bold">Kümmerer, M., Wallis, T. S. A., &amp; Bethge, M. </hi>(2016)
+                        <rs type="bibl" ref="#bibl__1743"><rs type="bibl" ref="#bibl__1689"><hi rend="bold">Kümmerer, M., Wallis, T. S. A., &amp; Bethge, M. </hi>(2016)
                         <hi rend="bold">.</hi> Deepgaze II: Reading fixations from deep features trained on object recognition. 
                         <hi rend="italic">CoRR</hi>, abs/1610.01563.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1690"><hi rend="bold">Lee, C. &amp; Osindero, S.</hi> (2016). Recursive recurrent nets with attention modeling for OCR in the wild. 
+                        <rs type="bibl" ref="#bibl__1744"><rs type="bibl" ref="#bibl__1690"><hi rend="bold">Lee, C. &amp; Osindero, S.</hi> (2016). Recursive recurrent nets with attention modeling for OCR in the wild. 
                         <hi rend="italic">CoRR, abs/1603.03101</hi> (CVPR 206).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1691"><hi rend="bold">Lewandowsky, S. &amp; Farrell, S.</hi> (2011). 
+                        <rs type="bibl" ref="#bibl__1745"><rs type="bibl" ref="#bibl__1691"><hi rend="bold">Lewandowsky, S. &amp; Farrell, S.</hi> (2011). 
                         <hi rend="italic">Computational Modeling in Cognition: Principles and Practice</hi>. Thousand Oaks: SAGE.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__20"><hi rend="bold">Manovich, L.</hi> (2015). Data Science and Digital Art History. 
+                        <rs type="bibl" ref="#bibl__24"><rs type="bibl" ref="#bibl__20"><hi rend="bold">Manovich, L.</hi> (2015). Data Science and Digital Art History. 
                         <hi rend="italic">International Journal for Digital Art History, 1</hi>, 13-35. http://dx.doi.org/10.11588/dah.2015.1.21631.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1692"><hi rend="bold">Myung, I. J., &amp; Pitt, M. A.</hi> (2002). Mathematical modeling. In J. Wixted (Ed.), 
+                        <rs type="bibl" ref="#bibl__1746"><rs type="bibl" ref="#bibl__1692"><hi rend="bold">Myung, I. J., &amp; Pitt, M. A.</hi> (2002). Mathematical modeling. In J. Wixted (Ed.), 
                         <hi rend="italic">Stevens’ Handbook of Experimental Psychology (Third Edition), Volume IV (Methodology)</hi> (pp. 429–459). New York: John Wiley &amp; Sons.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1693"><hi rend="bold">Rigaud, C., Burie, J. C., Ogier, J. M., Karatzas, D., &amp; Weijer, J. V. D.</hi> (2013). An active contour model for speech balloon detection in comics. 
+                        <rs type="bibl" ref="#bibl__1747"><rs type="bibl" ref="#bibl__1693"><hi rend="bold">Rigaud, C., Burie, J. C., Ogier, J. M., Karatzas, D., &amp; Weijer, J. V. D.</hi> (2013). An active contour model for speech balloon detection in comics. 
                         <hi rend="italic">Proceedings of the 12th International Conference on Document Analysis and Recognition, 1240–1244</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__160"><hi rend="bold">Saleh, B. &amp; Elgammal, A. M. </hi>(2015)
+                        <rs type="bibl" ref="#bibl__218"><rs type="bibl" ref="#bibl__160"><hi rend="bold">Saleh, B. &amp; Elgammal, A. M. </hi>(2015)
                         <hi rend="bold">.</hi> Large-scale classification of fine-art paintings: Learning the right metric on the right feature. 
                         <hi rend="italic">CoRR</hi>, abs/1505.00855.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1694"><hi rend="bold">Schich, M., Song, C., Ahn, Y. Y., Mirsky, A., Martino, M., Barabási, A. L., &amp; Helbing, D.</hi> (2014). A network framework of cultural history. 
+                        <rs type="bibl" ref="#bibl__1748"><rs type="bibl" ref="#bibl__1694"><hi rend="bold">Schich, M., Song, C., Ahn, Y. Y., Mirsky, A., Martino, M., Barabási, A. L., &amp; Helbing, D.</hi> (2014). A network framework of cultural history. 
                         <hi rend="italic">Science, 345(6196)</hi>, 558-562. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__161"><hi rend="bold">Simonyan, K. &amp; Zisserman, A.</hi> (2014). Very deep convolutional networks for large-scale image recognition. 
+                        <rs type="bibl" ref="#bibl__219"><rs type="bibl" ref="#bibl__161"><hi rend="bold">Simonyan, K. &amp; Zisserman, A.</hi> (2014). Very deep convolutional networks for large-scale image recognition. 
                         <hi rend="italic">CoRR</hi>, abs/1409.1556.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1695"><hi rend="bold">Sudholt, S. &amp; Fink, G. A</hi>. (2016). Phocnet: A deep convolutional neural network for word spotting in handwritten documents. In 15th International Conference on Frontiers in Handwriting Recognition (ICFHR), pages 277–282.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1749"><rs type="bibl" ref="#bibl__1695"><hi rend="bold">Sudholt, S. &amp; Fink, G. A</hi>. (2016). Phocnet: A deep convolutional neural network for word spotting in handwritten documents. In 15th International Conference on Frontiers in Handwriting Recognition (ICFHR), pages 277–282.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1696"><hi rend="bold">Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., &amp; Rabinovich, A.</hi> (2015). Going deeper with convolutions. 2015 
+                        <rs type="bibl" ref="#bibl__1750"><rs type="bibl" ref="#bibl__1696"><hi rend="bold">Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D., Vanhoucke, V., &amp; Rabinovich, A.</hi> (2015). Going deeper with convolutions. 2015 
                         <hi rend="italic">IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</hi>, 1-9.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

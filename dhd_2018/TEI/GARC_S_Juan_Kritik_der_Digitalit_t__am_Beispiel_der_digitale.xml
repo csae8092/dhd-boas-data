@@ -8,7 +8,7 @@
                         <surname>Garcés</surname>
                         <forename>Juan</forename>
                     </persName>
-                    <affiliation ref="#org__16">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</affiliation>
+                    <affiliation ref="#org__24">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</affiliation>
                     <email>juan.garces@slub-dresden.de</email>
                 </author>
                 <author ref="#person__johannes-braeuer-tu-dresden-de">
@@ -102,57 +102,57 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4"><hi rend="bold">Berry, David M.</hi> (2011): 
+                        <rs type="bibl" ref="#bibl__4"><rs type="bibl" ref="#bibl__4"><hi rend="bold">Berry, David M.</hi> (2011): 
                         <hi rend="italic">The Philosophy of Software: Code and Mediation in the Digital Age</hi>, Houndmills &amp; New York.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1048"><hi rend="bold">Berry, David M.</hi> (2014): 
+                        <rs type="bibl" ref="#bibl__139"><rs type="bibl" ref="#bibl__1048"><hi rend="bold">Berry, David M.</hi> (2014): 
                         <hi rend="italic">Critical Theory and the Digital</hi>, New York &amp; London.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1049"><hi rend="bold">Dilthey, Wilhelm</hi> (1883): 
+                        <rs type="bibl" ref="#bibl__1123"><rs type="bibl" ref="#bibl__1049"><hi rend="bold">Dilthey, Wilhelm</hi> (1883): 
                         <hi rend="italic">Einleitung in die Geisteswissenschaften: Versuch einer Grundlegung für das Studium der Gesellschaft und der Geschichte</hi>, Leipzig.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1050"><hi rend="bold">Evens, Aden</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__1124"><rs type="bibl" ref="#bibl__1050"><hi rend="bold">Evens, Aden</hi> (2015): 
                         <hi rend="italic">Logic of the Digital</hi>, London u.a..
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1051"><hi rend="bold">Foucault, Michel</hi> (1978): 
+                        <rs type="bibl" ref="#bibl__1125"><rs type="bibl" ref="#bibl__1051"><hi rend="bold">Foucault, Michel</hi> (1978): 
                         <hi rend="italic">Dispositive der Macht: Über Sexualität, Wissen und Wahrheit</hi>, Übers. Jutta Kranz et al., Berlin.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1052"><hi rend="bold">Galloway, Alexander R.</hi> (2012): 
+                        <rs type="bibl" ref="#bibl__1126"><rs type="bibl" ref="#bibl__1052"><hi rend="bold">Galloway, Alexander R.</hi> (2012): 
                         <hi rend="italic">The Interface Effect</hi>, Cambridge &amp; Malden.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1053"><hi rend="bold">Galloway, Alexander R.</hi> (2014): “The Cybernetic Hypothesis”, in: 
+                        <rs type="bibl" ref="#bibl__1127"><rs type="bibl" ref="#bibl__1053"><hi rend="bold">Galloway, Alexander R.</hi> (2014): “The Cybernetic Hypothesis”, in: 
                         <hi rend="italic">differences</hi> 25: 107-131.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1054"><hi rend="bold">Lyotard, Jean-François</hi> (2012): 
+                        <rs type="bibl" ref="#bibl__1128"><rs type="bibl" ref="#bibl__1054"><hi rend="bold">Lyotard, Jean-François</hi> (2012): 
                         <hi rend="italic">Das postmoderne Wissen: Ein Bericht</hi>, 7., überarb. Aufl., Wien.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1055"><hi rend="bold">Moretti, Franco</hi> (2009): 
+                        <rs type="bibl" ref="#bibl__1129"><rs type="bibl" ref="#bibl__1055"><hi rend="bold">Moretti, Franco</hi> (2009): 
                         <hi rend="italic">Kurven, Karten, Bäume: Abstrakte Modelle für die Literaturgeschichte</hi>, übers. Florian Kessler, Frankfurt am Main.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1056"><hi rend="bold">McCarty, Willard</hi> (2005): 
+                        <rs type="bibl" ref="#bibl__140"><rs type="bibl" ref="#bibl__1056"><hi rend="bold">McCarty, Willard</hi> (2005): 
                         <hi rend="italic">Humanities Computing</hi>, Houndmills &amp; New York.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1057"><hi rend="bold">Ramsay, Stephen</hi> (2011): 
+                        <rs type="bibl" ref="#bibl__1130"><rs type="bibl" ref="#bibl__1057"><hi rend="bold">Ramsay, Stephen</hi> (2011): 
                         <hi rend="italic">Reading Machines: Towards an Algorithmic Criticism</hi>, Urbana &amp; Springfield.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__103"><hi rend="bold">Sahle, Patrick</hi> (2013): 
+                        <rs type="bibl" ref="#bibl__102"><rs type="bibl" ref="#bibl__103"><hi rend="bold">Sahle, Patrick</hi> (2013): 
                         <hi rend="italic">Digitale Editionsformen: Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels</hi>, 3 Bde., Norderstedt.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__104"><hi rend="bold">Jockers, Matthew L.</hi> (2013): 
+                        <rs type="bibl" ref="#bibl__141"><rs type="bibl" ref="#bibl__104"><hi rend="bold">Jockers, Matthew L.</hi> (2013): 
                         <hi rend="italic">Macroanalysis: Digital Methods &amp; Literary History</hi>, Urbana &amp; Springfield.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

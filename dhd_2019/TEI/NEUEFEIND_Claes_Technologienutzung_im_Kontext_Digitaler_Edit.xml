@@ -35,7 +35,7 @@
                         <surname>Harzenetter</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
                     <email>lukas.harzenetter@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
@@ -43,7 +43,7 @@
                         <surname>Barzen</surname>
                         <forename>Johanna</forename>
                     </persName>
-                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
                     <email>johanna.barzen@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__uwe-breitenbuecher-iaas-uni-stuttgart-de">
@@ -51,7 +51,7 @@
                         <surname>Breitenbücher</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
                     <email>uwe.breitenbuecher@iaas.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__frank-leymann-iaas-uni-stuttgart-de">
@@ -59,7 +59,7 @@
                         <surname>Leymann</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
                     <email>frank.leymann@iaas.uni-stuttgart.de</email>
                 </author>
             </titleStmt>
@@ -189,45 +189,45 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__185"><hi rend="bold">Barzen, J. / Blumtritt, J. / Breitenbücher, U. / Kronenwett, S. / Leymann, F. / Mathiak, B. / Neuefeind, C.</hi> (2018): "SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften." In: Book of Abstracts der 5. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2018), Köln 26.2.–2.3.2018, S. 471–474. 
+                        <rs type="bibl" ref="#bibl__291"><rs type="bibl" ref="#bibl__185"><hi rend="bold">Barzen, J. / Blumtritt, J. / Breitenbücher, U. / Kronenwett, S. / Leymann, F. / Mathiak, B. / Neuefeind, C.</hi> (2018): "SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften." In: Book of Abstracts der 5. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2018), Köln 26.2.–2.3.2018, S. 471–474. 
                         <ptr target="https://kups.ub.uni-koeln.de/8085/1/boa-DHd2018-.pdf"/>[letzter Zugriff 8.1.2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2783"><hi rend="bold">Binz, T. / Breitenbücher, U. / Haupt, F. / Kopp, O. / Leymann, F. / Nowak, A. / Wagner, S.</hi> (2013): “OpenTOSCA - A Runtime for TOSCA-based Cloud Applications“. In: ICSOC, 2013, S. 692–695.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__120"><rs type="bibl" ref="#bibl__2783"><hi rend="bold">Binz, T. / Breitenbücher, U. / Haupt, F. / Kopp, O. / Leymann, F. / Nowak, A. / Wagner, S.</hi> (2013): “OpenTOSCA - A Runtime for TOSCA-based Cloud Applications“. In: ICSOC, 2013, S. 692–695.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2784"><hi rend="bold">Breitenbücher, U. / Barzen, J. / Falkenthal, M. / Leymann, F.</hi> (2017): "Digitale Nachhaltigkeit in den Geisteswissenschaften durch TOSCA: Nutzung eines standardbasierten Open-Source Ökosystems", in: DHd 2017: Digitale Nachhaltigkeit, S. 235–238. 
+                        <rs type="bibl" ref="#bibl__4011"><rs type="bibl" ref="#bibl__2784"><hi rend="bold">Breitenbücher, U. / Barzen, J. / Falkenthal, M. / Leymann, F.</hi> (2017): "Digitale Nachhaltigkeit in den Geisteswissenschaften durch TOSCA: Nutzung eines standardbasierten Open-Source Ökosystems", in: DHd 2017: Digitale Nachhaltigkeit, S. 235–238. 
                         <ptr target="http://www.dhd2017.ch/wp-content/uploads/2017/01/Abstractband_def_24.1.17-1.pdf"/>[letzter Zugriff 8.1.2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2785"><hi rend="bold">Neuefeind, C. / Harzenetter, L. / Schildkamp, P. / Breitenbücher, U. / Mathiak, B. / Barzen, J. / Leymann, F.</hi> (2018): "The SustainLife Project – Living Systems in Digital Humanities". In: Proceedings of the 12th Advanced Summer School on Service-Oriented Computing, 2018 (IBM Research Report RC25681), S.101-112.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__4012"><rs type="bibl" ref="#bibl__2785"><hi rend="bold">Neuefeind, C. / Harzenetter, L. / Schildkamp, P. / Breitenbücher, U. / Mathiak, B. / Barzen, J. / Leymann, F.</hi> (2018): "The SustainLife Project – Living Systems in Digital Humanities". In: Proceedings of the 12th Advanced Summer School on Service-Oriented Computing, 2018 (IBM Research Report RC25681), S.101-112.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__89"><hi rend="bold">OASIS</hi> (2013): „Topology and Orchestration Specification for Cloud Applications Version 1.0“. 25 November 2013. OASIS Standard. 
+                        <rs type="bibl" ref="#bibl__121"><rs type="bibl" ref="#bibl__89"><hi rend="bold">OASIS</hi> (2013): „Topology and Orchestration Specification for Cloud Applications Version 1.0“. 25 November 2013. OASIS Standard. 
                         <ptr target="http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html"/>. [letzter Zugriff 8.1.2019]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2786"><hi rend="bold">OASIS</hi> (2016): „TOSCA Simple Profile in YAML, Version 1.0“. Edited by Derek Palma, Matt Rutkowski, and Thomas Spatzier. 21 December 2016. OASIS Standard. 
+                        <rs type="bibl" ref="#bibl__4013"><rs type="bibl" ref="#bibl__2786"><hi rend="bold">OASIS</hi> (2016): „TOSCA Simple Profile in YAML, Version 1.0“. Edited by Derek Palma, Matt Rutkowski, and Thomas Spatzier. 21 December 2016. OASIS Standard. 
                         <ptr target="http://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.0/os/TOSCA-Simple-Profile-YAML-v1.0-os.html"/>. [letzter Zugriff 8.1.2019]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2787"><hi rend="background-color(#ffffff)bold">OASIS</hi>
+                        <rs type="bibl" ref="#bibl__4014"><rs type="bibl" ref="#bibl__2787"><hi rend="background-color(#ffffff)bold">OASIS</hi>
                         <hi rend="background-color(#ffffff)"> (2018): „Darwin Information Typing Architecture (DITA) Version 1.3 Errata 02“. Edited by Robert D. Anderson and Kristen James Eberlein. 19 June 2018. OASIS Approved Errata. </hi>
                         <ptr target="http://docs.oasis-open.org/dita/dita/v1.3/errata02/os/dita-v1.3-errata02-os.html"/>
                         <hi rend="background-color(#ffffff)">.</hi> [letzter Zugriff 8.1.2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2788"><hi rend="bold">Parnas, D. L.</hi> (1994): ”Software Aging“. In: Proceedings of the 16th International Conference on Software Engineering (ICSE 1994). IEEE, Mai 1994, S. 279–287.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__4015"><rs type="bibl" ref="#bibl__2788"><hi rend="bold">Parnas, D. L.</hi> (1994): ”Software Aging“. In: Proceedings of the 16th International Conference on Software Engineering (ICSE 1994). IEEE, Mai 1994, S. 279–287.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__90"><hi rend="bold">Sahle, P. und Kronenwett, S.</hi> (2013): ”Jenseits der Daten: Überlegungen zu Datenzentren für die Geisteswissenschaften am Beispiel des Kölner ’Data Center for the Humanities’“. In: LIBREAS. Library Ideas 23, S. 76–96.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__122"><rs type="bibl" ref="#bibl__90"><hi rend="bold">Sahle, P. und Kronenwett, S.</hi> (2013): ”Jenseits der Daten: Überlegungen zu Datenzentren für die Geisteswissenschaften am Beispiel des Kölner ’Data Center for the Humanities’“. In: LIBREAS. Library Ideas 23, S. 76–96.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__110"><hi rend="background-color(#ffffff)bold">TEI Consortium, eds. </hi>
+                        <rs type="bibl" ref="#bibl__60"><rs type="bibl" ref="#bibl__110"><hi rend="background-color(#ffffff)bold">TEI Consortium, eds. </hi>
                         <hi rend="background-color(#ffffff)">(2018): “TEI P5: Guidelines for Electronic Text Encoding and Interchange.” Version 3.4.0 vom 23.7.2018. </hi>
                         <ptr target="http://www.tei-c.org/Guidelines/P5/"/>
                         <hi rend="background-color(#ffffff)">[letzter Zugriff 8.1.2019].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

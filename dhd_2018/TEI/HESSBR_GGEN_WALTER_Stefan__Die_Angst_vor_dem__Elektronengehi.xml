@@ -11,7 +11,7 @@
                         <surname>Heßbrüggen-Walter</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__46">National Research University Higher School of Economics, Russland</affiliation>
+                    <affiliation ref="#org__62">National Research University Higher School of Economics, Russland</affiliation>
                     <email>shessbru@hse.ru</email>
                 </author>
             </titleStmt>
@@ -91,29 +91,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1629"><hi rend="bold">Aumann, Philipp</hi> (2015): „Neues Denken in Wissenschaft und Gesellschaft: Die Kybernetik in der Mitte des 20. Jahrhunderts“ in: Jeschke, Sabina / Dröge, Alicia / Schmitt, Robert (eds.): 
+                        <rs type="bibl" ref="#bibl__1685"><rs type="bibl" ref="#bibl__1629"><hi rend="bold">Aumann, Philipp</hi> (2015): „Neues Denken in Wissenschaft und Gesellschaft: Die Kybernetik in der Mitte des 20. Jahrhunderts“ in: Jeschke, Sabina / Dröge, Alicia / Schmitt, Robert (eds.): 
                         <hi rend="italic">Exploring Cybernetics: Kybernetik im interdisziplinären Diskurs</hi>, Wiesbaden: Springer Fachmedien 21-40
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1630"><hi rend="bold">Gölz, Walter</hi> (1970): „Philosophisches Problembewußtsein und kybernetische Theorie“,in: 
+                        <rs type="bibl" ref="#bibl__1686"><rs type="bibl" ref="#bibl__1630"><hi rend="bold">Gölz, Walter</hi> (1970): „Philosophisches Problembewußtsein und kybernetische Theorie“,in: 
                         <hi rend="italic">Zeitschrift für philosophische Forschung</hi> 24: 253-264
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1631"><hi rend="bold">Kline, Ronald R</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__1687"><rs type="bibl" ref="#bibl__1631"><hi rend="bold">Kline, Ronald R</hi> (2015): 
                         <hi rend="italic">The Cybernetics Moment. Or Why we Call Our Age the Information Age</hi>. Baltimore: Johns Hopkins University Press
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1632"><hi rend="bold">Moser, Simon</hi> (1967): „Zur philosophischen Diskussion der Kybernetik in der Gegenwart“,in: 
+                        <rs type="bibl" ref="#bibl__1688"><rs type="bibl" ref="#bibl__1632"><hi rend="bold">Moser, Simon</hi> (1967): „Zur philosophischen Diskussion der Kybernetik in der Gegenwart“,in: 
                         <hi rend="italic">Zeitschrift für philosophische Forschung</hi> 21: 64-77
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1633"><hi rend="bold">Schischkoff, Georgi</hi> (1965): „Philosophie und Kybernetik. Zur Kritik am kybernetischen Positivismus“,in: 
+                        <rs type="bibl" ref="#bibl__1689"><rs type="bibl" ref="#bibl__1633"><hi rend="bold">Schischkoff, Georgi</hi> (1965): „Philosophie und Kybernetik. Zur Kritik am kybernetischen Positivismus“,in: 
                         <hi rend="italic">Zeitschrift für philosophische Forschung</hi> 19: 248-278
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1634"><hi rend="bold">Steinbuch, Karl</hi> (1963): 
+                        <rs type="bibl" ref="#bibl__1690"><rs type="bibl" ref="#bibl__1634"><hi rend="bold">Steinbuch, Karl</hi> (1963): 
                         <hi rend="italic">Automat und Mensch: Kybernetische Tatsachen und Hypothesen</hi>. Berlin / Göttingen / Heidelberg: Springer Verlag OHG 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -11,7 +11,7 @@
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__47">Stiftung Preußischer Kulturbesitz</affiliation>
+                    <affiliation ref="#org__64">Stiftung Preußischer Kulturbesitz</affiliation>
                     <email>f.diehr@smb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__brodhun-sub-uni-goettingen-de">
@@ -19,7 +19,7 @@
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation ref="#org__39">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>brodhun@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
@@ -27,7 +27,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
                 <author ref="#person__thomas-kollatz-adwmainz-de">
@@ -35,7 +35,7 @@
                         <surname>Kollatz</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>thomas.kollatz@adwmainz.de</email>
                 </author>
                 <author ref="#person__wuebbena-kunst-uni-frankfurt-de">
@@ -43,7 +43,7 @@
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation ref="#org__5 #org__283">Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</affiliation>
+                    <affiliation ref="#org__9 #org__436">Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland; Deutsches Forum für Kunstgeschichte Paris, Frankreich</affiliation>
                     <email>wuebbena@kunst.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__efer-saw-leipzig-de">
@@ -51,7 +51,7 @@
                         <surname>Efer</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__54 #org__31">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland; Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__41 #org__17">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland; Universität Leipzig, Deutschland</affiliation>
                     <email>efer@saw-leipzig.de</email>
                 </author>
             </titleStmt>

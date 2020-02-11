@@ -8,7 +8,7 @@
                         <surname>Hannesschlaeger</surname>
                         <forename>Vanessa</forename>
                     </persName>
-                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>vanessa.hannesschlaeger@oeaw.ac.at</email>
                 </author>
             </titleStmt>
@@ -84,34 +84,34 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.<rs type="bibl" ref="#bibl__2586"/></bibl>
-                    <bibl>Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.<rs type="bibl" ref="#bibl__2587"/></bibl>
+                    <bibl>Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.<rs type="bibl" ref="#bibl__3821"><rs type="bibl" ref="#bibl__2586"/></rs></bibl>
+                    <bibl>Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.<rs type="bibl" ref="#bibl__3822"><rs type="bibl" ref="#bibl__2587"/></rs></bibl>
                     <bibl>Open Science Network Austria (OANA): Über Open Science. 
-                        <rs type="bibl" ref="#bibl__2588"><ref target="https://www.oana.at/ueber-open-science/">https://www.oana.at/ueber-open-science/</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3823"><rs type="bibl" ref="#bibl__2588"><ref target="https://www.oana.at/ueber-open-science/">https://www.oana.at/ueber-open-science/</ref>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">Pomerantz, Jeffrey / Peek, Robin: Fifty shades of open. In: 
-                        <rs type="bibl" ref="#bibl__2589"><hi rend="italic">First Monday</hi> 4/2016. 
+                        <rs type="bibl" ref="#bibl__3824"><rs type="bibl" ref="#bibl__2589"><hi rend="italic">First Monday</hi> 4/2016. 
                         <ref target="http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460">http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460</ref>
-                    </rs></bibl>
-                    <bibl>Ressourcen zum Projekt:<rs type="bibl" ref="#bibl__2590"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Ressourcen zum Projekt:<rs type="bibl" ref="#bibl__3825"><rs type="bibl" ref="#bibl__2590"/></rs></bibl>
                     <bibl>Web-App: 
-                        <rs type="bibl" ref="#bibl__2591"><ref target="https://handkeinzungen.acdh.oeaw.ac.at/">https://handkeinzungen.acdh.oeaw.ac.at/</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3826"><rs type="bibl" ref="#bibl__2591"><ref target="https://handkeinzungen.acdh.oeaw.ac.at/">https://handkeinzungen.acdh.oeaw.ac.at/</ref>
+                    </rs></rs></bibl>
                     <bibl>Projekt-Logbuch: 
-                        <rs type="bibl" ref="#bibl__2592"><ref target="https://github.com/vanyh/handkeinzungen">https://github.com/vanyh/handkeinzungen</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3827"><rs type="bibl" ref="#bibl__2592"><ref target="https://github.com/vanyh/handkeinzungen">https://github.com/vanyh/handkeinzungen</ref>
+                    </rs></rs></bibl>
                     <bibl>Github-Repository: 
-                        <rs type="bibl" ref="#bibl__2593"><ref target="https://github.com/vanyh/handkeinzungen-app">https://github.com/vanyh/handkeinzungen-app</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3828"><rs type="bibl" ref="#bibl__2593"><ref target="https://github.com/vanyh/handkeinzungen-app">https://github.com/vanyh/handkeinzungen-app</ref>
+                    </rs></rs></bibl>
                     <bibl>Wikiversity-Seite: 
-                        <rs type="bibl" ref="#bibl__2594"><ref target="https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke">https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3829"><rs type="bibl" ref="#bibl__2594"><ref target="https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke">https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke</ref>
+                    </rs></rs></bibl>
                     <bibl>Zotero-Gruppe: 
-                        <rs type="bibl" ref="#bibl__2595"><ref target="https://www.zotero.org/groups/1840645/peter_handke_stage_texts">https://www.zotero.org/groups/1840645/peter_handke_stage_texts</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3830"><rs type="bibl" ref="#bibl__2595"><ref target="https://www.zotero.org/groups/1840645/peter_handke_stage_texts">https://www.zotero.org/groups/1840645/peter_handke_stage_texts</ref>
+                    </rs></rs></bibl>
                     <bibl>Twitter-Account: 
-                        <rs type="bibl" ref="#bibl__2596"><ref target="https://twitter.com/HandkeinZungen">https://twitter.com/HandkeinZungen</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3831"><rs type="bibl" ref="#bibl__2596"><ref target="https://twitter.com/HandkeinZungen">https://twitter.com/HandkeinZungen</ref>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

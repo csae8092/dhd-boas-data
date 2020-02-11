@@ -8,7 +8,7 @@
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__93">Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__101">Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>katrin.moeller@geschichte.uni-halle.de</email>
                 </author>
                 <author ref="#person__matej-durco-oeaw-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Ďurčo</surname>
                         <forename>Matej</forename>
                     </persName>
-                    <affiliation ref="#org__94">Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__102">Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>matej.durco@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__barbara-ebert-rfii-de">
@@ -24,7 +24,7 @@
                         <surname>Ebert</surname>
                         <forename>Barbara</forename>
                     </persName>
-                    <affiliation ref="#org__95">Leiterin des Rats für Informationsinfrastrukturen (RfII), Geschäftsstelle Göttingen</affiliation>
+                    <affiliation ref="#org__103">Leiterin des Rats für Informationsinfrastrukturen (RfII), Geschäftsstelle Göttingen</affiliation>
                     <email>barbara.ebert@rfii.de</email>
                 </author>
                 <author ref="#person__esciences-uni-trier-de">
@@ -32,7 +32,7 @@
                         <surname>Lemaire</surname>
                         <forename>Marina</forename>
                     </persName>
-                    <affiliation ref="#org__96">Servicezentrum eSciences, Universität Trier, Deutschland</affiliation>
+                    <affiliation ref="#org__104">Servicezentrum eSciences, Universität Trier, Deutschland</affiliation>
                     <email>esciences@uni-trier.de</email>
                 </author>
                 <author ref="#person__lukas-rosenthaler-unibas-ch">
@@ -40,7 +40,7 @@
                         <surname>Rosenthaler</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation ref="#org__97">and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften, Schweiz</affiliation>
+                    <affiliation ref="#org__105">and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften, Schweiz</affiliation>
                     <email>lukas.rosenthaler@unibas.ch</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -48,7 +48,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__37">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
                 <author ref="#person__ulrike-wuttke-gmx-net">
@@ -56,7 +56,7 @@
                         <surname>Wuttke</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation ref="#org__98">Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich Informationswissenschaften, Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__106">Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich Informationswissenschaften, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>Ulrike.Wuttke@gmx.net</email>
                 </author>
                 <author ref="#person__jwettla-gwdg-de">
@@ -64,7 +64,7 @@
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation ref="#org__99">Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__107">Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen, Deutschland</affiliation>
                     <email>jwettla@gwdg.de</email>
                 </author>
             </titleStmt>
@@ -189,40 +189,40 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__5"><hi rend="bold">AG Datenzentren des DHd (Hg.)</hi> (2017): Stellungnahme der DHd AG Datenzentren und des DHd-Verbands zur Nationalen Forschungsdateninfrastruktur (NFDI), URL: 
+                        <rs type="bibl" ref="#bibl__7"><rs type="bibl" ref="#bibl__5"><hi rend="bold">AG Datenzentren des DHd (Hg.)</hi> (2017): Stellungnahme der DHd AG Datenzentren und des DHd-Verbands zur Nationalen Forschungsdateninfrastruktur (NFDI), URL: 
                         <ref target="http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf">
                             <hi rend="underline">http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__607"><hi rend="bold">Allianz der deutschen Wissenschaftsorganisationen (Hg.)</hi> (2010): Grundsätze zum Umgang mit Forschungsdaten, URL: 
+                        <rs type="bibl" ref="#bibl__701"><rs type="bibl" ref="#bibl__607"><hi rend="bold">Allianz der deutschen Wissenschaftsorganisationen (Hg.)</hi> (2010): Grundsätze zum Umgang mit Forschungsdaten, URL: 
                         <ref target="http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf">
                             <hi rend="underline">http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__608"><hi rend="bold">DFG (Hg.)</hi> (2015): DFG-Leitlinien zum Umgang mit Forschungsdaten, Bonn 2015, 
+                        <rs type="bibl" ref="#bibl__702"><rs type="bibl" ref="#bibl__608"><hi rend="bold">DFG (Hg.)</hi> (2015): DFG-Leitlinien zum Umgang mit Forschungsdaten, Bonn 2015, 
                         <ref target="http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html">
                             <hi rend="underline">http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__609"><hi rend="bold">Nestor (Hg.)</hi> (2016): Standardisierung, 2016, URL: 
+                        <rs type="bibl" ref="#bibl__703"><rs type="bibl" ref="#bibl__609"><hi rend="bold">Nestor (Hg.)</hi> (2016): Standardisierung, 2016, URL: 
                         <ref target="https://wiki.dnb.de/display/NESTOR/Standardisierung">
                             <hi rend="underline">https://wiki.dnb.de/display/NESTOR/Standardisierung</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__65"><hi rend="bold">Neuroth, Heike / Oßwald, Achim / Scheffel, Regine / Strathmann, Stefan / Huth, Karsten (Hg.): </hi>nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchivierung. Version 2.3, Göttingen 2010, URL: 
+                        <rs type="bibl" ref="#bibl__77"><rs type="bibl" ref="#bibl__65"><hi rend="bold">Neuroth, Heike / Oßwald, Achim / Scheffel, Regine / Strathmann, Stefan / Huth, Karsten (Hg.): </hi>nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchivierung. Version 2.3, Göttingen 2010, URL: 
                         <ref target="http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf">
                             <hi rend="underline">http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__610"><hi rend="bold">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim / Scheffel, Regine / Klump, Jens / Ludwig, Jens (Hg.)</hi> (2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Boizenburg / Göttingen.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__704"><rs type="bibl" ref="#bibl__610"><hi rend="bold">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim / Scheffel, Regine / Klump, Jens / Ludwig, Jens (Hg.)</hi> (2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Boizenburg / Göttingen.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__611"><hi rend="bold">OECD (Hg.)</hi> (2007): OECD Principles and Guidelines for Access to Research Data from Public Funding, Paris 2007, URL: 
+                        <rs type="bibl" ref="#bibl__705"><rs type="bibl" ref="#bibl__611"><hi rend="bold">OECD (Hg.)</hi> (2007): OECD Principles and Guidelines for Access to Research Data from Public Funding, Paris 2007, URL: 
                         <ref target="http://www.oecd.org/sti/sci-tech/38500813.pdf">
                             <hi rend="underline">http://www.oecd.org/sti/sci-tech/38500813.pdf</hi>
                         </ref> [letzter Zugriff 22. September 2017].
@@ -237,19 +237,19 @@
                         <ref target="https://www.hrk.de/positionen/beschluss/detail/management-von-forschungsdaten-eine-zentrale-strategische-herausforderung-fuer-hochschulleitungen/">
                             <hi rend="underline">https://www.hrk.de/positionen/beschluss/detail/management-von-forschungsdaten-eine-zentrale-strategische-herausforderung-fuer-hochschulleitungen/</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__6"><hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.)</hi> (2016): Leistung aus Vielfalt, Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen, URL: 
+                        <rs type="bibl" ref="#bibl__8"><rs type="bibl" ref="#bibl__6"><hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.)</hi> (2016): Leistung aus Vielfalt, Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen, URL: 
                         <ref target="http://www.rfii.de/de/category/dokumente/">
                             <hi rend="underline">http://www.rfii.de/de/category/dokumente/</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__612"><hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.) </hi>(2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls zur Zielstellung und Voraussetzungen für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), URL: 
+                        <rs type="bibl" ref="#bibl__706"><rs type="bibl" ref="#bibl__612"><hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.) </hi>(2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls zur Zielstellung und Voraussetzungen für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), URL: 
                         <ref target="http://www.rfii.de/de/category/dokumente/">
                             <hi rend="underline">http://www.rfii.de/de/category/dokumente/</hi>
                         </ref> [letzter Zugriff 22. September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -1,0 +1,72 @@
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0" xml:id="intro-002">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="nodisplay">Logo Page</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Elisabeth Burr, Universität Leipzig</publisher>
+        <address>
+          <addrLine>Beethovenstr. 15</addrLine>
+          <addrLine>04107 Leipzig</addrLine>
+          <addrLine>Deutschland</addrLine>
+          <addrLine>Elisabeth Burr</addrLine>
+        </address>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No source: created in electronic format.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="original" n="category">
+          <term>Intro</term>
+        </keywords>
+        <keywords scheme="original" n="subcategory">
+          <term>Short Paper</term>
+        </keywords>
+        <keywords scheme="original" n="topic">
+          <term/>
+        </keywords>
+        <keywords scheme="original" n="keywords">
+          <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date/>
+        <name/>
+        <desc/>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text type="paper" n="single">
+    <body>
+      <div n="publisher_info">
+        <!--<figure><graphic url="logo"/></figure>-->
+        <p n="intro_text">
+          Die Abstracts wurden von den Autorinnen und Autoren in einem Template<lb/>
+          erstellt und mittels des von Marco Petris, Universität Hamburg, entwickelten<lb/>
+          DHConvalidators in eine TEI konforme XML-Datei konvertiert.<lb/>
+        </p>
+        <p n="intro_text">
+          Koordination der Publikation: Elisabeth Burr<lb/>
+          Korrektur der Auszeichnung und der Bibliographie:<lb/>
+               Julia Burkhardt<lb/>
+               Fleur Pfeifer<lb/>
+               Rebecca Sierig<lb/>
+          Konvertierung TEI nach PDF: Aramís Concepción Durán<lb/>
+          TEI to PDF scripts: Karin Dalziel<lb/>
+               https://github.com/karindalziel/TEI-to-PDF<lb/>
+          Konferenz-Logo und Umschlaggestaltung: Alexander Morgenstern<lb/>
+        </p>
+        <p n="intro_text">
+          online verfügbar: http://dhd2016.de/<lb/>
+        </p>
+        <p n="intro_text"><!--<seg n="ISBN">ISBN GOES HERE (controlled by XSLT)</seg><lb/>-->
+        copyright nisaba verlag</p>
+      </div>
+    </body>
+  </text>
+</TEI>

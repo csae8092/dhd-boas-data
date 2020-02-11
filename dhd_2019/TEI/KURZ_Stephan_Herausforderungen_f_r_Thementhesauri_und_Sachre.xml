@@ -11,7 +11,7 @@
                         <surname>Kurz</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>stephan.kurz@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__ksenia-zaytseva-oeaw-ac-at">
@@ -19,7 +19,7 @@
                         <surname>Zaytseva</surname>
                         <forename>Ksenia</forename>
                     </persName>
-                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>ksenia.zaytseva@oeaw.ac.at</email>
                 </author>
             </titleStmt>
@@ -167,28 +167,28 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2217"><hi rend="bold">Viele Herausgeber und Bearbeiter</hi> (1970–2015): Die Protokolle des österreichischen Ministerrates 1848–1867. Wien: mehrere Verlage. [https://hw.oeaw.ac.at/ministerrat/].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3456"><rs type="bibl" ref="#bibl__2217"><hi rend="bold">Viele Herausgeber und Bearbeiter</hi> (1970–2015): Die Protokolle des österreichischen Ministerrates 1848–1867. Wien: mehrere Verlage. [https://hw.oeaw.ac.at/ministerrat/].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2218"><hi rend="bold">Viele HerausgeberInnen und BearbeiterInnen</hi> (1973–2018): Die Habsburgermonarchie 1848–1918, 12 Bände, Wien: Verlag der Österreichischen Akademie der Wissenschaften.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3457"><rs type="bibl" ref="#bibl__2218"><hi rend="bold">Viele HerausgeberInnen und BearbeiterInnen</hi> (1973–2018): Die Habsburgermonarchie 1848–1918, 12 Bände, Wien: Verlag der Österreichischen Akademie der Wissenschaften.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2219"><hi rend="bold">Bernád, Ágoston Zénó / Gruber, Christine / Kaiser, Maximilian</hi> (2017): 
+                        <rs type="bibl" ref="#bibl__3458"><rs type="bibl" ref="#bibl__2219"><hi rend="bold">Bernád, Ágoston Zénó / Gruber, Christine / Kaiser, Maximilian</hi> (2017): 
                         <hi rend="italic">Europa baut auf Biographien</hi>. Wien: new academic press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2220"><hi rend="bold">Fokkens, Antske / ter Braake, Serge / Ockeloen, Niels / Vossen, Piek / Legêne, Susan / Schreiber, Guus / de Boer, Victor</hi> (2017): „BiographyNet: Extracting Relations Between People and Events“, in: 
+                        <rs type="bibl" ref="#bibl__3459"><rs type="bibl" ref="#bibl__2220"><hi rend="bold">Fokkens, Antske / ter Braake, Serge / Ockeloen, Niels / Vossen, Piek / Legêne, Susan / Schreiber, Guus / de Boer, Victor</hi> (2017): „BiographyNet: Extracting Relations Between People and Events“, in: 
                         <hi rend="italic">Europa baut auf Biographien</hi>, 193–223.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2221"><hi rend="bold">Heath, Tom / Bizer, Christian</hi> (2011): 
+                        <rs type="bibl" ref="#bibl__3460"><rs type="bibl" ref="#bibl__2221"><hi rend="bold">Heath, Tom / Bizer, Christian</hi> (2011): 
                         <emph>Linked Data: Evolving the Web into a Global Data Space</emph> (1st edition). Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. San Rafael: Morgan &amp; Claypool
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2222"><hi rend="bold">Miles, Alistair / Bechhofer, Sean</hi> (eds.) (2009): SKOS Simple Knowledge Organization System, W3C Recommendation, 18 August 2009, 
+                        <rs type="bibl" ref="#bibl__3461"><rs type="bibl" ref="#bibl__2222"><hi rend="bold">Miles, Alistair / Bechhofer, Sean</hi> (eds.) (2009): SKOS Simple Knowledge Organization System, W3C Recommendation, 18 August 2009, 
                         <ptr target="http://www.w3.org/TR/skos-reference"/>.
-                    </rs></bibl>
-                    <bibl>Eine ausführliche historiographische Literaturliste kann bei Bedarf zur Verfügung gestellt werden. <rs type="bibl" ref="#bibl__2223"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Eine ausführliche historiographische Literaturliste kann bei Bedarf zur Verfügung gestellt werden. <rs type="bibl" ref="#bibl__3462"><rs type="bibl" ref="#bibl__2223"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

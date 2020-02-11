@@ -8,7 +8,7 @@
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation ref="#org__50">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>nantke@uni-wuppertal.de</email>
                 </author>
                 <author ref="#person__schlupko-uni-wuppertal-de">
@@ -16,7 +16,7 @@
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
                     </persName>
-                    <affiliation ref="#org__50">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>schlupko@uni-wuppertal.de</email>
                 </author>
             </titleStmt>
@@ -144,86 +144,86 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1380"><hi rend="bold">Banski, Pjotr</hi> (2010): “Why TEI stand-off annotation doesn't quite work: and why you might want to use it nevertheless”, in: 
+                        <rs type="bibl" ref="#bibl__1443"><rs type="bibl" ref="#bibl__1380"><hi rend="bold">Banski, Pjotr</hi> (2010): “Why TEI stand-off annotation doesn't quite work: and why you might want to use it nevertheless”, in: 
                         <hi rend="italic">Proceedings of Balisage: The Markup Conference</hi> 2010.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1381"><hi rend="bold">Barwise, Jon / Perry, John</hi> (1983): 
+                        <rs type="bibl" ref="#bibl__1444"><rs type="bibl" ref="#bibl__1381"><hi rend="bold">Barwise, Jon / Perry, John</hi> (1983): 
                         <hi rend="italic">Situations and Attitudes</hi>. Cambridge: Bradford Book, MIT Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1382"><hi rend="bold">Bauer Lucca, Eva</hi> (2001): 
+                        <rs type="bibl" ref="#bibl__1445"><rs type="bibl" ref="#bibl__1382"><hi rend="bold">Bauer Lucca, Eva</hi> (2001): 
                         <hi rend="italic">Versteckte Spuren: eine intertextuelle Annäherung an Thomas Manns Roman “Doktor Faustus”</hi>. Wiesbaden: Deutscher Universitätsverlag.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1383"><hi rend="bold">Broich, Ulrich / Pfister, Manfred</hi> (eds.) (1985): 
+                        <rs type="bibl" ref="#bibl__1446"><rs type="bibl" ref="#bibl__1383"><hi rend="bold">Broich, Ulrich / Pfister, Manfred</hi> (eds.) (1985): 
                         <hi rend="italic">Intertextualität. Formen, Funktionen, anglistische Fallstudien</hi>. Tübingen: Niemeyer.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1384"><hi rend="bold">Devlin, Keith J.</hi> (1990): Logic and Information. Cambridge: Cambridge University Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1447"><rs type="bibl" ref="#bibl__1384"><hi rend="bold">Devlin, Keith J.</hi> (1990): Logic and Information. Cambridge: Cambridge University Press.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1385"><hi rend="bold">Dudzik, Yvonne</hi> (2017): 
+                        <rs type="bibl" ref="#bibl__1448"><rs type="bibl" ref="#bibl__1385"><hi rend="bold">Dudzik, Yvonne</hi> (2017): 
                         <hi rend="italic">Geschichten bereichern die Geschichte: Intertextualität als Untersuchungskategorie in Uwe Johnsons “Jahrestage”</hi>. Göttingen: V&amp;R unipress.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1386"><hi rend="bold">Eide, Øvind</hi> (2014): “Ontologies, Data, and TEI”, in: 
+                        <rs type="bibl" ref="#bibl__1449"><rs type="bibl" ref="#bibl__1386"><hi rend="bold">Eide, Øvind</hi> (2014): “Ontologies, Data, and TEI”, in: 
                         <hi rend="italic">Journal of the Text Encoding Initiative</hi> 8: 1–22.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1387"><hi rend="bold">Genette, Gérard</hi> (1993): 
+                        <rs type="bibl" ref="#bibl__185"><rs type="bibl" ref="#bibl__1387"><hi rend="bold">Genette, Gérard</hi> (1993): 
                         <hi rend="italic">Palimpseste. Die Literatur auf zweiter Stufe</hi>. Frankfurt a. M.: Suhrkamp.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1388"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
+                        <rs type="bibl" ref="#bibl__183"><rs type="bibl" ref="#bibl__1388"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
                         <hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities</hi>. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1) 10.17175/sb001_006.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1389"><hi rend="bold">Hempfer, Klaus W.</hi> (1991): „Intertextualität. Systemreferenz und Strukturwandel: Die Pluralisierung des erotischen Diskurses in der italienischen und französischen Renaissance-Lyrik (Ariost, Bembo, Du Bellay, Ronsard)“, in: Titzmann, Michael (ed.): 
+                        <rs type="bibl" ref="#bibl__1450"><rs type="bibl" ref="#bibl__1389"><hi rend="bold">Hempfer, Klaus W.</hi> (1991): „Intertextualität. Systemreferenz und Strukturwandel: Die Pluralisierung des erotischen Diskurses in der italienischen und französischen Renaissance-Lyrik (Ariost, Bembo, Du Bellay, Ronsard)“, in: Titzmann, Michael (ed.): 
                         <hi rend="italic">Modelle des literarischen Strukturwandels</hi>. Tübingen: Niemeyer, 7–43.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1390"><hi rend="bold">Heßbrüggen-Walter, Stefan</hi> (2015): “What People Said: The Theoretical Foundations of a Minimal Doxographical Ontology and Its Use in the History of Philosophy”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
+                        <rs type="bibl" ref="#bibl__1451"><rs type="bibl" ref="#bibl__1390"><hi rend="bold">Heßbrüggen-Walter, Stefan</hi> (2015): “What People Said: The Theoretical Foundations of a Minimal Doxographical Ontology and Its Use in the History of Philosophy”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
                         <hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities</hi>. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). DOI: 10.17175/sb001_001 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1391"><hi rend="bold">John, Markus / Lohmann, Steffen / Koch, Steffen / Wörner, Michael / Ertl, Thomas</hi> (2016): „Visual Analytics for Narrative Texts. Visualizing Characters and their Relationships as Extracted from Novels”, in: 
+                        <rs type="bibl" ref="#bibl__1452"><rs type="bibl" ref="#bibl__1391"><hi rend="bold">John, Markus / Lohmann, Steffen / Koch, Steffen / Wörner, Michael / Ertl, Thomas</hi> (2016): „Visual Analytics for Narrative Texts. Visualizing Characters and their Relationships as Extracted from Novels”, in: 
                         <hi rend="italic">Proceedings of the 7th International Conference on Information Visualization Theory and Applications</hi>. Rom, Italien: SciTePress [Preprint: 
                         <ref target="http://www.visualdataweb.org/publications/2016_IVAPP_VA-for-Narrative_preprint.pdf">http://www.visualdataweb.org/publications/2016_IVAPP_VA-for-Narrative_preprint.pdf</ref>].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1392"><hi rend="bold">Kocher, Ursula</hi> (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): 
+                        <rs type="bibl" ref="#bibl__1453"><rs type="bibl" ref="#bibl__1392"><hi rend="bold">Kocher, Ursula</hi> (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): 
                         <hi rend="italic">Ästhetische Erfahrung und Edition</hi>. Tübingen: Max Niemeyer, 175–185.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__136"><hi rend="bold">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth</hi> (2009): „Ontology-based situation awareness“, in: 
+                        <rs type="bibl" ref="#bibl__186"><rs type="bibl" ref="#bibl__136"><hi rend="bold">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth</hi> (2009): „Ontology-based situation awareness“, in: 
                         <hi rend="italic">Information Fusion</hi> 10, 1. St. Louis, MO, USA: Elsevier, 83–98.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1393"><hi rend="bold">Tin, Erkan / Akman, Varol </hi>(1994): „Computational Situation Theory”, in: Hoebel, Louis J. / Powers, David (eds.): 
+                        <rs type="bibl" ref="#bibl__1454"><rs type="bibl" ref="#bibl__1393"><hi rend="bold">Tin, Erkan / Akman, Varol </hi>(1994): „Computational Situation Theory”, in: Hoebel, Louis J. / Powers, David (eds.): 
                         <hi rend="italic">SIGART Bulletin</hi> 5, 4. New York, NY, USA: ACM, 4–17.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1394"><hi rend="bold">Meister, Jan-Christoph</hi> (2012): „Crowdsourcing ‚True Meaning‘: A Collaborative Markup Approach to Textual Interpretation“, in: Deegan, Marilyn (ed.): 
+                        <rs type="bibl" ref="#bibl__1455"><rs type="bibl" ref="#bibl__1394"><hi rend="bold">Meister, Jan-Christoph</hi> (2012): „Crowdsourcing ‚True Meaning‘: A Collaborative Markup Approach to Textual Interpretation“, in: Deegan, Marilyn (ed.): 
                         <hi rend="italic">Collaborative Research in the Digital Humanities. A Volume in Honour of Harold Short, on the Occasion of his 65th Birthday and his Retirement</hi>. Farnham: Ashgate 2012, 106–122.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1395"><hi rend="bold">Spoerhase, Carlos</hi> (2007): 
+                        <rs type="bibl" ref="#bibl__1456"><rs type="bibl" ref="#bibl__1395"><hi rend="bold">Spoerhase, Carlos</hi> (2007): 
                         <hi rend="italic">Autorschaft und Interpretation. Methodische Grundlagen einer philologischen Hermeneutik</hi>. Berlin/New York: De Gruyter.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1396"><hi rend="bold">Verweyen, Theodor / Wittig, Gunther</hi> (2010): 
+                        <rs type="bibl" ref="#bibl__1457"><rs type="bibl" ref="#bibl__1396"><hi rend="bold">Verweyen, Theodor / Wittig, Gunther</hi> (2010): 
                         <hi rend="italic">Einfache Formen der Intertextualität: Theoretische Überlegungen und historische Untersuchungen</hi>. Paderborn: mentis.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1397"><hi rend="bold">Wagner, Benno / Mehler, Alexander / Biber, Hanno</hi> (2016): “Transbiblionome Daten in der Literaturwissenschaft. Texttechnologische Erschließung und digitale Visualisierng intertextueller Beziehungen digitaler Korpora“, in: 
+                        <rs type="bibl" ref="#bibl__1458"><rs type="bibl" ref="#bibl__1397"><hi rend="bold">Wagner, Benno / Mehler, Alexander / Biber, Hanno</hi> (2016): “Transbiblionome Daten in der Literaturwissenschaft. Texttechnologische Erschließung und digitale Visualisierng intertextueller Beziehungen digitaler Korpora“, in: 
                         <hi rend="italic">Konferenzabstracts DHd 2016 Modellierung, Vernetzung, Visualisierung. Die Digital Humanties als fächerübergreifendes Forschungsparadigma</hi>
                         <ref target="http://dhd2016.de/boa.pdf">http://dhd2016.de/boa.pdf</ref>, 88–94.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1398"><hi rend="bold">Wilde, Erik / Lowe, David</hi> (2003): 
+                        <rs type="bibl" ref="#bibl__1459"><rs type="bibl" ref="#bibl__1398"><hi rend="bold">Wilde, Erik / Lowe, David</hi> (2003): 
                         <hi rend="italic">XPath, XLink, XPointer, and XML: A Practical Guide to Web Hyperlinking and Transclusion</hi>. Boston, MA: Addison-Wesley.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

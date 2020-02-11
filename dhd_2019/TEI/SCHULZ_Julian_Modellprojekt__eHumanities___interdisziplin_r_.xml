@@ -8,7 +8,7 @@
                         <surname>Schulz</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>julian.schulz@lmu.de</email>
                 </author>
             </titleStmt>
@@ -121,25 +121,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__164"><hi rend="bold" xml:space="preserve">DHd-AG Datenzentren </hi>(2017): „
+                        <rs type="bibl" ref="#bibl__271"><rs type="bibl" ref="#bibl__164"><hi rend="bold" xml:space="preserve">DHd-AG Datenzentren </hi>(2017): „
                         <hi rend="italic">Geisteswissenschaftliche Datenzentren im deutschsprachigen Raum. Grundsatzpapier zur Sicherung der langfristigen Verfügbarkeit von Forschungsdaten</hi>“ https://doi.org/10.5281/zenodo.1134760.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1742"><hi rend="bold" xml:space="preserve">DHd-AG Datenzentren </hi>(2018): „
+                        <rs type="bibl" ref="#bibl__2994"><rs type="bibl" ref="#bibl__1742"><hi rend="bold" xml:space="preserve">DHd-AG Datenzentren </hi>(2018): „
                         <hi rend="italic">Vorschlag der AG Datenzentren im DHd zur Bildung und Strukturierung eines NFDI-Konsortiums für die Geisteswissenschaften</hi>“ https://dhd-ag-datenzentren.github.io/nfdi-vorschlag.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1743"><hi rend="bold">Krefeld, Thomas / Lücke, Stephan</hi> (2017): „
+                        <rs type="bibl" ref="#bibl__2995"><rs type="bibl" ref="#bibl__1743"><hi rend="bold">Krefeld, Thomas / Lücke, Stephan</hi> (2017): „
                         <hi rend="italic">Nachhaltigkeit – aus der Sicht virtueller Forschungsumgebungen</hi>“. Korpus im Text. Version 7 (10.03.2017, 12:27) http://www.kit.gwi.uni-muenchen.de/?p=5773&amp;v=7.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__6"><hi rend="bold">Rat für Informationsinfrastrukturen</hi> (2016): „
+                        <rs type="bibl" ref="#bibl__8"><rs type="bibl" ref="#bibl__6"><hi rend="bold">Rat für Informationsinfrastrukturen</hi> (2016): „
                         <hi rend="italic">Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland</hi>“. Göttingen, 160 S. http://www.rfii.de/?p=1998.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1744"><hi rend="bold">Rat für Informationsinfrastrukturen</hi> (2018): „
+                        <rs type="bibl" ref="#bibl__2996"><rs type="bibl" ref="#bibl__1744"><hi rend="bold">Rat für Informationsinfrastrukturen</hi> (2018): „
                         <hi rend="italic">In der Breite und forschungsnah: Handlungsfähige Konsortien. Dritter Diskussionsimpuls zur Ausgestaltung einer Nationalen Forschungsdateninfrastruktur (NFDI) für die Wissenschaft in Deutschland</hi>“. Göttingen, 6 S. http://www.rfii.de/?p=3509.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

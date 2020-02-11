@@ -8,7 +8,7 @@
                         <surname>Loebel</surname>
                         <forename>Jens-Martin</forename>
                     </persName>
-                    <affiliation ref="#org__170">bitGilde IT Solutions UG, Deutschland</affiliation>
+                    <affiliation ref="#org__169">bitGilde IT Solutions UG, Deutschland</affiliation>
                     <email>loebel@bitgilde.de</email>
                 </author>
                 <author ref="#person__kontakt-carolinhahn-de">
@@ -16,7 +16,7 @@
                         <surname>Hahn</surname>
                         <forename>Carolin</forename>
                     </persName>
-                    <affiliation ref="#org__171">Beste Worte GmbH</affiliation>
+                    <affiliation ref="#org__170">Beste Worte GmbH</affiliation>
                     <email>kontakt@carolinhahn.de</email>
                 </author>
             </titleStmt>
@@ -144,20 +144,20 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1129"><hi rend="bold">Geoghegan, Michael / Dan Klass</hi> (2007): Podcast Solutions. The Complete Guide to Audio and Video Podcasting. New York: Springer.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1199"><rs type="bibl" ref="#bibl__1129"><hi rend="bold">Geoghegan, Michael / Dan Klass</hi> (2007): Podcast Solutions. The Complete Guide to Audio and Video Podcasting. New York: Springer.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1130"><hi rend="bold">Hagedorn, Brigitte</hi> (2006): Podcasting: Konzept | Produktion | Vermarktung. Köln: mitp Verlags GmbH.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1200"><rs type="bibl" ref="#bibl__1130"><hi rend="bold">Hagedorn, Brigitte</hi> (2006): Podcasting: Konzept | Produktion | Vermarktung. Köln: mitp Verlags GmbH.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1131"><hi rend="bold">Podcast der Helmholtz-Gemeinschaft</hi>: https://resonator-podcast.de/ [letzter Zugriff 15. September 2017].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1201"><rs type="bibl" ref="#bibl__1131"><hi rend="bold">Podcast der Helmholtz-Gemeinschaft</hi>: https://resonator-podcast.de/ [letzter Zugriff 15. September 2017].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1132"><hi rend="bold">Podcast der Universität Wien</hi>: http://medienportal.univie.ac.at/uniview/podcast-audimax/ [letzter Zugriff 15. September 2017].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1202"><rs type="bibl" ref="#bibl__1132"><hi rend="bold">Podcast der Universität Wien</hi>: http://medienportal.univie.ac.at/uniview/podcast-audimax/ [letzter Zugriff 15. September 2017].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1133"><hi rend="bold">Physik-Podcast im ORF</hi>: http://www.physikalischesoiree.at/ [letzter Zugriff 15. September 2017].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1203"><rs type="bibl" ref="#bibl__1133"><hi rend="bold">Physik-Podcast im ORF</hi>: http://www.physikalischesoiree.at/ [letzter Zugriff 15. September 2017].
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

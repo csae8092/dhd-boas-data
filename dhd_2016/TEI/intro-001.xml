@@ -1,0 +1,63 @@
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xmt="http://www.cch.kcl.ac.uk/xmod/tei/1.0" xml:id="intro-001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="nodisplay">Title Page</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Elisabeth Burr, Universität Leipzig</publisher>
+        <address>
+          <addrLine>Beethovenstr. 15</addrLine>
+          <addrLine>04107 Leipzig</addrLine>
+          <addrLine>Deutschland</addrLine>
+          <addrLine>Elisabeth Burr</addrLine>
+        </address>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No source: created in electronic format.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="original" n="category">
+          <term>Intro</term>
+        </keywords>
+        <keywords scheme="original" n="subcategory">
+          <term/>
+        </keywords>
+        <keywords scheme="original" n="topic">
+          <term/>
+        </keywords>
+        <keywords scheme="original" n="keywords">
+          <term/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date/>
+        <name/>
+        <desc/>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text type="intro" n="single">
+    <body>
+      <div>
+        <p n="intro_text_center">
+          Digital Humanities im deutschsprachigen Raum (DHd)<lb/>
+        </p>
+      </div>
+      <div>
+        <head n="intro_head_large_center">DHd 2016</head>
+        <head n="intro_head_medium_center">Modellierung - Vernetzung - Visualisierung</head>
+        <head n="intro_head_medium_center">Die Digital Humanities als fächerübergreifendes Forschungsparadigma</head>
+        <p> </p>
+        <head n="intro_head_medium_italic_center">Konferenzabstracts</head>
+        <p> </p>
+        <head n="intro_head_medium_center">Universität Leipzig</head>
+        <head n="intro_head_medium_center">7. bis 12. März 2016</head>
+      </div>
+    </body>
+  </text>
+</TEI>

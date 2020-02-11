@@ -11,7 +11,7 @@
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__leonard-konle-uni-wuerzburg-de">
@@ -19,7 +19,7 @@
                         <surname>Konle</surname>
                         <forename>Leonard</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>leonard.konle@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__zehe-informatik-uni-wuerzburg-de">
@@ -27,7 +27,7 @@
                         <surname>Zehe</surname>
                         <forename>Albin</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>zehe@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -35,7 +35,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__markus-krug-uni-wuerzburg-de">
@@ -43,7 +43,7 @@
                         <surname>Krug</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>
@@ -274,26 +274,26 @@
                 <listBibl>
                     <head>Bibliography</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__434"><hi rend="bold">Brunner, Annelen</hi> (2013): “Automatic recognition of speech, thought, and writing representation in German narrative texts”, in 
+                        <rs type="bibl" ref="#bibl__530"><rs type="bibl" ref="#bibl__434"><hi rend="bold">Brunner, Annelen</hi> (2013): “Automatic recognition of speech, thought, and writing representation in German narrative texts”, in 
                         <hi rend="italic">Literary and Linguistic Computing. Vol. 28 (2013).</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__435"><hi rend="bold">Chollet, Francois</hi> (2017): “Deep Learning with Python”. Manning Publications. New York. (Preprint: https://www.manning.com/books/deep-learning-with-python)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__531"><rs type="bibl" ref="#bibl__435"><hi rend="bold">Chollet, Francois</hi> (2017): “Deep Learning with Python”. Manning Publications. New York. (Preprint: https://www.manning.com/books/deep-learning-with-python)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__436"><hi rend="bold">Goodfellow, Ian /  Bengio Yoshua / Courville,  Aaron</hi> (2016): “Deep Learning”. MIT Press. (URL: 
+                        <rs type="bibl" ref="#bibl__532"><rs type="bibl" ref="#bibl__436"><hi rend="bold">Goodfellow, Ian /  Bengio Yoshua / Courville,  Aaron</hi> (2016): “Deep Learning”. MIT Press. (URL: 
                         <ref target="http://www.deeplearningbook.org/">
                             <hi rend="underline">http://www.deeplearningbook.org</hi>
                         </ref>)
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__437"><hi rend="bold">Rush, Alexander M. / Chopra, Sumit / Weston, Jason</hi> (2015): “A Neural Attention Model for Abstractive Sentence Summarization”. 
+                        <rs type="bibl" ref="#bibl__533"><rs type="bibl" ref="#bibl__437"><hi rend="bold">Rush, Alexander M. / Chopra, Sumit / Weston, Jason</hi> (2015): “A Neural Attention Model for Abstractive Sentence Summarization”. 
                         <hi rend="italic">arXiv preprint arXiv:1509.00685.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__438"><hi rend="bold">Scheible, C., Klinger, R. &amp; Padó, S.</hi> (2016): “Model Architectures for Quotation Detection”, in 
+                        <rs type="bibl" ref="#bibl__534"><rs type="bibl" ref="#bibl__438"><hi rend="bold">Scheible, C., Klinger, R. &amp; Padó, S.</hi> (2016): “Model Architectures for Quotation Detection”, in 
                         <hi rend="italic">Proceedings of ACL (p./pp. 1736–1745).</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

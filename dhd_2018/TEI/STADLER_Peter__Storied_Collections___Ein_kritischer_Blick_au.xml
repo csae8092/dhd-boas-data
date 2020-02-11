@@ -11,7 +11,7 @@
                         <surname>Stadler</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn</affiliation>
                     <email>stadler@weber-gesamtausgabe.de</email>
                 </author>
                 <author ref="#person__kepper-edirom-de">
@@ -19,7 +19,7 @@
                         <surname>Kepper</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn</affiliation>
                     <email>kepper@edirom.de</email>
                 </author>
                 <author ref="#person__irmlind-capelle-uni-paderborn-de">
@@ -27,7 +27,7 @@
                         <surname>Capelle</surname>
                         <forename>Irmlind</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn</affiliation>
                     <email>irmlind.capelle@uni-paderborn.de</email>
                 </author>
                 <author ref="#person__oberhoff-upb-de">
@@ -35,7 +35,7 @@
                         <surname>Oberhoff</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn</affiliation>
                     <email>oberhoff@upb.de</email>
                 </author>
             </titleStmt>
@@ -178,29 +178,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__126"><anchor xml:id="id_docs-internal-guid-ffcc83ad-baf8-222d-e69d-119454fdcb65"/>
+                        <rs type="bibl" ref="#bibl__168"><rs type="bibl" ref="#bibl__126"><anchor xml:id="id_docs-internal-guid-ffcc83ad-baf8-222d-e69d-119454fdcb65"/>
                         <hi rend="bold">Gabler, Hans Walter</hi> (2010): „Theorizing the Digital Scholarly Edition“, in: Literature Compass 7/2 (2010): 43–56
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1254"><hi rend="bold">Pierazzo, Elena</hi> (2011): „A Rationale of Digital Documentary editions“. Literary and Linguistic Computing 26/4 (2011): 463–77
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1323"><rs type="bibl" ref="#bibl__1254"><hi rend="bold">Pierazzo, Elena</hi> (2011): „A Rationale of Digital Documentary editions“. Literary and Linguistic Computing 26/4 (2011): 463–77
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1255"><hi rend="bold">Robinson, Peter</hi> (2013): „Towards a Theory of Digital Editions“, in: Variants 10 (2013): 105–131
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1324"><rs type="bibl" ref="#bibl__1255"><hi rend="bold">Robinson, Peter</hi> (2013): „Towards a Theory of Digital Editions“, in: Variants 10 (2013): 105–131
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__103"><hi rend="bold">Sahle, Patrick</hi> (2013): „Digitale Editionsformen, Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels“, Norderstedt 2013
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__102"><rs type="bibl" ref="#bibl__103"><hi rend="bold">Sahle, Patrick</hi> (2013): „Digitale Editionsformen, Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels“, Norderstedt 2013
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1256"><hi rend="bold">Schnapp, Jeffrey T. </hi>(2003): „Knowledge Design. Incubating new knowledge forms / genres / spaces in the laboratory of the digital humanities.“ Keynote delivered at the Herrenhausen Conference „Digital Humanities Revisited – Challenges and Opportunities in the Digital Age“ (Dez. 2013)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1325"><rs type="bibl" ref="#bibl__1256"><hi rend="bold">Schnapp, Jeffrey T. </hi>(2003): „Knowledge Design. Incubating new knowledge forms / genres / spaces in the laboratory of the digital humanities.“ Keynote delivered at the Herrenhausen Conference „Digital Humanities Revisited – Challenges and Opportunities in the Digital Age“ (Dez. 2013)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1257"><hi rend="bold">Siemens, Ray / Timney, Meagan / Leitch, Cara / Koolen, Corina / Garnett, Alex</hi> (2011): „Toward Modelling the 
+                        <rs type="bibl" ref="#bibl__1326"><rs type="bibl" ref="#bibl__1257"><hi rend="bold">Siemens, Ray / Timney, Meagan / Leitch, Cara / Koolen, Corina / Garnett, Alex</hi> (2011): „Toward Modelling the 
                         <hi rend="italic">Social</hi> Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media“, in: Literary and linguistic computing 27/4 (2012): 445–461
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1258"><hi rend="bold">Wiering, Frans / Crawford, Tim / Lewis, David</hi>(2006): „Digital Critical Editions of Music. A Multidimensional Model“, Methods Network Expert Seminar „Modern Methods for Musicology“, online unter 
+                        <rs type="bibl" ref="#bibl__1327"><rs type="bibl" ref="#bibl__1258"><hi rend="bold">Wiering, Frans / Crawford, Tim / Lewis, David</hi>(2006): „Digital Critical Editions of Music. A Multidimensional Model“, Methods Network Expert Seminar „Modern Methods for Musicology“, online unter 
                         <ptr target="http://www.methodsnetwork.ac.uk/redist/pdf/wiering.pdf"/>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -8,7 +8,7 @@
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>jwettla@gwdg.de</email>
                 </author>
                 <author ref="#person__stefan-ziehe-stud-uni-goettingen-de">
@@ -16,7 +16,7 @@
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>stefan.ziehe@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__info-opensemanticsearch-org">
@@ -24,7 +24,7 @@
                         <surname>Mandalka</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__264">Freier Journalist und Informatiker, Berlin</affiliation>
+                    <affiliation ref="#org__418">Freier Journalist und Informatiker, Berlin</affiliation>
                     <email>info@opensemanticsearch.org</email>
                 </author>
             </titleStmt>
@@ -86,7 +86,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.<rs type="bibl" ref="#bibl__2433"/></bibl>
+                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.<rs type="bibl" ref="#bibl__3668"><rs type="bibl" ref="#bibl__2433"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -8,7 +8,7 @@
                         <surname>Blanken</surname>
                         <forename>Christine</forename>
                     </persName>
-                    <affiliation ref="#org__207">Bach-Archiv Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__205">Bach-Archiv Leipzig, Deutschland</affiliation>
                     <email>blanken@bach-leipzig.de</email>
                 </author>
                 <author ref="#person__rettinghaus-bach-leipzig-de">
@@ -16,7 +16,7 @@
                         <surname>Rettinghaus</surname>
                         <forename>Klaus</forename>
                     </persName>
-                    <affiliation ref="#org__54">Sächsische Akademie der Wissenschaften zu Leipzig, Projekt Bach-Repertorium</affiliation>
+                    <affiliation ref="#org__41">Sächsische Akademie der Wissenschaften zu Leipzig, Projekt Bach-Repertorium</affiliation>
                     <email>rettinghaus@bach-leipzig.de</email>
                 </author>
             </titleStmt>

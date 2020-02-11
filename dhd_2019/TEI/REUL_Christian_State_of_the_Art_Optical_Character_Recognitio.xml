@@ -8,7 +8,7 @@
                         <surname>Reul</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>christian.reul@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__uwe-springmann-net">
@@ -16,7 +16,7 @@
                         <surname>Springmann</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>uwe@springmann.net</email>
                 </author>
                 <author ref="#person__christoph-wick-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Wick</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>christoph.wick@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__frank-puppe-uni-wuerzburg-de">
@@ -32,7 +32,7 @@
                         <surname>Puppe</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>frank.puppe@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>
@@ -195,31 +195,31 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2380"><hi rend="bold">Breuel, Thomas M. / Ul-Hasan, Adnan / Al-Azawi, Mayce / Shafait, Faisal</hi> (2013): “High-performance OCR for printed English and Fraktur using LSTM networks” in Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3615"><rs type="bibl" ref="#bibl__2380"><hi rend="bold">Breuel, Thomas M. / Ul-Hasan, Adnan / Al-Azawi, Mayce / Shafait, Faisal</hi> (2013): “High-performance OCR for printed English and Fraktur using LSTM networks” in Document Analysis and Recognition (ICDAR), 2013 12th International Conference on. IEEE.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2381"><hi rend="bold">Breuel, Thomas M.</hi> (2017): “High performance text recognition using a hybrid convolutional-LSTM implementation” in Document Analysis and Recognition (ICDAR), 2017 14th IAPR International Conference on. IEEE.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3616"><rs type="bibl" ref="#bibl__2381"><hi rend="bold">Breuel, Thomas M.</hi> (2017): “High performance text recognition using a hybrid convolutional-LSTM implementation” in Document Analysis and Recognition (ICDAR), 2017 14th IAPR International Conference on. IEEE.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2382"><hi rend="bold">Reul, Christian / Springmann, Uwe / Wick, Christoph / Puppe, Frank</hi> (2018): “Improving OCR Accuracy on Early Printed Books by combining Pretraining, Voting, and Active Learning” in ArXiv preprints: 
+                        <rs type="bibl" ref="#bibl__3617"><rs type="bibl" ref="#bibl__2382"><hi rend="bold">Reul, Christian / Springmann, Uwe / Wick, Christoph / Puppe, Frank</hi> (2018): “Improving OCR Accuracy on Early Printed Books by combining Pretraining, Voting, and Active Learning” in ArXiv preprints: 
                         <ref target="https://arxiv.org/abs/1802.10038">https://arxiv.org/abs/1802.10038</ref> (accepted for JLCL Volume 33 (2018), Issue 1: Special Issue on Automatic Text and Layout Recognition).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2383"><hi rend="bold">Springmann, Uwe / Fink, Florian / Schulz, Klaus-U.</hi> (2016). “Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents” in ArXiv preprints: 
+                        <rs type="bibl" ref="#bibl__3618"><rs type="bibl" ref="#bibl__2383"><hi rend="bold">Springmann, Uwe / Fink, Florian / Schulz, Klaus-U.</hi> (2016). “Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents” in ArXiv preprints: 
                         <ref target="https://arxiv.org/abs/1606.05157">https://arxiv.org/abs/1606.05157</ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__150"><hi rend="bold">Springmann, Uwe / Lüdeling, Anke</hi> (2017). “OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus” in Digital Humanities Quarterly 11, 2: 
+                        <rs type="bibl" ref="#bibl__206"><rs type="bibl" ref="#bibl__150"><hi rend="bold">Springmann, Uwe / Lüdeling, Anke</hi> (2017). “OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus” in Digital Humanities Quarterly 11, 2: 
                         <ref target="http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html">http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html</ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2384"><hi rend="bold">Springmann, Uwe / Reul, Christian / Dipper, Stephanie / Baiter, Johannes</hi> (2018): “Ground Truth for training OCR engines on historical documents in German Fraktur and Early Modern Latin” in ArXiv preprints: 
+                        <rs type="bibl" ref="#bibl__3619"><rs type="bibl" ref="#bibl__2384"><hi rend="bold">Springmann, Uwe / Reul, Christian / Dipper, Stephanie / Baiter, Johannes</hi> (2018): “Ground Truth for training OCR engines on historical documents in German Fraktur and Early Modern Latin” in ArXiv preprints: 
                         <ref target="https://arxiv.org/abs/1809.05501">https://arxiv.org/abs/1809.05501</ref> (submitted to JLCL Volume 33 (2018), Issue 1: Special Issue on Automatic Text and Layout Recognition).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__184"><hi rend="bold">Wick, Christoph / Reul, Christian / Puppe, Frank</hi> (2018): “Calamari - A High-Performance Tensorflow-based Deep Learning Package for Optical Character Recognition” in ArXiv preprints: 
+                        <rs type="bibl" ref="#bibl__290"><rs type="bibl" ref="#bibl__184"><hi rend="bold">Wick, Christoph / Reul, Christian / Puppe, Frank</hi> (2018): “Calamari - A High-Performance Tensorflow-based Deep Learning Package for Optical Character Recognition” in ArXiv preprints: 
                         <ref target="https://arxiv.org/abs/1807.02004">https://arxiv.org/abs/1807.02004</ref> (submitted to Digital Humanities Quarterly).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

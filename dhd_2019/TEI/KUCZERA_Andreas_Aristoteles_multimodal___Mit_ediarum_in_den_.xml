@@ -11,7 +11,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</affiliation>
+                    <affiliation ref="#org__424">Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
                 <author ref="#person__fechner-bbaw-de">
@@ -19,7 +19,7 @@
                         <surname>Martin</surname>
                         <forename>Fechner</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>fechner@bbaw.de</email>
                 </author>
             </titleStmt>
@@ -241,28 +241,28 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Fechner 2017 = Martin 
-                        <rs type="bibl" ref="#bibl__2468"><hi rend="color(#000000)">Fechner</hi>,
+                        <rs type="bibl" ref="#bibl__3703"><rs type="bibl" ref="#bibl__2468"><hi rend="color(#000000)">Fechner</hi>,
                         <hi rend="color(#000000)"> “ediarum: eine digitale Arbeitsumgebung für Editionsvorhaben”, Folien zum Workshop »ediarum« im Rahmen des Workshops der Akademienunion am 20. Oktober 2017 in Mainz, URL: </hi>
                         <ptr target="https://nbn-resolving.org/urn:nbn:de:kobv:b4-opus4-28169"/>
                         <hi rend="color(#000000)">.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Fechner 2018 = Martin Fechner, Eine nachhaltige Präsentationsschicht für digitale Editionen, in: DHd 2018 - Kritik der digitalen Vernunft. Konferenzabstrakts, hg. v. Georg Vogeler, Köln 2018, URL: 
-                        <rs type="bibl" ref="#bibl__2469"><ptr target="http://dhd2018.uni-koeln.de/"/>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3704"><rs type="bibl" ref="#bibl__2469"><ptr target="http://dhd2018.uni-koeln.de/"/>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2470"><hi rend="color(#000000)">Kuczera 2017 = Andreas Kuczera, Graphentechnologien in den Digitalen Geisteswissenschaften, in: ABI Technik 2017; 37(3): 179–196 (</hi>
+                        <rs type="bibl" ref="#bibl__3705"><rs type="bibl" ref="#bibl__2470"><hi rend="color(#000000)">Kuczera 2017 = Andreas Kuczera, Graphentechnologien in den Digitalen Geisteswissenschaften, in: ABI Technik 2017; 37(3): 179–196 (</hi>
                         <ptr target="https://doi.org/10.1515/abitech-2017-0042"/>
                         <hi rend="color(#000000)">). URL: </hi>
                         <ptr target="https://www.degruyter.com/downloadpdf/j/abitech.2017.37.issue-3/abitech-2017-0042/abitech-2017-0042.pdf"/>
                         <hi rend="color(#000000)"> </hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2471"><hi rend="color(#000000)">Kuczera 2018 = Andreas Kuczera, Graphentechnologien in den digitalen Geisteswissenschaften. Modellierung – Import – Exploration (Online-Publikation unter</hi>
+                        <rs type="bibl" ref="#bibl__3706"><rs type="bibl" ref="#bibl__2471"><hi rend="color(#000000)">Kuczera 2018 = Andreas Kuczera, Graphentechnologien in den digitalen Geisteswissenschaften. Modellierung – Import – Exploration (Online-Publikation unter</hi>
                         <ref target="https://kuczera.github.io/Graphentechnologien/">
                             <hi rend="color(#1155cc)underline">https://kuczera.github.io/Graphentechnologien/</hi>
                         </ref>
                         <hi rend="color(#000000)">). (2018)</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

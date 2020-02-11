@@ -8,7 +8,7 @@
                         <surname>Görz</surname>
                         <forename>Günther</forename>
                     </persName>
-                    <affiliation ref="#org__252 #org__4">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__410 #org__8">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>guenther.goerz@fau.de</email>
                 </author>
                 <author ref="#person__chiara-seidl0510-gmail-com">
@@ -16,7 +16,7 @@
                         <surname>Seidl</surname>
                         <forename>Chiara</forename>
                     </persName>
-                    <affiliation ref="#org__252 #org__4">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__410 #org__8">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>chiara.seidl0510@gmail.com</email>
                 </author>
                 <author ref="#person__martin-thiering-campus-tu-berlin-de">
@@ -24,7 +24,7 @@
                         <surname>Thiering</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__252 #org__43">Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__410 #org__48">Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin, Deutschland</affiliation>
                     <email>martin.thiering@campus.tu-berlin.de</email>
                 </author>
             </titleStmt>
@@ -92,19 +92,19 @@
                 <listBibl>
                     <head>Bibliography</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2311"><hi rend="bold">Blakemore, Michael / Harley, Brian J.</hi> (1980): Concepts in the History of Cartography - A Review and Perspective. In: Cartographica. International Publications on Cartography, 17/4, Monograph 26. University of Toronto
-                    </rs></bibl>
-                    <bibl>Press: Toronto.<rs type="bibl" ref="#bibl__2312"/></bibl>
+                        <rs type="bibl" ref="#bibl__3549"><rs type="bibl" ref="#bibl__2311"><hi rend="bold">Blakemore, Michael / Harley, Brian J.</hi> (1980): Concepts in the History of Cartography - A Review and Perspective. In: Cartographica. International Publications on Cartography, 17/4, Monograph 26. University of Toronto
+                    </rs></rs></bibl>
+                    <bibl>Press: Toronto.<rs type="bibl" ref="#bibl__3550"><rs type="bibl" ref="#bibl__2312"/></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2313"><hi rend="bold">Bodenhamer, David J. / Corrigan, John / Harris, Trevor M.</hi> (eds.) (2010): The Spatial Humanities. GIS and the Future of Humanities Scholarship. Bloomington &amp; Indianapolis: Indiana University Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3551"><rs type="bibl" ref="#bibl__2313"><hi rend="bold">Bodenhamer, David J. / Corrigan, John / Harris, Trevor M.</hi> (eds.) (2010): The Spatial Humanities. GIS and the Future of Humanities Scholarship. Bloomington &amp; Indianapolis: Indiana University Press.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2314"><hi rend="bold" xml:space="preserve">Görz, Günther / Geus, Klaus / Michalsky, Tanja / Thiering, Martin </hi>(2018): Spatial Cognition in Historical Geographical Texts and Maps: Towards a cognitive-semantic analysis of Flavio Biondo's ``Italia Illustrata''. In: Boutoura, Ch., Tsorlini, A. (Ed.): 
+                        <rs type="bibl" ref="#bibl__3552"><rs type="bibl" ref="#bibl__2314"><hi rend="bold" xml:space="preserve">Görz, Günther / Geus, Klaus / Michalsky, Tanja / Thiering, Martin </hi>(2018): Spatial Cognition in Historical Geographical Texts and Maps: Towards a cognitive-semantic analysis of Flavio Biondo's ``Italia Illustrata''. In: Boutoura, Ch., Tsorlini, A. (Ed.): 
                         <hi rend="italic">Digital Approaches to Cartographic Heritage.</hi> 13th Conference of the International Cartographic Association Commission on Cartographic Heritage into the Digital, Madrid, 29-44.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2315"><hi rend="bold">Thiering, Martin</hi> (2015): Spatial Semiotics and Spatial Mental Models: Figure-Ground Asymmetries in Language. Berlin: De Gruyter Mouton. 
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3553"><rs type="bibl" ref="#bibl__2315"><hi rend="bold">Thiering, Martin</hi> (2015): Spatial Semiotics and Spatial Mental Models: Figure-Ground Asymmetries in Language. Berlin: De Gruyter Mouton. 
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

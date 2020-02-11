@@ -8,7 +8,7 @@
                         <surname>Althof</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__173">BBAW, Deutschland</affiliation>
+                    <affiliation ref="#org__66">BBAW, Deutschland</affiliation>
                     <email>daniel.althof@bbaw.de</email>
                 </author>
             </titleStmt>
@@ -138,66 +138,66 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1172"><?biblio ADDIN EN.REFLIST ?>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__4"><hi rend="bold">Berry, D. M. </hi>(2011): 
+                        <rs type="bibl" ref="#bibl__1242"><rs type="bibl" ref="#bibl__1172"><?biblio ADDIN EN.REFLIST ?>
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1243"><rs type="bibl" ref="#bibl__4"><hi rend="bold">Berry, D. M. </hi>(2011): 
                         <hi rend="italic">Philosophy of Software. Code and Mediation in the Digital Age, </hi>Basingstoke, Hampshire: Palgrave Macmillan UK.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1173"><hi rend="bold">Berry, D. M. &amp; Fagerjord, A.</hi> (2017): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1244"><rs type="bibl" ref="#bibl__1173"><hi rend="bold">Berry, D. M. &amp; Fagerjord, A.</hi> (2017): 
                         <hi rend="italic">Digital Humanities: Knowledge and Critique in a Digital Age, </hi>London: Polity Press.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1174"><hi rend="bold">Cassirer, E. </hi>(1961): Naturbegriffe und Kulturbegriffe. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1245"><rs type="bibl" ref="#bibl__1174"><hi rend="bold">Cassirer, E. </hi>(1961): Naturbegriffe und Kulturbegriffe. 
                         <hi rend="italic">Zur Logik der Kulturwissenschaften. Fünf Studien.</hi> Darmstadt: Wissenschaftliche Buchgesellschaft.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1175"><hi rend="bold">Comte, A. </hi>(1830-1842): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1246"><rs type="bibl" ref="#bibl__1175"><hi rend="bold">Comte, A. </hi>(1830-1842): 
                         <hi rend="italic">Cours de la philosophie positive, </hi>Paris: Bachelier.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1176"><hi rend="bold">Dilthey, W. </hi>(1992): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1247"><rs type="bibl" ref="#bibl__1176"><hi rend="bold">Dilthey, W. </hi>(1992): 
                         <hi rend="italic">Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, </hi>Stuttgart/Göttingen: Teubner/Vandenhoeck &amp; Ruprecht.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__36"><hi rend="bold">Gadamer, H.-G. </hi>(2010): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__44"><rs type="bibl" ref="#bibl__36"><hi rend="bold">Gadamer, H.-G. </hi>(2010): 
                         <hi rend="italic">Hermeneutik I. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik, </hi>Tübingen: Mohr Siebeck.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1177"><hi rend="bold">Helmholtz, H. L. F. V. </hi>(1903): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1248"><rs type="bibl" ref="#bibl__1177"><hi rend="bold">Helmholtz, H. L. F. V. </hi>(1903): 
                         <hi rend="italic">Über das Verhältnis von Naturwissenschaften zu der Gesammtheit der Wissenschaften, </hi>Braunschweig: Vieweg.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1178"><hi rend="bold">Kirsch, A. </hi>(2012): Technology Is Taking Over English Departments. The false promise of the digital humanities. Available from: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1249"><rs type="bibl" ref="#bibl__1178"><hi rend="bold">Kirsch, A. </hi>(2012): Technology Is Taking Over English Departments. The false promise of the digital humanities. Available from: 
                         <ref target="https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch">https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch</ref> [Accessed 22. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1179"><hi rend="bold">Liu, A. </hi>(2008): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1250"><rs type="bibl" ref="#bibl__1179"><hi rend="bold">Liu, A. </hi>(2008): 
                         <hi rend="italic">Local Transcendence: Essays on Postmodern Historicism and the Database, </hi>Chicago/London: The University of Chicago Press.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1180"><hi rend="bold">Liu, A. </hi>(2012): Where is Cultural Criticism in the Digital Humanities? 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1251"><rs type="bibl" ref="#bibl__1180"><hi rend="bold">Liu, A. </hi>(2012): Where is Cultural Criticism in the Digital Humanities? 
                         <hi rend="italic">In:</hi> Gold, M. K. (ed.) 
                         <hi rend="italic">Debates in the Digital Humanities.</hi> Minneapolis: The University of Minnesota Press.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1181"><hi rend="bold">Marche, S. </hi>(2012): Literature Is not Data: Against Digital Humanities. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1252"><rs type="bibl" ref="#bibl__1181"><hi rend="bold">Marche, S. </hi>(2012): Literature Is not Data: Against Digital Humanities. 
                         <hi rend="italic">Los Angeles Reviews of Books </hi>[Online]. [Accessed 22. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1182"><hi rend="bold">Mill, J. S. </hi>(1974): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1253"><rs type="bibl" ref="#bibl__1182"><hi rend="bold">Mill, J. S. </hi>(1974): 
                         <hi rend="italic">A System of Logic Ratiocinative and Inductive, </hi>London/Toronto: Routledge and Kegan Paul/University of Toronto Press.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__91"><hi rend="bold">Moretti, F. </hi>(2005): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__123"><rs type="bibl" ref="#bibl__91"><hi rend="bold">Moretti, F. </hi>(2005): 
                         <hi rend="italic">Graphs, Maps, Trees. Abstract Models for a Literary History, </hi>London/New York: Verso.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1183"><hi rend="bold">Popper, K. </hi>(2005): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1254"><rs type="bibl" ref="#bibl__1183"><hi rend="bold">Popper, K. </hi>(2005): 
                         <hi rend="italic">Logik der Forschung, </hi>Tübingen: Mohr Siebeck.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1184"><hi rend="bold">Rickert, H. </hi>(1986): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1255"><rs type="bibl" ref="#bibl__1184"><hi rend="bold">Rickert, H. </hi>(1986): 
                         <hi rend="italic">Kulturwissenschaft und Naturwissenschaft, </hi>Stuttgart: Reclam.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1185"><hi rend="bold">Ritter, J. </hi>(1974): Die Aufgabe der Geisteswissenschaften in der modernen Gesellschaft. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1256"><rs type="bibl" ref="#bibl__1185"><hi rend="bold">Ritter, J. </hi>(1974): Die Aufgabe der Geisteswissenschaften in der modernen Gesellschaft. 
                         <hi rend="italic">Subjektivität. Sechs Aufsätze.</hi> Frankfurt/M.: Suhrkamp.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1186"><hi rend="bold">Searle, J. </hi>(1993): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1257"><rs type="bibl" ref="#bibl__1186"><hi rend="bold">Searle, J. </hi>(1993): 
                         <hi rend="italic">Die Wiederentdeckung des Geistes, </hi>München: Artemis &amp; Winkler.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1187"><hi rend="bold">Windelband, W. </hi>(1924): Geschichte und Naturwissenschaft. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1258"><rs type="bibl" ref="#bibl__1187"><hi rend="bold">Windelband, W. </hi>(1924): Geschichte und Naturwissenschaft. 
                         <hi rend="italic">Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte.</hi> Tübingen: Mohr.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1188"><hi rend="bold">Wittgenstein, L. </hi>(1998): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1259"><rs type="bibl" ref="#bibl__1188"><hi rend="bold">Wittgenstein, L. </hi>(1998): 
                         <hi rend="italic">Logisch-philosophische Abhandlung. Tractatus logico-philosophicus - Kritische Edition, </hi>Frankfurt/M.: Suhrkamp.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

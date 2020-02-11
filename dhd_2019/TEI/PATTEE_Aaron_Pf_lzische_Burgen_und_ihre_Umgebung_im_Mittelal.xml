@@ -8,7 +8,7 @@
                         <surname>Pattee</surname>
                         <forename>Aaron</forename>
                     </persName>
-                    <affiliation ref="#org__15">Ruprecht-Karls-Universität, Heidelberg</affiliation>
+                    <affiliation ref="#org__23">Ruprecht-Karls-Universität, Heidelberg</affiliation>
                     <email>aaron.pattee@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
@@ -16,7 +16,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
                 <author ref="#person__armin-volkmann-asia-europe-uni-heidelberg-de">
@@ -24,7 +24,7 @@
                         <surname>Volkmann</surname>
                         <forename>Armin</forename>
                     </persName>
-                    <affiliation ref="#org__47">Stiftung Preußischer Kulturbesitz, Berlin</affiliation>
+                    <affiliation ref="#org__64">Stiftung Preußischer Kulturbesitz, Berlin</affiliation>
                     <email>armin.volkmann@asia-europe.uni-heidelberg.de</email>
                 </author>
             </titleStmt>
@@ -147,25 +147,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2155"><hi rend="bold" xml:space="preserve">Bihrer, Andreas </hi>(2011): “Research on the Ecclesiastical Princes in the Later Middle Ages—State-of-the-Art and Perspectives” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 49-70.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3395"><rs type="bibl" ref="#bibl__2155"><hi rend="bold" xml:space="preserve">Bihrer, Andreas </hi>(2011): “Research on the Ecclesiastical Princes in the Later Middle Ages—State-of-the-Art and Perspectives” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 49-70.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2156"><hi rend="bold">Herzog, Irmela</hi> (2017): “Reconstructing Pre-Industrial Long Distance Roads in a Hilly Region in Germany, Based on Historical and Archaeological Data” in 
+                        <rs type="bibl" ref="#bibl__3396"><rs type="bibl" ref="#bibl__2156"><hi rend="bold">Herzog, Irmela</hi> (2017): “Reconstructing Pre-Industrial Long Distance Roads in a Hilly Region in Germany, Based on Historical and Archaeological Data” in 
                         <hi rend="bold">Studies in Digital Heritage</hi>, 1(2), 642-660.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2157"><hi rend="bold">Liddiard, Robert</hi> (2011): “English Castle Building” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 199-225.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3397"><rs type="bibl" ref="#bibl__2157"><hi rend="bold">Liddiard, Robert</hi> (2011): “English Castle Building” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 199-225.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2158"><hi rend="bold" xml:space="preserve">Pattee, Aaron </hi>(2016): „Integrative Recording Methods of Historic Architecture—Burg Hohenecken from Southwest Germany“ Master’s Thesis, University of Nebraska-Lincoln.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3398"><rs type="bibl" ref="#bibl__2158"><hi rend="bold" xml:space="preserve">Pattee, Aaron </hi>(2016): „Integrative Recording Methods of Historic Architecture—Burg Hohenecken from Southwest Germany“ Master’s Thesis, University of Nebraska-Lincoln.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2159"><hi rend="bold">Spieß, Karl-Heinz</hi> (1975): “Vom reichsministerilen Inwärtseigen zur eigenständigen Herrschaft—Untersuchungen zur Besitzgeschichte der Herrschaft Hohenecken vom 13. bis zum 17. Jahrhundert” in: JbGKL 12/13: 84-106.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3399"><rs type="bibl" ref="#bibl__2159"><hi rend="bold">Spieß, Karl-Heinz</hi> (1975): “Vom reichsministerilen Inwärtseigen zur eigenständigen Herrschaft—Untersuchungen zur Besitzgeschichte der Herrschaft Hohenecken vom 13. bis zum 17. Jahrhundert” in: JbGKL 12/13: 84-106.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2160"><hi rend="bold">Untermann, Matthias</hi> (2007): „Abbild, Symbol, Repräsentation—Funktionen mittelalterlicher Architektur?“ in Wagener, O., Dinzelbacher, P., (Eds.), Symbole der Macht? Aspekte mittelalterlicher und frühneuzeitlicher Architektur: Beihefte zur Mediaevistik—Monographen, Editionen, Sammelbände
+                        <rs type="bibl" ref="#bibl__3400"><rs type="bibl" ref="#bibl__2160"><hi rend="bold">Untermann, Matthias</hi> (2007): „Abbild, Symbol, Repräsentation—Funktionen mittelalterlicher Architektur?“ in Wagener, O., Dinzelbacher, P., (Eds.), Symbole der Macht? Aspekte mittelalterlicher und frühneuzeitlicher Architektur: Beihefte zur Mediaevistik—Monographen, Editionen, Sammelbände
                         <hi rend="italic">.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

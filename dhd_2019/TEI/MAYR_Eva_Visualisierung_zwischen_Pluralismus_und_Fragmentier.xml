@@ -8,7 +8,7 @@
                         <surname>Mayr</surname>
                         <forename>Eva</forename>
                     </persName>
-                    <affiliation ref="#org__17">Donau Universität Krems, Österreich</affiliation>
+                    <affiliation ref="#org__25">Donau Universität Krems, Österreich</affiliation>
                     <email>eva.mayr@donau-uni.ac.at</email>
                 </author>
                 <author ref="#person__florian-windhager-donau-uni-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Windhager</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation ref="#org__17">Donau Universität Krems, Österreich</affiliation>
+                    <affiliation ref="#org__25">Donau Universität Krems, Österreich</affiliation>
                     <email>florian.windhager@donau-uni.ac.at</email>
                 </author>
                 <author ref="#person__guenther-schreder-donau-uni-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Schreder</surname>
                         <forename>Günther</forename>
                     </persName>
-                    <affiliation ref="#org__17">Donau Universität Krems, Österreich</affiliation>
+                    <affiliation ref="#org__25">Donau Universität Krems, Österreich</affiliation>
                     <email>guenther.schreder@donau-uni.ac.at</email>
                 </author>
             </titleStmt>
@@ -174,56 +174,56 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__21"><hi style="font-family:Abel" xml:space="preserve">Dörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In </hi>
+                        <rs type="bibl" ref="#bibl__25"><rs type="bibl" ref="#bibl__21"><hi style="font-family:Abel" xml:space="preserve">Dörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In </hi>
                         <hi rend="italic" style="font-family:Abel">Proceedings of the SIGCHI conference on human factors in computing systems</hi>
                         <hi style="font-family:Abel" xml:space="preserve"> (pp. 1215-1224). ACM.</hi>
                         <hi rend="color(4A86E8)" style="font-family:Abel">DOI:  https://doi.org/10.1145/1978942.1979124</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2760"><hi style="font-family:Abel" xml:space="preserve">Dörk, M., Pietsch, C., &amp; Credico, G. (2017). One view is not enough. </hi>
+                        <rs type="bibl" ref="#bibl__3989"><rs type="bibl" ref="#bibl__2760"><hi style="font-family:Abel" xml:space="preserve">Dörk, M., Pietsch, C., &amp; Credico, G. (2017). One view is not enough. </hi>
                         <hi rend="italic" style="font-family:Abel">Information Design Journal</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">23</hi>
                         <hi style="font-family:Abel">(1), 39-47.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2761"><hi style="font-family:Abel" xml:space="preserve">Mayr, E., Schreder, G., Salisu, S. &amp; Windhager, F.. (2018) </hi>
+                        <rs type="bibl" ref="#bibl__3990"><rs type="bibl" ref="#bibl__2761"><hi style="font-family:Abel" xml:space="preserve">Mayr, E., Schreder, G., Salisu, S. &amp; Windhager, F.. (2018) </hi>
                         <hi rend="italic" style="font-family:Abel">Integrated Visualization of Space and Time: A Distributed Cognition Perspective</hi>
                         <hi style="font-family:Abel">. Manuscript in preparation.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2762"><hi style="font-family:Abel" xml:space="preserve">Qu, Z and Hullman, J 2018, Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring, </hi>
+                        <rs type="bibl" ref="#bibl__3991"><rs type="bibl" ref="#bibl__2762"><hi style="font-family:Abel" xml:space="preserve">Qu, Z and Hullman, J 2018, Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring, </hi>
                         <hi rend="italic" style="font-family:Abel">IEEE Transactions on Visualization and Computer Graphics</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, 24 (1), p. 468-477. DOI: </hi>
                         <ref target="https://doi.org/10.1109/TVCG.2017.2744198">
                             <hi rend="underline color(1155CC)" style="font-family:Abel">https://doi.org/10.1109/TVCG.2017.2744198</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2763"><hi style="font-family:Abel">Schreder, G., Windhager, F., Smuc, M., &amp; Mayr, E. (2016). A Mental Models Perspective on Designing Information Visualizations for Political Communication.</hi>
+                        <rs type="bibl" ref="#bibl__3992"><rs type="bibl" ref="#bibl__2763"><hi style="font-family:Abel">Schreder, G., Windhager, F., Smuc, M., &amp; Mayr, E. (2016). A Mental Models Perspective on Designing Information Visualizations for Political Communication.</hi>
                         <hi rend="italic" style="font-family:Abel">JeDEM-eJournal of eDemocracy &amp; Open Government</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">8</hi>
                         <hi style="font-family:Abel">(3), 80-99.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__22"><hi style="font-family:Abel">Whitelaw, M. (2015). Generous Interfaces for Digital Cultural Collections.</hi>
+                        <rs type="bibl" ref="#bibl__26"><rs type="bibl" ref="#bibl__22"><hi style="font-family:Abel">Whitelaw, M. (2015). Generous Interfaces for Digital Cultural Collections.</hi>
                         <hi rend="italic" style="font-family:Abel">DHQ: Digital Humanities Quarterly</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">9</hi>
                         <hi style="font-family:Abel" xml:space="preserve">(1). </hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__112"><hi style="font-family:Abel" xml:space="preserve">Windhager, F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. (2018). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. </hi>
+                        <rs type="bibl" ref="#bibl__149"><rs type="bibl" ref="#bibl__112"><hi style="font-family:Abel" xml:space="preserve">Windhager, F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. (2018). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. </hi>
                         <hi rend="italic" style="font-family:Abel">IEEE Transactions on Visualization and Computer Graphics</hi>
                         <hi style="font-family:Abel">.</hi>
                         <hi rend="color(333333)" style="font-family:Abel;font-size:11.5pt">DOI:</hi>
                         <ref target="https://doi.org/10.1109/TVCG.2018.2830759">
                             <hi rend="underline color(006699)" style="font-family:Abel;font-size:11.5pt">10.1109/TVCG.2018.2830759</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2764"><hi style="font-family:Abel">Windhager, F., Salisu, S., Schreder, G., &amp; Mayr, E. (2018). Orchestrating Overviews: A Synoptic Approach to the Visualization of Cultural Collections.</hi>
+                        <rs type="bibl" ref="#bibl__3993"><rs type="bibl" ref="#bibl__2764"><hi style="font-family:Abel">Windhager, F., Salisu, S., Schreder, G., &amp; Mayr, E. (2018). Orchestrating Overviews: A Synoptic Approach to the Visualization of Cultural Collections.</hi>
                         <hi rend="italic" style="font-family:Abel">Open Library of Humanities</hi>
                         <hi style="font-family:Abel" xml:space="preserve">, </hi>
                         <hi rend="italic" style="font-family:Abel">4</hi>
@@ -232,7 +232,7 @@
                         <ref target="http://doi.org/10.16995/olh.276">
                             <hi rend="color(4A86E8)" style="font-family:Abel">http://doi.org/10.16995/olh.276</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

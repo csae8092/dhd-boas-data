@@ -8,7 +8,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation ref="#org__31">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
                 <author ref="#person__selina-meyer-stud-uni-regensburg-de">
@@ -16,7 +16,7 @@
                         <surname>Meyer</surname>
                         <forename>Selina</forename>
                     </persName>
-                    <affiliation ref="#org__33">Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__18">Universität Regensburg, Deutschland</affiliation>
                     <email>Selina.Meyer@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__stephanie-schmidbauer-stud-uni-regensburg-de">
@@ -24,7 +24,7 @@
                         <surname>Schmidtbauer</surname>
                         <forename>Stephanie</forename>
                     </persName>
-                    <affiliation ref="#org__33">Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__18">Universität Regensburg, Deutschland</affiliation>
                     <email>Stephanie.Schmidbauer@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__johannes-molz-googlemail-com">
@@ -32,7 +32,7 @@
                         <surname>Molz</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>johannes.molz@googlemail.com</email>
                 </author>
             </titleStmt>
@@ -237,55 +237,55 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Allen, G. (2000). 
-                        <rs type="bibl" ref="#bibl__2517"><hi rend="italic">Intertextuality</hi>. London, New York: Routledge.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3753"><rs type="bibl" ref="#bibl__2517"><hi rend="italic">Intertextuality</hi>. London, New York: Routledge.
+                    </rs></rs></bibl>
                     <bibl>Bamman, D., &amp; Crane, G. (2008). The Logic and Discovery of Textual Allusion. 
-                        <rs type="bibl" ref="#bibl__2518"><hi rend="italic">ACL Language Technology for Cultural Heritage</hi>, (1986).
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3754"><rs type="bibl" ref="#bibl__2518"><hi rend="italic">ACL Language Technology for Cultural Heritage</hi>, (1986).
+                    </rs></rs></bibl>
                     <bibl>Bär, D., Zesch, T., &amp; Gurevych, I. (2012). Text Reuse Detection using a Composition of Text Similarity Measures. 
-                        <rs type="bibl" ref="#bibl__2519"><hi rend="italic">Proceedings of COLING 2012</hi>, 
+                        <rs type="bibl" ref="#bibl__3755"><rs type="bibl" ref="#bibl__2519"><hi rend="italic">Proceedings of COLING 2012</hi>, 
                         <hi rend="italic">1</hi>(December), 167–184.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Berti, M., Büchler, M., Geßner, A., &amp; Thomas, E. (2013). Measuring the Influence of a Work by Text Reuse. In 
-                        <rs type="bibl" ref="#bibl__2520"><hi rend="italic">The Digital Classicist</hi>.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3756"><rs type="bibl" ref="#bibl__2520"><hi rend="italic">The Digital Classicist</hi>.
+                    </rs></rs></bibl>
                     <bibl>Burghardt, M., &amp; Wolff, C. (2015). Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik. In 
-                        <rs type="bibl" ref="#bibl__2521"><hi rend="italic">Book of Abstracts Workshop “Informatik und die Digital Humanities”, Leipzig</hi>.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3757"><rs type="bibl" ref="#bibl__2521"><hi rend="italic">Book of Abstracts Workshop “Informatik und die Digital Humanities”, Leipzig</hi>.
+                    </rs></rs></bibl>
                     <bibl>Büchler, M., Burns, P. R., Müller, M., Franzini, E., &amp; Franzini, G. (2014). Towards a Historical Text Re-use Detection. In C. Biemann &amp; A. Mehler (Eds.), 
-                        <rs type="bibl" ref="#bibl__2522"><hi rend="italic">Text Mining, Theory and Applications of Natural Language Processing</hi>. Springer International Publishing.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3758"><rs type="bibl" ref="#bibl__2522"><hi rend="italic">Text Mining, Theory and Applications of Natural Language Processing</hi>. Springer International Publishing.
+                    </rs></rs></bibl>
                     <bibl>Forstall, C., Coffee, N., Buck, T., Roache, K., &amp; Jacobson, S. (2015). Modeling the scholars: Detecting intertextuality through enhanced word-level n-gram matching. 
-                        <rs type="bibl" ref="#bibl__2523"><hi rend="italic">Digital Scholarship in the Humanities</hi>, 
+                        <rs type="bibl" ref="#bibl__3759"><rs type="bibl" ref="#bibl__2523"><hi rend="italic">Digital Scholarship in the Humanities</hi>, 
                         <hi rend="italic">30</hi>(4), 503–515. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Hohl Trillini, R., &amp; Quassdorf, S. (2010). A “key to all quotations”? A corpus-based parameter model of intertextuality. 
-                        <rs type="bibl" ref="#bibl__2524"><hi rend="italic">Literary and Linguistic Computing</hi>, 
+                        <rs type="bibl" ref="#bibl__3760"><rs type="bibl" ref="#bibl__2524"><hi rend="italic">Literary and Linguistic Computing</hi>, 
                         <hi rend="italic">25</hi>(3), 269–286. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Klarer, M. (1999). 
-                        <rs type="bibl" ref="#bibl__2525"><hi rend="italic">An Introduction to Literary Studies</hi>. London, New York: Routledge.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3761"><rs type="bibl" ref="#bibl__2525"><hi rend="italic">An Introduction to Literary Studies</hi>. London, New York: Routledge.
+                    </rs></rs></bibl>
                     <bibl>Kozloff, S. (2000). 
-                        <rs type="bibl" ref="#bibl__2526"><hi rend="italic">Overhearing Film Dialogue</hi>. Berkeley et al.: University of California Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3762"><rs type="bibl" ref="#bibl__2526"><hi rend="italic">Overhearing Film Dialogue</hi>. Berkeley et al.: University of California Press.
+                    </rs></rs></bibl>
                     <bibl>Malone, T. (2018). Quoting Shakespeare in Twentieth- Century Film. In J. Maxwell &amp; K. Rumbold (Eds.), 
-                        <rs type="bibl" ref="#bibl__2527"><hi rend="italic">Shakespeare and Quotation</hi> (pp. 194–208). Cambridge: Cambridge University Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3763"><rs type="bibl" ref="#bibl__2527"><hi rend="italic">Shakespeare and Quotation</hi> (pp. 194–208). Cambridge: Cambridge University Press.
+                    </rs></rs></bibl>
                     <bibl>Maxwell, J., &amp; Rumbold, K. (2018). 
-                        <rs type="bibl" ref="#bibl__2528"><hi rend="italic">Shakespeare and Quotation</hi>. Cambridge: Cambridge University Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3764"><rs type="bibl" ref="#bibl__2528"><hi rend="italic">Shakespeare and Quotation</hi>. Cambridge: Cambridge University Press.
+                    </rs></rs></bibl>
                     <bibl>Scheirer, W., Forstall, C., &amp; Coffee, N. (2016). The sense of a connection: Automatic tracing of intertextuality by meaning. 
-                        <rs type="bibl" ref="#bibl__2529"><hi rend="italic">Digital Scholarship in the Humanities</hi>, 
+                        <rs type="bibl" ref="#bibl__3765"><rs type="bibl" ref="#bibl__2529"><hi rend="italic">Digital Scholarship in the Humanities</hi>, 
                         <hi rend="italic">31</hi>(1), 204–217. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Smith, T. F., &amp; Waterman, M. S. (1981). Identification of Common Molecular Subsequences. 
-                        <rs type="bibl" ref="#bibl__2530"><hi rend="italic">Journal of Molecular Biology</hi>, 
+                        <rs type="bibl" ref="#bibl__3766"><rs type="bibl" ref="#bibl__2530"><hi rend="italic">Journal of Molecular Biology</hi>, 
                         <hi rend="italic">147</hi>, 195–197.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Taylor, G. (1991). 
-                        <rs type="bibl" ref="#bibl__2531"><hi rend="italic">Reinventing Shakespeare: A Cultural History from the Restoration to the Present</hi>. Oxford: Oxford University Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3767"><rs type="bibl" ref="#bibl__2531"><hi rend="italic">Reinventing Shakespeare: A Cultural History from the Restoration to the Present</hi>. Oxford: Oxford University Press.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

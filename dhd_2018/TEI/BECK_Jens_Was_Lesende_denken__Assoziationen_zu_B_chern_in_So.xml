@@ -8,7 +8,7 @@
                         <surname>Beck</surname>
                         <forename>Jens</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>jens_beck@gmx.de</email>
                 </author>
                 <author ref="#person__marcus-willand-ilw-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
                     <email>marcus.willand@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>Nils.Reiter@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>
@@ -236,65 +236,65 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__969"><hi rend="bold">Agirre, Eneko / Soroa, Aitor</hi> (2009): “Personalizing PageRank for Word Sense Disambiguation”, in: Proceedings of the 12th conference of the European chapter of the Association for Computational Linguistics (EACL-2009). Athens, Greece.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1044"><rs type="bibl" ref="#bibl__969"><hi rend="bold">Agirre, Eneko / Soroa, Aitor</hi> (2009): “Personalizing PageRank for Word Sense Disambiguation”, in: Proceedings of the 12th conference of the European chapter of the Association for Computational Linguistics (EACL-2009). Athens, Greece.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__970"><hi rend="bold">Agirre, Eneko / Barrena, Ander / Soroa, Aitor</hi> (2015): Studying the Wikipedia Hyperlink Graph for Relatedness and Disambiguation. http://arxiv.org/abs/1503.01655
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1045"><rs type="bibl" ref="#bibl__970"><hi rend="bold">Agirre, Eneko / Barrena, Ander / Soroa, Aitor</hi> (2015): Studying the Wikipedia Hyperlink Graph for Relatedness and Disambiguation. http://arxiv.org/abs/1503.01655
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__971"><hi rend="bold">Beck, Jens</hi> (2017): How do People Read Literature? - Detection and Identification of Names in Book Reviews. Bachelor’s thesis, Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1046"><rs type="bibl" ref="#bibl__971"><hi rend="bold">Beck, Jens</hi> (2017): How do People Read Literature? - Detection and Identification of Names in Book Reviews. Bachelor’s thesis, Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__972"><hi rend="bold">Baurmann, Jürgen</hi> (1981). „Textrezeption empirisch. Wege zu einem ziel, behelfsbrücken oder holzwege?". Rezeptionspragmatik. Beiträge zur Praxis des Lesens. Uni-Taschenbücher. Band 1026. Hrsg. v. Gerhard Köpf, 201–218. München.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1047"><rs type="bibl" ref="#bibl__972"><hi rend="bold">Baurmann, Jürgen</hi> (1981). „Textrezeption empirisch. Wege zu einem ziel, behelfsbrücken oder holzwege?". Rezeptionspragmatik. Beiträge zur Praxis des Lesens. Uni-Taschenbücher. Band 1026. Hrsg. v. Gerhard Köpf, 201–218. München.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__973"><hi rend="bold">Christmann, Ursula / Margrit Schreier</hi> (2003). „Kognitionspsychologie der Textverarbeitung und Konsequenzen für die Bedeutungskonstitution literarischer Texte". Regeln der Bedeutung. Zur Theorie der Bedeutung literarischer Texte. Revisionen. Hrsg. v. Fotis Jannidis, Gerhard Lauer, Matías Martínez &amp; Simone Winko, 246–284. Berlin.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1048"><rs type="bibl" ref="#bibl__973"><hi rend="bold">Christmann, Ursula / Margrit Schreier</hi> (2003). „Kognitionspsychologie der Textverarbeitung und Konsequenzen für die Bedeutungskonstitution literarischer Texte". Regeln der Bedeutung. Zur Theorie der Bedeutung literarischer Texte. Revisionen. Hrsg. v. Fotis Jannidis, Gerhard Lauer, Matías Martínez &amp; Simone Winko, 246–284. Berlin.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__974"><hi rend="bold">Dijkstra, Katinka</hi> (1994): Leseentscheidung und Lektürewahl. Empirische Untersuchungen über Einflussfaktoren auf das Leseverhalten. Berlin.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1049"><rs type="bibl" ref="#bibl__974"><hi rend="bold">Dijkstra, Katinka</hi> (1994): Leseentscheidung und Lektürewahl. Empirische Untersuchungen über Einflussfaktoren auf das Leseverhalten. Berlin.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__975"><hi rend="bold">Dimitrov, Stefan / Zamal, Faiyaz / Piper, Andrew / Ruths, Derek</hi> (2015): “Goodreads vs Amazon: The Effect Of Decoupling Book Reviewing And Book Selling", in: International Conference on Web and Social Media (ICWSM-14).
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1050"><rs type="bibl" ref="#bibl__975"><hi rend="bold">Dimitrov, Stefan / Zamal, Faiyaz / Piper, Andrew / Ruths, Derek</hi> (2015): “Goodreads vs Amazon: The Effect Of Decoupling Book Reviewing And Book Selling", in: International Conference on Web and Social Media (ICWSM-14).
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__976"><hi rend="bold">Eco, Umberto</hi> (1979): The Role of the Reader. Explorations in the Semiotics of Texts. Bloomington, IN.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1051"><rs type="bibl" ref="#bibl__976"><hi rend="bold">Eco, Umberto</hi> (1979): The Role of the Reader. Explorations in the Semiotics of Texts. Bloomington, IN.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__977"><hi rend="bold">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher</hi> (2005): “Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling”, in: 
+                        <rs type="bibl" ref="#bibl__132"><rs type="bibl" ref="#bibl__977"><hi rend="bold">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher</hi> (2005): “Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling”, in: 
                         <hi rend="italic">Proceedings of the 43nd Annual Meeting of the Association for Computational Linguistics (ACL 2005),</hi> pp. 363-370.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__978"><hi rend="bold">Fish, Stanley E.</hi> (1970): „Literature in the Reader: Affective Stylistics“, in: 
+                        <rs type="bibl" ref="#bibl__1052"><rs type="bibl" ref="#bibl__978"><hi rend="bold">Fish, Stanley E.</hi> (1970): „Literature in the Reader: Affective Stylistics“, in: 
                         <hi rend="italic">New Literary History</hi> 1(2): 123–162.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__979"><hi rend="bold">Funke, Mandy</hi> (2003). „Das Abenteuer der Fragebögen. Aspekte zur empirischen Wirkungsforschung in der DDR". Wissenschaft und Systemveränderung. Rezeptionsforschung in Ost und West – Eine konvergente Entwicklung? Euphorion. Band 44. Hrsg. v. Wolfgang Adam, Holger Dainat &amp; Gunther Schandera, 119–126. Heidelberg.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1053"><rs type="bibl" ref="#bibl__979"><hi rend="bold">Funke, Mandy</hi> (2003). „Das Abenteuer der Fragebögen. Aspekte zur empirischen Wirkungsforschung in der DDR". Wissenschaft und Systemveränderung. Rezeptionsforschung in Ost und West – Eine konvergente Entwicklung? Euphorion. Band 44. Hrsg. v. Wolfgang Adam, Holger Dainat &amp; Gunther Schandera, 119–126. Heidelberg.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__980"><hi rend="bold">Groeben, Norbert</hi> (1979). „Zur Relevanz empirischer Konkretisationserhebungen für die Literaturwissenschaft". Empirie in Literatur- und Kunstwissenschaft. Grundfragen der Literaturwissenschaft. Hrsg. v. Siegfried J. Schmidt, 43–82. München.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1054"><rs type="bibl" ref="#bibl__980"><hi rend="bold">Groeben, Norbert</hi> (1979). „Zur Relevanz empirischer Konkretisationserhebungen für die Literaturwissenschaft". Empirie in Literatur- und Kunstwissenschaft. Grundfragen der Literaturwissenschaft. Hrsg. v. Siegfried J. Schmidt, 43–82. München.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__981"><hi rend="bold">Iser, Wolfgang</hi> (1976). Der Akt des Lesens. Theorie ästhetischer Wirkung. Band 636. München.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1055"><rs type="bibl" ref="#bibl__981"><hi rend="bold">Iser, Wolfgang</hi> (1976). Der Akt des Lesens. Theorie ästhetischer Wirkung. Band 636. München.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__982"><hi rend="bold">Page, Lawrence / Brin, Sergey / Motwani, Rajeev / Winograd, Terry</hi> (1999): “The PageRank Citation Ranking: Bringing Order to the Web”
+                        <rs type="bibl" ref="#bibl__1056"><rs type="bibl" ref="#bibl__982"><hi rend="bold">Page, Lawrence / Brin, Sergey / Motwani, Rajeev / Winograd, Terry</hi> (1999): “The PageRank Citation Ranking: Bringing Order to the Web”
                         <hi rend="italic">,</hi> technical Report. Stanford InfoLab.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__983"><hi rend="bold">Schleiermacher, Friedrich</hi> (1838): Hermeneutik und Kritik mit besonderer Beziehung auf das Neue Testament. Aus Schleiermachers handschriftlichem Nachlasse und nachgeschriebenen Vorlesungen herausgegeben von Friedrich Lücke. In: Friedrich Schleiermacher’s sämmtliche Werke. Berlin: Reimer.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1057"><rs type="bibl" ref="#bibl__983"><hi rend="bold">Schleiermacher, Friedrich</hi> (1838): Hermeneutik und Kritik mit besonderer Beziehung auf das Neue Testament. Aus Schleiermachers handschriftlichem Nachlasse und nachgeschriebenen Vorlesungen herausgegeben von Friedrich Lücke. In: Friedrich Schleiermacher’s sämmtliche Werke. Berlin: Reimer.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__984"><hi rend="bold">Schmid, Wolf</hi> (2005): Elemente der Narratologie. Narratologia. Band 8. Berlin.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1058"><rs type="bibl" ref="#bibl__984"><hi rend="bold">Schmid, Wolf</hi> (2005): Elemente der Narratologie. Narratologia. Band 8. Berlin.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__985"><hi rend="bold">Veldhues, Christoph</hi> (1995): "Gleich- und Gegenüberstellung".Intratextuelle und intertextuelle Bedeutung in der Literatur. Zeitschrift für französische Sprache und Literatur 40/3 (1995), 243-267.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1059"><rs type="bibl" ref="#bibl__985"><hi rend="bold">Veldhues, Christoph</hi> (1995): "Gleich- und Gegenüberstellung".Intratextuelle und intertextuelle Bedeutung in der Literatur. Zeitschrift für französische Sprache und Literatur 40/3 (1995), 243-267.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__986"><hi rend="bold">Willand, Marcus</hi> (2014): Lesermodelle und Lesertheorien. Historische und systematische Perspektiven. Narratologia. Band 41. Berlin.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1060"><rs type="bibl" ref="#bibl__986"><hi rend="bold">Willand, Marcus</hi> (2014): Lesermodelle und Lesertheorien. Historische und systematische Perspektiven. Narratologia. Band 41. Berlin.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__987"><hi rend="bold">Wübben, Yvonne</hi> (2009). „Lesen als Mentalisieren? Neuere kognitionswissenschaftliche Ansätze in der Leseforschung". Literatur und Kognition. Bestandsaufnahmen und Perspektiven eines Arbeitsfeldes. Poetogenesis. Band 6. Hrsg. v. Martin Huber &amp; Simone Winko, 29–44. Paderborn.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1061"><rs type="bibl" ref="#bibl__987"><hi rend="bold">Wübben, Yvonne</hi> (2009). „Lesen als Mentalisieren? Neuere kognitionswissenschaftliche Ansätze in der Leseforschung". Literatur und Kognition. Bestandsaufnahmen und Perspektiven eines Arbeitsfeldes. Poetogenesis. Band 6. Hrsg. v. Martin Huber &amp; Simone Winko, 29–44. Paderborn.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

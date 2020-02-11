@@ -8,7 +8,7 @@
                         <surname>Toscano</surname>
                         <forename>Roberta</forename>
                     </persName>
-                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
                     <email>toscano-r@outlook.de</email>
                 </author>
             </titleStmt>
@@ -109,22 +109,22 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. 
-                        <rs type="bibl" ref="#bibl__2708"><hi rend="italic">International AAAI Conference on Weblogs and Social Media</hi>. 
+                        <rs type="bibl" ref="#bibl__3937"><rs type="bibl" ref="#bibl__2708"><hi rend="italic">International AAAI Conference on Weblogs and Social Media</hi>. 
                         <ref target="https://gephi.org/publications/gephi-bastian-feb09.pdf">https://gephi.org/publications/gephi-bastian-feb09.pdf</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Düring, Marten. (2017). “Historical Network Research. Network Analysis in the Historical Disciplines.” 
-                        <rs type="bibl" ref="#bibl__2709"><ref target="http://historicalnetworkresearch.org/">
+                        <rs type="bibl" ref="#bibl__3938"><rs type="bibl" ref="#bibl__2709"><ref target="http://historicalnetworkresearch.org/">
                             <hi rend="bold">http://historicalnetworkresearch.org/</hi>
                         </ref>
                         <hi rend="bold">.</hi>
-                    </rs></bibl>
-                    <bibl>Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.<rs type="bibl" ref="#bibl__2710"/></bibl>
-                    <bibl>Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/<rs type="bibl" ref="#bibl__2711"/></bibl>
-                    <bibl>Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.<rs type="bibl" ref="#bibl__115"/></bibl>
-                    <bibl>Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/<rs type="bibl" ref="#bibl__2712"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.<rs type="bibl" ref="#bibl__3939"><rs type="bibl" ref="#bibl__2710"/></rs></bibl>
+                    <bibl>Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/<rs type="bibl" ref="#bibl__3940"><rs type="bibl" ref="#bibl__2711"/></rs></bibl>
+                    <bibl>Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.<rs type="bibl" ref="#bibl__152"><rs type="bibl" ref="#bibl__115"/></rs></bibl>
+                    <bibl>Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/<rs type="bibl" ref="#bibl__3941"><rs type="bibl" ref="#bibl__2712"/></rs></bibl>
                     <bibl>Scott, John. 
-                        <rs type="bibl" ref="#bibl__2713"><hi rend="italic" xml:space="preserve">What Is Social Network Analysis? </hi>London: Bloomsbury Academic, 2013.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3942"><rs type="bibl" ref="#bibl__2713"><hi rend="italic" xml:space="preserve">What Is Social Network Analysis? </hi>London: Bloomsbury Academic, 2013.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

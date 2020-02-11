@@ -8,7 +8,7 @@
                         <surname>Bäumer</surname>
                         <forename>Frederik Simon</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>fbaeumer@mail.upb.de</email>
                 </author>
                 <author ref="#person__bbuff-mail-upb-de">
@@ -16,7 +16,7 @@
                         <surname>Buff</surname>
                         <forename>Bianca</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>bbuff@mail.upb.de</email>
                 </author>
                 <author ref="#person__geierhos-mail-upb-de">
@@ -24,7 +24,7 @@
                         <surname>Geierhos</surname>
                         <forename>Michaela</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
                     <email>geierhos@mail.upb.de</email>
                 </author>
             </titleStmt>
@@ -126,26 +126,26 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2385"><hi rend="bold">Kleinberg, Bennet / Mozes, Maximilian</hi> (2017): Web-based text anonymization with Node.js: Introducing NETANOS (Named entity-based Text Anonymization for Open Science). The Journal of Open Source Software.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3620"><rs type="bibl" ref="#bibl__2385"><hi rend="bold">Kleinberg, Bennet / Mozes, Maximilian</hi> (2017): Web-based text anonymization with Node.js: Introducing NETANOS (Named entity-based Text Anonymization for Open Science). The Journal of Open Source Software.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2386"><hi rend="bold">Dias, Francesco</hi> (2016): Multilingual Automated Text Anonymization. Inst. Superior Técnico of Lisboa, Lissabon, Portugal.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3621"><rs type="bibl" ref="#bibl__2386"><hi rend="bold">Dias, Francesco</hi> (2016): Multilingual Automated Text Anonymization. Inst. Superior Técnico of Lisboa, Lissabon, Portugal.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2387"><hi rend="bold">Bäumer, Frederik S. / Geierhos, Michaela / Schulze, Sabine</hi> (2015): A System for Uncovering Latent Connectivity of Health Care Providers in Online Reviews. In Dregvaite, Giedre / Damaševičius, Robertas (Hsg.), Communications in Computer and Information Science: Band 538. ICIST 2015, Litauen, Oktober 15-16, 2015. Proceedings (S. 3–15). Cham, Schweiz: Springer International.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3622"><rs type="bibl" ref="#bibl__2387"><hi rend="bold">Bäumer, Frederik S. / Geierhos, Michaela / Schulze, Sabine</hi> (2015): A System for Uncovering Latent Connectivity of Health Care Providers in Online Reviews. In Dregvaite, Giedre / Damaševičius, Robertas (Hsg.), Communications in Computer and Information Science: Band 538. ICIST 2015, Litauen, Oktober 15-16, 2015. Proceedings (S. 3–15). Cham, Schweiz: Springer International.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2388"><hi rend="bold" xml:space="preserve">Bäumer, Frederik / Grote, Nicolai / Kersting, Joschka / Geierhos, Michaela </hi>(2017): Privacy Matters: Detecting Nocuous Patient Data Exposure in Online Physician Reviews. In Damaševičius, Robertas &amp; Mikašytė, Vilma (Hsg.), Communications in Computer and Information Science: Band 756. ICIST 2017, Litauen, 12.-14. Oktober 2017, Proceedings (S. 77–89). Cham, Schweiz: Springer International.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3623"><rs type="bibl" ref="#bibl__2388"><hi rend="bold" xml:space="preserve">Bäumer, Frederik / Grote, Nicolai / Kersting, Joschka / Geierhos, Michaela </hi>(2017): Privacy Matters: Detecting Nocuous Patient Data Exposure in Online Physician Reviews. In Damaševičius, Robertas &amp; Mikašytė, Vilma (Hsg.), Communications in Computer and Information Science: Band 756. ICIST 2017, Litauen, 12.-14. Oktober 2017, Proceedings (S. 77–89). Cham, Schweiz: Springer International.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2389"><hi rend="bold">Sweeney, Latanya</hi> (1996): Replacing personally-identifying information in medical records, the Scrub system. Proceedings of the AMIA annual fall symposium. American Medical Informatics Association. S. 333-337.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3624"><rs type="bibl" ref="#bibl__2389"><hi rend="bold">Sweeney, Latanya</hi> (1996): Replacing personally-identifying information in medical records, the Scrub system. Proceedings of the AMIA annual fall symposium. American Medical Informatics Association. S. 333-337.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2390"><hi rend="bold">Geierhos, Michaela / Bäumer, Frederik S.</hi> (2015): Erfahrungsberichte aus zweiter Hand: Erkenntnisse über die Autorschaft von Arztbewertungen in Online-Portalen. In: DHd 2015: Book of Abstracts, ZIM-ACDH, Graz, Österreich, 2015, S. 69-72.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3625"><rs type="bibl" ref="#bibl__2390"><hi rend="bold">Geierhos, Michaela / Bäumer, Frederik S.</hi> (2015): Erfahrungsberichte aus zweiter Hand: Erkenntnisse über die Autorschaft von Arztbewertungen in Online-Portalen. In: DHd 2015: Book of Abstracts, ZIM-ACDH, Graz, Österreich, 2015, S. 69-72.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2391"><hi rend="bold">Gross, Ralph / Acquisti, Alessandro</hi> (2005): Information Revelation and Privacy in Online Social Networks (The Facebook case). In Proceedings of the ACM Workshop on Privacy in the Electronic Society, S. 71-80, Alexandria, USA, 2005.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3626"><rs type="bibl" ref="#bibl__2391"><hi rend="bold">Gross, Ralph / Acquisti, Alessandro</hi> (2005): Information Revelation and Privacy in Online Social Networks (The Facebook case). In Proceedings of the ACM Workshop on Privacy in the Electronic Society, S. 71-80, Alexandria, USA, 2005.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

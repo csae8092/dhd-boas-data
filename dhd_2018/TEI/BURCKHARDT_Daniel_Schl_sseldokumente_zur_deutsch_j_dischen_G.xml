@@ -8,7 +8,7 @@
                         <surname>Burckhardt</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__113">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
+                    <affiliation ref="#org__115">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
                     <email>burckhardtd@geschichte.hu-berlin.de</email>
                 </author>
                 <author ref="#person__anna-menny-igdj-hh-de">
@@ -16,7 +16,7 @@
                         <surname>Menny</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation ref="#org__113">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
+                    <affiliation ref="#org__115">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
                     <email>anna.menny@igdj-hh.de</email>
                 </author>
             </titleStmt>
@@ -96,8 +96,8 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__70"><hi rend="bold">Haaf, Susanne / Geyken, Alexander / Wiegand, Frank</hi> (2015): "The DTA 'Base Format': A TEI Subset for the Compilation of a Large Reference Corpus of Printed Text from Multiple Sources", in: Journal of the Text Encoding Initiative 8, December 2014 - December 2015, http://journals.openedition.org/jtei/1114 [letzter Zugriff 10. Januar 2018].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__82"><rs type="bibl" ref="#bibl__70"><hi rend="bold">Haaf, Susanne / Geyken, Alexander / Wiegand, Frank</hi> (2015): "The DTA 'Base Format': A TEI Subset for the Compilation of a Large Reference Corpus of Printed Text from Multiple Sources", in: Journal of the Text Encoding Initiative 8, December 2014 - December 2015, http://journals.openedition.org/jtei/1114 [letzter Zugriff 10. Januar 2018].
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

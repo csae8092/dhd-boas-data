@@ -8,7 +8,7 @@
                         <surname>Müller-Birn</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation ref="#org__26">Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
                     <email>clmb@inf.fu-berlin.de</email>
                 </author>
                 <author ref="#person__georg-schelbert-hu-berlin-de">
@@ -16,7 +16,7 @@
                         <surname>Schelbert</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__27">Humboldt-Universität zu Berlin</affiliation>
+                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin</affiliation>
                     <email>georg.schelbert@hu-berlin.de</email>
                 </author>
                 <author ref="#person__raspe-biblhertz-it">
@@ -24,7 +24,7 @@
                         <surname>Raspe</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__28">Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
+                    <affiliation ref="#org__39">Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
                     <email>raspe@biblhertz.it</email>
                 </author>
                 <author ref="#person__wuebbena-kunst-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt</affiliation>
                     <email>wuebbena@kunst.uni-frankfurt.de</email>
                 </author>
             </titleStmt>
@@ -144,59 +144,59 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__489"><hi rend="bold">Erxleben, Fredo / Günther, Michael / Krötzsch, Markus / Mendez,  Julian / Vrandeăić, Denny</hi> (2014): 
+                        <rs type="bibl" ref="#bibl__585"><rs type="bibl" ref="#bibl__489"><hi rend="bold">Erxleben, Fredo / Günther, Michael / Krötzsch, Markus / Mendez,  Julian / Vrandeăić, Denny</hi> (2014): 
                         <hi rend="italic">“Introducing Wikidata to the Linked Data Web”, </hi>in: 
                         <hi rend="italic">Proceedings of the 13th International Semantic Web Conference</hi>. New York: Springer-Verlag  50-65.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__490"><hi rend="bold">Harpring, Patricia </hi>(2010): 
+                        <rs type="bibl" ref="#bibl__586"><rs type="bibl" ref="#bibl__490"><hi rend="bold">Harpring, Patricia </hi>(2010): 
                         <hi rend="italic">Introduction to Controlled Vocabularies: Terminology for Art, Architecture, and Other Cultural Works</hi>, Los Angeles: Getty Publications.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__19"><hi rend="bold">Kohle, Hubertus </hi>(2013): 
+                        <rs type="bibl" ref="#bibl__23"><rs type="bibl" ref="#bibl__19"><hi rend="bold">Kohle, Hubertus </hi>(2013): 
                         <hi rend="italic">Digitale Bildwissenschaft</hi>, Glückstadt: Hülsbusch.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__491"><hi rend="bold">Locher, Hubert / Warnke, Martin </hi>(2014): Ergebnisse des Round Table „Kritische Massen – Zur Anschlussfähigkeit digitaler Bildbestände an die aktuelle Kunsthistorische Forschung“ , in: 
+                        <rs type="bibl" ref="#bibl__587"><rs type="bibl" ref="#bibl__491"><hi rend="bold">Locher, Hubert / Warnke, Martin </hi>(2014): Ergebnisse des Round Table „Kritische Massen – Zur Anschlussfähigkeit digitaler Bildbestände an die aktuelle Kunsthistorische Forschung“ , in: 
                         <hi rend="italic">Kunstgeschichte. Open Peer Reviewed Journal</hi>  07 Okt 2014
                         <ref target="http://www.kunstgeschichte-ejournal.net/412/">
                             <hi rend="color(1155CC)">http://www.kunstgeschichte-ejournal.net/412/</hi>
                         </ref> [letzter Zugriff 25. September 2017]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__492"><hi rend="bold">Ohlig, Jens / Schelbert, Georg</hi> (2017): „Datenpartnerschaften mit Wikidata – Projekt Durchblick“, 
+                        <rs type="bibl" ref="#bibl__588"><rs type="bibl" ref="#bibl__492"><hi rend="bold">Ohlig, Jens / Schelbert, Georg</hi> (2017): „Datenpartnerschaften mit Wikidata – Projekt Durchblick“, 
                         <hi rend="italic">Wikimedia DE-Blog</hi>, 21. Aug. 2017  
                         <ref target="https://blog.wikimedia.de/2017/08/21/datenpartnerschaften-mit-wikidata-projekt-durchblick/">
                             <hi rend="color(1155CC)">https://blog.wikimedia.de/2017/08/21/datenpartnerschaften-mit-wikidata-projekt-durchblick/</hi>
                         </ref> [letzter Zugriff 25. September 2017]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__493"><hi rend="bold">Müller-Birn, Claudia / Karran, Benjamin / Lehmann, Janette / Luczak-Rösch, Markus </hi>(2015): 
+                        <rs type="bibl" ref="#bibl__589"><rs type="bibl" ref="#bibl__493"><hi rend="bold">Müller-Birn, Claudia / Karran, Benjamin / Lehmann, Janette / Luczak-Rösch, Markus </hi>(2015): 
                         <hi rend="italic bold">“</hi>
                         <hi rend="italic">Peer-production system or collaborative ontology development effort: what is Wikidata?” </hi>in 
                         <hi rend="italic">Proceedings of OpenSym 2015 - Conference on Open Collaboration.</hi> San Francisco: ACM.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__494"><hi rend="bold">Patton, Glenn E.</hi> (2010): 
+                        <rs type="bibl" ref="#bibl__590"><rs type="bibl" ref="#bibl__494"><hi rend="bold">Patton, Glenn E.</hi> (2010): 
                         <hi rend="italic">Funktionale Anforderungen an Normdaten: Ein konzeptionelles Modell</hi> (IFLA Working Group on Functional Requirements and Numbering of Authority Records – FRANAR) Berlin, New York: De Gruyter.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__495"><hi rend="bold">Poulter, Martin</hi> (2017): “Wikidata – the new hub for cultural heritage”, 
+                        <rs type="bibl" ref="#bibl__591"><rs type="bibl" ref="#bibl__495"><hi rend="bold">Poulter, Martin</hi> (2017): “Wikidata – the new hub for cultural heritage”, 
                         <hi rend="italic">Wikimedia UK-Blog</hi>, 20. Jan. 2017
                         <ref target="https://blog.wikimedia.org.uk/2017/01/wikidata-the-new-hub-for-cultural-heritage/">
                             <hi rend="color(1155CC)">https://blog.wikimedia.org.uk/2017/01/wikidata-the-new-hub-for-cultural-heritage/</hi>
                         </ref> [letzter Zugriff 25. September 2017]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__496"><hi rend="bold">Vrandečić, Denny / Krötzsch, Markus </hi>(2014): “Wikidata: a free collaborative knowledge base”, in: Commun. ACM 57(10), 78–85.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__592"><rs type="bibl" ref="#bibl__496"><hi rend="bold">Vrandečić, Denny / Krötzsch, Markus </hi>(2014): “Wikidata: a free collaborative knowledge base”, in: Commun. ACM 57(10), 78–85.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__497"><hi rend="bold">Woitas, Kathi</hi>: „Bibliografische Daten, Normdaten und Metadaten im Semantic Web – Konzepte der Bibliografischen Kontrolle im Wandel“, in: 
+                        <rs type="bibl" ref="#bibl__593"><rs type="bibl" ref="#bibl__497"><hi rend="bold">Woitas, Kathi</hi>: „Bibliografische Daten, Normdaten und Metadaten im Semantic Web – Konzepte der Bibliografischen Kontrolle im Wandel“, in: 
                         <hi rend="italic">Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft</hi>, 10.05.2013 (
                         <ref target="http://nbn-resolving.de/urn:nbn:de:kobv:11-100209272">
                             <hi rend="color(1155CC)">urn:nbn:de:kobv:11-100209272</hi>
                         </ref> [letzter Zugriff 25. September 2017]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

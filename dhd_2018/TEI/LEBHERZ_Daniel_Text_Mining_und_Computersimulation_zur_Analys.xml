@@ -8,7 +8,7 @@
                         <surname>Hess</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation ref="#org__211 #org__8">Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
+                    <affiliation ref="#org__209 #org__59">Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
                     <email>hess@uni-trier.de</email>
                 </author>
                 <author ref="#person__lebherz-uni-trier-de">
@@ -16,7 +16,7 @@
                         <surname>Lebherz</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__212 #org__8">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
+                    <affiliation ref="#org__210 #org__59">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>lebherz@uni-trier.de</email>
                 </author>
                 <author ref="#person__zeyen-uni-trier-de">
@@ -24,7 +24,7 @@
                         <surname>Zeyen</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__212 #org__8">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
+                    <affiliation ref="#org__210 #org__59">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>zeyen@uni-trier.de</email>
                 </author>
             </titleStmt>
@@ -123,43 +123,43 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1669"><hi rend="bold">Bonabeau, Eric </hi>(2002):
+                        <rs type="bibl" ref="#bibl__1724"><rs type="bibl" ref="#bibl__1669"><hi rend="bold">Bonabeau, Eric </hi>(2002):
                         “Agent-based modeling: Methods and techniques for simulating human systems” in: 
                         <hi rend="italic">Proceedings of the National Academy of Sciences</hi>, 99(suppl 3):7280– 7287 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1670"><hi rend="bold">Davidsson, Paul</hi> (2002): "Agent based social simulation"
+                        <rs type="bibl" ref="#bibl__1725"><rs type="bibl" ref="#bibl__1670"><hi rend="bold">Davidsson, Paul</hi> (2002): "Agent based social simulation"
                             in: <hi rend="italic">Journal of Artificial Societies and Social Simulation</hi> 5(1):
                         <ref target="http://jasss.soc.surrey.ac.uk/5/1/7.html">http://jasss.soc.surrey.ac.uk/5/1/7.html</ref>
                         [letzter Zugriff 11.Januar 2017]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1671"><hi rend="bold">Gilbert, Nigel</hi> (2007): 
+                        <rs type="bibl" ref="#bibl__1726"><rs type="bibl" ref="#bibl__1671"><hi rend="bold">Gilbert, Nigel</hi> (2007): 
                             <hi rend="italic">"Computational social science: Agent-based social simulation"</hi>
                             in: Amblard, Frédéric / Phan, Dennis (eds.): Agent-based Modelling and Simulation in the Social and Human Sciences.
                             Oxford: The Bardwell Press 115-133.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__106"><hi rend="bold">Kohle, Hubertus</hi> (2017): 
+                        <rs type="bibl" ref="#bibl__143"><rs type="bibl" ref="#bibl__106"><hi rend="bold">Kohle, Hubertus</hi> (2017): 
                             <hi rend="italic">"Digitale Rekonstruktion und Simulation"</hi>
                             in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities: Eine Einführung. 
                             Stuttgart: J. B.Metzler 315-327.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1672"><hi rend="bold">Law, Averill M.</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__1727"><rs type="bibl" ref="#bibl__1672"><hi rend="bold">Law, Averill M.</hi> (2015): 
                             Simulation Modeling and Analysis. 5.Auflage. Tucson: McGraw Hill Education.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1673"><hi rend="bold">Mann, Klaus</hi> (1995): Tagebücher 1931 – 1933. Reinbek: Rowohlt.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1728"><rs type="bibl" ref="#bibl__1673"><hi rend="bold">Mann, Klaus</hi> (1995): Tagebücher 1931 – 1933. Reinbek: Rowohlt.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1674"><hi rend="bold">Richter, Michael M. / Weber, Rosina O. </hi>(2013): 
+                        <rs type="bibl" ref="#bibl__1729"><rs type="bibl" ref="#bibl__1674"><hi rend="bold">Richter, Michael M. / Weber, Rosina O. </hi>(2013): 
                             Case-Based Reasoning: A Textbook. Berlin: Springer.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1675"><hi rend="bold">Taylor, Ian J. / Deelman, Ewa / Gannon, Dennis B. / Shields, Matthew</hi> (2014): 
+                        <rs type="bibl" ref="#bibl__1730"><rs type="bibl" ref="#bibl__1675"><hi rend="bold">Taylor, Ian J. / Deelman, Ewa / Gannon, Dennis B. / Shields, Matthew</hi> (2014): 
                             Workflows for e-Science: Scientific Workflows for Grids.London: Springer
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

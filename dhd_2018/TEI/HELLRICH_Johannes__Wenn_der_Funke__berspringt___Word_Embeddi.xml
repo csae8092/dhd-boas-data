@@ -8,7 +8,7 @@
                         <surname>Hellrich</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__159 #org__160">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland; Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__161 #org__60">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland; Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
                     <email>johannes.hellrich@uni-jena.de</email>
                 </author>
                 <author ref="#person__alexander-stoeger-uni-jena-de">
@@ -16,7 +16,7 @@
                         <surname>Stöger</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__159">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__161">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
                     <email>alexander.stoeger@uni-jena.de</email>
                 </author>
                 <author ref="#person__udo-hahn-uni-jena-de">
@@ -24,7 +24,7 @@
                         <surname>Hahn</surname>
                         <forename>Udo</forename>
                     </persName>
-                    <affiliation ref="#org__160">Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
                     <email>udo.hahn@uni-jena.de</email>
                 </author>
             </titleStmt>
@@ -214,159 +214,159 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__94"><hi rend="bold">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. </hi>
+                        <rs type="bibl" ref="#bibl__126"><rs type="bibl" ref="#bibl__94"><hi rend="bold">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. </hi>
                         (2003): "Latent Dirichlet Allocation", in:
                         <hi rend="italic">The Journal of Machine Learning Research </hi>
                         3: 993–1022.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__948"><hi rend="bold">Bullinaria, John A. / Levy, Joseph P.</hi>
+                        <rs type="bibl" ref="#bibl__1024"><rs type="bibl" ref="#bibl__948"><hi rend="bold">Bullinaria, John A. / Levy, Joseph P.</hi>
                          (2007): "Extracting semantic representations from word co- occurrence statistics: A computational study", in: 
                         <hi rend="italic">Behavior Research Methods</hi>
                          39(3):510–26.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__949"><hi rend="bold">Fankhauser, Peter / Knappen, Jörg / Teich, Elke </hi>(2016):
+                        <rs type="bibl" ref="#bibl__1025"><rs type="bibl" ref="#bibl__949"><hi rend="bold">Fankhauser, Peter / Knappen, Jörg / Teich, Elke </hi>(2016):
                         "Topical diversification over time in the royal society corpus", in: 
                         <hi rend="italic">Digital Humanities 2016 </hi>
                         496–500.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__950"><hi rend="bold">Firth, John Rupert </hi>
+                        <rs type="bibl" ref="#bibl__1026"><rs type="bibl" ref="#bibl__950"><hi rend="bold">Firth, John Rupert </hi>
                         (1957): "A synopsis of Linguistic Theory, 1930–1955", in:
                         <hi rend="italic">Studies in linguistic analysis</hi>
                          1–32.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__95"><hi rend="bold">Geyken, Alexander</hi>
+                        <rs type="bibl" ref="#bibl__127"><rs type="bibl" ref="#bibl__95"><hi rend="bold">Geyken, Alexander</hi>
                          (2013): "Wege zu einem historischen Referenzkorpus des Deutschen: das Projekt Deutsches Textarchiv", in:
                         <hi rend="italic">Perspektiven einer corpusbasierten historischen Linguistik und Philologie</hi>
                          221–34.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__951"><hi rend="bold">Hall, David / Jurafsky, Daniel / Manning, Christopher D.</hi>
+                        <rs type="bibl" ref="#bibl__1027"><rs type="bibl" ref="#bibl__951"><hi rend="bold">Hall, David / Jurafsky, Daniel / Manning, Christopher D.</hi>
                          (2008): "Studying the History of Ideas Using Topic Models", in:
                         <hi rend="italic">Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing</hi>
                          363–71.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__952"><hi rend="bold">Hamilton, William L. / Leskovec, Jure / Jurafsky, Dan</hi>
+                        <rs type="bibl" ref="#bibl__1028"><rs type="bibl" ref="#bibl__952"><hi rend="bold">Hamilton, William L. / Leskovec, Jure / Jurafsky, Dan</hi>
                          (2016): "Diachronic Word Embeddings reveal sta- tistical laws of semantic change", in:
                         <hi rend="italic">Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics</hi>
                         1489–501.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__953"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
+                        <rs type="bibl" ref="#bibl__1029"><rs type="bibl" ref="#bibl__953"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
                          (2016): "Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period", in: 
                         <hi rend="italic">Digital Humanities 2016</hi>
                          545–7.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__954"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
+                        <rs type="bibl" ref="#bibl__1030"><rs type="bibl" ref="#bibl__954"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
                          (2017a): "Don't Get Fooled by Word Embeddings-Better Watch their Neighborhood", in: 
                         <hi rend="italic">Digital Humanities 2017</hi>
                          250–2.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__955"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
+                        <rs type="bibl" ref="#bibl__1031"><rs type="bibl" ref="#bibl__955"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
                          (2017b): "Exploring Diachronic Lexical Semantics with JeSemE", in:
                         <hi rend="italic">Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics – System Demonstrations </hi>
                         31–6.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__956"><hi rend="bold">Hippel</hi>
+                        <rs type="bibl" ref="#bibl__1032"><rs type="bibl" ref="#bibl__956"><hi rend="bold">Hippel</hi>
                          (1781):
                         <hi rend="italic">Lebensläufe nach Aufsteigender Linie</hi>
                         . Meines Lebenslaufs Dritter Theil. Zweyter Band.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__957"><hi rend="bold">Hochadel, Oliver</hi>
+                        <rs type="bibl" ref="#bibl__1033"><rs type="bibl" ref="#bibl__957"><hi rend="bold">Hochadel, Oliver</hi>
                          (2006): „The Business of Experimental Physics: Instrument Makers and Itinerant Lecturers in the German Enlightenment“, in:
                         <hi rend="italic">Science &amp; Education 2007</hi>
                          525–37.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__958"><hi rend="bold">Home, R. W.</hi>
+                        <rs type="bibl" ref="#bibl__1034"><rs type="bibl" ref="#bibl__958"><hi rend="bold">Home, R. W.</hi>
                          (2016): „Experimental Physics“, in: Porter, Roy:
                         <hi rend="italic">The Cambridge History of Science, Volume 4: Eighteenth-Century Science </hi>
                         363–71.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__959"><hi rend="bold">Jo, Eun Seo</hi>
+                        <rs type="bibl" ref="#bibl__1035"><rs type="bibl" ref="#bibl__959"><hi rend="bold">Jo, Eun Seo</hi>
                          (2016): "Diplomatic history by data. Understanding Cold War foreign policy ideology using networks and NLP", in: 
                         <hi rend="italic">Digital Humanities 2016</hi>
                          582–5.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__96"><hi rend="bold">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke</hi>
+                        <rs type="bibl" ref="#bibl__128"><rs type="bibl" ref="#bibl__96"><hi rend="bold">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke</hi>
                          (2016): "The royal society corpus: From uncharted data to corpus", in:
                         <hi rend="italic">Proceedings of the Tenth International Conference on Language Resources and Evaluation </hi>
                         1928–31.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__960"><hi rend="bold">Kim, Yoon / Chiu, Yi-I / Hanaki, Kentaro / Hegde, Darshan / Petrov, Slav</hi>
+                        <rs type="bibl" ref="#bibl__129"><rs type="bibl" ref="#bibl__960"><hi rend="bold">Kim, Yoon / Chiu, Yi-I / Hanaki, Kentaro / Hegde, Darshan / Petrov, Slav</hi>
                          (2014): "Temporal analysis of language through neural language models", in:
                         <hi rend="italic">Proceedings of the Workshop on Language Technologies and Computational Social Science @ ACL 2014</hi>
                          61–5.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__961"><hi rend="bold">Kulkarni, Vivek / Al-Rfou, Rami / Perozzi, Bryan / Skiena, Steven</hi>
+                        <rs type="bibl" ref="#bibl__1036"><rs type="bibl" ref="#bibl__961"><hi rend="bold">Kulkarni, Vivek / Al-Rfou, Rami / Perozzi, Bryan / Skiena, Steven</hi>
                          (2015): "Statistically significant detection of linguistic change", in:
                         <hi rend="italic">Proceedings of the 24th International Conference on World Wide Web – Technical Papers</hi>
                          625–35.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__962"><hi rend="bold">Levy, Omer / Goldberg, Yoav / Dagan, Ido</hi>
+                        <rs type="bibl" ref="#bibl__1037"><rs type="bibl" ref="#bibl__962"><hi rend="bold">Levy, Omer / Goldberg, Yoav / Dagan, Ido</hi>
                         (2015): "Improving distributional similarity with lessons learned from Word Embeddings", in:
                         <hi rend="italic">Transactions of the Association for Computational Linguistics</hi>
                          3:211–25.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__963"><hi rend="bold">Lichtenberg, Georg Christoph / Erxleben, Johann Christian Polykarp</hi>
+                        <rs type="bibl" ref="#bibl__1038"><rs type="bibl" ref="#bibl__963"><hi rend="bold">Lichtenberg, Georg Christoph / Erxleben, Johann Christian Polykarp</hi>
                          (1787):
                         <hi rend="italic">Anfangsgründe der Naturlehre</hi>
                         . Dietrich, 4. Auflage.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__964"><hi rend="bold">Manning, Chris / Schütze, Hinrich</hi>
+                        <rs type="bibl" ref="#bibl__1039"><rs type="bibl" ref="#bibl__964"><hi rend="bold">Manning, Chris / Schütze, Hinrich</hi>
                          (1999): 
                         <hi rend="italic">Foundations of Statistical Natural Language Processing.</hi>
                          MIT Press, Kapitel 5: Collocations.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__965"><hi rend="bold">Mikolov, Tomas / Chen, Kai / Corrado, Gregory S. / Dean, Jeffrey </hi>
+                        <rs type="bibl" ref="#bibl__1040"><rs type="bibl" ref="#bibl__965"><hi rend="bold">Mikolov, Tomas / Chen, Kai / Corrado, Gregory S. / Dean, Jeffrey </hi>
                         (2013): "Efficient estimation of word representations in vector space", in: 
                         <hi rend="italic">Workshop Proceedings of the International Conference on Learning Representations</hi>
                         https://arxiv.org/abs/1301.3781
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__98"><hi rend="bold">Mimno, David </hi>
+                        <rs type="bibl" ref="#bibl__131"><rs type="bibl" ref="#bibl__98"><hi rend="bold">Mimno, David </hi>
                         (2012): "Computational historiography: Data mining in a century of classics journals", in: 
                         <hi rend="italic">Journal on Computing and Cultural Heritage </hi>
                         5(1): Article 3.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__59"><hi rend="bold">Moretti, Franco</hi>
+                        <rs type="bibl" ref="#bibl__71"><rs type="bibl" ref="#bibl__59"><hi rend="bold">Moretti, Franco</hi>
                          (2013): 
                         <hi rend="italic">Distant Reading</hi>
                         . Verso.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__966"><hi rend="bold">Morus, Iwan Rhys</hi> (1998): 
+                        <rs type="bibl" ref="#bibl__1041"><rs type="bibl" ref="#bibl__966"><hi rend="bold">Morus, Iwan Rhys</hi> (1998): 
                         <hi rend="italic">Frankenstein’s Children. Electricity, Exhibition, And Experiment in Early-Nineteenth-Century London.</hi> Princeton University Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__967"><hi rend="bold">Schumann, Anne-Kathrin </hi>
+                        <rs type="bibl" ref="#bibl__1042"><rs type="bibl" ref="#bibl__967"><hi rend="bold">Schumann, Anne-Kathrin </hi>
                         (2016): "Brave new world: Uncovering topical dynamics in the ACL anthology reference corpus using term life cycle information", in:
                         <hi rend="italic">Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities @ ACL 2016</hi>
                          1–11.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__968"><hi rend="bold">Steigerwald, Joan</hi>
+                        <rs type="bibl" ref="#bibl__1043"><rs type="bibl" ref="#bibl__968"><hi rend="bold">Steigerwald, Joan</hi>
                          (2013): "Rethinking organic vitality in Germany at the turn of the nineteenth century", in: Normandin, Sebastian / Wolfe, Charles T.:
                         <hi rend="italic">Vitalism and the Scientific Image in Post Enlightenment Life Science, 1800-2010</hi>
                         , Springer, 51-75.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

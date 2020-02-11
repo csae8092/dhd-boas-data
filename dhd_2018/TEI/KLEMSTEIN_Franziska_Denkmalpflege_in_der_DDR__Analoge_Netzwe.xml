@@ -8,7 +8,7 @@
                         <surname>Klemstein</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__12">Technische Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Technische Universität Berlin, Deutschland</affiliation>
                     <email>f.klemstein@gmail.com</email>
                 </author>
             </titleStmt>
@@ -104,14 +104,14 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__676"><hi rend="bold">Hubig, Christoph</hi> (2013): Strukturdynamik und/oder Netzdynamik – Die Rolle der Akteure, in: EWE 24/4: 545-547.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__770"><rs type="bibl" ref="#bibl__676"><hi rend="bold">Hubig, Christoph</hi> (2013): Strukturdynamik und/oder Netzdynamik – Die Rolle der Akteure, in: EWE 24/4: 545-547.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__677"><hi rend="bold">König, Wolfgang</hi> (2013a): Strukturen und Akteure – Ein Vorschlag zur Konzeptualisierung technisch-historischer Entwicklung, in: EWE 24/4: 505-516.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__771"><rs type="bibl" ref="#bibl__677"><hi rend="bold">König, Wolfgang</hi> (2013a): Strukturen und Akteure – Ein Vorschlag zur Konzeptualisierung technisch-historischer Entwicklung, in: EWE 24/4: 505-516.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__678"><hi rend="bold">König, Wolfgang</hi> (2013b): Technik und Geschichte. Interdisziplinarität, Theorien und Modelle, in: EWE 24/4: 605-616.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__772"><rs type="bibl" ref="#bibl__678"><hi rend="bold">König, Wolfgang</hi> (2013b): Technik und Geschichte. Interdisziplinarität, Theorien und Modelle, in: EWE 24/4: 605-616.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

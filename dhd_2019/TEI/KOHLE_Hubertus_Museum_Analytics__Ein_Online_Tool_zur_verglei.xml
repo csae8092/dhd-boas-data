@@ -11,7 +11,7 @@
                         <surname>Schneider</surname>
                         <forename>Stefanie</forename>
                     </persName>
-                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>stefanie.schneider@itg.uni-muenchen.de</email>
                 </author>
                 <author ref="#person__hubertus-kohle-lmu-de">
@@ -19,7 +19,7 @@
                         <surname>Kohle</surname>
                         <forename>Hubertus</forename>
                     </persName>
-                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>hubertus.kohle@lmu.de</email>
                 </author>
                 <author ref="#person__severin-jo-burg-gmail-com">
@@ -27,7 +27,7 @@
                         <surname>Burg</surname>
                         <forename>Severin</forename>
                     </persName>
-                    <affiliation ref="#org__257">Università di Bologna, Italien</affiliation>
+                    <affiliation ref="#org__413">Università di Bologna, Italien</affiliation>
                     <email>severin.jo.burg@gmail.com</email>
                 </author>
                 <author ref="#person__kuechenhoff-stat-uni-muenchen-de">
@@ -35,7 +35,7 @@
                         <surname>Küchenhoff</surname>
                         <forename>Helmut</forename>
                     </persName>
-                    <affiliation ref="#org__69">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>kuechenhoff@stat.uni-muenchen.de</email>
                 </author>
             </titleStmt>
@@ -154,30 +154,30 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Chang, Winston / Cheng, Joe / Allaire, JJ / Xie, Yihui / McPherson, Jonathan (2017): 
-                        <rs type="bibl" ref="#bibl__2364"><hi rend="italic">shiny: Web Application Framework for R</hi>, 
+                        <rs type="bibl" ref="#bibl__3600"><rs type="bibl" ref="#bibl__2364"><hi rend="italic">shiny: Web Application Framework for R</hi>, 
                         <ptr target="https://cran.r-project.org/package=shiny"/>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2365"><hi rend="color(#000000)">Klinke, Harald (Hrsg., 2018): </hi>
+                        <rs type="bibl" ref="#bibl__3601"><rs type="bibl" ref="#bibl__2365"><hi rend="color(#000000)">Klinke, Harald (Hrsg., 2018): </hi>
                         <hi rend="color(#000000)italic">#DigiCampus. Digitale Forschung und Lehre in den Geisteswissenschaften.</hi>
                         <hi rend="color(#000000)"> München: Universitätsbibliothek der Ludwig-Maximilians-Universität.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>R Core Team (2017): 
-                        <rs type="bibl" ref="#bibl__2366"><hi rend="italic">R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing</hi>, 
+                        <rs type="bibl" ref="#bibl__3602"><rs type="bibl" ref="#bibl__2366"><hi rend="italic">R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing</hi>, 
                         <ptr target="https://www.r-project.org/"/>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2367"><anchor xml:id="id_rstudio_console_output11"/>Ridge, Mia (2012): 
+                        <rs type="bibl" ref="#bibl__3603"><rs type="bibl" ref="#bibl__2367"><anchor xml:id="id_rstudio_console_output11"/>Ridge, Mia (2012): 
                         <hi rend="italic">Mia Ridge Explores the Shape of Cooper-Hewitt Collections</hi>, 
                         <ptr target="https://labs.cooperhewitt.org/2012/exploring-shape-collections-draft/"/>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2368"><hi rend="color(#000000)">Stack, John (2018): </hi>
+                        <rs type="bibl" ref="#bibl__3604"><rs type="bibl" ref="#bibl__2368"><hi rend="color(#000000)">Stack, John (2018): </hi>
                         <hi rend="color(#000000)italic">Exploring Museum Collections Online. Some Background Reading</hi>
                         <hi rend="color(#000000)">, </hi>
                         <ptr target="https://lab.sciencemuseum.org.uk/exploring-museum-collections-online-some-background-reading-da5a332fa2f8"/>
                         <hi rend="color(#000000)">.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

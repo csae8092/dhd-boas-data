@@ -8,7 +8,7 @@
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
                     </persName>
-                    <affiliation ref="#org__52 #org__53">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University Melbourne, Australien</affiliation>
+                    <affiliation ref="#org__69 #org__177">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University Melbourne, Australien</affiliation>
                     <email>sgronemeyer@uni-bonn.de</email>
                 </author>
                 <author ref="#person__diehr-sub-uni-goettingen-de">
@@ -16,7 +16,7 @@
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__39">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>diehr@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__cprager-uni-bonn-de">
@@ -24,7 +24,7 @@
                         <surname>Prager</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
                 <author ref="#person__katja-diederichs-uni-bonn-de">
@@ -32,7 +32,7 @@
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>katja.diederichs@uni-bonn.de</email>
                 </author>
                 <author ref="#person__ewagner-uni-bonn-de">
@@ -40,7 +40,7 @@
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>ewagner@uni-bonn.de</email>
                 </author>
                 <author ref="#person__brodhun-sub-uni-goettingen-de">
@@ -48,7 +48,7 @@
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation ref="#org__39">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>brodhun@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__ngrube-uni-bonn-de">
@@ -56,7 +56,7 @@
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>ngrube@uni-bonn.de</email>
                 </author>
             </titleStmt>
@@ -182,25 +182,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1352"><hi rend="bold">Houston, Stephen</hi> (2001): 
+                        <rs type="bibl" ref="#bibl__1415"><rs type="bibl" ref="#bibl__1352"><hi rend="bold">Houston, Stephen</hi> (2001): 
                         <hi rend="italic">The Decipherment of Ancient Maya Writing</hi>. Norman: University of Oklahoma Press: 3–19.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1353"><hi rend="bold">Kelley, David H. </hi>(1962): Review of “A Catalog of Maya Hieroglyphs, by J. Eric S. Thompson. Pp. xiv + 458, Including pls 16. University of Oklahoma Press, Norman, in Cooperation with the Carnegie Institution of Washington, 1962.” 
+                        <rs type="bibl" ref="#bibl__1416"><rs type="bibl" ref="#bibl__1353"><hi rend="bold">Kelley, David H. </hi>(1962): Review of “A Catalog of Maya Hieroglyphs, by J. Eric S. Thompson. Pp. xiv + 458, Including pls 16. University of Oklahoma Press, Norman, in Cooperation with the Carnegie Institution of Washington, 1962.” 
                         <hi rend="italic">American Journal of Archaeology</hi> 66(4): 436–438.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1354"><hi rend="bold">Stuart, David </hi>(1987): 
+                        <rs type="bibl" ref="#bibl__1417"><rs type="bibl" ref="#bibl__1354"><hi rend="bold">Stuart, David </hi>(1987): 
                         <hi rend="italic">Ten Phonetic Syllables</hi>. Research Reports on Ancient Maya Writing 14. Center for Maya Research, Washington, D.C.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__131"><hi rend="bold">Thompson, J. Eric S.</hi> (1962): 
+                        <rs type="bibl" ref="#bibl__179"><rs type="bibl" ref="#bibl__131"><hi rend="bold">Thompson, J. Eric S.</hi> (1962): 
                         <hi rend="italic">A Catalog of Maya Hieroglyphs</hi>. Norman: University of Oklahoma Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__132"><hi rend="bold">Wichmann, Søren </hi>(2006): Mayan Historical Linguistics and Epigraphy: A New Synthesis. 
+                        <rs type="bibl" ref="#bibl__180"><rs type="bibl" ref="#bibl__132"><hi rend="bold">Wichmann, Søren </hi>(2006): Mayan Historical Linguistics and Epigraphy: A New Synthesis. 
                         <hi rend="italic">Annual Review of Anthropology</hi> 35, 279–294.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -8,7 +8,7 @@
                         <surname>Sikora</surname>
                         <forename>Uwe</forename>
                     </persName>
-                    <affiliation ref="#org__39">Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</affiliation>
                     <email>sikora@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__sgronemeyer-uni-bonn-de">
@@ -16,7 +16,7 @@
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
                     </persName>
-                    <affiliation ref="#org__52 #org__53">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland; La Trobe University, Department of Archaeology and History, Australien</affiliation>
+                    <affiliation ref="#org__69 #org__472">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland; La Trobe University, Department of Archaeology and History, Australien</affiliation>
                     <email>sgronemeyer@uni-bonn.de</email>
                 </author>
                 <author ref="#person__f-diehr-smb-spk-berlin-de">
@@ -24,7 +24,7 @@
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__47">Stiftung Preußischer Kulturbesitz</affiliation>
+                    <affiliation ref="#org__64">Stiftung Preußischer Kulturbesitz</affiliation>
                     <email>f.diehr@smb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__ewagner-uni-bonn-de">
@@ -32,7 +32,7 @@
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>ewagner@uni-bonn.de</email>
                 </author>
                 <author ref="#person__cprager-uni-bonn-de">
@@ -40,7 +40,7 @@
                         <surname>Prager</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
                 <author ref="#person__brodhun-sub-uni-goettingen-de">
@@ -48,7 +48,7 @@
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation ref="#org__39">Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland</affiliation>
                     <email>brodhun@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__katja-diederichs-uni-bonn-de">
@@ -56,7 +56,7 @@
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>katja.diederichs@uni-bonn.de</email>
                 </author>
                 <author ref="#person__ngrube-uni-bonn-de">
@@ -64,7 +64,7 @@
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>
                     </persName>
-                    <affiliation ref="#org__52">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>ngrube@uni-bonn.de</email>
                 </author>
             </titleStmt>
@@ -220,53 +220,53 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Bańksi, Piotr (2010): “Why TEI stand-off annotation doesn't quite work and why you might want to use it nevertheless”, in: Proceedings of Balisage 2010. Series on Markup Technologies  5 
-                        <rs type="bibl" ref="#bibl__2969"><ref target="https://doi.org/10.4242/BalisageVol5.Banski01">
+                        <rs type="bibl" ref="#bibl__4191"><rs type="bibl" ref="#bibl__2969"><ref target="https://doi.org/10.4242/BalisageVol5.Banski01">
                             <hi rend="color(1155CC)">https://doi.org/10.4242/BalisageVol5.Banski01</hi>
                         </ref> [letzter Zugriff: 05.01.2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Diehr, Franziska  / Gronemeyer, Sven  / Prager, Christian / Brodhun, Maximilian  / Wagner, Elisabeth / Diederichs, Katja / Grube, Nikolai (2017): “Modellierung eines digitalen Zeichenkatalogs für die Hieroglyphen des Klassischen Maya”, in: Eibl, Maximilian / Gaedke, Martin  (eds.): Proceedings der INFORMATIK 2017. Bonn: Gesellschaft für Informatik, 1185–1196 
-                        <rs type="bibl" ref="#bibl__2970"><ref target="https://doi.org/10.18420/in2017_120">
+                        <rs type="bibl" ref="#bibl__4192"><rs type="bibl" ref="#bibl__2970"><ref target="https://doi.org/10.18420/in2017_120">
                             <hi rend="color(000080)">https://doi.org/10.18420/in2017_120</hi>
                         </ref> [letzer Zugriff 1.10.2018].
-                    </rs></bibl>
-                    <bibl>Dipper, Stefanie (2005): “XML-based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation”, in: Proceedings of Berliner XML Tage 2005 39–50.<rs type="bibl" ref="#bibl__14"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Dipper, Stefanie (2005): “XML-based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation”, in: Proceedings of Berliner XML Tage 2005 39–50.<rs type="bibl" ref="#bibl__17"><rs type="bibl" ref="#bibl__14"/></rs></bibl>
                     <bibl>Grube, Nikolai / Prager, Christian / Diederichs, Katja / Gronemeyer, Sven / Grothe, Antje / Tamignaux, Céline / Wagner, Elisabeth / Brodhun, Maximilian / Diehr, Franziska (2018): “Arbeitsbericht 2017”, in: Textdatenbank und Wörterbuch des Klassischen Maya, Arbeitsstelle der Nordrhein-Westfälischen Akademie der Wissenschaften und der Künste an der Rheinischen Friedrich-Wilhelms-Universität Bonn 
-                        <rs type="bibl" ref="#bibl__2971"><ref target="http://dx.doi.org/10.20376/IDIOM-23665556.18.pr005.de">
+                        <rs type="bibl" ref="#bibl__4193"><rs type="bibl" ref="#bibl__2971"><ref target="http://dx.doi.org/10.20376/IDIOM-23665556.18.pr005.de">
                             <hi rend="color(1155CC)">http://dx.doi.org/10.20376/IDIOM-23665556.18.pr005.de</hi>
                         </ref> [letzter Zugriff: 05.01.2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Ide, Nancy / Romary, Laurent (2007): “Towards International Standards for Language Resources”, in: Dybkjaer, Laila / Hemsen, Holmer / Minker, Wolfgang (eds.): Evaluation of Text and Speech Systems, Springer 263–284 
-                        <rs type="bibl" ref="#bibl__2972"><ref target="https://doi.org/10.1007/978-1-4020-5817-2_9">
+                        <rs type="bibl" ref="#bibl__4194"><rs type="bibl" ref="#bibl__2972"><ref target="https://doi.org/10.1007/978-1-4020-5817-2_9">
                             <hi rend="color(1155CC)">https://doi.org/10.1007/978-1-4020-5817-2_9</hi>
                         </ref> [letzter Zugriff: 05.01.2019].
-                    </rs></bibl>
-                    <bibl>Macri, Martha J. / Looper, Matthew G. (2003): “The New Catalog of Maya Hieroglyphs: The Classic Period Inscriptions”, in: The Civilization of the American Indian Series 247.  Norman, OK: University of Oklahoma Press.<rs type="bibl" ref="#bibl__2973"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Macri, Martha J. / Looper, Matthew G. (2003): “The New Catalog of Maya Hieroglyphs: The Classic Period Inscriptions”, in: The Civilization of the American Indian Series 247.  Norman, OK: University of Oklahoma Press.<rs type="bibl" ref="#bibl__4195"><rs type="bibl" ref="#bibl__2973"/></rs></bibl>
                     <bibl>Neuroth Heike / Rapp,  Andrea / Söring, Sibylle (2015): TextGrid: Von der Community – für die Community. Eine Virtuelle Forschungsumgebung für die Geisteswissenschaften. Göttingen: Universitätsverlag Göttingen 
-                        <rs type="bibl" ref="#bibl__2974"><ref target="https://doi.org/10.3249/webdoc-3947">
+                        <rs type="bibl" ref="#bibl__4196"><rs type="bibl" ref="#bibl__2974"><ref target="https://doi.org/10.3249/webdoc-3947">
                             <hi rend="color(1155CC)">https://doi.org/10.3249/webdoc-3947</hi>
                         </ref>  [letzer Zugriff 1.10.2018].
-                    </rs></bibl>
-                    <bibl>Pallan Gayol, Carlos / Anderson, Deborah (2018): “Achieving Machine-Readable Mayan Text via Unicode: Blending “Old World” Script-encoding with Novel Digital Approaches”, in: Ortega, Élika / Worthey, Glen / Galina, Isabel / Priani, Ernesto (eds.): Book of Abstracts Digital Humanities 2018, Puentes-Bridges 256–261.<rs type="bibl" ref="#bibl__2975"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Pallan Gayol, Carlos / Anderson, Deborah (2018): “Achieving Machine-Readable Mayan Text via Unicode: Blending “Old World” Script-encoding with Novel Digital Approaches”, in: Ortega, Élika / Worthey, Glen / Galina, Isabel / Priani, Ernesto (eds.): Book of Abstracts Digital Humanities 2018, Puentes-Bridges 256–261.<rs type="bibl" ref="#bibl__4197"><rs type="bibl" ref="#bibl__2975"/></rs></bibl>
                     <bibl>Rehm, Georg / Schonefeld, Oliver / Trippel, Thorsten / Witt, Andreas (2010): “Sustainability of linguistic resources revisited”, in: Proceedings of the International Symposium on XML for the Long Haul: Issues in the Long-term Preservation of XML. Balisage Series on Markup Technologies 6 
-                        <rs type="bibl" ref="#bibl__2976"><ref target="https://doi.org/10.4242/BalisageVol6.Witt01">
+                        <rs type="bibl" ref="#bibl__4198"><rs type="bibl" ref="#bibl__2976"><ref target="https://doi.org/10.4242/BalisageVol6.Witt01">
                             <hi rend="color(1155CC)">https://doi.org/10.4242/BalisageVol6.Witt01</hi>
                         </ref> [letzter Zugriff: 05.01.2019].
-                    </rs></bibl>
-                    <bibl>Rossi, Irene / De Santis, Annamaria (2019): Crossing Experiences in Digital Epigraphy:<rs type="bibl" ref="#bibl__2977"/></bibl>
-                    <bibl>From Practice to Discipline. Berlin: De Gruyter.<rs type="bibl" ref="#bibl__2978"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Rossi, Irene / De Santis, Annamaria (2019): Crossing Experiences in Digital Epigraphy:<rs type="bibl" ref="#bibl__4199"><rs type="bibl" ref="#bibl__2977"/></rs></bibl>
+                    <bibl>From Practice to Discipline. Berlin: De Gruyter.<rs type="bibl" ref="#bibl__4200"><rs type="bibl" ref="#bibl__2978"/></rs></bibl>
                     <bibl>Spadini, Elena / Turska, Magdalena / Broughton, Misha (2015): “TEI Standoff Markup - A work in progress”, in: TEI Members Meeting 2015 
-                        <rs type="bibl" ref="#bibl__2979"><ref target="http://www.persistent-identifier.nl/urn:nbn:nl:ui:17-f4d0afe1-5c62-4999-8271-7e8cadcd4805">
+                        <rs type="bibl" ref="#bibl__4201"><rs type="bibl" ref="#bibl__2979"><ref target="http://www.persistent-identifier.nl/urn:nbn:nl:ui:17-f4d0afe1-5c62-4999-8271-7e8cadcd4805">
                             <hi rend="color(1155CC)">urn:nbn:nl:ui:17-f4d0afe1-5c62-4999-8271-7e8cadcd4805</hi>
                         </ref> [letzter Zugriff: 05.01.2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>Textdatenbank und Wörterbuch des Klassischen Maya (2017): Ontology of the Sign Catalogue for Classic Mayan 
-                        <rs type="bibl" ref="#bibl__2980"><ref target="https://classicmayan.org/documentations/idiomschema.html">
+                        <rs type="bibl" ref="#bibl__4202"><rs type="bibl" ref="#bibl__2980"><ref target="https://classicmayan.org/documentations/idiomschema.html">
                             <hi rend="color(1155CC)">https://classicmayan.org/documentations/idiomschema.html</hi>
                         </ref> [letzter Zugriff 1.10.2018].  
-                    </rs></bibl>
-                    <bibl>Thompson, J. Eric S. (1962):    “A Catalog of Maya Hieroglyphs”, in: The Civilization of the American Indian Series 62. Norman, OK.: University of Oklahoma Press.<rs type="bibl" ref="#bibl__131"/></bibl>
-                    <bibl>Thompson, Henry S. / McKelvie, David (1997): “Hyperlink semantics for standoff markup of read-only documents”, in: Proceedings of SGML Europe.<rs type="bibl" ref="#bibl__2981"/></bibl>
-                    <bibl>Wichmann, Søren (2006): “Mayan Historical Linguistics and Epigraphy: A New Synthesis”, in: Annual Review of Anthropology 35: 279-294.<rs type="bibl" ref="#bibl__132"/></bibl>
+                    </rs></rs></bibl>
+                    <bibl>Thompson, J. Eric S. (1962):    “A Catalog of Maya Hieroglyphs”, in: The Civilization of the American Indian Series 62. Norman, OK.: University of Oklahoma Press.<rs type="bibl" ref="#bibl__179"><rs type="bibl" ref="#bibl__131"/></rs></bibl>
+                    <bibl>Thompson, Henry S. / McKelvie, David (1997): “Hyperlink semantics for standoff markup of read-only documents”, in: Proceedings of SGML Europe.<rs type="bibl" ref="#bibl__4203"><rs type="bibl" ref="#bibl__2981"/></rs></bibl>
+                    <bibl>Wichmann, Søren (2006): “Mayan Historical Linguistics and Epigraphy: A New Synthesis”, in: Annual Review of Anthropology 35: 279-294.<rs type="bibl" ref="#bibl__180"><rs type="bibl" ref="#bibl__132"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

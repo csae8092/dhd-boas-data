@@ -11,7 +11,7 @@
                         <surname>Schaßan</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>schassan@hab.de</email>
                 </author>
                 <author ref="#person__baumgarten-hab-de">
@@ -19,7 +19,7 @@
                         <surname>Baumgarten</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>baumgarten@hab.de</email>
                 </author>
                 <author ref="#person__steyer-hab-de">
@@ -27,7 +27,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
                 <author ref="#person__henrike-fricke-hab-de">
@@ -35,7 +35,7 @@
                         <surname>Fricke-Steyer</surname>
                         <forename>Henrike</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>henrike.fricke@hab.de</email>
                 </author>
                 <author ref="#person__iglesia-hab-de">
@@ -43,7 +43,7 @@
                         <surname>Iglesia</surname>
                         <forename>Martin de la</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>iglesia@hab.de</email>
                 </author>
                 <author ref="#person__kampkaspar-hab-de">
@@ -51,7 +51,7 @@
                         <surname>Kampkaspar</surname>
                         <forename>Dario</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>kampkaspar@hab.de</email>
                 </author>
                 <author ref="#person__klaffki-hab-de">
@@ -59,7 +59,7 @@
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>klaffki@hab.de</email>
                 </author>
                 <author ref="#person__parlitz-hab-de">
@@ -67,7 +67,7 @@
                         <surname>Parlitz</surname>
                         <forename>Dietrich</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>parlitz@hab.de</email>
                 </author>
             </titleStmt>

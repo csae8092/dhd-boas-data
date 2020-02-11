@@ -8,7 +8,7 @@
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
                     </persName>
-                    <affiliation ref="#org__51 #org__75">Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
+                    <affiliation ref="#org__68 #org__88">Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
                     <email>christiane.fritze@onb.ac.at</email>
                 </author>
                 <author ref="#person__franz-fischer-uni-koeln-de">
@@ -16,7 +16,7 @@
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation ref="#org__51 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+                    <affiliation ref="#org__68 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__georg-vogeler-uni-graz-at">
@@ -24,7 +24,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__51 #org__191">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__68 #org__12">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
                 <author ref="#person__schnoepf-i-d-e-de">
@@ -32,7 +32,7 @@
                         <surname>Schnöpf</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__51 #org__34">Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__68 #org__43">Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>schnoepf@i-d-e.de</email>
                 </author>
                 <author ref="#person__martina-scholger-uni-graz-at">
@@ -40,7 +40,7 @@
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation ref="#org__51 #org__191">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__68 #org__12">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>martina.scholger@uni-graz.at</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -48,7 +48,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__51 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+                    <affiliation ref="#org__68 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
             </titleStmt>
@@ -214,18 +214,18 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">Digital Humanities als Beruf. Fortschritte auf dem Weg zu einem Curriculum. Akten der DHd-Arbeitsgruppe 
-                        <rs type="bibl" ref="#bibl__1714"><hi rend="italic">
+                        <rs type="bibl" ref="#bibl__2966"><rs type="bibl" ref="#bibl__1714"><hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>Referenzcurriculum Digital Humanities
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>. Graz 2015.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">Digital Humanities Course Registry. Dariah/Clarin 2014-2018. 
-                        <rs type="bibl" ref="#bibl__1715"><ref target="https://registries.clarin-dariah.eu/courses/">https://registries.clarin-dariah.eu/courses/</ref>
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2967"><rs type="bibl" ref="#bibl__1715"><ref target="https://registries.clarin-dariah.eu/courses/">https://registries.clarin-dariah.eu/courses/</ref>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__1716"><hi rend="bold">Fritze, Christiane / Rehbein, Malte</hi> (2012): 
+                        <rs type="bibl" ref="#bibl__2968"><rs type="bibl" ref="#bibl__1716"><hi rend="bold">Fritze, Christiane / Rehbein, Malte</hi> (2012): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>Hands-On Teaching Digital Humanities: A Didactic Analysis of a Summer School Course on Digital Editing
@@ -236,9 +236,9 @@
                         <ref target="http://books.openedition.org/obp/1617">
                             <hi rend="underline color(1155CC)">http://books.openedition.org/obp/1617</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__1717"><hi rend="bold">Henny, Ulrike</hi> (2012): 
+                        <rs type="bibl" ref="#bibl__2969"><rs type="bibl" ref="#bibl__1717"><hi rend="bold">Henny, Ulrike</hi> (2012): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>Digitale Editionen – Methoden und Technologien für Fortgeschrittene
@@ -247,9 +247,9 @@
                         </hi> [Tagungsbericht zur IDE-School, Chemnitz 2012], in: 
                         <hi rend="italic">H-Soz-Kult, 11.12.2012</hi>, 
                         <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-4540%3e">www.hsozkult.de/conferencereport/id/tagungsberichte-4540</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__1718"><hi rend="bold">Locke, Brandon T.</hi> (2017): 
+                        <rs type="bibl" ref="#bibl__2970"><rs type="bibl" ref="#bibl__1718"><hi rend="bold">Locke, Brandon T.</hi> (2017): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>Digital Humanities Pedagogy as Essential Liberal Education: A Framework for Curriculum Development
@@ -260,9 +260,9 @@
                         <ref target="http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html">
                             <hi rend="underline color(1155CC)">http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__1719"><hi rend="bold">Neuber, Frederike</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__2971"><rs type="bibl" ref="#bibl__1719"><hi rend="bold">Neuber, Frederike</hi> (2015): 
                         <hi rend="italic">
                             <hi rend="italic">"</hi>
                         </hi>Spring in Graz – Sunshine and X-technologies
@@ -271,17 +271,17 @@
                         </hi> [Bericht zur IDE-School Graz 2015], in
                         <hi rend="italic">: DiXiT Blog 26.4.2015</hi>. 
                         <ref target="https://dixit.hypotheses.org/633">https://dixit.hypotheses.org/633</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__1720"><hi rend="bold">Sahle, Patrick</hi> (2008): "Digitale Editionen – Methodische und technische Grundfertigkeiten" [Tagungsbericht zur IDE-School, Köln 2008], in: 
+                        <rs type="bibl" ref="#bibl__2972"><rs type="bibl" ref="#bibl__1720"><hi rend="bold">Sahle, Patrick</hi> (2008): "Digitale Editionen – Methodische und technische Grundfertigkeiten" [Tagungsbericht zur IDE-School, Köln 2008], in: 
                         <hi rend="italic">H-Soz-Kult, 21.11.2008</hi>, 
                         <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-2353%3e">www.hsozkult.de/conferencereport/id/tagungsberichte-2353</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__1721"><hi rend="bold">Sahle, Patrick</hi> (2013): 
+                        <rs type="bibl" ref="#bibl__2973"><rs type="bibl" ref="#bibl__1721"><hi rend="bold">Sahle, Patrick</hi> (2013): 
                         <hi rend="italic">DH studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum der Digital Humanities</hi>. (= DARIAH-DE Working Papers Nr. 1). Göttingen: GOEDOC. 
                         <ref target="http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2013-1-5">http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2013-1-5</ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

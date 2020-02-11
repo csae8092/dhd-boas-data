@@ -18,3 +18,5 @@ PATTERNS = [
     ('fÃ¼r Informatik und Mathematik', 'für Informatik und Mathematik'),
     ('Mayer-StraÃe 10', 'Mayer-Straße 10')
 ]
+
+YEARS = ["2018", "2019"]

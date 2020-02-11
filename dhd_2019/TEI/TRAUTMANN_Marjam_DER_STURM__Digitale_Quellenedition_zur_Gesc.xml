@@ -8,7 +8,7 @@
                         <surname>Lorenz</surname>
                         <forename>Anne Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>anne.lorenz@adwmainz.de</email>
                 </author>
                 <author ref="#person__lea-mueller-dannhausen-gmx-de">
@@ -16,7 +16,7 @@
                         <surname>Müller-Dannhausen</surname>
                         <forename>Lea</forename>
                     </persName>
-                    <affiliation ref="#org__55">Johannes Gutenberg-Universität Mainz</affiliation>
+                    <affiliation ref="#org__70">Johannes Gutenberg-Universität Mainz</affiliation>
                     <email>lea.mueller-dannhausen@gmx.de</email>
                 </author>
                 <author ref="#person__marjam-trautmann-adwmainz-de">
@@ -24,7 +24,7 @@
                         <surname>Trautmann</surname>
                         <forename>Marjam</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>marjam.trautmann@adwmainz.de</email>
                 </author>
             </titleStmt>
@@ -127,39 +127,39 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2478"><hi rend="bold">Asholt, Wolfgang / Fähnders, Walter</hi> (2000): „Einleitung“, in: Asholt, Wolfgang / Fähnders, Walter (eds.): Der Blick vom Wolkenkratzer. Avantgarde – Avantgardekritik – Avantgardeforschung. Amsterdam / Atlanta: Editions Rodopoi 9–27.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3713"><rs type="bibl" ref="#bibl__2478"><hi rend="bold">Asholt, Wolfgang / Fähnders, Walter</hi> (2000): „Einleitung“, in: Asholt, Wolfgang / Fähnders, Walter (eds.): Der Blick vom Wolkenkratzer. Avantgarde – Avantgardekritik – Avantgardeforschung. Amsterdam / Atlanta: Editions Rodopoi 9–27.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__187"><hi rend="bold">Baillot, Anne</hi> (2018): „Die Krux mit dem Netz. Verknüpfung und Visualisierung bei digitalen Briefeditionen“, in: Bernhart, Toni / Willand, Marcus / Richter, Sandra / Albrecht, Andrea (eds.): Quantitative Ansätze in den Literatur- und Geisteswissenschaften. Systematische und historische Perspektiven. Open Access: De Gruyter 355–370.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__293"><rs type="bibl" ref="#bibl__187"><hi rend="bold">Baillot, Anne</hi> (2018): „Die Krux mit dem Netz. Verknüpfung und Visualisierung bei digitalen Briefeditionen“, in: Bernhart, Toni / Willand, Marcus / Richter, Sandra / Albrecht, Andrea (eds.): Quantitative Ansätze in den Literatur- und Geisteswissenschaften. Systematische und historische Perspektiven. Open Access: De Gruyter 355–370.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2479"><hi rend="bold">Brandes, Ulrik / Robins, Garry / McCranie, Ann / Wasserman, Stanley</hi> (2013): Editorial. What is network science? Network Science 1: 1–15.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3714"><rs type="bibl" ref="#bibl__2479"><hi rend="bold">Brandes, Ulrik / Robins, Garry / McCranie, Ann / Wasserman, Stanley</hi> (2013): Editorial. What is network science? Network Science 1: 1–15.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2480"><hi rend="bold">Chytraeus-Auerbach, Irene / Uhl, Elke</hi> (2013): „Vorwort“, in: Chytraeus-Auerbach, Irene / Uhl, Elke (eds.): Der Aufbruch in die Moderne. Herwarth Walden und die europäische Avantgarde. Berlin: LIT Verlag 7–11.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3715"><rs type="bibl" ref="#bibl__2480"><hi rend="bold">Chytraeus-Auerbach, Irene / Uhl, Elke</hi> (2013): „Vorwort“, in: Chytraeus-Auerbach, Irene / Uhl, Elke (eds.): Der Aufbruch in die Moderne. Herwarth Walden und die europäische Avantgarde. Berlin: LIT Verlag 7–11.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2481"><hi rend="bold">Doerr, Martin</hi> (2009): „Ontologies for Cultural Heritage“, in: Staab, Steffen / Studer, Rudi (eds.): Handbook on Ontologies. Berlin / Heidelberg: Springer Verlag 463–486.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3716"><rs type="bibl" ref="#bibl__2481"><hi rend="bold">Doerr, Martin</hi> (2009): „Ontologies for Cultural Heritage“, in: Staab, Steffen / Studer, Rudi (eds.): Handbook on Ontologies. Berlin / Heidelberg: Springer Verlag 463–486.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2482"><hi rend="bold">Düring, Marten / Eumann, Ulrich / Stark, Martin / Keyserlingk, Linda v.</hi> (2016) (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Berlin: LIT Verlag.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3717"><rs type="bibl" ref="#bibl__2482"><hi rend="bold">Düring, Marten / Eumann, Ulrich / Stark, Martin / Keyserlingk, Linda v.</hi> (2016) (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Berlin: LIT Verlag.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2483"><hi rend="bold">Jäger, Siegfried </hi>(2012): Kritische Diskursanalyse. Eine Einführung. 6. vollständig überarbeitete Aufl. Münster: Unrast.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3718"><rs type="bibl" ref="#bibl__2483"><hi rend="bold">Jäger, Siegfried </hi>(2012): Kritische Diskursanalyse. Eine Einführung. 6. vollständig überarbeitete Aufl. Münster: Unrast.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__115"><hi rend="bold">Jannidis, Fotis</hi> (2017): „Netzwerke“, in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler 147–161.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__153"><rs type="bibl" ref="#bibl__115"><hi rend="bold">Jannidis, Fotis</hi> (2017): „Netzwerke“, in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler 147–161.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2484"><hi rend="bold">Pirsich, Volker</hi> (1985): Der Sturm. Eine Monographie. Herzberg: Traugott Bautz 1985.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3719"><rs type="bibl" ref="#bibl__2484"><hi rend="bold">Pirsich, Volker</hi> (1985): Der Sturm. Eine Monographie. Herzberg: Traugott Bautz 1985.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2485"><hi rend="bold">Rijn, Maaike van</hi> (2013): Bildende Künstlerinnen im Berliner „Sturm“ der 1910er Jahre. Tübingen: TOBIAS-lib, http://tobias-lib.uni-tuebingen.de/volltexte/2013/6987.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3720"><rs type="bibl" ref="#bibl__2485"><hi rend="bold">Rijn, Maaike van</hi> (2013): Bildende Künstlerinnen im Berliner „Sturm“ der 1910er Jahre. Tübingen: TOBIAS-lib, http://tobias-lib.uni-tuebingen.de/volltexte/2013/6987.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2486"><hi rend="bold">Sahle, Patrick</hi> (2017): „Digitale Edition“
+                        <rs type="bibl" ref="#bibl__3721"><rs type="bibl" ref="#bibl__2486"><hi rend="bold">Sahle, Patrick</hi> (2017): „Digitale Edition“
                         <hi style="font-size:12pt">,</hi> in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler 234–249.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

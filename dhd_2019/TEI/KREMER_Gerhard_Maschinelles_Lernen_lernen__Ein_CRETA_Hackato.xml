@@ -11,7 +11,7 @@
                         <surname>Kremer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>gerhard.kremer@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__kerstin-jung-ims-uni-stuttgart-de">
@@ -19,7 +19,7 @@
                         <surname>Jung</surname>
                         <forename>Kerstin</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>kerstin.jung@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

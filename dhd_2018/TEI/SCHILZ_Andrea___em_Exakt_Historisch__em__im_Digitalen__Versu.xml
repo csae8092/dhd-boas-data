@@ -11,7 +11,7 @@
                         <surname>Schilz</surname>
                         <forename>Andrea</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
                     <email>andrea.schilz@uni-passau.de</email>
                 </author>
             </titleStmt>
@@ -157,72 +157,72 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__377"><hi rend="bold">Baumann, Jan / Hügi, Jasmin </hi>(2017): „compas. Strukturiertes Forschen im Web. Ein Projekt von infoclio.ch.“; ebd.:„2. 5. 2. Quellenkritik bei Quellen aus dem Internet“. 25.04.2017 http://www.compas.infoclio.ch/de/kompas/2-5-2-quellenkritik-bei-quellen-aus-dem-internet/164 [letzter Zugriff 11. September2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__473"><rs type="bibl" ref="#bibl__377"><hi rend="bold">Baumann, Jan / Hügi, Jasmin </hi>(2017): „compas. Strukturiertes Forschen im Web. Ein Projekt von infoclio.ch.“; ebd.:„2. 5. 2. Quellenkritik bei Quellen aus dem Internet“. 25.04.2017 http://www.compas.infoclio.ch/de/kompas/2-5-2-quellenkritik-bei-quellen-aus-dem-internet/164 [letzter Zugriff 11. September2017].</rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__378"><hi rend="bold">Brückner, Wolfgang </hi>(1985): „Hans Mosers Bedeutung für die Volkskunde“, in: Moser, Hans (1985): Volksbräuche im geschichtlichen Wandel. Ergebnisse aus fünfzig Jahren volkskundlicher Quellenforschung. Berlin-München: Deutscher Kunstverlag X-XI
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__379"><hi rend="bold">Crompton, Constance / Lane, Richard J. / Siemens, Ray(eds.) </hi>(2016) : „Doing Digital Humanities. Practice, Training, Research“. London: Routledge </rs></bibl>
+                        <rs type="bibl" ref="#bibl__474"><rs type="bibl" ref="#bibl__378"><hi rend="bold">Brückner, Wolfgang </hi>(1985): „Hans Mosers Bedeutung für die Volkskunde“, in: Moser, Hans (1985): Volksbräuche im geschichtlichen Wandel. Ergebnisse aus fünfzig Jahren volkskundlicher Quellenforschung. Berlin-München: Deutscher Kunstverlag X-XI
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__475"><rs type="bibl" ref="#bibl__379"><hi rend="bold">Crompton, Constance / Lane, Richard J. / Siemens, Ray(eds.) </hi>(2016) : „Doing Digital Humanities. Practice, Training, Research“. London: Routledge </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__380"><hi rend="bold">Nanni, Federico</hi> (2017): „Reconstructing a website’s lost past. Methodological issues concerning the history of Unibo.it.“, in: 
+                        <rs type="bibl" ref="#bibl__476"><rs type="bibl" ref="#bibl__380"><hi rend="bold">Nanni, Federico</hi> (2017): „Reconstructing a website’s lost past. Methodological issues concerning the history of Unibo.it.“, in: 
                         <hi rend="italic">Digital Humanities Quarterly</hi> 2017 Volume 11 Number 2
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__381"><hi rend="bold">Gerndt, Helge </hi>(ed.) (1987): Volkskunde und Nationalsozialismus. Referate und Diskussionen einer Tagung der Deutschen Gesellschaft für Volkskunde, München 23. bis 25. Oktober 1986. München: 
+                        <rs type="bibl" ref="#bibl__477"><rs type="bibl" ref="#bibl__381"><hi rend="bold">Gerndt, Helge </hi>(ed.) (1987): Volkskunde und Nationalsozialismus. Referate und Diskussionen einer Tagung der Deutschen Gesellschaft für Volkskunde, München 23. bis 25. Oktober 1986. München: 
                         <anchor xml:id="id_biblio-publisher1"/>Münchner Vereinigung für Volkskunde, 1989² 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__382"><hi rend="bold">Griffin, Gabriele / Hayler, Matt</hi> (2016): Research methods for reading digital data in the digital humanities. Edinburgh: Edinburgh University Press
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__478"><rs type="bibl" ref="#bibl__382"><hi rend="bold">Griffin, Gabriele / Hayler, Matt</hi> (2016): Research methods for reading digital data in the digital humanities. Edinburgh: Edinburgh University Press
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__383"><hi rend="bold">Haber, Peter</hi> (2011): Digital Past. Geschichtswissenschaft im digitalen Zeitalter. München: Oldenbourg Verlag 104-112
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__384"><hi rend="bold">Kaschuba, Wolfgang </hi>(1999/2003): Einführung in die Europäische Ethnologie. München: Beck 2006³ 83-85</rs></bibl>
+                        <rs type="bibl" ref="#bibl__479"><rs type="bibl" ref="#bibl__383"><hi rend="bold">Haber, Peter</hi> (2011): Digital Past. Geschichtswissenschaft im digitalen Zeitalter. München: Oldenbourg Verlag 104-112
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__480"><rs type="bibl" ref="#bibl__384"><hi rend="bold">Kaschuba, Wolfgang </hi>(1999/2003): Einführung in die Europäische Ethnologie. München: Beck 2006³ 83-85</rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__385"><hi rend="bold">Klawitter, Jana / Lobin, Henning / Schmidt Torben</hi>(2012): „Kulturwissenschaftliche Forschung – Einflüsse von Digitalisierung und Internet“, in: Diess. (eds.): Kulturwissenschaften digital. Neue Forschungsfragen und Methoden. Frankfurt am Main: Campus Verlag 9-29
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__481"><rs type="bibl" ref="#bibl__385"><hi rend="bold">Klawitter, Jana / Lobin, Henning / Schmidt Torben</hi>(2012): „Kulturwissenschaftliche Forschung – Einflüsse von Digitalisierung und Internet“, in: Diess. (eds.): Kulturwissenschaften digital. Neue Forschungsfragen und Methoden. Frankfurt am Main: Campus Verlag 9-29
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__386"><hi rend="bold">Köstlin, Konrad</hi>: „Historische Methode und regionale Kultur“ in: Ders.(ed.) (1987): Historische Methode und regionale Kultur. Karl-S. Kramer zum 70. Geburtstag. Regensburger Schriften zur Volkskunde, B. 4. Berlin-Vilseck: Tesdorpf Verlag 7-23
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__482"><rs type="bibl" ref="#bibl__386"><hi rend="bold">Köstlin, Konrad</hi>: „Historische Methode und regionale Kultur“ in: Ders.(ed.) (1987): Historische Methode und regionale Kultur. Karl-S. Kramer zum 70. Geburtstag. Regensburger Schriften zur Volkskunde, B. 4. Berlin-Vilseck: Tesdorpf Verlag 7-23
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__387"><hi rend="bold">Kramer, Karl-Sigismund</hi>(1968): „Zur Erforschung der historischen Volkskultur“, in: 
+                        <rs type="bibl" ref="#bibl__483"><rs type="bibl" ref="#bibl__387"><hi rend="bold">Kramer, Karl-Sigismund</hi>(1968): „Zur Erforschung der historischen Volkskultur“, in: 
                         <hi rend="italic">Rheinisches Jahrbuch für Volkskunde</hi>, 1968, 19. Jahrgang. Bonn: Ferdinand Dümmler Verlag 7-41
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__32"><hi rend="bold">Liu, Alan</hi> (2012): „Where Is Cultural Criticism in the Digital Humanities?“, in: Gold, Matthew K. (ed.): Debates in the Digital Humanities. Minneapolis-London: University of Minnesota Press 490-509. http://dhdebates.gc.cuny.edu/debates/text/20 [letzter Zugriff 11. September 2017].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__40"><rs type="bibl" ref="#bibl__32"><hi rend="bold">Liu, Alan</hi> (2012): „Where Is Cultural Criticism in the Digital Humanities?“, in: Gold, Matthew K. (ed.): Debates in the Digital Humanities. Minneapolis-London: University of Minnesota Press 490-509. http://dhdebates.gc.cuny.edu/debates/text/20 [letzter Zugriff 11. September 2017].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__388"><hi rend="bold">Liu, Alan</hi> (2014): „The Big Bang of Online Reading“, in: Arthur, Paul Longley / Bode, Katherine (eds.): Advancing Digital Humanities. Research, Methods, Theories. Basingstoke: Palgrave Macmillan 275-290 
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__484"><rs type="bibl" ref="#bibl__388"><hi rend="bold">Liu, Alan</hi> (2014): „The Big Bang of Online Reading“, in: Arthur, Paul Longley / Bode, Katherine (eds.): Advancing Digital Humanities. Research, Methods, Theories. Basingstoke: Palgrave Macmillan 275-290 
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__389"><hi rend="bold">Mittler, Elmar</hi> (2012): „Wissenschaftliche Forschung und Publikation im Netz. Neue Herausforderungen für Forscher, Bibliotheken und Verlage“, in: Füssel, Stephan (ed.): Medienkonvergenz – Transdisziplinär. Media Convergence, Band 1. Berlin-Boston: Walter de Gruyter Verlag 31-80 
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__485"><rs type="bibl" ref="#bibl__389"><hi rend="bold">Mittler, Elmar</hi> (2012): „Wissenschaftliche Forschung und Publikation im Netz. Neue Herausforderungen für Forscher, Bibliotheken und Verlage“, in: Füssel, Stephan (ed.): Medienkonvergenz – Transdisziplinär. Media Convergence, Band 1. Berlin-Boston: Walter de Gruyter Verlag 31-80 
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__390"><hi rend="bold">Pfanzelter, Eva</hi> (2010): „Von der Quellenkritik zum kritischen Umgang mit digitalen Ressourcen“, in: Gasteiner, Martin / Haber, Peter (eds.): Digitale Arbeitstechniken für die Geistes- und Kulturwissenschaften. Wien: UTB 39-49
+                        <rs type="bibl" ref="#bibl__486"><rs type="bibl" ref="#bibl__390"><hi rend="bold">Pfanzelter, Eva</hi> (2010): „Von der Quellenkritik zum kritischen Umgang mit digitalen Ressourcen“, in: Gasteiner, Martin / Haber, Peter (eds.): Digitale Arbeitstechniken für die Geistes- und Kulturwissenschaften. Wien: UTB 39-49
                         <hi rend="italic"> </hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__391"><hi rend="bold">Presner, Todd</hi> (2015): „Critical Theory and the Magle of Digital Humanities“, in: Svensson, Patrik (ed.):Between humanities and the digital. Cambridge, Mass: MIT Press 55-67
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__487"><rs type="bibl" ref="#bibl__391"><hi rend="bold">Presner, Todd</hi> (2015): „Critical Theory and the Magle of Digital Humanities“, in: Svensson, Patrik (ed.):Between humanities and the digital. Cambridge, Mass: MIT Press 55-67
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__33"><hi rend="bold">Rehbein, &gt;Malte</hi> (2015): Forum: „Digitalisierung braucht Historiker/innen, die sie beherrschen, nicht beherrscht“, in: H-Soz-Kult, 27.11.2015 http://www.hsozkult.de/debate/id/diskussionen-2905 [letzter Zugriff 11. September 2017].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__41"><rs type="bibl" ref="#bibl__33"><hi rend="bold">Rehbein, &gt;Malte</hi> (2015): Forum: „Digitalisierung braucht Historiker/innen, die sie beherrschen, nicht beherrscht“, in: H-Soz-Kult, 27.11.2015 http://www.hsozkult.de/debate/id/diskussionen-2905 [letzter Zugriff 11. September 2017].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__392"><hi rend="bold">Rehbein, Malte</hi> (2017): „Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaftwissenschaft“, in: Herbers, Klaus / Trenkle, Viktoria (eds.): Papstgeschichte des hohen Mittelalters: Digitale und hilfswissenschaftliche Zugangsweisen zu einer Kulturgeschichte Europas (im Druck).
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__488"><rs type="bibl" ref="#bibl__392"><hi rend="bold">Rehbein, Malte</hi> (2017): „Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaftwissenschaft“, in: Herbers, Klaus / Trenkle, Viktoria (eds.): Papstgeschichte des hohen Mittelalters: Digitale und hilfswissenschaftliche Zugangsweisen zu einer Kulturgeschichte Europas (im Druck).
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__393"><hi rend="bold">Schaller, Martin </hi>(2015): „Arbeiten mit digitalisierten Quellen. Herausforderungen und Chancen“, in: Schmale, Wolfgang (ed.): Digital humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität. Stuttgart: Steiner 15-30 
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__489"><rs type="bibl" ref="#bibl__393"><hi rend="bold">Schaller, Martin </hi>(2015): „Arbeiten mit digitalisierten Quellen. Herausforderungen und Chancen“, in: Schmale, Wolfgang (ed.): Digital humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität. Stuttgart: Steiner 15-30 
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__394"><hi rend="bold">Schich, Maximilian / Song, Chaoming / Ahn, Yong Yeol /Mirsky, Alexander / Martino, Mauro / Albert Barabási, Albert László / Helbing, Dirk </hi>(2014): „A network framework of cultural history“, in: 
+                        <rs type="bibl" ref="#bibl__490"><rs type="bibl" ref="#bibl__394"><hi rend="bold">Schich, Maximilian / Song, Chaoming / Ahn, Yong Yeol /Mirsky, Alexander / Martino, Mauro / Albert Barabási, Albert László / Helbing, Dirk </hi>(2014): „A network framework of cultural history“, in: 
                         <hi rend="italic">Science</hi> 345 (6196). DOI: 10.1126/science.1240064. 558–562
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__395"><hi rend="bold">Sternfeld, Joshua </hi>(2014): „Historical Understanding in the Quantum Age“, in: 
+                        <rs type="bibl" ref="#bibl__491"><rs type="bibl" ref="#bibl__395"><hi rend="bold">Sternfeld, Joshua </hi>(2014): „Historical Understanding in the Quantum Age“, in: 
                         <hi rend="italic">Journal of Digital Humanites</hi> Vol. 3, No. 2 Summer 2014
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__396"><hi rend="bold">Weber, Matthew S. </hi>(2017): „The tumultuous history of news on the web“, in: Brügger, Niels / Schroeder, Ralph (eds.): The Web as History. Using Web Archives to Understand the Past and the Present. London: UCL Press 83-100
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__492"><rs type="bibl" ref="#bibl__396"><hi rend="bold">Weber, Matthew S. </hi>(2017): „The tumultuous history of news on the web“, in: Brügger, Niels / Schroeder, Ralph (eds.): The Web as History. Using Web Archives to Understand the Past and the Present. London: UCL Press 83-100
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

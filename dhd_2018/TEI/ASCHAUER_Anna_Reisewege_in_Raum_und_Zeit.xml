@@ -8,7 +8,7 @@
                         <surname>Aschauer</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation ref="#org__127">Institut für Europäische Geschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__129">Institut für Europäische Geschichte, Deutschland</affiliation>
                     <email>aschauer@ieg-mainz.de</email>
                 </author>
                 <author ref="#person__buechler-ieg-mainz-de">
@@ -16,7 +16,7 @@
                         <surname>Büchler</surname>
                         <forename>Marco</forename>
                     </persName>
-                    <affiliation ref="#org__127">Institut für Europäische Geschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__129">Institut für Europäische Geschichte, Deutschland</affiliation>
                     <email>buechler@ieg-mainz.de</email>
                 </author>
                 <author ref="#person__tobias-gradl-uni-bamberg-de">
@@ -24,7 +24,7 @@
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation ref="#org__129">Otto-Friedrich-Universität Bamberg</affiliation>
+                    <affiliation ref="#org__131">Otto-Friedrich-Universität Bamberg</affiliation>
                     <email>tobias.gradl@uni-bamberg.de</email>
                 </author>
                 <author ref="#person__andreas-henrich-uni-bamberg-de">
@@ -32,7 +32,7 @@
                         <surname>Henrich</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__129">Otto-Friedrich-Universität Bamberg</affiliation>
+                    <affiliation ref="#org__131">Otto-Friedrich-Universität Bamberg</affiliation>
                     <email>andreas.henrich@uni-bamberg.de</email>
                 </author>
             </titleStmt>
@@ -185,12 +185,12 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__809"><hi rend="bold">Berendt, B., Büchler, M., Rockwell, G.</hi> (2015) ‘Is it research or is it spying? – Rethinking ethics in Big Data AI and other fields of knowledge science‘, German Journal on Artificial Intelligence. Springer.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__25"><hi rend="bold">Gradl, T.; Henrich, A.</hi>(2016a): Die DARIAH-DE-Föderationsarchitektur: Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen, Bibliothek Forschung und Praxis. Band 40, Heft 2, Seiten 222-228, ISSN (Online) 1865-7648, ISSN (Print) 0341-4183, DOI:
+                    <bibl><rs type="bibl" ref="#bibl__889"><rs type="bibl" ref="#bibl__809"><hi rend="bold">Berendt, B., Büchler, M., Rockwell, G.</hi> (2015) ‘Is it research or is it spying? – Rethinking ethics in Big Data AI and other fields of knowledge science‘, German Journal on Artificial Intelligence. Springer.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__31"><rs type="bibl" ref="#bibl__25"><hi rend="bold">Gradl, T.; Henrich, A.</hi>(2016a): Die DARIAH-DE-Föderationsarchitektur: Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen, Bibliothek Forschung und Praxis. Band 40, Heft 2, Seiten 222-228, ISSN (Online) 1865-7648, ISSN (Print) 0341-4183, DOI:
                         <ref target="https://doi.org/10.1515/bfp-2016-0027">https://doi.org/10.1515/bfp-2016-0027</ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__66"><hi rend="bold">Gradl, T.; Henrich, Andreas </hi>(2016b): „Data Integration for the Arts and Humanities: A Language Theoretical Concept“. In: Fuhr, Norbert et al. (Hg.): Research and Advanced Technology for Digital Libraries: 20th International Conference on Theory and Practice of Digital Libraries, TPDL 2016, Hannover, Germany, September 5‐9, 2016, Proceedings. Cham: Springer International Publishing, S. 281–293</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__810"><hi rend="bold">Panter, S.; Paulmann, Johannes und Margit Szöllösi-Janze</hi> (2015): “Mobility and Biography. Methodological Challenges and Perspectives”, in: Mobility and Biography, hrsg. von Sarah Panter (=Jahrbuch für Europäische Geschichte / European History Yearbook 16 ), Berlin: De Gruyter Oldenbourg, S. 1-14</rs></bibl>
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__78"><rs type="bibl" ref="#bibl__66"><hi rend="bold">Gradl, T.; Henrich, Andreas </hi>(2016b): „Data Integration for the Arts and Humanities: A Language Theoretical Concept“. In: Fuhr, Norbert et al. (Hg.): Research and Advanced Technology for Digital Libraries: 20th International Conference on Theory and Practice of Digital Libraries, TPDL 2016, Hannover, Germany, September 5‐9, 2016, Proceedings. Cham: Springer International Publishing, S. 281–293</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__890"><rs type="bibl" ref="#bibl__810"><hi rend="bold">Panter, S.; Paulmann, Johannes und Margit Szöllösi-Janze</hi> (2015): “Mobility and Biography. Methodological Challenges and Perspectives”, in: Mobility and Biography, hrsg. von Sarah Panter (=Jahrbuch für Europäische Geschichte / European History Yearbook 16 ), Berlin: De Gruyter Oldenbourg, S. 1-14</rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

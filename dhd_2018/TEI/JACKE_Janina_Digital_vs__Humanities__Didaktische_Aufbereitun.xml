@@ -8,7 +8,7 @@
                         <surname>Jacke</surname>
                         <forename>Janina</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
                     <email>janina.jacke@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-horstmann-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__j-c-meister-uni-hamburg-de">
@@ -24,7 +24,7 @@
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
                     <email>j-c-meister@uni-hamburg.de</email>
                 </author>
             </titleStmt>
@@ -233,100 +233,100 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1697"><hi rend="bold">Bailey, Kenneth D. </hi>(1994): 
+                    <bibl><rs type="bibl" ref="#bibl__1751"><rs type="bibl" ref="#bibl__1697"><hi rend="bold">Bailey, Kenneth D. </hi>(1994): 
                         <hi rend="italic">Typologies and Taxonomies. An Introduction to Classification Techniques</hi>. Thousand Oaks/London/New Delhi: Sage Publications.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__113"><hi rend="bold">Bauer, Matthias / Zirker, Angelika </hi>(2015): “Whipping Boys Explained. Literary Annotation and Digital Humanities”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__150"><rs type="bibl" ref="#bibl__113"><hi rend="bold">Bauer, Matthias / Zirker, Angelika </hi>(2015): “Whipping Boys Explained. Literary Annotation and Digital Humanities”, in: 
                         <hi rend="italic">MLA Commons. Literary Studies in the Digital Age</hi>
                         <ref target="https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/">
                             https://dlsanthology.mla.hcommons.org/whipping-boys-explained-literary-annotation-and-digital-humanities/
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1698"><hi rend="bold">Baumann, Timo / Meyer-Sickendiek, Burkhard </hi>(2016): “Large-scale Analysis of Spoken Free-verse Poetry”, in:
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1752"><rs type="bibl" ref="#bibl__1698"><hi rend="bold">Baumann, Timo / Meyer-Sickendiek, Burkhard </hi>(2016): “Large-scale Analysis of Spoken Free-verse Poetry”, in:
                         <hi rend="italic"> Proceedings of LT4DH-Workshop 2016</hi>
                         <ref target="http://edoc.sub.uni-hamburg.de/informatik/volltexte/2016/228/pdf/baumann_large_scale_analysis.pdf">
                             http://edoc.sub.uni-hamburg.de/informatik/volltexte/2016/228/pdf/baumann_large_scale_analysis.pdf
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__158"><hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik </hi>(2015): “Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a Digital Heuristic of Narrative”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__215"><rs type="bibl" ref="#bibl__158"><hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik </hi>(2015): “Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a Digital Heuristic of Narrative”, in: 
                         <hi rend="italic">DHCommons Journal</hi> 1 
                         <ref target="http://dhcommons.org/journal/issue-1/collaborative-text-annotation-meets-machine-learning-heurecl%C3%A9-digital-heuristic">
                             http://dhcommons.org/journal/issue-1/collaborative-text-annotation-meets-machine-learning-heurecl%C3%A9-digital-heuristic
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__162"><hi rend="bold">Brett, Megan R. </hi>(2012): “Topic Modeling. A Basic Introduction”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__220"><rs type="bibl" ref="#bibl__162"><hi rend="bold">Brett, Megan R. </hi>(2012): “Topic Modeling. A Basic Introduction”, in: 
                         <hi rend="italic">Journal of Digital Humanities</hi> 2(1) 
                         <ref target="http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/">
                             http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1699"><hi rend="bold">Brunner, Annelen </hi>(2015): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1753"><rs type="bibl" ref="#bibl__1699"><hi rend="bold">Brunner, Annelen </hi>(2015): 
                         <hi rend="italic">Automatische Erkennung von Redewiedergabe</hi>. Berlin / Boston: de Gruyter (= Narratologia Bd. 47).
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1700"><hi rend="bold">Fiedler, Maik / Weiß, Andreas </hi>(2015): “Von Daten zu Erkenntnissen. Digitale Geisteswissenschaften als Mittler zwischen Information und Interpretation. DHd-Jahrestagung 2015” 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1754"><rs type="bibl" ref="#bibl__1700"><hi rend="bold">Fiedler, Maik / Weiß, Andreas </hi>(2015): “Von Daten zu Erkenntnissen. Digitale Geisteswissenschaften als Mittler zwischen Information und Interpretation. DHd-Jahrestagung 2015” 
                         <ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-6059">
                             http://www.hsozkult.de/conferencereport/id/tagungsberichte-6059
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1701"><hi rend="bold">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer </hi>(2017): “Network Dynamics, Plot Analysis. Approaching the Progressive Structuration of Literary Texts”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1755"><rs type="bibl" ref="#bibl__1701"><hi rend="bold">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer </hi>(2017): “Network Dynamics, Plot Analysis. Approaching the Progressive Structuration of Literary Texts”, in: 
                         <hi rend="italic">Digital Humanities 2017. Conference Abstracts</hi>  
                         <ref target="https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf">
                             https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__134"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__182"><rs type="bibl" ref="#bibl__134"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): “Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse”, in: 
                         <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, Sonderband 1 
                         <ref target="http://www.zfdg.de/sb001_006">
                             http://www.zfdg.de/sb001_006
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__124"><hi rend="bold">Gius, Evelyn / Jacke, Janina </hi>(2017): “The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__166"><rs type="bibl" ref="#bibl__124"><hi rend="bold">Gius, Evelyn / Jacke, Janina </hi>(2017): “The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis”, in: 
                         <hi rend="italic">International Journal of Humanities and Arts Computing</hi> 11(2) 233–254.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__37"><hi rend="bold">Kindt, Tom / Köppe, Tilmann </hi>(2008): “Einleitung”, in: dies. (eds.): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__45"><rs type="bibl" ref="#bibl__37"><hi rend="bold">Kindt, Tom / Köppe, Tilmann </hi>(2008): “Einleitung”, in: dies. (eds.): 
                         <hi rend="italic">Moderne Interpretationstheorien. Ein Reader</hi>. Göttingen: Vandenhoeck &amp; Ruprecht 7–26.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1702"><hi rend="bold">Piez, Wendell </hi>(2010): “Towards Hermeneutic Markup. An Architectural Outline”, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1756"><rs type="bibl" ref="#bibl__1702"><hi rend="bold">Piez, Wendell </hi>(2010): “Towards Hermeneutic Markup. An Architectural Outline”, in: 
                         <hi rend="italic">Digital Humanities 2010. Conference Abstracts</hi>
                         <ref target="http://piez.org/wendell/papers/dh2010/">
                             http://piez.org/wendell/papers/dh2010/
                         </ref> [letzter Zugriff 06. September 2017].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1703"><hi rend="bold">Rybicki, Jan / Eder, Maciej / Hoover, David </hi>(2016): “Computational stylistics and text analysis”, in: Crompton, Constance / Lane, Richard J. / Siemens, Ray (eds.): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1757"><rs type="bibl" ref="#bibl__1703"><hi rend="bold">Rybicki, Jan / Eder, Maciej / Hoover, David </hi>(2016): “Computational stylistics and text analysis”, in: Crompton, Constance / Lane, Richard J. / Siemens, Ray (eds.): 
                         <hi rend="italic">Doing Digital Humanities</hi>. London / New York: Routledge 123–144.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1704"><hi rend="bold">Spörl, Uwe </hi>(2004): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1758"><rs type="bibl" ref="#bibl__1704"><hi rend="bold">Spörl, Uwe </hi>(2004): 
                         <hi rend="italic">Basislexikon Literaturwissenschaft</hi>. 2., durchges. Aufl. Paderborn [u.a.]: Schöningh.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1705"><hi rend="bold">Websites</hi></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__40"><hi rend="bold">3DH </hi>(<ref target="http://www.threedh.net">http://www.threedh.net</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__41"><hi rend="bold">CATMA </hi>(<ref target="http://www.catma.de">http://www.catma.de</ref>) 
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1706"><hi rend="bold">Computational Stylistics Group </hi>(<ref target="https://sites.google.com/site/computationalstylistics/">https://sites.google.com/site/computationalstylistics</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1707"><hi rend="bold">Digital Literary Network Analysis </hi>(<ref target="https://dlina.github.io/about/">https://dlina.github.io/about</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1708"><hi rend="bold">Digitalität in den Fachdidaktiken</hi>. Projektpräsentation im DHd-Blog (
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1759"><rs type="bibl" ref="#bibl__1705"><hi rend="bold">Websites</hi></rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__48"><rs type="bibl" ref="#bibl__40"><hi rend="bold">3DH </hi>(<ref target="http://www.threedh.net">http://www.threedh.net</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__49"><rs type="bibl" ref="#bibl__41"><hi rend="bold">CATMA </hi>(<ref target="http://www.catma.de">http://www.catma.de</ref>) 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1760"><rs type="bibl" ref="#bibl__1706"><hi rend="bold">Computational Stylistics Group </hi>(<ref target="https://sites.google.com/site/computationalstylistics/">https://sites.google.com/site/computationalstylistics</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1761"><rs type="bibl" ref="#bibl__1707"><hi rend="bold">Digital Literary Network Analysis </hi>(<ref target="https://dlina.github.io/about/">https://dlina.github.io/about</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1762"><rs type="bibl" ref="#bibl__1708"><hi rend="bold">Digitalität in den Fachdidaktiken</hi>. Projektpräsentation im DHd-Blog (
                         <ref target="http://dhd-blog.org/?p=6812">
                             http://dhd-blog.org/?p=6812</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__42"><hi rend="bold">forTEXT </hi>(<ref target="http://www.fortext.net">http://www.fortext.net</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__43"><hi rend="bold">heureCLÉA </hi>(<ref target="http://heureclea.de">http://www.heureclea.de</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1709"><hi rend="bold">Redewiedergabe </hi>(<ref target="http://www.redewiedergabe.de/">http://www.redewiedergabe.de</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1710"><hi rend="bold">Rhythmicalizer </hi>(<ref target="http://www.rhythmicalizer.net/">http://www.rhythmicalizer.net</ref>)
-                    </rs></bibl>
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__50"><rs type="bibl" ref="#bibl__42"><hi rend="bold">forTEXT </hi>(<ref target="http://www.fortext.net">http://www.fortext.net</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__51"><rs type="bibl" ref="#bibl__43"><hi rend="bold">heureCLÉA </hi>(<ref target="http://heureclea.de">http://www.heureclea.de</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1763"><rs type="bibl" ref="#bibl__1709"><hi rend="bold">Redewiedergabe </hi>(<ref target="http://www.redewiedergabe.de/">http://www.redewiedergabe.de</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1764"><rs type="bibl" ref="#bibl__1710"><hi rend="bold">Rhythmicalizer </hi>(<ref target="http://www.rhythmicalizer.net/">http://www.rhythmicalizer.net</ref>)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1711"><ref target="http://dhd-blog.org/?p=8138"><hi rend="bold">SANTA</hi>: Shared Task on the Analysis of Narrative levels Through Annotation (</ref>
+                        <rs type="bibl" ref="#bibl__1765"><rs type="bibl" ref="#bibl__1711"><ref target="http://dhd-blog.org/?p=8138"><hi rend="bold">SANTA</hi>: Shared Task on the Analysis of Narrative levels Through Annotation (</ref>
                         <ref target="https://sharedtasksinthedh.github.io/">https://sharedtasksinthedh.github.io/</ref><ref target="http://dhd-blog.org/?p=8138">)</ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1712"><hi rend="bold">TAPoR</hi> (<ref target="http://www.tapor.ca">http://www.tapor.ca</ref>)
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1713"><hi rend="bold">TEI Feature Structures</hi> (<ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html">http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html</ref>)
-                    </rs></bibl>
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1766"><rs type="bibl" ref="#bibl__1712"><hi rend="bold">TAPoR</hi> (<ref target="http://www.tapor.ca">http://www.tapor.ca</ref>)
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1767"><rs type="bibl" ref="#bibl__1713"><hi rend="bold">TEI Feature Structures</hi> (<ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html">http://www.tei-c.org/release/doc/tei-p5-doc/de/html/FS.html</ref>)
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

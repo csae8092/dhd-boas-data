@@ -8,7 +8,7 @@
                         <surname>König</surname>
                         <forename>Mareike</forename>
                     </persName>
-                    <affiliation ref="#org__232">Deutsches Historisches Institut Paris, Frankreich</affiliation>
+                    <affiliation ref="#org__328">Deutsches Historisches Institut Paris, Frankreich</affiliation>
                     <email>mkoenig@dhi-paris.fr</email>
                 </author>
                 <author ref="#person__menke-maxweberstiftung-de">
@@ -16,7 +16,7 @@
                         <surname>Menke</surname>
                         <forename>Ulla</forename>
                     </persName>
-                    <affiliation ref="#org__44">Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__58">Max Weber Stiftung</affiliation>
                     <email>menke@maxweberstiftung.de</email>
                 </author>
             </titleStmt>
@@ -93,33 +93,33 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2030"><hi rend="bold">König, Mareike</hi> (2013): „Die Entdeckung der Vielfalt: Geschichtsblogs auf der internationalen Plattform hypotheses.org“ in: Peter Haber / Eva Pfanzelter (eds.), Historyblogosphere. Bloggen in den Geschichtswissenschaften. München: Oldenbourg 181–197. 
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3271"><rs type="bibl" ref="#bibl__2030"><hi rend="bold">König, Mareike</hi> (2013): „Die Entdeckung der Vielfalt: Geschichtsblogs auf der internationalen Plattform hypotheses.org“ in: Peter Haber / Eva Pfanzelter (eds.), Historyblogosphere. Bloggen in den Geschichtswissenschaften. München: Oldenbourg 181–197. 
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2031"><hi rend="bold">König, Mareike</hi> (2015): „Herausforderung für unsere Wissenschaftskultur: Weblogs in den Geisteswissenschaften“ in: Wolfgang Schmale (ed.), Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität. Stuttgart: Steiner 57-74.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3272"><rs type="bibl" ref="#bibl__2031"><hi rend="bold">König, Mareike</hi> (2015): „Herausforderung für unsere Wissenschaftskultur: Weblogs in den Geisteswissenschaften“ in: Wolfgang Schmale (ed.), Digital Humanities. Praktiken der Digitalisierung, der Dissemination und der Selbstreflexivität. Stuttgart: Steiner 57-74.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2032"><hi rend="bold">Scherz, Sabine</hi> (2013a): „Warum sollte ich als Wissenschaftler/in bloggen?“ in Redaktionsblog, 21.5.2013, 
+                        <rs type="bibl" ref="#bibl__3273"><rs type="bibl" ref="#bibl__2032"><hi rend="bold">Scherz, Sabine</hi> (2013a): „Warum sollte ich als Wissenschaftler/in bloggen?“ in Redaktionsblog, 21.5.2013, 
                         <ref target="https://redaktionsblog.hypotheses.org/1209">https://redaktionsblog.hypotheses.org/1209</ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2033"><hi rend="bold">Scherz, Sabine</hi> (2013b): „Mein erster wissenschaftlicher Blogartikel – was schreibe ich bloß?“ in Redaktionsblog, 24.5.2013, 
+                        <rs type="bibl" ref="#bibl__3274"><rs type="bibl" ref="#bibl__2033"><hi rend="bold">Scherz, Sabine</hi> (2013b): „Mein erster wissenschaftlicher Blogartikel – was schreibe ich bloß?“ in Redaktionsblog, 24.5.2013, 
                         <ref target="https://redaktionsblog.hypotheses.org/1214">https://redaktionsblog.hypotheses.org/1214</ref>. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2034"><hi rend="bold">Scherz, Sabine</hi> (2013c): „Wie finde ich Themen für mein Wissenschaftsblog?“ in Redaktionsblog, 28.5.2013, 
+                        <rs type="bibl" ref="#bibl__3275"><rs type="bibl" ref="#bibl__2034"><hi rend="bold">Scherz, Sabine</hi> (2013c): „Wie finde ich Themen für mein Wissenschaftsblog?“ in Redaktionsblog, 28.5.2013, 
                         <ref target="https://redaktionsblog.hypotheses.org/1217">https://redaktionsblog.hypotheses.org/1217</ref>. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2035"><hi rend="bold">Scherz, Sabine</hi> (2013d): „Texte für das Wissenschaftsblog schreiben, wie?2 in Redaktionsblog, 5.6.2013, 
+                        <rs type="bibl" ref="#bibl__3276"><rs type="bibl" ref="#bibl__2035"><hi rend="bold">Scherz, Sabine</hi> (2013d): „Texte für das Wissenschaftsblog schreiben, wie?2 in Redaktionsblog, 5.6.2013, 
                         <ref target="https://redaktionsblog.hypotheses.org/1220">https://redaktionsblog.hypotheses.org/1220</ref>. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2036"><hi rend="bold">Mounier, Pierre</hi> (2013): „Die Werkstatt öffnen: Geschichtsschreibung in Blogs und sozialen Medien“, in: Peter Haber / Eva Pfanzelter (eds.), Historyblogosphere. Bloggen in den Geschichtswissenschaften. München: Oldenbourg 51-59.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3277"><rs type="bibl" ref="#bibl__2036"><hi rend="bold">Mounier, Pierre</hi> (2013): „Die Werkstatt öffnen: Geschichtsschreibung in Blogs und sozialen Medien“, in: Peter Haber / Eva Pfanzelter (eds.), Historyblogosphere. Bloggen in den Geschichtswissenschaften. München: Oldenbourg 51-59.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2037"><hi rend="bold">Ullyot, Michael</hi> (2012): “On Blogging in the Digital Humanities” in: Ullyot, http://ullyot.ucalgaryblogs.ca/2012/02/24/on-blogging-in-the-digital-humanities/.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3278"><rs type="bibl" ref="#bibl__2037"><hi rend="bold">Ullyot, Michael</hi> (2012): “On Blogging in the Digital Humanities” in: Ullyot, http://ullyot.ucalgaryblogs.ca/2012/02/24/on-blogging-in-the-digital-humanities/.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -11,7 +11,7 @@
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
                     </persName>
-                    <affiliation ref="#org__42">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>svenjasimone.guhr@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__hanna-varachkina-stud-uni-goettingen-de">
@@ -19,7 +19,7 @@
                         <surname>Varachkina</surname>
                         <forename>Hanna</forename>
                     </persName>
-                    <affiliation ref="#org__42">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>hanna.varachkina@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__geumbi-lee-stud-uni-goettingen-de">
@@ -27,7 +27,7 @@
                         <surname>Lee</surname>
                         <forename>Geumbi</forename>
                     </persName>
-                    <affiliation ref="#org__42">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>geumbi.lee@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__csporled-gwdg-de">
@@ -35,7 +35,7 @@
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
-                    <affiliation ref="#org__42">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>csporled@gwdg.de</email>
                 </author>
             </titleStmt>
@@ -128,60 +128,60 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2266"><hi rend="color(#1d1d1d)bold">Anz, Thomas</hi>
+                        <rs type="bibl" ref="#bibl__3503"><rs type="bibl" ref="#bibl__2266"><hi rend="color(#1d1d1d)bold">Anz, Thomas</hi>
                         <hi rend="color(#1d1d1d)"> (2016</hi>
                         <hi rend="color(#1d1d1d)">2</hi>
                         <hi rend="color(#1d1d1d)">): Literatur des Expressionismus, Springer-Verlag GmbH Deutschland.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2267"><hi rend="color(#000000)bold">Bakhtin, Mikhail</hi>
+                        <rs type="bibl" ref="#bibl__3504"><rs type="bibl" ref="#bibl__2267"><hi rend="color(#000000)bold">Bakhtin, Mikhail</hi>
                         <hi rend="color(#000000)"> (1981): „Forms of Time and of the Chronotope in the Novel.“ in: </hi>
                         <hi rend="color(#000000)italic">The Dialogic Imagination, </hi>
                         <hi rend="color(#000000)">Texas: University of Texas Press.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2268"><hi rend="color(#1d1d1d)bold">Chapman, Raymond</hi>
+                        <rs type="bibl" ref="#bibl__3505"><rs type="bibl" ref="#bibl__2268"><hi rend="color(#1d1d1d)bold">Chapman, Raymond</hi>
                         <hi rend="color(#1d1d1d)"> (1984): The Treatment of Sounds in Language and Literature, Basil Oxford: Blackwell Publisher Limited. </hi>
                         <hi rend="color(#000000)bold"> </hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2269"><hi rend="color(#000000)bold">Dahl, Alva</hi>
+                        <rs type="bibl" ref="#bibl__3506"><rs type="bibl" ref="#bibl__2269"><hi rend="color(#000000)bold">Dahl, Alva</hi>
                         <hi rend="color(#000000)"> (2014): The separation of voices in a literary utterance: a dialogical approach to discourse presentation, viewpoint, focalization – and punctuation, Online Proceedings of the Annual Conference of the Poetics and Linguistics Association (PALA).</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2270"><hi rend="color(#141213)bold">Delazari, Ivan</hi>
+                        <rs type="bibl" ref="#bibl__3507"><rs type="bibl" ref="#bibl__2270"><hi rend="color(#141213)bold">Delazari, Ivan</hi>
                         <hi rend="color(#000000)"> (2016): </hi>
                         <hi rend="color(#141213)">Voicing the Split Narrator: Readers’ Chores in Toni Morrison’s “Recitatif”, in: Mildorf, Jarmila / Kinzel, Till (2016): Audionarratology. Interfaces of Sound and Narrative, De Gruyter.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2271"><hi rend="color(#141414)bold">Genette, Gérard</hi>
+                        <rs type="bibl" ref="#bibl__3508"><rs type="bibl" ref="#bibl__2271"><hi rend="color(#141414)bold">Genette, Gérard</hi>
                         <hi rend="color(#141414)"> (1969): Figures. Essais, Paris: Editions du Seuil.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2272"><hi rend="color(#000000)bold">Katsma, Holst</hi>
+                        <rs type="bibl" ref="#bibl__3509"><rs type="bibl" ref="#bibl__2272"><hi rend="color(#000000)bold">Katsma, Holst</hi>
                         <hi rend="color(#000000)"> (2014): Loudness in the Novel, Stanford, US: Standford Literary Lab.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2273"><hi rend="color(#000000)bold">Kuzmičová</hi>
+                        <rs type="bibl" ref="#bibl__3510"><rs type="bibl" ref="#bibl__2273"><hi rend="color(#000000)bold">Kuzmičová</hi>
                         <hi rend="color(#000000)">, </hi>
                         <hi rend="color(#000000)bold">Anežka</hi>
                         <hi rend="color(#000000)">  (2013): Outer vs. Inner Reverberations: Verbal Auditory Imagery and Meaning-Making in Literary Narrative, Journal of Literary Theory 7 (1-2): 111-134, https://philpapers.org/archive/KUZOVI.pdf (04.01.2019).</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2274"><hi rend="color(#000000)bold">LimeSurvey </hi>
+                        <rs type="bibl" ref="#bibl__3511"><rs type="bibl" ref="#bibl__2274"><hi rend="color(#000000)bold">LimeSurvey </hi>
                         <hi rend="color(#000000)">(2018): LimeSurvey Manual, https://manual.limesurvey.org/LimeSurvey_Manual.</hi>
                         <hi rend="color(#000000)bold"> </hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2275"><hi rend="color(#141213)bold">Mildorf, Jarmila</hi>
+                        <rs type="bibl" ref="#bibl__3512"><rs type="bibl" ref="#bibl__2275"><hi rend="color(#141213)bold">Mildorf, Jarmila</hi>
                         <hi rend="color(#141213)"> / </hi>
                         <hi rend="color(#141213)bold">Kinzel, Till</hi>
                         <hi rend="color(#141213)"> (2016)</hi>
                         <hi rend="color(#000000)">: </hi>
                         <hi rend="color(#141213)">Audionarratology: Prolegomena to a Research Paradigm Exploring Sound and Narrative, in: Mildorf, Jarmila / Kinzel, Till (2016): Audionarratology. Interfaces of Sound and Narrative, De Gruyter.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2276"><hi rend="color(#000000)bold">Nord</hi>
+                        <rs type="bibl" ref="#bibl__3513"><rs type="bibl" ref="#bibl__2276"><hi rend="color(#000000)bold">Nord</hi>
                         <hi rend="color(#000000)">, </hi>
                         <hi rend="color(#000000)bold">Christiane</hi>
                         <hi rend="color(#000000)"> (1997): Alice abroad: Dealing with descriptions and transcriptions of paralanguage in literary translation , in: </hi>
@@ -189,13 +189,13 @@
                         <hi rend="color(#000000)">, </hi>
                         <hi rend="color(#000000)bold">Fernando</hi>
                         <hi rend="color(#000000)"> (1997): Nonverbal Communication and Translation: New Perspectives and Challenges in Literature, Interpretation and the Media, Amsterdam/Philadelphia: John Benjamins Publishing Company, 107-130.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2277"><hi rend="color(#000000)bold">Scarry, Elaine</hi>
+                        <rs type="bibl" ref="#bibl__3514"><rs type="bibl" ref="#bibl__2277"><hi rend="color(#000000)bold">Scarry, Elaine</hi>
                         <hi rend="color(#000000)"> (2001): Dreaming by the Book, Princeton: Princeton UP.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__108"><hi rend="color(#000000)bold">Schmid, Helmut</hi>
+                        <rs type="bibl" ref="#bibl__147"><rs type="bibl" ref="#bibl__108"><hi rend="color(#000000)bold">Schmid, Helmut</hi>
                         <hi rend="color(#000000)"> (1994):</hi>
                         <hi rend="color(#000000)italic"> </hi>
                         <hi rend="color(#000000)">„Probabilistic Part-of-Speech Tagging Using Decision Trees.“</hi>
@@ -203,11 +203,11 @@
                         <hi rend="color(#000000)">in: </hi>
                         <hi rend="color(#000000)italic">Proceedings of International Conference on New Methods in Language Processing, </hi>
                         <hi rend="color(#000000)">Manchester, UK.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2278"><hi rend="color(#000000)bold">Winkler, Edeltraud</hi>
+                        <rs type="bibl" ref="#bibl__3515"><rs type="bibl" ref="#bibl__2278"><hi rend="color(#000000)bold">Winkler, Edeltraud</hi>
                         <hi rend="color(#000000)"> (1987): Syntaktische und semantische Eigenschaften von Verba Dicendi, Akademie der Wissenschaften, DDR.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -11,7 +11,7 @@
                         <surname>Pohl</surname>
                         <forename>Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>opohl@bbaw.de</email>
                 </author>
                 <author ref="#person__teodora-dogaru-bbaw-de">
@@ -19,7 +19,7 @@
                         <surname>Dogaru</surname>
                         <forename>Teodora</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>teodora.dogaru@bbaw.de</email>
                 </author>
                 <author ref="#person__jonas-mueller-laackman-bbaw-de">
@@ -27,7 +27,7 @@
                         <surname>Müller-Laackman</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>jonas.mueller-laackman@bbaw.de</email>
                 </author>
             </titleStmt>

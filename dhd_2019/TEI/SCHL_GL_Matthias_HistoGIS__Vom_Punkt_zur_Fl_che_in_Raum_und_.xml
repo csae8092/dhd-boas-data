@@ -11,7 +11,7 @@
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__18">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>matthias.schloegl@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__peter-andorfer-oeaw-ac-at">
@@ -19,7 +19,7 @@
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__18">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>peter.andorfer@oeaw.ac.at</email>
                 </author>
             </titleStmt>
@@ -108,8 +108,8 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Kamzelak, Roland S. (2018) “Von der Raupe zum Schmetterling oder Wie fliegen lernen – Editionsphilologie zwischen Infrastruktur und Semantic Web.” In: Kamzelak, Roland S / Steyer, Timo (eds.): Digitale Metamorphose: Digital Humanities und Editionswissenschaft. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2). text/html Format. DOI: 10.17175/sb002_004 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__1893"/></bibl>
-                    <bibl>Nüssli, Marc-Antoine / Nüssli, Christos (2017): “A formal model for historical atlases and historical knowledge”, http://www.academia.edu/35853762 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__1894"/></bibl>
+                    <bibl>Kamzelak, Roland S. (2018) “Von der Raupe zum Schmetterling oder Wie fliegen lernen – Editionsphilologie zwischen Infrastruktur und Semantic Web.” In: Kamzelak, Roland S / Steyer, Timo (eds.): Digitale Metamorphose: Digital Humanities und Editionswissenschaft. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2). text/html Format. DOI: 10.17175/sb002_004 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__3136"><rs type="bibl" ref="#bibl__1893"/></rs></bibl>
+                    <bibl>Nüssli, Marc-Antoine / Nüssli, Christos (2017): “A formal model for historical atlases and historical knowledge”, http://www.academia.edu/35853762 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__3137"><rs type="bibl" ref="#bibl__1894"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

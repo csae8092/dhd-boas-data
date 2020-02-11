@@ -8,7 +8,7 @@
                         <surname>Hannesschläger</surname>
                         <forename>Vanessa</forename>
                     </persName>
-                    <affiliation ref="#org__18">OEAW Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">OEAW Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>vanessa.hannesschlaeger@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__peter-andorfer-oeaw-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__18">OEAW Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__26">OEAW Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>peter.andorfer@oeaw.ac.at</email>
                 </author>
             </titleStmt>
@@ -116,44 +116,44 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__529"><hi rend="bold">Peter Andorfer, Vanessa Hannesschläger </hi>(2017): TEI Abstracts 2016. A little application to publish the abstracts of the TEI conference 2016. 
+                    <bibl><rs type="bibl" ref="#bibl__624"><rs type="bibl" ref="#bibl__529"><hi rend="bold">Peter Andorfer, Vanessa Hannesschläger </hi>(2017): TEI Abstracts 2016. A little application to publish the abstracts of the TEI conference 2016. 
                         <ref target="http://tei2016app.acdh.oeaw.ac.at/">http://tei2016app.acdh.oeaw.ac.at/
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__530"><hi rend="bold">Judith Butler </hi>(1988): Performative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory. In: Theatre Journal 40:4, 519–531.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__531"><hi rend="bold">Judith Butler </hi>(2010): Performative Agency. In: Journal of Cultural Economy 3:2, 147–161.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__532"><hi rend="bold">Genderchecker</hi>: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__625"><rs type="bibl" ref="#bibl__530"><hi rend="bold">Judith Butler </hi>(1988): Performative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory. In: Theatre Journal 40:4, 519–531.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__626"><rs type="bibl" ref="#bibl__531"><hi rend="bold">Judith Butler </hi>(2010): Performative Agency. In: Journal of Cultural Economy 3:2, 147–161.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__627"><rs type="bibl" ref="#bibl__532"><hi rend="bold">Genderchecker</hi>: 
                         <ref target="http://genderchecker.com/">http://genderchecker.com/
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__533"><hi rend="bold">genderize.io: Determine the gender of a first name</hi>. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__628"><rs type="bibl" ref="#bibl__533"><hi rend="bold">genderize.io: Determine the gender of a first name</hi>. 
                         <ref target="https://genderize.io/">https://genderize.io/
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__534"><hi rend="bold">Vanessa Hannesschläger, Daniel Schopper (Hg.) </hi>(2017): TEI Conference and Members’ Meeting 2016. Book of Abstracts [XML/TEI files]. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__629"><rs type="bibl" ref="#bibl__534"><hi rend="bold">Vanessa Hannesschläger, Daniel Schopper (Hg.) </hi>(2017): TEI Conference and Members’ Meeting 2016. Book of Abstracts [XML/TEI files]. 
                         <ref target="https://github.com/acdh-oeaw/TEI2016abstracts">https://github.com/acdh-oeaw/TEI2016abstracts
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__535"><hi rend="bold">Stefan Hirschauer </hi>(1994): Die soziale Fortpflanzung der Zwei-Geschlechtlichkeit. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie 46:4, 668–692.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__536"><hi rend="bold">Stefan Hirschauer </hi>(2001): Das Vergessen des Geschlechts: Zur Praxeologie einer Kategorie sozialer Ordnung. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie (Sonderheft 41), 208–235.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__537"><hi rend="bold">Mark Kantrowitz </hi>(1997): Name Corpus: List of Male, Female, and Pet names. CMU Artificial Intelligence Repository. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__630"><rs type="bibl" ref="#bibl__535"><hi rend="bold">Stefan Hirschauer </hi>(1994): Die soziale Fortpflanzung der Zwei-Geschlechtlichkeit. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie 46:4, 668–692.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__631"><rs type="bibl" ref="#bibl__536"><hi rend="bold">Stefan Hirschauer </hi>(2001): Das Vergessen des Geschlechts: Zur Praxeologie einer Kategorie sozialer Ordnung. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie (Sonderheft 41), 208–235.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__632"><rs type="bibl" ref="#bibl__537"><hi rend="bold">Mark Kantrowitz </hi>(1997): Name Corpus: List of Male, Female, and Pet names. CMU Artificial Intelligence Repository. 
                         <ref target="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/">http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__538"><hi rend="bold">Natural Language Toolkit </hi>(NLTK). 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__633"><rs type="bibl" ref="#bibl__538"><hi rend="bold">Natural Language Toolkit </hi>(NLTK). 
                         <ref target="http://www.nltk.org/">http://www.nltk.org/
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__539"><hi rend="bold">Susanne Oelkers </hi>(2003): Naming gender. Empirische Untersuchungen zur phonologischen Struktur von Vornamen im Deutschen. Frankfurt a. M.: Lang.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__540"><hi rend="bold">TEI Consortium </hi>(2017): TEI P5: Guidelines for Electronic Text Encoding and Interchange. 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__634"><rs type="bibl" ref="#bibl__539"><hi rend="bold">Susanne Oelkers </hi>(2003): Naming gender. Empirische Untersuchungen zur phonologischen Struktur von Vornamen im Deutschen. Frankfurt a. M.: Lang.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__58"><rs type="bibl" ref="#bibl__540"><hi rend="bold">TEI Consortium </hi>(2017): TEI P5: Guidelines for Electronic Text Encoding and Interchange. 
                         <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf">http://www.tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__541"><hi rend="bold">Virtual International Authority File </hi>(VIAF). 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__635"><rs type="bibl" ref="#bibl__541"><hi rend="bold">Virtual International Authority File </hi>(VIAF). 
                         <ref target="https://viaf.org/">https://viaf.org/
                         </ref>
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__542"><hi rend="bold">Candance West, Don Zimmerman </hi>(1987): Doing Gender. In: Gender and Society 1:2, 125–151.</rs></bibl>
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__636"><rs type="bibl" ref="#bibl__542"><hi rend="bold">Candance West, Don Zimmerman </hi>(1987): Doing Gender. In: Gender and Society 1:2, 125–151.</rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

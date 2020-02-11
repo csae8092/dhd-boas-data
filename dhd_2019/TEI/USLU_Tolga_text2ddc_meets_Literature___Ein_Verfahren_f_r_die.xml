@@ -8,7 +8,7 @@
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__uslu-em-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>uslu@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__gleim-em-uni-frankfurt-de">
@@ -24,7 +24,7 @@
                         <surname>Gleim</surname>
                         <forename>Rüdiger</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>gleim@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__baumartz-stud-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Baumartz</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe University of Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe University of Frankfurt, Deutschland</affiliation>
                     <email>baumartz@stud.uni-frankfurt.de</email>
                 </author>
             </titleStmt>
@@ -116,23 +116,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2655"><hi rend="bold color(444444)">T. Uslu, A. Mehler, A. Niekler, and W. Hemati</hi>
+                        <rs type="bibl" ref="#bibl__3887"><rs type="bibl" ref="#bibl__2655"><hi rend="bold color(444444)">T. Uslu, A. Mehler, A. Niekler, and W. Hemati</hi>
                         <hi rend="color(444444)" xml:space="preserve"> (2018): “Towards a DDC-based Topic Network Model of Wikipedia”, in </hi>
                         <hi rend="italic color(444444)">Proceedings of 2nd International Workshop on Modeling, Analysis, and Management of Social Networks and their Applications (SOCNET 2018), February 28, 2018</hi>
                         <hi rend="color(444444)">, 2018. </hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2656"><hi rend="bold color(444444)">T. Uslu and A. Mehler</hi>
+                        <rs type="bibl" ref="#bibl__3888"><rs type="bibl" ref="#bibl__2656"><hi rend="bold color(444444)">T. Uslu and A. Mehler</hi>
                         <hi rend="color(444444)">(2018): “PolyViz: a Visualization System for a Special Kind of Multipartite Graphs”, in </hi>
                         <hi rend="italic color(444444)">Proceedings of the IEEE VIS 2018</hi>
                         <hi rend="color(444444)">.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2657"><hi rend="bold color(444444)">D. Baumartz, T. Uslu, and A. Mehler</hi>
+                        <rs type="bibl" ref="#bibl__3889"><rs type="bibl" ref="#bibl__2657"><hi rend="bold color(444444)">D. Baumartz, T. Uslu, and A. Mehler</hi>
                         <hi rend="color(444444)">(2018): “LTV: Labeled Topic Vector”, in </hi>
                         <hi rend="italic color(444444)">Proceedings of COLING 2018, the 27th International Conference on Computational Linguistics: System Demonstrations, August 20-26</hi>
                         <hi rend="color(444444)">, Santa Fe, New Mexico, USA.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

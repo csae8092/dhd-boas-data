@@ -8,7 +8,7 @@
                         <surname>Koch</surname>
                         <forename>Gertraud</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
                     <email>gertraud.koch@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__lina-franken-uni-hamburg-de">
@@ -16,7 +16,7 @@
                         <surname>Franken</surname>
                         <forename>Lina</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
                     <email>lina.franken@uni-hamburg.de</email>
                 </author>
             </titleStmt>
@@ -126,20 +126,20 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl rend="Lina Fließtext">Bryant, Antony; Charmaz, Kathy (Hg.): The SAGE handbook of Grounded Theory. Los Angeles 2007.<rs type="bibl" ref="#bibl__1993"/></bibl>
-                    <bibl rend="Lina Fließtext">Foucault, Michel: Archäologie des Wissens. Frankfurt a.M. 1973.<rs type="bibl" ref="#bibl__1994"/></bibl>
-                    <bibl rend="Lina Fließtext">Foucault, Michel: Die Ordnung des Diskurses. Frankfurt a.M. 1991 [1971].<rs type="bibl" ref="#bibl__1995"/></bibl>
-                    <bibl rend="Lina Fließtext">Keller, Reiner: Wissenssoziologische Diskursanalyse. Grundlegung eines Forschungsprogramms. 3. Auflage Wiesbaden 2011 [2005].<rs type="bibl" ref="#bibl__1996"/></bibl>
-                    <bibl rend="Lina Fließtext">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike: Project Descripition. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.<rs type="bibl" ref="#bibl__165"/></bibl>
-                    <bibl rend="Lina Fließtext">Glaser, Barney G.: Theoretical Sensitivity. Advances in the Methodology of Grounded Theory. Mill Valley, Calif. 1978.<rs type="bibl" ref="#bibl__1997"/></bibl>
-                    <bibl rend="Lina Fließtext">Gasteiger, Ludwig; Schneider, Werner: Diskursanalyse und die Verwendung von CAQDA-Software. In: Angermuller, Johannes; Nonhoff, Martin; Herschinger, Eva; Macgilchrist, Felicitas; Reisigl, Martin; Wedl, Juliette; Wrana, Daniel; Ziem, Alexander (Hg.): Diskursforschung. Ein interdisziplinäres Handbuch. Band 2: Methoden und Analysepraxis, Perspektiven auf Hochschulreformdiskurse. Bielefeld 2014, S. 852–872.<rs type="bibl" ref="#bibl__1998"/></bibl>
-                    <bibl rend="Lina Fließtext">Glaser, Barney G.; Strauss, Anselm L.: Grounded Theory. Strategien qualitativer Forschung. Bern 2010 [1967].<rs type="bibl" ref="#bibl__1999"/></bibl>
-                    <bibl rend="Lina Fließtext">Glasersfeld, Ernst von: Radikaler Konstruktivismus. Frankfurt 1997.<rs type="bibl" ref="#bibl__2000"/></bibl>
-                    <bibl rend="Lina Fließtext">Götzö, Monika: Theoriebildung nach Grounded Theory. In: Bischoff, Christine; Oehme-Jüngling, Karoline; Leimgruber, Walter (Hg.): Methoden der Kulturanthropologie. Bern 2014, S. 444–458.<rs type="bibl" ref="#bibl__2001"/></bibl>
-                    <bibl rend="Lina Fließtext">Keller, Reiner: Wissenssoziologische Diskursanalyse. Grundlegung eines Forschungsprogramms. 3. Auflage Wiesbaden 2011 [2005].<rs type="bibl" ref="#bibl__2002"/></bibl>
-                    <bibl rend="Lina Fließtext">Klinke, Harald: Information Retrieval. In: Jannidis, Fotis; Kohle, Hubertus; Rehbein, Malte (Hg.): Digital Humanities. Eine Einführung. Stuttgart 2017, S. 268–278.<rs type="bibl" ref="#bibl__2003"/></bibl>
-                    <bibl rend="Lina Fließtext">Manning, Christopher D.; Raghavan, Prabhakar; Schütze, Hinrich: Introduction to Information Retrieval. Cambridge 2009.<rs type="bibl" ref="#bibl__2004"/></bibl>
-                    <bibl rend="Lina Fließtext">Sattler, Simone: Computergestützte qualitative Datenbearbeitung. In: Bischoff, Christine; Oehme-Jüngling, Karoline; Leimgruber, Walter (Hg.): Methoden der Kulturanthropologie. Bern 2014, S. 476–487.<rs type="bibl" ref="#bibl__2005"/></bibl>
+                    <bibl rend="Lina Fließtext">Bryant, Antony; Charmaz, Kathy (Hg.): The SAGE handbook of Grounded Theory. Los Angeles 2007.<rs type="bibl" ref="#bibl__3235"><rs type="bibl" ref="#bibl__1993"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Foucault, Michel: Archäologie des Wissens. Frankfurt a.M. 1973.<rs type="bibl" ref="#bibl__3236"><rs type="bibl" ref="#bibl__1994"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Foucault, Michel: Die Ordnung des Diskurses. Frankfurt a.M. 1991 [1971].<rs type="bibl" ref="#bibl__3237"><rs type="bibl" ref="#bibl__1995"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Keller, Reiner: Wissenssoziologische Diskursanalyse. Grundlegung eines Forschungsprogramms. 3. Auflage Wiesbaden 2011 [2005].<rs type="bibl" ref="#bibl__3238"><rs type="bibl" ref="#bibl__1996"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike: Project Descripition. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.<rs type="bibl" ref="#bibl__272"><rs type="bibl" ref="#bibl__165"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Glaser, Barney G.: Theoretical Sensitivity. Advances in the Methodology of Grounded Theory. Mill Valley, Calif. 1978.<rs type="bibl" ref="#bibl__3239"><rs type="bibl" ref="#bibl__1997"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Gasteiger, Ludwig; Schneider, Werner: Diskursanalyse und die Verwendung von CAQDA-Software. In: Angermuller, Johannes; Nonhoff, Martin; Herschinger, Eva; Macgilchrist, Felicitas; Reisigl, Martin; Wedl, Juliette; Wrana, Daniel; Ziem, Alexander (Hg.): Diskursforschung. Ein interdisziplinäres Handbuch. Band 2: Methoden und Analysepraxis, Perspektiven auf Hochschulreformdiskurse. Bielefeld 2014, S. 852–872.<rs type="bibl" ref="#bibl__3240"><rs type="bibl" ref="#bibl__1998"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Glaser, Barney G.; Strauss, Anselm L.: Grounded Theory. Strategien qualitativer Forschung. Bern 2010 [1967].<rs type="bibl" ref="#bibl__3241"><rs type="bibl" ref="#bibl__1999"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Glasersfeld, Ernst von: Radikaler Konstruktivismus. Frankfurt 1997.<rs type="bibl" ref="#bibl__3242"><rs type="bibl" ref="#bibl__2000"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Götzö, Monika: Theoriebildung nach Grounded Theory. In: Bischoff, Christine; Oehme-Jüngling, Karoline; Leimgruber, Walter (Hg.): Methoden der Kulturanthropologie. Bern 2014, S. 444–458.<rs type="bibl" ref="#bibl__3243"><rs type="bibl" ref="#bibl__2001"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Keller, Reiner: Wissenssoziologische Diskursanalyse. Grundlegung eines Forschungsprogramms. 3. Auflage Wiesbaden 2011 [2005].<rs type="bibl" ref="#bibl__3244"><rs type="bibl" ref="#bibl__2002"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Klinke, Harald: Information Retrieval. In: Jannidis, Fotis; Kohle, Hubertus; Rehbein, Malte (Hg.): Digital Humanities. Eine Einführung. Stuttgart 2017, S. 268–278.<rs type="bibl" ref="#bibl__3245"><rs type="bibl" ref="#bibl__2003"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Manning, Christopher D.; Raghavan, Prabhakar; Schütze, Hinrich: Introduction to Information Retrieval. Cambridge 2009.<rs type="bibl" ref="#bibl__137"><rs type="bibl" ref="#bibl__2004"/></rs></bibl>
+                    <bibl rend="Lina Fließtext">Sattler, Simone: Computergestützte qualitative Datenbearbeitung. In: Bischoff, Christine; Oehme-Jüngling, Karoline; Leimgruber, Walter (Hg.): Methoden der Kulturanthropologie. Bern 2014, S. 476–487.<rs type="bibl" ref="#bibl__3246"><rs type="bibl" ref="#bibl__2005"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

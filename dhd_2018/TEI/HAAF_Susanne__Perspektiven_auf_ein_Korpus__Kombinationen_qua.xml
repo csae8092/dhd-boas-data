@@ -8,7 +8,7 @@
                         <surname>Haaf</surname>
                         <forename>Susanne</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wisesnschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wisesnschaften, Deutschland</affiliation>
                     <email>haaf@bbaw.de</email>
                 </author>
             </titleStmt>
@@ -111,32 +111,32 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__670"><hi rend="italic">Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache.</hi> Herausgegeben von der Berlin-Brandenburgischen Akademie der Wissenschaften, Berlin 2017. http://www.deutschestextarchiv.de [letzter Zugriff: 24.09.2017]
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__764"><rs type="bibl" ref="#bibl__670"><hi rend="italic">Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache.</hi> Herausgegeben von der Berlin-Brandenburgischen Akademie der Wissenschaften, Berlin 2017. http://www.deutschestextarchiv.de [letzter Zugriff: 24.09.2017]
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__671"><hi rend="bold">Haaf, Susanne</hi> (i. Vorb.): „Art und Funktion von typographischen Mitteln zur Textgliederung in erbaulichen Textsorten des 17. Jahrhunderts. Automatische Analyse im Korpusvergleich und qualitative Einordnung“, in: Simmler, Franz / Baeva, Galina (Hrsg.): 
+                        <rs type="bibl" ref="#bibl__765"><rs type="bibl" ref="#bibl__671"><hi rend="bold">Haaf, Susanne</hi> (i. Vorb.): „Art und Funktion von typographischen Mitteln zur Textgliederung in erbaulichen Textsorten des 17. Jahrhunderts. Automatische Analyse im Korpusvergleich und qualitative Einordnung“, in: Simmler, Franz / Baeva, Galina (Hrsg.): 
                         <hi rend="italic">Textgliederungsprinzipien. Ihre Kennzeichnungsformen und Funktionen vom 8. bis 18. Jahrhundert. Akten zum Internationalen Kongress vom 22. bis 24. Juni 2017 an der Universität St. Petersburg</hi>. Berlin: Weidler [2018].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__672"><hi rend="bold">Haaf, Susanne</hi> (2016): “Corpus Analysis based on Structural Phenomena in Texts. Exploiting TEI Encoding for Linguistic Research”, in: Nicoletta Calzolari et al.: 
+                        <rs type="bibl" ref="#bibl__766"><rs type="bibl" ref="#bibl__672"><hi rend="bold">Haaf, Susanne</hi> (2016): “Corpus Analysis based on Structural Phenomena in Texts. Exploiting TEI Encoding for Linguistic Research”, in: Nicoletta Calzolari et al.: 
                         <hi rend="italic">Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016), 23.–28. Mai 2016, Portorož (Slovenia)</hi>. Paris.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__70"><hi rend="bold">Haaf, Susanne / Geyken, Alexander / Wiegand, Frank</hi> (2014/15): “The DTA ‘Base Format’. A TEI Subset for the Compilation of a Large Reference Corpus of Printed Text from Multiple Sources”, in: 
+                        <rs type="bibl" ref="#bibl__82"><rs type="bibl" ref="#bibl__70"><hi rend="bold">Haaf, Susanne / Geyken, Alexander / Wiegand, Frank</hi> (2014/15): “The DTA ‘Base Format’. A TEI Subset for the Compilation of a Large Reference Corpus of Printed Text from Multiple Sources”, in: 
                         <hi rend="italic">Journal of the Text Encoding Initiative</hi> 8.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__673"><hi rend="bold">Hausendorf, Heiko / Kesselheim, Wolfgang</hi> (2008): 
+                        <rs type="bibl" ref="#bibl__767"><rs type="bibl" ref="#bibl__673"><hi rend="bold">Hausendorf, Heiko / Kesselheim, Wolfgang</hi> (2008): 
                         <hi rend="italic">Textlinguistik fürs Examen</hi>. Göttingen: Vandenhoeck &amp; Ruprecht.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__674"><hi rend="bold">Schöch, Christoph</hi> (2016): „Ein digitales Textformat für die Literaturwissenschaften. Die Richtlinien der Text Encoding Initiative und ihr Nutzen für Textedition und Textanalyse“, in: 
+                        <rs type="bibl" ref="#bibl__768"><rs type="bibl" ref="#bibl__674"><hi rend="bold">Schöch, Christoph</hi> (2016): „Ein digitales Textformat für die Literaturwissenschaften. Die Richtlinien der Text Encoding Initiative und ihr Nutzen für Textedition und Textanalyse“, in: 
                         <hi rend="italic">Romanische Studien</hi> 4. 
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__675"><hi rend="bold">Stein, Stephan</hi> (2003): 
+                        <rs type="bibl" ref="#bibl__769"><rs type="bibl" ref="#bibl__675"><hi rend="bold">Stein, Stephan</hi> (2003): 
                         <hi rend="italic">Textgliederung. Einheitenbildung im geschriebenen und gesprochenen Deutsch. Theorie und Empirie</hi>, Berlin.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

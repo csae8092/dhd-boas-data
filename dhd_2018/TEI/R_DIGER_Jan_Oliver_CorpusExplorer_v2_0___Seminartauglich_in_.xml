@@ -8,7 +8,7 @@
                         <surname>Rüdiger</surname>
                         <forename>Jan Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Kassel, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Kassel, Deutschland</affiliation>
                     <email>jan.ruediger@uni-kassel.de</email>
                 </author>
             </titleStmt>
@@ -121,17 +121,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__908"><hi rend="bold">Bubenhofer, N.</hi> (2011): Korpuslinguistik in der linguistischen Lehre: Erfolg und Misserfolge. In: Journals for Language Technology and Computational Linguistics 26 (1), S. 141–156.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__984"><rs type="bibl" ref="#bibl__908"><hi rend="bold">Bubenhofer, N.</hi> (2011): Korpuslinguistik in der linguistischen Lehre: Erfolg und Misserfolge. In: Journals for Language Technology and Computational Linguistics 26 (1), S. 141–156.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__909"><hi rend="bold">Dipper, S.</hi> (2011): Digitale Korpora in der Lehre: Anwendungsbeispiele aus der Theoretischen Linguistik und der Computerlinguistik. In: Journals for Language Technology and Computational Linguistics 26 (1), S. 81–95.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__985"><rs type="bibl" ref="#bibl__909"><hi rend="bold">Dipper, S.</hi> (2011): Digitale Korpora in der Lehre: Anwendungsbeispiele aus der Theoretischen Linguistik und der Computerlinguistik. In: Journals for Language Technology and Computational Linguistics 26 (1), S. 81–95.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__910"><hi rend="bold">Jänicke, S.; Blumenstein, J.; Rücker, M.; Zeckzer D. &amp; Scheuermann, G</hi>. (2015): Tagpies.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__986"><rs type="bibl" ref="#bibl__910"><hi rend="bold">Jänicke, S.; Blumenstein, J.; Rücker, M.; Zeckzer D. &amp; Scheuermann, G</hi>. (2015): Tagpies.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__911"><hi rend="bold">Rüdiger, J.</hi> (2017): Korpushermeneutische Analyse politischer Reden mittels CorpusExplorer. In: 10plus1 - Living Linguistics (3), S. 11–21.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__987"><rs type="bibl" ref="#bibl__911"><hi rend="bold">Rüdiger, J.</hi> (2017): Korpushermeneutische Analyse politischer Reden mittels CorpusExplorer. In: 10plus1 - Living Linguistics (3), S. 11–21.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

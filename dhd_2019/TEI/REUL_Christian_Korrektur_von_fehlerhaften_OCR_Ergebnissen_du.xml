@@ -8,7 +8,7 @@
                         <surname>Bald</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>markusbald92@gmail.com</email>
                 </author>
                 <author ref="#person__vincenzo-damiani-uni-wuerzburg-de">
@@ -16,7 +16,7 @@
                         <surname>Damiani</surname>
                         <forename>Vincenzo</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>vincenzo.damiani@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__holger-essler-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Essler</surname>
                         <forename>Holger</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>holger.essler@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__bjoern-eyselein-uni-wuerzburg-de">
@@ -32,7 +32,7 @@
                         <surname>Eyeselein</surname>
                         <forename>Björn</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>bjoern.eyselein@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__christian-reul-uni-wuerzburg-de">
@@ -40,7 +40,7 @@
                         <surname>Reul</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>christian.reul@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__frank-puppe-uni-wuerzburg-de">
@@ -48,7 +48,7 @@
                         <surname>Puppe</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
                     <email>frank.puppe@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>
@@ -171,22 +171,22 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2186"><hi rend="bold">Altschul, Stephen F. / Madden, Thomas L. / Alejandro A. Schäffer / Zhang, Jinghui / Zhang, Zheng / Miller, Webb / Lipman, David J.</hi> (1997): “Gapped BLAST and PSI-BLAST: a new generation of protein database search programs” in Nucleic Acids Res 25 (3389-3402).
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3425"><rs type="bibl" ref="#bibl__2186"><hi rend="bold">Altschul, Stephen F. / Madden, Thomas L. / Alejandro A. Schäffer / Zhang, Jinghui / Zhang, Zheng / Miller, Webb / Lipman, David J.</hi> (1997): “Gapped BLAST and PSI-BLAST: a new generation of protein database search programs” in Nucleic Acids Res 25 (3389-3402).
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2187"><hi rend="bold">Moustafa, Ahmed</hi> (2018): “JAligner: Open source java implementation of Smith-Waterman” in 
+                        <rs type="bibl" ref="#bibl__3426"><rs type="bibl" ref="#bibl__2187"><hi rend="bold">Moustafa, Ahmed</hi> (2018): “JAligner: Open source java implementation of Smith-Waterman” in 
                         <ref target="http://jaligner.sourceforge.net/">http://jaligner.sourceforge.net</ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2188"><hi rend="bold">Needleman, Saul B. / Wunsch, Christian D.</hi> (1970): “
+                        <rs type="bibl" ref="#bibl__3427"><rs type="bibl" ref="#bibl__2188"><hi rend="bold">Needleman, Saul B. / Wunsch, Christian D.</hi> (1970): “
                         <hi rend="HTML_Cite">A general method applicable to the search for similarities in the amino acid sequence of two proteins” in</hi> Journal of Molecular Biology 48, (443–453).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2189"><hi rend="bold">Smith, David A. / Cordell, Ryan / Dillon Maddock Elizabeth / Stramp, Nick / Wilkerson, John</hi> (2014): “Detecting and modeling local text reuse” in Proceedings of the JCDL’14 (Joint Conference on Digital Libraries; 183–192), IEEE Press.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3428"><rs type="bibl" ref="#bibl__2189"><hi rend="bold">Smith, David A. / Cordell, Ryan / Dillon Maddock Elizabeth / Stramp, Nick / Wilkerson, John</hi> (2014): “Detecting and modeling local text reuse” in Proceedings of the JCDL’14 (Joint Conference on Digital Libraries; 183–192), IEEE Press.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2190"><hi rend="bold">Vesanto, Aleksi / Nivala, Asko / Salakoski, Tapio / Salmi, Hannu / Filip, Ginter</hi> (2017): “A system for identifying and exploring text repetition in large historical document corpora” in Proceedings of 21. NoDaLiDa (Nordic Conference on Computational Linguistics).
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3429"><rs type="bibl" ref="#bibl__2190"><hi rend="bold">Vesanto, Aleksi / Nivala, Asko / Salakoski, Tapio / Salmi, Hannu / Filip, Ginter</hi> (2017): “A system for identifying and exploring text repetition in large historical document corpora” in Proceedings of 21. NoDaLiDa (Nordic Conference on Computational Linguistics).
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

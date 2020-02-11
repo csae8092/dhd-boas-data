@@ -8,7 +8,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
                 <author ref="#person__gunter-vasold-uni-graz-at">
@@ -16,7 +16,7 @@
                         <surname>Vasold</surname>
                         <forename>Gunter</forename>
                     </persName>
-                    <affiliation ref="#org__7">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
                     <email>gunter.vasold@uni-graz.at</email>
                 </author>
                 <author ref="#person__matthias-schloegl-oeaw-ac-at">
@@ -24,7 +24,7 @@
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__18">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
+                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
                     <email>matthias.schloegl@oeaw.ac.at</email>
                 </author>
             </titleStmt>
@@ -178,76 +178,76 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2858"><hi rend="bold">Andresen, Suse</hi> (2008): “Das 'Repertorium Academicum Germanicum'. Überlegungen zu einer modellorientierten Datenbankstruktur und zur Aufbereitung prosopographischer Informationen der graduierten Gelehrten des Spätmittelalters“, in: Sigrid Schmitt u. Michael Matheus (eds.) 
+                        <rs type="bibl" ref="#bibl__4084"><rs type="bibl" ref="#bibl__2858"><hi rend="bold">Andresen, Suse</hi> (2008): “Das 'Repertorium Academicum Germanicum'. Überlegungen zu einer modellorientierten Datenbankstruktur und zur Aufbereitung prosopographischer Informationen der graduierten Gelehrten des Spätmittelalters“, in: Sigrid Schmitt u. Michael Matheus (eds.) 
                         <hi rend="italic">Städtische Gesellschaft und Kirche im Spätmittelalter</hi> (Geschichtliche Landeskunde 62). Stuttgart: Steiner 17-26.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2859"><hi rend="bold">Bradley, John</hi> (2017): Factoids. A site that introduces Factoid Prosopograph, 
+                        <rs type="bibl" ref="#bibl__4085"><rs type="bibl" ref="#bibl__2859"><hi rend="bold">Bradley, John</hi> (2017): Factoids. A site that introduces Factoid Prosopograph, 
                         <ref target="http://factoid-dighum.kcl.ac.uk/">
                             <hi rend="ListLabel_29">http://factoid-dighum.kcl.ac.uk/</hi>
                         </ref> und 
                         <ref target="https://github.com/johnBradley501/FPO">
                             <hi rend="ListLabel_29">https://github.com/johnBradley501/FPO</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2860"><hi rend="bold">Bradley, John / Pasin, Michele</hi> (2015): “Factoid-based Prosopography and Computer Ontologies. Towards an integrated approach”, in: DSH 30,1: 86-97.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__4086"><rs type="bibl" ref="#bibl__2860"><hi rend="bold">Bradley, John / Pasin, Michele</hi> (2015): “Factoid-based Prosopography and Computer Ontologies. Towards an integrated approach”, in: DSH 30,1: 86-97.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2861"><hi rend="bold">Bradley, John / Short, Harold</hi> (2005): “Texts into databases. The Evolving field of New-style Prosopography“, in: LLC 20, suppl. 1: 3-24.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__4087"><rs type="bibl" ref="#bibl__2861"><hi rend="bold">Bradley, John / Short, Harold</hi> (2005): “Texts into databases. The Evolving field of New-style Prosopography“, in: LLC 20, suppl. 1: 3-24.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2862"><hi rend="bold">CCEd</hi>: 
+                        <rs type="bibl" ref="#bibl__4088"><rs type="bibl" ref="#bibl__2862"><hi rend="bold">CCEd</hi>: 
                         <hi rend="italic">Clergy of the Church of England Database</hi>, King’s College London 
                         <ref target="http://theclergydatabase.org.uk/">
                             <hi rend="ListLabel_29">http://theclergydatabase.org.uk/</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2863"><hi rend="bold">DPRR</hi>: 
+                        <rs type="bibl" ref="#bibl__4089"><rs type="bibl" ref="#bibl__2863"><hi rend="bold">DPRR</hi>: 
                         <hi rend="italic">Digital Prosopography of the Roman Republic</hi>, King’s College London 
                         <ref target="HYPERLINK">
                             <hi rend="ListLabel_29">http://romanrepublic.ac.uk/</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2864"><hi rend="bold">Keats-Rohan, Katherine S.B.</hi> (ed.) (2007): 
+                        <rs type="bibl" ref="#bibl__4090"><rs type="bibl" ref="#bibl__2864"><hi rend="bold">Keats-Rohan, Katherine S.B.</hi> (ed.) (2007): 
                         <hi rend="italic">Prosopography. Approaches and Applications. A Handbook</hi> (Prosopographica et genealogica 13). Oxford: P&amp;G.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2865"><hi rend="bold">Lind, Gunner</hi>
+                        <rs type="bibl" ref="#bibl__4091"><rs type="bibl" ref="#bibl__2865"><hi rend="bold">Lind, Gunner</hi>
                         <hi style="font-size:10pt">(1994)</hi>: Data Structures for Computer Prosopography, in: 
                         <hi rend="italic">Yesterday: Proceedings from the 6th International Conference of the Association of History and Computing</hi>, Odense 1991. Odense: University Press of Southern Denmark. 77-82.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2866"><hi rend="bold">Neumann, Gerald / Körner, Fabian / Roeder, Torsten / Walkowski, Niels-Oliver</hi> (2011): „Personendaten-Repositorium“, in: 
+                        <rs type="bibl" ref="#bibl__4092"><rs type="bibl" ref="#bibl__2866"><hi rend="bold">Neumann, Gerald / Körner, Fabian / Roeder, Torsten / Walkowski, Niels-Oliver</hi> (2011): „Personendaten-Repositorium“, in: 
                         <hi rend="italic">Berlin-Brandenburgische Akademie der Wissenschaften. Jahrbuch 2010</hi>: 320-326.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2867"><hi rend="bold">PASE</hi>: 
+                        <rs type="bibl" ref="#bibl__4093"><rs type="bibl" ref="#bibl__2867"><hi rend="bold">PASE</hi>: 
                         <hi rend="italic">Prosopography of Anglo-Saxon England</hi>, King’s College London, URL: 
                         <ref target="http://www.pase.ac.uk/jsp/index.jsp">
                             <hi rend="ListLabel_29">http://www.pase.ac.uk/jsp/index.jsp</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2868"><hi rend="bold">Schlögl, Matthias, and Katalin Lejtovicz</hi>. 2018. “A Prosopographical Information System (APIS)“, in: Antske Fokkens, ter Braake, Serge, Sluijter, Ronald, Arthur, Paul, and Wandl-Vogt, Eveline (eds.). 
+                        <rs type="bibl" ref="#bibl__4094"><rs type="bibl" ref="#bibl__2868"><hi rend="bold">Schlögl, Matthias, and Katalin Lejtovicz</hi>. 2018. “A Prosopographical Information System (APIS)“, in: Antske Fokkens, ter Braake, Serge, Sluijter, Ronald, Arthur, Paul, and Wandl-Vogt, Eveline (eds.). 
                         <hi rend="italic">BD-2017. Biographical Data in a Digital World 2017. Proceedings of the Second Conference on Biographical Data in a Digital World 2017</hi>. Linz, Austria, November 6-7, 2017. Budapest: CEUR (CEUR Workshop Proceedings 2119): 
                         <hi rend="ceurpages">53-58</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2869"><hi rend="bold">Schlögl, Matthias / Lejtovicz, Katalin / Bernád, Ágoston Zénó / Kaiser, Maximilian / Rumpolt, Peter</hi> (2018): “Using deep learning to explore movement of people in a large corpus of biographies”. Zenodo. 
+                        <rs type="bibl" ref="#bibl__4095"><rs type="bibl" ref="#bibl__2869"><hi rend="bold">Schlögl, Matthias / Lejtovicz, Katalin / Bernád, Ágoston Zénó / Kaiser, Maximilian / Rumpolt, Peter</hi> (2018): “Using deep learning to explore movement of people in a large corpus of biographies”. Zenodo. 
                         <ref target="http://doi.org/10.5281/zenodo.1149023">
                             <hi rend="Internet_Link">http://doi.org/10.5281/zenodo.1149023</hi>
                         </ref>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2870"><hi rend="bold">Tuominen, Jouni / Hyvönen, Eero / Leskinen, Petri (2018)</hi>: “Bio CRM. A Data Model for Representing Biographical Data for Prosopographical Research” in: BD-2017. Biographical Data in a Digital World 2017, hg. v. Antske Fokkens, Serge ter Braake, Ronald Sluijter, Paul Arthur, Eveline Wandl-Vogt, Budapest: CEUR (CEUR Workshop Proceedings 2119): 59-66. 
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__4096"><rs type="bibl" ref="#bibl__2870"><hi rend="bold">Tuominen, Jouni / Hyvönen, Eero / Leskinen, Petri (2018)</hi>: “Bio CRM. A Data Model for Representing Biographical Data for Prosopographical Research” in: BD-2017. Biographical Data in a Digital World 2017, hg. v. Antske Fokkens, Serge ter Braake, Ronald Sluijter, Paul Arthur, Eveline Wandl-Vogt, Budapest: CEUR (CEUR Workshop Proceedings 2119): 59-66. 
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2871"><hi rend="bold">Tzompanaki, Katerina / Doerr Martin</hi> (2012
+                        <rs type="bibl" ref="#bibl__4097"><rs type="bibl" ref="#bibl__2871"><hi rend="bold">Tzompanaki, Katerina / Doerr Martin</hi> (2012
                         <hi rend="italic">): Fundamental Categories and Relationships for intuitive querying CIDOC-CRM based repositories</hi>, Technical Report ICS-FORTH/TR-429, April 2012, &lt;http://cidoc-crm.org/docs/TechnicalReport429_April2012.pdf&gt;
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

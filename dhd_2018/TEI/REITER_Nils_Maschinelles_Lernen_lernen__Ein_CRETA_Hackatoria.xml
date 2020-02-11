@@ -8,7 +8,7 @@
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>nils.reiter@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__nora-ketschik-ilw-uni-stuttgart-de">
@@ -16,7 +16,7 @@
                         <surname>Ketschik</surname>
                         <forename>Nora</forename>
                     </persName>
-                    <affiliation ref="#org__23">Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__31">Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</affiliation>
                     <email>nora.ketschik@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__gerhard-kremer-ims-uni-stuttgart-de">
@@ -24,7 +24,7 @@
                         <surname>Kremer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>gerhard.kremer@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__sarah-schulz-ims-uni-stuttgart-de">
@@ -32,7 +32,7 @@
                         <surname>Schulz</surname>
                         <forename>Sarah</forename>
                     </persName>
-                    <affiliation ref="#org__22">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>sarah.schulz@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>
@@ -259,25 +259,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__369"><hi rend="bold">Kuhn, Jonas / Reiter, Nils</hi> (2015): "A Plea for a Method-Driven Agenda in the Digital Humanities" in: 
+                        <rs type="bibl" ref="#bibl__32"><rs type="bibl" ref="#bibl__369"><hi rend="bold">Kuhn, Jonas / Reiter, Nils</hi> (2015): "A Plea for a Method-Driven Agenda in the Digital Humanities" in: 
                         <hi rend="italic">Digital Humanities 2015: Conference Abstracts</hi>, Sydney.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__370"><hi rend="bold">Reiter, Nils / Blessing, Andre / Echelmeyer, Nora / Koch, Steffen / Kremer, Gerhard / Murr, Sandra / Overbeck, Maximilian / Pichler, Axel</hi> (2017a): "CUTE: CRETA Unshared Task zu Entitätenreferenzen" in 
+                        <rs type="bibl" ref="#bibl__467"><rs type="bibl" ref="#bibl__370"><hi rend="bold">Reiter, Nils / Blessing, Andre / Echelmeyer, Nora / Koch, Steffen / Kremer, Gerhard / Murr, Sandra / Overbeck, Maximilian / Pichler, Axel</hi> (2017a): "CUTE: CRETA Unshared Task zu Entitätenreferenzen" in 
                         <hi rend="italic">Konferenzabstracts DHd2017</hi>, Bern.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__371"><hi rend="bold">Reiter, Nils / Kuhn, Jonas / Willand, Marcus</hi> (2017b): "To GUI or not to GUI?" in 
+                        <rs type="bibl" ref="#bibl__468"><rs type="bibl" ref="#bibl__371"><hi rend="bold">Reiter, Nils / Kuhn, Jonas / Willand, Marcus</hi> (2017b): "To GUI or not to GUI?" in 
                         <hi rend="italic">Proceedings of INFORMATIK 2017</hi>, Chemnitz.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__26"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils</hi> (2017): "An end-to-end environment for research question-driven entity extraction and network analysis" in 
+                        <rs type="bibl" ref="#bibl__33"><rs type="bibl" ref="#bibl__26"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils</hi> (2017): "An end-to-end environment for research question-driven entity extraction and network analysis" in 
                         <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, Vancouver.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__372"><hi rend="bold">Lotman, Juri</hi> (1972): 
+                        <rs type="bibl" ref="#bibl__34"><rs type="bibl" ref="#bibl__372"><hi rend="bold">Lotman, Juri</hi> (1972): 
                         <hi rend="italic">Die Struktur literarischer Texte</hi>, München.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

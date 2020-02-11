@@ -8,7 +8,7 @@
                         <surname>Czmiel</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>czmiel@bbaw.de</email>
                 </author>
                 <author ref="#person__grabsch-bbaw-de">
@@ -16,7 +16,7 @@
                         <surname>Grabsch</surname>
                         <forename>Sascha</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>grabsch@bbaw.de</email>
                 </author>
                 <author ref="#person__juergens-bbaw-de">
@@ -24,7 +24,7 @@
                         <surname>Jürgens</surname>
                         <forename>Marco</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>juergens@bbaw.de</email>
                 </author>
                 <author ref="#person__maiwald-bbaw-de">
@@ -32,7 +32,7 @@
                         <surname>Maiwald</surname>
                         <forename>Anke</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>maiwald@bbaw.de</email>
                 </author>
                 <author ref="#person__willenborg-bbaw-de">
@@ -40,7 +40,7 @@
                         <surname>Willenborg</surname>
                         <forename>Josef</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>willenborg@bbaw.de</email>
                 </author>
             </titleStmt>
@@ -124,44 +124,44 @@
            <div type="bibliogr">
                <listBibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1374"><hi rend="bold">Chen, Ko-le, Marian Dörk und Martyn Dade-Robertson</hi>: „Exploring the 
+                       <rs type="bibl" ref="#bibl__1437"><rs type="bibl" ref="#bibl__1374"><hi rend="bold">Chen, Ko-le, Marian Dörk und Martyn Dade-Robertson</hi>: „Exploring the 
                        Promises and Potentials of Visual Archive Interfaces.“ In IConference 
                        2014 Proceedings, 735–41. iSchools, 2014. https://doi.org/10.9776/14348. 
-                   </rs></bibl>
+                   </rs></rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__135"><hi rend="bold">Glinka, Katrin, Christopher Pietsch und Marian Dörk</hi>: „Past Visions and 
+                       <rs type="bibl" ref="#bibl__184"><rs type="bibl" ref="#bibl__135"><hi rend="bold">Glinka, Katrin, Christopher Pietsch und Marian Dörk</hi>: „Past Visions and 
                        Reconciling Views: Visualizing Time, Texture and Themes in Cultural 
                        Collections.“ digital humanities quarterly 11, Nr. 2 (27. Februar 2017). 
                        http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html; 
                        abgerufen am 14.12.2017.
-                   </rs></bibl>
+                   </rs></rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1375"><hi rend="bold">Horch, Andrea, Holger Kett und Anette Weisbecker</hi>: „Semantische 
+                       <rs type="bibl" ref="#bibl__1438"><rs type="bibl" ref="#bibl__1375"><hi rend="bold">Horch, Andrea, Holger Kett und Anette Weisbecker</hi>: „Semantische 
                        Suchsysteme für das Internet. Architekturen und Komponenten semantischer 
                        Suchmaschinen.“ Stuttgart: Fraunhofer Verlag, 2013.
-                   </rs></bibl>
+                   </rs></rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1376"><hi rend="bold">McMurry, Julie A., Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, 
+                       <rs type="bibl" ref="#bibl__1439"><rs type="bibl" ref="#bibl__1376"><hi rend="bold">McMurry, Julie A., Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, 
                        Nathalie Conte, Mélanie Courtot u. a.</hi>: „Identifiers for the 21st 
                        century: How to design, provision, and reuse persistent identifiers to 
                        maximize utility and impact of life science data.“ PLOS Biology 15, Nr. 
                        6 (29. Juni 2017): e2001414. https://doi.org/10.1371/journal.pbio.2001414.
-                   </rs></bibl>
+                   </rs></rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1377"><hi rend="bold">Voß, Jakob</hi>: „Was sind eigentlich Daten?“ LIBREAS. Library Ideas, Nr. 23 
+                       <rs type="bibl" ref="#bibl__1440"><rs type="bibl" ref="#bibl__1377"><hi rend="bold">Voß, Jakob</hi>: „Was sind eigentlich Daten?“ LIBREAS. Library Ideas, Nr. 23 
                        (2013). http://libreas.eu/ausgabe23/02voss/; abgerufen am 14.12.2017.
-                   </rs></bibl>
+                   </rs></rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1378"><hi rend="bold">Ward, David, Jim Hahn und Kirsten Feist</hi>: „Autocomplete as Research Tool: 
+                       <rs type="bibl" ref="#bibl__1441"><rs type="bibl" ref="#bibl__1378"><hi rend="bold">Ward, David, Jim Hahn und Kirsten Feist</hi>: „Autocomplete as Research Tool: 
                        A Study on Providing Search Suggestions.“ Information Technology and 
                        Libraries 31, Nr. 4 (11. Dezember 2012). 
                        https://doi.org/10.6017/ital.v31i4.1930.
-                   </rs></bibl>
+                   </rs></rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1379"><hi rend="bold">Woutersen-Windhouwer, Saskia (Hrsg.)</hi>: „Enhanced Publications: Linking 
+                       <rs type="bibl" ref="#bibl__1442"><rs type="bibl" ref="#bibl__1379"><hi rend="bold">Woutersen-Windhouwer, Saskia (Hrsg.)</hi>: „Enhanced Publications: Linking 
                        Publications and Research Data in Digital Repositories.“ Amsterdam: 
                        Amsterdam Univ. Press, 2009.
-                   </rs></bibl>
+                   </rs></rs></bibl>
                </listBibl>
            </div>
        </back>

@@ -11,7 +11,7 @@
                         <surname>Klaus</surname>
                         <forename>Carsten</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>s8caklau@stud.uni-saarland.de</email>
                 </author>
                 <author ref="#person__fankhauser-ids-mannheim-de">
@@ -19,7 +19,7 @@
                         <surname>Fankhauser</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__24">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>fankhauser@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__dklakow-lsv-uni-saarland-de">
@@ -27,7 +27,7 @@
                         <surname>Klakow</surname>
                         <forename>Dietrich</forename>
                     </persName>
-                    <affiliation ref="#org__40">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__52">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>dklakow@lsv.uni-saarland.de</email>
                 </author>
             </titleStmt>
@@ -240,36 +240,36 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1933"><hi rend="bold">Jurafsky Daniel / Martin James H.</hi> (2016): "Spelling Correction and the Noisy Channel" 
+                        <rs type="bibl" ref="#bibl__3175"><rs type="bibl" ref="#bibl__1933"><hi rend="bold">Jurafsky Daniel / Martin James H.</hi> (2016): "Spelling Correction and the Noisy Channel" 
                         <hi rend="italic">In:</hi>
                         <hi rend="italic">Speech and Language Processing</hi>, 3. Edition, S. 61-73.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__96"><hi rend="bold">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke</hi> (2016): "The Royal Society Corpus: From Uncharted Data to Corpus", in: 
+                        <rs type="bibl" ref="#bibl__128"><rs type="bibl" ref="#bibl__96"><hi rend="bold">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke</hi> (2016): "The Royal Society Corpus: From Uncharted Data to Corpus", in: 
                         <hi rend="italic">Proceedings of the Tenth International </hi>
                         <hi rend="italic">Conference on Language Resources and Evaluation (LREC 2016). European Language Resources </hi>
                         <hi rend="italic">Association (ELRA)</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1934"><hi rend="bold">Knappen, Jörg / Fischer, Stefan / Kermes, Hannah / Teich, Elke / Fankhauser, Peter </hi>(2017): "The Making of the Royal Society Corpus", in 
+                        <rs type="bibl" ref="#bibl__3176"><rs type="bibl" ref="#bibl__1934"><hi rend="bold">Knappen, Jörg / Fischer, Stefan / Kermes, Hannah / Teich, Elke / Fankhauser, Peter </hi>(2017): "The Making of the Royal Society Corpus", in 
                         <hi rend="italic">ListLang@NoDaLiDa</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1935"><hi rend="bold">Norvig, Peter </hi>(2008): "Natural Language Corpus Data: Beautiful Data". [online] 
+                        <rs type="bibl" ref="#bibl__3177"><rs type="bibl" ref="#bibl__1935"><hi rend="bold">Norvig, Peter </hi>(2008): "Natural Language Corpus Data: Beautiful Data". [online] 
                         <ptr target="http://norvig.com/ngrams/"/> [letzter Zugriff 08. November 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__74"><hi rend="bold">Shannon, Claude E.</hi> (1948): "A Mathematical Theory of Communication", in 
+                        <rs type="bibl" ref="#bibl__100"><rs type="bibl" ref="#bibl__74"><hi rend="bold">Shannon, Claude E.</hi> (1948): "A Mathematical Theory of Communication", in 
                         <hi rend="italic">Bell System Technical Journal</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1936"><hi rend="bold">UdS Fedora Commons Repository</hi>
+                        <rs type="bibl" ref="#bibl__3178"><rs type="bibl" ref="#bibl__1936"><hi rend="bold">UdS Fedora Commons Repository</hi>
                         <hi rend="bold"> </hi>(o.J.)
                         <hi rend="bold"> </hi>"The Royal Society Corpus (RSC)"
                         <hi rend="bold">, </hi>
                         <ptr target="https://fedora.clarin-d.uni-saarland.de/rsc/"/>
                         <hi rend="bold">. </hi> [letzter Zugriff 29. März 2018].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

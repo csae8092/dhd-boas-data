@@ -8,7 +8,7 @@
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>boenig@bbaw.de</email>
                 </author>
                 <author ref="#person__maria-federbusch-sbb-spk-berlin-de">
@@ -16,7 +16,7 @@
                         <surname>Federbusch</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation ref="#org__38">Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>maria.federbusch@sbb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__herrmann-hab-de">
@@ -24,7 +24,7 @@
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
                     </persName>
-                    <affiliation ref="#org__19">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>herrmann@hab.de</email>
                 </author>
                 <author ref="#person__clemens-neudecker-sbb-spk-berlin-de">
@@ -32,7 +32,7 @@
                         <surname>Neudecker</surname>
                         <forename>Clemens</forename>
                     </persName>
-                    <affiliation ref="#org__38">Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>clemens.neudecker@sbb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__wuerzner-bbaw-de">
@@ -40,7 +40,7 @@
                         <surname>Würzner</surname>
                         <forename>Kay-Michael</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>wuerzner@bbaw.de</email>
                 </author>
             </titleStmt>
@@ -218,23 +218,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__616"><hi rend="bold">Herrmann-Wolf, J. Berenike / Lauer, Gerhard</hi> (2016): „Aufbau und Annotation des Kafka/Referenzkorpus“ in: Burr Elisabeth (ed): 
+                        <rs type="bibl" ref="#bibl__710"><rs type="bibl" ref="#bibl__616"><hi rend="bold">Herrmann-Wolf, J. Berenike / Lauer, Gerhard</hi> (2016): „Aufbau und Annotation des Kafka/Referenzkorpus“ in: Burr Elisabeth (ed): 
                         <hi rend="italic">DHd 2016 : Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma</hi> : Konferenzabstracts : Universität Leipzig 7. bis 12. März 2016. [Duisburg]: nisaba 158-160.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__617"><hi rend="bold">Mihm, Melanie</hi> (2016): „Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa“ in: Burr Elisabeth (ed): 
+                        <rs type="bibl" ref="#bibl__711"><rs type="bibl" ref="#bibl__617"><hi rend="bold">Mihm, Melanie</hi> (2016): „Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa“ in: Burr Elisabeth (ed): 
                         <hi rend="italic">DHd 2016 : Modellierung, Vernetzung, Visualisierung : die Digital Humanities als fächerübergreifendes Forschungsparadigma</hi> : Konferenzabstracts : Universität Leipzig 7. bis 12. März 2016. [Duisburg]: nisaba 198-200.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__67"><hi rend="bold">Schöch, Christof</hi> (2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: Schöch, Christof / Schneider, Lars (eds.): 
+                        <rs type="bibl" ref="#bibl__79"><rs type="bibl" ref="#bibl__67"><hi rend="bold">Schöch, Christof</hi> (2014): „Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“, in: Schöch, Christof / Schneider, Lars (eds.): 
                         <hi rend="italic">Literaturwissenschaft im digitalen Medienwandel</hi> (=Philologie im Netz Beiheft 7) 130-157 http://web.fu-berlin.de/phin/beiheft7/b7t08.pdf [letzter Zugriff 25.September 2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__618"><hi rend="bold">Schnell, Rainer / Hill, Paul B. / Esser, Elke</hi> (2011): Methoden der empirischen Sozialforschung. 9., aktualisierte Aufl. München: Oldenbourg
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__712"><rs type="bibl" ref="#bibl__618"><hi rend="bold">Schnell, Rainer / Hill, Paul B. / Esser, Elke</hi> (2011): Methoden der empirischen Sozialforschung. 9., aktualisierte Aufl. München: Oldenbourg
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__619"><hi rend="bold">Thesenpapier des Fachverbands „Digital Humanities im deutschsprachigen Raum“ (DHd)</hi> (2014): „Digital Humanities 2020“, vorgestellt im März 2014 auf der ersten Jahrestagung des Verbandes in Passau. http://dig-hum.de/digital-humanities-2020.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__713"><rs type="bibl" ref="#bibl__619"><hi rend="bold">Thesenpapier des Fachverbands „Digital Humanities im deutschsprachigen Raum“ (DHd)</hi> (2014): „Digital Humanities 2020“, vorgestellt im März 2014 auf der ersten Jahrestagung des Verbandes in Passau. http://dig-hum.de/digital-humanities-2020.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

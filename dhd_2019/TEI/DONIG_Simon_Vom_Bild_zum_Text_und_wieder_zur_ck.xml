@@ -11,7 +11,7 @@
                         <surname>Donig</surname>
                         <forename>Simon</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
                     <email>simon.donig@uni-passau.de</email>
                 </author>
                 <author ref="#person__maria-christoforaki-uni-passau-de">
@@ -19,7 +19,7 @@
                         <surname>Christoforaki</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
                     <email>maria.christoforaki@uni-passau.de</email>
                 </author>
                 <author ref="#person__bernhard-bermeitinger-uni-passau-de">
@@ -27,7 +27,7 @@
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
                     <email>bernhard.bermeitinger@uni-passau.de</email>
                 </author>
                 <author ref="#person__siegfried-handschuh-unisg-ch">
@@ -35,7 +35,7 @@
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
                     </persName>
-                    <affiliation ref="#org__218">Universität St. Gallen, Schweiz</affiliation>
+                    <affiliation ref="#org__381">Universität St. Gallen, Schweiz</affiliation>
                     <email>siegfried.handschuh@unisg.ch</email>
                 </author>
             </titleStmt>
@@ -340,26 +340,26 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Baroni, Marco / Bernardi, Raffaela / Zamparelli, Roberto (2014): “Frege in Space: A Program of Compositional Distributional Semantics”, LiLT (Linguistic Issues in Language Technology), 9: 241–346.
-                        <rs type="bibl" ref="#bibl__1729"><anchor xml:id="id_3rdcrjn"/>
-                    </rs></bibl>
-                    <bibl>Bermeitinger, Bernhard / Donig, Simon / Christoforaki, Maria / Freitas, André / Handschuh, Siegfried (2017): “Object Classification in Images of Neoclassical Artifacts Using Deep Learning.” Montreal, Canada. https://dh2017.adho.org/abstracts/590/590.pdf [Letzter Zugriff 25.09. 2018]<rs type="bibl" ref="#bibl__1730"/></bibl>
-                    <bibl>Bontempi, Gianluca (2017): Handbook-Statistical Foundations of Machine Learning. Bruxelles: Machine Learning Group Computer Science Department ULB Belgique.<rs type="bibl" ref="#bibl__1731"/></bibl>
-                    <bibl>Budanitsky, Alexander / Hirst, Graeme (2006): “Evaluating Wordnet-Based Measures of Lexical Semantic Relatedness”, Computational Linguistics 32 (1): 13–47.<rs type="bibl" ref="#bibl__1732"/></bibl>
-                    <bibl>Collobert, Ronan / Weston, Jason (2008): “A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning”,  in: Proceedings of the 25th International Conference on Machine Learning, 160–167.<rs type="bibl" ref="#bibl__1733"/></bibl>
-                    <bibl>Donig, Simon / Christoforaki, Maria / Handschuh, Siegfried (2016): “Neoclassica - A Multilingual Domain Ontology. Representing Material Culture from the Era of Classicism in the Semantic Web”, in: Bozic, Bojan/Mendel-Gleason, Gavin/Debruyne, Christophe / O’Sullivan, Declan  (eds.): Computational History and Data-Driven Humanities. CHDDH 2016 (=IFIP Advances in Information and Communication Technology, vol 482), Cham: Springer: 41–53, DOI 10.1007/978-3-319-46224-0_5.<rs type="bibl" ref="#bibl__17"/></bibl>
+                        <rs type="bibl" ref="#bibl__2981"><rs type="bibl" ref="#bibl__1729"><anchor xml:id="id_3rdcrjn"/>
+                    </rs></rs></bibl>
+                    <bibl>Bermeitinger, Bernhard / Donig, Simon / Christoforaki, Maria / Freitas, André / Handschuh, Siegfried (2017): “Object Classification in Images of Neoclassical Artifacts Using Deep Learning.” Montreal, Canada. https://dh2017.adho.org/abstracts/590/590.pdf [Letzter Zugriff 25.09. 2018]<rs type="bibl" ref="#bibl__2982"><rs type="bibl" ref="#bibl__1730"/></rs></bibl>
+                    <bibl>Bontempi, Gianluca (2017): Handbook-Statistical Foundations of Machine Learning. Bruxelles: Machine Learning Group Computer Science Department ULB Belgique.<rs type="bibl" ref="#bibl__2983"><rs type="bibl" ref="#bibl__1731"/></rs></bibl>
+                    <bibl>Budanitsky, Alexander / Hirst, Graeme (2006): “Evaluating Wordnet-Based Measures of Lexical Semantic Relatedness”, Computational Linguistics 32 (1): 13–47.<rs type="bibl" ref="#bibl__2984"><rs type="bibl" ref="#bibl__1732"/></rs></bibl>
+                    <bibl>Collobert, Ronan / Weston, Jason (2008): “A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning”,  in: Proceedings of the 25th International Conference on Machine Learning, 160–167.<rs type="bibl" ref="#bibl__2985"><rs type="bibl" ref="#bibl__1733"/></rs></bibl>
+                    <bibl>Donig, Simon / Christoforaki, Maria / Handschuh, Siegfried (2016): “Neoclassica - A Multilingual Domain Ontology. Representing Material Culture from the Era of Classicism in the Semantic Web”, in: Bozic, Bojan/Mendel-Gleason, Gavin/Debruyne, Christophe / O’Sullivan, Declan  (eds.): Computational History and Data-Driven Humanities. CHDDH 2016 (=IFIP Advances in Information and Communication Technology, vol 482), Cham: Springer: 41–53, DOI 10.1007/978-3-319-46224-0_5.<rs type="bibl" ref="#bibl__21"><rs type="bibl" ref="#bibl__17"/></rs></bibl>
                     <bibl>Donig, Simon / Christoforaki, Maria /Bermeitinger, Bernhard/ Handschuh, Siegfried (2017): “Neoclassica – an Open Framework for Research in Neoclassicism.” Montreal, Canada. https://dh2017.adho.org/abstracts/384/384.pdf [Letzter Zugriff 25. 09. 2018]
-                        <rs type="bibl" ref="#bibl__57"><anchor xml:id="id_26in1rg"/>
-                    </rs></bibl>
-                    <bibl>Donig, Simon / Christoforaki, Maria / Bermeitinger, Bernhard / Handschuh, Siegfried (2018): “Bildanalyse durch Distant Viewing - zur Identifizierung von klassizistischem Mobiliar in Interieurdarstellungen”, in: Vogeler, Georg (ed.): DHd 2018 - Kritik der digitalen Vernunft. Köln: 130–137.<rs type="bibl" ref="#bibl__1734"/></bibl>
-                    <bibl>Donig, Simon / Handschuh, Siegfried / Hastik, Canan / Kohle, Hubertus / Ommer, Björn / Rehbein, Malte (2018): “Der ferne Blick. Bildkorpora und Computer Vision in den Geistes- und Kulturwissenschaften - Stand - Visionen - Implikationen”, in: Vogeler, Georg (ed.): DHd 2018 - Kritik der digitalen Vernunft. Köln: 86–89.<rs type="bibl" ref="#bibl__1735"/></bibl>
-                    <bibl>He, Kaiming / Zhang, Xiangyu / Ren, Shaoqing /Sun, Jian (2016): “Deep residual learning for image recognition”, in: Proceedings of the IEEE conference on computer vision and pattern recognition: 770-778.<rs type="bibl" ref="#bibl__1736"/></bibl>
-                    <bibl>Indurkhya, Nitin / Damerau, Fred J. (2010): Handbook of Natural Language Processing. Second Edition. Vol. 2. Machine Learning &amp; Pattern Recognition Series. Boca Raton, FL: Chapman &amp; Hall/CRC Taylor &amp; Francis Group.<rs type="bibl" ref="#bibl__1737"/></bibl>
-                    <bibl>Lenci, Alessandro (2018): “Distributional models of word meaning”, in: Annual review of Linguistics, 4 (1) :151-171.<rs type="bibl" ref="#bibl__1738"/></bibl>
-                    <bibl>Miller, George A. (1995): “WordNet: A Lexical Database for English”, in: Communications of the ACM 38 (11): 39–41.<rs type="bibl" ref="#bibl__163"/></bibl>
-                    <bibl>Sales, Juliano Efson / Souza, Leonardo / Barzegar,  Siamak / Davis, Brian / Freitas, André / Handschuh, Siegfried (2018) “Indra: A Word Embedding and Semantic Relatedness Server.” In LREC. Miyazaki, Japan, 2018.<rs type="bibl" ref="#bibl__1739"/></bibl>
-                    <bibl>Mikolov, Tomas / Chen, Kai / Corrado, Greg / Dean, Jeffrey (2013): “Efficient Estimation of Word Representations in Vector Space.” ArXiv:1301.3781 [Cs]. http://arxiv.org/abs/1301.3781. [Letzter Zugriff 25. 09. 2018]<rs type="bibl" ref="#bibl__97"/></bibl>
-                    <bibl>Rubenstein, Herbert / Goodenough, John B. (1965): “Contextual Correlates of Synonymy.” Communications of the ACM 8 (10): 627-6337. https://doi.org/10.1145/365628.365657. [Letzter Zugriff 25. 09. 2018]<rs type="bibl" ref="#bibl__1740"/></bibl>
-                    <bibl>Sahlgren, Magnus (2008): “The Distributional Hypothesis.” Italian Journal of Linguistics 20, (1): 33–53.<rs type="bibl" ref="#bibl__1741"/></bibl>
+                        <rs type="bibl" ref="#bibl__69"><rs type="bibl" ref="#bibl__57"><anchor xml:id="id_26in1rg"/>
+                    </rs></rs></bibl>
+                    <bibl>Donig, Simon / Christoforaki, Maria / Bermeitinger, Bernhard / Handschuh, Siegfried (2018): “Bildanalyse durch Distant Viewing - zur Identifizierung von klassizistischem Mobiliar in Interieurdarstellungen”, in: Vogeler, Georg (ed.): DHd 2018 - Kritik der digitalen Vernunft. Köln: 130–137.<rs type="bibl" ref="#bibl__2986"><rs type="bibl" ref="#bibl__1734"/></rs></bibl>
+                    <bibl>Donig, Simon / Handschuh, Siegfried / Hastik, Canan / Kohle, Hubertus / Ommer, Björn / Rehbein, Malte (2018): “Der ferne Blick. Bildkorpora und Computer Vision in den Geistes- und Kulturwissenschaften - Stand - Visionen - Implikationen”, in: Vogeler, Georg (ed.): DHd 2018 - Kritik der digitalen Vernunft. Köln: 86–89.<rs type="bibl" ref="#bibl__2987"><rs type="bibl" ref="#bibl__1735"/></rs></bibl>
+                    <bibl>He, Kaiming / Zhang, Xiangyu / Ren, Shaoqing /Sun, Jian (2016): “Deep residual learning for image recognition”, in: Proceedings of the IEEE conference on computer vision and pattern recognition: 770-778.<rs type="bibl" ref="#bibl__2988"><rs type="bibl" ref="#bibl__1736"/></rs></bibl>
+                    <bibl>Indurkhya, Nitin / Damerau, Fred J. (2010): Handbook of Natural Language Processing. Second Edition. Vol. 2. Machine Learning &amp; Pattern Recognition Series. Boca Raton, FL: Chapman &amp; Hall/CRC Taylor &amp; Francis Group.<rs type="bibl" ref="#bibl__2989"><rs type="bibl" ref="#bibl__1737"/></rs></bibl>
+                    <bibl>Lenci, Alessandro (2018): “Distributional models of word meaning”, in: Annual review of Linguistics, 4 (1) :151-171.<rs type="bibl" ref="#bibl__2990"><rs type="bibl" ref="#bibl__1738"/></rs></bibl>
+                    <bibl>Miller, George A. (1995): “WordNet: A Lexical Database for English”, in: Communications of the ACM 38 (11): 39–41.<rs type="bibl" ref="#bibl__270"><rs type="bibl" ref="#bibl__163"/></rs></bibl>
+                    <bibl>Sales, Juliano Efson / Souza, Leonardo / Barzegar,  Siamak / Davis, Brian / Freitas, André / Handschuh, Siegfried (2018) “Indra: A Word Embedding and Semantic Relatedness Server.” In LREC. Miyazaki, Japan, 2018.<rs type="bibl" ref="#bibl__2991"><rs type="bibl" ref="#bibl__1739"/></rs></bibl>
+                    <bibl>Mikolov, Tomas / Chen, Kai / Corrado, Greg / Dean, Jeffrey (2013): “Efficient Estimation of Word Representations in Vector Space.” ArXiv:1301.3781 [Cs]. http://arxiv.org/abs/1301.3781. [Letzter Zugriff 25. 09. 2018]<rs type="bibl" ref="#bibl__130"><rs type="bibl" ref="#bibl__97"/></rs></bibl>
+                    <bibl>Rubenstein, Herbert / Goodenough, John B. (1965): “Contextual Correlates of Synonymy.” Communications of the ACM 8 (10): 627-6337. https://doi.org/10.1145/365628.365657. [Letzter Zugriff 25. 09. 2018]<rs type="bibl" ref="#bibl__2992"><rs type="bibl" ref="#bibl__1740"/></rs></bibl>
+                    <bibl>Sahlgren, Magnus (2008): “The Distributional Hypothesis.” Italian Journal of Linguistics 20, (1): 33–53.<rs type="bibl" ref="#bibl__2993"><rs type="bibl" ref="#bibl__1741"/></rs></bibl>
                 </listBibl>
             </div>
         </back>

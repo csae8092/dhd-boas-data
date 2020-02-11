@@ -8,7 +8,7 @@
                         <surname>Hemati</surname>
                         <forename>Wahed</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>hemati@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__mehler-em-uni-frankfurt-de">
@@ -16,7 +16,7 @@
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__uslu-em-uni-frankfurt-de">
@@ -24,7 +24,7 @@
                         <surname>Uslu</surname>
                         <forename>Tolga</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>uslu@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__abrami-em-uni-frankfurt-de">
@@ -32,7 +32,7 @@
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
                     </persName>
-                    <affiliation ref="#org__5">Goethe-Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
                     <email>abrami@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>
@@ -117,31 +117,31 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2083"><hi rend="bold">de Castilho</hi>, 
+                        <rs type="bibl" ref="#bibl__3323"><rs type="bibl" ref="#bibl__2083"><hi rend="bold">de Castilho</hi>, 
                         <hi rend="bold">Richard Eckart / Gurevych Iryna,</hi> (2014): “A broad-coverage collection of portable NLP components for building shareable analysis pipelines”, in: 
                         <hi rend="italic">Proceedings of the Workshop on Open Infrastructures and Analysis Frameworks for HLT</hi> 1–11.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__177"><hi rend="bold">Ferrucci, David</hi>
+                        <rs type="bibl" ref="#bibl__283"><rs type="bibl" ref="#bibl__177"><hi rend="bold">Ferrucci, David</hi>
                         <hi rend="bold">/ Lally, Adam</hi> (2004). “UIMA: an architectural approach to unstructured information processing in the corporate research environment.”, in: 
                         <hi rend="italic">Natural Language Engineering 10(3-4)</hi> 327–348.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2084"><hi rend="bold">Gleim, Rüdiger / Mehler, Alexander / Ernst, Alexandra</hi> (2012): „SOA implementation of the ehumanities desktop”, in: 
+                        <rs type="bibl" ref="#bibl__3324"><rs type="bibl" ref="#bibl__2084"><hi rend="bold">Gleim, Rüdiger / Mehler, Alexander / Ernst, Alexandra</hi> (2012): „SOA implementation of the ehumanities desktop”, in: 
                         <hi rend="italic">Proceedings of the Workshop on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2085"><hi rend="bold">Hemati, Wahed / Uslu, Tolga / Mehler, Alexander</hi> (2016): “Textimager: a distributed uima-based system for nlp”, in: 
+                        <rs type="bibl" ref="#bibl__3325"><rs type="bibl" ref="#bibl__2085"><hi rend="bold">Hemati, Wahed / Uslu, Tolga / Mehler, Alexander</hi> (2016): “Textimager: a distributed uima-based system for nlp”, in: 
                         <hi rend="italic">Proceedings of the COLING 2016 System Demonstrations. FederatedConference on Computer Science and Information Systems</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__178"><hi rend="bold">Manning, Christopher / Surdenu, Mihai / Bauer, John / Finkel, Jenny / Bethard, Steven / McClosky, David</hi> (2014): “The stanford CoreNLP natural language processing toolkit”, in: 
+                        <rs type="bibl" ref="#bibl__284"><rs type="bibl" ref="#bibl__178"><hi rend="bold">Manning, Christopher / Surdenu, Mihai / Bauer, John / Finkel, Jenny / Bethard, Steven / McClosky, David</hi> (2014): “The stanford CoreNLP natural language processing toolkit”, in: 
                         <hi rend="italic">Proceedings of 52nd annual meeting of the association for computational linguistics: system demonstrations</hi> 55–60.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2086"><hi rend="bold">OpenNLP (</hi>2010): “Apache OpenNLP”, in: 
+                        <rs type="bibl" ref="#bibl__3326"><rs type="bibl" ref="#bibl__2086"><hi rend="bold">OpenNLP (</hi>2010): “Apache OpenNLP”, in: 
                         <ref target="http://opennlp.apache.org">http://opennlp.apache.org</ref> [letzter Zugriff 05. Oktober 2018]
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

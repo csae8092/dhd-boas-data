@@ -11,7 +11,7 @@
                         <surname>Blessing</surname>
                         <forename>Andre</forename>
                     </persName>
-                    <affiliation ref="#org__29">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
                     <email>andre.blessing@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
@@ -19,7 +19,7 @@
                         <surname>Kuczera</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
                     <email>andreas.kuczera@adwmainz.de</email>
                 </author>
             </titleStmt>
@@ -134,29 +134,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__498"><hi rend="bold">Blessing, Andre / Schütze, Hinrich </hi>
+                        <rs type="bibl" ref="#bibl__594"><rs type="bibl" ref="#bibl__498"><hi rend="bold">Blessing, Andre / Schütze, Hinrich </hi>
                         (2012) Crosslingual Distant Supervision for Extracting Relations of Different Complexity.
                         In <hi rend="italic">Proceedings of the 21st ACM International Conference on Information and Knowledge Management</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__499"><hi rend="bold">Kuczera, Andreas</hi>
+                        <rs type="bibl" ref="#bibl__595"><rs type="bibl" ref="#bibl__499"><hi rend="bold">Kuczera, Andreas</hi>
                         (2017) Herrscherhandeln in den Regesta Imperii. Beispielprojekt an den Regesten Kaiser Friedrichs III. URL:
                         <ptr target="http://www.digitale-akademie.de/forschung/graphentechnologien/beispielprojekte/"/>
                         (abgerufen am 14.09.2017)
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__500"><hi rend="bold">Kuczera, Andreas </hi>
+                        <rs type="bibl" ref="#bibl__596"><rs type="bibl" ref="#bibl__500"><hi rend="bold">Kuczera, Andreas </hi>
                         (2016): Graphdatenbanken für Historiker. Netzwerke in den Registern der Regesten Kaiser Friedrichs III. mit neo4j und Gephi, in: Mittelalter. Interdisziplinäre Forschung und Rezeptionsgeschichte, 05.05.2015. URL:
                         <ref target="http://mittelalter.hypotheses.org/5995">
                         </ref>
                         <ref target="http://mittelalter.hypotheses.org/5995">
                             <hi rend="underline">http://mittelalter.hypotheses.org/5995</hi>
                         </ref>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__501"><hi rend="bold">Mahlow, Cerstin / Eckart, Kerstin / Stegmann, Jens / Blessing, Andre / Thiele, Gregor / Gärtner, Markus / Kuhn, Jonas</hi>
+                        <rs type="bibl" ref="#bibl__53"><rs type="bibl" ref="#bibl__501"><hi rend="bold">Mahlow, Cerstin / Eckart, Kerstin / Stegmann, Jens / Blessing, Andre / Thiele, Gregor / Gärtner, Markus / Kuhn, Jonas</hi>
                         (2014) Resources, Tools, and Applications at the CLARIN Center Stuttgart in Proceedings of the 12th Konferenz zur Verarbeitung natürlicher Sprache  11-21
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

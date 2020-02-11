@@ -8,7 +8,7 @@
                         <surname>Bubenhofer</surname>
                         <forename>Noah</forename>
                     </persName>
-                    <affiliation ref="#org__89">Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__97">Universität Zürich, Schweiz</affiliation>
                     <email>bubenhofer@cl.uzh.ch</email>
                 </author>
             </titleStmt>
@@ -108,29 +108,29 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__558"><hi rend="bold">Bubenhofer, Noah </hi>(im Druck a): Wenn „Linguistik“ in „Korpuslinguistik“ bedeutungslos wird. Vier Thesen zur Zukunft der Korpuslinguistik. In: Osnabrücker Beiträge zur Sprachtheorie (OBST).</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__559"><hi rend="bold">Bubenhofer, Noah </hi>(im Druck b): Visual Linguistics: Plädoyer für ein neues Forschungsfeld. In: Bubenhofer, Noah / Kupietz, Marc (Hg.): Visualisierung sprachlicher Daten. Heidelberg: HeiUP.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__54"><hi rend="bold">Büttner, Andreas / Dimpel, Friedrich Michael / Evert, Stefan / Jannidis, Fotis / Pielström, Steffen / Proisl, Thomas / Reger, Isabella / Schöch, Christof / Vitt, Thorsten </hi>(2017): »Delta« in der stilometrischen Autorschaftsattribution. In: Zeitschrift für digitale Geisteswissenschaften. text/html Format. DOI: 10.17175/2017_006.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__560"><hi rend="bold">Honneth, Axel </hi>(2016): Denaturierung der Lebenswelt. Vom dreifachen Nutzen der Geisteswissenschaften. In: Panteos, A./Rojek, T. (Hrsg.): 
+                    <bibl><rs type="bibl" ref="#bibl__652"><rs type="bibl" ref="#bibl__558"><hi rend="bold">Bubenhofer, Noah </hi>(im Druck a): Wenn „Linguistik“ in „Korpuslinguistik“ bedeutungslos wird. Vier Thesen zur Zukunft der Korpuslinguistik. In: Osnabrücker Beiträge zur Sprachtheorie (OBST).</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__653"><rs type="bibl" ref="#bibl__559"><hi rend="bold">Bubenhofer, Noah </hi>(im Druck b): Visual Linguistics: Plädoyer für ein neues Forschungsfeld. In: Bubenhofer, Noah / Kupietz, Marc (Hg.): Visualisierung sprachlicher Daten. Heidelberg: HeiUP.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__66"><rs type="bibl" ref="#bibl__54"><hi rend="bold">Büttner, Andreas / Dimpel, Friedrich Michael / Evert, Stefan / Jannidis, Fotis / Pielström, Steffen / Proisl, Thomas / Reger, Isabella / Schöch, Christof / Vitt, Thorsten </hi>(2017): »Delta« in der stilometrischen Autorschaftsattribution. In: Zeitschrift für digitale Geisteswissenschaften. text/html Format. DOI: 10.17175/2017_006.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__654"><rs type="bibl" ref="#bibl__560"><hi rend="bold">Honneth, Axel </hi>(2016): Denaturierung der Lebenswelt. Vom dreifachen Nutzen der Geisteswissenschaften. In: Panteos, A./Rojek, T. (Hrsg.): 
                         <hi rend="italic">Texte zur Theorie der Geisteswissenschaften</hi>, 
                         <hi rend="italic">Reclams Universal-Bibliothek</hi>. Stuttgart : Reclam, S. 283–315
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__55"><hi rend="bold">Krämer, Sybille </hi>(2016): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__67"><rs type="bibl" ref="#bibl__55"><hi rend="bold">Krämer, Sybille </hi>(2016): 
                         <hi rend="italic">Figuration, Anschauung, Erkenntnis: Grundlinien einer Diagrammatologie.</hi> Frankfurt/Main: Suhrkamp Verlag.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__561"><hi rend="bold">Nakov, Preslav/Ritter, Alan/Rosenthal, Sara/Stoyanov, Veselin/Sebastiani, Fabrizio </hi>(2016): SemEval-2016 Task 4: Sentiment Analysis in Twitter. In: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__655"><rs type="bibl" ref="#bibl__561"><hi rend="bold">Nakov, Preslav/Ritter, Alan/Rosenthal, Sara/Stoyanov, Veselin/Sebastiani, Fabrizio </hi>(2016): SemEval-2016 Task 4: Sentiment Analysis in Twitter. In: 
                         <hi rend="italic">Proceedings of the 10th International Workshop on Semantic Evaluation</hi>, 
                         <hi rend="italic">SemEval ’16</hi>. San Diego, California : Association for Computational Linguistics.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__562"><hi rend="bold">Siegel, Steffen </hi>(2009): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__656"><rs type="bibl" ref="#bibl__562"><hi rend="bold">Siegel, Steffen </hi>(2009): 
                         <hi rend="italic">Tabula: Figuren der Ordnung um 1600</hi>. Berlin / Boston : Akademie-Verlag.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__563"><hi rend="bold">Stamatatos, Efstathios </hi>(2009): A Survey of Modern Authorship Attribution Methods. In: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__657"><rs type="bibl" ref="#bibl__563"><hi rend="bold">Stamatatos, Efstathios </hi>(2009): A Survey of Modern Authorship Attribution Methods. In: 
                         <hi rend="italic">J. Am. Soc. Inf. Sci. Technol.</hi> Bd. 60, Nr. 3, S. 538–556
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__564"><hi rend="bold">Steinseifer, Martin </hi>(2013): Texte sehen – Diagrammatologische Impulse für die Textlinguistik. In: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__658"><rs type="bibl" ref="#bibl__564"><hi rend="bold">Steinseifer, Martin </hi>(2013): Texte sehen – Diagrammatologische Impulse für die Textlinguistik. In: 
                         <hi rend="italic">Zeitschrift für germanistische Linguistik</hi> Bd. 41, Nr. 1, S. 8–39
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

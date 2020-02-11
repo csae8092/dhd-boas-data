@@ -8,7 +8,7 @@
                         <surname>Sojer</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation ref="#org__6">Universität Innsbruck, Österreich</affiliation>
+                    <affiliation ref="#org__10">Universität Innsbruck, Österreich</affiliation>
                     <email>claudia.sojer@uibk.ac.at</email>
                 </author>
                 <author ref="#person__aaron-tratter-student-uibk-ac-at">
@@ -16,7 +16,7 @@
                         <surname>Tratter</surname>
                         <forename>Aaron Rudolf</forename>
                     </persName>
-                    <affiliation ref="#org__6">Universität Innsbruck, Österreich</affiliation>
+                    <affiliation ref="#org__10">Universität Innsbruck, Österreich</affiliation>
                     <email>aaron.tratter@student.uibk.ac.at</email>
                 </author>
             </titleStmt>
@@ -146,18 +146,18 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__899"><hi rend="bold">Gärtner, Kurt et al., eds. Hartmann von Aue</hi>. 
+                    <bibl><rs type="bibl" ref="#bibl__975"><rs type="bibl" ref="#bibl__899"><hi rend="bold">Gärtner, Kurt et al., eds. Hartmann von Aue</hi>. 
                         <hi rend="italic">Erec</hi>. 7th ed. Tübingen: Niemeyer, 2006.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__900"><hi rend="bold">Homeyer, Susanne, and Inta Knor</hi>. „Zu einer umfassenden Untersuchung der Schreibsprache Hans Rieds im Ambraser Heldenbuch.“ 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__976"><rs type="bibl" ref="#bibl__900"><hi rend="bold">Homeyer, Susanne, and Inta Knor</hi>. „Zu einer umfassenden Untersuchung der Schreibsprache Hans Rieds im Ambraser Heldenbuch.“ 
                         <hi rend="italic">Zeitschrift für Deutsche Philologie </hi>134.1 (2015): 97-103.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__901"><hi rend="bold">Leitzmann, Albert</hi>. „Die Ambraser Erecüberlieferung.“ 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__977"><rs type="bibl" ref="#bibl__901"><hi rend="bold">Leitzmann, Albert</hi>. „Die Ambraser Erecüberlieferung.“ 
                         <hi rend="italic">Beiträge zur Geschichte der deutschen Sprache und Literatur </hi>59 (1935): 143-234.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__902"><hi rend="bold">Mura, Angela</hi>. „Spuren einer verlorenen Bibliothek: Bozen und seine Rolle bei der Entstehung des Ambraser Heldenbuchs.“ 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__978"><rs type="bibl" ref="#bibl__902"><hi rend="bold">Mura, Angela</hi>. „Spuren einer verlorenen Bibliothek: Bozen und seine Rolle bei der Entstehung des Ambraser Heldenbuchs.“ 
                         <hi rend="italic">Cristallîn Wort. Hartmann-Studien. Rahmenthema: Das Ambraser Heldenbuch</hi>. Ed. Waltraud Fritsch-Rößler. Wien: Lit-Verlag, 2008. 59-128.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

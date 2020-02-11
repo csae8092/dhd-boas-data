@@ -8,7 +8,7 @@
                         <surname>Prager</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__295">Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__447">Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
                 <author ref="#person__hubert-mara-iwr-uni-heidelberg-de">
@@ -16,7 +16,7 @@
                         <surname>Mara</surname>
                         <forename>Hubert</forename>
                     </persName>
-                    <affiliation ref="#org__58">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__21">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>hubert.mara@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__bartosz-bogacz-iwr-uni-heidelberg-de">
@@ -24,7 +24,7 @@
                         <surname>Bogacz</surname>
                         <forename>Bartosz</forename>
                     </persName>
-                    <affiliation ref="#org__58">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__21">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>bartosz.bogacz@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__felix-feldmann-iwr-uni-heidelberg-de">
@@ -32,7 +32,7 @@
                         <surname>Feldmann</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation ref="#org__58">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__21">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>felix.feldmann@iwr.uni-heidelberg.de</email>
                 </author>
             </titleStmt>
@@ -166,33 +166,33 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2769"><hi rend="bold" xml:space="preserve">Bogacz, Bartosz / Gertz, Michael / Mara, Hubert </hi>(2015): "Character Retrieval of Vectorized Cuneiform Script", in: 
+                        <rs type="bibl" ref="#bibl__262"><rs type="bibl" ref="#bibl__2769"><hi rend="bold" xml:space="preserve">Bogacz, Bartosz / Gertz, Michael / Mara, Hubert </hi>(2015): "Character Retrieval of Vectorized Cuneiform Script", in: 
                         <hi rend="italic">13th IAPR International Conference on Document Analysis and Recognition (ICDAR2015)</hi>
                         <ref target="https://www.researchgate.net/publication/281781820_Character_Retrieval_of_Vectorized_Cuneiform_Script">
                             <hi rend="color(1155CC)">https://www.researchgate.net/publication/281781820_Character_Retrieval_of_Vectorized_Cuneiform_Script</hi>
                         </ref> [letzter Zugriff 28. September 2018].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2770"><hi rend="bold" xml:space="preserve">Bogacz, Bartosz / Feldmann, Felix / Prager, Christian / Mara, Hubert </hi>(2018): "Visualizing Networks of Maya Glyphs by Clustering Subglyphs", in: Sablatnig, Robert et al. (eds): 
+                        <rs type="bibl" ref="#bibl__3998"><rs type="bibl" ref="#bibl__2770"><hi rend="bold" xml:space="preserve">Bogacz, Bartosz / Feldmann, Felix / Prager, Christian / Mara, Hubert </hi>(2018): "Visualizing Networks of Maya Glyphs by Clustering Subglyphs", in: Sablatnig, Robert et al. (eds): 
                         <hi rend="italic">Eurographics Workshop on Graphics and Cultural Heritage</hi>. Geneva: The Eurographics Association 105-111 
                         <ref target="http://doi.org/10.2312/gch.20181346">http://doi.org/10.2312/gch.20181346</ref> [letzter Zugriff 12. Januar 2019].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2771"><hi rend="bold" xml:space="preserve">Bogacz, Bartosz / Klingmann, Maximilian / Mara, Hubert </hi>(2017): "Automatic Transliteration of Cuneiform from Parallel Lines with Sparse Data", in: 
+                        <rs type="bibl" ref="#bibl__3999"><rs type="bibl" ref="#bibl__2771"><hi rend="bold" xml:space="preserve">Bogacz, Bartosz / Klingmann, Maximilian / Mara, Hubert </hi>(2017): "Automatic Transliteration of Cuneiform from Parallel Lines with Sparse Data", in: 
                         <hi rend="italic">14th IAPR International Conference on Document Analysis and Recognition (ICDAR2017)</hi>
                         <ref target="https://www.researchgate.net/publication/321491564_Automating_Transliteration_of_Cuneiform_from_Parallel_Lines_with_Sparse_Data">
                             <hi rend="color(1155CC)">https://www.researchgate.net/publication/321491564_Automating_Transliteration_of_Cuneiform_from_Parallel_Lines_with_Sparse_Data</hi>
                         </ref> [letzter Zugriff 28. September 2018].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__2772"><hi rend="bold">Chiarcos, Christian / Pagé-Perron, Émile / Khait, Ilya / Schenk Niko / Reckling, Lucas</hi> (2018): "Towards a Linked Open Data Edition of Sumerian Corpora", in: Calzolari, Nicoletta et al.: 
+                        <rs type="bibl" ref="#bibl__4000"><rs type="bibl" ref="#bibl__2772"><hi rend="bold">Chiarcos, Christian / Pagé-Perron, Émile / Khait, Ilya / Schenk Niko / Reckling, Lucas</hi> (2018): "Towards a Linked Open Data Edition of Sumerian Corpora", in: Calzolari, Nicoletta et al.: 
                         <hi rend="italic">Proceedings of the Eleventh International Conference on Language Resources and Evaluation, LREC 2018, Miyazaki, Japan, May 7-12, 2018</hi>. Paris: European Language Resources Association 2437-2444. 
                         <ref target="http://www.lrec-conf.org/proceedings/lrec2018/pdf/862.pdf">
                             <hi rend="color(1155CC)">http://www.lrec-conf.org/proceedings/lrec2018/pdf/862.pdf</hi>
                         </ref> [letzter Zugriff 28. September 2018].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2773"><hi rend="bold" style="font-size:11pt">Diehr, Franziska / Brodhun, Maximilian / Gronemeyer, Sven / Diederichs, Katja / Prager, Christian / Wagner, Elisabeth / Grube, Nikolai</hi>
+                        <rs type="bibl" ref="#bibl__4001"><rs type="bibl" ref="#bibl__2773"><hi rend="bold" style="font-size:11pt">Diehr, Franziska / Brodhun, Maximilian / Gronemeyer, Sven / Diederichs, Katja / Prager, Christian / Wagner, Elisabeth / Grube, Nikolai</hi>
                         <hi style="font-size:11pt" xml:space="preserve">(2018) "Ein digitaler Zeichenkatalog als Organisationssystem für die noch nicht entzifferte Schrift der Klassischen Maya", in: Wartena, Christian et al. (eds): </hi>
                         <hi rend="italic" style="font-size:11pt">Knowledge Organization for Digital Humanities: Proceedings of the 15th Conference on Knowledge Organization WissOrg’17 of the German Chapter of the International Society for Knowledge Organization (ISKO)</hi>
                         <hi style="font-size:11pt">. Berlin: Freie Universität Berlin 37–43 doi:</hi>
@@ -200,9 +200,9 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">10.17169/FUDOCS_document_000000028863</hi>
                         </ref>
                         <hi style="font-size:11pt" xml:space="preserve"> [letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2774"><hi rend="bold" style="font-size:11pt">Feldmann, Felix / Bogacz, Bartosz / Prager, Christian / Mara, Hubert</hi>
+                        <rs type="bibl" ref="#bibl__4002"><rs type="bibl" ref="#bibl__2774"><hi rend="bold" style="font-size:11pt">Feldmann, Felix / Bogacz, Bartosz / Prager, Christian / Mara, Hubert</hi>
                         <hi style="font-size:11pt" xml:space="preserve">(2017): "Histogram of Oriented Gradients for Maya Glyph Retrieval", in: Schreck, Tobias et al. (eds): </hi>
                         <hi rend="italic" style="font-size:11pt">Eurographics Workshop on Graphics and Cultural Heritage</hi>
                         <hi style="font-size:11pt">. Geneva: The Eurographics Association 115–118</hi>
@@ -210,9 +210,9 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">http://dx.doi.org/10.2312/gch.20171301</hi>
                         </ref>
                         <hi style="font-size:11pt">[letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2775"><hi rend="bold" style="font-size:11pt" xml:space="preserve">Knorozov, Yuri </hi>
+                        <rs type="bibl" ref="#bibl__4003"><rs type="bibl" ref="#bibl__2775"><hi rend="bold" style="font-size:11pt" xml:space="preserve">Knorozov, Yuri </hi>
                         <hi style="font-size:11pt" xml:space="preserve">(1956): "New Data on the Maya Written Language", in: </hi>
                         <hi rend="italic" style="font-size:11pt">Journal de la Société des Américanistes</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> 45: 209–217</hi>
@@ -220,9 +220,9 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">https://www.persee.fr/doc/jsa_0037-9174_1956_num_45_1_961</hi>
                         </ref>
                         <hi style="font-size:11pt" xml:space="preserve"> [letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2776"><hi rend="bold" style="font-size:11pt">O'Kane, Lawrence</hi>
+                        <rs type="bibl" ref="#bibl__4004"><rs type="bibl" ref="#bibl__2776"><hi rend="bold" style="font-size:11pt">O'Kane, Lawrence</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> (1962): "Computers Solve Mayan Writings; Soviet Mathematicians Use Devices for Translation Original Writing System Glossaries Developed Samples of Translations Expert Reserves Judgment", in: </hi>
                         <hi rend="italic" style="font-size:11pt">The New York Times</hi>
                         <hi style="font-size:11pt">, 15 April</hi>
@@ -230,9 +230,9 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">http://query.nytimes.com/gst/abstract.html?res=9800EEDA143DE532A25756C1A9629C946391D6CF</hi>
                         </ref>
                         <hi style="font-size:11pt" xml:space="preserve"> [letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2777"><hi rend="bold" style="font-size:11pt">Rendón, Juan / Spescha, Amalia</hi>
+                        <rs type="bibl" ref="#bibl__4005"><rs type="bibl" ref="#bibl__2777"><hi rend="bold" style="font-size:11pt">Rendón, Juan / Spescha, Amalia</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> (1965) "Nueva clasificación plástica de los glifos mayas", in: </hi>
                         <hi rend="italic" style="font-size:11pt">Estudios de Cultura Maya</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> 5: 189-252 </hi>
@@ -240,17 +240,17 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">http://dx.doi.org/10.19130/iifl.ecm.1965.5.668</hi>
                         </ref>
                         <hi style="font-size:11pt" xml:space="preserve"> [letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2778"><hi rend="bold" style="font-size:11pt">Ringle, William M</hi>
+                        <rs type="bibl" ref="#bibl__4006"><rs type="bibl" ref="#bibl__2778"><hi rend="bold" style="font-size:11pt">Ringle, William M</hi>
                         <hi style="font-size:11pt" xml:space="preserve">. / </hi>
                         <hi rend="bold" style="font-size:11pt" xml:space="preserve">Thomas C. Smith-Stark </hi>
                         <hi style="font-size:11pt" xml:space="preserve">(1996): </hi>
                         <hi rend="italic" style="font-size:11pt">A Concordance to the Inscriptions of Palenque, Chiapas, Mexico</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> (= Middle American Research Institute Publication 62) New Orleans, LA: Middle American Research Institute, Tulane University.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2779"><hi rend="bold" style="font-size:11pt">Schellhas, Paul</hi>
+                        <rs type="bibl" ref="#bibl__4007"><rs type="bibl" ref="#bibl__2779"><hi rend="bold" style="font-size:11pt">Schellhas, Paul</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> (1945): "Die Entzifferung der Mayahieroglyphen: ein unlösbares Problem?", in: </hi>
                         <hi rend="italic" style="font-size:11pt">Ethnos</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> 10(1): 44–53 </hi>
@@ -258,21 +258,21 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">https://doi.org/10.1080/00141844.1945.9980637</hi>
                         </ref>
                         <hi style="font-size:11pt" xml:space="preserve"> [letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2780"><hi rend="bold" style="font-size:11pt">Schlenther, Ursula</hi>
+                        <rs type="bibl" ref="#bibl__4008"><rs type="bibl" ref="#bibl__2780"><hi rend="bold" style="font-size:11pt">Schlenther, Ursula</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> (1964): "Kritische Bemerkungen zur kybernetischen Entzifferung der Maya-Hieroglyphen (mit 10 Abbildungen und 3 Tabellen", in: </hi>
                         <hi rend="italic" style="font-size:11pt">Ethnographisch-archäologische Zeitschrift</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> 5(5): 111-139.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2781"><hi rend="bold" style="font-size:11pt" xml:space="preserve">Sobolev, Sergei L'vovich </hi>
+                        <rs type="bibl" ref="#bibl__4009"><rs type="bibl" ref="#bibl__2781"><hi rend="bold" style="font-size:11pt" xml:space="preserve">Sobolev, Sergei L'vovich </hi>
                         <hi style="font-size:11pt" xml:space="preserve">(1961): "Die vollständige Entzifferung der Maya-Handschriften durch mathematische Methoden", in: </hi>
                         <hi rend="italic" style="font-size:11pt">Wissenschaftliche Zeitschrift der Humboldt Universität</hi>
                         <hi style="font-size:11pt" xml:space="preserve"> 10(4–5): XVII–XXI.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2782"><hi rend="bold" style="font-size:11pt" xml:space="preserve">Zender, Marc </hi>
+                        <rs type="bibl" ref="#bibl__4010"><rs type="bibl" ref="#bibl__2782"><hi rend="bold" style="font-size:11pt" xml:space="preserve">Zender, Marc </hi>
                         <hi style="font-size:11pt" xml:space="preserve">(1999): </hi>
                         <hi rend="italic" style="font-size:11pt">Diacritical Marks and Underspelling in the Classic Maya Script: Implications for Decipherment</hi>
                         <hi style="font-size:11pt" xml:space="preserve">. M.A. Thesis. Department of Archaeology, University of Calgary </hi>
@@ -280,7 +280,7 @@
                             <hi rend="color(1155CC)" style="font-size:11pt">http://dx.doi.org/10.5072/PRISM/19313</hi>
                         </ref>
                         <hi style="font-size:11pt" xml:space="preserve"> [letzter Zugriff 28. September 2018].</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

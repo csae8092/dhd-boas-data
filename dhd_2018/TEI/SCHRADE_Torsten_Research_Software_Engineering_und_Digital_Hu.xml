@@ -8,7 +8,7 @@
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation ref="#org__30">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>Torsten.Schrade@adwmainz.de</email>
                 </author>
                 <author ref="#person__czmiel-bbaw-de">
@@ -16,7 +16,7 @@
                         <surname>Czmiel</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__34">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>czmiel@bbaw.de</email>
                 </author>
                 <author ref="#person__stephan-druskat-hu-berlin-de">
@@ -24,7 +24,7 @@
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation ref="#org__27">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
             </titleStmt>
@@ -189,63 +189,63 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1457"><hi rend="bold">Brett, Alys / Croucher, Michael et.al.</hi> (2017): "Research Software Engineers: State of the Nation Report 2017", Zenodo 
+                        <rs type="bibl" ref="#bibl__1518"><rs type="bibl" ref="#bibl__1457"><hi rend="bold">Brett, Alys / Croucher, Michael et.al.</hi> (2017): "Research Software Engineers: State of the Nation Report 2017", Zenodo 
                         <ref target="http://doi.org/10.5281/zenodo.495360">
                             <hi rend="color(1155CC)">http://doi.org/10.5281/zenodo.495360</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1458"><hi rend="bold">Czmiel, Alexander</hi> (2017): "Dokumentation, Werkzeugkasten, Pakete - Nachhaltigkeit von Daten und Funktionalität Digitaler Editionen", Einreichung für die DHd-Konferenz 2018, Köln.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1519"><rs type="bibl" ref="#bibl__1458"><hi rend="bold">Czmiel, Alexander</hi> (2017): "Dokumentation, Werkzeugkasten, Pakete - Nachhaltigkeit von Daten und Funktionalität Digitaler Editionen", Einreichung für die DHd-Konferenz 2018, Köln.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1459"><hi rend="bold">Druskat, Stephan / Vertan, Cristina</hi> (2017). "Nachnutzbarmachung von Forschungsdaten und Tools am Beispiel altäthiopischer Korpora", Einreichung für die DHd-Konferenz 2018, Köln.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1520"><rs type="bibl" ref="#bibl__1459"><hi rend="bold">Druskat, Stephan / Vertan, Cristina</hi> (2017). "Nachnutzbarmachung von Forschungsdaten und Tools am Beispiel altäthiopischer Korpora", Einreichung für die DHd-Konferenz 2018, Köln.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1460"><hi rend="bold">Druskat, Stephan / N. Chue Hong et.al.</hi> (2017): "Proceedings of the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", figshare 
+                        <rs type="bibl" ref="#bibl__1521"><rs type="bibl" ref="#bibl__1460"><hi rend="bold">Druskat, Stephan / N. Chue Hong et.al.</hi> (2017): "Proceedings of the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)", figshare 
                         <ref target="https://doi.org/10.6084/m9.figshare.c.3869782.v3">
                             <hi rend="color(1155CC)">https://doi.org/10.6084/m9.figshare.c.3869782</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1461"><hi rend="bold">Faniel, Ixchel</hi> (2015): "Data Management and Curation in 21st Century Archives", 21. September 2015 
+                        <rs type="bibl" ref="#bibl__1522"><rs type="bibl" ref="#bibl__1461"><hi rend="bold">Faniel, Ixchel</hi> (2015): "Data Management and Curation in 21st Century Archives", 21. September 2015 
                         <ref target="http://hangingtogether.org/?p=5375">
                             <hi rend="color(1155CC)">http://hangingtogether.org/?p=5375</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1462"><hi rend="bold">Fowler, Martin</hi> (2001): "Manifesto for Agile Software Development", 
+                        <rs type="bibl" ref="#bibl__1523"><rs type="bibl" ref="#bibl__1462"><hi rend="bold">Fowler, Martin</hi> (2001): "Manifesto for Agile Software Development", 
                         <ref target="http://agilemanifesto.org/iso/de/manifesto.html">http://agilemanifesto.org/iso/de/manifesto.html</ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1463"><hi rend="bold">Hettrick, Simon</hi> (2016): "Research Software Sustainability: Report on a Knowledge Exchange Workshop", Edinburgh, The Software Sustainability Institute 
+                        <rs type="bibl" ref="#bibl__1524"><rs type="bibl" ref="#bibl__1463"><hi rend="bold">Hettrick, Simon</hi> (2016): "Research Software Sustainability: Report on a Knowledge Exchange Workshop", Edinburgh, The Software Sustainability Institute 
                         <ref target="http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_Workshop_Feb_2016_FINAL.pdf">
                             <hi rend="color(1155CC)">http://repository.jisc.ac.uk/6332/1/Research_Software_Sustainability_Report_on_KE_
                                 Workshop_Feb_2016_FINAL.pdf</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1464"><hi rend="bold">Hong, N. Chue et al.</hi> (2010): "Software Preservation Benefits Framework. Software Sustainability Institute Technical Report", Edinburgh, The Software Sutainability Institute 
+                        <rs type="bibl" ref="#bibl__1525"><rs type="bibl" ref="#bibl__1464"><hi rend="bold">Hong, N. Chue et al.</hi> (2010): "Software Preservation Benefits Framework. Software Sustainability Institute Technical Report", Edinburgh, The Software Sutainability Institute 
                         <ref target="http://www.research.ed.ac.uk/portal/files/1219870/SoftwarePreservationBenefitsFramework.pdf">http://www.research.ed.ac.uk/portal/files/1219870/SoftwarePreservationBenefitsFramework.pdf</ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1465"><hi rend="bold">Katz, Daniel S. et al.</hi> (2016): "Report on the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)", The Computing Research Repository (CoRR), abs/1705.02607 
+                        <rs type="bibl" ref="#bibl__1526"><rs type="bibl" ref="#bibl__1465"><hi rend="bold">Katz, Daniel S. et al.</hi> (2016): "Report on the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)", The Computing Research Repository (CoRR), abs/1705.02607 
                         <ref target="https://arxiv.org/abs/1705.02607">
                             <hi rend="color(1155CC)">https://arxiv.org/abs/1705.02607</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1466"><hi rend="bold">Komus, Ayelt et.al.</hi> (2015): "Studie Status Quo Agile", Hochschule Koblenz, BPM Labor 
+                        <rs type="bibl" ref="#bibl__1527"><rs type="bibl" ref="#bibl__1466"><hi rend="bold">Komus, Ayelt et.al.</hi> (2015): "Studie Status Quo Agile", Hochschule Koblenz, BPM Labor 
                         <ref target="http://www.status-quo-agile.de/">
                             <hi rend="color(1155CC)">http://www.status-quo-agile.de/</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1467"><hi rend="bold">Schrade, Torsten</hi> (2017): "Nachhaltige Softwareentwicklung in den Digital Humanities. Konzepte und Methoden", in: Konferenzband der DHd2017, Bern 2017, S. 168-171, 
+                        <rs type="bibl" ref="#bibl__1528"><rs type="bibl" ref="#bibl__1467"><hi rend="bold">Schrade, Torsten</hi> (2017): "Nachhaltige Softwareentwicklung in den Digital Humanities. Konzepte und Methoden", in: Konferenzband der DHd2017, Bern 2017, S. 168-171, 
                         <ref target="http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf">http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_März.pdf</ref> und 
                         <ref target="https://digicademy.github.io/2017-dhd-sustainable-software/">
                             <hi rend="color(1155CC)">https://digicademy.github.io/2017-dhd-sustainable-software/</hi>
                         </ref> [letzter Zugriff am 25.09.2017].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

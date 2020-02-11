@@ -11,7 +11,7 @@
                         <surname>Goedel</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation ref="#org__1">Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__2">Cologne Center for eHumanities</affiliation>
                     <email>mgoedel@uni-koeln.de</email>
                 </author>
                 <author ref="#person__sebastian-zimmer-uni-koeln-de">
@@ -19,7 +19,7 @@
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation ref="#org__1">Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__2">Cologne Center for eHumanities</affiliation>
                     <email>sebastian.zimmer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__johannes-schmidt-uni-bielefeld-de">
@@ -27,7 +27,7 @@
                         <surname>Schmidt</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__83">Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</affiliation>
+                    <affiliation ref="#org__92">Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</affiliation>
                     <email>johannes.schmidt@uni-bielefeld.de</email>
                 </author>
             </titleStmt>
@@ -203,16 +203,16 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__439"><hi rend="bold">Krajewski, Markus</hi> (2002):
+                        <rs type="bibl" ref="#bibl__535"><rs type="bibl" ref="#bibl__439"><hi rend="bold">Krajewski, Markus</hi> (2002):
                         <hi rend="italic">ZettelWirtschaft. Die Geburt der Kartei aus dem Geiste der Bibliothek</hi>
                         . Berlin: Kadmos.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__35"><hi rend="bold">Schmidt, Johannes F.K.</hi> (2016): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__43"><rs type="bibl" ref="#bibl__35"><hi rend="bold">Schmidt, Johannes F.K.</hi> (2016): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__440"><hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__536"><rs type="bibl" ref="#bibl__440"><hi rend="bold">Watts, Duncan</hi> (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

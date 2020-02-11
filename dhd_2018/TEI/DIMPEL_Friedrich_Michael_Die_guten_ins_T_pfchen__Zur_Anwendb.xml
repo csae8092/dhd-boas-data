@@ -8,7 +8,7 @@
                         <surname>Dimpel</surname>
                         <forename>Friedrich Michael</forename>
                     </persName>
-                    <affiliation ref="#org__4">FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</affiliation>
+                    <affiliation ref="#org__8">FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</affiliation>
                     <email>mail@dimpel.de</email>
                 </author>
             </titleStmt>
@@ -133,68 +133,68 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__54"><hi rend="bold">Büttner, Andreas / Dimpel, Friedrich Michael / Evert, Stefan / Jannidis, Fotis / Pielström, Steffen / Proisl, Thomas / Reger, Isabella / Schöch, Christof / Vitt, Thorsten </hi>(forthcoming 2017): „„Delta“ in der stilometrischen Autorschaftsattribution“, in: ZfdG. </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__129"><hi rend="bold">Burrows, John </hi>(2002): „‘Delta’: A Measure of Stylistic Difference and a Guide to Likely Authorship“, in: 
+                    <bibl><rs type="bibl" ref="#bibl__66"><rs type="bibl" ref="#bibl__54"><hi rend="bold">Büttner, Andreas / Dimpel, Friedrich Michael / Evert, Stefan / Jannidis, Fotis / Pielström, Steffen / Proisl, Thomas / Reger, Isabella / Schöch, Christof / Vitt, Thorsten </hi>(forthcoming 2017): „„Delta“ in der stilometrischen Autorschaftsattribution“, in: ZfdG. </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__172"><rs type="bibl" ref="#bibl__129"><hi rend="bold">Burrows, John </hi>(2002): „‘Delta’: A Measure of Stylistic Difference and a Guide to Likely Authorship“, in: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 17/3: 267–87. 10.1093/llc/17.3.267.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1308"><hi rend="bold">De Boor, Helmut </hi>(1967): „Die Chronologie der Werke Konrads von Würzburg, insbesondere die Stellung des Turniers von Nantes“, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1376"><rs type="bibl" ref="#bibl__1308"><hi rend="bold">De Boor, Helmut </hi>(1967): „Die Chronologie der Werke Konrads von Würzburg, insbesondere die Stellung des Turniers von Nantes“, in: 
                         <hi rend="italic">PBB</hi> 89: 210–269.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1309"><hi rend="bold">De Boor, Helmut / Janota, Johannes </hi>(1997): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1377"><rs type="bibl" ref="#bibl__1309"><hi rend="bold">De Boor, Helmut / Janota, Johannes </hi>(1997): 
                         <hi rend="italic">Geschichte der deutschen Literatur von den Anfängen bis zur Gegenwart. Band III /,1. Die deutsche Literatur im späten Mittelalter: Epik, Lyrik, Didaktik, geistliche und historische Dichtung: 1250–1350</hi>, 5., neubearb. Aufl. von Johannes Janota. München.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1310"><hi rend="bold">Dimpel, Friedrich Michael </hi>(2016): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1378"><rs type="bibl" ref="#bibl__1310"><hi rend="bold">Dimpel, Friedrich Michael </hi>(2016): 
                         <hi rend="italic">„Burrows’ Delta im Mittelalter: Wilde Graphien und metrische Analysedaten“</hi>, in: Modellierung – Vernetzung – Visualisierung. Die Digital Humanities als fächerübergreifendes Forschungsparadigma. Konferenzabstracts zur DHd-Tagung 2016 in Leipzig, http://dhd2016.de/: 65–70.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1311"><hi rend="bold">Dimpel, Friedrich Michael </hi>(2017a): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1379"><rs type="bibl" ref="#bibl__1311"><hi rend="bold">Dimpel, Friedrich Michael </hi>(2017a): 
                         <hi rend="italic">„Autorschaftsattribution bei nicht-normalisiertem Mittelhochdeutsch. Bessere Erkennungsquoten durch ein Normalisierungswörterbuch“</hi>, in Stolz, Michael (Hrsg.): 
                         <hi rend="italic">Konferenzabstracts DHd 2017 Bern. Digitale Nachhaltigkeit</hi>. Bern: 100-103. http://www.dhd2017.ch/programm.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1312"><hi rend="bold">Dimpel, Friedrich Michael </hi>(forthcoming 2017b): „Ein Delta-Rätsel: Nicht-normalisierte mittelhochdeutsche Texte, Z-Wert-Begrenzung und ein Normalisierungswörterbuch. Oder: Auf welche Wörter kommt es bei Delta an?“, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1380"><rs type="bibl" ref="#bibl__1312"><hi rend="bold">Dimpel, Friedrich Michael </hi>(forthcoming 2017b): „Ein Delta-Rätsel: Nicht-normalisierte mittelhochdeutsche Texte, Z-Wert-Begrenzung und ein Normalisierungswörterbuch. Oder: Auf welche Wörter kommt es bei Delta an?“, in: 
                         <hi rend="italic">Dariah-de-Working Papers</hi> n.n. 
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1313"><hi rend="bold">Dimpel, Friedrich Michael </hi>(forthcoming 2018): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1381"><rs type="bibl" ref="#bibl__1313"><hi rend="bold">Dimpel, Friedrich Michael </hi>(forthcoming 2018): 
                         <hi rend="italic">„Stabile Autorschaft trotz handschriftlicher Varianz? Die Erfolgsquote von Burrows' Delta bei nicht-normalisierten mittelhochdeutschen Texten optimieren“</hi> (in Begutachtung, n.n.).
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1314"><hi rend="bold">Eder, Maciej </hi>(2013a): „Mind Your Corpus: systematic errors in authorship attribution“, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__173"><rs type="bibl" ref="#bibl__1314"><hi rend="bold">Eder, Maciej </hi>(2013a): „Mind Your Corpus: systematic errors in authorship attribution“, in: 
                         <hi rend="italic">Literary and Linguistic Computing</hi> 28:603-614. 10.1093/llc/fqt039.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1315"><hi rend="bold">Eder, Maciej </hi>(2013b): „Does size matter? Authorship attribution, small samples, big problem“, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__174"><rs type="bibl" ref="#bibl__1315"><hi rend="bold">Eder, Maciej </hi>(2013b): „Does size matter? Authorship attribution, small samples, big problem“, in: 
                         <hi rend="italic">Literary and Linguistic Computing Advanced Access</hi> 29:1-16. 10.1093/llc/fqt066.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1316"><hi rend="bold">Eibl, Karl </hi>(2013): „Ist Literaturwissenschaft als Erfahrungswissenschaft möglich? Mit einigen Anmerkungen zur Wissenschaftsphilosophie des Wiener Kreises“, in: Philip Ajouri [u. a.] (Hrsg.): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1382"><rs type="bibl" ref="#bibl__1316"><hi rend="bold">Eibl, Karl </hi>(2013): „Ist Literaturwissenschaft als Erfahrungswissenschaft möglich? Mit einigen Anmerkungen zur Wissenschaftsphilosophie des Wiener Kreises“, in: Philip Ajouri [u. a.] (Hrsg.): 
                         <hi rend="italic">Empirie in der Literaturwissenschaft, Münster</hi> (Poetogenesis. Studien zur empirischen Anthropologie der Literatur 8): 19–45.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1317"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2015): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__175"><rs type="bibl" ref="#bibl__1317"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2015): 
                         <hi rend="italic">„Towards a better understanding of Burrows’s Delta in literary authorship attribution“</hi>, in: 
                         <hi rend="italic">Proceedings of the Fourth Workshop on Computational Linguistics for Literature</hi>. Denver, CO: Association for Computational Linguistics: 79–88. 10.5281/zenodo.18177. http://www.aclweb.org/anthology/W/W15/W15-0709.pdf [Abruf 20.8.2015].
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1318"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Pielström, Steffen / Reger, Isabella/ Schöch, Christof / Vitt, Thorsten </hi>(2016): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1383"><rs type="bibl" ref="#bibl__1318"><hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Pielström, Steffen / Reger, Isabella/ Schöch, Christof / Vitt, Thorsten </hi>(2016): 
                         <hi rend="italic">„Burrows Delta verstehen“</hi>, in: 
                         <hi rend="italic">Modellierung – Vernetzung – Visualisierung. Die Digital Humanities als fächerübergreifendes Forschungsparadigma. Konferenzabstracts zur DHd-Tagung 2016 in Leipzig</hi>, http://dhd2016.de/: 61–65.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1319"><hi rend="bold">Edith Feistner </hi>(2000): „Kulinarische Begegnungen. Konrad von Würzburg und ‚Die halbe Birne‘“ in: Dorothea Klein et al. (Hrsg.): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1384"><rs type="bibl" ref="#bibl__1319"><hi rend="bold">Edith Feistner </hi>(2000): „Kulinarische Begegnungen. Konrad von Würzburg und ‚Die halbe Birne‘“ in: Dorothea Klein et al. (Hrsg.): 
                         <hi rend="italic">Vom Mittelalter zur Neuzeit. FS Horst Brunner. </hi>Wiesbaden: 291–304. Grubmüller, Klaus (1996): 
                         <hi rend="italic">Novellistik des Mittelalters. Märendichtung</hi>. Frankfurt/Main 1996 (Bibliothek des Mittelalters 23).
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1320"><hi rend="bold">Jannidis, Fotis / Lauer, Gerhard </hi>(2014). 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__176"><rs type="bibl" ref="#bibl__1320"><hi rend="bold">Jannidis, Fotis / Lauer, Gerhard </hi>(2014). 
                         <hi rend="italic">„Burrows’s Delta and Its Use in German Literary History“</hi> in: Erlin, Matt / Tatlock, Lynne (eds.): 
                         <hi rend="italic">Distant Readings. Topologies of German Culture in the Long Nineteenth Century</hi>. New York: 29–54.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__130"><hi rend="bold">Jannidis, Fotis / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2015): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__177"><rs type="bibl" ref="#bibl__130"><hi rend="bold">Jannidis, Fotis / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten </hi>(2015): 
                         <hi rend="italic">„Improving Burrows’ Delta – An Empirical Evaluation of Text Distance Measures“</hi>, in: 
                         <hi rend="italic">Digital Humanities Conference 2015</hi>, Sydney. http://dh2015.org/abstracts/xml/JANNIDIS_Fotis_Improving_Burrows__Delta___An_empi/JANNIDIS_Fotis_Improving_Burrows__Delta___An_empirical_.html.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1321"><hi rend="bold">Lachmann, Karl </hi>(1820): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1385"><rs type="bibl" ref="#bibl__1321"><hi rend="bold">Lachmann, Karl </hi>(1820): 
                         <hi rend="italic">Auswahl aus den Hochdeutschen Dichtern des dreizehnten Jahrhunderts</hi>, Berlin.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1322"><hi rend="bold">Laudan, Hans </hi>(1908): „‚Die Halbe Birne‘ nicht von Konrad von Würzburg“, in: 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1386"><rs type="bibl" ref="#bibl__1322"><hi rend="bold">Laudan, Hans </hi>(1908): „‚Die Halbe Birne‘ nicht von Konrad von Würzburg“, in: 
                         <hi rend="italic">ZfdA</hi> 50: 158–166.
-                    </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__67"><hi rend="bold">Schöch, Christof </hi>(2014): 
+                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__79"><rs type="bibl" ref="#bibl__67"><hi rend="bold">Schöch, Christof </hi>(2014): 
                         <hi rend="italic">„Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik“</hi> in: Christof Schöch und Lars Schneider (Hrsg.): 
                         <hi rend="italic">Literaturwissenschaft im digitalen Medienwandel</hi>, Berlin (Philologie im Netz, Beiheft 7): 130–157.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

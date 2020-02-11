@@ -11,7 +11,7 @@
                         <surname>Hug</surname>
                         <forename>Marius</forename>
                     </persName>
-                    <affiliation ref="#org__38">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>marius.hug@googlemail.com</email>
                 </author>
             </titleStmt>
@@ -103,21 +103,21 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__813"><hi rend="bold">Meggendorfer, Lothar</hi> (1886): 
+                        <rs type="bibl" ref="#bibl__893"><rs type="bibl" ref="#bibl__813"><hi rend="bold">Meggendorfer, Lothar</hi> (1886): 
                         <hi rend="italic">Bewegliche Schattenbilder, 1. Vorstellung,</hi> München: Braun &amp; Schneider. Staatsbibliothek zu Berlin, Kinder- und Jugendbuchabteilung, Signatur: 53 BB 500600-1 R.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__10"><hi rend="bold">Pierazzo, Elena</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__12"><rs type="bibl" ref="#bibl__10"><hi rend="bold">Pierazzo, Elena</hi> (2015): 
                         <hi rend="italic">Digital Scholarly Editing: Theories, Models and Methods</hi>. Farnham: Ashgate.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__814"><hi rend="bold">Schmitz-Emans, Monika</hi> (2016): "Modellierungen, Inszenierungen, Transgressionen. Zu Geschichte, Spielformen und Poetik des beweglichen Buchs", in: Bachmann, Christian A./Emans, Laura/Schmitz-Emans, Monika (eds.): 
+                        <rs type="bibl" ref="#bibl__894"><rs type="bibl" ref="#bibl__814"><hi rend="bold">Schmitz-Emans, Monika</hi> (2016): "Modellierungen, Inszenierungen, Transgressionen. Zu Geschichte, Spielformen und Poetik des beweglichen Buchs", in: Bachmann, Christian A./Emans, Laura/Schmitz-Emans, Monika (eds.): 
                         <hi rend="italic">Bewegungsbücher. Spielformen, Poetiken, Konstellationen,</hi> Berlin: Ch. A. Bachmann Verlag, S. 85–123.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__815"><hi rend="bold">Vanhoutte, Edward</hi> (2010): "Defining Electronic Editions: A Historical and Functional Perspective", in: McCarty, W. (ed.): 
+                        <rs type="bibl" ref="#bibl__895"><rs type="bibl" ref="#bibl__815"><hi rend="bold">Vanhoutte, Edward</hi> (2010): "Defining Electronic Editions: A Historical and Functional Perspective", in: McCarty, W. (ed.): 
                         <hi rend="italic">Text and Genre in Reconstruction. Effects of Digitalization on Ideas, Behaviours, Products and Institutions</hi>. Open Book Publishers, Cambridge, S. 119–144.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

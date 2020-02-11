@@ -8,7 +8,7 @@
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
                     </persName>
-                    <affiliation ref="#org__50">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>schlupko@uni-wuppertal.de</email>
                 </author>
                 <author ref="#person__nantke-uni-wuppertal-de">
@@ -16,7 +16,7 @@
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation ref="#org__50">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>nantke@uni-wuppertal.de</email>
                 </author>
             </titleStmt>
@@ -121,64 +121,64 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2615"><hi rend="bold">Barwise, Jon / Perry, John</hi> (1983): 
+                        <rs type="bibl" ref="#bibl__3849"><rs type="bibl" ref="#bibl__2615"><hi rend="bold">Barwise, Jon / Perry, John</hi> (1983): 
                         <hi rend="italic">Situations and Attitudes</hi>. Cambridge: Bradford Book, MIT Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2616"><hi rend="bold">Bauer Lucca, Eva</hi> (2001): 
+                        <rs type="bibl" ref="#bibl__3850"><rs type="bibl" ref="#bibl__2616"><hi rend="bold">Bauer Lucca, Eva</hi> (2001): 
                         <hi rend="italic">Versteckte Spuren: eine intertextuelle Annäherung an Thomas Manns Roman “Doktor Faustus”</hi>. Wiesbaden: Deutscher Universitätsverlag.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2617"><hi rend="bold">Buß, Angelika</hi> (2006): 
+                        <rs type="bibl" ref="#bibl__3851"><rs type="bibl" ref="#bibl__2617"><hi rend="bold">Buß, Angelika</hi> (2006): 
                         <hi rend="italic" xml:space="preserve">Intertextualität als Herausforderung für den Literaturunterricht. Am Beispiel von Patrick Süßkinds </hi>Das Parfum. Frankfurt a. M. u.a.: Peter Lang.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2618"><hi rend="bold">Devlin, Keith J.</hi> (1990): 
+                        <rs type="bibl" ref="#bibl__3852"><rs type="bibl" ref="#bibl__2618"><hi rend="bold">Devlin, Keith J.</hi> (1990): 
                         <hi rend="italic">Logic and Information</hi>. Cambridge: Cambridge University Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2619"><hi rend="bold">Genette, Gérard</hi> (1993): 
+                        <rs type="bibl" ref="#bibl__185"><rs type="bibl" ref="#bibl__2619"><hi rend="bold">Genette, Gérard</hi> (1993): 
                         <hi rend="italic">Palimpseste. Die Literatur auf zweiter Stufe</hi>. Frankfurt a. M.: Suhrkamp.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2620"><hi rend="bold">Heilmann, Iris</hi> (1998): 
+                        <rs type="bibl" ref="#bibl__3853"><rs type="bibl" ref="#bibl__2620"><hi rend="bold">Heilmann, Iris</hi> (1998): 
                         <hi rend="italic">Günter Grass und John Irving. Eine transatlantische Intertextualitätsstudie.</hi> Frankfurt a. M. u.a.: Peter Lang.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2621"><hi rend="bold">Huber, Martin / Krämer, Sybille</hi> (2018): “Dimensionen digitaler Geisteswissenschaften”, in: Huber, Martin / Krämer Sybille (eds.): 
+                        <rs type="bibl" ref="#bibl__3854"><rs type="bibl" ref="#bibl__2621"><hi rend="bold">Huber, Martin / Krämer, Sybille</hi> (2018): “Dimensionen digitaler Geisteswissenschaften”, in: Huber, Martin / Krämer Sybille (eds.): 
                         <hi rend="italic">Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden</hi>. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften; 3) DOI: 10.17175/sb003_013.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2622"><hi rend="bold">Kocher, Ursula</hi> (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): 
+                        <rs type="bibl" ref="#bibl__3855"><rs type="bibl" ref="#bibl__2622"><hi rend="bold">Kocher, Ursula</hi> (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): 
                         <hi rend="italic">Ästhetische Erfahrung und Edition</hi>. Tübingen: Max Niemeyer, 175–185.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__136"><hi rend="bold">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth</hi> (2009): “Ontology-based situation awareness”, in: 
+                        <rs type="bibl" ref="#bibl__186"><rs type="bibl" ref="#bibl__136"><hi rend="bold">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth</hi> (2009): “Ontology-based situation awareness”, in: 
                         <hi rend="italic">Information Fusion</hi> 10, 1. St. Louis, MO, USA: Elsevier, 83–98.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2623"><hi rend="bold">Maler, Eve / Walsh, Norman / Orchard, David / DeRose, Steven</hi> (2010): „XML Linking Language (XLink) Version 1.1“. W3C Recommendation. https://www.w3.org/TR/2010/REC-xlink11-20100506/.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3856"><rs type="bibl" ref="#bibl__2623"><hi rend="bold">Maler, Eve / Walsh, Norman / Orchard, David / DeRose, Steven</hi> (2010): „XML Linking Language (XLink) Version 1.1“. W3C Recommendation. https://www.w3.org/TR/2010/REC-xlink11-20100506/.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2624"><hi rend="bold">Nantke, Julia / Schlupkothen, Frederik</hi> (2018): “Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web”, in: 
+                        <rs type="bibl" ref="#bibl__3857"><rs type="bibl" ref="#bibl__2624"><hi rend="bold">Nantke, Julia / Schlupkothen, Frederik</hi> (2018): “Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web”, in: 
                         <hi rend="italic">Konferenzabstracts DHd 2018 Kritik der digitalen Vernunft</hi>
                         <ref target="http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf">http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf</ref>, 345–349.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2625"><hi rend="bold">Schulte-Middelich, Bernd</hi> (1985): “Funktionen intertextueller Textkonstitution”, in: Ulrich Broich, Manfred Pfister (eds.): 
+                        <rs type="bibl" ref="#bibl__3858"><rs type="bibl" ref="#bibl__2625"><hi rend="bold">Schulte-Middelich, Bernd</hi> (1985): “Funktionen intertextueller Textkonstitution”, in: Ulrich Broich, Manfred Pfister (eds.): 
                         <hi rend="italic">Intertextualität. Formen, Funktionen, anglistische Fallstudien</hi>. Tübingen: Niemeyer, 197–242.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2626"><hi rend="bold">Seaborne, Andy / Harris, Steven</hi> (2013): “SPARQL 1.1 Query Language. W3C Recommendation”. https://www.w3.org/TR/2013/REC-sparql11-query-20130321/.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3859"><rs type="bibl" ref="#bibl__2626"><hi rend="bold">Seaborne, Andy / Harris, Steven</hi> (2013): “SPARQL 1.1 Query Language. W3C Recommendation”. https://www.w3.org/TR/2013/REC-sparql11-query-20130321/.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2627"><hi rend="bold">Spoerhase, Carlos</hi> (2015): “Das ‚Laboratorium‘ der Philologie? Das philologische Seminar als Raum der Vermittlung von Praxiswissen (circa 1850–1900)”, in: Andrea Albrecht, Lutz Danneberg, Olav Krämer und Carlos Spoerhase (eds.): 
+                        <rs type="bibl" ref="#bibl__3860"><rs type="bibl" ref="#bibl__2627"><hi rend="bold">Spoerhase, Carlos</hi> (2015): “Das ‚Laboratorium‘ der Philologie? Das philologische Seminar als Raum der Vermittlung von Praxiswissen (circa 1850–1900)”, in: Andrea Albrecht, Lutz Danneberg, Olav Krämer und Carlos Spoerhase (eds.): 
                         <hi rend="italic">Theorien, Methoden und Praktiken des Interpretierens</hi>. Berlin/München/Boston: De Gruyter, 53–80.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2628"><hi rend="bold">Verweyen, Theodor / Wittig, Gunther</hi> (2010): 
+                        <rs type="bibl" ref="#bibl__3861"><rs type="bibl" ref="#bibl__2628"><hi rend="bold">Verweyen, Theodor / Wittig, Gunther</hi> (2010): 
                         <hi rend="italic">Einfache Formen der Intertextualität: Theoretische Überlegungen und historische Untersuchungen</hi>. Paderborn: mentis.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -8,7 +8,7 @@
                         <surname>Münster</surname>
                         <forename>Sander</forename>
                     </persName>
-                    <affiliation ref="#org__118">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
                 <author ref="#person__kristina-barthel-tu-dresden-de">
@@ -16,7 +16,7 @@
                         <surname>Barthel</surname>
                         <forename>Kristina</forename>
                     </persName>
-                    <affiliation ref="#org__118">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
                     <email>kristina.barthel@tu-dresden.de</email>
                 </author>
                 <author ref="#person__jonas-bruschke-uni-wuerzburg-de">
@@ -24,7 +24,7 @@
                         <surname>Bruschke</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation ref="#org__120">JMU Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__122">JMU Würzburg, Deutschland</affiliation>
                     <email>jonas.bruschke@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__kristina-friedrichs-tu-dresden-de">
@@ -32,7 +32,7 @@
                         <surname>Friedrichs</surname>
                         <forename>Kristina</forename>
                     </persName>
-                    <affiliation ref="#org__120">JMU Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__122">JMU Würzburg, Deutschland</affiliation>
                     <email>kristina.friedrichs@tu-dresden.de</email>
                 </author>
                 <author ref="#person__cindy-kroeber-tu-dresden-de">
@@ -40,7 +40,7 @@
                         <surname>Kröber</surname>
                         <forename>Cindy</forename>
                     </persName>
-                    <affiliation ref="#org__118">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
                     <email>cindy.kroeber@tu-dresden.de</email>
                 </author>
                 <author ref="#person__ferdinand-maiwald-tu-dresden-de">
@@ -48,7 +48,7 @@
                         <surname>Maywald</surname>
                         <forename>Ferdinand</forename>
                     </persName>
-                    <affiliation ref="#org__118">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
                     <email>ferdinand.maiwald@tu-dresden.de</email>
                 </author>
                 <author ref="#person__florian-niebling-uni-wuerzburg-de">
@@ -56,7 +56,7 @@
                         <surname>Niebling</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation ref="#org__120">JMU Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__122">JMU Würzburg, Deutschland</affiliation>
                     <email>florian.niebling@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>
@@ -166,142 +166,142 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__682"><hi rend="italic">Deutsche Fotothek </hi>[Online]. http://www.deutschefotothek.de/ [9.5.2014].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__775"><rs type="bibl" ref="#bibl__682"><hi rend="italic">Deutsche Fotothek </hi>[Online]. http://www.deutschefotothek.de/ [9.5.2014].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__683"><hi rend="italic">Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg </hi>[Online]. http://www.fotomarburg.de/ [9.5.2014].
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__776"><rs type="bibl" ref="#bibl__683"><hi rend="italic">Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg </hi>[Online]. http://www.fotomarburg.de/ [9.5.2014].
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__684"><hi rend="bold">Barreau, J.-B./ Gaugne, R./ Bernard, Y./ Le Cloirec, G. / Gouranton, V.</hi> (2014). Virtual reality tools for the West Digital Conservatory of Archaeological Heritage. 
+                        <rs type="bibl" ref="#bibl__777"><rs type="bibl" ref="#bibl__684"><hi rend="bold">Barreau, J.-B./ Gaugne, R./ Bernard, Y./ Le Cloirec, G. / Gouranton, V.</hi> (2014). Virtual reality tools for the West Digital Conservatory of Archaeological Heritage. 
                         <hi rend="italic">Proceedings of the 2014 Virtual Reality International Conference.</hi>
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__685"><hi rend="bold">Bentkowska-Kafel, A./ Denard, H. / Baker, D.</hi> (2012). 
+                        <rs type="bibl" ref="#bibl__84"><rs type="bibl" ref="#bibl__685"><hi rend="bold">Bentkowska-Kafel, A./ Denard, H. / Baker, D.</hi> (2012). 
                         <hi rend="italic">Paradata and Transparency in Virtual Heritage, </hi>Burlington, Ashgate.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__686"><hi rend="bold">Brandt, A. V.</hi> (2012). 
+                        <rs type="bibl" ref="#bibl__778"><rs type="bibl" ref="#bibl__686"><hi rend="bold">Brandt, A. V.</hi> (2012). 
                         <hi rend="italic">Werkzeug des Historikers, </hi>Stuttgart [u. a.], Kohlhammer.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__687"><hi rend="bold">Burke, P.</hi> (2003). 
+                        <rs type="bibl" ref="#bibl__85"><rs type="bibl" ref="#bibl__687"><hi rend="bold">Burke, P.</hi> (2003). 
                         <hi rend="italic">Augenzeugenschaft. Bilder als historische Quellen, </hi>Berlin.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__71"><hi rend="bold">Chang, Y.-L./ Hou, H.-T./ Pan, C.-Y./ Sung, Y.-T. / Chang, K.-E.</hi> (2015a). Apply an Augmented Reality in a Mobile Guidance to Increase Sense of Place for Heritage Places. 
+                        <rs type="bibl" ref="#bibl__86"><rs type="bibl" ref="#bibl__71"><hi rend="bold">Chang, Y.-L./ Hou, H.-T./ Pan, C.-Y./ Sung, Y.-T. / Chang, K.-E.</hi> (2015a). Apply an Augmented Reality in a Mobile Guidance to Increase Sense of Place for Heritage Places. 
                         <hi rend="italic">Educational Technology &amp; Society,</hi> 18, 166-178.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__71"><hi rend="bold">Chang, Y.-L./ Hou, H./ Pan, C./ Sung, Y. / Chang, K.</hi> (2015b). Apply an Augmented Reality in a Mobile Guidance to Increase Sense of Place for Heritage Places. 
+                        <rs type="bibl" ref="#bibl__86"><rs type="bibl" ref="#bibl__71"><hi rend="bold">Chang, Y.-L./ Hou, H./ Pan, C./ Sung, Y. / Chang, K.</hi> (2015b). Apply an Augmented Reality in a Mobile Guidance to Increase Sense of Place for Heritage Places. 
                         <hi rend="italic">J. Educ. Technol. Soc.,</hi> 18, 166–178.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__688"><hi rend="bold">Chung, N./ Han, H. / Joun, Y.</hi> (2015). Tourists’ intention to visit a destination: The role of augmented reality (AR) application for a heritage site. 
+                        <rs type="bibl" ref="#bibl__779"><rs type="bibl" ref="#bibl__688"><hi rend="bold">Chung, N./ Han, H. / Joun, Y.</hi> (2015). Tourists’ intention to visit a destination: The role of augmented reality (AR) application for a heritage site. 
                         <hi rend="italic">Computers in Human Behavior,</hi> 50, 588-599.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__689"><hi rend="bold">Favro, D.</hi> (2006). In the eyes of the beholder. Virtual Reality re-creations and academia. 
+                        <rs type="bibl" ref="#bibl__87"><rs type="bibl" ref="#bibl__689"><hi rend="bold">Favro, D.</hi> (2006). In the eyes of the beholder. Virtual Reality re-creations and academia. 
                         <hi rend="italic">In:</hi> HASELBERGER, L., HUMPHREY, J. &amp; ABERNATHY, D. (eds.) 
                         <hi rend="italic">Imaging ancient Rome: Documentation, visualization, imagination: Proceedings of the 3rd Williams Symposium on Classical Architecture, Rome, 20.- 23. 5. 2004.</hi> Portsmouth: Journal of Roman Archaeology.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__690"><hi rend="bold">Gouveia, J./ Branco, F./ Rodrigues, A. / Correia, N.</hi> (2015). Travelling Through Space and Time in Lisbon’s Religious Buildings. 
+                        <rs type="bibl" ref="#bibl__780"><rs type="bibl" ref="#bibl__690"><hi rend="bold">Gouveia, J./ Branco, F./ Rodrigues, A. / Correia, N.</hi> (2015). Travelling Through Space and Time in Lisbon’s Religious Buildings. 
                         <hi rend="italic">In:</hi> GUIDI, G., SCOPIGNO, R., TORRES, J. C. &amp; GRAF, H. (eds.) 
                         <hi rend="italic">2nd International Congress on Digital Heritage 2015.</hi> Granada.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__691"><hi rend="bold">Han, D./ Jung, T. / Gibson, A.</hi> (2014). Dublin AR: Implementing Augmented Reality in Tourism. 
+                        <rs type="bibl" ref="#bibl__781"><rs type="bibl" ref="#bibl__691"><hi rend="bold">Han, D./ Jung, T. / Gibson, A.</hi> (2014). Dublin AR: Implementing Augmented Reality in Tourism. 
                         <hi rend="italic">In:</hi> Z., X. &amp; I., T. (eds.) 
                         <hi rend="italic">Information and Communication Technologies in Tourism.</hi> Cham: Springer.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__692"><hi rend="bold">Haugstvedt, A.-C. / Krogstie, J.</hi> (Year) Published. Mobile augmented reality for cultural heritage: A technology acceptance study. 2012 IEEE Int. Symp. Mix. Augment. Real., 2012.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__782"><rs type="bibl" ref="#bibl__692"><hi rend="bold">Haugstvedt, A.-C. / Krogstie, J.</hi> (Year) Published. Mobile augmented reality for cultural heritage: A technology acceptance study. 2012 IEEE Int. Symp. Mix. Augment. Real., 2012.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__693"><hi rend="bold">Kemman, M./ Kleppe, M. / Scagliola, S.</hi> (2014). Just Google It. Digital Research Practices of Humanities Scholars. 
+                        <rs type="bibl" ref="#bibl__88"><rs type="bibl" ref="#bibl__693"><hi rend="bold">Kemman, M./ Kleppe, M. / Scagliola, S.</hi> (2014). Just Google It. Digital Research Practices of Humanities Scholars. 
                         <hi rend="italic">Proceedings of the Digital Humanities Congress 2012. Studies in the Digital Humanities. Sheffield: HRI Online</hi>.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__694"><hi rend="bold">Kounavis, C. D./ Kasimati, A. E. / Zamani, E. D.</hi> (2012). Enhancing the tourism experience through mobile augmented reality: Challenges and prospects. 
+                        <rs type="bibl" ref="#bibl__783"><rs type="bibl" ref="#bibl__694"><hi rend="bold">Kounavis, C. D./ Kasimati, A. E. / Zamani, E. D.</hi> (2012). Enhancing the tourism experience through mobile augmented reality: Challenges and prospects. 
                         <hi rend="italic">Int. J. Eng. Bus. Manag.,</hi> 4, 1–6.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__695"><hi rend="bold">Kwastek, K.</hi> (2014). Vom Bild zum Bild. Digital Humanities jenseits des Texts (Keynote). 
+                        <rs type="bibl" ref="#bibl__89"><rs type="bibl" ref="#bibl__695"><hi rend="bold">Kwastek, K.</hi> (2014). Vom Bild zum Bild. Digital Humanities jenseits des Texts (Keynote). 
                         <hi rend="italic">1. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2014).</hi> Passau.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__696"><hi rend="bold">Kysela, J. / Štorková, P.</hi> (2015). Using Augmented Reality as a Medium for Teaching History and Tourism. 
+                        <rs type="bibl" ref="#bibl__784"><rs type="bibl" ref="#bibl__696"><hi rend="bold">Kysela, J. / Štorková, P.</hi> (2015). Using Augmented Reality as a Medium for Teaching History and Tourism. 
                         <hi rend="italic">Procedia - Soc. Behav. Sci.,</hi> 175, 926–931.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__697"><hi rend="bold">Livingston, M. A./ Bimber, O. / Saito, H.</hi> (2008). 
+                        <rs type="bibl" ref="#bibl__90"><rs type="bibl" ref="#bibl__697"><hi rend="bold">Livingston, M. A./ Bimber, O. / Saito, H.</hi> (2008). 
                         <hi rend="italic">Proceedings of the 7th IEEE International Symposium on Mixed and Augmented Reality. Cambridge, UK, </hi>Piscataway, IEEE Xplore.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__698"><hi rend="bold">Maina, J. K. / Suleman, H.</hi> (2015). Enhancing Digital Heritage Archives Using Gamified Annotations. 
+                        <rs type="bibl" ref="#bibl__785"><rs type="bibl" ref="#bibl__698"><hi rend="bold">Maina, J. K. / Suleman, H.</hi> (2015). Enhancing Digital Heritage Archives Using Gamified Annotations. 
                         <hi rend="italic">In:</hi> ALLEN, B. R., HUNTER, J. &amp; ZENG, L. M. (eds.) 
                         <hi rend="italic">Digital Libraries: Providing Quality Information: 17th International Conference on Asia-Pacific Digital Libraries, ICADL 2015, Seoul, Korea, December 9-12, 2015. Proceedings.</hi> Cham: Springer International Publishing.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__699"><hi rend="bold">Münster, S.</hi> (2011). Entstehungs- und Verwendungskontexte von 3D-CAD-Modellen in den Geschichtswissenschaften. 
+                        <rs type="bibl" ref="#bibl__91"><rs type="bibl" ref="#bibl__699"><hi rend="bold">Münster, S.</hi> (2011). Entstehungs- und Verwendungskontexte von 3D-CAD-Modellen in den Geschichtswissenschaften. 
                         <hi rend="italic">In:</hi> MEISSNER, K. &amp; ENGELIEN, M. (eds.) 
                         <hi rend="italic">Virtual Enterprises, Communities &amp; Social Networks.</hi> Dresden: TUDpress.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__72"><hi rend="bold">Münster, S./ Jahn, P.-H. / Wacker, M.</hi> (2015). Von Plan- und Bildquellen zum virtuellen Gebäudemodell. Zur Bedeutung der Bildlichkeit für die digitale 3D-Rekonstruktion historischer Architektur. 
+                        <rs type="bibl" ref="#bibl__92"><rs type="bibl" ref="#bibl__72"><hi rend="bold">Münster, S./ Jahn, P.-H. / Wacker, M.</hi> (2015). Von Plan- und Bildquellen zum virtuellen Gebäudemodell. Zur Bedeutung der Bildlichkeit für die digitale 3D-Rekonstruktion historischer Architektur. 
                         <hi rend="italic">In:</hi> AMMON, S. &amp; HINTERWALDNER, I. (eds.) 
                         <hi rend="italic">Bildlichkeit im Zeitalter der Modellierung. Operative Artefakte in Entwurfsprozessen der Architektur und des Ingenieurwesens.</hi> München: Wilhelm Fink Verlag.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__700"><hi rend="bold">Niccolucci, F. / Hermon, S.</hi> (2006). A Fuzzy Logic Approach to Reliability in Archaeological Virtual Reconstruction. 
+                        <rs type="bibl" ref="#bibl__93"><rs type="bibl" ref="#bibl__700"><hi rend="bold">Niccolucci, F. / Hermon, S.</hi> (2006). A Fuzzy Logic Approach to Reliability in Archaeological Virtual Reconstruction. 
                         <hi rend="italic">In:</hi> NICCOLUCCI, F. &amp; HERMON, S. (eds.) 
                         <hi rend="italic">Beyond the Artifact. Digital Interpretation of the Past.</hi> Budapest.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__701"><hi rend="bold">Paul, G.</hi> (2006). Von der Historischen Bildkunde zur Visual History. 
+                        <rs type="bibl" ref="#bibl__786"><rs type="bibl" ref="#bibl__701"><hi rend="bold">Paul, G.</hi> (2006). Von der Historischen Bildkunde zur Visual History. 
                         <hi rend="italic">Visual History. Ein Studienbuch.</hi> Göttingen.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__702"><hi rend="bold">Pérez-Gómez, A. / Pelletier, L.</hi> (1997). 
+                        <rs type="bibl" ref="#bibl__95"><rs type="bibl" ref="#bibl__702"><hi rend="bold">Pérez-Gómez, A. / Pelletier, L.</hi> (1997). 
                         <hi rend="italic">Architectural Representation and the Perspective Hinge, </hi>Cambridge, London, University Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__703"><hi rend="bold">Samuel, J./ Périnaud, C./ Servigne, S./ Georges, G. / Gesquirère, G.</hi> (2016). Representation and Visualization of Urban Fabric through Historical Documents. 
+                        <rs type="bibl" ref="#bibl__787"><rs type="bibl" ref="#bibl__703"><hi rend="bold">Samuel, J./ Périnaud, C./ Servigne, S./ Georges, G. / Gesquirère, G.</hi> (2016). Representation and Visualization of Urban Fabric through Historical Documents. 
                         <hi rend="italic">14th Eurographics Workshop on Graphics and Cultural Heritage 2016.</hi> Genua.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__704"><hi rend="bold">Smirnov, A./ Kashevnik, A./ Shilov, N./ Teslya, N. / Shabaev, A.</hi> (2014). Mobile application for guiding tourist activities: Tourist assistant - TAIS. 
+                        <rs type="bibl" ref="#bibl__788"><rs type="bibl" ref="#bibl__704"><hi rend="bold">Smirnov, A./ Kashevnik, A./ Shilov, N./ Teslya, N. / Shabaev, A.</hi> (2014). Mobile application for guiding tourist activities: Tourist assistant - TAIS. 
                         <hi rend="italic">Conference of Open Innovation Association, FRUCT, 2014</hi>, 95–100.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__705"><hi rend="bold">Tom Dieck, M. C. / Jung, T.</hi> (2015). A theoretical model of mobile augmented reality acceptance in urban heritage tourism. 
+                        <rs type="bibl" ref="#bibl__789"><rs type="bibl" ref="#bibl__705"><hi rend="bold">Tom Dieck, M. C. / Jung, T.</hi> (2015). A theoretical model of mobile augmented reality acceptance in urban heritage tourism. 
                         <hi rend="italic">Curr. Issues Tour.,</hi> 3500, 1-21.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__706"><hi rend="bold">Tom Dieck, M. C./ Jung, T. H. / Tom Dieck, D.</hi> (2016). Enhancing art gallery visitors’ learning experience using wearable augmented reality: generic learning outcomes perspective. 
+                        <rs type="bibl" ref="#bibl__790"><rs type="bibl" ref="#bibl__706"><hi rend="bold">Tom Dieck, M. C./ Jung, T. H. / Tom Dieck, D.</hi> (2016). Enhancing art gallery visitors’ learning experience using wearable augmented reality: generic learning outcomes perspective. 
                         <hi rend="italic">Curr. Issues Tour.</hi> 1-21.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__707"><hi rend="bold">Walczak, K./ Cellary, W. / Prinke, A.</hi> (2011). Interactive Presentation of Archaeological Objects Using Virtual and Augmented Reality. 
+                        <rs type="bibl" ref="#bibl__96"><rs type="bibl" ref="#bibl__707"><hi rend="bold">Walczak, K./ Cellary, W. / Prinke, A.</hi> (2011). Interactive Presentation of Archaeological Objects Using Virtual and Augmented Reality. 
                         <hi rend="italic">In:</hi> JEREM, E., REDÖ, F. &amp; SZEVERÉNYI, V. (eds.) 
                         <hi rend="italic">On the Road to Reconstructing the Past. Proceedings of the 36th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA).</hi> Budapest: Archaeolingua.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__708"><hi rend="bold">Wohlfeil, R.</hi> (1986). Das Bild als Geschichtsquelle. 
+                        <rs type="bibl" ref="#bibl__97"><rs type="bibl" ref="#bibl__708"><hi rend="bold">Wohlfeil, R.</hi> (1986). Das Bild als Geschichtsquelle. 
                         <hi rend="italic">Historische Zeitschrift,</hi> 243, 91–100.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__709"><hi rend="bold">Yovcheva, Z./ Buhalis, D. / Gatzidis, C.</hi> (2012). Overview of smartphone augmented reality applications for tourism. 
+                        <rs type="bibl" ref="#bibl__791"><rs type="bibl" ref="#bibl__709"><hi rend="bold">Yovcheva, Z./ Buhalis, D. / Gatzidis, C.</hi> (2012). Overview of smartphone augmented reality applications for tourism. 
                         <hi rend="italic">e-Review of Tourism Research,</hi> 10, 63–66.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__710"><hi rend="bold">Zaibon, S. B./ Pendit, U. C./ Aida, J. / Bakar, A.</hi> (Year) Published. User Requirements on Mobile AR for Cultural Heritage Site towards Enjoyable Informal Learning. Multimedia and Broadcasting (APMediaCast), 2015 Asia Pacific Conference, 2015. 23–25.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__792"><rs type="bibl" ref="#bibl__710"><hi rend="bold">Zaibon, S. B./ Pendit, U. C./ Aida, J. / Bakar, A.</hi> (Year) Published. User Requirements on Mobile AR for Cultural Heritage Site towards Enjoyable Informal Learning. Multimedia and Broadcasting (APMediaCast), 2015 Asia Pacific Conference, 2015. 23–25.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__711"><hi rend="bold">Zöllner, M./ Becker, M. / Keil, J.</hi> (2010). Snapshot Augmented Reality - Augmented Photography. 
+                        <rs type="bibl" ref="#bibl__98"><rs type="bibl" ref="#bibl__711"><hi rend="bold">Zöllner, M./ Becker, M. / Keil, J.</hi> (2010). Snapshot Augmented Reality - Augmented Photography. 
                         <hi rend="italic">In:</hi> ARTUSI, A., JOLY-PARVEX, M., LUCET, G., RIBES, A. &amp; PITZALIS, D. (eds.) 
                         <hi rend="italic">11th International Symposium on Virtual Reality, Archaeology and Cultural Heritage (VAST 2010).</hi> Paris: Eurographics Association.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

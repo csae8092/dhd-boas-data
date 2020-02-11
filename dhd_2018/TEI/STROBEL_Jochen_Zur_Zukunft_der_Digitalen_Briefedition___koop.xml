@@ -8,7 +8,7 @@
                         <surname>Strobel</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation ref="#org__70">Philipps-Universität Marburg, Deutschland</affiliation>
+                    <affiliation ref="#org__85">Philipps-Universität Marburg, Deutschland</affiliation>
                     <email>strobel@staff.uni-marburg.de</email>
                 </author>
                 <author ref="#person__buerger-slub-dresden-de">
@@ -16,7 +16,7 @@
                         <surname>Bürger</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__16">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</affiliation>
+                    <affiliation ref="#org__24">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</affiliation>
                     <email>buerger@slub-dresden.de</email>
                 </author>
             </titleStmt>
@@ -137,23 +137,23 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__344"><hi rend="bold">Roland Kamzelak</hi>: Empfehlungen zum Umgang mit Editionen im Digitalen Zeitalter, in editio 26 (2012), S. 202–209.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__345"><hi rend="bold">Patrick Sahle</hi>: Digitale Editionsformen. 3 Bände. Norderstedt 2013.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__443"><rs type="bibl" ref="#bibl__344"><hi rend="bold">Roland Kamzelak</hi>: Empfehlungen zum Umgang mit Editionen im Digitalen Zeitalter, in editio 26 (2012), S. 202–209.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__444"><rs type="bibl" ref="#bibl__345"><hi rend="bold">Patrick Sahle</hi>: Digitale Editionsformen. 3 Bände. Norderstedt 2013.</rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__346"><ref target="http://www.mww-forschung.de/blog/blogdetail/wie-sieht-die-digitale-edition-der-zukunft-aus-herr-kamzelak/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail">http://www.mww-forschung.de/blog/blogdetail/wie-sieht-die-digitale-edition-der-zukunft-aus-herr-kamzelak/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail</ref> (30.8.2017)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__445"><rs type="bibl" ref="#bibl__346"><ref target="http://www.mww-forschung.de/blog/blogdetail/wie-sieht-die-digitale-edition-der-zukunft-aus-herr-kamzelak/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail">http://www.mww-forschung.de/blog/blogdetail/wie-sieht-die-digitale-edition-der-zukunft-aus-herr-kamzelak/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail</ref> (30.8.2017)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__347"><ref target="http://dhd-wp.hab.de/?q=ag-text#abschnitt4">http://dhd-wp.hab.de/?q=ag-text#abschnitt4</ref> (30.8.2017)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__446"><rs type="bibl" ref="#bibl__347"><ref target="http://dhd-wp.hab.de/?q=ag-text#abschnitt4">http://dhd-wp.hab.de/?q=ag-text#abschnitt4</ref> (30.8.2017)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__348"><ref target="http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf">http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf</ref> (30.8.2017)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__447"><rs type="bibl" ref="#bibl__348"><ref target="http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf">http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf</ref> (30.8.2017)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__349"><ref target="https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/">https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/</ref> (30.8.2017)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__448"><rs type="bibl" ref="#bibl__349"><ref target="https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/">https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/</ref> (30.8.2017)
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__350"><ref target="http://ride.i-d-e.de/">http://ride.i-d-e.de/</ref> (30.08.2017)
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__449"><rs type="bibl" ref="#bibl__350"><ref target="http://ride.i-d-e.de/">http://ride.i-d-e.de/</ref> (30.08.2017)
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -8,7 +8,7 @@
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>jwettla@gwdg.de</email>
                 </author>
                 <author ref="#person__dkilinc-uni-goettingen-de">
@@ -16,7 +16,7 @@
                         <surname>Kilincoglu</surname>
                         <forename>Deniz</forename>
                     </persName>
-                    <affiliation ref="#org__2">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>dkilinc@uni-goettingen.de</email>
                 </author>
             </titleStmt>
@@ -137,52 +137,52 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2279"><hi rend="bold">Calikbasi, Durdu</hi> (2004): 
+                        <rs type="bibl" ref="#bibl__3516"><rs type="bibl" ref="#bibl__2279"><hi rend="bold">Calikbasi, Durdu</hi> (2004): 
                         <hi rend="italic">Das Osmanische Reich in der Darstellung deutschsprachiger Reisberichte um die Jahrhundertwende 1900</hi>. Norderstedt: Books on Demand.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2280"><hi rend="bold">Genc, Kaya</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__3517"><rs type="bibl" ref="#bibl__2280"><hi rend="bold">Genc, Kaya</hi> (2015): 
                         <hi rend="italic">An Istanbul Anthology: Travel Writing through the Centuries</hi>. Cairo: The American University in Cairo Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2281"><hi rend="bold">Kilincoglu, Deniz T.</hi> (2015): 
+                        <rs type="bibl" ref="#bibl__3518"><rs type="bibl" ref="#bibl__2281"><hi rend="bold">Kilincoglu, Deniz T.</hi> (2015): 
                         <hi rend="italic">Economics and Capitalism in the Ottoman Empire</hi>. London: Routledge.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2282"><hi rend="bold">Kilincoglu, Deniz T.</hi> (2017a): “Islamic Economics in the Late Ottoman Empire: Menâpirzâde Nuri Bey’s Mebâhis-i İlm-i Servet.” 
+                        <rs type="bibl" ref="#bibl__3519"><rs type="bibl" ref="#bibl__2282"><hi rend="bold">Kilincoglu, Deniz T.</hi> (2017a): “Islamic Economics in the Late Ottoman Empire: Menâpirzâde Nuri Bey’s Mebâhis-i İlm-i Servet.” 
                         <hi rend="italic">The European Journal of the History of Economic Thought</hi> 24 (3): 528–54.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2283"><hi rend="bold">Kilincoglu, Deniz T.</hi> (2017b): “Studying Economics as War Effort: The First Economic Treatise in the Ottoman Empire and Its Militaristic Motivations.” In: 
+                        <rs type="bibl" ref="#bibl__3520"><rs type="bibl" ref="#bibl__2283"><hi rend="bold">Kilincoglu, Deniz T.</hi> (2017b): “Studying Economics as War Effort: The First Economic Treatise in the Ottoman Empire and Its Militaristic Motivations.” In: 
                         <hi rend="italic">War in the History of Economic Thought: Economists and the Question of War</hi>, edited by Yukihiro Ikeda and Annalisa Rosselli, 78–99. Abingdon, Oxon: Routledge.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2284"><hi rend="bold">MacFarlane, Charles</hi> (1829): Constantinople in 1828; a Residence of Sixteen Months in the Turkish Capital and Provinces: With an Account of the Present State of the Naval and Military Power, and of the Resources of the Ottoman Empire. London: Saunders and Otley.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__3521"><rs type="bibl" ref="#bibl__2284"><hi rend="bold">MacFarlane, Charles</hi> (1829): Constantinople in 1828; a Residence of Sixteen Months in the Turkish Capital and Provinces: With an Account of the Present State of the Naval and Military Power, and of the Resources of the Ottoman Empire. London: Saunders and Otley.
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2285"><hi rend="bold">Schiffer, Reinhold</hi> (1999): 
+                        <rs type="bibl" ref="#bibl__3522"><rs type="bibl" ref="#bibl__2285"><hi rend="bold">Schiffer, Reinhold</hi> (1999): 
                         <hi rend="italic">Oriental Panorama: British Travelers in 19th Century Turkey</hi>. Amsterdam: Rodopi.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2286"><hi rend="bold" xml:space="preserve">Senior, Nassau William </hi>(1859): 
+                        <rs type="bibl" ref="#bibl__3523"><rs type="bibl" ref="#bibl__2286"><hi rend="bold" xml:space="preserve">Senior, Nassau William </hi>(1859): 
                         <hi rend="italic">A Journal Kept in Turkey and Greece in the Autumn of 1857, and the Beginning of 1858</hi>, London: Longman, Brown, Green, Longmans, and Roberts.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2287"><hi rend="bold">Spackman, Barbara</hi> (2017): 
+                        <rs type="bibl" ref="#bibl__3524"><rs type="bibl" ref="#bibl__2287"><hi rend="bold">Spackman, Barbara</hi> (2017): 
                         <hi rend="italic">Accidental Orientalists: Modern Italian Travelers in Ottoman Lands</hi>. Oxford: Oxford University Press.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2288"><hi rend="bold">Wettlaufer, Jörg</hi> (2007): „Reise- und Gesandtschaftsberichte als Quellen der Hof- und Residenzenforschung“, in: 
+                        <rs type="bibl" ref="#bibl__3525"><rs type="bibl" ref="#bibl__2288"><hi rend="bold">Wettlaufer, Jörg</hi> (2007): „Reise- und Gesandtschaftsberichte als Quellen der Hof- und Residenzenforschung“, in: 
                         <hi rend="italic">Höfe und Residenzen im spätmittelalterlichen Reich</hi>. Textband, hg. von Werner Paravicini, bearb. von Jan Hirschbiegel und Jörg Wettlaufer, Ostfildern: Thorbecke, 361-372 (= Residenzenforschung 15, III).
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2289"><hi rend="bold">Wettlaufer, Jörg</hi> (2010): „Europäische Reiseberichte des Späten Mittelalters. Das Projekt einer Digitalisierung der Editionen und eines Themenportals im Internet [Les récits de voyageurs européens à la fin du Moyen Âge. Le projet de digitalisation des éditions et d‘un portail de recherche sur internet]", in: 
+                        <rs type="bibl" ref="#bibl__3526"><rs type="bibl" ref="#bibl__2289"><hi rend="bold">Wettlaufer, Jörg</hi> (2010): „Europäische Reiseberichte des Späten Mittelalters. Das Projekt einer Digitalisierung der Editionen und eines Themenportals im Internet [Les récits de voyageurs européens à la fin du Moyen Âge. Le projet de digitalisation des éditions et d‘un portail de recherche sur internet]", in: 
                         <hi rend="italic">Relations, échanges et transferts en Europe dans les derniers siècles du Moyen Âge</hi>, hg. von Bernard Guenée und Jean-Marie Moeglin, Paris: Éditions de Boccard, 539-555.
-                    </rs></bibl>
+                    </rs></rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2290"><hi rend="bold">Wettlaufer, Jörg</hi> (2011): Poster zu www.digiberichte.de auf der Tagung .hist2011 in Berlin, Humboldt-Universität, 14.-15.9.2011. 
+                        <rs type="bibl" ref="#bibl__3527"><rs type="bibl" ref="#bibl__2290"><hi rend="bold">Wettlaufer, Jörg</hi> (2011): Poster zu www.digiberichte.de auf der Tagung .hist2011 in Berlin, Humboldt-Universität, 14.-15.9.2011. 
                         <ref target="http://digihum.de/scripts/download.php?File=SnJnZ3luaHNyZV8yMDExX3F2dHZvcmV2cHVnci5jcXM=">http://digihum.de/scripts/download.php?File=SnJnZ3luaHNyZV8yMDExX3F2dHZvcmV2cHVnci5jcXM=</ref> [Letzter Zugriff 12.10.2018].
-                    </rs></bibl>
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
         </back>

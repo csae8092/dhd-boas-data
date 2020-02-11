@@ -8,7 +8,7 @@
                         <surname>Wodausch</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
                     <email>wodausch@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__fiedler-gei-de">
@@ -16,7 +16,7 @@
                         <surname>Fiedler</surname>
                         <forename>Maik</forename>
                     </persName>
-                    <affiliation ref="#org__165">Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
+                    <affiliation ref="#org__63">Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
                     <email>fiedler@gei.de</email>
                 </author>
                 <author ref="#person__heuwing-uni-hildesheim-de">
@@ -24,7 +24,7 @@
                         <surname>Heuwing</surname>
                         <forename>Ben</forename>
                     </persName>
-                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
                     <email>heuwing@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__mandl-uni-hildesheim-de">
@@ -32,7 +32,7 @@
                         <surname>Mandl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__62">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
                     <email>mandl@uni-hildesheim.de</email>
                 </author>
             </titleStmt>
@@ -142,32 +142,32 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1058"><hi rend="bold">Bender, Michael</hi> (2016): Forschungsumgebungen in den Digital Humanities: Nutzerbedarf, Wissenstransfer, Textualität. Walter de Gruyter GmbH &amp; Co KG
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1131"><rs type="bibl" ref="#bibl__1058"><hi rend="bold">Bender, Michael</hi> (2016): Forschungsumgebungen in den Digital Humanities: Nutzerbedarf, Wissenstransfer, Textualität. Walter de Gruyter GmbH &amp; Co KG
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1059"><hi rend="bold">De Luca, Ernesto William</hi> (2014): Welt der Kinder. Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung. URL: http://welt-der-kinder.gei.de
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1132"><rs type="bibl" ref="#bibl__1059"><hi rend="bold">De Luca, Ernesto William</hi> (2014): Welt der Kinder. Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung. URL: http://welt-der-kinder.gei.de
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1060"><hi rend="bold">Fuchs, Eckhardt</hi> (2014): Das Schulbuch in der Forschung. Analysen und Empfehlungen für die Bildungspraxis. Georg-Eckert-Institut für internationale Schulbuch-forschung. Band 4. V &amp; R unipress in Göttingen
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1133"><rs type="bibl" ref="#bibl__1060"><hi rend="bold">Fuchs, Eckhardt</hi> (2014): Das Schulbuch in der Forschung. Analysen und Empfehlungen für die Bildungspraxis. Georg-Eckert-Institut für internationale Schulbuch-forschung. Band 4. V &amp; R unipress in Göttingen
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__105"><hi rend="bold">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”. In: Information Research 21 (4) http://www.informationr.net/ir/21-4/isic/isic1606.html
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__142"><rs type="bibl" ref="#bibl__105"><hi rend="bold">Heuwing, Ben / Mandl, Thomas / Womser-Hacker, Christa </hi>(2016): “Combining contextual interviews and participative design to define requirements for text analysis of historical media”. In: Information Research 21 (4) http://www.informationr.net/ir/21-4/isic/isic1606.html
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1061"><hi rend="bold">Liu, Bing</hi> (2012): Sentiment Analysis and Opinion Mining. Morgan &amp; Claypool Publishers
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1134"><rs type="bibl" ref="#bibl__1061"><hi rend="bold">Liu, Bing</hi> (2012): Sentiment Analysis and Opinion Mining. Morgan &amp; Claypool Publishers
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1062"><hi rend="bold">Ramsay, Stephen</hi> (2008): “Algorithmic Criticism”. In: A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, http://www.digitalhumanities.org/companionDLS/
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1135"><rs type="bibl" ref="#bibl__1062"><hi rend="bold">Ramsay, Stephen</hi> (2008): “Algorithmic Criticism”. In: A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, http://www.digitalhumanities.org/companionDLS/
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1063"><hi rend="bold">Schnober, Carsten / Iryna Gurevych</hi> (2015): “Combining Topic Models for Corpus Exploration: Applying LDA for Complex Corpus Research Tasks in a Digital Humanities Project.” In Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications, TM ’15. New York, NY, USA: ACM, 2015, S. 11–20.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1136"><rs type="bibl" ref="#bibl__1063"><hi rend="bold">Schnober, Carsten / Iryna Gurevych</hi> (2015): “Combining Topic Models for Corpus Exploration: Applying LDA for Complex Corpus Research Tasks in a Digital Humanities Project.” In Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications, TM ’15. New York, NY, USA: ACM, 2015, S. 11–20.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1064"><hi rend="bold">Somasundaran, Swapna / Josef Ruppenhofer / Janyce Wiebe</hi> (2008) "Discourse level opinion relations: An annotation study." In: Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue. Association for Computational Linguistics.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1137"><rs type="bibl" ref="#bibl__1064"><hi rend="bold">Somasundaran, Swapna / Josef Ruppenhofer / Janyce Wiebe</hi> (2008) "Discourse level opinion relations: An annotation study." In: Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue. Association for Computational Linguistics.
+                    </rs></rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1065"><hi rend="bold">Struß, Julia Maria</hi> (2016): Multilinguales aspektbasiertes Opinion Mining: Entwicklung eines ressourcenarmen Extraktionsverfahrens und Untersuchung von Nutzerperspektiven. Dissertation Universität Hildesheim.
-                    </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1138"><rs type="bibl" ref="#bibl__1065"><hi rend="bold">Struß, Julia Maria</hi> (2016): Multilinguales aspektbasiertes Opinion Mining: Entwicklung eines ressourcenarmen Extraktionsverfahrens und Untersuchung von Nutzerperspektiven. Dissertation Universität Hildesheim.
+                    </rs></rs></bibl>
                 </listBibl>
             </div>
       </back>

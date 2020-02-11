@@ -227,20 +227,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1350"><rs type="bibl" ref="#bibl__1281"><hi rend="bold">Kreuzer, Helmut</hi> (Hg.) (2006): Deutschsprachige Literaturkritik 1870-1914. Eine Dokumentation. Unter Mitarbeit von Doris Rosenstein. 4 Bde. Frankfurt am Main: Lang.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1350">Kreuzer, Helmut (Hg.) (2006): Deutschsprachige Literaturkritik 1870-1914. Eine Dokumentation. Unter Mitarbeit von Doris Rosenstein. 4 Bde. Frankfurt am Main: Lang.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__73"><rs type="bibl" ref="#bibl__62"><hi rend="bold">Liu, Bing</hi> (2015). Sentiment Analysis: Mining Opinions, Sentiments, and Emotions. Cambridge University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__73">Liu, Bing (2015). Sentiment Analysis: Mining Opinions, Sentiments, and Emotions. Cambridge University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1351"><rs type="bibl" ref="#bibl__1282"><hi rend="bold">Mellmann, Katja / Willand, Marcus </hi>(2013): Historische Rezeptionsanalyse. Zur Empirisierung von Textbedeutungen. In: P. Ajouri, K. Mellmann &amp; C. Rauen (Hg.): Empirie in der Literaturwissenschaft. Münster: Mentis, S. 263–281.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1351">Mellmann, Katja / Willand, Marcus (2013): Historische Rezeptionsanalyse. Zur Empirisierung von Textbedeutungen. In: P. Ajouri, K. Mellmann &amp; C. Rauen (Hg.): Empirie in der Literaturwissenschaft. Münster: Mentis, S. 263–281.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__76"><rs type="bibl" ref="#bibl__64"><hi rend="bold">Remus, Robert / Quasthoff, Uwe / Heyer, Gerhard</hi> (2010): SentiWS - a Publicly Available German-Language Resource for Sentiment Analysis. In: Proceedings of the 7th International Language Ressources and Evaluation, pp. 1168-1171.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__76">Remus, Robert / Quasthoff, Uwe / Heyer, Gerhard (2010): SentiWS - a Publicly Available German-Language Resource for Sentiment Analysis. In: Proceedings of the 7th International Language Ressources and Evaluation, pp. 1168-1171.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1352"><rs type="bibl" ref="#bibl__1283"><hi rend="bold">van Bellen, Maurits</hi> (2010): Sentiment Analysis on historical book reviews with a Bayesian Classifier. Bachelor-Arbeit. University of Amsterdam.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1352">van Bellen, Maurits (2010): Sentiment Analysis on historical book reviews with a Bayesian Classifier. Bachelor-Arbeit. University of Amsterdam.</rs></bibl>
                 </listBibl>
             </div>
       </back>

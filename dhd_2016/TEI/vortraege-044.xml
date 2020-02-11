@@ -282,23 +282,11 @@
                                               <div type="bibliogr">
                                                 <listBibl>
                                                   <head>Bibliographie</head>
-                                                  <bibl><rs type="bibl" ref="#bibl__2454"><hi rend="bold">Git-Hub</hi> (o.J.): <hi rend="italic">Git</hi>. Local branching on
-                                                  the cheap <ref target="http://git-scm.com/">http://git-scm.com/</ref> [letzter Zugriff
-                                                  16. Februar 2016].</rs></bibl>
-                                                  <bibl><rs type="bibl" ref="#bibl__2455"><hi rend="bold">INEL</hi> (2015): <hi rend="italic">Grammatiken, Korpora, Sprachtechnologie
-                                                  für indigene nordeurasische Sprachen</hi>. Förderantrag, eingereicht bei der Union der deutschen
-                                                  Akademien der Wissenschaften.</rs></bibl>
-                                                  <bibl><rs type="bibl" ref="#bibl__2456"><hi rend="bold">Hedeland, Hanna / Lehmberg, Timm / Schmidt, Thomas / Wörner,
-                                                    Kai</hi> (o.J.): <hi rend="italic">EXMARaLDA</hi>. Werkzeuge für mündliche Korpora
-                                                    <ref target="http://www.exmaralda.org/">http://www.exmaralda.org/</ref> [letzter
-                                                    Zugriff 16. Februar 2016].</rs></bibl>
-                                                    <bibl><rs type="bibl" ref="#bibl__259"><hi rend="bold">HZSK</hi> (o.J.): <hi rend="italic">Hamburger Zentrum für
-                                                    Sprachkorpora</hi>
-                                                    <ref target="https://corpora.uni-hamburg.de/drupal/">https://corpora.uni-hamburg.de/drupal/</ref> [letzter Zugriff 16. Februar
-                                                      2016].</rs></bibl>
-                                                      <bibl><rs type="bibl" ref="#bibl__2457"><hi rend="bold">Universität Hamburg</hi> (o.J.): <hi rend="italic">Institut für
-                                                      Finnougristik / Uralistik</hi>
-                                                      <ref target="https://www.slm.uni-hamburg.de/ifuu">https://www.slm.uni-hamburg.de/ifuu</ref> [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                                  <bibl><rs type="bibl" ref="#bibl__2454">Git-Hub (o.J.): Git. Local branching on the cheap http://git-scm.com/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                                  <bibl><rs type="bibl" ref="#bibl__2455">INEL (2015): Grammatiken, Korpora, Sprachtechnologie für indigene nordeurasische Sprachen. Förderantrag, eingereicht bei der Union der deutschen Akademien der Wissenschaften.</rs></bibl>
+                                                  <bibl><rs type="bibl" ref="#bibl__2456">Hedeland, Hanna / Lehmberg, Timm / Schmidt, Thomas / Wörner, Kai (o.J.): EXMARaLDA. Werkzeuge für mündliche Korpora http://www.exmaralda.org/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                                    <bibl><rs type="bibl" ref="#bibl__259">HZSK (o.J.): Hamburger Zentrum für Sprachkorpora https://corpora.uni-hamburg.de/drupal/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                                      <bibl><rs type="bibl" ref="#bibl__2457">Universität Hamburg (o.J.): Institut für Finnougristik / Uralistik https://www.slm.uni-hamburg.de/ifuu [letzter Zugriff 16. Februar 2016].</rs></bibl>
                                                       </listBibl>
                                                     </div>
                                                   </back>

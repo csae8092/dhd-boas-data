@@ -135,18 +135,12 @@
             <div type="bibliogr">
               <listBibl>
                 <head>Bibliographie</head>
-                <bibl><rs type="bibl" ref="#bibl__238"><hi rend="bold">DARIAH</hi>: <hi rend="italic">DARIAH-EU</hi>. Digital
-                Research Infrastructure for the Arts and Humanities <ref target="http://www.dariah.eu/">http://www.dariah.eu/</ref> [letzter
-                Zugriff 11. Februar 2016].</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2246"><hi rend="bold">Technische Universität Darmstadt / KIT Karlsruhe /
-                  Universität Trier</hi> (2014): <hi rend="italic">eCodicology</hi>.
-                  Algorithmen zum automatischen Tagging mittelalterlicher Handschriften <ref target="http://www.ecodicology.org">http://www.ecodicology.org</ref>
-                  [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__238">DARIAH: DARIAH-EU. Digital Research Infrastructure for the Arts and Humanities http://www.dariah.eu/ [letzter Zugriff 11. Februar 2016].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2246">Technische Universität Darmstadt / KIT Karlsruhe / Universität Trier (2014): eCodicology. Algorithmen zum automatischen Tagging mittelalterlicher Handschriften http://www.ecodicology.org [letzter Zugriff 16. Februar 2016].</rs></bibl>
                   <bibl>Kompetenzzentrum für elektronische Erschließungs- und
                     Publikationsverfahren in den Geisteswissenschaften (2010-2014): Virtuelles
                     Skriptorium St. Matthias. Der mittelalterliche Bibliotheksbestand der
-                    Trierer Abtei St. Matthias digital im Netz. Universität Trier: <rs type="bibl" ref="#bibl__2247"><ref target="http://www.stmatthias.uni-trier.de/index.php">http://www.stmatthias.uni-trier.de/index.php</ref> [letzter Zugriff 16.
-                    Februar 2016].</rs></bibl>
+                    Trierer Abtei St. Matthias digital im Netz. Universität Trier: <rs type="bibl" ref="#bibl__2247">Kompetenzzentrum für elektronische Erschließungs- und Publikationsverfahren in den Geisteswissenschaften (2010-2014): Virtuelles Skriptorium St. Matthias. Der mittelalterliche Bibliotheksbestand der Trierer Abtei St. Matthias digital im Netz. Universität Trier: http://www.stmatthias.uni-trier.de/index.php [letzter Zugriff 16. Februar 2016].</rs></bibl>
                   </listBibl>
                 </div>
               </back>

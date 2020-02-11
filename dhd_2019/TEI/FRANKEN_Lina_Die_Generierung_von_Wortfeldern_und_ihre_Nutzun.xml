@@ -181,47 +181,28 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">Bindi, Remo, Calzolari, Nicoletta; Monachini, Monica; Pirelli, Vito; Zampolli, Antonio (1994): Corpora and Computational Lexica: Integration of Different Methodologies of Lexical Knowledge Acquisition. In: 
-                        <rs type="bibl" ref="#bibl__3179"><rs type="bibl" ref="#bibl__1937"><hi rend="italic">Literary and Linguistic Computing</hi> 9, S. 29–46.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3179">Bindi, Remo, Calzolari, Nicoletta; Monachini, Monica; Pirelli, Vito; Zampolli, Antonio (1994): Corpora and Computational Lexica: Integration of Different Methodologies of Lexical Knowledge Acquisition. In: Literary and Linguistic Computing 9, S. 29–46.</rs></bibl>
                     <bibl style="text-align:left; ">Fellbaum, Christiane (Hg.) (1998): 
-                        <rs type="bibl" ref="#bibl__277"><rs type="bibl" ref="#bibl__169"><hi rend="italic">WordNet: an electronic lexical database</hi>. Cambridge, Mass: MIT Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__277">Fellbaum, Christiane (Hg.) (1998): WordNet: an electronic lexical database. Cambridge, Mass: MIT Press.</rs></bibl>
                     <bibl style="text-align:left; ">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike (2017): 
-                        <rs type="bibl" ref="#bibl__272"><rs type="bibl" ref="#bibl__165"><hi rend="italic">Project Description. HermA: Automated Modelling of Hermeneutic Processes.</hi> In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__272">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.</rs></bibl>
                     <bibl style="text-align:left; ">Hamp, Birgit; Helmut Feldweg (1997): GermaNet – a Lexical-Semantic Net for German
-                        <rs type="bibl" ref="#bibl__221"><rs type="bibl" ref="#bibl__170"><hi rend="italic">.</hi> In: 
-                        <hi rend="italic">Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications</hi>, Madrid, 1997.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__221">Hamp, Birgit; Helmut Feldweg (1997): GermaNet – a Lexical-Semantic Net for German . In: Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications, Madrid, 1997.</rs></bibl>
                     <bibl style="text-align:left; ">Henrich, Verena; Hinrichs, Erhard (2010): GernEdiT – The GermaNet Editing Tool. In: 
-                        <rs type="bibl" ref="#bibl__222"><rs type="bibl" ref="#bibl__171"><hi rend="italic">Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010)</hi>, Valletta, Malta, S. 2228–2235.
-                    </rs></rs></bibl>
-                    <bibl style="text-align:left; ">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.<rs type="bibl" ref="#bibl__3180"><rs type="bibl" ref="#bibl__1938"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__222">Henrich, Verena; Hinrichs, Erhard (2010): GernEdiT – The GermaNet Editing Tool. In: Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010), Valletta, Malta, S. 2228–2235.</rs></bibl>
+                    <bibl style="text-align:left; ">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.<rs type="bibl" ref="#bibl__3180">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.</rs></bibl>
                     <bibl style="text-align:left; ">Lehrer, Adrienne (1974): 
-                        <rs type="bibl" ref="#bibl__3181"><rs type="bibl" ref="#bibl__1939"><hi rend="italic">Semantic fields and lexical structure</hi>. Amsterdam: North-Holland Publ. Co. [u.a.].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3181">Lehrer, Adrienne (1974): Semantic fields and lexical structure. Amsterdam: North-Holland Publ. Co. [u.a.].</rs></bibl>
                     <bibl style="text-align:left; ">Meister, Jan Christoph; Petris, Marco; Gius, Evelyn; Jacke, Janina (2016): CATMA 5.0 [Software für Textannotation und -analyse]: 
-                        <rs type="bibl" ref="#bibl__3182"><rs type="bibl" ref="#bibl__1940"><ref target="http://www.catma.de"> 
-                            <hi rend="underline color(1155CC)">http://www.catma.de</hi>
-                        </ref> (Zugriff: 24.09.2018).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3182">Meister, Jan Christoph; Petris, Marco; Gius, Evelyn; Jacke, Janina (2016): CATMA 5.0 [Software für Textannotation und -analyse]: http://www.catma.de (Zugriff: 24.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013): Efficient Estimation of Word Representations in Vector Space
-                        <rs type="bibl" ref="#bibl__130"><rs type="bibl" ref="#bibl__97"><hi rend="italic">.</hi> ArXiv: 
-                        <ref target="https://arxiv.org/abs/1301.3781">
-                            <hi rend="underline color(1155CC)">https://arxiv.org/abs/1301.3781</hi>
-                        </ref> (Zugriff: 25.09.2018).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__130">Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013): Efficient Estimation of Word Representations in Vector Space . ArXiv: https://arxiv.org/abs/1301.3781 (Zugriff: 25.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">Řehůřek, Radim; Sojka, Petr (2010): Software Framework for Topic Modelling with Large Corpora
-                        <rs type="bibl" ref="#bibl__3183"><rs type="bibl" ref="#bibl__1941"><hi rend="italic">.</hi> In: 
-                        <hi rend="italic">Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks</hi>, Valletta, Malta, S. 45–50.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3183">Řehůřek, Radim; Sojka, Petr (2010): Software Framework for Topic Modelling with Large Corpora . In: Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, Valletta, Malta, S. 45–50.</rs></bibl>
                     <bibl style="text-align:left; ">Trier, Jost (1973): 
-                        <rs type="bibl" ref="#bibl__3184"><rs type="bibl" ref="#bibl__1942"><hi rend="italic">Über Wort- und Begriffsfelder</hi>. Darmstadt: Wissenschaftliche Buchgesellschaft. [Zuerst in: Trier, Jost (1931): 
-                        <hi rend="italic">Der deutsche Wortschatz im Sinnbezirk des Verstandes</hi>. Heidelberg, S. 1 - 26 und 310 - 322])
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3184">Trier, Jost (1973): Über Wort- und Begriffsfelder. Darmstadt: Wissenschaftliche Buchgesellschaft. [Zuerst in: Trier, Jost (1931): Der deutsche Wortschatz im Sinnbezirk des Verstandes. Heidelberg, S. 1 - 26 und 310 - 322])</rs></bibl>
                     <bibl style="text-align:left; ">Vassilyev, Leonid M. (1974): The Theory of Semantic Fields: A Survey. In: 
-                        <rs type="bibl" ref="#bibl__3185"><rs type="bibl" ref="#bibl__1943"><hi rend="italic">Linguistics</hi> 12, S. 79–94.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3185">Vassilyev, Leonid M. (1974): The Theory of Semantic Fields: A Survey. In: Linguistics 12, S. 79–94.</rs></bibl>
                 </listBibl>
             </div>
         </back>

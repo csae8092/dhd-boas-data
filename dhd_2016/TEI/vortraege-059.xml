@@ -329,61 +329,18 @@
                         <div type="bibliogr">
                           <listBibl>
                             <head>Bibliographie</head>
-                            <bibl><rs type="bibl" ref="#bibl__145"><hi rend="bold">Berlin-Brandenburgische Akademie der Wissenschaften
-                              (BBAW)</hi> (2007–16): <hi rend="italic">DTA</hi>. Deutsches Textarchiv
-                              <ref target="http://www.deutschestextarchiv.de/">http://www.deutschestextarchiv.de/</ref> [letzter Zugriff 15. Oktober
-                              2015].</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1788"><hi rend="bold">CLARIN-D</hi>
-                              <ref target="http://clarin-d.net/">http://clarin-d.net</ref> [letzter
-                              Zugriff 15. Oktober 2015].</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1789"><hi rend="bold">Erdmann, Dominik/Thomas, Christian</hi> (2014): „‚… zu
-                              den wunderlichsten Schlangen der Gelehrsamkeit zusammengegliedert‛. Neue
-                              Materialien zu den ‚Kosmos-Vorträgen‛ Alexander von Humboldts, nebst
-                              Vorüberlegungen zu deren digitaler Edition". In: <hi rend="italic">HiN –
-                              Humboldt im Netz</hi>. Internationale Zeitschrift für Humboldt-Studien
-                              (Potsdam – Berlin) XV, 28: 34–45. <ref target="http://dx.doi.org/10.18443/189">http://dx.doi.org/10.18443/189</ref> [letzter Zugriff
-                              27. Mai 2016]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__221"><hi rend="bold">Hamp, Birgit/Feldweg, Helmut</hi> (1997): “GermaNet – a
-                              Lexical-Semantic Net for German.” In: <hi rend="italic">Proceedings of the
-                              ACL workshop Automatic Information Extraction and Building of Lexical
-                              Semantic Resources for NLP Applications</hi>. Madrid: 9–15.</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__222"><hi rend="bold">Henrich, Verena/Hinrichs, Erhard </hi>(2010): “GernEdiT
-                              – The GermaNet Editing Tool”. In: <hi rend="italic">Proceedings of the
-                              Seventh Conference on International Language Resources and Evaluation
-                              (LREC 2010)</hi>. Valletta, Malta: 2228–2235. <ref target="http://www.lrec-conf.org/proceedings/lrec2010/pdf/264_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2010/pdf/264_Paper.pdf</ref>
-                              [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1790"><hi rend="bold">Humboldt, Alexander von</hi> (1845): <hi rend="italic">Kosmos</hi>. Entwurf einer physischen Weltbeschreibung, 1. Stuttgart u.
-                              a.: Deutsches Textarchiv. <ref target="http://www.deutschestextarchiv.de/humboldt_kosmos01_1845">http://www.deutschestextarchiv.de/humboldt_kosmos01_1845</ref> [letzter
-                              Zugriff 15. Oktober 2015]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1791"><hi rend="bold">Humboldt, Alexander von</hi> ([1803/04]): <hi rend="italic">Tagebücher der Amerikanischen Reise</hi>: IX: Varia. Obs.
-                              Astron. de Mexico a Guanaxuato, Torullo, Tiluca, Veracruz, Cuba. Voy. De la
-                              Havana à Philadelphia. Geologie de Guanaxato, Volcans de Torullo et de
-                              Toluca. Voyage de Veracruz à la Havana et de la Havana à Philadelphia.
-                              Torulla. Berlin: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz. <ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001527C00000000">http://resolver.staatsbibliothek-berlin.de/SBB0001527C00000000</ref>
-                              [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1792"><hi rend="bold">Lehrstuhl für Kulturtechniken und Wissensgeschichte</hi>
-                              (2014–16): <hi rend="italic">Hidden Kosmos</hi>. Reconstructing Alexander von
-                              Humboldt‛s »Kosmos-Lectures«. <ref target="https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/">https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/</ref>
-                              [letzter Zugriff 15. Oktober 2015].</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1793"><hi rend="bold">N.N.</hi> (1827): <hi rend="italic">Die physikalische
-                              Geographie von Herrn Alexander v. Humboldt, vorgetragen im Semestre
-                              1827/28</hi>. Berlin: Deutsches Textarchiv. <ref target="http://www.deutschestextarchiv.de/nn_oktavgfeo79_1828/7">http://www.deutschestextarchiv.de/nn_oktavgfeo79_1828/7</ref> [letzter
-                              Zugriff 15. Oktober 2015]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__102"><hi rend="bold">Sahle, Patrick</hi> (2013): <hi rend="italic">Digitale
-                              Editionsformen</hi>. Zum Umgang mit der Überlieferung unter den
-                              Bedingungen des Medienwandels. 2: Befunde, Theorie und Methodik.
-                              Norderstedt: Books on Demand.</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1794"><hi rend="bold">Thomas, Christian</hi> (2014/15): „Hidden Kosmos –
-                              Humboldts ‚Kosmos-Vorträge‘ als Probe der Digital Humanities", in:
-                              DHd-Jahrestagung 2015 „Von Daten zu Erkenntnissen: Digitale
-                              Geisteswissenschaften als Mittler zwischen Information und Interpretation“,
-                              23.-27.2.2015, Zentrum für Informationsmodellierung – Austrian Centre for
-                              Digital Humanities an der Universität Graz. <ref target="https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/media/c-thomas-dhd-graz-paper-hidden-kosmos-20150126.pdf">https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/media/c-thomas-dhd-graz-paper-hidden-kosmos-20150126.pdf</ref>
-                              [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1795"><hi rend="bold">Thomas, Christian</hi> (2015): „99 unselbständige
-                              Schriften Humboldts als Volltext im Deutschen Textarchiv verfügbar", in: <hi rend="italic">avhumboldt.de</hi>. Alexander von Humboldt Informationen
-                              online. <ref target="http://www.avhumboldt.de/?p=10922">http://www.avhumboldt.de/?p=10922</ref> [letzter Zugriff 15. Oktober
-                              2015]. </rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__145">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW) (2007–16): DTA. Deutsches Textarchiv http://www.deutschestextarchiv.de/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1788">CLARIN-D http://clarin-d.net [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1789">Erdmann, Dominik/Thomas, Christian (2014): „‚… zu den wunderlichsten Schlangen der Gelehrsamkeit zusammengegliedert‛. Neue Materialien zu den ‚Kosmos-Vorträgen‛ Alexander von Humboldts, nebst Vorüberlegungen zu deren digitaler Edition". In: HiN – Humboldt im Netz. Internationale Zeitschrift für Humboldt-Studien (Potsdam – Berlin) XV, 28: 34–45. http://dx.doi.org/10.18443/189 [letzter Zugriff 27. Mai 2016].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__221">Hamp, Birgit/Feldweg, Helmut (1997): “GermaNet – a Lexical-Semantic Net for German.” In: Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications. Madrid: 9–15.</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__222">Henrich, Verena/Hinrichs, Erhard (2010): “GernEdiT – The GermaNet Editing Tool”. In: Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010). Valletta, Malta: 2228–2235. http://www.lrec-conf.org/proceedings/lrec2010/pdf/264_Paper.pdf [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1790">Humboldt, Alexander von (1845): Kosmos. Entwurf einer physischen Weltbeschreibung, 1. Stuttgart u. a.: Deutsches Textarchiv. http://www.deutschestextarchiv.de/humboldt_kosmos01_1845 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1791">Humboldt, Alexander von ([1803/04]): Tagebücher der Amerikanischen Reise: IX: Varia. Obs. Astron. de Mexico a Guanaxuato, Torullo, Tiluca, Veracruz, Cuba. Voy. De la Havana à Philadelphia. Geologie de Guanaxato, Volcans de Torullo et de Toluca. Voyage de Veracruz à la Havana et de la Havana à Philadelphia. Torulla. Berlin: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz. http://resolver.staatsbibliothek-berlin.de/SBB0001527C00000000 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1792">Lehrstuhl für Kulturtechniken und Wissensgeschichte (2014–16): Hidden Kosmos. Reconstructing Alexander von Humboldt‛s »Kosmos-Lectures«. https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1793">N.N. (1827): Die physikalische Geographie von Herrn Alexander v. Humboldt, vorgetragen im Semestre 1827/28. Berlin: Deutsches Textarchiv. http://www.deutschestextarchiv.de/nn_oktavgfeo79_1828/7 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__102">Sahle, Patrick (2013): Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. 2: Befunde, Theorie und Methodik. Norderstedt: Books on Demand.</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1794">Thomas, Christian (2014/15): „Hidden Kosmos – Humboldts ‚Kosmos-Vorträge‘ als Probe der Digital Humanities", in: DHd-Jahrestagung 2015 „Von Daten zu Erkenntnissen: Digitale Geisteswissenschaften als Mittler zwischen Information und Interpretation“, 23.-27.2.2015, Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities an der Universität Graz. https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/media/c-thomas-dhd-graz-paper-hidden-kosmos-20150126.pdf [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1795">Thomas, Christian (2015): „99 unselbständige Schriften Humboldts als Volltext im Deutschen Textarchiv verfügbar", in: avhumboldt.de. Alexander von Humboldt Informationen online. http://www.avhumboldt.de/?p=10922 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                             </listBibl>
                           </div>
                         </back>

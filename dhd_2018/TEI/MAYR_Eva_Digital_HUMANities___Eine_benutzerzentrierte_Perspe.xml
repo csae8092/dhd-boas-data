@@ -139,51 +139,21 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__450"><rs type="bibl" ref="#bibl__351"><hi rend="bold">Barnum, Carol M.</hi> (2008): 
-                        <hi rend="italic">Usability testing and research</hi>. Allyn &amp; Bacon Series in Technical Communication, Longman.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__25"><rs type="bibl" ref="#bibl__21"><hi rend="bold">Dörk, Marian / Carpendale, Sheelagh / Williamson, Carey </hi>(2011): “The information flaneur: A fresh look at information seeking”, in: 
-                        <hi rend="italic">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</hi> 1215-1224.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__451"><rs type="bibl" ref="#bibl__352"><hi rend="bold">Kemman, Max / Kleppe, Martijn </hi>(2014, October): “Too many varied user requirements for digital humanities projects”, in: 
-                        <hi rend="italic">3rd CLARIN ERIC Annual Conference</hi> 24-25.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__452"><rs type="bibl" ref="#bibl__353"><hi rend="bold">Maguire, Martin </hi>(2001): “Methods to support human-centred design”, in: 
-                        <hi rend="italic">International Journal of Human-Computer Studies, 55</hi>, 587-634.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__453"><rs type="bibl" ref="#bibl__354"><hi rend="bold">Mayr, Eva / Federico, Paolo / Miksch, Silvia / Schreder, Günther / Smuc, Michael / Windhager, Florian </hi>(2016a): “Visualization of cultural heritage data for casual users”, in: 
-                        <hi rend="italic">Proc. of the 1st IEEE VIS Workshop on Visualization for the Digital Humanities</hi>. Baltimore, MD.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__454"><rs type="bibl" ref="#bibl__355"><hi rend="bold">Mayr, Eva / Schreder, Günther / Smuc, Michael / Windhager, Florian </hi>(2016b): “Looking at the representations in our mind: Measuring mental models of information visualizations”, in: 
-                        <hi rend="italic">Proceedings of the Beyond Time and Errors on Novel Evaluation Methods for Visualization</hi>. ACM, 96-103.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__455"><rs type="bibl" ref="#bibl__356"><hi rend="bold">Miksch, Silvia / Aigner, Wolfgang </hi>(2014): “A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data”, in: 
-                        <hi rend="italic">Computers &amp; Graphics 38</hi>: 286-290.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__456"><rs type="bibl" ref="#bibl__357"><hi rend="bold">Norman, Donald A. </hi>(2010). “Technology first, needs last: The research-product gulf”, in: 
-                        <hi rend="italic">Interactions 17</hi>: 38-42.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__457"><rs type="bibl" ref="#bibl__358"><hi rend="bold">Sarodnick, Florian / Brau, Henning </hi>(2006): 
-                        <hi rend="italic">Methoden der Usability Evaluation</hi>. Huber Verlag. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__458"><rs type="bibl" ref="#bibl__359"><hi rend="bold">Siemens, Roy </hi>(2016): “Communities of practice, the methodological commons, and digital self-determination in the humanities”, in: C. Crompton, R. J. Lane, &amp; R. Siemens (Eds.), 
-                        <hi rend="italic">Doing Digital Humanities: Practice, training, research</hi>. Milton Park: Routledge xxi-xxxiii.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__459"><rs type="bibl" ref="#bibl__360"><hi rend="bold">Venturini, Tommaso / Munk, Anders / Meunier, Axel </hi>(2017): “Data-sprints: A public approach to digital research”, in: C. Lury / P. Clough / M. Michael / R. Fensham / S. Lammes / A. Last / E. Uprichard (Eds.), 
-                        <hi rend="italic">Routledge Handbook on Interdisciplinary Research Methods</hi>. Forthcoming.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__460"><rs type="bibl" ref="#bibl__361"><hi rend="bold">Walsh, David / Hall, Mark M. </hi>(2015): “Just looking around: Supporting casual users initial encounters with Digital Cultural Heritage”, in: 
-                        <hi rend="italic">Supporting Complex Search Tasks</hi>. Vienna: CEUR-WS 1338.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__26"><rs type="bibl" ref="#bibl__22"><hi rend="bold">Whitelaw, Mitchell </hi>(2015): “Generous interfaces for digital cultural collections”, in: 
-                        <hi rend="italic">Digital Humanities Quarterly 9</hi>(1).
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__461"><rs type="bibl" ref="#bibl__362"><hi rend="bold">Windhager, Florian / Mayr, Eva / Schreder, Günther / Smuc, Michael / Federico, Paolo / Miksch, Silvia </hi>(2016): „Reframing cultural heritage collections in a visualization framework of space-time cubes”, in: 
-                        <hi rend="italic">Proceedings of the 3rd HistoInformatics Workshop.</hi> CEUR- WS 1632.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__27"><rs type="bibl" ref="#bibl__23"><hi rend="bold">Windhager, Florian / Federico, Paolo / Schreder, Günther / Glinka, Katrin / Doerk, Marian / Miksch, Silvia / Mayr, Eva </hi>(2017): „Visualization of cultural heritage collection data: State of the art and future challenges”, 
-                        <hi rend="italic">Manuscript under review</hi>.
-                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__450">Barnum, Carol M. (2008): Usability testing and research. Allyn &amp; Bacon Series in Technical Communication, Longman.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__25">Dörk, Marian / Carpendale, Sheelagh / Williamson, Carey (2011): “The information flaneur: A fresh look at information seeking”, in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems 1215-1224.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__451">Kemman, Max / Kleppe, Martijn (2014, October): “Too many varied user requirements for digital humanities projects”, in: 3rd CLARIN ERIC Annual Conference 24-25.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__452">Maguire, Martin (2001): “Methods to support human-centred design”, in: International Journal of Human-Computer Studies, 55, 587-634.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__453">Mayr, Eva / Federico, Paolo / Miksch, Silvia / Schreder, Günther / Smuc, Michael / Windhager, Florian (2016a): “Visualization of cultural heritage data for casual users”, in: Proc. of the 1st IEEE VIS Workshop on Visualization for the Digital Humanities. Baltimore, MD.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__454">Mayr, Eva / Schreder, Günther / Smuc, Michael / Windhager, Florian (2016b): “Looking at the representations in our mind: Measuring mental models of information visualizations”, in: Proceedings of the Beyond Time and Errors on Novel Evaluation Methods for Visualization. ACM, 96-103.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__455">Miksch, Silvia / Aigner, Wolfgang (2014): “A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data”, in: Computers &amp; Graphics 38: 286-290.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__456">Norman, Donald A. (2010). “Technology first, needs last: The research-product gulf”, in: Interactions 17: 38-42.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__457">Sarodnick, Florian / Brau, Henning (2006): Methoden der Usability Evaluation. Huber Verlag.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__458">Siemens, Roy (2016): “Communities of practice, the methodological commons, and digital self-determination in the humanities”, in: C. Crompton, R. J. Lane, &amp; R. Siemens (Eds.), Doing Digital Humanities: Practice, training, research. Milton Park: Routledge xxi-xxxiii.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__459">Venturini, Tommaso / Munk, Anders / Meunier, Axel (2017): “Data-sprints: A public approach to digital research”, in: C. Lury / P. Clough / M. Michael / R. Fensham / S. Lammes / A. Last / E. Uprichard (Eds.), Routledge Handbook on Interdisciplinary Research Methods. Forthcoming.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__460">Walsh, David / Hall, Mark M. (2015): “Just looking around: Supporting casual users initial encounters with Digital Cultural Heritage”, in: Supporting Complex Search Tasks. Vienna: CEUR-WS 1338.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__26">Whitelaw, Mitchell (2015): “Generous interfaces for digital cultural collections”, in: Digital Humanities Quarterly 9(1).</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__461">Windhager, Florian / Mayr, Eva / Schreder, Günther / Smuc, Michael / Federico, Paolo / Miksch, Silvia (2016): „Reframing cultural heritage collections in a visualization framework of space-time cubes”, in: Proceedings of the 3rd HistoInformatics Workshop. CEUR- WS 1632.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__27">Windhager, Florian / Federico, Paolo / Schreder, Günther / Glinka, Katrin / Doerk, Marian / Miksch, Silvia / Mayr, Eva (2017): „Visualization of cultural heritage collection data: State of the art and future challenges”, Manuscript under review.</rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -156,138 +156,71 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__199"><rs type="bibl" ref="#bibl__148"><hi rend="bold">Moretti, Franco</hi> (2016): 
-                        <hi rend="italic">Distant Reading</hi>. Konstanz: Konstanz University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__199">Moretti, Franco (2016): Distant Reading. Konstanz: Konstanz University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1646"><rs type="bibl" ref="#bibl__1587"><hi rend="bold">Romary, Laurent / Zeldes, Amir / Zipser, Florian</hi> (2015): "&lt;tiger2/&gt;. Serialising the ISO SynAF syntactic object model", in: 
-                        <hi rend="italic">Language Resources and Evaluation </hi>49 (1), S. 1–18. 10.1007/s10579-014-9288-x.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1646">Romary, Laurent / Zeldes, Amir / Zipser, Florian (2015): "&lt;tiger2/&gt;. Serialising the ISO SynAF syntactic object model", in: Language Resources and Evaluation 49 (1), S. 1–18. 10.1007/s10579-014-9288-x.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1647"><rs type="bibl" ref="#bibl__1588"><hi rend="bold">Archer, Dawn / Kytö, Merja / Baron, Alistair / Rayson, Paul</hi> (2015): "Guidelines for normalising Early Modern English corpora. Decisions and justifications", in: 
-                        <hi rend="italic">ICAME Journal </hi>(39), 5–24.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1647">Archer, Dawn / Kytö, Merja / Baron, Alistair / Rayson, Paul (2015): "Guidelines for normalising Early Modern English corpora. Decisions and justifications", in: ICAME Journal (39), 5–24.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1648"><rs type="bibl" ref="#bibl__1589"><hi rend="bold">Bollmann, Marcel / Dipper, Stefanie / Krasselt, Julia / Petran, Florian</hi> (2012): "Manual and semi-automatic normalization of historical spelling. Case studies from Early New High German", in: 
-                        <hi rend="italic">Proceedings of KONVENS 2012</hi> 342–350. http://www.oegai.at/konvens2012/proceedings/51_bollmann12w/ [letzter Zugriff am 24.08.2016].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1648">Bollmann, Marcel / Dipper, Stefanie / Krasselt, Julia / Petran, Florian (2012): "Manual and semi-automatic normalization of historical spelling. Case studies from Early New High German", in: Proceedings of KONVENS 2012 342–350. http://www.oegai.at/konvens2012/proceedings/51_bollmann12w/ [letzter Zugriff am 24.08.2016].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1649"><rs type="bibl" ref="#bibl__1590"><hi rend="bold">Borgmann, Christine L. </hi>(2012): "The conundrum of sharing research data", in: 
-                        <hi rend="italic">Journal of the American Society for Information Science and Technology </hi>63 (6), 1059–1087. 10.2139/ssrn.1869155.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1649">Borgmann, Christine L. (2012): "The conundrum of sharing research data", in: Journal of the American Society for Information Science and Technology 63 (6), 1059–1087. 10.2139/ssrn.1869155.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1650"><rs type="bibl" ref="#bibl__1591"><hi rend="bold">Burnard, Lou / Baumann, Sid</hi> (eds.) (2008): 
-                        <hi rend="italic">TEI P5. Guidelines for Electronic Text Encoding and Interchange</hi>. Oxford. http://www.tei-c.org/Guidelines/P5/ [zuletzt geprüft am 11.11.2015].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1650">Burnard, Lou / Baumann, Sid (eds.) (2008): TEI P5. Guidelines for Electronic Text Encoding and Interchange. Oxford. http://www.tei-c.org/Guidelines/P5/ [zuletzt geprüft am 11.11.2015].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1651"><rs type="bibl" ref="#bibl__1592"><hi rend="bold">Büttner, Stephan / Hobohm, Hans-Christoph / Müller, Lars </hi>(2011): "Research Data Management", in: Büttner, Stephan / Hobohm, Hans-Christoph / Müller, Lars (eds.): 
-                        <hi rend="italic">Handbuch Forschungsdatenmanagement</hi>. Bad Honnef: Bock + Herchen, 13–23.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1651">Büttner, Stephan / Hobohm, Hans-Christoph / Müller, Lars (2011): "Research Data Management", in: Büttner, Stephan / Hobohm, Hans-Christoph / Müller, Lars (eds.): Handbuch Forschungsdatenmanagement. Bad Honnef: Bock + Herchen, 13–23.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__203"><rs type="bibl" ref="#bibl__1593"><hi rend="bold">Claridge, Claudia</hi> (2008): "Historical Corpora", in: Lüdeling, Anke / Kytö, Merja (eds.): 
-                        <hi rend="italic">Corpus Linguistics. An International Handbook</hi>, Bd. 1. 2. Berlin: De Gruyter (1), 242–259.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__203">Claridge, Claudia (2008): "Historical Corpora", in: Lüdeling, Anke / Kytö, Merja (eds.): Corpus Linguistics. An International Handbook, Bd. 1. 2. Berlin: De Gruyter (1), 242–259.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1652"><rs type="bibl" ref="#bibl__1594"><hi rend="bold">Coniglio, Marco / Donhauser, Karin / Schlachter, Eva / Rasskazova, Oxana / Odebrecht, Carolin / Wirth, Matthias / Miltenberger, Anke</hi> (2016): 
-                        <hi rend="italic">Historisches Predigtenkorpus zum Nachfeld (HIPKON Version 1.0).</hi> Technischer Bericht, Humboldt-Universität zu Berlin. 10.18452/13681.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1652">Coniglio, Marco / Donhauser, Karin / Schlachter, Eva / Rasskazova, Oxana / Odebrecht, Carolin / Wirth, Matthias / Miltenberger, Anke (2016): Historisches Predigtenkorpus zum Nachfeld (HIPKON Version 1.0). Technischer Bericht, Humboldt-Universität zu Berlin. 10.18452/13681.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__17"><rs type="bibl" ref="#bibl__14"><hi rend="bold">Dipper, Stefanie</hi> (2005): "XML-based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation", in: 
-                        <hi rend="italic">Proceedings of Berliner XML Tage 2005 (BXML 2005). Berlin,</hi> 39–50.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__17">Dipper, Stefanie (2005): "XML-based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation", in: Proceedings of Berliner XML Tage 2005 (BXML 2005). Berlin, 39–50.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1653"><rs type="bibl" ref="#bibl__1595"><hi rend="bold">Dipper, Stefanie / Donhauser, Karin / Klein, Thomas / Linde, Sonja / Müller, Stefan / Wegera, Klaus-Peter</hi> (2013): "HiTS. Ein Tagset für historische Sprachstufen des Deutschen“, in: Zinsmeister, Heike / Heid, Ulrich / Beck, Kathrin (eds.): Das Stuttgart-Tübingen Wortarten-Tagset. Stand und Perspektiven", in: 
-                        <hi rend="italic">Journal for Language Technology and Computational Linguistics, 28(1), </hi>85–137.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1653">Dipper, Stefanie / Donhauser, Karin / Klein, Thomas / Linde, Sonja / Müller, Stefan / Wegera, Klaus-Peter (2013): "HiTS. Ein Tagset für historische Sprachstufen des Deutschen“, in: Zinsmeister, Heike / Heid, Ulrich / Beck, Kathrin (eds.): Das Stuttgart-Tübingen Wortarten-Tagset. Stand und Perspektiven", in: Journal for Language Technology and Computational Linguistics, 28(1), 85–137.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1654"><rs type="bibl" ref="#bibl__1596"><hi rend="bold">Donhauser, Karin</hi> (2015): "Das Referenzkorpus Altdeutsch. Das Konzept, die Realisierung und die neuen Möglichkeiten", in: Gippert, Jost / Gehrke, Ralf (eds.): 
-                        <hi rend="italic">Historical Corpora. </hi>Tübingen: Narr (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache, 5), 35–49.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1654">Donhauser, Karin (2015): "Das Referenzkorpus Altdeutsch. Das Konzept, die Realisierung und die neuen Möglichkeiten", in: Gippert, Jost / Gehrke, Ralf (eds.): Historical Corpora. Tübingen: Narr (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache, 5), 35–49.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1655"><rs type="bibl" ref="#bibl__1597"><hi rend="bold">Federico, Annette </hi>(2015): 
-                        <hi rend="italic">Engagements with Literature. Engagements with Close Reading.</hi> Florence: Routledge.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1655">Federico, Annette (2015): Engagements with Literature. Engagements with Close Reading. Florence: Routledge.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1656"><rs type="bibl" ref="#bibl__1598"><hi rend="bold">Gippert, Jost / Gehrke, Ralf </hi>(eds.) (2015): 
-                        <hi rend="italic">Historical Corpora</hi>. Tübingen: Narr (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache, 5).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1656">Gippert, Jost / Gehrke, Ralf (eds.) (2015): Historical Corpora. Tübingen: Narr (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache, 5).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1657"><rs type="bibl" ref="#bibl__1599"><hi rend="bold">Gooding, Paul / Terras, Melissa / Warwick, Claire</hi> (2013): “The myth of the new. Mass digitization, distant reading, and the future of the book”, in: 
-                        <hi rend="italic">Literary and Linguistic Computing </hi>28 (4), 629–639. 10.1093/llc/fqt051.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1657">Gooding, Paul / Terras, Melissa / Warwick, Claire (2013): “The myth of the new. Mass digitization, distant reading, and the future of the book”, in: Literary and Linguistic Computing 28 (4), 629–639. 10.1093/llc/fqt051.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1658"><rs type="bibl" ref="#bibl__1600"><hi rend="bold">Jurish, Bryan </hi>(2010): “More than Words: Using Token Context to Improve Canonicalization of Historical German”, in: 
-                        <hi rend="italic">Journal for Language Technology and Computational Linguistics</hi> 25 (1), 23–40.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1658">Jurish, Bryan (2010): “More than Words: Using Token Context to Improve Canonicalization of Historical German”, in: Journal for Language Technology and Computational Linguistics 25 (1), 23–40.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1659"><rs type="bibl" ref="#bibl__1601"><hi rend="bold">Krasselt, Julia / Bollmann, Marcel / Dipper, Stefanie / Petran, Florian</hi> (2015): 
-                        <hi rend="italic">Guidelines für die Normalisierung historischer deutscher Texte</hi>. Bochumer Linguistische Arbeitsberichte, 15. urn:nbn:de:hebis:30:3-419680.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1659">Krasselt, Julia / Bollmann, Marcel / Dipper, Stefanie / Petran, Florian (2015): Guidelines für die Normalisierung historischer deutscher Texte. Bochumer Linguistische Arbeitsberichte, 15. urn:nbn:de:hebis:30:3-419680.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__116"><rs type="bibl" ref="#bibl__86"><hi rend="bold">Krause, Thomas / Zeldes, Amir</hi> (2016): ANNIS3. “A new architecture for generic corpus query and visualization”, in: 
-                        <hi rend="italic">Digital Scholarship in the Humanities </hi>31 (1), 118–139. 10.1093/llc/fqu057.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__116">Krause, Thomas / Zeldes, Amir (2016): ANNIS3. “A new architecture for generic corpus query and visualization”, in: Digital Scholarship in the Humanities 31 (1), 118–139. 10.1093/llc/fqu057.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1660"><rs type="bibl" ref="#bibl__1602"><hi rend="bold">Kupietz, Marc / Geyken, Alexander </hi>(eds.) (2016): “Corpus Linguistic Software Tools”, in: 
-                        <hi rend="italic">Journal for Language Technology and Computational Linguistics</hi> 31(1).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1660">Kupietz, Marc / Geyken, Alexander (eds.) (2016): “Corpus Linguistic Software Tools”, in: Journal for Language Technology and Computational Linguistics 31(1).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__204"><rs type="bibl" ref="#bibl__1603"><hi rend="bold">Lüdeling, Anke</hi> (2011): “Corpora in Linguistics. Sampling and Annotation”, in: Grandin, Karl (ed.): 
-                        <hi rend="italic">Going Digital. Evolutionary and Revolutionary Aspects of Digitization</hi>. New York: Science History Publications (Nobel Symposium, 147), 220–243.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__204">Lüdeling, Anke (2011): “Corpora in Linguistics. Sampling and Annotation”, in: Grandin, Karl (ed.): Going Digital. Evolutionary and Revolutionary Aspects of Digitization. New York: Science History Publications (Nobel Symposium, 147), 220–243.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1661"><rs type="bibl" ref="#bibl__1604"><hi rend="bold">Lüdeling, Anke / Zeldes, Amir</hi> (2007): “Three Views on Corpora. Corpus Linguistics, Literary Computing, and Computational Linguistics”, in: 
-                        <hi rend="italic">Jahrbuch für Computerphilologie </hi>(9), 149–178.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1661">Lüdeling, Anke / Zeldes, Amir (2007): “Three Views on Corpora. Corpus Linguistics, Literary Computing, and Computational Linguistics”, in: Jahrbuch für Computerphilologie (9), 149–178.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1662"><rs type="bibl" ref="#bibl__1605"><hi rend="bold">McEnery, Tony / Hardie, Andrew </hi>(2012): 
-                        <hi rend="italic">Corpus Linguistics. Method, Theory and Practice</hi>. Cambride [u.a.]: Cambridge University Press (Cambridge Textbooks in Linguistics).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1662">McEnery, Tony / Hardie, Andrew (2012): Corpus Linguistics. Method, Theory and Practice. Cambride [u.a.]: Cambridge University Press (Cambridge Textbooks in Linguistics).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1663"><rs type="bibl" ref="#bibl__1606"><hi rend="bold">Odebrecht, Carolin </hi>(2014): "Modeling Linguistic Research Data for a Repository for Historical Corpora", in: 
-                        <hi rend="italic">Digital Humanities Conference Abstracts</hi>. Lausanne 284–285.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1663">Odebrecht, Carolin (2014): "Modeling Linguistic Research Data for a Repository for Historical Corpora", in: Digital Humanities Conference Abstracts. Lausanne 284–285.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1664"><rs type="bibl" ref="#bibl__1607"><hi rend="bold">Odebrecht, Carolin / Belz, Malte / Zeldes, Amir / Lüdeling, Anke / Krause, Thomas</hi> (2017): „RIDGES Herbology. Designing a Diachronic Multi-Layer Corpus”, in: 
-                        <hi rend="italic">Language Resources and Evaluation 51 (2) </hi>First Online 2016, 695-725
-                        <hi rend="italic">.</hi> 10.1007/s10579-016-9374-3.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1664">Odebrecht, Carolin / Belz, Malte / Zeldes, Amir / Lüdeling, Anke / Krause, Thomas (2017): „RIDGES Herbology. Designing a Diachronic Multi-Layer Corpus”, in: Language Resources and Evaluation 51 (2) First Online 2016, 695-725 . 10.1007/s10579-016-9374-3.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1665"><rs type="bibl" ref="#bibl__1608"><hi rend="bold">Odebrecht, Carolin / Krause, Thomas / Lüdeling, Anke</hi> (2015): "Austausch von historischen Texten verschiedener Sprachen über das LAUDATIO-Repository", 
-                        <hi rend="italic">37. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft</hi>, DGfS-CL Poster Session, Leipzig. http://conference.uni-leipzig.de/dgfs2015/fileadmin/zusatzdokumente/dgfs-tagung-2015-final.pdf [letzter Zugriff am 17.08.2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1665">Odebrecht, Carolin / Krause, Thomas / Lüdeling, Anke (2015): "Austausch von historischen Texten verschiedener Sprachen über das LAUDATIO-Repository", 37. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft, DGfS-CL Poster Session, Leipzig. http://conference.uni-leipzig.de/dgfs2015/fileadmin/zusatzdokumente/dgfs-tagung-2015-final.pdf [letzter Zugriff am 17.08.2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1666"><rs type="bibl" ref="#bibl__1609"><hi rend="bold">Perlitz, Laura</hi> (2014): 
-                        <hi rend="italic">Konkurrenz zwischen Wortbildung und Syntax. Historische Entwicklung von Benennung. </hi>Bachelorarbeit. Humboldt-Universität zu Berlin, Berlin. 10.18452/14232
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1666">Perlitz, Laura (2014): Konkurrenz zwischen Wortbildung und Syntax. Historische Entwicklung von Benennung. Bachelorarbeit. Humboldt-Universität zu Berlin, Berlin. 10.18452/14232</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__205"><rs type="bibl" ref="#bibl__1610"><hi rend="bold">Rissanen, Matti </hi>(2008): "Corpus Linguistics and Historical Linguistics", in: Lüdeling, Anke / Kytö, Merja (eds.): 
-                        <hi rend="italic">Corpus Linguistics. An International Handbook</hi>. 2 Bände. Berlin: De Gruyter (1), 53–68.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__205">Rissanen, Matti (2008): "Corpus Linguistics and Historical Linguistics", in: Lüdeling, Anke / Kytö, Merja (eds.): Corpus Linguistics. An International Handbook. 2 Bände. Berlin: De Gruyter (1), 53–68.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1667"><rs type="bibl" ref="#bibl__1611"><hi rend="bold">Schmidt, Thomas / Wörner, Kai</hi> (2009): "EXMARaLDA. Creating, analysing and sharing spoken language corpora for pragmatic research", in: 
-                        <hi rend="italic">Pragmatics </hi>19 (4), 565–582.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1667">Schmidt, Thomas / Wörner, Kai (2009): "EXMARaLDA. Creating, analysing and sharing spoken language corpora for pragmatic research", in: Pragmatics 19 (4), 565–582.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1668"><rs type="bibl" ref="#bibl__1612"><hi rend="bold">Simanowski, Roberto</hi> (2011): 
-                        <hi rend="italic">Digital Art and Meaning. Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations</hi> (Electronic Mediations). Minnesota: University of Minnesota Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1668">Simanowski, Roberto (2011): Digital Art and Meaning. Reading Kinetic Poetry, Text Machines, Mapping Art, and Interactive Installations (Electronic Mediations). Minnesota: University of Minnesota Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1669"><rs type="bibl" ref="#bibl__1613"><hi rend="bold">Simons, Gary / Bird, Steven</hi> (2008): "Toward a global infrastructure for the sustainability of language resources", in: 
-                        <hi rend="italic">Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation</hi>. Cebu City,  87–100.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1669">Simons, Gary / Bird, Steven (2008): "Toward a global infrastructure for the sustainability of language resources", in: Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation. Cebu City, 87–100.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__206"><rs type="bibl" ref="#bibl__150"><hi rend="bold">Springmann, Uwe / Lüdeling, Anke</hi> (2017): "OCR of historical printings with an application to building diachronic corpora. A case study using the RIDGES herbal corpus", in: 
-                        <hi rend="italic">Digital Humanities Quarterly </hi>11 (2). http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html [letzter Zugriff am 12.09.2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__206">Springmann, Uwe / Lüdeling, Anke (2017): "OCR of historical printings with an application to building diachronic corpora. A case study using the RIDGES herbal corpus", in: Digital Humanities Quarterly 11 (2). http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html [letzter Zugriff am 12.09.2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1670"><rs type="bibl" ref="#bibl__1614"><hi rend="bold">Wittenburg, Peter / Brugmann, Hennie / Russel, Albert / Klassmann, Alex / Sloetjes, Han</hi> (2006): "ELAN. A Professional Framework for Multimodality Research", in: 
-                        <hi rend="italic">Proceeedings of LREC. Language Resources and Evaluation Conference</hi>. Genoa 1556–1559. http://www.lrec-conf.org/proceedings/lrec2006/ [letzter Zugriff am 23.12.2016].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1670">Wittenburg, Peter / Brugmann, Hennie / Russel, Albert / Klassmann, Alex / Sloetjes, Han (2006): "ELAN. A Professional Framework for Multimodality Research", in: Proceeedings of LREC. Language Resources and Evaluation Conference. Genoa 1556–1559. http://www.lrec-conf.org/proceedings/lrec2006/ [letzter Zugriff am 23.12.2016].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__118"><rs type="bibl" ref="#bibl__88"><hi rend="bold">Zipser, Florian / Romary, Laurent</hi> (2010): "A model oriented approach to the mapping of annotation formats using standards", in: 
-                        <hi rend="italic">Proceedings of the Workshop on Language Resource and Language Technology Standards, LREC 2010</hi>. http://hal.archives-ouvertes.fr/inria-00527799/en/ [letzter Zugriff am 12.11.2014].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__118">Zipser, Florian / Romary, Laurent (2010): "A model oriented approach to the mapping of annotation formats using standards", in: Proceedings of the Workshop on Language Resource and Language Technology Standards, LREC 2010. http://hal.archives-ouvertes.fr/inria-00527799/en/ [letzter Zugriff am 12.11.2014].</rs></bibl>
                 </listBibl>
             </div>
       </back>

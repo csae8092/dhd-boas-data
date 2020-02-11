@@ -161,26 +161,18 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__810"><rs type="bibl" ref="#bibl__729"><hi rend="bold">A. Olheiser</hi>, Have We Been Reading the Declaration of Independence All Wrong?, 
-                        <ref target="https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/">
-                            https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve- been-reading-the-declaration-of-independence-all-wrong/373915/
-                        </ref> (letzter Zugang 7.7.2017).
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__811"><rs type="bibl" ref="#bibl__730"><hi rend="bold">P. Sahle</hi>, Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels, Norderstedt 2013, 3 Bde. (Schriften des Instituts für Dokumentologie und Editorik Bd. 7).</rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__812"><rs type="bibl" ref="#bibl__731"><hi rend="bold">M.L. West</hi>, Textual Criticism and Editorial Technique, Stuttgart 1973.</rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__813"><rs type="bibl" ref="#bibl__732"><hi rend="bold">Links:</hi></rs></rs></bibl>
-                    <bibl>The Atlantic: <rs type="bibl" ref="#bibl__814"><rs type="bibl" ref="#bibl__733"><ref target="https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/">https://www.theatlantic.com/entertain
-                        ment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/
-                        </ref>(letzter Zugang 7.7.2017)
-                    </rs></rs></bibl>
-                    <bibl>http://www.eaqua.net<rs type="bibl" ref="#bibl__815"><rs type="bibl" ref="#bibl__734"/></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__816"><rs type="bibl" ref="#bibl__735"><ref target="http://www.ecomparatio.net/">http://www.ecomparatio.net/</ref></rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__817"><rs type="bibl" ref="#bibl__736"><ref target="http://www.ecomparatio.net/~khk/instanzen/ecompp/">http://www.ecomparatio.net/~khk/instanzen/ecompp/</ref> (letzter Zugang17.9.2017)</rs></rs></bibl>
-                    <bibl>http://digital-plato.org<rs type="bibl" ref="#bibl__818"><rs type="bibl" ref="#bibl__737"/></rs></bibl>
-                    <bibl>http://digital-classics-online.eu<rs type="bibl" ref="#bibl__819"><rs type="bibl" ref="#bibl__738"/></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__810">A. Olheiser, Have We Been Reading the Declaration of Independence All Wrong?, https://www.theatlantic.com/entertainment/archive/2014/07/typo-could-mean-weve- been-reading-the-declaration-of-independence-all-wrong/373915/ (letzter Zugang 7.7.2017).</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__811">P. Sahle, Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels, Norderstedt 2013, 3 Bde. (Schriften des Instituts für Dokumentologie und Editorik Bd. 7).</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__812">M.L. West, Textual Criticism and Editorial Technique, Stuttgart 1973.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__813">Links:</rs></bibl>
+                    <bibl>The Atlantic: <rs type="bibl" ref="#bibl__814">The Atlantic: https://www.theatlantic.com/entertain ment/archive/2014/07/typo-could-mean-weve-been-reading-the-declaration-of-independence-all-wrong/373915/ (letzter Zugang 7.7.2017)</rs></bibl>
+                    <bibl>http://www.eaqua.net<rs type="bibl" ref="#bibl__815">http://www.eaqua.net</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__816">http://www.ecomparatio.net/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__817">http://www.ecomparatio.net/~khk/instanzen/ecompp/ (letzter Zugang17.9.2017)</rs></bibl>
+                    <bibl>http://digital-plato.org<rs type="bibl" ref="#bibl__818">http://digital-plato.org</rs></bibl>
+                    <bibl>http://digital-classics-online.eu<rs type="bibl" ref="#bibl__819">http://digital-classics-online.eu</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__820"><rs type="bibl" ref="#bibl__739"><anchor xml:id="_DdeLink__293_744920"/>http://cite-architecture.github.io/cts/
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__820">http://cite-architecture.github.io/cts/</rs></bibl>
                 </listBibl>
             </div>
       </back>

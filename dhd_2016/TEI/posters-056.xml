@@ -153,37 +153,17 @@
                 <listBibl>
                   <head>Bibliographie</head>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2102"><hi rend="bold">Broeder, Dan / Schonefeld, Oliver / Trippel, Thorsten / Van
-                      Uytvanck, Dieter / Witt, Andreas</hi> (2011): "A pragmatic approach to
-                      XML interoperability – the Component Metadata Infrastructure (CMDI)", in:
-                      <hi rend="italic">Proceedings of Balisage</hi>. The Markup Conference
-                      2011 (= Balisage Series of Markup Technologies 7). </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2102">Broeder, Dan / Schonefeld, Oliver / Trippel, Thorsten / Van Uytvanck, Dieter / Witt, Andreas (2011): "A pragmatic approach to XML interoperability – the Component Metadata Infrastructure (CMDI)", in: Proceedings of Balisage. The Markup Conference 2011 (= Balisage Series of Markup Technologies 7).</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2103"><hi rend="bold">Fankhauser, Peter / Fiedler, Norman / Witt, Andreas</hi>
-                        (2013): "Forschungsdatenmanagement in den Geisteswissenschaften am Beispiel
-                        der germanistischen Linguistik", in: <hi rend="italic">Zeitschrift für
-                        Bibliothekswesen und Bibliographie (ZfBB)</hi> 60, 6: 296-306. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2103">Fankhauser, Peter / Fiedler, Norman / Witt, Andreas (2013): "Forschungsdatenmanagement in den Geisteswissenschaften am Beispiel der germanistischen Linguistik", in: Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB) 60, 6: 296-306.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2104"><hi rend="bold">Fankhauser, Peter / Knappen, Jörg / Teich, Elke</hi>
-                          (2014a): "Exploring and Visualizing Variation in Language Resources", in:
-                          <hi rend="italic">Proceedings of the Ninth International Conference on
-                            Language Resources and Evaluation (LREC'14)</hi>
-                          </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2104">Fankhauser, Peter / Knappen, Jörg / Teich, Elke (2014a): "Exploring and Visualizing Variation in Language Resources", in: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2105"><hi rend="bold">Fankhauser, Peter / Kermes, Hannah / Teich, Elke</hi>
-                            (2014b): "Combining Macro- and Microanalysis for Exploring the Construal of
-                            Scientific Disciplinarity", in: <hi rend="italic">Proceedings of the Digital
-                            Humanities 2014</hi>. </rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__2106"><hi rend="bold">Institut für Deutsche Sprache (IDS)</hi>: <hi rend="italic">Zentrum für germanistische Forschungsprimärdaten</hi>
-                            <ref target="http://www1.ids-mannheim.de/fi/projekte/lis.html">http://www1.ids-mannheim.de/fi/projekte/lis.html</ref> [letzter Zugriff
-                              11. Februar 2016].</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__2107"><hi rend="bold">Institut für Deutsche Sprache (IDS)</hi>: <hi rend="italic">IDS Repository</hi>
-                              <ref target="https://repos.ids-mannheim.de/">https://repos.ids-mannheim.de/</ref> [letzter Zugriff 11. Februar
-                                2016].</rs></bibl>
+                            <rs type="bibl" ref="#bibl__2105">Fankhauser, Peter / Kermes, Hannah / Teich, Elke (2014b): "Combining Macro- and Microanalysis for Exploring the Construal of Scientific Disciplinarity", in: Proceedings of the Digital Humanities 2014.</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2106">Institut für Deutsche Sprache (IDS): Zentrum für germanistische Forschungsprimärdaten http://www1.ids-mannheim.de/fi/projekte/lis.html [letzter Zugriff 11. Februar 2016].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__2107">Institut für Deutsche Sprache (IDS): IDS Repository https://repos.ids-mannheim.de/ [letzter Zugriff 11. Februar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2108"><hi rend="bold">Kämper, Heidrun</hi> (2015): "Demokratiediskurs 1918-1925"
-                                  <ref target="http://www1.ids-mannheim.de/lexik/zeitreflexion18.html">http://www1.ids-mannheim.de/lexik/zeitreflexion18.html</ref> [letzter
-                                    Zugriff 14. Oktober 2015]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2108">Kämper, Heidrun (2015): "Demokratiediskurs 1918-1925" http://www1.ids-mannheim.de/lexik/zeitreflexion18.html [letzter Zugriff 14. Oktober 2015].</rs></bibl>
                                   </listBibl>
                                 </div>
                               </back>

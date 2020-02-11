@@ -280,67 +280,37 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3"><rs type="bibl" ref="#bibl__255"><hi rend="bold">Berry, David M.</hi> (2011): „The Computational Turn: Thinking About the Digital Humanities“. (The Computational Turn). In 
-                        <hi rend="italic">Culture Machine</hi> 12 (0).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3">Berry, David M. (2011): „The Computational Turn: Thinking About the Digital Humanities“. (The Computational Turn). In Culture Machine 12 (0).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__359"><rs type="bibl" ref="#bibl__256"><hi rend="bold">De Schryver, Gilles-Maurice</hi> (2003): „Lexicographers’ Dreams in the Electronic‐Dictionary Age“. In 
-                        <hi rend="italic">International Journal of Lexicography</hi> 16 (2): 143–199.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__359">De Schryver, Gilles-Maurice (2003): „Lexicographers’ Dreams in the Electronic‐Dictionary Age“. In International Journal of Lexicography 16 (2): 143–199.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__360"><rs type="bibl" ref="#bibl__257"><hi rend="bold">Fuertes-Olivera, Pedro</hi> (ed.) (2018): 
-                        <hi rend="italic">The Routledge Handbook of Lexicography</hi>. London: Routledge.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__360">Fuertes-Olivera, Pedro (ed.) (2018): The Routledge Handbook of Lexicography. London: Routledge.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__361"><rs type="bibl" ref="#bibl__258"><hi rend="bold">Gouws, Rufus / Heid, Ulrich / Schweickard, Wolfgang / Wiegand, Herbert E. (eds.).</hi> (2013): 
-                        <hi rend="italic">Dictionaries. An International Encyclopedia of Lexicography</hi>. HSK 5/4. Berlin / Boston: De Gruyter Mouton.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__361">Gouws, Rufus / Heid, Ulrich / Schweickard, Wolfgang / Wiegand, Herbert E. (eds.). (2013): Dictionaries. An International Encyclopedia of Lexicography. HSK 5/4. Berlin / Boston: De Gruyter Mouton.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__362"><rs type="bibl" ref="#bibl__259"><hi rend="bold">Hanks, Patrick</hi> (2008). „The Lexicographical Legacy of John Sinclair“. In 
-                        <hi rend="italic">International Journal of Lexicography</hi> 21 (3): 219–229.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__362">Hanks, Patrick (2008). „The Lexicographical Legacy of John Sinclair“. In International Journal of Lexicography 21 (3): 219–229.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__363"><rs type="bibl" ref="#bibl__260"><hi rend="bold">Heid, Ulrich</hi> (2008). „Corpus linguistics and lexicography“. In Anke Lüdeling / Merja Kytö (ed.) 
-                        <hi rend="italic">Corpus Linguistics. An international Handbook</hi>: 131–153. Berlin: Mouton de Gruyter.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__363">Heid, Ulrich (2008). „Corpus linguistics and lexicography“. In Anke Lüdeling / Merja Kytö (ed.) Corpus Linguistics. An international Handbook: 131–153. Berlin: Mouton de Gruyter.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__364"><rs type="bibl" ref="#bibl__261"><hi rend="bold">Heid, Ulrich</hi> (2013): „The impact of computational lexicography“. In Gouws et al. 2013: 24–30.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__364">Heid, Ulrich (2013): „The impact of computational lexicography“. In Gouws et al. 2013: 24–30.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__365"><rs type="bibl" ref="#bibl__262"><hi rend="bold">Heid, Ulrich</hi> (2014): „Natural Language Processing Techniques for Improved User-friendliness of Electronic Dictionaries“. In 
-                        <hi rend="italic">Proceedings of EURALEX 2012</hi>: 47–61.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__365">Heid, Ulrich (2014): „Natural Language Processing Techniques for Improved User-friendliness of Electronic Dictionaries“. In Proceedings of EURALEX 2012: 47–61.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__366"><rs type="bibl" ref="#bibl__263"><hi rend="bold">Lemnitzer, Lothar / Romary, Laurent / Witt, Andreas </hi>(2013): „Representing human and machine dictionaries in markup languages (SGML, XML)“. In Gouws et al. 2013: 1195–1209.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__366">Lemnitzer, Lothar / Romary, Laurent / Witt, Andreas (2013): „Representing human and machine dictionaries in markup languages (SGML, XML)“. In Gouws et al. 2013: 1195–1209.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__367"><rs type="bibl" ref="#bibl__264"><hi rend="bold">Lopez, Patrice</hi> (2009): „GROBID: Combining Automatic Bibliographic Data Recognition and Term Extraction for Scholarship Publications“. In 
-                        <hi rend="italic">Research and Advanced Technology for Digital Libraries</hi>: 473–474. Lecture Notes in Computer Science. Berlin / Heidelberg: Springer
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__367">Lopez, Patrice (2009): „GROBID: Combining Automatic Bibliographic Data Recognition and Term Extraction for Scholarship Publications“. In Research and Advanced Technology for Digital Libraries: 473–474. Lecture Notes in Computer Science. Berlin / Heidelberg: Springer</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__9"><rs type="bibl" ref="#bibl__7"><hi rend="bold">McCallum, Andrew K.</hi> (2002): 
-                        <hi rend="italic">MALLET: A Machine Learning for Language Toolkit</hi>. http://mallet.cs.umass.edu/.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__9">McCallum, Andrew K. (2002): MALLET: A Machine Learning for Language Toolkit. http://mallet.cs.umass.edu/.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__368"><rs type="bibl" ref="#bibl__265"><hi rend="bold">Müller-Spitzer, Carolin</hi> (2014): „Methoden der Wörterbuchbenutzungsforschung“. In 
-                        <hi rend="italic">Lexicographica</hi> 30 (1): 112–151.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__368">Müller-Spitzer, Carolin (2014): „Methoden der Wörterbuchbenutzungsforschung“. In Lexicographica 30 (1): 112–151.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__10"><rs type="bibl" ref="#bibl__8"><hi rend="bold">Schreibman, Susan / Siemens, Ray / Unsworth, John</hi> (2004): 
-                        <hi rend="italic">A Companion to Digital Humanities</hi>. Oxford: Blackwell
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__10">Schreibman, Susan / Siemens, Ray / Unsworth, John (2004): A Companion to Digital Humanities. Oxford: Blackwell</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__369"><rs type="bibl" ref="#bibl__266"><hi rend="bold">Spohr, Dennis</hi> (2012): 
-                        <hi rend="italic">Towards a Multifunctional Lexical Resource, Design and Implementation of a Graph-Based Lexicon Model</hi>. Lexicographica Series Maior, 141. Berlin / Boston: De Gruyter.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__369">Spohr, Dennis (2012): Towards a Multifunctional Lexical Resource, Design and Implementation of a Graph-Based Lexicon Model. Lexicographica Series Maior, 141. Berlin / Boston: De Gruyter.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__370"><rs type="bibl" ref="#bibl__267"><hi rend="bold">Tarp, Sven</hi> (2008): 
-                        <hi rend="italic">Lexicography in the borderland between knowledge and non-knowledge: general lexicographical theory with particular focus on learner’s lexicography</hi>. Lexicographica, Series Mayor 134. Tübingen: Niemeyer.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__370">Tarp, Sven (2008): Lexicography in the borderland between knowledge and non-knowledge: general lexicographical theory with particular focus on learner’s lexicography. Lexicographica, Series Mayor 134. Tübingen: Niemeyer.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__371"><rs type="bibl" ref="#bibl__268"><hi rend="bold">Wiegand, Herbert E.</hi> (2013): „Lexikographie und Angewandte Linguistik“. In 
-                        <hi rend="italic">Zeitschrift für angewandte Linguistik</hi> 58 (1): 13–39.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__371">Wiegand, Herbert E. (2013): „Lexikographie und Angewandte Linguistik“. In Zeitschrift für angewandte Linguistik 58 (1): 13–39.</rs></bibl>
                 </listBibl>
             </div>
       </back>

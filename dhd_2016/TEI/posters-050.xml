@@ -155,28 +155,15 @@
                   <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2512"><hi rend="bold">BBAW</hi> (2007-2015): <hi rend="italic">Deutsches
-                      Textarchiv</hi>. Berlin: Berlin-Brandenburgische Akademie der
-                      Wissenschaften <ref target="http://www.deutschestextarchiv.de/">http://www.deutschestextarchiv.de/</ref> [letzter Zugriff 30. Januar
-                      2016]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2512">BBAW (2007-2015): Deutsches Textarchiv. Berlin: Berlin-Brandenburgische Akademie der Wissenschaften http://www.deutschestextarchiv.de/ [letzter Zugriff 30. Januar 2016].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2513"><hi rend="bold">Bertin, Jacques</hi>(1967): <hi rend="italic">Sémiologie
-                        graphique</hi>. Paris: Mouton / Gauthier-Villars. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2513">Bertin, Jacques(1967): Sémiologie graphique. Paris: Mouton / Gauthier-Villars.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2514"><hi rend="bold">Hu, Yingjie / Janowicz, Krzysztof / Prasad, Sathya</hi>
-                          (2014): „Improving Wikipedia-Based Place Name Disambiguation in Short Texts
-                          Using Structured Data from Dbpedia“, in: <hi rend="italic">Proceedings of
-                          the 8th ACM Workshop on Geographic Information Retrieval, Dallas,
-                          Texas</hi> 8–16. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2514">Hu, Yingjie / Janowicz, Krzysztof / Prasad, Sathya (2014): „Improving Wikipedia-Based Place Name Disambiguation in Short Texts Using Structured Data from Dbpedia“, in: Proceedings of the 8th ACM Workshop on Geographic Information Retrieval, Dallas, Texas 8–16.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__146"><hi rend="bold">Jurish, Bryan / Würzner, Kay-Michael</hi> (2013): „Word and
-                            Sentence Tokenization with Hidden Markov Models“, in: <hi rend="italic">Journal for Language Technology and Computational Linguistics</hi> 28,
-                            2: 61–83.</rs></bibl>
+                            <rs type="bibl" ref="#bibl__146">Jurish, Bryan / Würzner, Kay-Michael (2013): „Word and Sentence Tokenization with Hidden Markov Models“, in: Journal for Language Technology and Computational Linguistics 28, 2: 61–83.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2515"><hi rend="bold">Leidner, Jochen L. / Lieberman, Michael D.</hi> (2011):
-                              „Detecting Geographical References in the Form of Place Names and Associated
-                              Spatial Natural Language“, in: <hi rend="italic">SIGSPATIAL Special </hi>3,
-                              2: 5–11. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2515">Leidner, Jochen L. / Lieberman, Michael D. (2011): „Detecting Geographical References in the Form of Place Names and Associated Spatial Natural Language“, in: SIGSPATIAL Special 3, 2: 5–11.</rs></bibl>
                             </listBibl>
                           </div>
                         </back>

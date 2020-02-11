@@ -202,50 +202,25 @@
                               <listBibl>
                                 <head>Bibliographie</head>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__260"><hi rend="bold">Andrews, Tara L. / Macé, Caroline </hi>(2013): „Beyond the
-                                  tree of texts: Building an empirical model of scribal variation through
-                                  graph analysis of texts and stemmata“, in: <hi rend="italic">Literary and
-                                  Linguistic Computing </hi>28, 4: 504-21 <ref target="http://dx.doi.org/10.1093/llc/fqu072">http://dx.doi.org/10.1093/llc/fqu072</ref> [letzter Zugriff 09. Februar
-                                  2016]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__260">Andrews, Tara L. / Macé, Caroline (2013): „Beyond the tree of texts: Building an empirical model of scribal variation through graph analysis of texts and stemmata“, in: Literary and Linguistic Computing 28, 4: 504-21 http://dx.doi.org/10.1093/llc/fqu072 [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2458"><hi rend="bold">Dekker, Ronald Haentjens / Hulle, Dirk van / Middell, Gregor
-                                      / Neyt, Vincent / Zundert, Joris van</hi> (2014): „Computer-supported
-                                      collation of modern manuscripts: CollateX and the Beckett Digital Manuscript
-                                      Project“, in <hi rend="italic">Literary and Linguistic Computing</hi> 25:
-                                      1-19 <ref target="http://dx.doi.org/10.1093/llc/fqu007">http://dx.doi.org/10.1093/llc/fqu007</ref> [letzter Zugriff 09. Februar
-                                      2016]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2458">Dekker, Ronald Haentjens / Hulle, Dirk van / Middell, Gregor / Neyt, Vincent / Zundert, Joris van (2014): „Computer-supported collation of modern manuscripts: CollateX and the Beckett Digital Manuscript Project“, in Literary and Linguistic Computing 25: 1-19 http://dx.doi.org/10.1093/llc/fqu007 [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2459"><hi rend="bold">Google Inc</hi> (2012): <hi rend="italic">Google Maps </hi>
-                                        <ref target="http://www.google.com/maps">http://www.google.com/maps</ref>
-                                        [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2459">Google Inc (2012): Google Maps http://www.google.com/maps [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2460"><hi rend="bold">International Council of Museums</hi> (2014): <hi rend="italic">The CIDOC Conceptual Reference Model</hi>
-                                          <ref target="http://www.cidoc-crm.org">http://www.cidoc-crm.org</ref>
-                                          [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2460">International Council of Museums (2014): The CIDOC Conceptual Reference Model http://www.cidoc-crm.org [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2461"><hi rend="bold">Jeffreys, Michael</hi> (2011): <hi rend="italic">Prosopography of the Byzantine World</hi>
-                                            <ref target="http://www.pbw.kcl.ac.uk">www.pbw.kcl.ac.uk</ref> [letzter
-                                            Zugriff 15. Oktober 2015]. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2461">Jeffreys, Michael (2011): Prosopography of the Byzantine World www.pbw.kcl.ac.uk [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2462"><hi rend="bold">Matthias von Edessa (Mattʿēos Uṙhayecʿi)</hi> (1898): <hi rend="italic">Die Croniken des Matthias von Edessa
-                                              Žamanakagrutʿiwn</hi>. Vałaršapat. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2462">Matthias von Edessa (Mattʿēos Uṙhayecʿi) (1898): Die Croniken des Matthias von Edessa Žamanakagrutʿiwn. Vałaršapat.</rs></bibl>
                                               <bibl>
-                                                <rs type="bibl" ref="#bibl__2463"><hi rend="bold">Neo Technology Inc</hi>. (2015): <hi rend="italic">Neo4j</hi>
-                                                <ref target="http://www.neo4j.com">http://www.neo4j.com</ref> [letzter
-                                                Zugriff 15. Oktober 2015]. </rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2463">Neo Technology Inc. (2015): Neo4j http://www.neo4j.com [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2464"><hi rend="bold">Oracle Cooperation</hi> (2015): <hi rend="italic">MySQL </hi>
-                                                  <ref target="https://www.mysql.com">https://www.mysql.com</ref> [letzter
-                                                  Zugriff 15. Oktober 2015]. </rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2464">Oracle Cooperation (2015): MySQL https://www.mysql.com [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__58"><hi rend="bold">TEI Consortium</hi> (2015): <hi rend="italic">Guidelines for
-                                                    Electronic Text Encoding and Interchange. Version 2.8.0 </hi>
-                                                    <ref target="http://www.tei-c.org/Vault/P5/2.8.0/doc/tei-p5-doc/en/html/">http://www.tei-c.org/Vault/P5/2.8.0/doc/tei-p5-doc/en/html/</ref>
-                                                      [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__58">TEI Consortium (2015): Guidelines for Electronic Text Encoding and Interchange. Version 2.8.0 http://www.tei-c.org/Vault/P5/2.8.0/doc/tei-p5-doc/en/html/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2465"><hi rend="bold">Wikimedia Foundation</hi> (2015): <hi rend="italic">Wikipedia</hi>
-                                                        <ref target="http://www.wikipedia.org">http://www.wikipedia.org</ref>
-                                                        [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2465">Wikimedia Foundation (2015): Wikipedia http://www.wikipedia.org [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                                       </listBibl>
                                                     </div>
                                                   </back>

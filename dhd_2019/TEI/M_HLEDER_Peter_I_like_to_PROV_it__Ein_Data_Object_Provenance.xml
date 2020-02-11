@@ -114,71 +114,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3662"><rs type="bibl" ref="#bibl__2427"><hi rend="color(#000000)bold">D’Ignazio, Catherine / Klein, </hi>
-                        <hi rend="color(#000000)bold">Lauren F.</hi>
-                        <hi rend="color(#000000)"> (201</hi>
-                        <hi rend="color(#000000)">6</hi>
-                        <hi rend="color(#000000)">): “Feminist Data Visualization”, </hi>
-                        <hi rend="color(#000000)">in</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)italic">W</hi>
-                        <hi rend="color(#000000)">orkshop on Visualization for the Digital Humanities (VIS4D</hi>
-                        <hi rend="color(#000000)">H), Baltimore. IEEE.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3662">D’Ignazio, Catherine / Klein, Lauren F. (201 6 ): “Feminist Data Visualization”, in : W orkshop on Visualization for the Digital Humanities (VIS4D H), Baltimore. IEEE.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3663"><rs type="bibl" ref="#bibl__2428"><hi rend="color(#000000)bold">Freire, Jualina / Koop, </hi>
-                        <hi rend="color(#000000)bold">D. / </hi>
-                        <hi rend="color(#000000)bold">Santos, </hi>
-                        <hi rend="color(#000000)bold">E. /</hi>
-                        <hi rend="color(#000000)bold"> Silva, </hi>
-                        <hi rend="color(#000000)bold">C. T.</hi>
-                        <hi rend="color(#000000)"> (2008): “Provenance for Computational Tasks: A Survey”, </hi>
-                        <hi rend="color(#000000)">in: </hi>
-                        <hi rend="color(#000000)">Computing in Science &amp; Engineering May/June 2008,</hi>
-                        <hi rend="color(#000000)"> 11-21, DOI 10.1109/MCSE.2008.79. </hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3663">Freire, Jualina / Koop, D. / Santos, E. / Silva, C. T. (2008): “Provenance for Computational Tasks: A Survey”, in: Computing in Science &amp; Engineering May/June 2008, 11-21, DOI 10.1109/MCSE.2008.79.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3664"><rs type="bibl" ref="#bibl__2429"><hi rend="color(#000000)bold">Lebo, Timothy / Sahoo, </hi>
-                        <hi rend="color(#000000)bold">Satya / </hi>
-                        <hi rend="color(#000000)bold">McGuinness, </hi>
-                        <hi rend="color(#000000)bold">Deborah</hi>
-                        <hi rend="color(#000000)bold"> </hi>
-                        <hi rend="color(#000000)">(2013): PROV-O: The PROV Ontology. W3C Recommendation.</hi>
-                        <hi rend="color(#000000)"> https://www.w3.org/TR/prov-o/ </hi>
-                        <hi rend="color(#000000)">[letzter Zugriff 12. Oktober 2018].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3664">Lebo, Timothy / Sahoo, Satya / McGuinness, Deborah (2013): PROV-O: The PROV Ontology. W3C Recommendation. https://www.w3.org/TR/prov-o/ [letzter Zugriff 12. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3665"><rs type="bibl" ref="#bibl__2430"><hi rend="color(#000000)bold">Rämisch, Florian / Mühleder, Peter </hi>
-                        <hi rend="color(#000000)">(2018),</hi>
-                        <hi rend="color(#000000)">Provit</hi>
-                        <hi rend="color(#000000)"> (Version v0.2.3). Zenodo, DOI http://doi.org/10.5281/zenodo.2268521</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3665">Rämisch, Florian / Mühleder, Peter (2018), Provit (Version v0.2.3). Zenodo, DOI http://doi.org/10.5281/zenodo.2268521</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3666"><rs type="bibl" ref="#bibl__2431"><hi rend="color(#000000)bold">Oliveira, Wellington / De Oliveira, </hi>
-                        <hi rend="color(#000000)bold">Daniel</hi>
-                        <hi rend="color(#000000)bold"> / Braganholo,</hi>
-                        <hi rend="color(#000000)bold">Vanessa</hi>
-                        <hi rend="color(#000000)bold"> </hi>
-                        <hi rend="color(#000000)">(2018): “Provenance Analytics for Workflow-Based Computational Experiments: A Survey”, </hi>
-                        <hi rend="color(#000000)">in: </hi>
-                        <hi rend="color(#000000)">ACM Computing </hi>
-                        <hi rend="color(#000000)">Surveys 51/3, </hi>
-                        <hi rend="color(#000000)">53:1-53:25, DOI </hi>
-                        <hi rend="color(#000000)">10.1145/3184900.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3666">Oliveira, Wellington / De Oliveira, Daniel / Braganholo, Vanessa (2018): “Provenance Analytics for Workflow-Based Computational Experiments: A Survey”, in: ACM Computing Surveys 51/3, 53:1-53:25, DOI 10.1145/3184900.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3667"><rs type="bibl" ref="#bibl__2432"><lb/>
-                        <hi rend="color(#000000)bold">Pasquier, T. / Lau, M. K. / Trisovic, A. </hi>
-                        <hi rend="color(#000000)bold">/</hi>
-                        <hi rend="color(#000000)bold"> Boose, E. R. / Couturier, B. / Crosas, M. / Seltzer, M.</hi>
-                        <hi rend="color(#000000)"> (2017): “</hi>
-                        <hi rend="color(#000000)">If these data could talk”. </hi>
-                        <hi rend="color(#000000)">in</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)">Scientific Data 4, </hi>
-                        <hi rend="color(#000000)">DOI </hi>
-                        <hi rend="color(#000000)">10.1038/sdata.2017.114.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3667">Pasquier, T. / Lau, M. K. / Trisovic, A. / Boose, E. R. / Couturier, B. / Crosas, M. / Seltzer, M. (2017): “ If these data could talk”. in : Scientific Data 4, DOI 10.1038/sdata.2017.114.</rs></bibl>
                 </listBibl>
             </div>
         </back>

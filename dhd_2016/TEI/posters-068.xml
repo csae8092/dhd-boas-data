@@ -106,18 +106,9 @@
                 <div type="bibliogr">
                   <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__2527"><hi rend="bold">Institut für Deutsche Sprache (IDS)</hi> (o. J.): <hi rend="italic">DGD.</hi> Datenbank für Gesprochenes Deutsch <ref target="http://dgd.ids-mannheim.de">http://dgd.ids-mannheim.de</ref>
-                    [letzter Zugriff 12. Februar 2016].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__261"><hi rend="bold">Schmidt, Thomas</hi> (2014a): "The Database for Spoken
-                    German – DGD2", in: <hi rend="italic">Proceedings of the Ninth conference on
-                    International Language Resources and Evaluation (LREC’14)</hi>,
-                    Reykjavik, Iceland 1451-1457 <ref target="http://www.lrec-conf.org/proceedings/lrec2014/pdf/171_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2014/pdf/171_Paper.pdf</ref>
-                    [letzter Zugriff 12. Februar 2016]. </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__261"><hi rend="bold">Schmidt, Thomas (2014b)</hi>: "The Research and Teaching
-                    Corpus of Spoken German – FOLK", in: <hi rend="italic">Proceedings of the
-                    Ninth conference on International Language Resources and Evaluation
-                    (LREC’14)</hi>, Reykjavik, Iceland 383-387 <ref target="http://www.lrec-conf.org/proceedings/lrec2014/pdf/290_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2014/pdf/290_Paper.pdf</ref>
-                    [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__2527">Institut für Deutsche Sprache (IDS) (o. J.): DGD. Datenbank für Gesprochenes Deutsch http://dgd.ids-mannheim.de [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__261">Schmidt, Thomas (2014a): "The Database for Spoken German – DGD2", in: Proceedings of the Ninth conference on International Language Resources and Evaluation (LREC’14), Reykjavik, Iceland 1451-1457 http://www.lrec-conf.org/proceedings/lrec2014/pdf/171_Paper.pdf [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__261">Schmidt, Thomas (2014b): "The Research and Teaching Corpus of Spoken German – FOLK", in: Proceedings of the Ninth conference on International Language Resources and Evaluation (LREC’14), Reykjavik, Iceland 383-387 http://www.lrec-conf.org/proceedings/lrec2014/pdf/290_Paper.pdf [letzter Zugriff 12. Februar 2016].</rs></bibl>
                   </listBibl>
                 </div>
               </back>

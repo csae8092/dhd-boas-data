@@ -241,41 +241,21 @@
            <div type="bibliogr">
                <listBibl>
                    <head>Bibliographie</head>
-                   <bibl><rs type="bibl" ref="#bibl__1511"><rs type="bibl" ref="#bibl__1450"><hi rend="bold">Becker, Carmen </hi>(2009): “Gaining Knowledge: Salafi Activism in German and 
-                       Dutch Online Forums” in:  Masaryk University Journal of Law and 
-                       Technology 3 (1): 79–98.</rs></rs></bibl>
+                   <bibl><rs type="bibl" ref="#bibl__1511">Becker, Carmen (2009): “Gaining Knowledge: Salafi Activism in German and Dutch Online Forums” in: Masaryk University Journal of Law and Technology 3 (1): 79–98.</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1512"><rs type="bibl" ref="#bibl__1451"><hi rend="bold">Blei, David M./Andrew Y. Ng/Michael I. Jordan </hi>(2003): “Latent Dirichlet 
-                       Allocation,” J. Mach. Learn. Res., vol. 3, no. 4–5, pp. 993–1022.
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__1512">Blei, David M./Andrew Y. Ng/Michael I. Jordan (2003): “Latent Dirichlet Allocation,” J. Mach. Learn. Res., vol. 3, no. 4–5, pp. 993–1022.</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1513"><rs type="bibl" ref="#bibl__1452"><hi rend="bold">Le,Quoc V./ Tomas Mikolov </hi>(2014): “Distributed Representations of 
-                       Sentences and Documents” in: International Conference on Machine 
-                       Learning - ICML 2014, vol. 32, pp. 1188–1196.
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__1513">Le,Quoc V./ Tomas Mikolov (2014): “Distributed Representations of Sentences and Documents” in: International Conference on Machine Learning - ICML 2014, vol. 32, pp. 1188–1196.</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1514"><rs type="bibl" ref="#bibl__1453"><hi rend="bold">Neumaier, Anna </hi>(2016): Religion@home? Religionsbezogene 
-                       Online-Plattformen Und Ihre Nutzung: Eine Untersuchung Zu Neuen Formen 
-                       Gegenwärtiger Religiosität. Religion in Der Gesellschaft 39.
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__1514">Neumaier, Anna (2016): Religion@home? Religionsbezogene Online-Plattformen Und Ihre Nutzung: Eine Untersuchung Zu Neuen Formen Gegenwärtiger Religiosität. Religion in Der Gesellschaft 39.</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1515"><rs type="bibl" ref="#bibl__1454"><hi rend="bold">Pang-Ning, Tan/Michael, Steinbach/Vipin, Kumar </hi>(2006): Introduction to 
-                       data mining
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__1515">Pang-Ning, Tan/Michael, Steinbach/Vipin, Kumar (2006): Introduction to data mining</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1516"><rs type="bibl" ref="#bibl__1455"><hi rend="bold">Pfahler, Lukas/Katharina, Morik/Frederik, Elwert/Samira, Tabti/Volkhard, 
-                       Krech </hi>(2017): “Learning Low-Rank Document Embeddings with Weighted 
-                       Nuclear Norm Regularization” in: Proceedings of the 4th DSAA
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__1516">Pfahler, Lukas/Katharina, Morik/Frederik, Elwert/Samira, Tabti/Volkhard, Krech (2017): “Learning Low-Rank Document Embeddings with Weighted Nuclear Norm Regularization” in: Proceedings of the 4th DSAA</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__188"><rs type="bibl" ref="#bibl__139"><hi rend="bold">Robertson, Stephen </hi>(2004) “Understanding inverse document frequency: on 
-                       theoretical arguments for IDF,” in:  J. Doc., vol. 60, no. 5, pp. 
-                       503–520.
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__188">Robertson, Stephen (2004) “Understanding inverse document frequency: on theoretical arguments for IDF,” in: J. Doc., vol. 60, no. 5, pp. 503–520.</rs></bibl>
                    <bibl>
-                       <rs type="bibl" ref="#bibl__1517"><rs type="bibl" ref="#bibl__1456"><hi rend="bold">Roy, Olivier </hi>(2010): Heilige Einfalt: Über Die Politischen Gefahren 
-                       Entwurzelter Religionen. München.
-                   </rs></rs></bibl>
+                       <rs type="bibl" ref="#bibl__1517">Roy, Olivier (2010): Heilige Einfalt: Über Die Politischen Gefahren Entwurzelter Religionen. München.</rs></bibl>
                </listBibl>
            </div>
        </back>

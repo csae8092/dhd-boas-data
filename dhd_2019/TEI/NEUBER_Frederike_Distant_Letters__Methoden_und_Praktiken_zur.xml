@@ -265,186 +265,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3417"><rs type="bibl" ref="#bibl__2177"><anchor xml:id="id_docs-internal-guid-ab139cc9-7fff-fe6e-39c4-1a663ce0b6b5"/>
-                        <hi rend="color(#000000)bold">Andorfer, Peter</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">(2017):</hi>
-                        <hi rend="color(#000000)"> „Turing Test für das Topic Modeling. Von Menschen und Maschinen erstellte inhaltliche Analysen der Korrespondenz von Leo von Thun-Hohenstein im Vergleich“, </hi>
-                        <hi rend="color(#000000)">in</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)italic">Zeitschrift für digitale Geisteswissenschaften;</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">doi: </hi>
-                        <ref target="http://dx.doi.org/10.17175/2017_002">
-                            <hi rend="color(#1155cc)underline">10.17175/2017_002</hi>
-                        </ref>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3417">Andorfer, Peter (2017): „Turing Test für das Topic Modeling. Von Menschen und Maschinen erstellte inhaltliche Analysen der Korrespondenz von Leo von Thun-Hohenstein im Vergleich“, in : Zeitschrift für digitale Geisteswissenschaften; doi: 10.17175/2017_002 [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3418"><rs type="bibl" ref="#bibl__2178"><hi rend="color(#000000)bold">Bernauer, Markus / Miller, Norbert / Neuber, Frederike </hi>
-                        <hi rend="color(#000000)">(eds.)</hi>
-                        <hi rend="color(#000000)bold"> </hi>
-                        <hi rend="color(#000000)">(2018): </hi>
-                        <hi rend="color(#000000)italic">Jean Paul – Sämtliche Briefe digital. </hi>
-                        <hi rend="color(#000000)">In der Fassung der von Eduard Berend herausgegebenen 3. Abteilung der Historisch-kritischen Ausgabe (1952-1964), im Auftrag der Berlin-Brandenburgischen Akademie der Wissenschaften überarbeitet und herausgegeben von Markus Bernauer, Norbert Miller und Frederike Neuber; </hi>
-                        <ref target="http://jeanpaul-edition.de/">
-                            <hi rend="color(#1155cc)underline">http://jeanpaul-edition.de</hi>
-                        </ref>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3418">Bernauer, Markus / Miller, Norbert / Neuber, Frederike (eds.) (2018): Jean Paul – Sämtliche Briefe digital. In der Fassung der von Eduard Berend herausgegebenen 3. Abteilung der Historisch-kritischen Ausgabe (1952-1964), im Auftrag der Berlin-Brandenburgischen Akademie der Wissenschaften überarbeitet und herausgegeben von Markus Bernauer, Norbert Miller und Frederike Neuber; http://jeanpaul-edition.de [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__172"><rs type="bibl" ref="#bibl__129"><anchor xml:id="id_docs-internal-guid-e36ff6d7-7fff-5585-3e62-ed6816c58f62"/>
-                        <hi rend="color(#000000)bold">Burrows, John </hi>
-                        <hi rend="color(#000000)">(2002)</hi>
-                        <hi rend="color(#000000)">: „Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship“, </hi>
-                        <hi rend="color(#000000)">in</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)italic">Literary and Linguistic Computing</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">17/3, S. 267–287.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__172">Burrows, John (2002) : „Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship“, in : Literary and Linguistic Computing 17/3, S. 267–287.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3419"><rs type="bibl" ref="#bibl__2179"><hi rend="color(#000000)bold">Dumont, Stefan </hi>
-                        <hi rend="color(#000000)">(</hi>
-                        <hi rend="color(#000000)">2016): „</hi>
-                        <hi rend="color(#000000)">correspSearch – Connecting Scholarly Editions of Letters“, </hi>
-                        <hi rend="color(#000000)">in:</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)italic">Journal of the Text Encoding Initiative</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">[Online], Issue 1</hi>
-                        <hi rend="color(#000000)">0;</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <ptr target="http://journals.openedition.org/jtei/1742"/>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3419">Dumont, Stefan ( 2016): „ correspSearch – Connecting Scholarly Editions of Letters“, in: Journal of the Text Encoding Initiative [Online], Issue 1 0; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__158"><rs type="bibl" ref="#bibl__119"><hi rend="color(#000000)bold">Eder, Maciej / </hi>
-                        <hi rend="color(#000000)bold">Rybicki, </hi>
-                        <hi rend="color(#000000)bold">Jan /</hi>
-                        <hi rend="color(#000000)bold"> Kestemont, </hi>
-                        <hi rend="color(#000000)bold">Mike </hi>
-                        <hi rend="color(#000000)">(2016)</hi>
-                        <hi rend="color(#000000)">: „Stylometry with R: A Package for Computational Text Analysis“, </hi>
-                        <hi rend="color(#000000)">in</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)italic">The R Journal </hi>
-                        <hi rend="color(#000000)">8/1 (2016), S. 107–121.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__158">Eder, Maciej / Rybicki, Jan / Kestemont, Mike (2016) : „Stylometry with R: A Package for Computational Text Analysis“, in : The R Journal 8/1 (2016), S. 107–121.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3420"><rs type="bibl" ref="#bibl__2180"><hi rend="color(#000000)bold">Ette Ottmar</hi>
-                        <hi rend="color(#000000)"> (eds.) (seit 2016): </hi>
-                        <hi rend="color(#000000)italic">edition humboldt digital.</hi>
-                        <hi rend="color(#000000)"> Berlin-Brandenburgische Akademie der Wissenschaften, Berlin. Version 3 vom 14.09.2018; </hi>
-                        <ptr target="https://edition-humboldt.de/"/>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3420">Ette Ottmar (eds.) (seit 2016): edition humboldt digital. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin. Version 3 vom 14.09.2018; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3421"><rs type="bibl" ref="#bibl__2181"><hi rend="color(#000000)bold">Graham, </hi>
-                        <hi rend="color(#000000)bold">Shawn / </hi>
-                        <hi rend="color(#000000)bold">Weingart, S</hi>
-                        <hi rend="color(#000000)bold">cott / </hi>
-                        <hi rend="color(#000000)bold">Milligan, </hi>
-                        <hi rend="color(#000000)bold">Ian</hi>
-                        <hi rend="color(#000000)"> (2012): „Getting Started with Topic Modeling and MALLET“, </hi>
-                        <hi rend="color(#000000)">in: </hi>
-                        <hi rend="color(#000000)italic">The Programming Historian</hi>
-                        <hi rend="color(#000000)bold"> </hi>
-                        <hi rend="color(#000000)">1; </hi>
-                        <ptr target="https://programminghistorian.org/en/lessons/topic-modeling-and-mallet"/>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3421">Graham, Shawn / Weingart, S cott / Milligan, Ian (2012): „Getting Started with Topic Modeling and MALLET“, in: The Programming Historian 1; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3422"><rs type="bibl" ref="#bibl__2182"><anchor xml:id="id_docs-internal-guid-63457661-7fff-3886-91d7-dfe5e4f5ad1c"/>
-                        <hi rend="color(#000000)bold">Heiden, Serge </hi>
-                        <hi rend="color(#000000)">(2010): </hi>
-                        <hi rend="color(#000000)">„The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme“. </hi>
-                        <hi rend="color(#000000)italic">24th Pacific Asia Conference on Language, Information and Computation</hi>
-                        <hi rend="color(#000000)">, Nov 2010, Sendai, Japan. Institute for Digital Enhancement of Cognitive Development, Waseda University, </hi>
-                        <hi rend="color(#000000)">S.</hi>
-                        <hi rend="color(#000000)">389–398. </hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3422">Heiden, Serge (2010): „The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme“. 24th Pacific Asia Conference on Language, Information and Computation , Nov 2010, Sendai, Japan. Institute for Digital Enhancement of Cognitive Development, Waseda University, S. 389–398.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__265"><rs type="bibl" ref="#bibl__2183"><anchor xml:id="id_docs-internal-guid-efc7fee9-7fff-7877-0c19-9092c13f3cb9"/>
-                        <hi rend="color(#000000)bold">Herrmann, Berenike J. / van Dalen-Oskam, </hi>
-                        <hi rend="color(#000000)bold">Karina / Schöch, </hi>
-                        <hi rend="color(#000000)bold">Schöch </hi>
-                        <hi rend="color(#000000)">(2015): „Revisiting Style, a Key Concept in Literary Studies“, </hi>
-                        <hi rend="color(#000000)">in</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)italic">Journal of Literary Theory</hi>
-                        <hi rend="color(#000000)"> 9/1, S. 25–52.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__265">Herrmann, Berenike J. / van Dalen-Oskam, Karina / Schöch, Schöch (2015): „Revisiting Style, a Key Concept in Literary Studies“, in : Journal of Literary Theory 9/1, S. 25–52.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3423"><rs type="bibl" ref="#bibl__2184"><anchor xml:id="id_docs-internal-guid-c0a26e04-7fff-00df-00be-421bc1f6056f"/>
-                        <hi rend="color(#000000)bold">Rhody, Lisa M. </hi>
-                        <hi rend="color(#000000)">(2012)</hi>
-                        <hi rend="color(#000000)">.: „Topic Modeling and Figurative Language“, </hi>
-                        <hi rend="color(#000000)">in:</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)italic">Journal of Digital Humanities</hi>
-                        <hi rend="color(#000000)"> 2/1; </hi>
-                        <ptr target="http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/"/>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3423">Rhody, Lisa M. (2012) .: „Topic Modeling and Figurative Language“, in: Journal of Digital Humanities 2/1; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__164"><rs type="bibl" ref="#bibl__123"><anchor xml:id="id_docs-internal-guid-c717f2fd-7fff-fb71-14ad-ce8199b455b8"/>
-                        <hi rend="color(#000000)bold">Schöch, Christof </hi>
-                        <hi rend="color(#000000)">(2017)</hi>
-                        <hi rend="color(#000000)">: „Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama“, </hi>
-                        <hi rend="color(#000000)">in:</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)italic">Digital Humanities Quarterly</hi>
-                        <hi rend="color(#000000)"> 11/2; </hi>
-                        <ptr target="http://www.digitalhumanities.org/dhq/vol/11/2/000291/000291.html"/>
-                        <hi rend="color(#000000)">[letzter Zugriff </hi>
-                        <hi rend="color(#000000)">7</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <hi rend="color(#000000)">Januar 2019</hi>
-                        <hi rend="color(#000000)">].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__164">Schöch, Christof (2017) : „Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama“, in: Digital Humanities Quarterly 11/2; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3424"><rs type="bibl" ref="#bibl__2185"><hi rend="color(#000000)bold">Walmsley, Priscilla</hi>
-                        <hi rend="color(#000000)"> (2009): </hi>
-                        <hi rend="color(#000000)italic">XQuery</hi>
-                        <hi rend="color(#000000)">: </hi>
-                        <hi rend="color(#000000)italic">Search Across</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">a </hi>
-                        <hi rend="color(#000000)italic">Variety</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">of </hi>
-                        <hi rend="color(#000000)italic">XML</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">Data. O’Reilly Media.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3424">Walmsley, Priscilla (2009): XQuery : Search Across a Variety of XML Data. O’Reilly Media.</rs></bibl>
                 </listBibl>
             </div>
         </back>

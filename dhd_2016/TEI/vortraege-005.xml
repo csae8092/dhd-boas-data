@@ -122,11 +122,11 @@
             <listBibl>
               <head>Bibliographie</head>
 
-              <bibl><rs type="bibl" ref="#bibl__1915"><hi rend="bold">Manovich, Lev</hi> (2012): „How to Compare One Million Images?", in: Berry, David (ed.): <hi rend="italic">Understanding Digital Humanities</hi> Basingstoke: Palgrave Macmillan 249-278.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__1915">Manovich, Lev (2012): „How to Compare One Million Images?", in: Berry, David (ed.): Understanding Digital Humanities Basingstoke: Palgrave Macmillan 249-278.</rs></bibl>
 
-              <bibl> <rs type="bibl" ref="#bibl__1916"><hi rend="bold">Altman, Rick</hi> (2008): <hi rend="italic">A theory of narrative</hi>. Columbia University Press.</rs></bibl>
+              <bibl> <rs type="bibl" ref="#bibl__1916">Altman, Rick (2008): A theory of narrative. Columbia University Press.</rs></bibl>
 
-              <bibl><rs type="bibl" ref="#bibl__1917"><hi rend="bold">De Marneffe, Marie-Catherine / MacCartney, Bill / Manning, Christopher D.</hi> (2006): „Generating Typed Dependency Parses from Phrase Structure Parses“, in: <hi rend="italic">Proceedings of Language Resources and Evaluation</hi> (LREC) 6: 449-454.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__1917">De Marneffe, Marie-Catherine / MacCartney, Bill / Manning, Christopher D. (2006): „Generating Typed Dependency Parses from Phrase Structure Parses“, in: Proceedings of Language Resources and Evaluation (LREC) 6: 449-454.</rs></bibl>
 
             </listBibl>
           </div>

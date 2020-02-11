@@ -136,48 +136,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1713"><rs type="bibl" ref="#bibl__1658"><hi rend="bold">Abdalgader, Khaled / Skabar, Andrew</hi>(2010): “Short-text similarity measurement using word sense disambiguation and synonym expansion.”, in: 
-                        <hi rend="italic">Australasian Joint Conference on Articial Intelligence</hi>, Springer 435-444.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1713">Abdalgader, Khaled / Skabar, Andrew(2010): “Short-text similarity measurement using word sense disambiguation and synonym expansion.”, in: Australasian Joint Conference on Articial Intelligence, Springer 435-444.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1714"><rs type="bibl" ref="#bibl__1659"><anchor xml:id="id_productTitle"/>
-                        <anchor xml:id="id_title"/>
-                        <hi rend="bold">Biesenbach, Hans </hi>(2014): 
-                        <hi rend="italic">Anspielungen und Zitate im Werk Ludwig Wittgensteins</hi>,
-                        <hi rend="italic"> </hi>Sofia University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1714">Biesenbach, Hans (2014): Anspielungen und Zitate im Werk Ludwig Wittgensteins, Sofia University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1715"><rs type="bibl" ref="#bibl__1660"><hi rend="bold">Ekbal, Asif / Saha, Sriparna / Choudhary, Gaurav</hi> (2012): “Plagiarism detection in text using vector space model.”, in: 
-                        <hi rend="italic">Hybrid Intelligent Systems</hi> (HIS), 2012 12th International Conference on, pages 366-371. IEEE.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1715">Ekbal, Asif / Saha, Sriparna / Choudhary, Gaurav (2012): “Plagiarism detection in text using vector space model.”, in: Hybrid Intelligent Systems (HIS), 2012 12th International Conference on, pages 366-371. IEEE.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__211"><rs type="bibl" ref="#bibl__154"><hi rend="bold">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind, L.</hi> (2014): 
-                        <hi rend="italic">Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST).</hi> DATeH. Madrid.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__211">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind, L. (2014): Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST). DATeH. Madrid.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1716"><rs type="bibl" ref="#bibl__1661"><hi rend="bold">C.K. Kent / N. Salim </hi>(2010): „Features based text similarity detection.“, in: 
-                        <hi rend="italic">Journal of Computing</hi>, 2 (1).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1716">C.K. Kent / N. Salim (2010): „Features based text similarity detection.“, in: Journal of Computing, 2 (1).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1717"><rs type="bibl" ref="#bibl__1662"><hi rend="bold">Pichler, Alois / Krüger, Heinz W. / Smith, D. / Bruvik, Tone / Lindebjerg, Anne / Olstad, Vemund </hi>(Hrsg.) (2009): 
-                        <hi rend="italic">Wittgenstein Source Bergen Facsimile (BTE)</hi>. Wittgenstein Source Bergen.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1717">Pichler, Alois / Krüger, Heinz W. / Smith, D. / Bruvik, Tone / Lindebjerg, Anne / Olstad, Vemund (Hrsg.) (2009): Wittgenstein Source Bergen Facsimile (BTE). Wittgenstein Source Bergen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1718"><rs type="bibl" ref="#bibl__1663"><hi rend="bold">Sadowski, Caitlin / Levin, Greg</hi> (2007): 
-                        <hi rend="italic">Simhash: Hash-based similarity detection</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1718">Sadowski, Caitlin / Levin, Greg (2007): Simhash: Hash-based similarity detection.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1719"><rs type="bibl" ref="#bibl__1664"><hi rend="bold">Tomita, Junji / Nakawatase, Hidekazu / Ishii, Megumi </hi>(2004): „Calculating similarity between texts using graph-based text representation model”, in: 
-                        <hi rend="italic">Proceedings of the thirteenth ACM international conference on Information and knowledge management</hi>, pages 248-249. ACM.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1719">Tomita, Junji / Nakawatase, Hidekazu / Ishii, Megumi (2004): „Calculating similarity between texts using graph-based text representation model”, in: Proceedings of the thirteenth ACM international conference on Information and knowledge management, pages 248-249. ACM.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1720"><rs type="bibl" ref="#bibl__1665"><hi rend="bold">Ullrich, Sabine </hi>(2017): 
-                        <hi rend="italic">Evaluation of Existing Plagiarism Research for the Optimisation of NLP-based Similarity Detection using Ludwig Wittgenstein's Remarks,</hi> Bachelor thesis, Ludwig-Maximilians-Universität München.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1720">Ullrich, Sabine (2017): Evaluation of Existing Plagiarism Research for the Optimisation of NLP-based Similarity Detection using Ludwig Wittgenstein's Remarks, Bachelor thesis, Ludwig-Maximilians-Universität München.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1721"><rs type="bibl" ref="#bibl__1666"><hi rend="bold">Wittgenstein, Ludwig / Nedo, Michael (Hrsg.)</hi> (1996): 
-                        <hi rend="italic">Wiener Ausgabe</hi>. Band 1-5.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1721">Wittgenstein, Ludwig / Nedo, Michael (Hrsg.) (1996): Wiener Ausgabe. Band 1-5.</rs></bibl>
                 </listBibl>
             </div>
       </back>

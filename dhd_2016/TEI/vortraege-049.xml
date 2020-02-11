@@ -258,87 +258,38 @@
                   <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2161"><hi rend="bold">Allison, Sarah / Heuser, Ryan / Jockers, Matthew / Moretti,
-                        Franco / Witmore, Michael</hi> (2011): <hi rend="italic">Quantitative
-                        Formalism</hi>. An Experiment (= Stanford Literary Lab Pamphlet 1) <ref target="http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf">http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf</ref> [letzter
-                        Zugriff 09. Februar 2016]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2161">Allison, Sarah / Heuser, Ryan / Jockers, Matthew / Moretti, Franco / Witmore, Michael (2011): Quantitative Formalism. An Experiment (= Stanford Literary Lab Pamphlet 1) http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf [letzter Zugriff 09. Februar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2162"><hi rend="bold">Biber, Douglas</hi> (1989): "A typology of English texts",
-                          in: <hi rend="italic">Linguistics </hi>27: 3-43. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2162">Biber, Douglas (1989): "A typology of English texts", in: Linguistics 27: 3-43.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__126"><hi rend="bold">Blei, David / Ng, Andrew / Jordan, Michael</hi> (2003):
-                            "Latent Dirichlet allocation", in: <hi rend="italic">The Journal of Machine
-                            Learning Research</hi> 3: 993-1022. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__126">Blei, David / Ng, Andrew / Jordan, Michael (2003): "Latent Dirichlet allocation", in: The Journal of Machine Learning Research 3: 993-1022.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2163"><hi rend="bold">Finn, Aidan / Kushmerick, Nicholas</hi> (2006): "Learning to
-                              classify documents according to genre", in: <ref target="http://dx.doi.org/10.1002/asi.20427"><hi rend="italic">Journal
-                              of the American Society for Information Science and
-                              Technology</hi></ref><hi rend="italic"> (JASIST)</hi>. Special Issue on
-                              Computational Analysis of Style 57, 11: 1506-1518.</rs></bibl>
+                              <rs type="bibl" ref="#bibl__2163">Finn, Aidan / Kushmerick, Nicholas (2006): "Learning to classify documents according to genre", in: Journal of the American Society for Information Science and Technology (JASIST). Special Issue on Computational Analysis of Style 57, 11: 1506-1518.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2164"><hi rend="bold">Freund, Luanne / Clarke, Charles L. A. / Toms, Elaine
-                                  G.</hi> (2006): "Towards genre classification for IR in the workplace",
-                                  in: <hi rend="italic">Proceedings of the 1st international conference on
-                                  Information interaction in context</hi> (IIiX). New York, NY: ACM 30-36.
-                                  <ref target="http://dx.doi.org/10.1145/1164820.1164829">http://dx.doi.org/10.1145/1164820.1164829 </ref> [letzter Zugriff 09.
-                                    Februar 2016].</rs></bibl>
+                                <rs type="bibl" ref="#bibl__2164">Freund, Luanne / Clarke, Charles L. A. / Toms, Elaine G. (2006): "Towards genre classification for IR in the workplace", in: Proceedings of the 1st international conference on Information interaction in context (IIiX). New York, NY: ACM 30-36. http://dx.doi.org/10.1145/1164820.1164829 [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2165"><hi rend="bold">Hettinger, Lena / Becker, Martin / Reger, Isabella /
-                                        Jannidis, Fotis / Hotho, Andreas</hi> (2015): "Genre classification on
-                                        German novels", in: <hi rend="italic">Proceedings of the 12th International
-                                        Workshop on Text-based Information Retrieval</hi>. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2165">Hettinger, Lena / Becker, Martin / Reger, Isabella / Jannidis, Fotis / Hotho, Andreas (2015): "Genre classification on German novels", in: Proceedings of the 12th International Workshop on Text-based Information Retrieval.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2166"><hi rend="bold">Jannidis, Fotis / Krug, Markus / Reger, Isabella / Toepfer,
-                                            Martin / Weimer, Lukas / Puppe, Frank</hi> (2015): "Automatische
-                                            Erkennung von Figuren in deutschsprachigen Romanen", in: <hi rend="italic">DHd-Tagung 2015.</hi>. Von Daten zu Erkenntnissen, 23. bis 27. Februar
-                                            2015, Graz. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2166">Jannidis, Fotis / Krug, Markus / Reger, Isabella / Toepfer, Martin / Weimer, Lukas / Puppe, Frank (2015): "Automatische Erkennung von Figuren in deutschsprachigen Romanen", in: DHd-Tagung 2015.. Von Daten zu Erkenntnissen, 23. bis 27. Februar 2015, Graz.</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__240"><hi rend="bold">Jockers, Matthew L.</hi> (2013): <hi rend="italic">Macroanalysis</hi>. Digital Methods and Literary History. Champaign:
-                                              University of Illinois Press. </rs></bibl>
-                                              <bibl><rs type="bibl" ref="#bibl__2167"><hi rend="bold">Krug, Markus</hi> (2015): <hi rend="italic">NERDetection</hi>
-                                              <ref target="https://github.com/MarkusKrug/NERDetection">https://github.com/MarkusKrug/NERDetection</ref> [letzter Zugriff 09.
-                                                Februar 2016].</rs></bibl>
+                                              <rs type="bibl" ref="#bibl__240">Jockers, Matthew L. (2013): Macroanalysis. Digital Methods and Literary History. Champaign: University of Illinois Press.</rs></bibl>
+                                              <bibl><rs type="bibl" ref="#bibl__2167">Krug, Markus (2015): NERDetection https://github.com/MarkusKrug/NERDetection [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2168"><hi rend="bold">Petrenz, Philipp / Webber, Bonnie</hi> (2011): "Stable
-                                                  classification of text genres", in: <hi rend="italic"><ref target="http://dx.doi.org/10.1162/COLI_a_00052%20">Computational
-                                                  Linguistics</ref></hi> 37, 2: 385-393. </rs></bibl>
-                                                  <bibl><rs type="bibl" ref="#bibl__2169"><hi rend="bold">Porter, Martin / Boulton, Richard</hi> (2001-2014): <hi rend="italic">Snowball</hi>
-                                                  <ref target="http://snowball.tartarus.org/">http://snowball.tartarus.org/</ref> [letzter Zugriff 09. Februar
-                                                    2016].</rs></bibl>
-                                                    <bibl><rs type="bibl" ref="#bibl__2170"><hi rend="bold">Projekt Gutenberg-DE</hi> (1994-): <hi rend="italic">Projekt Gutenberg-DE</hi>
-                                                    <ref target="http://gutenberg.spiegel.de/">http://gutenberg.spiegel.de/</ref> [letzter Zugriff 09. Februar
-                                                      2016].</rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2168">Petrenz, Philipp / Webber, Bonnie (2011): "Stable classification of text genres", in: Computational Linguistics 37, 2: 385-393.</rs></bibl>
+                                                  <bibl><rs type="bibl" ref="#bibl__2169">Porter, Martin / Boulton, Richard (2001-2014): Snowball http://snowball.tartarus.org/ [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                                    <bibl><rs type="bibl" ref="#bibl__2170">Projekt Gutenberg-DE (1994-): Projekt Gutenberg-DE http://gutenberg.spiegel.de/ [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2171"><hi rend="bold">Santini, Marina</hi> (2004): "State-of-the-art on Automatic
-                                                        Genre Identification", in: <hi rend="italic">Technical Report ITRI-04-03,
-                                                        ITRI, University of Brighton (UK)</hi>. </rs></bibl>
-                                                        <bibl><rs type="bibl" ref="#bibl__241"><hi rend="bold">Schmid, Helmut</hi>(1994-): <hi rend="italic">TreeTagger</hi>. A language independent part-of-speech tagger <ref target="http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/">http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/</ref> [letzter
-                                                        Zugriff 09. Februar 2016].</rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2171">Santini, Marina (2004): "State-of-the-art on Automatic Genre Identification", in: Technical Report ITRI-04-03, ITRI, University of Brighton (UK).</rs></bibl>
+                                                        <bibl><rs type="bibl" ref="#bibl__241">Schmid, Helmut(1994-): TreeTagger. A language independent part-of-speech tagger http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/ [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                                         <bibl>
-                                                          <rs type="bibl" ref="#bibl__2172"><hi rend="bold">Sharoff, Serge / Wu, Zhili / Markert, Katja</hi> (2010):
-                                                          "The Web Library of Babel: evaluating genre collections", in: <hi rend="italic">Proceedings of the conference on Language Resources and
-                                                          Evaluation (LREC), Malta</hi> 3063-3070. </rs></bibl>
-                                                          <bibl><rs type="bibl" ref="#bibl__233"><hi rend="bold">TextGrid</hi> (2006-2015): <hi rend="italic">Die Digitale
-                                                          Bibliothek bei TextGrid</hi>
-                                                          <ref target="textgrid.de/digitale-bibliothek">textgrid.de/digitale-bibliothek</ref> [letzter Zugriff 09.Februar
-                                                            2016].</rs></bibl>
+                                                          <rs type="bibl" ref="#bibl__2172">Sharoff, Serge / Wu, Zhili / Markert, Katja (2010): "The Web Library of Babel: evaluating genre collections", in: Proceedings of the conference on Language Resources and Evaluation (LREC), Malta 3063-3070.</rs></bibl>
+                                                          <bibl><rs type="bibl" ref="#bibl__233">TextGrid (2006-2015): Die Digitale Bibliothek bei TextGrid textgrid.de/digitale-bibliothek [letzter Zugriff 09.Februar 2016].</rs></bibl>
                                                             <bibl>
-                                                              <rs type="bibl" ref="#bibl__2173"><hi rend="bold">Underwood, Ted</hi> (2014): <hi rend="italic">Understanding
-                                                              Genre in a Collection of a Million Volumes</hi>. White Paper Report
-                                                              29.12.2014 <ref target="http://files.figshare.com/1857045/UnderstandingGenreInterimReport.pdf"> http://files.figshare.com/1857045/UnderstandingGenreInterimReport.pdf
-                                                            </ref> [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2173">Underwood, Ted (2014): Understanding Genre in a Collection of a Million Volumes. White Paper Report 29.12.2014 http://files.figshare.com/1857045/UnderstandingGenreInterimReport.pdf [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                                             <bibl>
-                                                              <rs type="bibl" ref="#bibl__2174"><hi rend="bold">Underwood, Ted / Black, Michael L. / Auvil, Loretta /
-                                                                Capitanu, Boris</hi> (2013): "Mapping Mutable Genres in Structurally
-                                                                Complex Volumes", in: <hi rend="italic">2013 IEEE International Conference
-                                                                on Big Data</hi>
-                                                                <ref target="http://arxiv.org/abs/1309.3323v2">http://arxiv.org/abs/1309.3323v2</ref> [letzter Zugriff 09. Februar
-                                                                  2016]. </rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2174">Underwood, Ted / Black, Michael L. / Auvil, Loretta / Capitanu, Boris (2013): "Mapping Mutable Genres in Structurally Complex Volumes", in: 2013 IEEE International Conference on Big Data http://arxiv.org/abs/1309.3323v2 [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                                                   <bibl>
-                                                                    <rs type="bibl" ref="#bibl__2175"><hi rend="bold">Yu, Bei</hi> (2008): "An Evaluation of Text Classification
-                                                                    Methods for Literary Study", in: <hi rend="italic">Literary and Linguistic
-                                                                    Computing</hi> 23: 327-343 <ref target="http://dx.doi.org/10.1093/llc/fqn015">http://dx.doi.org/10.1093/llc/fqn015</ref> [letzter Zugriff 09. Februar
-                                                                    2016]. </rs></bibl>
+                                                                    <rs type="bibl" ref="#bibl__2175">Yu, Bei (2008): "An Evaluation of Text Classification Methods for Literary Study", in: Literary and Linguistic Computing 23: 327-343 http://dx.doi.org/10.1093/llc/fqn015 [letzter Zugriff 09. Februar 2016].</rs></bibl>
                                                                   </listBibl>
                                                                 </div>
                                                               </back>

@@ -178,32 +178,20 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1539"><rs type="bibl" ref="#bibl__1478"><hi rend="bold">Chen, Ko-Le / Dörk, Marian / Dade-Robertson, Martyn</hi> (2014): „Exploring the promises and potentials of visual archive interfaces“. In: Proceedings of the 2014 iConference. iSchools.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1540"><rs type="bibl" ref="#bibl__1479"><hi rend="bold">Drucker, Johanna</hi> (2013): „Performative Materiality and Theoretical Approaches to Interface“. In: DHQ: Digital Humanities Quarterly, 7(1). 
-                        <ptr target="http://www.digitalhumanities.org/dhq/vol/7/1/000143/000143.html"/> [letzter Zugriff 25. September 2017].
-                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1539">Chen, Ko-Le / Dörk, Marian / Dade-Robertson, Martyn (2014): „Exploring the promises and potentials of visual archive interfaces“. In: Proceedings of the 2014 iConference. iSchools.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1540">Drucker, Johanna (2013): „Performative Materiality and Theoretical Approaches to Interface“. In: DHQ: Digital Humanities Quarterly, 7(1). [letzter Zugriff 25. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1541"><rs type="bibl" ref="#bibl__1480"><hi rend="bold">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian</hi> (2017a): „Past visions and reconciling views: Visualizing time, texture and themes in cultural collections“. In: DHQ: Digital Humanities Quarterly, 11(2). 
-                        <ptr target="http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html"/> [letzter Zugriff 25. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1541">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian (2017a): „Past visions and reconciling views: Visualizing time, texture and themes in cultural collections“. In: DHQ: Digital Humanities Quarterly, 11(2). [letzter Zugriff 25. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1542"><rs type="bibl" ref="#bibl__1481"><hi rend="bold">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian</hi> (2017b). „Von sammlungsspezifischen Visualisierungen zu nachnutzbaren Werkzeugen“. In: Konferenzband zur DHd 2017 Bern - Digitale Nachhaltigkeit.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1542">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian (2017b). „Von sammlungsspezifischen Visualisierungen zu nachnutzbaren Werkzeugen“. In: Konferenzband zur DHd 2017 Bern - Digitale Nachhaltigkeit.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__123"><rs type="bibl" ref="#bibl__91"><hi rend="bold">Moretti, Franco</hi> (2005). Graphs, Maps, Trees: Abstract models for a literary history. Verso.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__123">Moretti, Franco (2005). Graphs, Maps, Trees: Abstract models for a literary history. Verso.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__193"><rs type="bibl" ref="#bibl__143"><hi rend="bold">Kreiseler, Sarah / Brüggemann, Viktoria / Dörk, Marian</hi> (2017). „Tracing exploratory modes in digital collections of museum web sites using reverse information architecture“. In: First Monday, 22(4). 
-                        <ptr target="http://firstmonday.org/ojs/index.php/fm/article/view/6984"/> [letzter Zugriff 25. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__193">Kreiseler, Sarah / Brüggemann, Viktoria / Dörk, Marian (2017). „Tracing exploratory modes in digital collections of museum web sites using reverse information architecture“. In: First Monday, 22(4). [letzter Zugriff 25. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1543"><rs type="bibl" ref="#bibl__1482"><hi rend="bold">Yamaoka, So / Manovich, Lev / Douglass, Jeremy / Kuester, Falko</hi> (2011). „Cultural analytics in large-scale visualization environments“. In: Computer, 44(12):39–48.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1543">Yamaoka, So / Manovich, Lev / Douglass, Jeremy / Kuester, Falko (2011). „Cultural analytics in large-scale visualization environments“. In: Computer, 44(12):39–48.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__26"><rs type="bibl" ref="#bibl__22"><hi rend="bold">Whitelaw, Mitchell</hi> (2015). „Generous interfaces for digital cultural collections“. digital humanities quarterly, 9(1). 
-                        <ptr target="http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html"/> [letzter Zugriff 25. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__26">Whitelaw, Mitchell (2015). „Generous interfaces for digital cultural collections“. digital humanities quarterly, 9(1). [letzter Zugriff 25. September 2017].</rs></bibl>
                 </listBibl>
             </div>
       </back>

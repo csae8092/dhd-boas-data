@@ -143,57 +143,27 @@
               <listBibl>
                 <head>Bibliographie</head>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__2614"><hi rend="bold">Acerbi, Alberto / Lampos, Vasileios / Garnett, Philip /
-                    Bentley, R. A</hi> (2013): "The Expression of Emotions in 20th Century
-                    Books", in: <hi rend="italic">PLoS ONE</hi> 8, 3: e59030. </rs></bibl>
+                  <rs type="bibl" ref="#bibl__2614">Acerbi, Alberto / Lampos, Vasileios / Garnett, Philip / Bentley, R. A (2013): "The Expression of Emotions in 20th Century Books", in: PLoS ONE 8, 3: e59030.</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2615"><hi rend="bold">DWB</hi>: <hi rend="italic">Deutsches Wörterbuch von Jacob
-                      und Wilhelm Grimm</hi>. 16 Bde. in 32 Teilbänden. Leipzig 1854–1961.
-                      Quellenverzeichnis Leipzig 1971. <ref target="http://dwb.uni-trier.de/de/">http://dwb.uni-trier.de/de/</ref> [letzter Zugriff 30. Juli 2015]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2615">DWB: Deutsches Wörterbuch von Jacob und Wilhelm Grimm. 16 Bde. in 32 Teilbänden. Leipzig 1854–1961. Quellenverzeichnis Leipzig 1971. http://dwb.uni-trier.de/de/ [letzter Zugriff 30. Juli 2015].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2616"><hi rend="bold">Gulordava, Kristina / Baroni, Marco</hi> (2011): "A
-                        distributional similarity approach to the detection of semantic change in
-                        the Google Books Ngram corpus ", in: <hi rend="italic">Proceedings of the
-                        GEMS 2011 Workshop on Geometrical Models of Natural Language Semantics @
-                        EMNLP 2011</hi> 67–71. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2616">Gulordava, Kristina / Baroni, Marco (2011): "A distributional similarity approach to the detection of semantic change in the Google Books Ngram corpus ", in: Proceedings of the GEMS 2011 Workshop on Geometrical Models of Natural Language Semantics @ EMNLP 2011 67–71.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2617"><hi rend="bold">Jurish, Bryan</hi> (2015): "DiaCollo: On the trail of
-                          diachronic collocations", in: <hi rend="italic">Proceedings of the CLARIN
-                          Annual Conference 2015</hi> 28–31. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2617">Jurish, Bryan (2015): "DiaCollo: On the trail of diachronic collocations", in: Proceedings of the CLARIN Annual Conference 2015 28–31.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__129"><hi rend="bold">Kim, Yoon / Chiu, Yi-I / Hanaki, Kentaro / Hegde, Darshan /
-                              Petrov, Slav</hi> (2014): "Temporal Analysis of Language through Neural
-                              Language Models ", in: <hi rend="italic">Proceedings of the ACL 2014
-                              Workshop on Language Technologies and Computational Social Science</hi>
-                              61–65. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__129">Kim, Yoon / Chiu, Yi-I / Hanaki, Kentaro / Hegde, Darshan / Petrov, Slav (2014): "Temporal Analysis of Language through Neural Language Models ", in: Proceedings of the ACL 2014 Workshop on Language Technologies and Computational Social Science 61–65.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2618"><hi rend="bold">Kremer, Detlef</hi> (2007): <hi rend="italic">Romantik</hi>.
-                                Lehrbuch Germanistik. 3. Auflage. Stuttgart: Metzler. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2618">Kremer, Detlef (2007): Romantik. Lehrbuch Germanistik. 3. Auflage. Stuttgart: Metzler.</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2619"><hi rend="bold">LeCun, Yann / Bengio, Yoshua / Hinton, Geoffrey</hi> (2015):
-                                  "Deep learning", in: <hi rend="italic">Nature</hi> 521, 7553: 436–444. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2619">LeCun, Yann / Bengio, Yoshua / Hinton, Geoffrey (2015): "Deep learning", in: Nature 521, 7553: 436–444.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2620"><hi rend="bold">Michel, Jean-Baptiste / Shen, Yuan K. / Aiden, Aviva P. /
-                                      Veres, Adrian / Gray, Matthew K. / The Google Books Team / Pickett,
-                                      Joseph P. / Hoiberg, Dale / Clancy, Dan / Norvig, Peter / Orwant, Jon /
-                                      Pinker, Steven / Nowak, Martin A. / Aiden, Erez L.</hi> (2011):
-                                      "Quantitative Analysis of Culture Using Millions of Digitized Books ", in:
-                                      <hi rend="italic">Science</hi> 331, 6014: 176–182. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2620">Michel, Jean-Baptiste / Shen, Yuan K. / Aiden, Aviva P. / Veres, Adrian / Gray, Matthew K. / The Google Books Team / Pickett, Joseph P. / Hoiberg, Dale / Clancy, Dan / Norvig, Peter / Orwant, Jon / Pinker, Steven / Nowak, Martin A. / Aiden, Erez L. (2011): "Quantitative Analysis of Culture Using Millions of Digitized Books ", in: Science 331, 6014: 176–182.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2621"><hi rend="bold">Mihalcea, Rada / Nastase, Vivi (</hi>2012): "Word Epoch
-                                        Disambiguation: Finding How Words Change over Time", in: <hi rend="italic">Proceedings of the 50th Annual Meeting of the Association for
-                                        Computational Linguistics</hi> 259–263. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2621">Mihalcea, Rada / Nastase, Vivi (2012): "Word Epoch Disambiguation: Finding How Words Change over Time", in: Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics 259–263.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2622"><hi rend="bold">Mikolov, Tomas / Yih, Wen-tau / Zweig, Geoffrey</hi> (2013):
-                                          "Linguistic Regularities in Continuous Space Word Representations", in: <hi rend="italic">Proceedings of the 2013 Conference of the North American
-                                          Chapter of the Association for Computational Linguistics</hi>. Human
-                                          Language Technologies – NAACL-HLT 2013 746–751. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2622">Mikolov, Tomas / Yih, Wen-tau / Zweig, Geoffrey (2013): "Linguistic Regularities in Continuous Space Word Representations", in: Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics. Human Language Technologies – NAACL-HLT 2013 746–751.</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2623"><hi rend="bold">Riedl, Martin / Steuer, Richard / Biemann, Chris</hi>
-                                            (2014): "Distributed Distributional Similarities of Google Books over the
-                                            Centuries ", in: <hi rend="italic">Proceedings of the 9th International
-                                            Conference on Language Resources and Evaluation (LREC 2014)</hi>
-                                            1401–1405.</rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2623">Riedl, Martin / Steuer, Richard / Biemann, Chris (2014): "Distributed Distributional Similarities of Google Books over the Centuries ", in: Proceedings of the 9th International Conference on Language Resources and Evaluation (LREC 2014) 1401–1405.</rs></bibl>
                                           </listBibl>
                                         </div>
                                       </back>

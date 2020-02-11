@@ -127,27 +127,12 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__2176"><hi rend="bold">Drucker, Johanna</hi> (2013): "Performative Materiality
-              and Theoretical Approaches to Interface", in: <hi rend="italic">Digital
-              Humanities Quartely</hi> 7,1 <ref target="http://www. Digitalhumanities. org/dhq/vol/7/1/000143/000143.html">http://www.Digitalhumanities.org/dhq/vol/7/1/000143/000143.html</ref>
-              [letzter Zugriff 03. September 2015]. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2177"><hi rend="bold">Edwards, Charlie</hi> (2012): "The Digital Humanities and
-              Its Users", in: Gold, Matthew K. (ed.): <hi rend="italic">Debates in the
-              Humanities</hi>
-              <ref target="http://dhdebates.gc.cuny.edu/debates/text/31">http://dhdebates.gc.cuny.edu/debates/text/31</ref> [letzter Zugriff 03.
-                September 2015]. </rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2178"><hi rend="bold">Kirschenbaum, Matthew</hi> (2008): <hi rend="italic">Mechanisms</hi>. New Media and the Forensic Imagination. Cambridge: MIT
-                University Press.</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__242"><hi rend="bold">Lauer, Gerhard</hi> (2013): "Die digitale Vermessung der
-                Kultur. Geisteswissenschaften als Digital Humanities", in: Geiselberger,
-                Heinrich / Moorstedt, Tobias (eds.): <hi rend="italic">Big Data</hi>. Das
-                neue Versprechen der Allwissenheit. Berlin: Suhrkamp. </rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__6"><hi rend="bold">Manovich, Lev</hi> (2001): <hi rend="italic">Language of
-                New Media</hi>. Cambridge: MIT Press.</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2179"><hi rend="bold">Warwick, Claire</hi> (2012): "Studying users in digital
-                humanities, in: Warwick, Claire / Terras, Melissa / Nyhan, Julianne (eds.):
-                <hi rend="italic">Digital Humanities in Practice</hi>. London: Facet
-                Publishing. </rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2176">Drucker, Johanna (2013): "Performative Materiality and Theoretical Approaches to Interface", in: Digital Humanities Quartely 7,1 http://www.Digitalhumanities.org/dhq/vol/7/1/000143/000143.html [letzter Zugriff 03. September 2015].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2177">Edwards, Charlie (2012): "The Digital Humanities and Its Users", in: Gold, Matthew K. (ed.): Debates in the Humanities http://dhdebates.gc.cuny.edu/debates/text/31 [letzter Zugriff 03. September 2015].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2178">Kirschenbaum, Matthew (2008): Mechanisms. New Media and the Forensic Imagination. Cambridge: MIT University Press.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__242">Lauer, Gerhard (2013): "Die digitale Vermessung der Kultur. Geisteswissenschaften als Digital Humanities", in: Geiselberger, Heinrich / Moorstedt, Tobias (eds.): Big Data. Das neue Versprechen der Allwissenheit. Berlin: Suhrkamp.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__6">Manovich, Lev (2001): Language of New Media. Cambridge: MIT Press.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2179">Warwick, Claire (2012): "Studying users in digital humanities, in: Warwick, Claire / Terras, Melissa / Nyhan, Julianne (eds.): Digital Humanities in Practice. London: Facet Publishing.</rs></bibl>
               </listBibl>
             </div>
           </back>

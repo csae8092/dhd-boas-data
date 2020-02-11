@@ -71,60 +71,29 @@
           <listBibl>
             <head>Bibliography</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__1935"><hi rend="bold">Agosti, Maristella / Nicola Ferro</hi> (2007): “A Formal
-              Model of Annotations of Digital Content”, in: <hi rend="italic">ACM
-              Transactions on Information Systems</hi> 26, 1. </rs></bibl>
+              <rs type="bibl" ref="#bibl__1935">Agosti, Maristella / Nicola Ferro (2007): “A Formal Model of Annotations of Digital Content”, in: ACM Transactions on Information Systems 26, 1.</rs></bibl>
               <bibl>
-                <rs type="bibl" ref="#bibl__1936"><hi rend="bold">Barteld, Fabian / Ihden, Sarah / Schröder, Ingrid /
-                  Zinsmeister, Heike</hi> (2014): „Annotating descriptively incomplete
-                  language phenomena“, in: Levin, Lori / Stede, Manfred (eds.): <hi rend="italic">Proceedings of LAW VIII - The 8th Linguistic Annotation
-                  Workshop</hi> 99–104. </rs></bibl>
+                <rs type="bibl" ref="#bibl__1936">Barteld, Fabian / Ihden, Sarah / Schröder, Ingrid / Zinsmeister, Heike (2014): „Annotating descriptively incomplete language phenomena“, in: Levin, Lori / Stede, Manfred (eds.): Proceedings of LAW VIII - The 8th Linguistic Annotation Workshop 99–104.</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__1937"><hi rend="bold">Blustein, James / Rowe, David / Graff, Ann-Barbara</hi>
-                    (2011): „Making Sense in the Margins: A Field Study of Annotation“, in: <hi rend="italic">Research and Advanced Technology for Digital
-                    Libraries</hi>. Berlin: Springer 252–259. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__1937">Blustein, James / Rowe, David / Graff, Ann-Barbara (2011): „Making Sense in the Margins: A Field Study of Annotation“, in: Research and Advanced Technology for Digital Libraries. Berlin: Springer 252–259.</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__1938"><hi rend="bold">Bradley, John</hi> (2008): “Pliny: A model for digital
-                      support of scholarship”, in: <hi rend="italic">Journal of Digital
-                      Information (JoDI)</hi> 9, 1. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__1938">Bradley, John (2008): “Pliny: A model for digital support of scholarship”, in: Journal of Digital Information (JoDI) 9, 1.</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__1939"><hi rend="bold">Bradley, John / Vetch, Paul</hi> (2007): “Supporting
-                        Annotation as a Scholarly Tool – Experiences from the Online Chopin Variorum
-                        Edition”, in: <hi rend="italic">Literary and Linguistic Computing</hi> 22,
-                        2. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__1939">Bradley, John / Vetch, Paul (2007): “Supporting Annotation as a Scholarly Tool – Experiences from the Online Chopin Variorum Edition”, in: Literary and Linguistic Computing 22, 2.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__1940"><hi rend="bold">Burghardt, Manuel</hi> (2014): <hi rend="italic">Engineering
-                          Annotation Usability-Toward Usability Patterns for Linguistic Annotation
-                          Tools</hi>. Doktorarbeit. Universität Regensburg. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__1940">Burghardt, Manuel (2014): Engineering Annotation Usability-Toward Usability Patterns for Linguistic Annotation Tools. Doktorarbeit. Universität Regensburg.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__17"><hi rend="bold">Dipper, Stefanie </hi> (2005): „XML-Based Stand-off
-                            Representation and Exploitation of Multi-Level Linguistic Annotation“, in:
-                            <hi rend="italic">Proceedings der Berliner XML-Tage 2005 (BXML
-                              2005)</hi> 39–50. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__17">Dipper, Stefanie (2005): „XML-Based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation“, in: Proceedings der Berliner XML-Tage 2005 (BXML 2005) 39–50.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__183"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): „Informatik und
-                                Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse“, in: Baum,
-                                Constanze / Stäcker, Thomas (eds.): <hi rend="italic">Grenzen und
-                                Möglichkeiten der Digital Humanities</hi> (= Sonderband der Zeitschrift
-                                für digitale Geisteswissenschaften, 1). <ref target="http://www.zfdg.de/sb001_006">http://www.zfdg.de/sb001_006</ref>
-                                [letzter Zugriff 09. Januar 2016]. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__183">Gius, Evelyn / Jacke, Janina (2015): „Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse“, in: Baum, Constanze / Stäcker, Thomas (eds.): Grenzen und Möglichkeiten der Digital Humanities (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). http://www.zfdg.de/sb001_006 [letzter Zugriff 09. Januar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__1941"><hi rend="bold">Leech, Geoffrey</hi> (1997): “Introducing Corpus
-                                  Annotation”, in: Garside, Roger / Leech, Geoffrey / McEnery, Tony (eds.):
-                                  <hi rend="italic">Corpus Annotation</hi>. Linguistic Information from
-                                  Computer Text Corpora. London / New York: Longman 1–18. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__1941">Leech, Geoffrey (1997): “Introducing Corpus Annotation”, in: Garside, Roger / Leech, Geoffrey / McEnery, Tony (eds.): Corpus Annotation. Linguistic Information from Computer Text Corpora. London / New York: Longman 1–18.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__1942"><hi rend="bold">Piez, Wendell</hi> (2010): „Towards Hermeneutic Markup. An
-                                    Architectural Outline“, in: <hi rend="italic">Digital Humanities 2010.
-                                    Conference Abstracts, präsentiert auf der Digital Humanities Conference
-                                    2010 (DH 2010)</hi> 202–205. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__1942">Piez, Wendell (2010): „Towards Hermeneutic Markup. An Architectural Outline“, in: Digital Humanities 2010. Conference Abstracts, präsentiert auf der Digital Humanities Conference 2010 (DH 2010) 202–205.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__1943"><hi rend="bold">Pustejovsky, James / Stubbs, Amber</hi> (2012): <hi rend="italic">Natural Language Annotation for Machine Learning</hi>.
-                                      O’Reilly Media, Inc. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__1943">Pustejovsky, James / Stubbs, Amber (2012): Natural Language Annotation for Machine Learning. O’Reilly Media, Inc.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__1944"><hi rend="bold">Stede, Manfred / Neumann, Arne</hi> (2014): “Potsdam
-                                        Commentary Corpus 2.0: Annotation for Discourse Research”, in: <hi rend="italic">Proceedings of the Ninth International Conference on
-                                        Language Resources and Evaluation (LREC’14)</hi> 925–929. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__1944">Stede, Manfred / Neumann, Arne (2014): “Potsdam Commentary Corpus 2.0: Annotation for Discourse Research”, in: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14) 925–929.</rs></bibl>
                                       </listBibl>
                                     </div>
                                   </back>

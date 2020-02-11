@@ -109,36 +109,13 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__2690"><hi rend="bold">Bird, Steven / Klein, Ewan / Loper, Edward</hi> (2015):
-              <hi rend="italic">Natural Language Processing with Python</hi>. NLTK
-              Book <ref target="http://www.nltk.org/book/">http://www.nltk.org/book/</ref>
-              [letzter Zugriff 15. Februar 2016].</rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2691"><hi rend="bold">Farzindar, Atefeh / Inkpen, Diana</hi> (2015): <hi rend="italic">Natural Language Processing for Social Media</hi>. San
-              Francisco: Morgan &amp; Claypool.</rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2692"><hi rend="bold">Finin, Tim / Murnane, Will / Karandikar, Anand / Keller,
-                Nicholas / Martineau, Justin</hi> (2010): "Annotating Named Entities in
-                Twitter Data with Crowdsourcing", in: <hi rend="italic">Proceedings of the
-                NAACL HLT</hi> 80–88. </rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2693"><hi rend="bold">Gimpel, Kevin / Schneider, Nathan / O'Connor, Brendan /
-                  Dipanjan, Das / Mills, Daniel / Eisenstein, Jacob / Heilman, Michael /
-                  Yogatama, Dani / Flanigan, Jeffrey / Smith, Noah A.</hi> (2011):
-                  "Part-of-Speech Tagging for Twitter: Annotation, Features, and Experiments",
-                  in: <hi rend="italic">Proceedings of the 49th Annual Meeting of the
-                  Association for Computational Linguistics</hi> 42-47. </rs></bibl>
-                  <bibl><rs type="bibl" ref="#bibl__2694"><hi rend="bold">Hastik, Canan / Steinmetz, Arnd / Thull, Bernhard</hi>
-                  (2013): "Ontology based Framework for Real-Time Audiovisual Art", in: <hi rend="italic">IFLA World Library and Information Congress</hi>. 79th
-                  IFLA General Conference and Assembly: Audiovisual and Multimedia with
-                  Cataloguing <ref target="http://library.ifla.org/87/1/124-hastik-en.pdf">http://library.ifla.org/87/1/124-hastik-en.pdf</ref> [letzter Zugriff
-                  15. Februar 2016]. </rs></bibl>
-                  <bibl><rs type="bibl" ref="#bibl__2695"><hi rend="bold">Maynard, Diana / Bontcheva, Kalina / Rout, Dominic</hi>
-                  (2012): "Challenges in Developing Opinion Mining Tools for Social Media",
-                  in: <hi rend="italic">Proceedings of @NLP can u tag #usergeneratedcontent?!
-                  Workshop at International Conference on Language Resources and
-                  Evaluation (LREC 2012)</hi> 8.</rs></bibl>
-                  <bibl><rs type="bibl" ref="#bibl__2696"><hi rend="bold">Reyes, Antonio / Rosso, Paolo / Buscaldi, Davide</hi>
-                  (2012): "From Humor Recognition to Irony Detection: The Figurative Language
-                  of Social Media", in: <hi rend="italic">Data Knowledge Engineering</hi>.
-                  Applications of Natural Language to Information Systems 74: 1-12. </rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2690">Bird, Steven / Klein, Ewan / Loper, Edward (2015): Natural Language Processing with Python. NLTK Book http://www.nltk.org/book/ [letzter Zugriff 15. Februar 2016].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2691">Farzindar, Atefeh / Inkpen, Diana (2015): Natural Language Processing for Social Media. San Francisco: Morgan &amp; Claypool.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2692">Finin, Tim / Murnane, Will / Karandikar, Anand / Keller, Nicholas / Martineau, Justin (2010): "Annotating Named Entities in Twitter Data with Crowdsourcing", in: Proceedings of the NAACL HLT 80–88.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2693">Gimpel, Kevin / Schneider, Nathan / O'Connor, Brendan / Dipanjan, Das / Mills, Daniel / Eisenstein, Jacob / Heilman, Michael / Yogatama, Dani / Flanigan, Jeffrey / Smith, Noah A. (2011): "Part-of-Speech Tagging for Twitter: Annotation, Features, and Experiments", in: Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics 42-47.</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__2694">Hastik, Canan / Steinmetz, Arnd / Thull, Bernhard (2013): "Ontology based Framework for Real-Time Audiovisual Art", in: IFLA World Library and Information Congress. 79th IFLA General Conference and Assembly: Audiovisual and Multimedia with Cataloguing http://library.ifla.org/87/1/124-hastik-en.pdf [letzter Zugriff 15. Februar 2016].</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__2695">Maynard, Diana / Bontcheva, Kalina / Rout, Dominic (2012): "Challenges in Developing Opinion Mining Tools for Social Media", in: Proceedings of @NLP can u tag #usergeneratedcontent?! Workshop at International Conference on Language Resources and Evaluation (LREC 2012) 8.</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__2696">Reyes, Antonio / Rosso, Paolo / Buscaldi, Davide (2012): "From Humor Recognition to Irony Detection: The Figurative Language of Social Media", in: Data Knowledge Engineering. Applications of Natural Language to Information Systems 74: 1-12.</rs></bibl>
                 </listBibl>
               </div>
             </back>

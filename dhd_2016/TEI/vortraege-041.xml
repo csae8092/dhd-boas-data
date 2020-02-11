@@ -346,75 +346,29 @@
           <listBibl>
             <head>Bibliographie</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__2915"><hi rend="bold">Church, Kenneth Ward / Hanks, Patrick</hi> (1990): "Word
-              association norms, mutual information, and lexicography", in: <hi rend="italic">Computational Linguistics</hi> 16, 1: 22–29. </rs></bibl>
+              <rs type="bibl" ref="#bibl__2915">Church, Kenneth Ward / Hanks, Patrick (1990): "Word association norms, mutual information, and lexicography", in: Computational Linguistics 16, 1: 22–29.</rs></bibl>
               <bibl>
-                <rs type="bibl" ref="#bibl__2916"><hi rend="bold">Davies, Mark</hi> (2012): "Expanding horizons in historical
-                linguistics with the 400-million word Corpus of Historical American
-                English", in: <hi rend="italic">Corpora</hi> 7, 2: 121–157 <ref target="http://davies-linguistics.byu.edu/ling450/davies_corpora_2011.pdf">http://davies-linguistics.byu.edu/ling450/davies_corpora_2011.pdf</ref>
-                [letzter Zugriff 08. Februar 2016]. </rs></bibl>
+                <rs type="bibl" ref="#bibl__2916">Davies, Mark (2012): "Expanding horizons in historical linguistics with the 400-million word Corpus of Historical American English", in: Corpora 7, 2: 121–157 http://davies-linguistics.byu.edu/ling450/davies_corpora_2011.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__2917"><hi rend="bold">Didakowski, Jörg / Geyken, Alexander</hi> (2014): "From DWDS
-                  corpora to a German word profile – methodological problems and solutions",
-                  in Abel, Andrea / Lemnitzer, Lothar (eds.): <hi rend="italic">
-                  Vernetzungsstrategien, Zugriffsstrukturen und automatisch ermittelte
-                  Angaben in Internetwörterbüchern</hi> (= OPAL 2014, 2). Mannheim:
-                  Institut für Deutsche Sprache 39-47 <ref target="http://www.dwds.de/static/website/publications/pdf/%20didakowski_geyken_internetlexikografie_2012_final.pdf">http://www.dwds.de/static/website/publications/pdf/
-                  didakowski_geyken_internetlexikografie _2012_final.pdf</ref> [letzter
-                  Zugriff 08. Februar 2016]. </rs></bibl>
+                  <rs type="bibl" ref="#bibl__2917">Didakowski, Jörg / Geyken, Alexander (2014): "From DWDS corpora to a German word profile – methodological problems and solutions", in Abel, Andrea / Lemnitzer, Lothar (eds.): Vernetzungsstrategien, Zugriffsstrukturen und automatisch ermittelte Angaben in Internetwörterbüchern (= OPAL 2014, 2). Mannheim: Institut für Deutsche Sprache 39-47 http://www.dwds.de/static/website/publications/pdf/ didakowski_geyken_internetlexikografie _2012_final.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2918"><hi rend="bold">Evert, Stefan</hi> (2005): <hi rend="italic">The Statistics
-                    of Word Cooccurrences</hi>. Word Pairs and Collocations. PhD, Institut
-                    für maschinelle Sprachverarbeitung, Universität Stuttgart <ref target="http://elib.uni-stuttgart.de/opus/volltexte/2005/2371/pdf/Evert2005phd.pdf">http://elib.uni-stuttgart.de/opus/volltexte/2005/2371/pdf/Evert2005phd.pdf</ref>
-                    [letzter Zugriff 08. Februar 2016]. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2918">Evert, Stefan (2005): The Statistics of Word Cooccurrences. Word Pairs and Collocations. PhD, Institut für maschinelle Sprachverarbeitung, Universität Stuttgart http://elib.uni-stuttgart.de/opus/volltexte/2005/2371/pdf/Evert2005phd.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2919"><hi rend="bold">Geyken, Alexander / Haaf, Susanne / Jurish, Bryan / Schulz,
-                        Matthias / Steinmann, Jakob / Thomas, Christian / Wiegand, Frank</hi>
-                        (2011): "Das Deutsche Textarchiv: Vom historischen Korpus zum aktiven
-                        Archiv", in Schomburg, Silke / Leggewie, Claus / Lobin, Henning / Puschmann,
-                        Cornelius (eds.): <hi rend="italic">Digitale Wissenschaft</hi>. Stand und
-                        Entwicklung digital vernetzter Forschung in Deutschland. Köln: hbz 157– 161
-                        <ref target="http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/Tagung_Digitale_Wiss%20enschaft.pdf#page=159">http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/Tagung_Digitale_Wiss
-                          enschaft.pdf#page=159</ref> [letzter Zugriff 08. Februar 2016]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2919">Geyken, Alexander / Haaf, Susanne / Jurish, Bryan / Schulz, Matthias / Steinmann, Jakob / Thomas, Christian / Wiegand, Frank (2011): "Das Deutsche Textarchiv: Vom historischen Korpus zum aktiven Archiv", in Schomburg, Silke / Leggewie, Claus / Lobin, Henning / Puschmann, Cornelius (eds.): Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland. Köln: hbz 157– 161 http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/Tagung_Digitale_Wiss enschaft.pdf#page=159 [letzter Zugriff 08. Februar 2016].</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__221"><hi rend="bold">Hamp, Birgit / Feldweg, Helmut</hi> (1997): "GermaNet – a
-                            lexical-semantic net for German", in: <hi rend="italic">Proceedings of the
-                            ACL workshop Automatic Information Extraction and Building of Lexical
-                            Semantic Resources for NLP Applications</hi> 9-15. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__221">Hamp, Birgit / Feldweg, Helmut (1997): "GermaNet – a lexical-semantic net for German", in: Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications 9-15.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2920"><hi rend="bold">Henrich, Verena / Hinrichs, Erhard</hi> (2010): "GernEdiT –
-                              the GermaNet editing tool", in: <hi rend="italic">Proceedings of the ACL
-                              2010 System Demonstrations</hi> 19-24 <ref target="http://www.aclweb.org/anthology/P10-4004">http://www.aclweb.org/anthology/P10-4004</ref> [letzter Zugriff 08.
-                              Februar 2016]. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2920">Henrich, Verena / Hinrichs, Erhard (2010): "GernEdiT – the GermaNet editing tool", in: Proceedings of the ACL 2010 System Demonstrations 19-24 http://www.aclweb.org/anthology/P10-4004 [letzter Zugriff 08. Februar 2016].</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2921"><hi rend="bold">Jurish, Bryan / Thomas, Christian / Wiegand, Frank</hi>
-                                (2014): "Querying the Deutsches Textarchiv", in: <hi rend="italic">Proceedings of the Workshop Beyond Single-Shot Text Queries</hi>.
-                                Bridging the Gap(s) between Research Communities (MindTheGap 2014) 25–30
-                                <ref target="http://ceur-ws.org/Vol-1131/mindthegap14_7.pdf">http://ceur-ws.org/Vol-1131/mindthegap14_7.pdf</ref> [letzter Zugriff
-                                  08. Februar 2016]. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2921">Jurish, Bryan / Thomas, Christian / Wiegand, Frank (2014): "Querying the Deutsches Textarchiv", in: Proceedings of the Workshop Beyond Single-Shot Text Queries. Bridging the Gap(s) between Research Communities (MindTheGap 2014) 25–30 http://ceur-ws.org/Vol-1131/mindthegap14_7.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2922"><hi rend="bold">Kilgarriff, Adam / Tugwell, David</hi> (2002): "Sketching
-                                    words", in: Corréard, Marie.-Hélène (ed.): <hi rend="italic">Lexicography
-                                    and Natural Language Processing: A Festschrift in Honour of B. T. S.
-                                    Atkins</hi>. United Kingdom: EURALEX 125–137 <ref target="http://www.kilgarriff.co.uk/Publications/%202002-KilgTugwell-AtkinsFest.pdf">http://www.kilgarriff.co.uk/Publications/
-                                    2002-KilgTugwell-AtkinsFest.pdf</ref> [letzter Zugriff 08. Februar
-                                    2016]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2922">Kilgarriff, Adam / Tugwell, David (2002): "Sketching words", in: Corréard, Marie.-Hélène (ed.): Lexicography and Natural Language Processing: A Festschrift in Honour of B. T. S. Atkins. United Kingdom: EURALEX 125–137 http://www.kilgarriff.co.uk/Publications/ 2002-KilgTugwell-AtkinsFest.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2923"><hi rend="bold">Rychlý , Pavel</hi> (2008): "A lexicographer-friendly
-                                      association score", in: <hi rend="italic">Proceedings of Recent Advances in
-                                      Slavonic Natural Language Processing</hi>. RASLAN, 6–9 <ref target="http://www.fi.muni.cz/usr/sojka/download/raslan2008/13.pdf">http://www.fi.muni.cz/usr/sojka/download/raslan2008/13.pdf</ref>
-                                      [letzter Zugriff 08. Februar 2016]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2923">Rychlý , Pavel (2008): "A lexicographer-friendly association score", in: Proceedings of Recent Advances in Slavonic Natural Language Processing. RASLAN, 6–9 http://www.fi.muni.cz/usr/sojka/download/raslan2008/13.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2924"><hi rend="bold">Scharloth, Joachim / Eugster, David / Bubenhofer, Noah</hi>
-                                        (2013): "Das Wuchern der Rhizome. Linguistische Diskursanalyse und
-                                        Data-driven Turn", in: Busse, Dietrich / Teubert, Wolfgang (eds.): <hi rend="italic">Linguistische Diskursanalyse</hi>. Neue Perspektiven.
-                                        Wiesbaden: VS Verlag 345–380 <ref target="http://www.scharloth.com/files/Rhizom_Zeit.pdf">http://www.scharloth.com/files/Rhizom_Zeit.pdf</ref> [letzter Zugriff
-                                        08. Februar 2016]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2924">Scharloth, Joachim / Eugster, David / Bubenhofer, Noah (2013): "Das Wuchern der Rhizome. Linguistische Diskursanalyse und Data-driven Turn", in: Busse, Dietrich / Teubert, Wolfgang (eds.): Linguistische Diskursanalyse. Neue Perspektiven. Wiesbaden: VS Verlag 345–380 http://www.scharloth.com/files/Rhizom_Zeit.pdf [letzter Zugriff 08. Februar 2016].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2925"><hi rend="bold">Sokirko, Alexey</hi> (2003): "A technical overview of
-                                          DWDS/Dialing Concordance", Vortrag beim Workshop <hi rend="italic">Computational linguistics and intellectual technologies</hi>. Protvino.
-                                          <ref target="http://www.aot.ru/docs/OverviewOfConcordance.htm">http://www.aot.ru/docs/OverviewOfConcordance.htm</ref> [letzter Zugriff
-                                            08. Februar 2016]. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2925">Sokirko, Alexey (2003): "A technical overview of DWDS/Dialing Concordance", Vortrag beim Workshop Computational linguistics and intellectual technologies. Protvino. http://www.aot.ru/docs/OverviewOfConcordance.htm [letzter Zugriff 08. Februar 2016].</rs></bibl>
                                           </listBibl>
                                         </div>
                                       </back>

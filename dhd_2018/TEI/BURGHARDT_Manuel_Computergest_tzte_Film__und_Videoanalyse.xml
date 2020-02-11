@@ -203,95 +203,43 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__608"><rs type="bibl" ref="#bibl__513"><hi rend="bold">Anonymus</hi> (2016): 
-                        <hi rend="italic">MovieBarcodes</hi>. 
-                        <ref target="http://moviebarcode.tumblr.com/">
-                            http://moviebarcode.tumblr.com/
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__608">Anonymus (2016): MovieBarcodes. http://moviebarcode.tumblr.com/</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__609"><rs type="bibl" ref="#bibl__514"><hi rend="bold">Baker</hi>, 
-                        <hi rend="bold">Dillon</hi> (2015): 
-                        <hi rend="italic">Spectrum</hi>. 
-                        <ref target="http://dillonbaker.com/spectrum/">
-                            http://dillonbaker.com/spectrum/
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__609">Baker, Dillon (2015): Spectrum. http://dillonbaker.com/spectrum/</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__610"><rs type="bibl" ref="#bibl__515"><hi rend="bold">Breitenfeld, A. / Mackeprang, M. / Hong, M.-T. / Müller-Birn, C. </hi>(2017)
-                        <hi rend="bold">: “</hi>Enabling Structured Data Generation by Nontechnical Experts”. In: Burghardt, M., Wimmer, R., Wolff, C. &amp; Womser-Hacker, C. (Hrsg.), 
-                        <hi rend="italic">Mensch und Computer 2017 - Tagungsband. </hi>Regensburg: Gesellschaft für Informatik e.V.. (S. 181-192).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__610">Breitenfeld, A. / Mackeprang, M. / Hong, M.-T. / Müller-Birn, C. (2017) : “Enabling Structured Data Generation by Nontechnical Experts”. In: Burghardt, M., Wimmer, R., Wolff, C. &amp; Womser-Hacker, C. (Hrsg.), Mensch und Computer 2017 - Tagungsband. Regensburg: Gesellschaft für Informatik e.V.. (S. 181-192).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__611"><rs type="bibl" ref="#bibl__516"><hi rend="bold">Brodbeck, Frederic</hi> (2011): 
-                        <hi rend="italic">Film Data Visualization</hi>. 
-                        <ref target="http://cinemetrics.fredericbrodbeck.de/">
-                           http://cinemetrics.fredericbrodbeck.de/
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__611">Brodbeck, Frederic (2011): Film Data Visualization. http://cinemetrics.fredericbrodbeck.de/</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__55"><rs type="bibl" ref="#bibl__46"><hi rend="bold">Burghardt, Manuel / Wolff, Christian</hi> (2016): „Digital Humanities in Bewegung: Ansätze für die computergestützte Filmanalyse”, in 
-                        <hi rend="italic">Book of Abstracts der DHd-Konferenz</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__55">Burghardt, Manuel / Wolff, Christian (2016): „Digital Humanities in Bewegung: Ansätze für die computergestützte Filmanalyse”, in Book of Abstracts der DHd-Konferenz.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__56"><rs type="bibl" ref="#bibl__47"><hi rend="bold">Burghardt, Manuel / Kao, Michael / Wolff, Christian</hi> (2016): “Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis”, in 
-                        <hi rend="italic">Book of Abstracts of the International Digital Humanities Conference (DH)</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__56">Burghardt, Manuel / Kao, Michael / Wolff, Christian (2016): “Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis”, in Book of Abstracts of the International Digital Humanities Conference (DH).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__612"><rs type="bibl" ref="#bibl__517"><hi rend="bold">Casey, Michael</hi> (2014): “ACTION: Audiovisual Cinematic Toolbox for Interactive Object-based Media Navigation”. 
-                        <ref target="http://aum.dartmouth.edu/~action/index.html">
-                           http://aum.dartmouth.edu/~action/index.html
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__612">Casey, Michael (2014): “ACTION: Audiovisual Cinematic Toolbox for Interactive Object-based Media Navigation”. http://aum.dartmouth.edu/~action/index.html</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__613"><rs type="bibl" ref="#bibl__518"><hi rend="bold">Everett, Wendy</hi> (2007): “Mapping Colour. An Introduction to the Theories and Practices of Colour”, in 
-                        <hi rend="italic">Questions of Colour in Cinema. From Paintbrush to Pixel.</hi> Hg. von Wendy Everett. Bern, S. 7-38.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__613">Everett, Wendy (2007): “Mapping Colour. An Introduction to the Theories and Practices of Colour”, in Questions of Colour in Cinema. From Paintbrush to Pixel. Hg. von Wendy Everett. Bern, S. 7-38.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__614"><rs type="bibl" ref="#bibl__519"><hi rend="bold">Flückiger, Barbara</hi> (2015): „FilmColors“. 
-                        <ref target="https://filmcolors.org/">
-                           https://filmcolors.org/
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__614">Flückiger, Barbara (2015): „FilmColors“. https://filmcolors.org/</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__615"><rs type="bibl" ref="#bibl__520"><hi rend="bold">Heftberger, Adelheid</hi> (2016): 
-                        <hi rend="italic">Kollision der Kader Dziga Vertovs Filme, die Visualisierung ihrer Strukturen und die Digital Humanities</hi>. München: edition text+kritik.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__615">Heftberger, Adelheid (2016): Kollision der Kader Dziga Vertovs Filme, die Visualisierung ihrer Strukturen und die Digital Humanities. München: edition text+kritik.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__616"><rs type="bibl" ref="#bibl__521"><hi rend="bold">Heftberger, Adelheid</hi> (2014): “Film archives and digital humanities – an impossible match? New job descriptions and the challenges of the digital era”, in 
-                        <hi rend="italic">MedieKultur – Journal of media and communication research</hi> 30, 57, S. 135-153.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__616">Heftberger, Adelheid (2014): “Film archives and digital humanities – an impossible match? New job descriptions and the challenges of the digital era”, in MedieKultur – Journal of media and communication research 30, 57, S. 135-153.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__57"><rs type="bibl" ref="#bibl__522"><hi rend="bold">Marcus, Solomon</hi> (1970): 
-                        <hi rend="italic">Mathematische Poetik</hi>. Frankfurt am Main: Athenäum Verlag.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__57">Marcus, Solomon (1970): Mathematische Poetik. Frankfurt am Main: Athenäum Verlag.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__617"><rs type="bibl" ref="#bibl__523"><hi rend="bold">Mitrovic, Dalibor / Hartlieb, Stefan / Zeppelzauer, Matthias / Zaharieva, Maia</hi> (2010): „Scene Segmentation in Artistic Archive Documentaries”, in 
-                        <hi rend="italic">HCI in Work and Learning, Life and Leisure</hi>, LNCS, vol. 6389, S. 400-410.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__617">Mitrovic, Dalibor / Hartlieb, Stefan / Zeppelzauer, Matthias / Zaharieva, Maia (2010): „Scene Segmentation in Artistic Archive Documentaries”, in HCI in Work and Learning, Life and Leisure, LNCS, vol. 6389, S. 400-410.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__618"><rs type="bibl" ref="#bibl__524"><hi rend="bold">Mitrovic, Dalibor / Zeppelzauer, Matthias / Zaharieva, Maia / Breiteneder, Christian</hi> (2011): „Retrieval of VisualComposition in Film”, in 
-                        <hi rend="italic">Proceedings of the 12th International Workshop on Image Analysis for Multimedia Interactive Services</hi>, April 13-15, Delft, The Netherlands.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__618">Mitrovic, Dalibor / Zeppelzauer, Matthias / Zaharieva, Maia / Breiteneder, Christian (2011): „Retrieval of VisualComposition in Film”, in Proceedings of the 12th International Workshop on Image Analysis for Multimedia Interactive Services, April 13-15, Delft, The Netherlands.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__619"><rs type="bibl" ref="#bibl__525"><hi rend="bold">Müller-Birn, Claudia / Heftberger, Adelheid / Höper, Jackob / Walkowski / Niels-Oliver Sharing </hi>(2017): “Factual Knowledge from Research in Film and Media Studies using Wikidata”, presented at FORCE2017 Research Communication and e-¬Scholarship Conference, Berlin, Germany.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__619">Müller-Birn, Claudia / Heftberger, Adelheid / Höper, Jackob / Walkowski / Niels-Oliver Sharing (2017): “Factual Knowledge from Research in Film and Media Studies using Wikidata”, presented at FORCE2017 Research Communication and e-¬Scholarship Conference, Berlin, Germany.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__620"><rs type="bibl" ref="#bibl__48"><hi rend="bold">Pause, Johannes / Walkowski, Niels-Oliver </hi>(2017): “Dead and Beautiful: The Analysis of Colors by Means of Contrasts in Neo-Zombie Movies”, in 
-                        <hi rend="italic">Book of Abstracts der DHd-Konferenz</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__620">Pause, Johannes / Walkowski, Niels-Oliver (2017): “Dead and Beautiful: The Analysis of Colors by Means of Contrasts in Neo-Zombie Movies”, in Book of Abstracts der DHd-Konferenz.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__621"><rs type="bibl" ref="#bibl__526"><hi rend="bold">Zaharieva, Maia / Zeppelzauer, Matthias / Breiteneder, Christian / Mitrovic, Dalibor</hi> (2010): “Camera Take Reconstruction”, in 
-                        <hi rend="italic">Proceedings of IEEE Multimedia Modeling Conference</hi>, Jan 6-8, 2010, Chongqing, China, S. 379-388.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__621">Zaharieva, Maia / Zeppelzauer, Matthias / Breiteneder, Christian / Mitrovic, Dalibor (2010): “Camera Take Reconstruction”, in Proceedings of IEEE Multimedia Modeling Conference, Jan 6-8, 2010, Chongqing, China, S. 379-388.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__622"><rs type="bibl" ref="#bibl__527"><hi rend="bold">Zeppelzauer, Matthias / Mitrovic, Dalibor / Breiteneder, Christian</hi> (2011a): “Cross-Modal Analysis of Audio Visual Film Montage”, in 
-                        <hi rend="italic">Proceedings of 20th International Conference on Computer Communications and Networks</hi>, Maui, USA.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__622">Zeppelzauer, Matthias / Mitrovic, Dalibor / Breiteneder, Christian (2011a): “Cross-Modal Analysis of Audio Visual Film Montage”, in Proceedings of 20th International Conference on Computer Communications and Networks, Maui, USA.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__623"><rs type="bibl" ref="#bibl__528"><hi rend="bold">Zeppelzauer, Matthias / Zaharieva, Maia / Mitrovic, Dalibor / Breiteneder, Christian</hi> (2011b): “Retrieval of Motion Composition in Film”, in 
-                        <hi rend="italic">Digital Creativity</hi>, 22(4), 219-234.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__623">Zeppelzauer, Matthias / Zaharieva, Maia / Mitrovic, Dalibor / Breiteneder, Christian (2011b): “Retrieval of Motion Composition in Film”, in Digital Creativity, 22(4), 219-234.</rs></bibl>
                 </listBibl>
             </div>
       </back>

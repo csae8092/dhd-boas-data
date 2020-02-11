@@ -123,43 +123,21 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1724"><rs type="bibl" ref="#bibl__1669"><hi rend="bold">Bonabeau, Eric </hi>(2002):
-                        “Agent-based modeling: Methods and techniques for simulating human systems” in: 
-                        <hi rend="italic">Proceedings of the National Academy of Sciences</hi>, 99(suppl 3):7280– 7287 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1724">Bonabeau, Eric (2002): “Agent-based modeling: Methods and techniques for simulating human systems” in: Proceedings of the National Academy of Sciences, 99(suppl 3):7280– 7287</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1725"><rs type="bibl" ref="#bibl__1670"><hi rend="bold">Davidsson, Paul</hi> (2002): "Agent based social simulation"
-                            in: <hi rend="italic">Journal of Artificial Societies and Social Simulation</hi> 5(1):
-                        <ref target="http://jasss.soc.surrey.ac.uk/5/1/7.html">http://jasss.soc.surrey.ac.uk/5/1/7.html</ref>
-                        [letzter Zugriff 11.Januar 2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1725">Davidsson, Paul (2002): "Agent based social simulation" in: Journal of Artificial Societies and Social Simulation 5(1): http://jasss.soc.surrey.ac.uk/5/1/7.html [letzter Zugriff 11.Januar 2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1726"><rs type="bibl" ref="#bibl__1671"><hi rend="bold">Gilbert, Nigel</hi> (2007): 
-                            <hi rend="italic">"Computational social science: Agent-based social simulation"</hi>
-                            in: Amblard, Frédéric / Phan, Dennis (eds.): Agent-based Modelling and Simulation in the Social and Human Sciences.
-                            Oxford: The Bardwell Press 115-133.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1726">Gilbert, Nigel (2007): "Computational social science: Agent-based social simulation" in: Amblard, Frédéric / Phan, Dennis (eds.): Agent-based Modelling and Simulation in the Social and Human Sciences. Oxford: The Bardwell Press 115-133.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__143"><rs type="bibl" ref="#bibl__106"><hi rend="bold">Kohle, Hubertus</hi> (2017): 
-                            <hi rend="italic">"Digitale Rekonstruktion und Simulation"</hi>
-                            in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities: Eine Einführung. 
-                            Stuttgart: J. B.Metzler 315-327.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__143">Kohle, Hubertus (2017): "Digitale Rekonstruktion und Simulation" in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities: Eine Einführung. Stuttgart: J. B.Metzler 315-327.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1727"><rs type="bibl" ref="#bibl__1672"><hi rend="bold">Law, Averill M.</hi> (2015): 
-                            Simulation Modeling and Analysis. 5.Auflage. Tucson: McGraw Hill Education.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1727">Law, Averill M. (2015): Simulation Modeling and Analysis. 5.Auflage. Tucson: McGraw Hill Education.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1728"><rs type="bibl" ref="#bibl__1673"><hi rend="bold">Mann, Klaus</hi> (1995): Tagebücher 1931 – 1933. Reinbek: Rowohlt.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1728">Mann, Klaus (1995): Tagebücher 1931 – 1933. Reinbek: Rowohlt.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1729"><rs type="bibl" ref="#bibl__1674"><hi rend="bold">Richter, Michael M. / Weber, Rosina O. </hi>(2013): 
-                            Case-Based Reasoning: A Textbook. Berlin: Springer.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1729">Richter, Michael M. / Weber, Rosina O. (2013): Case-Based Reasoning: A Textbook. Berlin: Springer.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1730"><rs type="bibl" ref="#bibl__1675"><hi rend="bold">Taylor, Ian J. / Deelman, Ewa / Gannon, Dennis B. / Shields, Matthew</hi> (2014): 
-                            Workflows for e-Science: Scientific Workflows for Grids.London: Springer
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1730">Taylor, Ian J. / Deelman, Ewa / Gannon, Dennis B. / Shields, Matthew (2014): Workflows for e-Science: Scientific Workflows for Grids.London: Springer</rs></bibl>
                 </listBibl>
             </div>
       </back>

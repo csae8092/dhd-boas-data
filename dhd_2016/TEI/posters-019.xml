@@ -149,15 +149,9 @@
         <div type="bibliogr">
           <listBibl>
             <head>Bibliographie</head>
-            <bibl><rs type="bibl" ref="#bibl__1959"><hi rend="italic">Heinrich Woelfli's Syrische Reise 1520</hi>, aus dem
-            Lateinischen übersetzt von Johann Haller 1582, Burgerbibliothek Bern,
-            Signatur Mss.h.h.XX.168</rs></bibl>
-            <bibl><rs type="bibl" ref="#bibl__1960"><hi rend="bold">Steinheim Institut / Kollatz, Thomas</hi> (2006-2016): <hi rend="italic">Epidat</hi>. Epigraphische Datenbank <ref target="http://www.steinheim-institut.de/cgi-bin/epidat">http://www.steinheim-institut.de/cgi-bin/epidat</ref> [letzter Zugriff
-            21. Januar 2016].</rs></bibl>
-            <bibl><rs type="bibl" ref="#bibl__1961"><hi rend="bold">Stolz, Michael / Haustein, Jens / Glauch, Sonja
-            </hi>(2016): <hi rend="italic">Parzival-Projekt</hi>. Ein Projekt des
-            Schweizerischen Nationalfonds und der Deutschen Forschungsgemeinschaft <ref target="http://www.parzival.unibe.ch/home.html">http://www.parzival.unibe.ch/home.html</ref> [letzter Zugriff 21.
-            Januar 2016].</rs></bibl>
+            <bibl><rs type="bibl" ref="#bibl__1959">Heinrich Woelfli's Syrische Reise 1520, aus dem Lateinischen übersetzt von Johann Haller 1582, Burgerbibliothek Bern, Signatur Mss.h.h.XX.168</rs></bibl>
+            <bibl><rs type="bibl" ref="#bibl__1960">Steinheim Institut / Kollatz, Thomas (2006-2016): Epidat. Epigraphische Datenbank http://www.steinheim-institut.de/cgi-bin/epidat [letzter Zugriff 21. Januar 2016].</rs></bibl>
+            <bibl><rs type="bibl" ref="#bibl__1961">Stolz, Michael / Haustein, Jens / Glauch, Sonja (2016): Parzival-Projekt. Ein Projekt des Schweizerischen Nationalfonds und der Deutschen Forschungsgemeinschaft http://www.parzival.unibe.ch/home.html [letzter Zugriff 21. Januar 2016].</rs></bibl>
           </listBibl>
         </div>
       </back>

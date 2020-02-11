@@ -106,12 +106,8 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__1947"><hi rend="bold">Digital Humanities an der Friedrich-Schiller-Universität
-                Jena</hi> (o. J.): <hi rend="italic">DHnet Jena</hi>
-                <ref target="http://dhnet.uni-jena.de/index.php?id=124">http://dhnet.uni-jena.de/index.php?id=124</ref> [letzter Zugriff 15.
-                  Februar 2016].</rs></bibl>
-                  <bibl><rs type="bibl" ref="#bibl__1948"><hi rend="bold">Universität Erfurt</hi> (o. J.): <hi rend="italic">Netzwerk für digitale Geisteswissenschaften an der Universität
-                  Erfurt</hi> [letzter Zugriff 15. Februar 2016].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__1947">Digital Humanities an der Friedrich-Schiller-Universität Jena (o. J.): DHnet Jena http://dhnet.uni-jena.de/index.php?id=124 [letzter Zugriff 15. Februar 2016].</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__1948">Universität Erfurt (o. J.): Netzwerk für digitale Geisteswissenschaften an der Universität Erfurt [letzter Zugriff 15. Februar 2016].</rs></bibl>
                 </listBibl>
               </div>
             </back>

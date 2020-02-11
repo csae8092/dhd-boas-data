@@ -192,44 +192,25 @@
                         <listBibl>
                           <head>Bibliography</head>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__260"><hi rend="bold">Andrews, Tara L. / Macé, Caroline</hi> (2013): "Beyond the
-                            tree of texts: Building an empirical model of scribal variation through
-                            graph analysis of texts and stemmas", in: <hi rend="italic">Literary and
-                            Linguistic Computing</hi> 28, 4: 504–521. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__260">Andrews, Tara L. / Macé, Caroline (2013): "Beyond the tree of texts: Building an empirical model of scribal variation through graph analysis of texts and stemmas", in: Literary and Linguistic Computing 28, 4: 504–521.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2500"><hi rend="bold">Bédier, Joseph</hi> (1928): "La tradition manuscrite du 'Lai
-                              de l’Ombre': Réflexions sur l'Art d'Éditer les Anciens Textes", in: <hi rend="italic">Romania</hi> 394: 161–196. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2500">Bédier, Joseph (1928): "La tradition manuscrite du 'Lai de l’Ombre': Réflexions sur l'Art d'Éditer les Anciens Textes", in: Romania 394: 161–196.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2501"><hi rend="bold">Howe, Christopher J. / Barbrook, Adrian C. / Spencer,
-                                  Matthew / Robinson, Peter / Bordalejo, Barbara / Mooney, Linne R.</hi>
-                                  (2001): "Manuscript evolution", in: <hi rend="italic">TRENDS in
-                                  Genetics</hi> 17, 3: 147-152. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2501">Howe, Christopher J. / Barbrook, Adrian C. / Spencer, Matthew / Robinson, Peter / Bordalejo, Barbara / Mooney, Linne R. (2001): "Manuscript evolution", in: TRENDS in Genetics 17, 3: 147-152.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2502"><hi rend="bold">Huson, Daniel H.</hi> (1998): "Splitstree: analyzing and
-                                    visualizing evolutionary data", in: <hi rend="italic">Bioinformatics</hi>
-                                    14: 68–73. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2502">Huson, Daniel H. (1998): "Splitstree: analyzing and visualizing evolutionary data", in: Bioinformatics 14: 68–73.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2503"><hi rend="bold">Maas, Paul</hi> (1937): "Leitfehler und Stemmatische Typen",
-                                      in: <hi rend="italic">Byzantinische Zeitschrift</hi> 37, 2: 289–294. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2503">Maas, Paul (1937): "Leitfehler und Stemmatische Typen", in: Byzantinische Zeitschrift 37, 2: 289–294.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2504"><hi rend="bold">O’Hara, Robert J.</hi> (1996): "Trees of history in
-                                        systematics and philology", in: <hi rend="italic">Memorie della Società
-                                        Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di
-                                        Milano</hi> 27, 1: 81–88. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2504">O’Hara, Robert J. (1996): "Trees of history in systematics and philology", in: Memorie della Società Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di Milano 27, 1: 81–88.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2505"><hi rend="bold">Robinson, Peter / Barbrook, Adrian C. / Blake, Norman /
-                                            Howe, Christopher J.</hi> (1998): "The Phylogeny of The Canterbury
-                                            Tales", in: <hi rend="italic">Nature</hi> 394: 839. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2505">Robinson, Peter / Barbrook, Adrian C. / Blake, Norman / Howe, Christopher J. (1998): "The Phylogeny of The Canterbury Tales", in: Nature 394: 839.</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2506"><hi rend="bold">Robinson, Peter / O’Hara, Robert J.</hi> (1996): "Cladistic
-                                              Analysis of an Old Norse Manuscript Tradition", in: <hi rend="italic">Research in Humanities Computing</hi> 4: 115-137. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2506">Robinson, Peter / O’Hara, Robert J. (1996): "Cladistic Analysis of an Old Norse Manuscript Tradition", in: Research in Humanities Computing 4: 115-137.</rs></bibl>
                                               <bibl>
-                                                <rs type="bibl" ref="#bibl__2507"><hi rend="bold">Timpanaro, Sebastiano</hi> (2005): <hi rend="italic">The
-                                                Genesis of Lachmann’s Method</hi>. Chicago: University of Chicago. </rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2507">Timpanaro, Sebastiano (2005): The Genesis of Lachmann’s Method. Chicago: University of Chicago.</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2508"><hi rend="bold">van Reenen, Pieter T. van / van Mulken, Margot</hi> (1996):
-                                                  <hi rend="italic">Studies in Stemmatology</hi> I. Amsterdam /
-                                                  Philadelphia: John Benjamins Publishing Company.</rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2508">van Reenen, Pieter T. van / van Mulken, Margot (1996): Studies in Stemmatology I. Amsterdam / Philadelphia: John Benjamins Publishing Company.</rs></bibl>
                                                 </listBibl>
                                               </div>
                                             </back>

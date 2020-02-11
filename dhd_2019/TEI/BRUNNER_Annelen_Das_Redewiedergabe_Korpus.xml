@@ -265,43 +265,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__109"><rs type="bibl" ref="#bibl__81"><hi rend="bold">Brunner, Annelen</hi> (2015): 
-                        <hi rend="italic" xml:space="preserve">Automatische Erkennung von Redewiedergabe. </hi>Ein Beitrag zur quantitativen Narratologie (=Narratologia 47). Berlin: De Gruyter.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__109">Brunner, Annelen (2015): Automatische Erkennung von Redewiedergabe. Ein Beitrag zur quantitativen Narratologie (=Narratologia 47). Berlin: De Gruyter.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3958"><rs type="bibl" ref="#bibl__2729"><hi rend="bold">Engelberg, Stefan</hi> (2015): „Quantitative Verteilungen im Wortschatz. Zu lexikologischen und lexikografischen Aspekten eines dynamischen Lexikons“, in: Eichinger, Ludwig M. (eds.): 
-                        <hi rend="italic">Sprachwissenschaft im Fokus</hi>. Positionsbestimmungen und Perspektiven. Jahrbuch 2014 des IDS. Tübingen: Narr 205-230.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3958">Engelberg, Stefan (2015): „Quantitative Verteilungen im Wortschatz. Zu lexikologischen und lexikografischen Aspekten eines dynamischen Lexikons“, in: Eichinger, Ludwig M. (eds.): Sprachwissenschaft im Fokus. Positionsbestimmungen und Perspektiven. Jahrbuch 2014 des IDS. Tübingen: Narr 205-230.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3959"><rs type="bibl" ref="#bibl__2730"><hi rend="bold" xml:space="preserve">Gabriel, Gottfried </hi>(2007)
-                        <hi rend="bold" xml:space="preserve">: </hi>„Fiktion“, in: Fricke, Harald et al. (eds.): 
-                        <hi rend="italic">Reallexikon der deutschen Literaturwissenschaft</hi>. Bd. 1: A-G. Berlin / New York: De Gruyter 594-598.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3959">Gabriel, Gottfried (2007) : „Fiktion“, in: Fricke, Harald et al. (eds.): Reallexikon der deutschen Literaturwissenschaft. Bd. 1: A-G. Berlin / New York: De Gruyter 594-598.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3960"><rs type="bibl" ref="#bibl__2731"><hi rend="bold">Genette, Gérard</hi> (2010): 
-                        <hi rend="italic">Die Erzählung.</hi> 3., durchges. und korrigierte Aufl. Paderborn: Fink.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3960">Genette, Gérard (2010): Die Erzählung. 3., durchges. und korrigierte Aufl. Paderborn: Fink.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3961"><rs type="bibl" ref="#bibl__2732"><hi rend="bold">Hauser, Stefan</hi> (2008): „Beobachtungen zur Redewiedergabe in der Tagespresse. Eine kontrastive Analyse
-                        <hi rend="italic">“</hi>, in: Lüger, Heinz-Helmut / Lenk, Hartmut E.H. (eds.): 
-                        <hi rend="italic">Kontrastive Medienlinguistik</hi>. Landau: Verlag Empirische Pädagogik 271-286.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3961">Hauser, Stefan (2008): „Beobachtungen zur Redewiedergabe in der Tagespresse. Eine kontrastive Analyse “, in: Lüger, Heinz-Helmut / Lenk, Hartmut E.H. (eds.): Kontrastive Medienlinguistik. Landau: Verlag Empirische Pädagogik 271-286.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3962"><rs type="bibl" ref="#bibl__2733"><hi rend="bold">Krug, Markus / Tu, Ngoc Duyen Tanja / Weimer, Lukas / Reger, Isabella / Konle, Leonard / Jannidis, Fotis / Puppe, Frank</hi> (2018a): „Annotation and beyond – Using ATHEN Annotation and Text Highlighting Environment“, in: 
-                        <hi rend="italic">Digital Humanities im deutschsprachigen Raum – Konferenzabstracts</hi> 19-21.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3962">Krug, Markus / Tu, Ngoc Duyen Tanja / Weimer, Lukas / Reger, Isabella / Konle, Leonard / Jannidis, Fotis / Puppe, Frank (2018a): „Annotation and beyond – Using ATHEN Annotation and Text Highlighting Environment“, in: Digital Humanities im deutschsprachigen Raum – Konferenzabstracts 19-21.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__292"><rs type="bibl" ref="#bibl__186"><hi rend="bold">Krug, Markus / Weimer, Lukas / Reger, Isabella / Macharowsky, Luisa / Feldhaus, Stephan / Puppe, Frank / Jannidis, Fotis</hi> (2018b): 
-                        <hi rend="italic">Description of a Corpus of Character References in German Novels - DROC [Deutsches ROman Corpus]</hi>. DARIAH-DE Working Papers Nr. 27, Göttingen: DARIAH-DE, 2018, URN: urn:nbn:de:gbv:7-dariah-2018-2-9.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__292">Krug, Markus / Weimer, Lukas / Reger, Isabella / Macharowsky, Luisa / Feldhaus, Stephan / Puppe, Frank / Jannidis, Fotis (2018b): Description of a Corpus of Character References in German Novels - DROC [Deutsches ROman Corpus]. DARIAH-DE Working Papers Nr. 27, Göttingen: DARIAH-DE, 2018, URN: urn:nbn:de:gbv:7-dariah-2018-2-9.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__113"><rs type="bibl" ref="#bibl__83"><hi rend="bold">Martínez, Matías / Scheffel, Michael</hi> (2016): 
-                        <hi rend="italic">Einführung in die Erzähltheorie</hi>. 10. Auflage. München: C.H.Beck.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__113">Martínez, Matías / Scheffel, Michael (2016): Einführung in die Erzähltheorie. 10. Auflage. München: C.H.Beck.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3963"><rs type="bibl" ref="#bibl__2734"><hi rend="bold">Semino, Elena / Short, Mick</hi> (2004): 
-                        <hi rend="italic" xml:space="preserve">Corpus stylistics. </hi>Speech, writing and thought presentation in a corpus of English writing. London / New York: Routledge.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3963">Semino, Elena / Short, Mick (2004): Corpus stylistics. Speech, writing and thought presentation in a corpus of English writing. London / New York: Routledge.</rs></bibl>
                 </listBibl>
             </div>
         </back>

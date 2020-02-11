@@ -168,56 +168,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__372"><rs type="bibl" ref="#bibl__269"><hi rend="bold">Burghart, Marjorie</hi> (2017): 
-                        <hi rend="italic">Creating a Scholarly Digital Edition with the Text Encoding Initiative. </hi>Demm: 
-                        <ref target="https://www.digitalmanuscripts.eu/digital-editing-of-medieval-texts-a-textbook/">https://www.digitalmanuscripts.eu/digital-editing-of-medieval-texts-a-textbook/</ref> (letzer Zugriff 12. Jänner 2018)
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__372">Burghart, Marjorie (2017): Creating a Scholarly Digital Edition with the Text Encoding Initiative. Demm: https://www.digitalmanuscripts.eu/digital-editing-of-medieval-texts-a-textbook/ (letzer Zugriff 12. Jänner 2018)</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__373"><rs type="bibl" ref="#bibl__270"><hi rend="bold">Burnard, Lou</hi> (2014): 
-                        <hi rend="italic">What Is the Text Encoding Initiative? How to Add Intelligent Markup to Digital Resources</hi>. Encyclopédie Numérique. Marseille: OpenEdition Press: 
-                        <ref target="http://books.openedition.org/oep/426">http://books.openedition.org/oep/426</ref> (Letzter Zugriff 12. Jänner 2018)
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__373">Burnard, Lou (2014): What Is the Text Encoding Initiative? How to Add Intelligent Markup to Digital Resources. Encyclopédie Numérique. Marseille: OpenEdition Press: http://books.openedition.org/oep/426 (Letzter Zugriff 12. Jänner 2018)</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__11"><rs type="bibl" ref="#bibl__9"><hi rend="bold">Fanta, Walter</hi> (2016): 
-                        <hi rend="italic">"Editionsgeschichte.",</hi>in: 
-                        <hi rend="bold">Nübel, Birgit/ </hi>Wolf, Norbert Christian:
-                        <hi rend="italic">Robert-Musil-Handbuch</hi>. Berlin: Walter de Gruyter, S. 799-810.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__11">Fanta, Walter (2016): "Editionsgeschichte.",in: Nübel, Birgit/ Wolf, Norbert Christian: Robert-Musil-Handbuch. Berlin: Walter de Gruyter, S. 799-810.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__11"><rs type="bibl" ref="#bibl__9"><hi rend="bold">Fanta, Walter</hi> (2016): 
-                        <hi rend="italic">"Nachlass.",</hi>in: 
-                        <hi rend="bold">Nübel, Birgit/ Wolf, Norbert Christian (eds):
-                        </hi>
-                        <hi rend="italic">Robert-Musil-Handbuch</hi>. Berlin: Walter de Gruyter, S. 470-497.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__11">Fanta, Walter (2016): "Nachlass.",in: Nübel, Birgit/ Wolf, Norbert Christian (eds): Robert-Musil-Handbuch. Berlin: Walter de Gruyter, S. 470-497.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__374"><rs type="bibl" ref="#bibl__271"><hi rend="bold">Fanta, Walter</hi> (2010): 
-                        <hi rend="italic">"Robert Musil – Klagenfurter Ausgabe.",</hi>in: 
-                        <hi rend="italic">editio</hi>, S. 117-148.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__374">Fanta, Walter (2010): "Robert Musil – Klagenfurter Ausgabe.",in: editio, S. 117-148.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__375"><rs type="bibl" ref="#bibl__272"><hi rend="bold">Fanta, Walter</hi> (2011): 
-                        <hi rend="italic">"Zur Immortalität elektronischer Korpora am Beispiel der Musil-Edition.",</hi>in: 
-                        <hi rend="bold">Braungart, Georg / Gendolla, Peter</hi> /
-                        <hi rend="bold"> Jannidis, Fotis</hi> (eds): 
-                        <hi rend="italic">Jahrbuch für Computerphilologie online: </hi>
-                        <ref target="http://computerphilologie.tu-darmstadt.de/jg09/fanta.html">http://computerphilologie.tu-darmstadt.de/jg09/fanta.html</ref> (letzter Zugriff 12. Jänner 2018)
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__375">Fanta, Walter (2011): "Zur Immortalität elektronischer Korpora am Beispiel der Musil-Edition.",in: Braungart, Georg / Gendolla, Peter / Jannidis, Fotis (eds): Jahrbuch für Computerphilologie online: http://computerphilologie.tu-darmstadt.de/jg09/fanta.html (letzter Zugriff 12. Jänner 2018)</rs></bibl>
                     <bibl rend="Plain Text">
-                        <rs type="bibl" ref="#bibl__376"><rs type="bibl" ref="#bibl__273"><hi rend="bold">Fanta, Walter</hi> (2008): 
-                        <hi rend="italic">"Das Zögern vor dem letzten Schritt. Zur digitalen Edition von Robert Musils „Mann ohne Eigenschaften",</hi> in: 
-                        <hi rend="bold">Golz, Jochen</hi> /
-                        <hi rend="bold"> Koltes, Manfred</hi> (eds.): 
-                        <hi rend="italic">Autoren und Redaktoren als Editoren - Tagung der Arbeitsgemeinschaft für germanistische Edition an der Klassik Stiftung Weimar</hi>, Tübingen: Max Niemeyer Verlag, S. 342-352
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__376">Fanta, Walter (2008): "Das Zögern vor dem letzten Schritt. Zur digitalen Edition von Robert Musils „Mann ohne Eigenschaften", in: Golz, Jochen / Koltes, Manfred (eds.): Autoren und Redaktoren als Editoren - Tagung der Arbeitsgemeinschaft für germanistische Edition an der Klassik Stiftung Weimar, Tübingen: Max Niemeyer Verlag, S. 342-352</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__12"><rs type="bibl" ref="#bibl__10"><hi rend="bold">Pierazzo, Elena</hi> (2015): 
-                        <hi rend="italic">Digital Scholarly Editing: Theories, Models and Methods.</hi> Farnham, Surrey; Burlington, VT: Ashgate.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__12">Pierazzo, Elena (2015): Digital Scholarly Editing: Theories, Models and Methods. Farnham, Surrey; Burlington, VT: Ashgate.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__377"><rs type="bibl" ref="#bibl__274"><hi rend="bold">Sperberg-McQueen, C.M. / Burnard, Lou</hi> (2017): 
-                        <hi rend="italic">TEI P5: Guidelines for Electronic Text Encoding and Interchange.</hi> Text Encoding Initiative Consortium.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__377">Sperberg-McQueen, C.M. / Burnard, Lou (2017): TEI P5: Guidelines for Electronic Text Encoding and Interchange. Text Encoding Initiative Consortium.</rs></bibl>
                 </listBibl>
             </div>
       </back>

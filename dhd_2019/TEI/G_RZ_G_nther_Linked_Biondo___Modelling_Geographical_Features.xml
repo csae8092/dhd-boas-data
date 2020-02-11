@@ -92,19 +92,14 @@
                 <listBibl>
                     <head>Bibliography</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3549"><rs type="bibl" ref="#bibl__2311"><hi rend="bold">Blakemore, Michael / Harley, Brian J.</hi> (1980): Concepts in the History of Cartography - A Review and Perspective. In: Cartographica. International Publications on Cartography, 17/4, Monograph 26. University of Toronto
-                    </rs></rs></bibl>
-                    <bibl>Press: Toronto.<rs type="bibl" ref="#bibl__3550"><rs type="bibl" ref="#bibl__2312"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3549">Blakemore, Michael / Harley, Brian J. (1980): Concepts in the History of Cartography - A Review and Perspective. In: Cartographica. International Publications on Cartography, 17/4, Monograph 26. University of Toronto</rs></bibl>
+                    <bibl>Press: Toronto.<rs type="bibl" ref="#bibl__3550">Press: Toronto.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3551"><rs type="bibl" ref="#bibl__2313"><hi rend="bold">Bodenhamer, David J. / Corrigan, John / Harris, Trevor M.</hi> (eds.) (2010): The Spatial Humanities. GIS and the Future of Humanities Scholarship. Bloomington &amp; Indianapolis: Indiana University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3551">Bodenhamer, David J. / Corrigan, John / Harris, Trevor M. (eds.) (2010): The Spatial Humanities. GIS and the Future of Humanities Scholarship. Bloomington &amp; Indianapolis: Indiana University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3552"><rs type="bibl" ref="#bibl__2314"><hi rend="bold" xml:space="preserve">Görz, Günther / Geus, Klaus / Michalsky, Tanja / Thiering, Martin </hi>(2018): Spatial Cognition in Historical Geographical Texts and Maps: Towards a cognitive-semantic analysis of Flavio Biondo's ``Italia Illustrata''. In: Boutoura, Ch., Tsorlini, A. (Ed.): 
-                        <hi rend="italic">Digital Approaches to Cartographic Heritage.</hi> 13th Conference of the International Cartographic Association Commission on Cartographic Heritage into the Digital, Madrid, 29-44.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3552">Görz, Günther / Geus, Klaus / Michalsky, Tanja / Thiering, Martin (2018): Spatial Cognition in Historical Geographical Texts and Maps: Towards a cognitive-semantic analysis of Flavio Biondo's ``Italia Illustrata''. In: Boutoura, Ch., Tsorlini, A. (Ed.): Digital Approaches to Cartographic Heritage. 13th Conference of the International Cartographic Association Commission on Cartographic Heritage into the Digital, Madrid, 29-44.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3553"><rs type="bibl" ref="#bibl__2315"><hi rend="bold">Thiering, Martin</hi> (2015): Spatial Semiotics and Spatial Mental Models: Figure-Ground Asymmetries in Language. Berlin: De Gruyter Mouton. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3553">Thiering, Martin (2015): Spatial Semiotics and Spatial Mental Models: Figure-Ground Asymmetries in Language. Berlin: De Gruyter Mouton.</rs></bibl>
                 </listBibl>
             </div>
         </back>

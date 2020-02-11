@@ -189,67 +189,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__7"><rs type="bibl" ref="#bibl__5"><hi rend="bold">AG Datenzentren des DHd (Hg.)</hi> (2017): Stellungnahme der DHd AG Datenzentren und des DHd-Verbands zur Nationalen Forschungsdateninfrastruktur (NFDI), URL: 
-                        <ref target="http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf">
-                            <hi rend="underline">http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__7">AG Datenzentren des DHd (Hg.) (2017): Stellungnahme der DHd AG Datenzentren und des DHd-Verbands zur Nationalen Forschungsdateninfrastruktur (NFDI), URL: http://dig-hum.de/sites/dig-hum.de/files/DHd_NFDI_Stellungnahme_2017-07-31.pdf [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__701"><rs type="bibl" ref="#bibl__607"><hi rend="bold">Allianz der deutschen Wissenschaftsorganisationen (Hg.)</hi> (2010): Grundsätze zum Umgang mit Forschungsdaten, URL: 
-                        <ref target="http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf">
-                            <hi rend="underline">http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__701">Allianz der deutschen Wissenschaftsorganisationen (Hg.) (2010): Grundsätze zum Umgang mit Forschungsdaten, URL: http://www.allianzinitiative.de/fileadmin/user_upload/www.allianzinitiative.de/Grundsaetze_Forschungsdaten_2010.pdf [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__702"><rs type="bibl" ref="#bibl__608"><hi rend="bold">DFG (Hg.)</hi> (2015): DFG-Leitlinien zum Umgang mit Forschungsdaten, Bonn 2015, 
-                        <ref target="http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html">
-                            <hi rend="underline">http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__702">DFG (Hg.) (2015): DFG-Leitlinien zum Umgang mit Forschungsdaten, Bonn 2015, http://www.dfg.de/foerderung/antragstellung_begutachtung_entscheidung/antragstellende/antragstellung/nachnutzung_forschungsdaten/index.html [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__703"><rs type="bibl" ref="#bibl__609"><hi rend="bold">Nestor (Hg.)</hi> (2016): Standardisierung, 2016, URL: 
-                        <ref target="https://wiki.dnb.de/display/NESTOR/Standardisierung">
-                            <hi rend="underline">https://wiki.dnb.de/display/NESTOR/Standardisierung</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__703">Nestor (Hg.) (2016): Standardisierung, 2016, URL: https://wiki.dnb.de/display/NESTOR/Standardisierung [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__77"><rs type="bibl" ref="#bibl__65"><hi rend="bold">Neuroth, Heike / Oßwald, Achim / Scheffel, Regine / Strathmann, Stefan / Huth, Karsten (Hg.): </hi>nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchivierung. Version 2.3, Göttingen 2010, URL: 
-                        <ref target="http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf">
-                            <hi rend="underline">http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__77">Neuroth, Heike / Oßwald, Achim / Scheffel, Regine / Strathmann, Stefan / Huth, Karsten (Hg.): nestor Handbuch. Eine kleine Enzyklopädie der digitalen Langzeitarchivierung. Version 2.3, Göttingen 2010, URL: http://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__704"><rs type="bibl" ref="#bibl__610"><hi rend="bold">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim / Scheffel, Regine / Klump, Jens / Ludwig, Jens (Hg.)</hi> (2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Boizenburg / Göttingen.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__704">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim / Scheffel, Regine / Klump, Jens / Ludwig, Jens (Hg.) (2012): Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme. Boizenburg / Göttingen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__705"><rs type="bibl" ref="#bibl__611"><hi rend="bold">OECD (Hg.)</hi> (2007): OECD Principles and Guidelines for Access to Research Data from Public Funding, Paris 2007, URL: 
-                        <ref target="http://www.oecd.org/sti/sci-tech/38500813.pdf">
-                            <hi rend="underline">http://www.oecd.org/sti/sci-tech/38500813.pdf</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                        <hi rend="bold">OECD (Hg.)</hi> (2016):, "Research Ethics and New Forms of Data for Social and Economic Research", 
-                        <hi rend="italic">OECD Science, Technology and Industry Policy Papers</hi>, No. 34, OECD Publishing, Paris, URL: 
-                        <ref target="http://dx.doi.org/10.1787/5jln7vnpxs32-en">
-                            <hi rend="underline">http://dx.doi.org/10.1787/5jln7vnpxs32-en </hi>
-                        </ref>[letzter Zugriff 22. September 2017]
-                        <ref target="http://dx.doi.org/10.1787/5jln7vnpxs32-en">.</ref>
-                        <lb/>
-                        <hi rend="bold">Hochschulrektorenkonferenz (HRK) (Hg.)</hi> (2014): Management von Forschungsdaten als strategische Aufgabe der Hochschulleitungen, 14. Mai 2014, URL: 
-                        <ref target="https://www.hrk.de/positionen/beschluss/detail/management-von-forschungsdaten-eine-zentrale-strategische-herausforderung-fuer-hochschulleitungen/">
-                            <hi rend="underline">https://www.hrk.de/positionen/beschluss/detail/management-von-forschungsdaten-eine-zentrale-strategische-herausforderung-fuer-hochschulleitungen/</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__705">OECD (Hg.) (2007): OECD Principles and Guidelines for Access to Research Data from Public Funding, Paris 2007, URL: http://www.oecd.org/sti/sci-tech/38500813.pdf [letzter Zugriff 22. September 2017]. OECD (Hg.) (2016):, "Research Ethics and New Forms of Data for Social and Economic Research", OECD Science, Technology and Industry Policy Papers, No. 34, OECD Publishing, Paris, URL: http://dx.doi.org/10.1787/5jln7vnpxs32-en [letzter Zugriff 22. September 2017] . Hochschulrektorenkonferenz (HRK) (Hg.) (2014): Management von Forschungsdaten als strategische Aufgabe der Hochschulleitungen, 14. Mai 2014, URL: https://www.hrk.de/positionen/beschluss/detail/management-von-forschungsdaten-eine-zentrale-strategische-herausforderung-fuer-hochschulleitungen/ [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__8"><rs type="bibl" ref="#bibl__6"><hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.)</hi> (2016): Leistung aus Vielfalt, Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen, URL: 
-                        <ref target="http://www.rfii.de/de/category/dokumente/">
-                            <hi rend="underline">http://www.rfii.de/de/category/dokumente/</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__8">Rat für Informationsinfrastrukturen (RfII) (Hg.) (2016): Leistung aus Vielfalt, Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen, URL: http://www.rfii.de/de/category/dokumente/ [letzter Zugriff 22. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__706"><rs type="bibl" ref="#bibl__612"><hi rend="bold">Rat für Informationsinfrastrukturen (RfII) (Hg.) </hi>(2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls zur Zielstellung und Voraussetzungen für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), URL: 
-                        <ref target="http://www.rfii.de/de/category/dokumente/">
-                            <hi rend="underline">http://www.rfii.de/de/category/dokumente/</hi>
-                        </ref> [letzter Zugriff 22. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__706">Rat für Informationsinfrastrukturen (RfII) (Hg.) (2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls zur Zielstellung und Voraussetzungen für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), URL: http://www.rfii.de/de/category/dokumente/ [letzter Zugriff 22. September 2017].</rs></bibl>
                 </listBibl>
             </div>
       </back>

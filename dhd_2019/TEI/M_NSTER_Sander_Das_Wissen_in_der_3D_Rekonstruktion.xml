@@ -125,66 +125,42 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl rend="EndNote Bibliography">ADAMS, J. L. &amp; GUNN, K. B. 2013. Keeping Up With...Digital Humanities. 
-                        <rs type="bibl" ref="#bibl__3943"><rs type="bibl" ref="#bibl__2714"><hi rend="italic" xml:space="preserve">American Library Association </hi>[Online], April 5, 2013.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3943">ADAMS, J. L. &amp; GUNN, K. B. 2013. Keeping Up With...Digital Humanities. American Library Association [Online], April 5, 2013.</rs></bibl>
                     <bibl rend="EndNote Bibliography">BRUSCHKE, J. &amp; WACKER, M. 2016. Simplifying the documentation of digital reconstruction processes. Introducing an interactive documentation system. 
-                        <rs type="bibl" ref="#bibl__3944"><rs type="bibl" ref="#bibl__2715"><hi rend="italic">In:</hi> MÜNSTER, S., PFARR-HARFST, M., KUROCZYŃSKI, P. &amp; IOANNIDES, M. (eds.) 
-                        <hi rend="italic">3D Research Challenges in Cultural Heritage II.</hi> Cham: Springer LNCS.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3944">BRUSCHKE, J. &amp; WACKER, M. 2016. Simplifying the documentation of digital reconstruction processes. Introducing an interactive documentation system. In: MÜNSTER, S., PFARR-HARFST, M., KUROCZYŃSKI, P. &amp; IOANNIDES, M. (eds.) 3D Research Challenges in Cultural Heritage II. Cham: Springer LNCS.</rs></bibl>
                     <bibl rend="EndNote Bibliography">CLARKE, J. R. 2016. 3D Model, Linked Database, and Born-Digital E-Book: An Ideal Approach to Archaeological Research and Publication. 
-                        <rs type="bibl" ref="#bibl__3945"><rs type="bibl" ref="#bibl__2716"><hi rend="italic">In:</hi> MÜNSTER, S., PFARR-HARFST, M., KUROCZYŃSKI, P. &amp; IOANNIDES, M. (eds.) 
-                        <hi rend="italic">3D Research Challenges in Cultural Heritage II.</hi> Cham: Springer International Publishing.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3945">CLARKE, J. R. 2016. 3D Model, Linked Database, and Born-Digital E-Book: An Ideal Approach to Archaeological Research and Publication. In: MÜNSTER, S., PFARR-HARFST, M., KUROCZYŃSKI, P. &amp; IOANNIDES, M. (eds.) 3D Research Challenges in Cultural Heritage II. Cham: Springer International Publishing.</rs></bibl>
                     <bibl rend="EndNote Bibliography">DE SOLLA PRICE, D. 1963. 
-                        <rs type="bibl" ref="#bibl__3946"><rs type="bibl" ref="#bibl__2717"><hi rend="italic" xml:space="preserve">Little Science - Big Science, </hi>New York, Columbia Univ. Press.
-                    </rs></rs></bibl>
-                    <bibl rend="EndNote Bibliography">FRICKÉ, M. 2018. Knowledge pyramid.<rs type="bibl" ref="#bibl__3947"><rs type="bibl" ref="#bibl__2718"/></rs></bibl>
-                    <bibl rend="EndNote Bibliography">FRISCHER, B., ABERNATHY, D., GUIDI, G., MYERS, J., THIBODEAU, C., SALVEMINI, A. &amp; MINOR, B. Rome Reborn. ACM SIGGRAPH 2008 new tech demos on - SIGGRAPH ’08 2008 Los Angeles, California. ACM Press.<rs type="bibl" ref="#bibl__3948"><rs type="bibl" ref="#bibl__2719"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3946">DE SOLLA PRICE, D. 1963. Little Science - Big Science, New York, Columbia Univ. Press.</rs></bibl>
+                    <bibl rend="EndNote Bibliography">FRICKÉ, M. 2018. Knowledge pyramid.<rs type="bibl" ref="#bibl__3947">FRICKÉ, M. 2018. Knowledge pyramid.</rs></bibl>
+                    <bibl rend="EndNote Bibliography">FRISCHER, B., ABERNATHY, D., GUIDI, G., MYERS, J., THIBODEAU, C., SALVEMINI, A. &amp; MINOR, B. Rome Reborn. ACM SIGGRAPH 2008 new tech demos on - SIGGRAPH ’08 2008 Los Angeles, California. ACM Press.<rs type="bibl" ref="#bibl__3948">FRISCHER, B., ABERNATHY, D., GUIDI, G., MYERS, J., THIBODEAU, C., SALVEMINI, A. &amp; MINOR, B. Rome Reborn. ACM SIGGRAPH 2008 new tech demos on - SIGGRAPH ’08 2008 Los Angeles, California. ACM Press.</rs></bibl>
                     <bibl rend="EndNote Bibliography">HARARI, Y. N. 2017. 
-                        <rs type="bibl" ref="#bibl__3949"><rs type="bibl" ref="#bibl__2720"><hi rend="italic">Homo Deus: A Brief History of Tomorrow</hi>, Vintage Penguin Random House.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3949">HARARI, Y. N. 2017. Homo Deus: A Brief History of Tomorrow, Vintage Penguin Random House.</rs></bibl>
                     <bibl rend="EndNote Bibliography">HESSELS, L. K. &amp; LENTE, H. V. 2007. 
-                        <rs type="bibl" ref="#bibl__3950"><rs type="bibl" ref="#bibl__2721"><hi rend="italic" xml:space="preserve">Re-thinking new knowledge production: A literature review and a research agenda, </hi>Utrecht, Utrecht University.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3950">HESSELS, L. K. &amp; LENTE, H. V. 2007. Re-thinking new knowledge production: A literature review and a research agenda, Utrecht, Utrecht University.</rs></bibl>
                     <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P., GRELLERT, M., HAUCK, O., MÜNSTER, S., PFARR-HARFST, M. &amp; SCHOLZ, M. 2015. Digitale Rekonstruktion und aktuelle Herausforderungen (Panel). 
-                        <rs type="bibl" ref="#bibl__104"><rs type="bibl" ref="#bibl__76"><hi rend="italic">2. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2015).</hi> Graz.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__104">KUROCZYŃSKI, P., GRELLERT, M., HAUCK, O., MÜNSTER, S., PFARR-HARFST, M. &amp; SCHOLZ, M. 2015. Digitale Rekonstruktion und aktuelle Herausforderungen (Panel). 2. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2015). Graz.</rs></bibl>
                     <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P., HAUCK, O. &amp; DWORAK, D. 2016a. 3D models on triple paths – New pathways for documenting and visualising virtual reconstructions. 
-                        <rs type="bibl" ref="#bibl__3951"><rs type="bibl" ref="#bibl__2722"><hi rend="italic">In:</hi> MÜNSTER, S., PFARR-HARFST, M., KUROCZYŃSKI, P. &amp; IOANNIDES, M. (eds.) 
-                        <hi rend="italic">3D Research Challenges in Cultural Heritage II.</hi> Cham: Springer LNCS.
-                    </rs></rs></bibl>
-                    <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P., HAUCK, O., HOPPE, S., MÜNSTER, S. &amp; PFARR-HARFST, M. 2016b. Der Modelle Tugend 2.0 – Vom digitalen 3D-Datensatz zum wissenschaftlichen Informationsmodell.<rs type="bibl" ref="#bibl__105"><rs type="bibl" ref="#bibl__77"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3951">KUROCZYŃSKI, P., HAUCK, O. &amp; DWORAK, D. 2016a. 3D models on triple paths – New pathways for documenting and visualising virtual reconstructions. In: MÜNSTER, S., PFARR-HARFST, M., KUROCZYŃSKI, P. &amp; IOANNIDES, M. (eds.) 3D Research Challenges in Cultural Heritage II. Cham: Springer LNCS.</rs></bibl>
+                    <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P., HAUCK, O., HOPPE, S., MÜNSTER, S. &amp; PFARR-HARFST, M. 2016b. Der Modelle Tugend 2.0 – Vom digitalen 3D-Datensatz zum wissenschaftlichen Informationsmodell.<rs type="bibl" ref="#bibl__105">KUROCZYŃSKI, P., HAUCK, O., HOPPE, S., MÜNSTER, S. &amp; PFARR-HARFST, M. 2016b. Der Modelle Tugend 2.0 – Vom digitalen 3D-Datensatz zum wissenschaftlichen Informationsmodell.</rs></bibl>
                     <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P., PFARR-HARFST, M., WACKER, M., MÜNSTER, S. &amp; HENZE, F. 2014. Pecha Kucha "Virtuelle Rekonstruktion – Allgemeine Standards, Methodik und Dokumentation" (Panel). 
-                        <rs type="bibl" ref="#bibl__106"><rs type="bibl" ref="#bibl__78"><hi rend="italic">1. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2014).</hi> Passau.
-                    </rs></rs></bibl>
-                    <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P. &amp; SCHELBERT, G. 2017. 3D Digital Heritage – Exploring Virtual Research Space for Art History [Website zur Konferenz].<rs type="bibl" ref="#bibl__3952"><rs type="bibl" ref="#bibl__2723"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__106">KUROCZYŃSKI, P., PFARR-HARFST, M., WACKER, M., MÜNSTER, S. &amp; HENZE, F. 2014. Pecha Kucha "Virtuelle Rekonstruktion – Allgemeine Standards, Methodik und Dokumentation" (Panel). 1. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2014). Passau.</rs></bibl>
+                    <bibl rend="EndNote Bibliography">KUROCZYŃSKI, P. &amp; SCHELBERT, G. 2017. 3D Digital Heritage – Exploring Virtual Research Space for Art History [Website zur Konferenz].<rs type="bibl" ref="#bibl__3952">KUROCZYŃSKI, P. &amp; SCHELBERT, G. 2017. 3D Digital Heritage – Exploring Virtual Research Space for Art History [Website zur Konferenz].</rs></bibl>
                     <bibl rend="EndNote Bibliography">LONG, M. P. &amp; SCHONFELD, R. C. 2014. 
-                        <rs type="bibl" ref="#bibl__3953"><rs type="bibl" ref="#bibl__2724"><hi rend="italic">Supporting the Changing Research Practices of Art Historians</hi>, Ithaka S+R.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3953">LONG, M. P. &amp; SCHONFELD, R. C. 2014. Supporting the Changing Research Practices of Art Historians, Ithaka S+R.</rs></bibl>
                     <bibl rend="EndNote Bibliography">MESSEMER, H. 2016. The Beginnings of Digital Visualisation of Historical Architecture in the Academic Field. 
-                        <rs type="bibl" ref="#bibl__278"><rs type="bibl" ref="#bibl__172"><hi rend="italic">In:</hi> Hoppe, S., Breitling, S. (ed.) 
-                        <hi rend="italic">Virtual Palaces, Part II. Lost Palaces and their Afterlife. Virtual Reconstruction between Science and Media</hi>. (= PALATIUM 
-                        <hi rend="italic">e</hi>-Publications 3) München, 21-54.
-                    </rs></rs></bibl>
-                    <bibl rend="EndNote Bibliography">MESSEMER, H. 2018. Entwicklung und Potentiale digitaler 3D-Modelle historischer Architektur – Kontextualisierung und Analyse aus kunsthistorischer Perspektive. Dissertation, Ludwig-Maximilians-Universität München (unveröffentlicht).<rs type="bibl" ref="#bibl__282"><rs type="bibl" ref="#bibl__176"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__278">MESSEMER, H. 2016. The Beginnings of Digital Visualisation of Historical Architecture in the Academic Field. In: Hoppe, S., Breitling, S. (ed.) Virtual Palaces, Part II. Lost Palaces and their Afterlife. Virtual Reconstruction between Science and Media. (= PALATIUM e-Publications 3) München, 21-54.</rs></bibl>
+                    <bibl rend="EndNote Bibliography">MESSEMER, H. 2018. Entwicklung und Potentiale digitaler 3D-Modelle historischer Architektur – Kontextualisierung und Analyse aus kunsthistorischer Perspektive. Dissertation, Ludwig-Maximilians-Universität München (unveröffentlicht).<rs type="bibl" ref="#bibl__282">MESSEMER, H. 2018. Entwicklung und Potentiale digitaler 3D-Modelle historischer Architektur – Kontextualisierung und Analyse aus kunsthistorischer Perspektive. Dissertation, Ludwig-Maximilians-Universität München (unveröffentlicht).</rs></bibl>
                     <bibl rend="EndNote Bibliography">MÜNSTER, S., JAHN, P.-H. &amp; WACKER, M. 2017. Von Plan- und Bildquellen zum virtuellen Gebäudemodell. Zur Bedeutung der Bildlichkeit für die digitale 3D-Rekonstruktion historischer Architektur. 
-                        <rs type="bibl" ref="#bibl__92"><rs type="bibl" ref="#bibl__72"><hi rend="italic">In:</hi> AMMON, S. &amp; HINTERWALDNER, I. (eds.) 
-                        <hi rend="italic">Bildlichkeit im Zeitalter der Modellierung. Operative Artefakte in Entwurfsprozessen der Architektur und des Ingenieurwesens.</hi> München: Wilhelm Fink Verlag.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__92">MÜNSTER, S., JAHN, P.-H. &amp; WACKER, M. 2017. Von Plan- und Bildquellen zum virtuellen Gebäudemodell. Zur Bedeutung der Bildlichkeit für die digitale 3D-Rekonstruktion historischer Architektur. In: AMMON, S. &amp; HINTERWALDNER, I. (eds.) Bildlichkeit im Zeitalter der Modellierung. Operative Artefakte in Entwurfsprozessen der Architektur und des Ingenieurwesens. München: Wilhelm Fink Verlag.</rs></bibl>
                     <bibl rend="EndNote Bibliography">MÜNSTER, S. &amp; TERRAS, M. accepted paper. The visual side of digital humanities. A survey on topics, researchers and epistemic cultures in visual digital humanities. 
-                        <rs type="bibl" ref="#bibl__3954"><rs type="bibl" ref="#bibl__2725"><hi rend="italic">Digital Scholarship in the Humanities</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3954">MÜNSTER, S. &amp; TERRAS, M. accepted paper. The visual side of digital humanities. A survey on topics, researchers and epistemic cultures in visual digital humanities. Digital Scholarship in the Humanities.</rs></bibl>
                     <bibl rend="EndNote Bibliography">NIEBLING, F., MÜNSTER, S., FRIEDRICHS, K., HENZE, F., KRÖBER, C. &amp; BRUSCHKE, J. 2017. Zugänglichkeit und dauerhafte Nutzbarkeit historischer Bildrepositorien für Forschung und Vermittlung (Panel). 
-                        <rs type="bibl" ref="#bibl__3955"><rs type="bibl" ref="#bibl__2726"><hi rend="italic">In:</hi> STOLZ, M. (ed.) 
-                        <hi rend="italic">4. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2017).</hi> Bern.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3955">NIEBLING, F., MÜNSTER, S., FRIEDRICHS, K., HENZE, F., KRÖBER, C. &amp; BRUSCHKE, J. 2017. Zugänglichkeit und dauerhafte Nutzbarkeit historischer Bildrepositorien für Forschung und Vermittlung (Panel). In: STOLZ, M. (ed.) 4. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2017). Bern.</rs></bibl>
                     <bibl rend="EndNote Bibliography">NOWOTNY, H., SCOTT, P. &amp; GIBBONS, M. 2003. Introduction. 
-                        <rs type="bibl" ref="#bibl__3956"><rs type="bibl" ref="#bibl__2727"><hi rend="italic">Minerva,</hi> 41
-                        <hi rend="bold">,</hi> 179–194.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3956">NOWOTNY, H., SCOTT, P. &amp; GIBBONS, M. 2003. Introduction. Minerva, 41 , 179–194.</rs></bibl>
                     <bibl rend="EndNote Bibliography">SNYDER, L. M. 2014. VSim: Scholarly Annotations in Real-Time 3D Environments. 
-                        <rs type="bibl" ref="#bibl__3957"><rs type="bibl" ref="#bibl__2728"><hi rend="italic">DH-CASE II: Collaborative Annotations on Shared Environments: metadata, tools and techniques in the Digital Humanities - DH-CASE ’14.</hi> Fort Collins, CA, USA: ACM Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3957">SNYDER, L. M. 2014. VSim: Scholarly Annotations in Real-Time 3D Environments. DH-CASE II: Collaborative Annotations on Shared Environments: metadata, tools and techniques in the Digital Humanities - DH-CASE ’14. Fort Collins, CA, USA: ACM Press.</rs></bibl>
                 </listBibl>
             </div>
         </back>

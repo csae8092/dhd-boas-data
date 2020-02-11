@@ -146,29 +146,11 @@
           <listBibl>
             <head>Bibliographie</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__2807"><hi rend="bold">Feijen, Martin</hi> (2011): <hi rend="italic">What
-              researchers want</hi>. A literature study of researchers’ requirements
-              with respect to storage and access to research data. Utrecht: Surffoundation
-              <ref target="https://www.surf.nl/binaries/content/assets/surf/en/knowledgebase/2011/What_researchers_want.pdf">https://www.surf.nl/binaries/content/assets/surf/en/knowledgebase/2011/What_researchers_want.pdf</ref>
-                [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+              <rs type="bibl" ref="#bibl__2807">Feijen, Martin (2011): What researchers want. A literature study of researchers’ requirements with respect to storage and access to research data. Utrecht: Surffoundation https://www.surf.nl/binaries/content/assets/surf/en/knowledgebase/2011/What_researchers_want.pdf [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__2808"><hi rend="bold">HDC</hi> (2014-2016): <hi rend="italic">HDC - Projekt
-                  Humanities Data Centre</hi>. Gesellschaft für wissenschaftliche
-                  Datenverarbeitung Göttingen / Akademie der Wissenschaften zu Göttingen /
-                  Berlin-Brandenburgische Akademie der Wissenschaften / Max-Planck-Institut
-                  zur Erforschung multireligiöser und multiethnischer Gesellschaften /
-                  Niedersächsische Staats- und Universitätsbibliothek Göttingen /
-                  Konrad-Zuse-Zentrum für Informationstechnik / Max-Planck-Institut für
-                  Wissenschaftsgeschichte <ref target="http://humanities-data-centre.org/">http://humanities-data-centre.org/</ref> [letzter Zugriff 08. Januar
-                  2016]. </rs></bibl>
+                  <rs type="bibl" ref="#bibl__2808">HDC (2014-2016): HDC - Projekt Humanities Data Centre. Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen / Akademie der Wissenschaften zu Göttingen / Berlin-Brandenburgische Akademie der Wissenschaften / Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften / Niedersächsische Staats- und Universitätsbibliothek Göttingen / Konrad-Zuse-Zentrum für Informationstechnik / Max-Planck-Institut für Wissenschaftsgeschichte http://humanities-data-centre.org/ [letzter Zugriff 08. Januar 2016].</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2809"><hi rend="bold">Simukovic, Elena / Kindling, Maxi / Schirmbacher, Peter</hi>
-                    (2013): <hi rend="italic">Umfrage zum Umgang mit digitalen Forschungsdaten
-                    an der Humboldt-Universität zu Berlin</hi>. Umfragebericht, Version 1.0.
-                    URN: urn:nbn:de:kobv:11-100213001, Computer- und Medienservice, Institut für
-                    Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin
-                    <ref target="http://nbn-resolving.de/urn:nbn:de:kobv:11-100213001">http://nbn-resolving.de/urn:nbn:de:kobv:11-100213001</ref> [letzter
-                      Zugriff 15. Oktober 2015]. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2809">Simukovic, Elena / Kindling, Maxi / Schirmbacher, Peter (2013): Umfrage zum Umgang mit digitalen Forschungsdaten an der Humboldt-Universität zu Berlin. Umfragebericht, Version 1.0. URN: urn:nbn:de:kobv:11-100213001, Computer- und Medienservice, Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin http://nbn-resolving.de/urn:nbn:de:kobv:11-100213001 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                     </listBibl>
                   </div>
                 </back>

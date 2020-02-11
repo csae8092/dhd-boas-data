@@ -286,31 +286,14 @@
                                 <listBibl>
                                   <head>Bibliographie</head>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__126"><hi rend="bold">Blei, David / Ng, Andrew Y. / Jordan, Michael I.</hi>
-                                    (2003): „Latent Dirichlet Allocation“, in: <hi rend="italic">Journal of
-                                    Machine Learning Research</hi> 3: 993–1022. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__161"><hi rend="bold">Eder, Maciej / Kestemont, Mike / Rybicki, Jan</hi> (2013):
-                                    „Stylometry with R: a suite of tools“, in: <hi rend="italic">Digital
-                                    Humanities 2013 Conference Abstracts</hi> 487-89. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__2624"><hi rend="bold">Jannidis, Fotis</hi> (2014): „Der Autor ganz nah.
-                                    Autorstil in Stilistik und Stilometrie“, in: Schaffrick, Matthias / Marcus
-                                    Willand (eds.): <hi rend="italic">Theorien und Praktiken der
-                                    Autorschaft</hi>. Berlin: De Gruyter 169-195. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__53"><hi rend="bold">Mahlow, Cerstin / Eckart, Kerstin / Stegmann, Jens /
-                                      Blessing, Andre / Thiele, Gregor / Gärtner, Markus / Kuhn, Jonas</hi>
-                                      (2014): „Resources, Tools, and Applications at the CLARIN Center Stuttgart“,
-                                      in: <hi rend="italic">Akten der 12. Konferenz zur Verarbeitung natürlicher
-                                      Sprache (KONVENS 2014)</hi> 11-21. </rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__135"><hi rend="bold">Moretti, Franco</hi> (2011): <hi rend="italic">Network
-                                      Theory, Plot Analysis</hi>. LiteraryLab Pamphlet 2: <ref target="http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf">http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf</ref> [letzter
-                                      Zugriff 20. August 2014]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__126">Blei, David / Ng, Andrew Y. / Jordan, Michael I. (2003): „Latent Dirichlet Allocation“, in: Journal of Machine Learning Research 3: 993–1022.</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__161">Eder, Maciej / Kestemont, Mike / Rybicki, Jan (2013): „Stylometry with R: a suite of tools“, in: Digital Humanities 2013 Conference Abstracts 487-89.</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2624">Jannidis, Fotis (2014): „Der Autor ganz nah. Autorstil in Stilistik und Stilometrie“, in: Schaffrick, Matthias / Marcus Willand (eds.): Theorien und Praktiken der Autorschaft. Berlin: De Gruyter 169-195.</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__53">Mahlow, Cerstin / Eckart, Kerstin / Stegmann, Jens / Blessing, Andre / Thiele, Gregor / Gärtner, Markus / Kuhn, Jonas (2014): „Resources, Tools, and Applications at the CLARIN Center Stuttgart“, in: Akten der 12. Konferenz zur Verarbeitung natürlicher Sprache (KONVENS 2014) 11-21.</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__135">Moretti, Franco (2011): Network Theory, Plot Analysis. LiteraryLab Pamphlet 2: http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf [letzter Zugriff 20. August 2014].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__137"><hi rend="bold">Manning, Christopher D / Raghavan, Prabhakar / Schütze,
-                                          Hinrich</hi> (2008): <hi rend="italic">Introduction to Information
-                                          Retrieval</hi>. Cambridge: Cambridge University Press. </rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2625"><hi rend="bold">Trilcke, Peer / Fischer, Frank / Kampkaspar, Dario</hi>
-                                          (2015): „Digital Network Analysis of Dramatic“, in: <hi rend="italic">Digital Humanities 2015 Conference Abstracts</hi>: <ref target="http://dh2015.org/abstracts/xml/FISCHER_Frank_Digital_Network_Analysis_of_Dramati/FISCHER_Frank_Digital_Network_Analysis_of_Dramatic_Text.xml">http://dh2015.org/abstracts/xml/FISCHER_Frank_Digital_Network_Analysis_of_ Dramati/FISCHER_Frank_Digital_Network_ Analysis_of_Dramatic _Text.xml</ref>
-                                          [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__137">Manning, Christopher D / Raghavan, Prabhakar / Schütze, Hinrich (2008): Introduction to Information Retrieval. Cambridge: Cambridge University Press.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2625">Trilcke, Peer / Fischer, Frank / Kampkaspar, Dario (2015): „Digital Network Analysis of Dramatic“, in: Digital Humanities 2015 Conference Abstracts: http://dh2015.org/abstracts/xml/FISCHER_Frank_Digital_Network_Analysis_of_ Dramati/FISCHER_Frank_Digital_Network_ Analysis_of_Dramatic _Text.xml [letzter Zugriff 16. Februar 2016].</rs></bibl>
                                         </listBibl>
                                       </div>
                                     </back>

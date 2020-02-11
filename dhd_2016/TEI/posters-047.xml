@@ -205,92 +205,41 @@
                 <listBibl>
                   <head>Bibliographie</head>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2228"><hi rend="bold">Ausubel, David P.</hi> (1960): "The use of advance
-                    organizers in the learning and retention of meaningful verbal material", in:
-                    <hi rend="italic">Journal of Educational Psychology</hi> 51: 267-272. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2228">Ausubel, David P. (1960): "The use of advance organizers in the learning and retention of meaningful verbal material", in: Journal of Educational Psychology 51: 267-272.</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2229"><hi rend="bold">Bach, Benjamin / Dragicevic, Pierre / Archambault, Daniel /
-                        Hurter, Christophe / Carpendale, Sheelagh</hi> (2014): "A Review of
-                        Temporal Data Visualizations Based on Space-Time Cube Operations.", in: <hi rend="italic">EuroVis-STARs</hi>: The Eurographics Association 23–41. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2229">Bach, Benjamin / Dragicevic, Pierre / Archambault, Daniel / Hurter, Christophe / Carpendale, Sheelagh (2014): "A Review of Temporal Data Visualizations Based on Space-Time Cube Operations.", in: EuroVis-STARs: The Eurographics Association 23–41.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2230"><hi rend="bold">Collins, Christopher M. / Carpendale, Sheelagh</hi> (2007):
-                          "VisLink: Revealing relationships amongst visualizations", in: <hi rend="italic">Visualization and Computer Graphics, IEEE Transactions
-                          on</hi> 13, 6: 1192-1199. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2230">Collins, Christopher M. / Carpendale, Sheelagh (2007): "VisLink: Revealing relationships amongst visualizations", in: Visualization and Computer Graphics, IEEE Transactions on 13, 6: 1192-1199.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2231"><hi rend="bold">Federico, Paolo / Aigner, Wolfgang / Miksch, Silvia /
-                              Windhager, Florian / Zenk, Lukas</hi> (2011): "A Visual Analytics
-                              Approach to Dynamic Social Networks", in: Lindstaedt, Stefanie / Granitzer,
-                              Michael (eds.): <hi rend="italic">Proceedings of the 11th International
-                              Conference on Knowledge Management and Knowledge Technologies (i-KNOW),
-                              Special Track on Theory and Applications of Visual Analytics (TAVA),
-                              Graz 2011</hi>. New York: ACM 47: 1–47: 8. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__2231">Federico, Paolo / Aigner, Wolfgang / Miksch, Silvia / Windhager, Florian / Zenk, Lukas (2011): "A Visual Analytics Approach to Dynamic Social Networks", in: Lindstaedt, Stefanie / Granitzer, Michael (eds.): Proceedings of the 11th International Conference on Knowledge Management and Knowledge Technologies (i-KNOW), Special Track on Theory and Applications of Visual Analytics (TAVA), Graz 2011. New York: ACM 47: 1–47: 8.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2232"><hi rend="bold">Freire, Manuel / Rodríguez, Pilar</hi> (2006): "Preserving
-                                the mental map in interactive graph interfaces", in: <hi rend="italic">Proceedings of the working conference on Advanced visual
-                                interfaces</hi>. New York: ACM 270–273. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2232">Freire, Manuel / Rodríguez, Pilar (2006): "Preserving the mental map in interactive graph interfaces", in: Proceedings of the working conference on Advanced visual interfaces. New York: ACM 270–273.</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2233"><hi rend="bold">Jänicke, Stefan / Franzini, Greta / Cheema, Muhammad Faisal
-                                    / Scheuermann, Gerik</hi> (2015): "On Close and Distant Reading in
-                                    Digital Humanities: A Survey and Future Challenges", in: <hi rend="italic">EuroVis-STARs</hi>. The Eurographics Association.</rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2233">Jänicke, Stefan / Franzini, Greta / Cheema, Muhammad Faisal / Scheuermann, Gerik (2015): "On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges", in: EuroVis-STARs. The Eurographics Association.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2234"><hi rend="bold">Johnson-Laird, Philip N.</hi> (1980): "Mental models in
-                                      cognitive science", in: <hi rend="italic">Cognitive science</hi> 4, 1:
-                                      71-115. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2234">Johnson-Laird, Philip N. (1980): "Mental models in cognitive science", in: Cognitive science 4, 1: 71-115.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2235"><hi rend="bold">Liu, Zhicheng / Nersessian, Nancy J. / Stasko, John T.</hi>
-                                        (2008): "Distributed cognition as a theoretical framework for information
-                                        visualization", in: <hi rend="italic">Visualization and Computer Graphics,
-                                        IEEE Transactions on</hi> 14, 6: 1173–1180. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2235">Liu, Zhicheng / Nersessian, Nancy J. / Stasko, John T. (2008): "Distributed cognition as a theoretical framework for information visualization", in: Visualization and Computer Graphics, IEEE Transactions on 14, 6: 1173–1180.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2236"><hi rend="bold">Patterson, Robert E. / Blaha, Leslie M. / Grinstein, Georges
-                                            G. / Liggett, Kristen K. / Kaveney, David E. / Sheldon, Kathleen C. /
-                                            Haviga, Paul R. / Moore, Jason A.</hi> (2014): "A human cognition
-                                            framework for information visualization", in: <hi rend="italic">Computers
-                                            &amp; Graphics</hi> 42: 42–58. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2236">Patterson, Robert E. / Blaha, Leslie M. / Grinstein, Georges G. / Liggett, Kristen K. / Kaveney, David E. / Sheldon, Kathleen C. / Haviga, Paul R. / Moore, Jason A. (2014): "A human cognition framework for information visualization", in: Computers &amp; Graphics 42: 42–58.</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2237"><hi rend="bold">Roberts, Jonathan C.</hi> (2007): "State of the art:
-                                              Coordinated &amp; multiple views in exploratory visualization", in: <hi rend="italic">Coordinated and Multiple Views in Exploratory
-                                              Visualization, 2007. CMV’07. Fifth International Conference on</hi>
-                                              IEEE: 61–71. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2237">Roberts, Jonathan C. (2007): "State of the art: Coordinated &amp; multiple views in exploratory visualization", in: Coordinated and Multiple Views in Exploratory Visualization, 2007. CMV’07. Fifth International Conference on IEEE: 61–71.</rs></bibl>
                                               <bibl>
-                                                <rs type="bibl" ref="#bibl__2238"><hi rend="bold">Scaife, Mike / Rogers, Yvonne</hi> (1996): "External
-                                                cognition: how do graphical representations work?", in: <hi rend="italic">International Journal of Human-Computer Studies</hi> 45, 2: 185–213. </rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2238">Scaife, Mike / Rogers, Yvonne (1996): "External cognition: how do graphical representations work?", in: International Journal of Human-Computer Studies 45, 2: 185–213.</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2239"><hi rend="bold">Sedlmair, Michael / Ruhland, Kerstin / Hennecke, Fabian /
-                                                    Butz, Andreas / Bioletti, Susan / O’Sullivan, Carol</hi> (2009):
-                                                    "Towards the big picture: Enriching 3d models with information visualisation
-                                                    and vice versa", in: <hi rend="italic">Proceedings of the 9th International
-                                                    Symposium on Smart Graphics, SG 2009, Salamanca, Spain, May 28-30,
-                                                    2009</hi>. Berlin / Heidelberg: Springer 27–39. </rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2239">Sedlmair, Michael / Ruhland, Kerstin / Hennecke, Fabian / Butz, Andreas / Bioletti, Susan / O’Sullivan, Carol (2009): "Towards the big picture: Enriching 3d models with information visualisation and vice versa", in: Proceedings of the 9th International Symposium on Smart Graphics, SG 2009, Salamanca, Spain, May 28-30, 2009. Berlin / Heidelberg: Springer 27–39.</rs></bibl>
                                                     <bibl>
-                                                      <rs type="bibl" ref="#bibl__2240"><hi rend="bold">Segel, Edward / Heer, Jeffrey</hi> (2010): "Narrative
-                                                      visualization: Telling stories with data", in: <hi rend="italic">Visualization and Computer Graphics, IEEE Transactions on</hi> 16, 6:
-                                                      1139-1148. </rs></bibl>
+                                                      <rs type="bibl" ref="#bibl__2240">Segel, Edward / Heer, Jeffrey (2010): "Narrative visualization: Telling stories with data", in: Visualization and Computer Graphics, IEEE Transactions on 16, 6: 1139-1148.</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2241"><hi rend="bold">Sula, Chris A.</hi> (2013): "Quantifying Culture: Four Types
-                                                        of Value in Visualisation", in: Bowen, Jonathan / Suzanne Keene / Ng, Kia
-                                                        (eds.): <hi rend="italic">Electronic Visualisation in Arts and Culture</hi>.
-                                                        London: Springer 25–37. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2241">Sula, Chris A. (2013): "Quantifying Culture: Four Types of Value in Visualisation", in: Bowen, Jonathan / Suzanne Keene / Ng, Kia (eds.): Electronic Visualisation in Arts and Culture. London: Springer 25–37.</rs></bibl>
                                                         <bibl>
-                                                          <rs type="bibl" ref="#bibl__2242"><hi rend="bold">Swaab, Roderick I. / Postmes, Tom / Neijens, Peter / Kiers,
-                                                            Marius H. / Dumay, Adrie C. </hi>(2002): "Multiparty negotiation
-                                                            support: The role of visualization’s influence on the development of shared
-                                                            mental models", in: <hi rend="italic">Journal of Management Information
-                                                            Systems</hi> 19, 1: 129-150. </rs></bibl>
+                                                          <rs type="bibl" ref="#bibl__2242">Swaab, Roderick I. / Postmes, Tom / Neijens, Peter / Kiers, Marius H. / Dumay, Adrie C. (2002): "Multiparty negotiation support: The role of visualization’s influence on the development of shared mental models", in: Journal of Management Information Systems 19, 1: 129-150.</rs></bibl>
                                                             <bibl>
-                                                              <rs type="bibl" ref="#bibl__2243"><hi rend="bold">Tversky, Barbara </hi>(1993): "Cognitive maps, cognitive
-                                                              collages, and spatial mental models", in: Frank, Andrew U. / Campari, Irene
-                                                              (eds.): <hi rend="italic">Spatial Information Theory</hi>. A Theoretical
-                                                              Basis for GIS. Berlin: Springer 14-24.</rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2243">Tversky, Barbara (1993): "Cognitive maps, cognitive collages, and spatial mental models", in: Frank, Andrew U. / Campari, Irene (eds.): Spatial Information Theory. A Theoretical Basis for GIS. Berlin: Springer 14-24.</rs></bibl>
                                                               <bibl>
-                                                                <rs type="bibl" ref="#bibl__2244"><hi rend="bold">Warnke, Martin / Kuper, Heinz-Günter / Helmers, Sabine
-                                                                </hi>(2007): "Hyperlmage. Bildorientierte e-Science-Netzwerke", in: <hi rend="italic">cms-Journal </hi>29, 80–84. </rs></bibl>
+                                                                <rs type="bibl" ref="#bibl__2244">Warnke, Martin / Kuper, Heinz-Günter / Helmers, Sabine (2007): "Hyperlmage. Bildorientierte e-Science-Netzwerke", in: cms-Journal 29, 80–84.</rs></bibl>
                                                                 <bibl>
-                                                                  <rs type="bibl" ref="#bibl__2245"><hi rend="bold">Windhager, Florian</hi> (2013): "On Polycubism. Outlining a
-                                                                  Dynamic Information Visualization Framework for the Humanities and Social
-                                                                  Sciences", in: Fuellsack, Manfred (ed.): <hi rend="italic">Networking
-                                                                  Networks</hi>. Origins, Applications, Experiments. Wien: Turia + Kant.
-                                                                </rs></bibl>
+                                                                  <rs type="bibl" ref="#bibl__2245">Windhager, Florian (2013): "On Polycubism. Outlining a Dynamic Information Visualization Framework for the Humanities and Social Sciences", in: Fuellsack, Manfred (ed.): Networking Networks. Origins, Applications, Experiments. Wien: Turia + Kant.</rs></bibl>
                                                               </listBibl>
                                                             </div>
                                                           </back>

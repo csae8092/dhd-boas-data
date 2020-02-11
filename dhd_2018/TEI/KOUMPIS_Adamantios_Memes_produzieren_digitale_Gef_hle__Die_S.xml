@@ -268,33 +268,17 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1313"><rs type="bibl" ref="#bibl__1244"><hi rend="bold">Baccianella, S., Esuli, A., &amp; Sebastiani, F. </hi>(2010). 
-                        <hi rend="italic">SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining.</hi> LREC, Vol. 10, S. 2200-2204. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1314"><rs type="bibl" ref="#bibl__1245"><hi rend="bold">Brooke, J.; Tofiloski, M.; Taboada, M.</hi>: Crosslinguistic sentiment analysis: From english to spanish. In: Proceedings of the 7th International Conference on Recent Advances in Natural Language Processing, Borovets, Bulgaria, 2009, S. 50–54.</rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1315"><rs type="bibl" ref="#bibl__1246"><hi rend="bold">Friedkin, N.E. &amp; Johnsen, E.C. </hi>(1990) 
-                        <hi rend="italic">Social influence and opinions</hi>. J. Math. Soc. 15. pp. 193 – 206. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1316"><rs type="bibl" ref="#bibl__1247"><hi rend="bold">Kennedy, A.; Inkpen, D.</hi>: Sentiment Classification of Movie and Product Reviews Using Contextual Valence Shifters. In: Computational Intelligence 22 (2006), Nr. 2, S. 110–125.</rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1317"><rs type="bibl" ref="#bibl__1248"><hi rend="bold">Liu, B. </hi>(2010):
-                        <hi rend="italic">„Sentiment Analysis: A Multifaceted Problem“. IEEE Intelligent Systems, </hi>S. 76-80. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1318"><rs type="bibl" ref="#bibl__1249"><hi rend="bold">Marx, K. &amp; Weidacher, G. </hi>(2014). 
-                        <hi rend="italic">Internetlinguistik. Ein Lehr- und Arbeitsbuch.</hi> Tübingen: Narr. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__167"><rs type="bibl" ref="#bibl__125"><hi rend="bold">Shifman, L. </hi>(2013). 
-                        <hi rend="italic">Memes in Digital Culture.</hi> MA: MIT Press. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1319"><rs type="bibl" ref="#bibl__1250"><hi rend="bold">Singh, T. und Kumari, M. </hi>(2016). 
-                        <hi rend="italic">Role of Text Pre-processing in Twitter Sentiment Analysis.</hi> Procedia Computer Science, 89, 549-554. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1320"><rs type="bibl" ref="#bibl__1251"><hi rend="bold">Spitzberg, B. H. </hi>(2014). 
-                        <hi rend="italic">Toward A Model of Meme Diffusion (M3D).</hi> Communication Theory 24. S. 311–339. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1321"><rs type="bibl" ref="#bibl__1252"><hi rend="bold">Wilson, T., Wiebe, J., &amp; Hoffmann, P. </hi>(2005). 
-                        <hi rend="italic">Recognizing contextual polarity in phrase-level sentiment analysis.</hi> In: Proceedings of the conference on human language technology and empirical methods in natural language processing. S. 347–354. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1322"><rs type="bibl" ref="#bibl__1253"><hi rend="bold">Zhang, L., et al. </hi>(2011). Combining Lexicon-based and Learning-based Methods for Twitter Sentiment Analysis. HP Laboratories, Technical Report HPL-2011-89. </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1313">Baccianella, S., Esuli, A., &amp; Sebastiani, F. (2010). SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining. LREC, Vol. 10, S. 2200-2204.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1314">Brooke, J.; Tofiloski, M.; Taboada, M.: Crosslinguistic sentiment analysis: From english to spanish. In: Proceedings of the 7th International Conference on Recent Advances in Natural Language Processing, Borovets, Bulgaria, 2009, S. 50–54.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1315">Friedkin, N.E. &amp; Johnsen, E.C. (1990) Social influence and opinions. J. Math. Soc. 15. pp. 193 – 206.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1316">Kennedy, A.; Inkpen, D.: Sentiment Classification of Movie and Product Reviews Using Contextual Valence Shifters. In: Computational Intelligence 22 (2006), Nr. 2, S. 110–125.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1317">Liu, B. (2010): „Sentiment Analysis: A Multifaceted Problem“. IEEE Intelligent Systems, S. 76-80.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1318">Marx, K. &amp; Weidacher, G. (2014). Internetlinguistik. Ein Lehr- und Arbeitsbuch. Tübingen: Narr.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__167">Shifman, L. (2013). Memes in Digital Culture. MA: MIT Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1319">Singh, T. und Kumari, M. (2016). Role of Text Pre-processing in Twitter Sentiment Analysis. Procedia Computer Science, 89, 549-554.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1320">Spitzberg, B. H. (2014). Toward A Model of Meme Diffusion (M3D). Communication Theory 24. S. 311–339.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1321">Wilson, T., Wiebe, J., &amp; Hoffmann, P. (2005). Recognizing contextual polarity in phrase-level sentiment analysis. In: Proceedings of the conference on human language technology and empirical methods in natural language processing. S. 347–354.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1322">Zhang, L., et al. (2011). Combining Lexicon-based and Learning-based Methods for Twitter Sentiment Analysis. HP Laboratories, Technical Report HPL-2011-89.</rs></bibl>
                 </listBibl>
             </div>
       </back>

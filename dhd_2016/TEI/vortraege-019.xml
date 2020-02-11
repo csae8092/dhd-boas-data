@@ -186,48 +186,19 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__1918"><hi rend="bold">Institut für Deutsche Sprache</hi> (2015): <hi rend="italic">COSMAS II</hi>
-                  <ref target="http://www.ids-mannheim.de/cosmas2/uebersicht.html">http://www.ids-mannheim.de/cosmas2/uebersicht.html</ref> [letzter
-                    Zugriff 22. Dezember 2015].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__145"><hi rend="bold">Berlin-Brandenburgische Akademie der Wissenschaften</hi>
-                    (2007-2015): <hi rend="italic">Deutsches Textarchiv</hi> (DTA) <ref target="http://www.deutschestextarchiv.de/">http://www.deutschestextarchiv.de/</ref> [letzter Zugriff 22. Dezember
-                    2015].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1919"><hi rend="bold">Gutenberg-DE-Projekt</hi>
-                    <ref target="http://gutenberg.spiegel.de/">http://gutenberg.spiegel.de/</ref> [letzter Zugriff 22. Dezember
-                      2015].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__1920"><hi rend="bold">Hartwig, Mela</hi> (2001 / 1931): <hi rend="italic">Bin
-                      ich ein überflüssiger Mensch?</hi> Wien: Droschl Graz Verlag. </rs></bibl>
-                      <bibl>Hartwig, Mela (2002 / 1929): <rs type="bibl" ref="#bibl__1921"><hi rend="italic">Das Weib ist ein
-                        Nichts</hi>. Wien: Droschl Graz Verlag.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1922"><hi rend="bold">Hartwig, Mela</hi> (2004 / 1928): "Das Verbrechen", "Der
-                        phantastische Paragraph","Aufzeichnungen einer Häßlichen", "Die Hexe", "Das
-                        Kind", "Die Kündigung", "Der Meineid", "Das Wunder von Ulm",
-                        "Georgslegende", in: Hartwig, Mela: <hi rend="italic">Das Verbrechen</hi>.
-                        Novellen und Erzählungen. Wien: Droschl Graz Verlag.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1923"><hi rend="bold">Internet Archive</hi>: <ref target="https://archive.org/">https://archive.org/</ref> [letzter Zugriff 22. Dezember 2015].</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1924"><hi rend="bold">McIntyre, Dan / Walker, Brian</hi> (2010): "How can
-                        corpora be used to explore the language of poetry and drama?", in: O'Keeffe,
-                        Anne / McCarthy, Michael (eds.): <hi rend="italic">The Routledge Handbook of
-                        Corpus Linguistics</hi>. London: Routledge 516-530.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1925"><hi rend="bold">Meyer, Urs</hi> (2007): "Stilanalyse", in: Anz, Thomas
-                        (ed.): <hi rend="italic">Handbuch Literaturwissenschaft</hi>. Band 2:
-                        Methoden und Theorien. Stuttgart / Weimar: J. B. Metzler 70-81.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1926"><hi rend="bold">Moretti, Franco</hi> (2013 / 2000): "Conjectures on World
-                        Literature", in: Moretti, Franco: <hi rend="italic">Distant Reading</hi>.
-                        London: Verso 43-62.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1927"><hi rend="bold">Otto, Gabriele E.</hi> (2009): <hi rend="italic">Weibliches Erzählen?</hi> Entwicklung der Erzählverfahren in Ingeborg
-                        Bachmanns Prosa. Würzburg: Königshausen &amp; Neumann.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__79"><hi rend="bold">Schöch, Christof</hi> (2014): "Corneille, Molière et les
-                        autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im
-                        französischen Theater der Klassik", in: Schöch, Christof / Schneider, Lars
-                        (eds.): <hi rend="italic">Literaturwissenschaft im digitalen
-                        Medienwandel</hi> (= Philologie im Netz Beiheft 7) 130-157 <ref target="http://web.fu-berlin.de/phin/beiheft7/b7t08.pdf">http://web.fu-berlin.de/phin/beiheft7/b7t08.pdf</ref> [letzter Zugriff
-                        25. Dezember 2015].</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1928"><hi rend="bold">Tuldava, Juhan</hi> (2008): "Stylistics, author
-                        identification (Stilistik und Autorenbestimmung)", in: Köhler, Reinhard /
-                        Altmann, Gabriel / Piotrowski, G. Rajm (eds.): <hi rend="italic">Quantitative Linguistik / Quantitative Linguistics</hi>. Ein
-                        internationales Handbuch / An International Handbook. Berlin / New York: de
-                        Gruyter 368-387.</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__1918">Institut für Deutsche Sprache (2015): COSMAS II http://www.ids-mannheim.de/cosmas2/uebersicht.html [letzter Zugriff 22. Dezember 2015].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__145">Berlin-Brandenburgische Akademie der Wissenschaften (2007-2015): Deutsches Textarchiv (DTA) http://www.deutschestextarchiv.de/ [letzter Zugriff 22. Dezember 2015].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1919">Gutenberg-DE-Projekt http://gutenberg.spiegel.de/ [letzter Zugriff 22. Dezember 2015].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__1920">Hartwig, Mela (2001 / 1931): Bin ich ein überflüssiger Mensch? Wien: Droschl Graz Verlag.</rs></bibl>
+                      <bibl>Hartwig, Mela (2002 / 1929): <rs type="bibl" ref="#bibl__1921">Hartwig, Mela (2002 / 1929): Das Weib ist ein Nichts. Wien: Droschl Graz Verlag.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1922">Hartwig, Mela (2004 / 1928): "Das Verbrechen", "Der phantastische Paragraph","Aufzeichnungen einer Häßlichen", "Die Hexe", "Das Kind", "Die Kündigung", "Der Meineid", "Das Wunder von Ulm", "Georgslegende", in: Hartwig, Mela: Das Verbrechen. Novellen und Erzählungen. Wien: Droschl Graz Verlag.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1923">Internet Archive: https://archive.org/ [letzter Zugriff 22. Dezember 2015].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1924">McIntyre, Dan / Walker, Brian (2010): "How can corpora be used to explore the language of poetry and drama?", in: O'Keeffe, Anne / McCarthy, Michael (eds.): The Routledge Handbook of Corpus Linguistics. London: Routledge 516-530.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1925">Meyer, Urs (2007): "Stilanalyse", in: Anz, Thomas (ed.): Handbuch Literaturwissenschaft. Band 2: Methoden und Theorien. Stuttgart / Weimar: J. B. Metzler 70-81.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1926">Moretti, Franco (2013 / 2000): "Conjectures on World Literature", in: Moretti, Franco: Distant Reading. London: Verso 43-62.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1927">Otto, Gabriele E. (2009): Weibliches Erzählen? Entwicklung der Erzählverfahren in Ingeborg Bachmanns Prosa. Würzburg: Königshausen &amp; Neumann.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__79">Schöch, Christof (2014): "Corneille, Molière et les autres. Stilometrische Analysen zu Autorschaft und Gattungszugehörigkeit im französischen Theater der Klassik", in: Schöch, Christof / Schneider, Lars (eds.): Literaturwissenschaft im digitalen Medienwandel (= Philologie im Netz Beiheft 7) 130-157 http://web.fu-berlin.de/phin/beiheft7/b7t08.pdf [letzter Zugriff 25. Dezember 2015].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1928">Tuldava, Juhan (2008): "Stylistics, author identification (Stilistik und Autorenbestimmung)", in: Köhler, Reinhard / Altmann, Gabriel / Piotrowski, G. Rajm (eds.): Quantitative Linguistik / Quantitative Linguistics. Ein internationales Handbuch / An International Handbook. Berlin / New York: de Gruyter 368-387.</rs></bibl>
                       </listBibl>
                     </div>
                   </back>

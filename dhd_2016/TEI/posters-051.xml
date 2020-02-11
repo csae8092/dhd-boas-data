@@ -207,52 +207,27 @@
                       <listBibl>
                         <head>Bibliographie</head>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__1845"><hi rend="bold">Blank, Daniel / Henrich, Andreas</hi> (2015): "Geocoding
-                          place names from historic route descriptions", in: <hi rend="italic">Proceedings of the 9th ACM Workshop on Geographic Information
-                          Retrieval, Paris, France</hi>. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__1845">Blank, Daniel / Henrich, Andreas (2015): "Geocoding place names from historic route descriptions", in: Proceedings of the 9th ACM Workshop on Geographic Information Retrieval, Paris, France.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__1846"><hi rend="bold">Hamy, Ernest-Théodore</hi> (1908): <hi rend="italic">Le
-                            Livre de la description des pays de Gilles le Bouvier, dit Berry</hi>.
-                            Paris: Ernest Leroux. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__1846">Hamy, Ernest-Théodore (1908): Le Livre de la description des pays de Gilles le Bouvier, dit Berry. Paris: Ernest Leroux.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__1847"><hi rend="bold">Hurtienne, René</hi> (2009): “Ein Gelehrter und sein Text:
-                              Zur Gesamtedition des Reiseberichts von Dr. Hieronymus Münzer, 1494/95 (Clm
-                              431)“, in: Neuhaus, Helmut (ed.): <hi rend="italic">Erlanger Editionen</hi>.
-                              Grundlagenforschung durch Quelleneditionen (= Erlanger Studien zur
-                              Geschichte 8). Erlangen / Jena: Palm &amp; Enke 255-272. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__1847">Hurtienne, René (2009): “Ein Gelehrter und sein Text: Zur Gesamtedition des Reiseberichts von Dr. Hieronymus Münzer, 1494/95 (Clm 431)“, in: Neuhaus, Helmut (ed.): Erlanger Editionen. Grundlagenforschung durch Quelleneditionen (= Erlanger Studien zur Geschichte 8). Erlangen / Jena: Palm &amp; Enke 255-272.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__1848"><hi rend="bold">Krüger, Herbert</hi> (1974): <hi rend="italic">Das älteste
-                                deutsche Routenhandbuch. </hi>Jörg Gails Raißbüchlin. Graz: Akademische
-                                Druck- und Verlagsanstalt.</rs></bibl>
+                                <rs type="bibl" ref="#bibl__1848">Krüger, Herbert (1974): Das älteste deutsche Routenhandbuch. Jörg Gails Raißbüchlin. Graz: Akademische Druck- und Verlagsanstalt.</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__224"><hi rend="bold">Levenshtein, Vladimir I.</hi> (1966): "Binary codes capable
-                                  of correcting deletions, insertions, and reversals”, in: <hi rend="italic">Soviet Physics Doklady</hi> 10, 8: 707-710. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__224">Levenshtein, Vladimir I. (1966): "Binary codes capable of correcting deletions, insertions, and reversals”, in: Soviet Physics Doklady 10, 8: 707-710.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__1849"><hi rend="bold">Müller, Johannes</hi> (1907): “Geleitswesen und Güterverkehr
-                                    zwischen Nürnberg und Frankfurt im 15. Jahrhundert", in: <hi rend="italic">Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte</hi>5:
-                                    173-196, 361-409. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__1849">Müller, Johannes (1907): “Geleitswesen und Güterverkehr zwischen Nürnberg und Frankfurt im 15. Jahrhundert", in: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte5: 173-196, 361-409.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__1850"><hi rend="bold">Szabó, Thomas</hi> (2009): “Die Itinerarforschung als
-                                      Methode zur Erschließung des mittelalterlichen Straßennetzes“, in: Szabó,
-                                      Thomas (ed.): <hi rend="italic">Die Welt der europäischen Straßen.</hi>Von
-                                      der Antike bis in die Frühe Neuzeit. Köln / Weimar / Wien: Böhlau Verlag
-                                      85-96. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__1850">Szabó, Thomas (2009): “Die Itinerarforschung als Methode zur Erschließung des mittelalterlichen Straßennetzes“, in: Szabó, Thomas (ed.): Die Welt der europäischen Straßen.Von der Antike bis in die Frühe Neuzeit. Köln / Weimar / Wien: Böhlau Verlag 85-96.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__1851"><hi rend="bold">Veling, Alexander</hi> (2014): "Altwegeforschung:
-                                        Forschungsstand und Methoden", in: <hi rend="italic">aventinus -
-                                        Geschichtswissenschaften im Internet</hi>44: <ref target="http://www.aventinus-online.de/no_cache/persistent/artikel/9847/">http://www.aventinus-online.de/no_cache/persistent/artikel/9847/</ref>
-                                        [letzter Zugriff 13. Oktober 15]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__1851">Veling, Alexander (2014): "Altwegeforschung: Forschungsstand und Methoden", in: aventinus - Geschichtswissenschaften im Internet44: http://www.aventinus-online.de/no_cache/persistent/artikel/9847/ [letzter Zugriff 13. Oktober 15].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__1852"><hi rend="bold">Winkler, William E.</hi> (1990): “String Comparator Metrics
-                                          and Enhanced Decision Rules in the Fellegi-Sunter Model of Record Linkage”,
-                                          in: <hi rend="italic">Proceedings of the Section on Survey Research Methods,
-                                          American Statistical Association</hi>: 354-359. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__1852">Winkler, William E. (1990): “String Comparator Metrics and Enhanced Decision Rules in the Fellegi-Sunter Model of Record Linkage”, in: Proceedings of the Section on Survey Research Methods, American Statistical Association: 354-359.</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__1853"><hi rend="bold">Wick, Marc (ed.)</hi> (2005-2016): <hi rend="italic">GeoNames</hi>. Unxos GmbH, Switzerland <ref target="http://www.geonames.org/">http://www.geonames.org/</ref>
-                                            [letzter Zugriff 30. Januar 2016]. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__1853">Wick, Marc (ed.) (2005-2016): GeoNames. Unxos GmbH, Switzerland http://www.geonames.org/ [letzter Zugriff 30. Januar 2016].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__1854"><hi rend="bold">Wikipedia (25.11.2015)</hi> „Meile“, in: <hi rend="italic">Wikipedia</hi>. Die freie Enzyklopädie <ref target="https://de.wikipedia.org/wiki/Meile">https://de.wikipedia.org/wiki/Meile</ref> [letzter Zugriff 30. Januar
-                                              2016].</rs></bibl>
+                                              <rs type="bibl" ref="#bibl__1854">Wikipedia (25.11.2015) „Meile“, in: Wikipedia. Die freie Enzyklopädie https://de.wikipedia.org/wiki/Meile [letzter Zugriff 30. Januar 2016].</rs></bibl>
                                             </listBibl>
                                           </div>
                                         </back>

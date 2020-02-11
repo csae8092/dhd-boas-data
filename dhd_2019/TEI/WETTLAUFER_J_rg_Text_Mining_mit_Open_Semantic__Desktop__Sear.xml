@@ -86,7 +86,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.<rs type="bibl" ref="#bibl__3668"><rs type="bibl" ref="#bibl__2433"/></rs></bibl>
+                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.<rs type="bibl" ref="#bibl__3668">Das ist eine leere dhc Datei.</rs></bibl>
                 </listBibl>
             </div>
         </back>

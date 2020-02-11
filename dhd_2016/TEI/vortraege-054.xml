@@ -254,67 +254,26 @@
                     <div type="bibliogr">
                       <listBibl>
                         <head>Bibliographie</head>
-                        <bibl><rs type="bibl" ref="#bibl__1896"><hi rend="bold">Akademie der Wissenschaften und der Literatur Mainz
-                        </hi>(o. J.a): <hi rend="italic">Digitale Akademie</hi>
-                        <ref target="http://www.digitale-akademie.de">http://www.digitale-akademie.de</ref> [letzter Zugriff 16. Februar
-                          2016].</rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__1897"><hi rend="bold">Akademie der Wissenschaften und der Literatur Mainz
-                          </hi>(o. J.b): <hi rend="italic">Regesta Imperii</hi>
-                          <ref target="http://www.regesta-imperii.de/startseite.html">http://www.regesta-imperii.de/startseite.html</ref> [letzter Zugriff
-                            16. Februar 2016].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__1898"><hi rend="bold">BBAW</hi> (o. J.): <hi rend="italic">Berlin-Brandenburgische Akademie der Wissenschaften</hi>
-                            <ref target="http://www.bbaw.de/">http://www.bbaw.de/</ref> [letzter Zugriff
-                            16. Februar 2016].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__1899"><hi rend="bold">correspSearch</hi> (o. J.): <hi rend="italic">correspSearch</hi>. Search diverse letter editions <ref target="http://correspsearch.bbaw.de/index.xql">http://correspsearch.bbaw.de/index.xql</ref> [letzter Zugriff 16.
-                            Februar 2016].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__1900"><hi rend="bold">Deutsche Inschriften Online</hi> (o. J.): <ref target="http://www.inschriften.net">http://www.inschriften.net</ref>
-                            [letzter Zugriff 16. Februar 2016]. </rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1896">Akademie der Wissenschaften und der Literatur Mainz (o. J.a): Digitale Akademie http://www.digitale-akademie.de [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__1897">Akademie der Wissenschaften und der Literatur Mainz (o. J.b): Regesta Imperii http://www.regesta-imperii.de/startseite.html [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__1898">BBAW (o. J.): Berlin-Brandenburgische Akademie der Wissenschaften http://www.bbaw.de/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__1899">correspSearch (o. J.): correspSearch. Search diverse letter editions http://correspsearch.bbaw.de/index.xql [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__1900">Deutsche Inschriften Online (o. J.): http://www.inschriften.net [letzter Zugriff 16. Februar 2016].</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__1901"><hi rend="bold">Haft, Michael</hi> (2013): "RDF als Verknüpfungsmethode
-                              zwischen geisteswissenschaftlichen Forschungsdaten und Geometrien am
-                              Beispiel des Projektes 'Inschriften im Bezugssystem des Raumes'",in: <hi rend="italic">Skriptum</hi> 2,3 <ref target="http://nbn-resolving.de/urn:nbn:de:0289-2013120622">http://nbn-resolving.de/urn:nbn:de:0289-2013120622</ref> [letzter
-                              Zugriff 14. Oktober 2015]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1902"><hi rend="bold">i3Mainz / Akademie Mainz</hi> (o. J.): <hi rend="italic">Inschriften im Bezugssystem des Raumes</hi>
-                              <ref target="http://www.spatialhumanities.de/ibr/startseite.html">http://www.spatialhumanities.de/ibr/startseite.html</ref> [letzter
-                                Zugriff 16. Februar 2016].</rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__1903"><hi rend="bold">IBR (Inscriptions in their spatial context) / Academy of
-                                  Sciences and Literature, Mainz / Institute for Spatial Information and
-                                  Surveying Technology i3Mainz</hi> (o. J.): <hi rend="italic">XTriples</hi>
-                                  <ref target="http://xtriples.spatialhumanities.de/index.html">http://xtriples.spatialhumanities.de/index.html</ref> [letzter Zugriff
-                                    16. Februar 2016].</rs></bibl>
+                              <rs type="bibl" ref="#bibl__1901">Haft, Michael (2013): "RDF als Verknüpfungsmethode zwischen geisteswissenschaftlichen Forschungsdaten und Geometrien am Beispiel des Projektes 'Inschriften im Bezugssystem des Raumes'",in: Skriptum 2,3 http://nbn-resolving.de/urn:nbn:de:0289-2013120622 [letzter Zugriff 14. Oktober 2015].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1902">i3Mainz / Akademie Mainz (o. J.): Inschriften im Bezugssystem des Raumes http://www.spatialhumanities.de/ibr/startseite.html [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__1903">IBR (Inscriptions in their spatial context) / Academy of Sciences and Literature, Mainz / Institute for Spatial Information and Surveying Technology i3Mainz (o. J.): XTriples http://xtriples.spatialhumanities.de/index.html [letzter Zugriff 16. Februar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__227"><hi rend="bold">Iglesia, Martin de la / Moretto, Nicolas / Brodhun,
-                                        Maximilian </hi> (2015): "Metadaten, LOD und der Mehrwert
-                                        standardisierter und vernetzter Daten." In: Neuroth, Heike / Rapp, Andrea /
-                                        Söring, Sibylle (eds.): <hi rend="italic">TextGrid: Von der Community – für
-                                        die Community</hi>. Eine Virtuelle Forschungsumgebung für die
-                                        Geisteswissenschaften. Göttingen: Universitätsverlag Göttingen 91–102 <ref target="http://dx.doi.org/10.3249/webdoc-3947">http://dx.doi.org/10.3249/webdoc-3947</ref> [letzter Zugriff 14.
-                                        Oktober 2015]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__227">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian (2015): "Metadaten, LOD und der Mehrwert standardisierter und vernetzter Daten." In: Neuroth, Heike / Rapp, Andrea / Söring, Sibylle (eds.): TextGrid: Von der Community – für die Community. Eine Virtuelle Forschungsumgebung für die Geisteswissenschaften. Göttingen: Universitätsverlag Göttingen 91–102 http://dx.doi.org/10.3249/webdoc-3947 [letzter Zugriff 14. Oktober 2015].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__1904"><hi rend="bold">Lange, Felix, Martin Unold</hi> (2015): Semantisch
-                                          angereicherte 3D-Messdaten von Kirchenräumen als Quellen für die
-                                          geschichtswissenschaftliche Forschung, in: <hi rend="italic">Zeitschrift für
-                                          digitale Geisteswissenschaften </hi>1 <ref target="http://dx.doi.org/10.17175/sb001_015">http://dx.doi.org/10.17175/sb001_015</ref> [letzter Zugriff 14. Oktober
-                                          2015]. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__1904">Lange, Felix, Martin Unold (2015): Semantisch angereicherte 3D-Messdaten von Kirchenräumen als Quellen für die geschichtswissenschaftliche Forschung, in: Zeitschrift für digitale Geisteswissenschaften 1 http://dx.doi.org/10.17175/sb001_015 [letzter Zugriff 14. Oktober 2015].</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__1905"><anchor xml:id="id_docs-internal-guid-d6a0f994-6501-a725-5560-cd2d188ed2fb"/>
-                                            <hi rend="bold">Lanthaler, Markus</hi> (2014): <hi rend="italic">Third
-                                            Generation Web APIs</hi>. Bridging the Gap between REST and Linked Data.
-                                            Diss. Institute of Information Systems and Computer Media. Technische
-                                            Universität Graz <ref target="http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf">http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf</ref>
-                                            [letzter Zugriff 14. Oktober 2015]. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__1905">Lanthaler, Markus (2014): Third Generation Web APIs. Bridging the Gap between REST and Linked Data. Diss. Institute of Information Systems and Computer Media. Technische Universität Graz http://www.markus-lanthaler.com/research/third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data.pdf [letzter Zugriff 14. Oktober 2015].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__1906"><hi rend="bold">Polleres, Axel u.a.</hi> (2009): <hi rend="italic">XSPARQL
-                                              Language Specification</hi>
-                                              <ref target="http://www.w3.org/Submission/xsparql-language-specification">http://www.w3.org/Submission/xsparql-language-specification</ref>
-                                                letzter Zugriff 14. Oktober 2015]. </rs></bibl>
-                                                <bibl><rs type="bibl" ref="#bibl__1907"><hi rend="bold">Salomon Ludwig Steinheim-Institut für deutsch-jüdische
-                                                  Geschichte</hi> (o. J.): <ref target="http://www.steinheim-institut.de">http://www.steinheim-institut.de</ref> [letzter Zugriff 16. Februar
-                                                  2016].</rs></bibl>
+                                              <rs type="bibl" ref="#bibl__1906">Polleres, Axel u.a. (2009): XSPARQL Language Specification http://www.w3.org/Submission/xsparql-language-specification letzter Zugriff 14. Oktober 2015].</rs></bibl>
+                                                <bibl><rs type="bibl" ref="#bibl__1907">Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte (o. J.): http://www.steinheim-institut.de [letzter Zugriff 16. Februar 2016].</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__228"><hi rend="bold">Schrade, Torsten </hi> (2013): "Datenstrukturierung", in:
-                                                    <hi rend="italic">Über die Praxis des kulturwissenschaftlichen
-                                                      Arbeitens</hi>. Ein Handwörterbuch. Bielefeld: transcript 91–97. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__228">Schrade, Torsten (2013): "Datenstrukturierung", in: Über die Praxis des kulturwissenschaftlichen Arbeitens. Ein Handwörterbuch. Bielefeld: transcript 91–97.</rs></bibl>
                                                     </listBibl>
                                                   </div>
                                                 </back>

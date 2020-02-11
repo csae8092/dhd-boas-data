@@ -126,29 +126,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1601"><rs type="bibl" ref="#bibl__1540"><hi rend="bold">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer </hi>(2016): “Distant-Reading Showcase. 200 Years of Literary Network Data at a Glance”, DHd2016, Leipzig. DOI: &lt;
-                        <ref target="https://dx.doi.org/10.6084/m9.figshare.3101203.v1">https://dx.doi.org/10.6084/m9.figshare.3101203.v1
-                        </ref>&gt;.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1601">Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario / Kittel, Christopher / Trilcke, Peer (2016): “Distant-Reading Showcase. 200 Years of Literary Network Data at a Glance”, DHd2016, Leipzig. DOI: &lt; https://dx.doi.org/10.6084/m9.figshare.3101203.v1 &gt;.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1602"><rs type="bibl" ref="#bibl__1541"><hi rend="bold">Göbel, Matthias / Meiners, Hanna-Lena</hi>: Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus”. DHd2016, Leipzig.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1602">Göbel, Matthias / Meiners, Hanna-Lena: Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus”. DHd2016, Leipzig.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1603"><rs type="bibl" ref="#bibl__1542"><hi rend="bold">Hollmer, Holmer / Meier, Albert</hi> (eds.) (2011): Dramenlexikon des 18. Jahrhunderts. München: C.H. Beck.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1603">Hollmer, Holmer / Meier, Albert (eds.) (2011): Dramenlexikon des 18. Jahrhunderts. München: C.H. Beck.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1604"><rs type="bibl" ref="#bibl__1543"><hi rend="bold">Kittel Christopher / Fischer, Frank</hi>: “dramavis v0.4” (September 2017). Repo: &lt;
-                        <ref target="https://github.com/lehkost/dramavis">https://github.com/lehkost/dramavis
-                        </ref>&gt;.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1604">Kittel Christopher / Fischer, Frank: “dramavis v0.4” (September 2017). Repo: &lt; https://github.com/lehkost/dramavis &gt;.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1605"><rs type="bibl" ref="#bibl__1544"><hi rend="bold">Mangold, Cornelius u.a.</hi> (2001): 
-                        <hi rend="italic">Plattenbauten. Berliner Betonerzeugnisse. Ein Quartettspiel</hi>. Berlin
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1605">Mangold, Cornelius u.a. (2001): Plattenbauten. Berliner Betonerzeugnisse. Ein Quartettspiel. Berlin</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1606"><rs type="bibl" ref="#bibl__1545"><hi rend="bold">Richter, Peter </hi>(2006): 
-                        <hi rend="italic">Der Plattenbau als Krisengebiet. Die architektonische und politische Transformation industriell errichteter Wohngebäude aus der DDR am Beispiel der Stadt Leinefelde</hi>. Hamburg: Univ., Diss.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1606">Richter, Peter (2006): Der Plattenbau als Krisengebiet. Die architektonische und politische Transformation industriell errichteter Wohngebäude aus der DDR am Beispiel der Stadt Leinefelde. Hamburg: Univ., Diss.</rs></bibl>
                 </listBibl>
             </div>
       </back>

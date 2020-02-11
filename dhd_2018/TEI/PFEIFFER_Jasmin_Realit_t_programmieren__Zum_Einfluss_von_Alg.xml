@@ -104,75 +104,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__343"><rs type="bibl" ref="#bibl__237"><hi rend="bold">Alpaydin, Ethan</hi>
-                         (2016): <hi rend="italic">Machine Learning</hi>, Cambridge, Massachusetts: MIT Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__343">Alpaydin, Ethan (2016): Machine Learning, Cambridge, Massachusetts: MIT Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3"><rs type="bibl" ref="#bibl__3"><hi rend="bold">Berry, David M.</hi>
-                         (2011): „The Computational Turn: Thinking about the Digital Humanities“, in: 
-                        <hi rend="italic">Culture Machine</hi>
-                         12: 1–22.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3">Berry, David M. (2011): „The Computational Turn: Thinking about the Digital Humanities“, in: Culture Machine 12: 1–22.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4"><rs type="bibl" ref="#bibl__4"><hi rend="bold">Berry, David M.</hi>
-                         (2011):
-                        <hi rend="italic">The Philosophy of Software. Code and Mediation in the Digital Age</hi>
-                        , New York: Palgrave Macmillan.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4">Berry, David M. (2011): The Philosophy of Software. Code and Mediation in the Digital Age , New York: Palgrave Macmillan.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__5"><rs type="bibl" ref="#bibl__238"><hi rend="bold">Fuller, Matthew</hi>
-                         (2008): 
-                        <hi rend="italic">Software Studies. A Lexicon</hi>
-                        , Cambridge, Massachusetts: MIT Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__5">Fuller, Matthew (2008): Software Studies. A Lexicon , Cambridge, Massachusetts: MIT Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__344"><rs type="bibl" ref="#bibl__239"><hi rend="bold">Holzki, Larissa </hi>
-                        (2017): „Frauen sind im Netz schwieriger zu finden“, 
-                        <ptr target="http://www.sueddeutsche.de/karriere/frauen-und-karriere-frauen-sind-im-netz-schwieriger-zu-finden-1.3492732"/>
-                        , Stand: 24.09.17.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__344">Holzki, Larissa (2017): „Frauen sind im Netz schwieriger zu finden“, , Stand: 24.09.17.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__345"><rs type="bibl" ref="#bibl__240"><hi rend="bold">Lemire, Daniel </hi>
-                        (2016): „Is software a neutral agent?“,
-                        <ptr target="https://lemire.me/blog/2016/04/29/is-software-a-neutral-agent/"/>
-                        , Stand: 24.09.17.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__345">Lemire, Daniel (2016): „Is software a neutral agent?“, , Stand: 24.09.17.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__6"><rs type="bibl" ref="#bibl__241"><hi rend="bold">Manovich, Lev</hi>
-                         (2001): 
-                        <hi rend="italic">The Language of New Media</hi>
-                        , Cambridge, Massachusetts: MIT Press. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__6">Manovich, Lev (2001): The Language of New Media , Cambridge, Massachusetts: MIT Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__346"><rs type="bibl" ref="#bibl__242"><hi rend="bold">Maschewski, Felix / Nosthoff, Anna-Verena</hi>
-                         (2017): „Das Netz ist nie neutral“,
-                        <ptr target="https://www.nzz.ch/feuilleton/kuenstliche-intelligenz-digitale-technik-ist-nie-neutral-ld.1302959"/>
-                        , Stand: 24.09.17.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__346">Maschewski, Felix / Nosthoff, Anna-Verena (2017): „Das Netz ist nie neutral“, , Stand: 24.09.17.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__347"><rs type="bibl" ref="#bibl__243"><hi rend="bold">O’Neil, Cathy</hi>
-                         (2016):
-                        <hi rend="italic">Weapons of Math Destruction</hi>
-                        , New York: Broadway Books.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__347">O’Neil, Cathy (2016): Weapons of Math Destruction , New York: Broadway Books.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__348"><rs type="bibl" ref="#bibl__244"><hi rend="bold">Ringen, Lisa</hi>
-                         (2017): „Dummer Algorithmus: Als Frau bei Xing gefunden werden“, 
-                        <ptr target="https://www.marketing-madam.de/2017/05/02/dummer-algorithmus-als-frau-bei-xing-gefunden-werden/92706211/"/>
-                        , Stand: 24.09.17. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__348">Ringen, Lisa (2017): „Dummer Algorithmus: Als Frau bei Xing gefunden werden“, , Stand: 24.09.17.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__349"><rs type="bibl" ref="#bibl__245"><hi rend="bold">Searle, John R. </hi>
-                        (1975): 
-                        <hi rend="italic">Expression and Meaning. Studies in the Theory of Speech Acts</hi>
-                        . Cambridge: Cambridge University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__349">Searle, John R. (1975): Expression and Meaning. Studies in the Theory of Speech Acts . Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__350"><rs type="bibl" ref="#bibl__246"><hi rend="bold">Zhao, Jieyu / Wang, Tainlu / Yatskar, Mark / Ordonez, Vicente / Chang, Kai-Wei</hi>
-                         (2017): „Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints“,
-                        <ptr target="https://arxiv.org/abs/1707.09457"/>
-                        , Stand: 01.01.18.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__350">Zhao, Jieyu / Wang, Tainlu / Yatskar, Mark / Ordonez, Vicente / Chang, Kai-Wei (2017): „Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints“, , Stand: 01.01.18.</rs></bibl>
                 </listBibl>
             </div>
       </back>

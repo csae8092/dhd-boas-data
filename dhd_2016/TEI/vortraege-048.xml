@@ -217,54 +217,21 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__2810"><hi rend="bold">ARP</hi> (2012): <hi rend="italic">Juxta</hi>. Compare -
-              Collate - Discover. <ref target="http://www.juxtasoftware.org/">http://www.juxtasoftware.org/</ref> [letzter Zugriff 15. Oktober
-              2015].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2810">ARP (2012): Juxta. Compare - Collate - Discover. http://www.juxtasoftware.org/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
               <bibl>
-                <rs type="bibl" ref="#bibl__2811"><hi rend="bold">Bremer, Thomas / Molitor, Paul / Pöckelmann, Marcus /
-                  Ritter, Jörg / Schütz, Susanne</hi> (2015): "Zum Einsatz digitaler
-                  Methoden bei der Erstellung und Nutzung genetischer Editionen gedruckter
-                  Texte mit verschiedenen Fassungen - Das Fallbeispiel der Histoire
-                  philosphique des deux Indes von Guillaume Thomas Raynal" in: Nutt-Kofoth,
-                  Rüdiger / Plachta, Bodo / Woesler, Winfried (eds.) <hi rend="italic">Editio</hi>. <ref target="http://www.degruyter.com/view/j/edit.2015.29.issue-1/editio-2015-004/editio-2015-004.xml">Internationales Jahrbuch für Editionswissenschaften</ref> 29, 1:
-                  29–51.</rs></bibl>
-                  <bibl><rs type="bibl" ref="#bibl__253"><hi rend="bold">Bremer, Thomas / Molitor, Paul / Ritter, Jörg / Solms,
-                    Hans-Joachim</hi>(2012-2015): <hi rend="italic">Semi-automatische
-                    Differenzanalyse von komplexen Textvarianten </hi><ref target="http://sada.uzi.uni-halle.de/">http://sada.uzi.uni-halle.de</ref> [letzter Zugriff 15. Oktober
-                    2015].</rs></bibl>
+                <rs type="bibl" ref="#bibl__2811">Bremer, Thomas / Molitor, Paul / Pöckelmann, Marcus / Ritter, Jörg / Schütz, Susanne (2015): "Zum Einsatz digitaler Methoden bei der Erstellung und Nutzung genetischer Editionen gedruckter Texte mit verschiedenen Fassungen - Das Fallbeispiel der Histoire philosphique des deux Indes von Guillaume Thomas Raynal" in: Nutt-Kofoth, Rüdiger / Plachta, Bodo / Woesler, Winfried (eds.) Editio. Internationales Jahrbuch für Editionswissenschaften 29, 1: 29–51.</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__253">Bremer, Thomas / Molitor, Paul / Ritter, Jörg / Solms, Hans-Joachim(2012-2015): Semi-automatische Differenzanalyse von komplexen Textvarianten http://sada.uzi.uni-halle.de [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2812"><hi rend="bold">Medek (*Gießler), André / Pöckelmann, Marcus / Bremer,
-                        Thomas / Solms, Hans-Joachim / Molitor, Paul / Ritter, Jörg</hi> (2015):
-                        "Differenzanalyse komplexer Textvarianten - Diskussion und Werkzeuge", in:
-                        <hi rend="italic"><ref target="http://dx.doi.org/10.1007/s13222-014-0173-y">Datenbank-Spektrum</ref></hi> 15, 1: 25-31.</rs></bibl>
+                      <rs type="bibl" ref="#bibl__2812">Medek (*Gießler), André / Pöckelmann, Marcus / Bremer, Thomas / Solms, Hans-Joachim / Molitor, Paul / Ritter, Jörg (2015): "Differenzanalyse komplexer Textvarianten - Diskussion und Werkzeuge", in: Datenbank-Spektrum 15, 1: 25-31.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2813"><hi rend="bold">Pöckelmann, Marcus / Medek (*Gießler), André / Molitor, Paul
-                              / Ritter, Jörg</hi> (2015): "CATview - Supporting The Investigation Of
-                              Text Genesis Of Large Manuscripts By An Overall Interactive Visualization
-                              Tool", in: <hi rend="italic">Digital Humanities, DH2015, Sydney, Australia,
-                              29.06.-03.07.2015</hi>. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__2814"><hi rend="bold">Pöckelmann, Marcus / Molitor, Paul / Ritter, Jörg</hi>
-                              (2015): <hi rend="italic">CATview</hi>. The Colored and Aligned Texts view
-                              <ref target="http://catview.uzi.uni-halle.de/">http://catview.uzi.uni-halle.de/</ref> [letzter Zugriff 15. Oktober
-                                2015].</rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__241"><hi rend="bold">Schmid, Helmut</hi>(1994-): <hi rend="italic">TreeTagger</hi>. A language independent part-of-speech tagger <ref target="http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/">http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/</ref> [letzter
-                                Zugriff 15. Oktober 2015].</rs></bibl>
+                            <rs type="bibl" ref="#bibl__2813">Pöckelmann, Marcus / Medek (*Gießler), André / Molitor, Paul / Ritter, Jörg (2015): "CATview - Supporting The Investigation Of Text Genesis Of Large Manuscripts By An Overall Interactive Visualization Tool", in: Digital Humanities, DH2015, Sydney, Australia, 29.06.-03.07.2015.</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__2814">Pöckelmann, Marcus / Molitor, Paul / Ritter, Jörg (2015): CATview. The Colored and Aligned Texts view http://catview.uzi.uni-halle.de/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__241">Schmid, Helmut(1994-): TreeTagger. A language independent part-of-speech tagger http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2815"><hi rend="bold">Schütz, Susanne / Pöckelmann, Marcus</hi> (2014):
-                                  "IT-Werkzeuge zur Unterstützung elektronischer Edition am Beispiel eines
-                                  französischen Textes aus dem 18. Jahrhundert", in: <hi rend="italic">9.
-                                  Kongress des Frankoromanistenverbands, Münster, 24.-27.09.2014</hi>. </rs></bibl>
-                                  <bibl><rs type="bibl" ref="#bibl__2816"><hi rend="bold">The Interedition Development Group</hi> (2010-2013): <hi rend="italic">CollateX</hi>. Software for Collating Textual Sources <ref target="http://collatex.net/">http://collatex.net/</ref> [letzter
-                                  Zugriff 15. Oktober 2015].</rs></bibl>
-                                  <bibl><rs type="bibl" ref="#bibl__2817"><hi rend="bold">Zentrum für Datenverarbeitung der Universität
-                                    Tübingen</hi> (1978-): <hi rend="italic">TUSTEP</hi>. Tuebingen System
-                                    of Text Processing tools <ref target="http://www.tustep.uni-tuebingen.de/">http://www.tustep.uni-tuebingen.de/</ref> [letzter Zugriff 15. Oktober
-                                    2015].</rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__2818"><hi rend="bold">Zentrum für Datenverarbeitung der Universität Tübingen /
-                                      pagina GmbH Publikationstechnologien / Hochschule der Medien
-                                      Stuttgart</hi> (2010-): <hi rend="italic">TXSTEP</hi>. Die XML-Version
-                                      von TUSTEP <ref target="http://www.txstep.de/">http://www.txstep.de/</ref>
-                                      [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2815">Schütz, Susanne / Pöckelmann, Marcus (2014): "IT-Werkzeuge zur Unterstützung elektronischer Edition am Beispiel eines französischen Textes aus dem 18. Jahrhundert", in: 9. Kongress des Frankoromanistenverbands, Münster, 24.-27.09.2014.</rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__2816">The Interedition Development Group (2010-2013): CollateX. Software for Collating Textual Sources http://collatex.net/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__2817">Zentrum für Datenverarbeitung der Universität Tübingen (1978-): TUSTEP. Tuebingen System of Text Processing tools http://www.tustep.uni-tuebingen.de/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2818">Zentrum für Datenverarbeitung der Universität Tübingen / pagina GmbH Publikationstechnologien / Hochschule der Medien Stuttgart (2010-): TXSTEP. Die XML-Version von TUSTEP http://www.txstep.de/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                     </listBibl>
                                   </div>
                                 </back>

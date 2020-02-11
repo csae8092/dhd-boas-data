@@ -177,8 +177,7 @@
         <back> <div type="bibliogr">
           <listBibl>
             <head>Bibliographie</head>
-            <bibl>Herzog-August-Bibliothek Wolfenbüttel (2015): <rs type="bibl" ref="#bibl__2499"><hi rend="italic">DHd
-              Working Papers</hi>. <ref target="http://dhd-wp.hab.de/">http://dhd-wp.hab.de/</ref>.</rs></bibl>
+            <bibl>Herzog-August-Bibliothek Wolfenbüttel (2015): <rs type="bibl" ref="#bibl__2499">Herzog-August-Bibliothek Wolfenbüttel (2015): DHd Working Papers. http://dhd-wp.hab.de/.</rs></bibl>
             </listBibl></div></back>
           </text>
         </TEI>

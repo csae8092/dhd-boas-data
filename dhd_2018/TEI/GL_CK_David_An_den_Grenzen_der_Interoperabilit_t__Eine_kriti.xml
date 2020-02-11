@@ -131,78 +131,25 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1691"><rs type="bibl" ref="#bibl__1635"><hi rend="bold">Baumann, Syd </hi>(2011): “Interchange vs. Interoperability”, in: 
-                        <hi rend="italic">Proceedings of Balisage: The Markup Conference 2011</hi> 7, 
-                        <ref target="https://doi.org/10.4242/BalisageVol7.Bauman01">https://</ref>
-                        <ref target="https://doi.org/10.4242/BalisageVol7.Bauman01">
-                            <hi rend="Betont">doi</hi>
-                        </ref>
-                        <ref target="https://doi.org/10.4242/BalisageVol7.Bauman01">.org/</ref>
-                        <ref target="https://doi.org/10.4242/BalisageVol7.Bauman01">10.4242/BalisageVol7.Bauman01</ref> [letzter Zugriff: 13.01.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1692"><rs type="bibl" ref="#bibl__1636"><hi rend="bold">Beer, Nikolaos / Herold, Kristin / Kolbmann, Wibke / Kollatz, Thomas / Romanello, Matteo / Rose, Sebastian / Walkowski, Niels-Oliver </hi>(2014): "Interdisciplinary Interoperability", DARIAH-DE Working Papers Nr. 3, 
-                        <ref target="http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2014-1-0">http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2014-1-0</ref> [letzter Zugriff: 18.01.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1693"><rs type="bibl" ref="#bibl__1637"><hi rend="bold">Bingert, Sven / Buddenbohm, Stefan </hi>(2016): "Die HDC-Anwendungskonservierung - ein Dienst zur Archivierung und Bereitstellung komplexer Forschungsergebnisse", in: 
-                        <hi rend="italic">GWDG-Nachrichten</hi> 11/2016: 7-9 
-                        <ref target="https://www.gwdg.de/documents/20182/27257/GN_11-2016_www.pdf">https://www.gwdg.de/documents/20182/27257/GN_11-2016_www.pdf</ref> [letzter Zugriff: 23.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1694"><rs type="bibl" ref="#bibl__1638"><hi rend="bold">Blackwell, Christopher / Smith, Neel </hi>(2014): "The Canonical Text Services protocol, version 5.0.rc.2", 
-                        <ref target="https://cite-architecture.github.io/cts_spec/">https://cite-architecture.github.io/cts_spec/</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1695"><rs type="bibl" ref="#bibl__1639"><hi rend="bold">Brunelle, Justin F. / Kelly, Mat / Weigle, Michele C. / Nelson, Michael L. </hi>(2016): "The impact of JavaScript on archivability", in: 
-                        <hi rend="italic">International Journal on Digital Libraries</hi> 17/2: 95–117, 
-                        <ref target="https://doi.org/10.1007/s00799-015-0140-8">https://doi.org/10.1007/s00799-015-0140-8</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1696"><rs type="bibl" ref="#bibl__1640"><hi rend="bold">DFG </hi>(2015): "Förderkriterien für wissenschaftliche Editionen in der Literaturwissenschaft", 
-                        <ref target="http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf">http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf</ref> [letzter Zugriff: 12.1.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1697"><rs type="bibl" ref="#bibl__1641"><hi rend="bold">Duve, Thomas / Lutz-Bachmann, Matthias / Birr, Christiane / Niederberger, Andreas </hi>(2013): "Die Schule von Salamanca: eine digitale Quellensammlung und ein Wörterbuch ihrer juristisch-politischen Sprache. Zu Grundanliegen und Struktur eines Forschungsvorhabens". Mainz: Akademie der Wissenschaften und der Literatur. 
-                        <ref target="http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hebis:30:3-324011">http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hebis:30:3-324011</ref> [letzter Zugriff: 12.1.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1698"><rs type="bibl" ref="#bibl__1642"><hi rend="bold">Flanders, Julia / Jannidis, Fotis </hi>(2016): "Data Modeling", in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): 
-                        <hi rend="italic">A New Companion to Digital Humanities</hi>. Chichester: Wiley Blackwell 229-237.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1699"><rs type="bibl" ref="#bibl__1643"><hi rend="bold">Gradman, Stefan </hi>(2009): "Interoperability. A key concept for large scale, persistent digital libraries". 
-                        <hi rend="italic">Digital Preservation Europe</hi>
-                        <ref target="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.6311&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.6311&amp;rep=rep1&amp;type=pdf</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1700"><rs type="bibl" ref="#bibl__1644"><hi rend="bold">Holmes, Martin </hi>(2017): "Whatever happened to Interchange?", in: 
-                        <hi rend="italic">Digital Scholarship in the Humanities</hi> 32 (Issue suppl_1): i63–i68 
-                        <ref target="https://doi.org/10.1093/llc/fqw048">https://doi.org/10.1093/llc/fqw048</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__207"><rs type="bibl" ref="#bibl__1645"><hi rend="bold">Hughes, Lorna / Constantopoulos, Panos / Dallas, Costis </hi>(2016): “Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines“, in: Susan Schreibman / Ray Siemens / John Unsworth (eds.), 
-                        <hi rend="italic">A New Companion to Digital Humanities</hi>, Wiley &amp; Sons, 150–170, 
-                        <ref target="https://doi.org/10.1111/b.9781118680643.2016.00013.x">https://doi.org/10.1111/b.9781118680643.2016.00013.x</ref> [letzter Zugriff: 13.1.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__208"><rs type="bibl" ref="#bibl__151"><hi rend="bold">Le Boeuf, Patrick / Doerr, Martin / Ore, Christian Emil / Stead, Stephen et al. </hi>(2017): “Definition of the CIDOC Conceptual Reference Model”, Version 6.2.2, 
-                        <ref target="http://www.cidoc-crm.org/sites/default/files/2017-09-30%23CIDOC%20CRM_v6.2.2_esIP.pdf">http://www.cidoc-crm.org/sites/default/files/2017-09-30%23CIDOC%20CRM_v6.2.2_esIP.pdf
-                        </ref> [letzter Zugriff: 13.1.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1701"><rs type="bibl" ref="#bibl__1646"><hi rend="bold">Schmidt, Desmond </hi>(2014): “Towards an Interoperable Digital Scholarly Edition”, in: 
-                        <hi rend="italic">Journal of the Text Encoding Initiative</hi> 7, 
-                        <ref target="https://doi.org/10.4000/jtei.979">https://doi.org/10.4000/jtei.979</ref> [letzter Zugriff: 13.1.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1702"><rs type="bibl" ref="#bibl__1647"><hi rend="bold">Stead, Stephen / Doerr, Martin et al. </hi>(2015): “CRMinf: the Argumentation Model. An Extension of CIDOC-CRM to support argumentation”, 
-                        <ref target="http://www.cidoc-crm.org/crminf/sites/default/files/CRMinf-0.7(forSite).pdf">
-                            <hi rend="Internetverknüpfung">http://www.cidoc-crm.org/crminf/sites/default/files/CRMinf-0.7%28forSite%29.pdf</hi>
-                        </ref> [letzter Zugriff: 13.1.2018].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1703"><rs type="bibl" ref="#bibl__1648"><hi rend="bold">Text Encoding Initiative Consortium </hi>(2016): "TEI Simple" 
-                        <ref target="https://github.com/TEIC/TEI-Simple">https://github.com/TEIC/TEI-Simple</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1704"><rs type="bibl" ref="#bibl__1649"><hi rend="bold">Turska, Magdalena / Cummings, James / Rahtz, Sebastian </hi>(2016): "Challenging the Myth of Presentation in Digital Editions", in: 
-                        <hi rend="italic">Journal of the Text Encoding Initiative</hi> 9 
-                        <ref target="http://jtei.revues.org/1453">http://jtei.revues.org/1453</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1705"><rs type="bibl" ref="#bibl__1650"><hi rend="bold">van de Sompel, Herbert / Nelson, Michael L. </hi>(2015): "Reminiscing about 15 Years of Interoperability Efforts", in: 
-                        <hi rend="italic">D-Lib Magazine</hi> 21 (11/12) 
-                        <ref target="http://www.dlib.org/dlib/november15/vandesompel/11vandesompel.html">http://www.dlib.org/dlib/november15/vandesompel/11vandesompel.html</ref> [letzter Zugriff: 25.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1706"><rs type="bibl" ref="#bibl__1651"><hi rend="bold">Wagner, Andreas </hi>(2016): "What’s in a URI? Part I: The School of Salamanca, the Semantic Web and Scholarly Referencing" 
-                        <ref target="https://blog.salamanca.school/2016/11/15/whats-in-a-uri-part-1/">https://blog.salamanca.school/2016/11/15/whats-in-a-uri-part-1/</ref> [letzter Zugriff: 22.09.2017].
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1707"><rs type="bibl" ref="#bibl__1652"><hi rend="bold">Wolff, Eberhard </hi>(2016): "Microservices. Grundlagen flexibler Softwarearchitekturen". Heidelberg: dpunkt.verlag.</rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1691">Baumann, Syd (2011): “Interchange vs. Interoperability”, in: Proceedings of Balisage: The Markup Conference 2011 7, https:// doi .org/ 10.4242/BalisageVol7.Bauman01 [letzter Zugriff: 13.01.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1692">Beer, Nikolaos / Herold, Kristin / Kolbmann, Wibke / Kollatz, Thomas / Romanello, Matteo / Rose, Sebastian / Walkowski, Niels-Oliver (2014): "Interdisciplinary Interoperability", DARIAH-DE Working Papers Nr. 3, http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2014-1-0 [letzter Zugriff: 18.01.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1693">Bingert, Sven / Buddenbohm, Stefan (2016): "Die HDC-Anwendungskonservierung - ein Dienst zur Archivierung und Bereitstellung komplexer Forschungsergebnisse", in: GWDG-Nachrichten 11/2016: 7-9 https://www.gwdg.de/documents/20182/27257/GN_11-2016_www.pdf [letzter Zugriff: 23.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1694">Blackwell, Christopher / Smith, Neel (2014): "The Canonical Text Services protocol, version 5.0.rc.2", https://cite-architecture.github.io/cts_spec/ [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1695">Brunelle, Justin F. / Kelly, Mat / Weigle, Michele C. / Nelson, Michael L. (2016): "The impact of JavaScript on archivability", in: International Journal on Digital Libraries 17/2: 95–117, https://doi.org/10.1007/s00799-015-0140-8 [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1696">DFG (2015): "Förderkriterien für wissenschaftliche Editionen in der Literaturwissenschaft", http://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/informationen_fachwissenschaften/geisteswissenschaften/foerderkriterien_editionen_literaturwissenschaft.pdf [letzter Zugriff: 12.1.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1697">Duve, Thomas / Lutz-Bachmann, Matthias / Birr, Christiane / Niederberger, Andreas (2013): "Die Schule von Salamanca: eine digitale Quellensammlung und ein Wörterbuch ihrer juristisch-politischen Sprache. Zu Grundanliegen und Struktur eines Forschungsvorhabens". Mainz: Akademie der Wissenschaften und der Literatur. http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hebis:30:3-324011 [letzter Zugriff: 12.1.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1698">Flanders, Julia / Jannidis, Fotis (2016): "Data Modeling", in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A New Companion to Digital Humanities. Chichester: Wiley Blackwell 229-237.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1699">Gradman, Stefan (2009): "Interoperability. A key concept for large scale, persistent digital libraries". Digital Preservation Europe http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.6311&amp;rep=rep1&amp;type=pdf [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1700">Holmes, Martin (2017): "Whatever happened to Interchange?", in: Digital Scholarship in the Humanities 32 (Issue suppl_1): i63–i68 https://doi.org/10.1093/llc/fqw048 [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__207">Hughes, Lorna / Constantopoulos, Panos / Dallas, Costis (2016): “Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines“, in: Susan Schreibman / Ray Siemens / John Unsworth (eds.), A New Companion to Digital Humanities, Wiley &amp; Sons, 150–170, https://doi.org/10.1111/b.9781118680643.2016.00013.x [letzter Zugriff: 13.1.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__208">Le Boeuf, Patrick / Doerr, Martin / Ore, Christian Emil / Stead, Stephen et al. (2017): “Definition of the CIDOC Conceptual Reference Model”, Version 6.2.2, http://www.cidoc-crm.org/sites/default/files/2017-09-30%23CIDOC%20CRM_v6.2.2_esIP.pdf [letzter Zugriff: 13.1.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1701">Schmidt, Desmond (2014): “Towards an Interoperable Digital Scholarly Edition”, in: Journal of the Text Encoding Initiative 7, https://doi.org/10.4000/jtei.979 [letzter Zugriff: 13.1.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1702">Stead, Stephen / Doerr, Martin et al. (2015): “CRMinf: the Argumentation Model. An Extension of CIDOC-CRM to support argumentation”, http://www.cidoc-crm.org/crminf/sites/default/files/CRMinf-0.7%28forSite%29.pdf [letzter Zugriff: 13.1.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1703">Text Encoding Initiative Consortium (2016): "TEI Simple" https://github.com/TEIC/TEI-Simple [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1704">Turska, Magdalena / Cummings, James / Rahtz, Sebastian (2016): "Challenging the Myth of Presentation in Digital Editions", in: Journal of the Text Encoding Initiative 9 http://jtei.revues.org/1453 [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1705">van de Sompel, Herbert / Nelson, Michael L. (2015): "Reminiscing about 15 Years of Interoperability Efforts", in: D-Lib Magazine 21 (11/12) http://www.dlib.org/dlib/november15/vandesompel/11vandesompel.html [letzter Zugriff: 25.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1706">Wagner, Andreas (2016): "What’s in a URI? Part I: The School of Salamanca, the Semantic Web and Scholarly Referencing" https://blog.salamanca.school/2016/11/15/whats-in-a-uri-part-1/ [letzter Zugriff: 22.09.2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1707">Wolff, Eberhard (2016): "Microservices. Grundlagen flexibler Softwarearchitekturen". Heidelberg: dpunkt.verlag.</rs></bibl>
                 </listBibl>
             </div>
       </back>

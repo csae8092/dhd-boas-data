@@ -218,64 +218,24 @@
                   <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2260"><hi rend="bold">Beißwenger, Michael</hi> (2013): "Das Dortmunder
-                      Chat-Korpus", in: <hi rend="italic">Zeitschrift für germanistische
-                      Linguistik</hi> 41, 1: 161-164. Erweiterte Fassung online: <ref target="http://tinyurl.com/chatkorpus">http://tinyurl.com/chatkorpus</ref> [letzter Zugriff 18. September
-                      2015]. <hi rend="bold">Beißwenger, Michael / Ermakova, Maria / Geyken,
-                      Alexander / Lemnitzer, Lothar / Storrer, Angelika</hi> (2012): "A TEI
-                      Schema for the Representation of Computer-mediated Communication", in: <hi rend="italic">Journal of the Text Encoding Initiative (jTEI)</hi> 3.
-                      <ref target="http://jtei.revues.org/476">http://jtei.revues.org/476</ref> [letzter Zugriff 18. September
-                        2015].</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2261"><hi rend="bold">Beißwenger, Michael / Bartz, Thomas / Storrer, Angelika /
-                          Westpfahl, Swantje</hi> (2015): <hi rend="italic">Tagset und Richtlinie
-                          für das PoS-Tagging von Sprachdaten aus Genres internetbasierter
-                          Kommunikation</hi>. <ref target="https://sites.google.com/site/empirist2015/home/annotation-guidelines">https://sites.google.com/site/empirist2015/home/annotation-guidelines</ref>
-                          [letzter Zugriff 18. September 2015].</rs></bibl>
+                      <rs type="bibl" ref="#bibl__2260">Beißwenger, Michael (2013): "Das Dortmunder Chat-Korpus", in: Zeitschrift für germanistische Linguistik 41, 1: 161-164. Erweiterte Fassung online: http://tinyurl.com/chatkorpus [letzter Zugriff 18. September 2015]. Beißwenger, Michael / Ermakova, Maria / Geyken, Alexander / Lemnitzer, Lothar / Storrer, Angelika (2012): "A TEI Schema for the Representation of Computer-mediated Communication", in: Journal of the Text Encoding Initiative (jTEI) 3. http://jtei.revues.org/476 [letzter Zugriff 18. September 2015].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2261">Beißwenger, Michael / Bartz, Thomas / Storrer, Angelika / Westpfahl, Swantje (2015): Tagset und Richtlinie für das PoS-Tagging von Sprachdaten aus Genres internetbasierter Kommunikation. https://sites.google.com/site/empirist2015/home/annotation-guidelines [letzter Zugriff 18. September 2015].</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2262"><hi rend="bold">Chanier, Thierry / Poudat, Celine / Sagot, Benoit /
-                              Antoniadis, Georges / Wigham, Ciara / Hriba, Linda / Longhi, Julien /
-                              Seddah, Djamé</hi> (2014): "The CoMeRe corpus for French: structuring
-                              and annotating heterogeneous CMC genres", in: <hi rend="italic">Journal of
-                              Language Technology and Computational Linguistics</hi> 2: 1-30. <ref target="http://www.jlcl.org/2014_Heft2/1Chanier-et-al.pdf">http://www.jlcl.org/2014_Heft2/1Chanier-et-al.pdf</ref> [letzter
-                              Zugriff 18. September 2015].</rs></bibl>
+                            <rs type="bibl" ref="#bibl__2262">Chanier, Thierry / Poudat, Celine / Sagot, Benoit / Antoniadis, Georges / Wigham, Ciara / Hriba, Linda / Longhi, Julien / Seddah, Djamé (2014): "The CoMeRe corpus for French: structuring and annotating heterogeneous CMC genres", in: Journal of Language Technology and Computational Linguistics 2: 1-30. http://www.jlcl.org/2014_Heft2/1Chanier-et-al.pdf [letzter Zugriff 18. September 2015].</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2263"><hi rend="bold">Horbach, Andrea / Steffen, Diana / Thater, Stefan / Pinkal,
-                                  Manfred</hi> (2014): "Improving the Performance of Standard
-                                  Part-of-Speech Taggers for Computer-Mediated Communication", in: <hi rend="italic">Proceedings of KONVENS 2014</hi> 171-177. </rs></bibl>
-                                  <bibl><rs type="bibl" ref="#bibl__2264"><hi rend="bold">IDS = Institut für Deutsche Sprache</hi> (2014-2016): <hi rend="italic">Projekt Schreibgebrauch</hi>. Analyse und Instrumentarien
-                                  zur Beobachtung des Schreibgebrauchs im Deutschen <ref target="http://www.schreibgebrauch.de/index.html">http://www.schreibgebrauch.de/index.html</ref>.</rs></bibl>
+                                <rs type="bibl" ref="#bibl__2263">Horbach, Andrea / Steffen, Diana / Thater, Stefan / Pinkal, Manfred (2014): "Improving the Performance of Standard Part-of-Speech Taggers for Computer-Mediated Communication", in: Proceedings of KONVENS 2014 171-177.</rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__2264">IDS = Institut für Deutsche Sprache (2014-2016): Projekt Schreibgebrauch. Analyse und Instrumentarien zur Beobachtung des Schreibgebrauchs im Deutschen http://www.schreibgebrauch.de/index.html.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2265"><hi rend="bold">Kupietz, Marc / Lüngen, Harald</hi> (2014): "Recent
-                                    developments in DeReKo", in: Calzolari, Nicoletta / Choukri, Khalid /
-                                    Declerck, Thierry / Loftsson, Hrafn / Maegaard, Bente / Mariani, Joseph /
-                                    Odijk, Jan / Piperidis, Stelios (eds): <hi rend="italic">Proceedings of the
-                                    Ninth International Conference on Language Resources and Evaluation
-                                    (LREC 2014)</hi>, Reykjavik, Iceland. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2265">Kupietz, Marc / Lüngen, Harald (2014): "Recent developments in DeReKo", in: Calzolari, Nicoletta / Choukri, Khalid / Declerck, Thierry / Loftsson, Hrafn / Maegaard, Bente / Mariani, Joseph / Odijk, Jan / Piperidis, Stelios (eds): Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC 2014), Reykjavik, Iceland.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2266"><hi rend="bold">Margaretha, Eliza / Lüngen, Harald</hi> (2014): "Building
-                                      Linguistic Corpora from Wikipedia Articles and Discussions", in: <hi rend="italic">Journal of Language Technology and Computational
-                                      Linguistics</hi> 2: 59-82. <ref target="http://www.jlcl.org/2014_Heft2/3MargarethaLuengen.pdf">http://www. jlcl.org/2014_Heft2/3MargarethaLuengen.pdf</ref> [letzter
-                                      Zugriff 18. September 2015]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2266">Margaretha, Eliza / Lüngen, Harald (2014): "Building Linguistic Corpora from Wikipedia Articles and Discussions", in: Journal of Language Technology and Computational Linguistics 2: 59-82. http://www. jlcl.org/2014_Heft2/3MargarethaLuengen.pdf [letzter Zugriff 18. September 2015].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2267"><hi rend="bold">Oksanen, Ville / Lindén, Krister / Westerlund, Hanna</hi>
-                                        (2010): "Laundry Symbols and License Management: Practical Considerations
-                                        for the Distribution of LRs based on experiences from CLARIN", in: <hi rend="italic">Proceedings of LREC 2010: Workshop on Language Resources:
-                                        From Storyboard to Sustainability and LR Lifecycle Management</hi>,
-                                        Malta. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2267">Oksanen, Ville / Lindén, Krister / Westerlund, Hanna (2010): "Laundry Symbols and License Management: Practical Considerations for the Distribution of LRs based on experiences from CLARIN", in: Proceedings of LREC 2010: Workshop on Language Resources: From Storyboard to Sustainability and LR Lifecycle Management, Malta.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2268"><hi rend="bold">Schmidt, Thomas</hi> (2012): "EXMARaLDA and the FOLK tools –
-                                          two toolsets for transcribing and annotating spoken language", in: <hi rend="italic">Proceedings of LREC2012</hi>
-                                          <ref target="http://www.lrec-conf.org/proceedings/lrec2012/pdf/529_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2012/pdf/529_Paper.pdf</ref>
-                                            [letzter Zugriff 18. September 2015]. </rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2269"><hi rend="bold">Schiller, Anne / Teufel, Simone / Stöckert, Christine</hi>
-                                            (1999): <hi rend="italic">Guidelines für das Tagging deutscher Textcorpora
-                                            mit STTS (Kleines und großes Tagset)</hi>. Universität Stuttgart:
-                                            Institut für maschinelle Sprachverarbeitung. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2268">Schmidt, Thomas (2012): "EXMARaLDA and the FOLK tools – two toolsets for transcribing and annotating spoken language", in: Proceedings of LREC2012 http://www.lrec-conf.org/proceedings/lrec2012/pdf/529_Paper.pdf [letzter Zugriff 18. September 2015].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2269">Schiller, Anne / Teufel, Simone / Stöckert, Christine (1999): Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset). Universität Stuttgart: Institut für maschinelle Sprachverarbeitung.</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__59"><hi rend="bold">TEI Consortium</hi> (eds.) (2007): <hi rend="italic">TEI P5:
-                                              Guidelines for Electronic Text Encoding and Interchange</hi>
-                                              <ref target="http://www.tei-c.org/Guidelines/P5/">http://www.tei-c.org/Guidelines/P5/</ref> [letzter Zugriff 18.
-                                                September 2015]. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__59">TEI Consortium (eds.) (2007): TEI P5: Guidelines for Electronic Text Encoding and Interchange http://www.tei-c.org/Guidelines/P5/ [letzter Zugriff 18. September 2015].</rs></bibl>
                                               </listBibl>
                                             </div>
                                           </back>

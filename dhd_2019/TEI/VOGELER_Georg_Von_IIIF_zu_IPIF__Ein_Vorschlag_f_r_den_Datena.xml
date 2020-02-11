@@ -178,76 +178,33 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4084"><rs type="bibl" ref="#bibl__2858"><hi rend="bold">Andresen, Suse</hi> (2008): “Das 'Repertorium Academicum Germanicum'. Überlegungen zu einer modellorientierten Datenbankstruktur und zur Aufbereitung prosopographischer Informationen der graduierten Gelehrten des Spätmittelalters“, in: Sigrid Schmitt u. Michael Matheus (eds.) 
-                        <hi rend="italic">Städtische Gesellschaft und Kirche im Spätmittelalter</hi> (Geschichtliche Landeskunde 62). Stuttgart: Steiner 17-26.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4084">Andresen, Suse (2008): “Das 'Repertorium Academicum Germanicum'. Überlegungen zu einer modellorientierten Datenbankstruktur und zur Aufbereitung prosopographischer Informationen der graduierten Gelehrten des Spätmittelalters“, in: Sigrid Schmitt u. Michael Matheus (eds.) Städtische Gesellschaft und Kirche im Spätmittelalter (Geschichtliche Landeskunde 62). Stuttgart: Steiner 17-26.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4085"><rs type="bibl" ref="#bibl__2859"><hi rend="bold">Bradley, John</hi> (2017): Factoids. A site that introduces Factoid Prosopograph, 
-                        <ref target="http://factoid-dighum.kcl.ac.uk/">
-                            <hi rend="ListLabel_29">http://factoid-dighum.kcl.ac.uk/</hi>
-                        </ref> und 
-                        <ref target="https://github.com/johnBradley501/FPO">
-                            <hi rend="ListLabel_29">https://github.com/johnBradley501/FPO</hi>
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4085">Bradley, John (2017): Factoids. A site that introduces Factoid Prosopograph, http://factoid-dighum.kcl.ac.uk/ und https://github.com/johnBradley501/FPO</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4086"><rs type="bibl" ref="#bibl__2860"><hi rend="bold">Bradley, John / Pasin, Michele</hi> (2015): “Factoid-based Prosopography and Computer Ontologies. Towards an integrated approach”, in: DSH 30,1: 86-97.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4086">Bradley, John / Pasin, Michele (2015): “Factoid-based Prosopography and Computer Ontologies. Towards an integrated approach”, in: DSH 30,1: 86-97.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4087"><rs type="bibl" ref="#bibl__2861"><hi rend="bold">Bradley, John / Short, Harold</hi> (2005): “Texts into databases. The Evolving field of New-style Prosopography“, in: LLC 20, suppl. 1: 3-24.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4087">Bradley, John / Short, Harold (2005): “Texts into databases. The Evolving field of New-style Prosopography“, in: LLC 20, suppl. 1: 3-24.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4088"><rs type="bibl" ref="#bibl__2862"><hi rend="bold">CCEd</hi>: 
-                        <hi rend="italic">Clergy of the Church of England Database</hi>, King’s College London 
-                        <ref target="http://theclergydatabase.org.uk/">
-                            <hi rend="ListLabel_29">http://theclergydatabase.org.uk/</hi>
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4088">CCEd: Clergy of the Church of England Database, King’s College London http://theclergydatabase.org.uk/</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4089"><rs type="bibl" ref="#bibl__2863"><hi rend="bold">DPRR</hi>: 
-                        <hi rend="italic">Digital Prosopography of the Roman Republic</hi>, King’s College London 
-                        <ref target="HYPERLINK">
-                            <hi rend="ListLabel_29">http://romanrepublic.ac.uk/</hi>
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4089">DPRR: Digital Prosopography of the Roman Republic, King’s College London http://romanrepublic.ac.uk/</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4090"><rs type="bibl" ref="#bibl__2864"><hi rend="bold">Keats-Rohan, Katherine S.B.</hi> (ed.) (2007): 
-                        <hi rend="italic">Prosopography. Approaches and Applications. A Handbook</hi> (Prosopographica et genealogica 13). Oxford: P&amp;G.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4090">Keats-Rohan, Katherine S.B. (ed.) (2007): Prosopography. Approaches and Applications. A Handbook (Prosopographica et genealogica 13). Oxford: P&amp;G.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4091"><rs type="bibl" ref="#bibl__2865"><hi rend="bold">Lind, Gunner</hi>
-                        <hi style="font-size:10pt">(1994)</hi>: Data Structures for Computer Prosopography, in: 
-                        <hi rend="italic">Yesterday: Proceedings from the 6th International Conference of the Association of History and Computing</hi>, Odense 1991. Odense: University Press of Southern Denmark. 77-82.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4091">Lind, Gunner (1994): Data Structures for Computer Prosopography, in: Yesterday: Proceedings from the 6th International Conference of the Association of History and Computing, Odense 1991. Odense: University Press of Southern Denmark. 77-82.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4092"><rs type="bibl" ref="#bibl__2866"><hi rend="bold">Neumann, Gerald / Körner, Fabian / Roeder, Torsten / Walkowski, Niels-Oliver</hi> (2011): „Personendaten-Repositorium“, in: 
-                        <hi rend="italic">Berlin-Brandenburgische Akademie der Wissenschaften. Jahrbuch 2010</hi>: 320-326.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4092">Neumann, Gerald / Körner, Fabian / Roeder, Torsten / Walkowski, Niels-Oliver (2011): „Personendaten-Repositorium“, in: Berlin-Brandenburgische Akademie der Wissenschaften. Jahrbuch 2010: 320-326.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4093"><rs type="bibl" ref="#bibl__2867"><hi rend="bold">PASE</hi>: 
-                        <hi rend="italic">Prosopography of Anglo-Saxon England</hi>, King’s College London, URL: 
-                        <ref target="http://www.pase.ac.uk/jsp/index.jsp">
-                            <hi rend="ListLabel_29">http://www.pase.ac.uk/jsp/index.jsp</hi>
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4093">PASE: Prosopography of Anglo-Saxon England, King’s College London, URL: http://www.pase.ac.uk/jsp/index.jsp</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4094"><rs type="bibl" ref="#bibl__2868"><hi rend="bold">Schlögl, Matthias, and Katalin Lejtovicz</hi>. 2018. “A Prosopographical Information System (APIS)“, in: Antske Fokkens, ter Braake, Serge, Sluijter, Ronald, Arthur, Paul, and Wandl-Vogt, Eveline (eds.). 
-                        <hi rend="italic">BD-2017. Biographical Data in a Digital World 2017. Proceedings of the Second Conference on Biographical Data in a Digital World 2017</hi>. Linz, Austria, November 6-7, 2017. Budapest: CEUR (CEUR Workshop Proceedings 2119): 
-                        <hi rend="ceurpages">53-58</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4094">Schlögl, Matthias, and Katalin Lejtovicz. 2018. “A Prosopographical Information System (APIS)“, in: Antske Fokkens, ter Braake, Serge, Sluijter, Ronald, Arthur, Paul, and Wandl-Vogt, Eveline (eds.). BD-2017. Biographical Data in a Digital World 2017. Proceedings of the Second Conference on Biographical Data in a Digital World 2017. Linz, Austria, November 6-7, 2017. Budapest: CEUR (CEUR Workshop Proceedings 2119): 53-58.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4095"><rs type="bibl" ref="#bibl__2869"><hi rend="bold">Schlögl, Matthias / Lejtovicz, Katalin / Bernád, Ágoston Zénó / Kaiser, Maximilian / Rumpolt, Peter</hi> (2018): “Using deep learning to explore movement of people in a large corpus of biographies”. Zenodo. 
-                        <ref target="http://doi.org/10.5281/zenodo.1149023">
-                            <hi rend="Internet_Link">http://doi.org/10.5281/zenodo.1149023</hi>
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4095">Schlögl, Matthias / Lejtovicz, Katalin / Bernád, Ágoston Zénó / Kaiser, Maximilian / Rumpolt, Peter (2018): “Using deep learning to explore movement of people in a large corpus of biographies”. Zenodo. http://doi.org/10.5281/zenodo.1149023</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4096"><rs type="bibl" ref="#bibl__2870"><hi rend="bold">Tuominen, Jouni / Hyvönen, Eero / Leskinen, Petri (2018)</hi>: “Bio CRM. A Data Model for Representing Biographical Data for Prosopographical Research” in: BD-2017. Biographical Data in a Digital World 2017, hg. v. Antske Fokkens, Serge ter Braake, Ronald Sluijter, Paul Arthur, Eveline Wandl-Vogt, Budapest: CEUR (CEUR Workshop Proceedings 2119): 59-66. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4096">Tuominen, Jouni / Hyvönen, Eero / Leskinen, Petri (2018): “Bio CRM. A Data Model for Representing Biographical Data for Prosopographical Research” in: BD-2017. Biographical Data in a Digital World 2017, hg. v. Antske Fokkens, Serge ter Braake, Ronald Sluijter, Paul Arthur, Eveline Wandl-Vogt, Budapest: CEUR (CEUR Workshop Proceedings 2119): 59-66.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4097"><rs type="bibl" ref="#bibl__2871"><hi rend="bold">Tzompanaki, Katerina / Doerr Martin</hi> (2012
-                        <hi rend="italic">): Fundamental Categories and Relationships for intuitive querying CIDOC-CRM based repositories</hi>, Technical Report ICS-FORTH/TR-429, April 2012, &lt;http://cidoc-crm.org/docs/TechnicalReport429_April2012.pdf&gt;
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4097">Tzompanaki, Katerina / Doerr Martin (2012 ): Fundamental Categories and Relationships for intuitive querying CIDOC-CRM based repositories, Technical Report ICS-FORTH/TR-429, April 2012, &lt;http://cidoc-crm.org/docs/TechnicalReport429_April2012.pdf&gt;</rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -116,85 +116,33 @@
               <listBibl>
                 <head>Bibliographie</head>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__2047"><hi rend="bold">Biblissima</hi> (2013): <hi rend="italic">Bibliotheca
-                  bibliothecarum novissima</hi> Patrimoine écrit du Moyen Âge et de la
-                  Renaissance, Bibliothèque numérique, VIIIe au XVIIIe siècle. <ref target="http://www.biblissima-condorcet.fr/">http://www.biblissima-condorcet.fr</ref> [letzter Zugriff 31. Dezember
-                  2015]. </rs></bibl>
+                  <rs type="bibl" ref="#bibl__2047">Biblissima (2013): Bibliotheca bibliothecarum novissima Patrimoine écrit du Moyen Âge et de la Renaissance, Bibliothèque numérique, VIIIe au XVIIIe siècle. http://www.biblissima-condorcet.fr [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__235"><hi rend="bold">Brüning, Gerrit / Henzel, Katrin / Pravida, Dietmar</hi>
-                    (2013): „Multiple Encoding in Genetic Editions: The Case of 'Faust'", in:
-                    <hi rend="italic">Journal of the Text Encoding Initiative</hi> 4 <ref target="http://jtei.revues.org/697">http://jtei.revues.org/697</ref>
-                    [letzter Zugriff 31. Dezember 2015]. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__235">Brüning, Gerrit / Henzel, Katrin / Pravida, Dietmar (2013): „Multiple Encoding in Genetic Editions: The Case of 'Faust'", in: Journal of the Text Encoding Initiative 4 http://jtei.revues.org/697 [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__236"><hi rend="bold">Burnard, Lou / Jannidis, Fotis / Pierazzo, Elena / Rehbein,
-                        Malte</hi> (2011): <hi rend="italic">An Encoding Model for Genetic
-                        Editions</hi>
-                        <ref target="http://www.tei-c.org/Activities/Council/Working/tcw19.html">http://www.tei-c.org/Activities/Council/Working/tcw19.html</ref>
-                          [letzter Zugriff 31. Dezember 2015] </rs></bibl>
+                      <rs type="bibl" ref="#bibl__236">Burnard, Lou / Jannidis, Fotis / Pierazzo, Elena / Rehbein, Malte (2011): An Encoding Model for Genetic Editions http://www.tei-c.org/Activities/Council/Working/tcw19.html [letzter Zugriff 31. Dezember 2015]</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2048"><hi rend="bold">Burrows, Toby</hi> (2011): „Applying Semantic Web
-                            Technologies to Medieval Manuscript Research“, in: Fischer, Franz / Fritze,
-                            Christiane / Vogeler, Georg (eds.): <hi rend="italic">Kodikologie und
-                            Paläographie im digitalen Zeitalter 2</hi>. Norderstedt: BoD 117-131
-                            <ref target="http://kups.ub.uni-koeln.de/4346/">http://kups.ub.uni-koeln.de/4346/</ref> [letzter Zugriff 31. Dezember
-                              2015]. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__2048">Burrows, Toby (2011): „Applying Semantic Web Technologies to Medieval Manuscript Research“, in: Fischer, Franz / Fritze, Christiane / Vogeler, Georg (eds.): Kodikologie und Paläographie im digitalen Zeitalter 2. Norderstedt: BoD 117-131 http://kups.ub.uni-koeln.de/4346/ [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2049"><hi rend="bold">EBDB</hi> (2001-*): <hi rend="italic">Einbanddatenbank</hi>
-                                Württembergische Landesbibliothek Stuttgart, Herzog August Bibliothek
-                                Wolfenbüttel, Bayerische Staatsbibliothek München, Staatsbibliothek zu
-                                Berlin - Preußischer Kulturbesitz, Universitäts- und Landesbibliothek
-                                Darmstadt, Universitätsbibliothek Rostock <ref target="http://www.hist-einband.de/">http://www.hist-einband.de</ref>
-                                [letzter Zugriff 31. Dezember 2015]. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2049">EBDB (2001-*): Einbanddatenbank Württembergische Landesbibliothek Stuttgart, Herzog August Bibliothek Wolfenbüttel, Bayerische Staatsbibliothek München, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Universitäts- und Landesbibliothek Darmstadt, Universitätsbibliothek Rostock http://www.hist-einband.de [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2050"><hi rend="bold">e-codices</hi> (2003-*): <hi rend="italic">e-codices:
-                                  Virtuelle Handschriftenbibliothek der Schweiz</hi>. Universität
-                                  Freiburg, Schweiz <ref target="http://e-codices.unifr.ch/">http://e-codices.unifr.ch</ref> [letzter Zugriff 31. Dezember 2015]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2050">e-codices (2003-*): e-codices: Virtuelle Handschriftenbibliothek der Schweiz. Universität Freiburg, Schweiz http://e-codices.unifr.ch [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2051"><hi rend="bold">IIIF</hi> (2011-*): <hi rend="italic">International Image
-                                    Interoperability Framework</hi>
-                                    <ref target="http://iiif.io/">http://iiif.io</ref> [letzter Zugriff 31.
-                                    Dezember 2015]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2051">IIIF (2011-*): International Image Interoperability Framework http://iiif.io [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2052"><hi rend="bold">Kailus, Angela</hi> (2013): <hi rend="italic">RDA in der
-                                      Dokumentation von Kunst und Architektur</hi>. Workshop am 10. September
-                                      2013. Deutsche Nationalbibliothek in Frankfurt am Main <ref target="http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/rdaKultur2013Kailus.pdf">http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/rdaKultur2013Kailus.pdf</ref>
-                                      [letzter Zugriff 31. Dezember 2015]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2052">Kailus, Angela (2013): RDA in der Dokumentation von Kunst und Architektur. Workshop am 10. September 2013. Deutsche Nationalbibliothek in Frankfurt am Main http://www.dnb.de/SharedDocs/Downloads/DE/DNB/standardisierung/rdaKultur2013Kailus.pdf [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2053"><hi rend="bold">Manuscripta Mediaevalia</hi> (2000-*): Staatsbibliothek zu
-                                        Berlin- Preußischer Kulturbesitz, Deutsches Dokumentationszentrum für
-                                        Kunstgeschichte - Bildarchiv Foto Marburg, Bayerische Staatsbibliothek
-                                        München <ref target="http://www.manuscripta-mediaevalia.de/">http://www.manuscripta-mediaevalia.de</ref> [letzter Zugriff 31.
-                                        Dezember 2015]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2053">Manuscripta Mediaevalia (2000-*): Staatsbibliothek zu Berlin- Preußischer Kulturbesitz, Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg, Bayerische Staatsbibliothek München http://www.manuscripta-mediaevalia.de [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2054"><hi rend="bold">Sanderson, Robert / Albritton, Benjamin</hi> (2013): <hi rend="italic">Shared Canvas Data Model</hi>
-                                          <ref target="http://iiif.io/model/shared-canvas/1.0/">http://iiif.io/model/shared-canvas/1.0/</ref> [letzter Zugriff 31.
-                                            Dezember 2015]. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2054">Sanderson, Robert / Albritton, Benjamin (2013): Shared Canvas Data Model http://iiif.io/model/shared-canvas/1.0/ [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2055"><hi rend="bold">Sanderson, Robert / Albritton, Benjamin / Schwemmer, Rafael
-                                                / Van de Sompel, Herbert</hi> (2011): "SharedCanvas: A Collaborative
-                                                Model for Medieval Manuscript Layout Dissemination", in: <hi rend="italic">
-                                                arXiv:1104.2925 </hi>
-                                                <ref target="http://arxiv.org/abs/1104.2925">http://arxiv.org/abs/1104.2925</ref> [letzter Zugriff 31. Dezember
-                                                  2015]. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2055">Sanderson, Robert / Albritton, Benjamin / Schwemmer, Rafael / Van de Sompel, Herbert (2011): "SharedCanvas: A Collaborative Model for Medieval Manuscript Layout Dissemination", in: arXiv:1104.2925 http://arxiv.org/abs/1104.2925 [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2056"><hi rend="bold">Stinson, Timothy</hi> (2009): „Codicological Descriptions in
-                                                    the Digital Age“, in: Rehbein, Malte / Sahle, Patrick / Schaßan, Torsten
-                                                    (eds.): <hi rend="italic">Kodikologie und Paläographie im digitalen
-                                                    Zeitalter</hi>. Norderstedt: BoD 35-51 <ref target="http://kups.ub.uni-koeln.de/2959/">http://kups.ub.uni-koeln.de/2959/</ref> [letzter Zugriff 31. Dezember
-                                                    2015]. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2056">Stinson, Timothy (2009): „Codicological Descriptions in the Digital Age“, in: Rehbein, Malte / Sahle, Patrick / Schaßan, Torsten (eds.): Kodikologie und Paläographie im digitalen Zeitalter. Norderstedt: BoD 35-51 http://kups.ub.uni-koeln.de/2959/ [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                                     <bibl>
-                                                      <rs type="bibl" ref="#bibl__2057"><hi rend="bold">Terras, Melissa</hi> (2011): „Artefacts and Errors:
-                                                      Acknowledging Issues of Representation in the Digital: Imaging of Ancient
-                                                      Texts“, in: Fischer, Franz / Fritze, Christiane / Vogeler, Georg (eds.): <hi rend="italic">Kodikologie und Paläographie im digitalen Zeitalter
-                                                      2</hi>. Norderstedt: BoD 43-61 <ref target="http://kups.ub.uni-koeln.de/4342/">http://kups.ub.uni-koeln.de/4342/</ref> [letzter Zugriff 31. Dezember
-                                                      2015]. </rs></bibl>
+                                                      <rs type="bibl" ref="#bibl__2057">Terras, Melissa (2011): „Artefacts and Errors: Acknowledging Issues of Representation in the Digital: Imaging of Ancient Texts“, in: Fischer, Franz / Fritze, Christiane / Vogeler, Georg (eds.): Kodikologie und Paläographie im digitalen Zeitalter 2. Norderstedt: BoD 43-61 http://kups.ub.uni-koeln.de/4342/ [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2058"><hi rend="bold">WZIS</hi>(2010-*): <hi rend="italic">Wasserzeichen-Informationssystem</hi>. Bayerische Staatsbibliothek
-                                                        München, Deutsche Nationalbibliothek Leipzig, Landesarchiv
-                                                        Baden-Württemberg, Österreichische Akademie der Wissenschaften,
-                                                        Staatsbibliothek zu Berlin, Württembergische Landesbibliothek Stuttgart,
-                                                        Universitätsbibliothek Leipzig <ref target="http://www.wasserzeichen-online.de/">http://www.wasserzeichen-online.de</ref> [letzter Zugriff 31. Dezember
-                                                        2015]. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2058">WZIS(2010-*): Wasserzeichen-Informationssystem. Bayerische Staatsbibliothek München, Deutsche Nationalbibliothek Leipzig, Landesarchiv Baden-Württemberg, Österreichische Akademie der Wissenschaften, Staatsbibliothek zu Berlin, Württembergische Landesbibliothek Stuttgart, Universitätsbibliothek Leipzig http://www.wasserzeichen-online.de [letzter Zugriff 31. Dezember 2015].</rs></bibl>
                                                       </listBibl>
                                                     </div>
                                                   </back>

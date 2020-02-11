@@ -138,23 +138,11 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__114"><rs type="bibl" ref="#bibl__84"><hi rend="bold">Bollmann, Marcel / Petran, Florian / Dipper, Stefanie / Krasselt, Julia</hi>
-                        <hi rend="FirstName" xml:space="preserve"> (2014): </hi>“CorA: A web-based Annotation Tool for Historical and other non-standard Language Data”, in: 
-                        <hi rend="italic">Proceedings of the 8th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH)</hi>
-                        <hi rend="FirstName" xml:space="preserve"> 86—90.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__114">Bollmann, Marcel / Petran, Florian / Dipper, Stefanie / Krasselt, Julia (2014): “CorA: A web-based Annotation Tool for Historical and other non-standard Language Data”, in: Proceedings of the 8th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) 86—90.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3484"><rs type="bibl" ref="#bibl__2245"><hi rend="bold">Traugott, Elizabeth / Trousdale, Graeme</hi>
-                        <hi rend="FirstName" xml:space="preserve"> (2013): </hi>
-                        <hi rend="italic">Constructionalization and Constructional Change.</hi>
-                        <hi rend="FirstName" xml:space="preserve"> </hi>Oxford: Oxford University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3484">Traugott, Elizabeth / Trousdale, Graeme (2013): Constructionalization and Constructional Change. Oxford: Oxford University Press.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3485"><rs type="bibl" ref="#bibl__2246"><hi rend="bold">Yimam, Seid Muhie / Biemann, Chris / de Castilho, Richard / Gurevych, Iryna</hi>
-                        <hi rend="FirstName" xml:space="preserve"> (2014): “Automatic Annotation Suggestions and Custom Annotation Layers in WebAnno“, in: </hi>
-                        <hi rend="italic">Proceedings of 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations</hi>
-                        <hi rend="FirstName" xml:space="preserve"> 91—96.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3485">Yimam, Seid Muhie / Biemann, Chris / de Castilho, Richard / Gurevych, Iryna (2014): “Automatic Annotation Suggestions and Custom Annotation Layers in WebAnno“, in: Proceedings of 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations 91—96.</rs></bibl>
                 </listBibl>
             </div>
         </back>

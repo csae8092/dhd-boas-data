@@ -147,29 +147,13 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__2135"><hi rend="bold">Anderson, Benedict</hi> (2006):  <hi rend="italic">Imagined Communities: Reflections on the Origin and Spread of
-              Nationalism</hi>. New York: Verso. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2136"><hi rend="bold">Barth, Dieter</hi> (1975): “Das Familienblatt — ein
-              Phänomen der Unterhaltungspresse des 19. Jahrhunderts. Beispiele zur
-              Gründungs- und Verlagsgeschichte”, in: <hi rend="italic">Archiv für
-              Geschichte des Buchwesens </hi>15: cols. 205-12. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2137"><hi rend="bold">Belgum, Kirsten</hi> (1998):  <hi rend="italic">Popularizing the Nation: Audience, Representation, and the Production
-              of Identity in Die Gartenlaube, 1853-1900</hi>. Omaha: U Nebraska P. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2138"><hi rend="bold">Daum, Andreas</hi> (2002):  <hi rend="italic">Wissenschaftspopularisierung im 19. Jahrhundert: bürgerliche Kultur,
-              naturwissenschaftliche Bildung und die
-              deutsche Öffentlichkeit, 1848-1914</hi>. Munich: Oldenbourg. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2139"><hi rend="bold">McIsaac, Peter</hi> (2014): “Rethinking Non-Fiction:
-              Distant Reading the Nineteenth-Century Science-Literature Divide,” in:
-              Tatlock, Lynne / Erlin, Matt (eds.): <hi rend="italic">Distant Readings:
-              Topologies of German Literature in the Long Nineteenth Century</hi>.
-              Rochester: Camden House 185-208. </rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2135">Anderson, Benedict (2006): Imagined Communities: Reflections on the Origin and Spread of Nationalism. New York: Verso.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2136">Barth, Dieter (1975): “Das Familienblatt — ein Phänomen der Unterhaltungspresse des 19. Jahrhunderts. Beispiele zur Gründungs- und Verlagsgeschichte”, in: Archiv für Geschichte des Buchwesens 15: cols. 205-12.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2137">Belgum, Kirsten (1998): Popularizing the Nation: Audience, Representation, and the Production of Identity in Die Gartenlaube, 1853-1900. Omaha: U Nebraska P.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2138">Daum, Andreas (2002): Wissenschaftspopularisierung im 19. Jahrhundert: bürgerliche Kultur, naturwissenschaftliche Bildung und die deutsche Öffentlichkeit, 1848-1914. Munich: Oldenbourg.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2139">McIsaac, Peter (2014): “Rethinking Non-Fiction: Distant Reading the Nineteenth-Century Science-Literature Divide,” in: Tatlock, Lynne / Erlin, Matt (eds.): Distant Readings: Topologies of German Literature in the Long Nineteenth Century. Rochester: Camden House 185-208.</rs></bibl>
               <bibl>
-                <rs type="bibl" ref="#bibl__2140"><hi rend="bold">Mini-Gov Datenbank</hi> (2015): <hi rend="italic">Mini-GOV
-                (Genealogisches Ortsverzeichnis)</hi>. Daten des <ref target="http://gov.genealogy.net">Genealogischen Ortsverzeichnisses
-                GOV</ref>, <ref target="http://compgen.de">Verein für Computergenealogie
-                e. V.</ref>
-                <ref target="http://wiki-de.genealogy.net/GOV/Mini-GOV">http://wiki-de.genealogy.net/GOV/Mini-GOV</ref> [letzter Zugriff 28.
-                  Dezember 2015].</rs></bibl>
+                <rs type="bibl" ref="#bibl__2140">Mini-Gov Datenbank (2015): Mini-GOV (Genealogisches Ortsverzeichnis). Daten des Genealogischen Ortsverzeichnisses GOV, Verein für Computergenealogie e. V. http://wiki-de.genealogy.net/GOV/Mini-GOV [letzter Zugriff 28. Dezember 2015].</rs></bibl>
                 </listBibl>
               </div>
             </back>

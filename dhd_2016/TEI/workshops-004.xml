@@ -259,109 +259,47 @@
                               <div type="bibliogr">
                                 <listBibl>
                                   <head>Bibliographie</head>
-                                  <bibl><rs type="bibl" ref="#bibl__2483"><hi rend="bold">Ágel, Vilmos / Hennig, Mathilde</hi> (2007-2009): <hi rend="italic">KAJUK</hi> (Version 1.1). Justus-Liebig-Universität Gießen
-                                  <ref target="http://www.uni-giessen.de/kajuk/index.htm">http://www.uni-giessen.de/kajuk/index.htm</ref>, <ref target="http://hdl.handle.net/11022/0000-0000-2102-8">http://hdl.handle.net/11022/0000-0000-2102-8</ref> [letzter Zugriff 10.
-                                    September 2015].</rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__2483">Ágel, Vilmos / Hennig, Mathilde (2007-2009): KAJUK (Version 1.1). Justus-Liebig-Universität Gießen http://www.uni-giessen.de/kajuk/index.htm, http://hdl.handle.net/11022/0000-0000-2102-8 [letzter Zugriff 10. September 2015].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2484"><hi rend="bold">Baillot, Anne / Seifert, Sabine</hi> (2013a): „The Project
-                                      "Berlin Intellectuals 1800–1830" between Research and Teaching“ in:  <hi rend="italic">Journal of the Text Encoding Initiative</hi> 4. DOI:
-                                      10.4000/jtei.707.</rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__2485"><hi rend="bold">Baillot, Anne / Seifert, Sabine</hi> (2013b): <hi rend="italic">Briefe und Texte aus dem intellektuellen Berlin um
-                                      1800</hi>
-                                      <ref target="http://tei.ibi.hu-berlin.de/berliner-intellektuelle/">http://tei.ibi.hu-berlin.de/berliner-intellektuelle/</ref> [letzter
-                                        Zugriff: 22.Dezember 2015].</rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2484">Baillot, Anne / Seifert, Sabine (2013a): „The Project "Berlin Intellectuals 1800–1830" between Research and Teaching“ in: Journal of the Text Encoding Initiative 4. DOI: 10.4000/jtei.707.</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__2485">Baillot, Anne / Seifert, Sabine (2013b): Briefe und Texte aus dem intellektuellen Berlin um 1800 http://tei.ibi.hu-berlin.de/berliner-intellektuelle/ [letzter Zugriff: 22.Dezember 2015].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2486"><hi rend="bold">Bennett, Paul / Durrell, Martin / Ensslin, Astrid /
-                                            Scheible, Silke / Whitt, Richard</hi> (2008): <hi rend="italic">GerManC
-                                            Project</hi> (Version 1.0), University of Manchester <ref target="http://www.llc.manchester.ac.uk/research/projects/germanc/">http://www.llc.manchester.ac.uk/research/projects/germanc/</ref>, <ref target="http://hdl.handle.net/11022/0000-0000-2D1B-1">http://hdl.handle.net/11022/0000-0000-2D1B-1</ref> [letzter Zugriff
-                                            10.September 2015].</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2487"><hi rend="bold">Burr, Elisabeth</hi> (1994-2007): <hi rend="italic">Korpus
-                                            Romanischer Zeitungssprachen</hi>. Duisburg - Bremen - Leipzig <ref target="http://www.uni-leipzig.de/~burr/CorpusLing/">http://www.uni-leipzig.de/~burr/CorpusLing/</ref> [letzter Zugriff 10.
-                                            Sepzember 2015].</rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2486">Bennett, Paul / Durrell, Martin / Ensslin, Astrid / Scheible, Silke / Whitt, Richard (2008): GerManC Project (Version 1.0), University of Manchester http://www.llc.manchester.ac.uk/research/projects/germanc/, http://hdl.handle.net/11022/0000-0000-2D1B-1 [letzter Zugriff 10.September 2015].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2487">Burr, Elisabeth (1994-2007): Korpus Romanischer Zeitungssprachen. Duisburg - Bremen - Leipzig http://www.uni-leipzig.de/~burr/CorpusLing/ [letzter Zugriff 10. Sepzember 2015].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2488"><hi rend="bold">Burr, Elisabeth / Burkhardt, Julia / Potapenko, Elena /
-                                                Sierig, Rebecca / Concepción Durán, Arámis</hi> (2015): „Das
-                                                Duisburg-Leipzig Korpus romanischer Zeitungssprachen und sein Textmodell“,
-                                                in: <hi rend="italic">Von Daten zu Erkenntnissen. 2. Jahrestagung des
-                                                Verbandes der Digital Humanities im deutschsprachigen Raum</hi>, DHd
-                                                2015, Graz. <ref target="https://www.conftool.pro/dhd2015/index.php/Burr-Das_Duisburg-Leipzig_Korpus_romanischer_Zeitungssprachen-1771016.pdf?page=downloadPaper&amp;filename=Burr-Das_Duisburg-Leipzig_Korpus_romanischer_Zeitungssprachen-1771016.pdf&amp;form_id=177">https://www.conftool.pro/dhd2015/index.php/Burr-Das_Duisburg-Leipzig_Korpus_ romanischer_Zeitungssprachen-1771016.pdf?page=downloadPaper&amp;filename=Burr-Das_Duisburg-Leipzig_Korpus_romanischer_Zeitungssprachen -1771016. pdf&amp;form_id=177</ref>
-                                                [letzter Zugriff: 11.September 2015]. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2488">Burr, Elisabeth / Burkhardt, Julia / Potapenko, Elena / Sierig, Rebecca / Concepción Durán, Arámis (2015): „Das Duisburg-Leipzig Korpus romanischer Zeitungssprachen und sein Textmodell“, in: Von Daten zu Erkenntnissen. 2. Jahrestagung des Verbandes der Digital Humanities im deutschsprachigen Raum, DHd 2015, Graz. https://www.conftool.pro/dhd2015/index.php/Burr-Das_Duisburg-Leipzig_Korpus_ romanischer_Zeitungssprachen-1771016.pdf?page=downloadPaper&amp;filename=Burr-Das_Duisburg-Leipzig_Korpus_romanischer_Zeitungssprachen -1771016. pdf&amp;form_id=177 [letzter Zugriff: 11.September 2015].</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__203"><hi rend="bold">Claridge, Claudia</hi> (2008): “Historical Corpora” in:
-                                                  Lüdeling, Anke / Kytö, Merja (eds.): <hi rend="italic">Corpus Linguistics.
-                                                  An International Handbook.</hi> Volume 1. Berlin: De Gruyter 242–259. </rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__203">Claridge, Claudia (2008): “Historical Corpora” in: Lüdeling, Anke / Kytö, Merja (eds.): Corpus Linguistics. An International Handbook. Volume 1. Berlin: De Gruyter 242–259.</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2489"><hi rend="bold">Demske, Ulrike</hi> (2003-2005): <hi rend="italic">Mercurius</hi> (Version 1.1). Universität Potsdam <ref target="http://www.uni-potsdam.de/guvdds/projekte/abgproj.html">http://www.uni-potsdam.de/guvdds/projekte/abgproj.html</ref>, <ref target="http://hdl.handle.net/11022/0000-0000-467D-6">http://hdl.handle.net/11022/0000-0000-467D-6</ref> [letzter Zugriff:
-                                                    10.September 2015]. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2489">Demske, Ulrike (2003-2005): Mercurius (Version 1.1). Universität Potsdam http://www.uni-potsdam.de/guvdds/projekte/abgproj.html, http://hdl.handle.net/11022/0000-0000-467D-6 [letzter Zugriff: 10.September 2015].</rs></bibl>
                                                     <bibl>
-                                                      <rs type="bibl" ref="#bibl__17"><hi rend="bold">Dipper, Stefanie</hi> (2005): “XML-Based Stand-Off
-                                                      Representation and Exploitation of Multi-Level Linguistic Annotation”, in:
-                                                      <hi rend="italic">Proceedings of Berliner XML Tage Berlin</hi> 39-50. </rs></bibl>
-                                                      <bibl><rs type="bibl" ref="#bibl__2490"><hi rend="bold">DNB = Deutsche Nationalbiliothek</hi> (2015): <hi rend="italic">Gemeinsame Normdatei (GND)</hi>
-                                                      <ref target="http://www.dnb.de/gnd">http://www.dnb.de/gnd</ref> [letzter
-                                                      Zugriff 10.September 2015].</rs></bibl>
+                                                      <rs type="bibl" ref="#bibl__17">Dipper, Stefanie (2005): “XML-Based Stand-Off Representation and Exploitation of Multi-Level Linguistic Annotation”, in: Proceedings of Berliner XML Tage Berlin 39-50.</rs></bibl>
+                                                      <bibl><rs type="bibl" ref="#bibl__2490">DNB = Deutsche Nationalbiliothek (2015): Gemeinsame Normdatei (GND) http://www.dnb.de/gnd [letzter Zugriff 10.September 2015].</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2491"><hi rend="bold">Elliott, Tom / Gillies, Sean</hi> (2009): “Digital Geography
-                                                        and Classics. Changing the Center of Gravity”, in: <hi rend="italic">Digital
-                                                        Humanities Quarterly</hi> 3, 1 <ref target="http://www.digitalhumanities.org/dhq/vol/3/1/000031/000031.html"> </ref>
-                                                        <ref target="http://www.digitalhumanities.org/dhq/vol/3/1/000031/000031.html">
-                                                          <hi rend="underline color(1155CC)">http://www.digitalhumanities.org/dhq/vol/3/1/000031/000031.html</hi>
-                                                          </ref> [letzter Zugriff 10. September 2015]. </rs></bibl>
-                                                          <bibl><rs type="bibl" ref="#bibl__2492"><hi rend="bold">Hall, Johan / Nilsson, Jens / Nivre, Joakim</hi> (2014):
-                                                          <hi rend="italic">MaltParser</hi>
-                                                          <ref target="http://www.maltparser.org/">http://www.maltparser.org/</ref>
-                                                          [letzter Zugriff 10. September 2015]. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2491">Elliott, Tom / Gillies, Sean (2009): “Digital Geography and Classics. Changing the Center of Gravity”, in: Digital Humanities Quarterly 3, 1 http://www.digitalhumanities.org/dhq/vol/3/1/000031/000031.html [letzter Zugriff 10. September 2015].</rs></bibl>
+                                                          <bibl><rs type="bibl" ref="#bibl__2492">Hall, Johan / Nilsson, Jens / Nivre, Joakim (2014): MaltParser http://www.maltparser.org/ [letzter Zugriff 10. September 2015].</rs></bibl>
                                                           <bibl>
-                                                            <rs type="bibl" ref="#bibl__2493"><hi rend="bold">Haynes, David</hi> (2004): <hi rend="italic">Metadata for
-                                                            information management and retrieval</hi>. London: Facet publishing. </rs></bibl>
+                                                            <rs type="bibl" ref="#bibl__2493">Haynes, David (2004): Metadata for information management and retrieval. London: Facet publishing.</rs></bibl>
                                                             <bibl>
-                                                              <rs type="bibl" ref="#bibl__2494"><hi rend="bold">Himmelmann, Nikolaus. P.</hi> (2012): “Linguistic Data Types
-                                                              and the Interface between Language Documentation and Description”, in: <hi rend="italic">Language Documentation and Conservation</hi> 6: 187-207. </rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2494">Himmelmann, Nikolaus. P. (2012): “Linguistic Data Types and the Interface between Language Documentation and Description”, in: Language Documentation and Conservation 6: 187-207.</rs></bibl>
                                                               <bibl>
-                                                                <rs type="bibl" ref="#bibl__2495"><hi rend="bold">Kramer, Michael J.</hi> (2014): “Defining Data for
-                                                                Humanists: Text, Artifact, Information or Evidence?”, in: <hi rend="italic">Journal for Digital Humanities</hi> 3, 2 <ref target="http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/"> </ref>
-                                                                <ref target="http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/">
-                                                                  <hi rend="underline color(1155CC)">http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/</hi>
-                                                                  </ref> [letzter Zugriff: 10. September 2015]. </rs></bibl>
+                                                                <rs type="bibl" ref="#bibl__2495">Kramer, Michael J. (2014): “Defining Data for Humanists: Text, Artifact, Information or Evidence?”, in: Journal for Digital Humanities 3, 2 http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/ [letzter Zugriff: 10. September 2015].</rs></bibl>
                                                                   <bibl>
-                                                                    <rs type="bibl" ref="#bibl__2496"><hi rend="bold">Kübler, Sandra / Zinsmeister, Heike</hi> (2015): <hi rend="italic">Corpus Linguistics and Linguistically Annotated
-                                                                    Corpora</hi>. London / New York: Bloomsbury. </rs></bibl>
+                                                                    <rs type="bibl" ref="#bibl__2496">Kübler, Sandra / Zinsmeister, Heike (2015): Corpus Linguistics and Linguistically Annotated Corpora. London / New York: Bloomsbury.</rs></bibl>
                                                                     <bibl>
-                                                                      <rs type="bibl" ref="#bibl__2497"><hi rend="bold">Kytö, Merja / Pahta, Päivi</hi> (2012): “Evidence from
-                                                                      historical corpora up to the twentieth century” in: Nevalainen, Terttu /
-                                                                      Traugott, Elizabeth C. (eds.): <hi rend="italic">The Oxford Handbook of the
-                                                                      History of English.</hi> Oxford o.a.: Oxford University Press 123-133. </rs></bibl>
+                                                                      <rs type="bibl" ref="#bibl__2497">Kytö, Merja / Pahta, Päivi (2012): “Evidence from historical corpora up to the twentieth century” in: Nevalainen, Terttu / Traugott, Elizabeth C. (eds.): The Oxford Handbook of the History of English. Oxford o.a.: Oxford University Press 123-133.</rs></bibl>
                                                                       <bibl>
-                                                                        <rs type="bibl" ref="#bibl__204"><hi rend="bold">Lüdeling, Anke</hi> (2011): “Corpora in Linguistics:
-                                                                        Sampling and Annotation” in: Grandin, Karl (ed.): <hi rend="italic">Going
-                                                                        Digital</hi>. Evolutionary and Revolutionary Aspects of Digitization.
-                                                                        Nobel Symposium 147. New York: Science History Publications 220-243. </rs></bibl>
+                                                                        <rs type="bibl" ref="#bibl__204">Lüdeling, Anke (2011): “Corpora in Linguistics: Sampling and Annotation” in: Grandin, Karl (ed.): Going Digital. Evolutionary and Revolutionary Aspects of Digitization. Nobel Symposium 147. New York: Science History Publications 220-243.</rs></bibl>
                                                                         <bibl>
-                                                                          <rs type="bibl" ref="#bibl__2498"><hi rend="bold">Odebrecht, Carolin</hi> (2015): „Interdisziplinäre Nutzung
-                                                                          von Forschungsdaten mithilfe einer technisch-abstrakten Modellierung“, in:
-                                                                          <hi rend="italic">Von Daten zu Erkenntnissen. 2. Jahrestagung des
-                                                                            Verbandes der Digital Humanities im deutschsprachigen Raum</hi> DHd
-                                                                            2015, Graz. <ref target="https://www.conftool.pro/dhd2015/index.php/Odebrecht-Interdisziplin%C3%A4re_Nutzung_von_Forschungsdaten_mithilfe_einer_technisch-abstrakten_Modellierung-63110.pdf?page=downloadPaper&amp;filename=Odebrecht-Interdisziplin%C3%A4re_Nutzung_von_Forschungsdaten_mithilfe_einer_technisch-abstrakten_Modellierung-63110.pdf&amp;form_id=63">https://www.conftool.pro/dhd2015/index.php/Odebrecht-Interdisziplin%C3%A4re_Nutzung_von_Forschungsdaten _mithilfe_einer_technisch-abstrakten_Modellierung-63110.pdf?page=downloadPaper&amp;filename=Odebrecht-Interdisziplin%C3%A4re_Nutzung_von_Forschungsdaten _mithilfe_einer_technisch-abstrakten_Modellierung-63110.pdf &amp;form_id=63</ref>
-                                                                            [letzter Zugriff 12.September 2015]. </rs></bibl>
+                                                                          <rs type="bibl" ref="#bibl__2498">Odebrecht, Carolin (2015): „Interdisziplinäre Nutzung von Forschungsdaten mithilfe einer technisch-abstrakten Modellierung“, in: Von Daten zu Erkenntnissen. 2. Jahrestagung des Verbandes der Digital Humanities im deutschsprachigen Raum DHd 2015, Graz. https://www.conftool.pro/dhd2015/index.php/Odebrecht-Interdisziplin%C3%A4re_Nutzung_von_Forschungsdaten _mithilfe_einer_technisch-abstrakten_Modellierung-63110.pdf?page=downloadPaper&amp;filename=Odebrecht-Interdisziplin%C3%A4re_Nutzung_von_Forschungsdaten _mithilfe_einer_technisch-abstrakten_Modellierung-63110.pdf &amp;form_id=63 [letzter Zugriff 12.September 2015].</rs></bibl>
                                                                             <bibl>
-                                                                              <rs type="bibl" ref="#bibl__119"><hi rend="bold">Pitti, Daniel V.</hi> (2004): “Designing Sustainable
-                                                                              Projects and Publications” in: Schreibman, Susan / Siemens, Ray / Unsworth,
-                                                                              John (eds.): <hi rend="italic">A Companion to Digital Humanities.</hi>
-                                                                              Oxford: Blackwell 471–487. </rs></bibl>
+                                                                              <rs type="bibl" ref="#bibl__119">Pitti, Daniel V. (2004): “Designing Sustainable Projects and Publications” in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A Companion to Digital Humanities. Oxford: Blackwell 471–487.</rs></bibl>
                                                                               <bibl>
-                                                                                <rs type="bibl" ref="#bibl__205"><hi rend="bold">Rissanen, Matti</hi> (2008): “Corpus Linguistics and
-                                                                                Historical Linguistics” in: Lüdeling, Anke / Kytö, Merja (eds.): <hi rend="italic">Corpus Linguistics. An International Handbook.</hi> Volume
-                                                                                1. Berlin: Mouton de Gruyter 53-68. </rs></bibl>
+                                                                                <rs type="bibl" ref="#bibl__205">Rissanen, Matti (2008): “Corpus Linguistics and Historical Linguistics” in: Lüdeling, Anke / Kytö, Merja (eds.): Corpus Linguistics. An International Handbook. Volume 1. Berlin: Mouton de Gruyter 53-68.</rs></bibl>
                                                                                 <bibl>
-                                                                                  <rs type="bibl" ref="#bibl__147"><hi rend="bold">Schmid, Helmut</hi> (1994): “Probabilistic Part-of-Speech
-                                                                                  Tagging Using Decision Trees“, in: <hi rend="italic">Proceedings of
-                                                                                  International Conference on New Methods in Language Processing</hi>,
-                                                                                  1994. Manchester. </rs></bibl>
+                                                                                  <rs type="bibl" ref="#bibl__147">Schmid, Helmut (1994): “Probabilistic Part-of-Speech Tagging Using Decision Trees“, in: Proceedings of International Conference on New Methods in Language Processing, 1994. Manchester.</rs></bibl>
                                                                                   <bibl>
-                                                                                    <rs type="bibl" ref="#bibl__59"><hi rend="bold">TEI Consortium</hi> (eds.) (2015): <hi rend="italic">TEI P5:
-                                                                                    Guidelines for Electronic Text Encoding and Interchange. Version 2.8.0.
-                                                                                    2015-04-06.</hi> TEI Consortium. <ref target="http://www.tei-c.org/Guidelines/P5/">http://www.tei-c.org/Guidelines/P5/</ref> [letzter Zugriff 11. August
-                                                                                    2015].</rs></bibl>
+                                                                                    <rs type="bibl" ref="#bibl__59">TEI Consortium (eds.) (2015): TEI P5: Guidelines for Electronic Text Encoding and Interchange. Version 2.8.0. 2015-04-06. TEI Consortium. http://www.tei-c.org/Guidelines/P5/ [letzter Zugriff 11. August 2015].</rs></bibl>
                                                                                   </listBibl>
                                                                                 </div>
                                                                               </back>

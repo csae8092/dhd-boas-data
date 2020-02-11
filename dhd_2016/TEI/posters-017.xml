@@ -195,24 +195,12 @@
                   <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2303"><hi rend="bold">Aichinger, Ilse</hi> (1991): <hi rend="italic">Werke in acht
-                      Bänden</hi>. Herausgegeben von Richard Reichensperger (Die größere
-                      Hoffnung / Der Gefesselte / Eliza Eliza / Schlechte Wörter / Kleist, Moos,
-                      Fasane / Auckland / Zu keiner Stunde / Verschenkter Rat). Frankfurt / Main:
-                      S. Fischer. </rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__2304"><hi rend="bold">Fässler, Simone</hi> (2011): <hi rend="italic">Von Wien
-                      her, auf Wien hin</hi>. Ilse Aichingers „Geographie der eigenen
-                      Existenz.“ Wien: Böhlau.</rs></bibl>
+                      <rs type="bibl" ref="#bibl__2303">Aichinger, Ilse (1991): Werke in acht Bänden. Herausgegeben von Richard Reichensperger (Die größere Hoffnung / Der Gefesselte / Eliza Eliza / Schlechte Wörter / Kleist, Moos, Fasane / Auckland / Zu keiner Stunde / Verschenkter Rat). Frankfurt / Main: S. Fischer.</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2304">Fässler, Simone (2011): Von Wien her, auf Wien hin. Ilse Aichingers „Geographie der eigenen Existenz.“ Wien: Böhlau.</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2305"><hi rend="bold">Hitzler, Pascal</hi> / <hi rend="bold">Krötzsch, Markus</hi>
-                        / <hi rend="bold">Rudolph, Sebastian</hi> (2008): <hi rend="italic">Semantic
-                        Web</hi>. Berlin / Heidelberg: Springer. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2305">Hitzler, Pascal / Krötzsch, Markus / Rudolph, Sebastian (2008): Semantic Web. Berlin / Heidelberg: Springer.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2306"><hi rend="bold">Ivanovic, Christine</hi> / <hi rend="bold">Frank,
-                          Andrew</hi> (2015): „Auf der Suche nach dem erfüllten Raum: Digitale
-                          Korpusanalyse in der Literaturwissenschaft am Beispiel Ilse Aichinger“, in:
-                          <hi rend="italic">Tagung der Digital Humanities im deutschsprachigen
-                            Raum</hi>, Graz. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2306">Ivanovic, Christine / Frank, Andrew (2015): „Auf der Suche nach dem erfüllten Raum: Digitale Korpusanalyse in der Literaturwissenschaft am Beispiel Ilse Aichinger“, in: Tagung der Digital Humanities im deutschsprachigen Raum, Graz.</rs></bibl>
                           </listBibl>
                         </div>
                       </back>

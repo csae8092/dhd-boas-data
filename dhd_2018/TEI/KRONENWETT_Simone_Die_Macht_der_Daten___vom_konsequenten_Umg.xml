@@ -126,31 +126,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__603"><rs type="bibl" ref="#bibl__508"><hi rend="bold">Büttner, Stephan / Hobohm, Hans-Christoph / Müller, Lars</hi> (Hrsg.) (2011): “Handbuch Forschungsdatenmanagement”, Bad Honnef: Bock + Herchen, 
-                        <ref target="http://www.forschungsdatenmanagement.de/">http://www.forschungsdatenmanagement.de/</ref> [zuletzt aufgerufen am 20.09.2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__603">Büttner, Stephan / Hobohm, Hans-Christoph / Müller, Lars (Hrsg.) (2011): “Handbuch Forschungsdatenmanagement”, Bad Honnef: Bock + Herchen, http://www.forschungsdatenmanagement.de/ [zuletzt aufgerufen am 20.09.2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__604"><rs type="bibl" ref="#bibl__509"><hi rend="bold">Lehrveranstaltung “Forschungsdatenmanagement und Langzeitarchivierung”</hi> (2017), Universität zu Köln, Institut für Digital Humanities (Historisch-Kulturwissenschaftliche Informationsverarbeitung), Sommersemester 2017, Homepage, 
-                        <ref target="http://www.lehre.jan-wieners.de/sosem17-fdm-lza/">http://www.lehre.jan-wieners.de/sosem17-fdm-lza/</ref> [zuletzt aufgerufen am 20.09.2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__604">Lehrveranstaltung “Forschungsdatenmanagement und Langzeitarchivierung” (2017), Universität zu Köln, Institut für Digital Humanities (Historisch-Kulturwissenschaftliche Informationsverarbeitung), Sommersemester 2017, Homepage, http://www.lehre.jan-wieners.de/sosem17-fdm-lza/ [zuletzt aufgerufen am 20.09.2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__605"><rs type="bibl" ref="#bibl__510"><hi rend="bold">Nestor</hi> (Network of Expertise in long-term Storage and availability of digital Resources in Germany) (2017), Homepage, 
-                        <ref target="http://www.langzeitarchivierung.de/Subsites/nestor/DE/Home/home_node.html">http://www.langzeitarchivierung.de/Subsites/nestor/DE/Home/home_node.html
-                        </ref>, [zuletzt aufgerufen am 22.09.2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__605">Nestor (Network of Expertise in long-term Storage and availability of digital Resources in Germany) (2017), Homepage, http://www.langzeitarchivierung.de/Subsites/nestor/DE/Home/home_node.html , [zuletzt aufgerufen am 22.09.2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__606"><rs type="bibl" ref="#bibl__511"><hi rend="bold">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim et al. </hi>(Hrsg.) (2012): “Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme”, Version 1.0, Boizenburg: Verlag Werner Hülsbuch, 
-                        <ref target="http://nestor.sub.uni-goettingen.de/bestandsaufnahme/">http://nestor.sub.uni-goettingen.de/bestandsaufnahme/
-                        </ref> [zuletzt aufgerufen am 20.09.2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__606">Neuroth, Heike / Strathmann, Stefan / Oßwald, Achim et al. (Hrsg.) (2012): “Langzeitarchivierung von Forschungsdaten. Eine Bestandsaufnahme”, Version 1.0, Boizenburg: Verlag Werner Hülsbuch, http://nestor.sub.uni-goettingen.de/bestandsaufnahme/ [zuletzt aufgerufen am 20.09.2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__8"><rs type="bibl" ref="#bibl__6"><hi rend="bold">Rat für Informationsinfrastrukturen</hi> (2016): “Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland”, Göttingen, 
-                        <ref target="http://www.rfii.de/?wpdmdl=1998">http://www.rfii.de/?wpdmdl=1998
-                        </ref> [zuletzt aufgerufen am 20.09.2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__8">Rat für Informationsinfrastrukturen (2016): “Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland”, Göttingen, http://www.rfii.de/?wpdmdl=1998 [zuletzt aufgerufen am 20.09.2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__607"><rs type="bibl" ref="#bibl__512"><hi rend="bold">Ray, Joyce M. </hi> (Hrsg.) (2014): “Research Data Management. Practical Strategies for Information Professionals”, West Lafayette/Indiana
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__607">Ray, Joyce M. (Hrsg.) (2014): “Research Data Management. Practical Strategies for Information Professionals”, West Lafayette/Indiana</rs></bibl>
                 </listBibl>
             </div>
       </back>

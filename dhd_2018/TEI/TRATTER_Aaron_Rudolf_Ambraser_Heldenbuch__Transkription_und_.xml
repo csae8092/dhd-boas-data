@@ -146,18 +146,10 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__975"><rs type="bibl" ref="#bibl__899"><hi rend="bold">Gärtner, Kurt et al., eds. Hartmann von Aue</hi>. 
-                        <hi rend="italic">Erec</hi>. 7th ed. Tübingen: Niemeyer, 2006.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__976"><rs type="bibl" ref="#bibl__900"><hi rend="bold">Homeyer, Susanne, and Inta Knor</hi>. „Zu einer umfassenden Untersuchung der Schreibsprache Hans Rieds im Ambraser Heldenbuch.“ 
-                        <hi rend="italic">Zeitschrift für Deutsche Philologie </hi>134.1 (2015): 97-103.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__977"><rs type="bibl" ref="#bibl__901"><hi rend="bold">Leitzmann, Albert</hi>. „Die Ambraser Erecüberlieferung.“ 
-                        <hi rend="italic">Beiträge zur Geschichte der deutschen Sprache und Literatur </hi>59 (1935): 143-234.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__978"><rs type="bibl" ref="#bibl__902"><hi rend="bold">Mura, Angela</hi>. „Spuren einer verlorenen Bibliothek: Bozen und seine Rolle bei der Entstehung des Ambraser Heldenbuchs.“ 
-                        <hi rend="italic">Cristallîn Wort. Hartmann-Studien. Rahmenthema: Das Ambraser Heldenbuch</hi>. Ed. Waltraud Fritsch-Rößler. Wien: Lit-Verlag, 2008. 59-128.
-                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__975">Gärtner, Kurt et al., eds. Hartmann von Aue. Erec. 7th ed. Tübingen: Niemeyer, 2006.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__976">Homeyer, Susanne, and Inta Knor. „Zu einer umfassenden Untersuchung der Schreibsprache Hans Rieds im Ambraser Heldenbuch.“ Zeitschrift für Deutsche Philologie 134.1 (2015): 97-103.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__977">Leitzmann, Albert. „Die Ambraser Erecüberlieferung.“ Beiträge zur Geschichte der deutschen Sprache und Literatur 59 (1935): 143-234.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__978">Mura, Angela. „Spuren einer verlorenen Bibliothek: Bozen und seine Rolle bei der Entstehung des Ambraser Heldenbuchs.“ Cristallîn Wort. Hartmann-Studien. Rahmenthema: Das Ambraser Heldenbuch. Ed. Waltraud Fritsch-Rößler. Wien: Lit-Verlag, 2008. 59-128.</rs></bibl>
                 </listBibl>
             </div>
       </back>

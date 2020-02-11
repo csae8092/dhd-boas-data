@@ -100,26 +100,19 @@
             <listBibl>
               <head>Bibliographie</head>
               <bibl>
-                <rs type="bibl" ref="#bibl__2579"><hi rend="bold">Cheesman, Tom / Flanagan, Kevin / Thiel, Stephan</hi>
-                (2013): "Translation Array Prototype 1: Project Overview" <ref target="http://www.delightedbeauty.org/vvv/Home/www.delightedbeauty.org/vvv">www.delightedbeauty.org/vvv</ref> [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                <rs type="bibl" ref="#bibl__2579">Cheesman, Tom / Flanagan, Kevin / Thiel, Stephan (2013): "Translation Array Prototype 1: Project Overview" www.delightedbeauty.org/vvv [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__2580"><hi rend="bold">CollateX </hi>: <ref target="http://collatex.net">http://collatex.net</ref> [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                  <rs type="bibl" ref="#bibl__2580">CollateX : http://collatex.net [letzter Zugriff 12. Februar 2016].</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2581"><hi rend="bold">D3.js</hi>: <ref target="http://d3js.org">http://d3js.org</ref> [letzter Zugriff 12.
-                    Februar 2016].</rs></bibl>
+                    <rs type="bibl" ref="#bibl__2581">D3.js: http://d3js.org [letzter Zugriff 12. Februar 2016].</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2582"><hi rend="bold">Fry, Ben</hi> (2009): <hi rend="italic">On the Origin of
-                      Species</hi>. The Preservation of Favoured Traces <ref target="http://benfry.com/traces/ ">http://benfry.com/traces/</ref>
-                      [letzter Zugriff 12. Februar 2016]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2582">Fry, Ben (2009): On the Origin of Species. The Preservation of Favoured Traces http://benfry.com/traces/ [letzter Zugriff 12. Februar 2016].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2583"><hi rend="bold">Juxta Collation Software for Scholars</hi>: <ref target="http://www.juxtasoftware.org/">http://www.juxtasoftware.org/</ref> [letzter Zugriff 12. Februar
-                        2016].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2583">Juxta Collation Software for Scholars: http://www.juxtasoftware.org/ [letzter Zugriff 12. Februar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2584"><hi rend="bold">Kästner, Erich</hi> (1931): <hi rend="italic">Fabian</hi>.
-                          Die Geschichte eines Moralisten". Zürich: Atrium Verlag. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2584">Kästner, Erich (1931): Fabian. Die Geschichte eines Moralisten". Zürich: Atrium Verlag.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2585"><hi rend="bold">Kästner, Erich</hi> (1931): <hi rend="italic">Der Gang vor
-                            die Hunde</hi>. Zürich: Atrium Verlag. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__2585">Kästner, Erich (1931): Der Gang vor die Hunde. Zürich: Atrium Verlag.</rs></bibl>
 
                           </listBibl>
                         </div>

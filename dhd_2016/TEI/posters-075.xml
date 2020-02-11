@@ -99,27 +99,15 @@
           <listBibl>
             <head>Bibliographie</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__2180"><hi rend="bold">Christlein, Vincent / Bernecker, David / Angelopoulou,
-                Elli</hi> (2015): "Writer Identification using VLAD encoded
-                Contour-Zernike Moments", in: <hi rend="italic">Document Analysis and
-                Recognition (ICDAR) 2015</hi>. 13th International Conference 23–26
-                August 2015, Nancy 906-910. </rs></bibl>
+              <rs type="bibl" ref="#bibl__2180">Christlein, Vincent / Bernecker, David / Angelopoulou, Elli (2015): "Writer Identification using VLAD encoded Contour-Zernike Moments", in: Document Analysis and Recognition (ICDAR) 2015. 13th International Conference 23–26 August 2015, Nancy 906-910.</rs></bibl>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__243"><hi rend="bold">Eisermann, Falk / Duntze, Oliver</hi> (2014): "Auf der Spur
-                  der seltsamen Typen. Das digitale Typenrepertorium der Wiegendrucke", in:
-                  <hi rend="italic">Bibliotheksmagazin</hi> 3: 41–48 <ref target="https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf">https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf</ref>
-                  [letzter Zugriff 29. Dezember 2015]. </rs></bibl>
+                  <rs type="bibl" ref="#bibl__243">Eisermann, Falk / Duntze, Oliver (2014): "Auf der Spur der seltsamen Typen. Das digitale Typenrepertorium der Wiegendrucke", in: Bibliotheksmagazin 3: 41–48 https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf [letzter Zugriff 29. Dezember 2015].</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2181"><hi rend="bold">Haebler, Konrad</hi> (1905): <hi rend="italic">Typenrepertorium der Wiegendrucke</hi>. Abt. I. Deutschland und seine
-                    Nachbarländer. Halle: Haupt. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2181">Haebler, Konrad (1905): Typenrepertorium der Wiegendrucke. Abt. I. Deutschland und seine Nachbarländer. Halle: Haupt.</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2182"><hi rend="bold">Sauvola, Jaakko / Pietikäinen, Matti</hi> (2000): "Adaptive
-                      document image binarization", in: <hi rend="italic">Pattern Recognition</hi>
-                      33, 2: 225-236. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2182">Sauvola, Jaakko / Pietikäinen, Matti (2000): "Adaptive document image binarization", in: Pattern Recognition 33, 2: 225-236.</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2183"><hi rend="bold">Staatsbibliothek zu Berlin</hi> (2014): <hi rend="italic">Typenrepertorium der Wiegendrucke digital</hi>
-                        <ref target="http://tw.staatsbibliothek-berlin.de">http://tw.staatsbibliothek-berlin.de</ref> [letzter Zugriff 29.
-                        Dezember 2015]. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2183">Staatsbibliothek zu Berlin (2014): Typenrepertorium der Wiegendrucke digital http://tw.staatsbibliothek-berlin.de [letzter Zugriff 29. Dezember 2015].</rs></bibl>
                       </listBibl>
                     </div>
                   </back>

@@ -233,90 +233,45 @@
                               <listBibl>
                                 <head>Bibliographie</head>
                                 <bibl rend="Biblio">
-                                  <rs type="bibl" ref="#bibl__2559"><hi rend="bold">Akoma Ntoso Group</hi> (2013): <hi rend="italic">Akoma Ntoso
-                                  - XML for parliamentary, legislative &amp; judiciary documents</hi>
-                                  <ref target="http://www.akomantoso.org/">http://www.akomantoso.org/</ref>
-                                  [last seen October 15th 2015]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2559">Akoma Ntoso Group (2013): Akoma Ntoso - XML for parliamentary, legislative &amp; judiciary documents http://www.akomantoso.org/ [last seen October 15th 2015].</rs></bibl>
                                   <bibl rend="Biblio">
-                                    <rs type="bibl" ref="#bibl__2560"><hi rend="bold">Callon, Michel</hi> (1986): “Some Elements of a Sociology of
-                                    Translation: Domestication of the Scallops and the Fisher-men of St Brieuc
-                                    Bay”, in: Law, John (ed.): <hi rend="italic">Power, Action and Belief</hi>.
-                                    A New Sociology of Knowledge. London: Routledge &amp; Kegan 196-223. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2560">Callon, Michel (1986): “Some Elements of a Sociology of Translation: Domestication of the Scallops and the Fisher-men of St Brieuc Bay”, in: Law, John (ed.): Power, Action and Belief. A New Sociology of Knowledge. London: Routledge &amp; Kegan 196-223.</rs></bibl>
                                     <bibl rend="Biblio">
-                                      <rs type="bibl" ref="#bibl__2561"><hi rend="bold">D3.js</hi>: <hi rend="italic">Data-Driven Documents</hi>
-                                      <ref target="http://d3js.org/">http://d3js.org/</ref> [last seen October
-                                      15th 2015]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2561">D3.js: Data-Driven Documents http://d3js.org/ [last seen October 15th 2015].</rs></bibl>
                                       <bibl rend="Biblio">
-                                        <rs type="bibl" ref="#bibl__2562"><hi rend="bold">Data Publica</hi> (2012): <hi rend="italic">Naviguez dans le
-                                        Code civil grâce à cette spectaculaire dataviz</hi>
-                                        <ref target="http://www.data-publica.com/content/2012/07/naviguez-dans-le-code-civil-grace-a-cette-spectaculaire-dataviz/">www.data-publica.com/content/2012/07/naviguez-dans-le-code-civil-grace-a-cette-spectaculaire-dataviz/</ref>
-                                          [last seen October 15th 2015]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2562">Data Publica (2012): Naviguez dans le Code civil grâce à cette spectaculaire dataviz www.data-publica.com/content/2012/07/naviguez-dans-le-code-civil-grace-a-cette-spectaculaire-dataviz/ [last seen October 15th 2015].</rs></bibl>
                                           <bibl rend="Biblio">
-                                            <rs type="bibl" ref="#bibl__2563"><hi rend="bold">Epstein, Richard A.</hi> (1995): <hi rend="italic">Simple
-                                            Rules for a Complex World</hi>. Cambridge, Mass.: Harvard University
-                                            Press. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2563">Epstein, Richard A. (1995): Simple Rules for a Complex World. Cambridge, Mass.: Harvard University Press.</rs></bibl>
                                             <bibl rend="Biblio">
-                                              <rs type="bibl" ref="#bibl__2564"><hi rend="bold">ECMA International</hi> (2013): <hi rend="italic">The JSON
-                                              Data Interchange Format</hi>. ECMA. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2564">ECMA International (2013): The JSON Data Interchange Format. ECMA.</rs></bibl>
                                               <bibl rend="Biblio">
-                                                <rs type="bibl" ref="#bibl__2565"><hi rend="bold">Höfler, Stefan / Piotrowski, Michael</hi> (2011): “Building
-                                                corpora for the philological study of Swiss legal texts”, in <hi rend="italic">Journal for Language Technology and Computational
-                                                Linguistics</hi> 26, 2: 77-89. </rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2565">Höfler, Stefan / Piotrowski, Michael (2011): “Building corpora for the philological study of Swiss legal texts”, in Journal for Language Technology and Computational Linguistics 26, 2: 77-89.</rs></bibl>
                                                 <bibl rend="Biblio">
-                                                  <rs type="bibl" ref="#bibl__2566"><hi rend="bold">Kades, Eric</hi> (1996): “Laws of Complexity and the
-                                                  Complexity of Laws: The Implications of Computational Complexity Theory for
-                                                  the Law”, in <hi rend="italic">Rutgers Law Review</hi> 49: 403. </rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2566">Kades, Eric (1996): “Laws of Complexity and the Complexity of Laws: The Implications of Computational Complexity Theory for the Law”, in Rutgers Law Review 49: 403.</rs></bibl>
                                                   <bibl rend="Biblio">
-                                                    <rs type="bibl" ref="#bibl__2567"><hi rend="bold">Katz, Daniel M. / Bommarito, Michael J.</hi> (2013):
-                                                    “Measuring the Complexity of the Law: The United States Code”, in <hi rend="italic">Social Science Research Network</hi>
-                                                    <ref target="http://ssrn.com/abstract=2307352">http://ssrn.com/abstract=2307352</ref> [last seen October 15th 2015]. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2567">Katz, Daniel M. / Bommarito, Michael J. (2013): “Measuring the Complexity of the Law: The United States Code”, in Social Science Research Network http://ssrn.com/abstract=2307352 [last seen October 15th 2015].</rs></bibl>
                                                       <bibl rend="Biblio">
-                                                        <rs type="bibl" ref="#bibl__2568"><hi rend="bold">Latour, Bruno</hi> (1984): <hi rend="italic">Les microbes,
-                                                        guerre et paix</hi>. Paris: Métailié. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2568">Latour, Bruno (1984): Les microbes, guerre et paix. Paris: Métailié.</rs></bibl>
                                                         <bibl rend="Biblio">
-                                                          <rs type="bibl" ref="#bibl__2569"><hi rend="bold">Latour, Bruno</hi> (1996): “On actor-network theory: a few
-                                                          clarifications”, in: <hi rend="italic">Soziale Welt</hi> 47, 4: 369–381. </rs></bibl>
+                                                          <rs type="bibl" ref="#bibl__2569">Latour, Bruno (1996): “On actor-network theory: a few clarifications”, in: Soziale Welt 47, 4: 369–381.</rs></bibl>
                                                           <bibl rend="Biblio">
-                                                            <rs type="bibl" ref="#bibl__2570"><hi rend="bold">Ourednik, André</hi> (2010): <hi rend="italic">L’habitant et
-                                                            la cohabitation dans les modèles de l’espace habité</hi>. PhD, Swiss
-                                                            Federal Institute of Technology (EPFL). </rs></bibl>
+                                                            <rs type="bibl" ref="#bibl__2570">Ourednik, André (2010): L’habitant et la cohabitation dans les modèles de l’espace habité. PhD, Swiss Federal Institute of Technology (EPFL).</rs></bibl>
                                                             <bibl rend="Biblio">
-                                                              <rs type="bibl" ref="#bibl__2571"><hi rend="bold">Ourednik, André</hi> (2013): <hi rend="italic">Visualisation
-                                                              de flux géographiques</hi>. Rapport pour la DATAR sous mandat du
-                                                              Laboratoire Chôros, Swiss Federal Institute of Technology (EPFL). </rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2571">Ourednik, André (2013): Visualisation de flux géographiques. Rapport pour la DATAR sous mandat du Laboratoire Chôros, Swiss Federal Institute of Technology (EPFL).</rs></bibl>
                                                               <bibl rend="Biblio">
-                                                                <rs type="bibl" ref="#bibl__2572"><hi rend="bold">Palmirani, Monica / Cervone, Luca</hi> (2014): “Measuring
-                                                                the Complexity of the Legal Order over Time”, in: Casanovas, Pompeu /
-                                                                Pagallo, Ugo / Palmirani, Monica / Sartor, Giovanni (eds.): <hi rend="italic">AI Approaches to the Complexity of Legal Systems</hi>.
-                                                                Berlin: Springer 88-99. </rs></bibl>
+                                                                <rs type="bibl" ref="#bibl__2572">Palmirani, Monica / Cervone, Luca (2014): “Measuring the Complexity of the Legal Order over Time”, in: Casanovas, Pompeu / Pagallo, Ugo / Palmirani, Monica / Sartor, Giovanni (eds.): AI Approaches to the Complexity of Legal Systems. Berlin: Springer 88-99.</rs></bibl>
                                                                 <bibl rend="Biblio">
-                                                                  <rs type="bibl" ref="#bibl__2573"><hi rend="bold">Peirce, Charles S. / Hartshorne, Charles / Weiss, Paul</hi>
-                                                                  (1932): <hi rend="italic">Collected Papers of Charles Sanders Peirce</hi>.
-                                                                  II: Elements of Logic. Cambridge, Mass.: Harvard University Press. </rs></bibl>
+                                                                  <rs type="bibl" ref="#bibl__2573">Peirce, Charles S. / Hartshorne, Charles / Weiss, Paul (1932): Collected Papers of Charles Sanders Peirce. II: Elements of Logic. Cambridge, Mass.: Harvard University Press.</rs></bibl>
                                                                   <bibl rend="Biblio">
-                                                                    <rs type="bibl" ref="#bibl__2574"><hi rend="bold">Tribou, Alex / Collins, Keith</hi> (2015): <hi rend="italic">This Is How Fast America Changes Its Mind</hi>
-                                                                    <ref target="http://www.bloomberg.com/graphics/2015-pace-of-social-change/">http://www.bloomberg.com/graphics/2015-pace-of-social-change/</ref>
-                                                                      [last seen October 15th 2015].</rs></bibl>
+                                                                    <rs type="bibl" ref="#bibl__2574">Tribou, Alex / Collins, Keith (2015): This Is How Fast America Changes Its Mind http://www.bloomberg.com/graphics/2015-pace-of-social-change/ [last seen October 15th 2015].</rs></bibl>
                                                                       <bibl rend="Biblio">
-                                                                        <rs type="bibl" ref="#bibl__2575"><hi rend="bold">Zurlinden, Urs</hi> (2013, 10.12): “Der unbegrenzte Eifer
-                                                                        des Gesetzgebers”, in <hi rend="italic">Tagesanzeiger</hi>
-                                                                        <ref target="http://www.tagesanzeiger.ch/schweiz/standard/Der-unbegrenzte-Eifer-des-Gesetzgebers/story/11470997">http://www.tagesanzeiger.ch/schweiz/standard/Der-unbegrenzte-Eifer-des-Gesetzgebers/story/11470997</ref>
-                                                                          [last seen October 15th 2015].</rs></bibl>
+                                                                        <rs type="bibl" ref="#bibl__2575">Zurlinden, Urs (2013, 10.12): “Der unbegrenzte Eifer des Gesetzgebers”, in Tagesanzeiger http://www.tagesanzeiger.ch/schweiz/standard/Der-unbegrenzte-Eifer-des-Gesetzgebers/story/11470997 [last seen October 15th 2015].</rs></bibl>
                                                                           <bibl rend="Biblio">
-                                                                            <rs type="bibl" ref="#bibl__2576"><hi rend="bold">Zurlinden, Urs</hi> (2015a, 02.26): “Die Suppe köchelt mit
-                                                                            Gesetzen und Vorschriften”, in <hi rend="italic">Handelszeitung</hi>
-                                                                            <ref target="http://www.handelszeitung.ch/bildergalerie/die-suppe-koechelt-mit-gesetzen-und-vorschriften">http://www.handelszeitung.ch/bildergalerie/die-suppe-koechelt-mit-gesetzen-und-vorschriften</ref>
-                                                                              [last seen October 15th 2015]. </rs></bibl>
+                                                                            <rs type="bibl" ref="#bibl__2576">Zurlinden, Urs (2015a, 02.26): “Die Suppe köchelt mit Gesetzen und Vorschriften”, in Handelszeitung http://www.handelszeitung.ch/bildergalerie/die-suppe-koechelt-mit-gesetzen-und-vorschriften [last seen October 15th 2015].</rs></bibl>
                                                                               <bibl rend="Biblio">
-                                                                                <rs type="bibl" ref="#bibl__2577"><hi rend="bold">Zurlinden, Urs</hi> (2015b, 03.10): “Brouet de lois et
-                                                                                d’ordonnances légales” in : <hi rend="italic">Le Temps</hi>
-                                                                                <ref target="http://www.letemps.ch/interactive/2015/cuisine/">http://www.letemps.ch/interactive/2015/cuisine/</ref> [last seen April
-                                                                                  16th 2015]. </rs></bibl>
+                                                                                <rs type="bibl" ref="#bibl__2577">Zurlinden, Urs (2015b, 03.10): “Brouet de lois et d’ordonnances légales” in : Le Temps http://www.letemps.ch/interactive/2015/cuisine/ [last seen April 16th 2015].</rs></bibl>
                                                                                   <bibl rend="Biblio">
-                                                                                    <rs type="bibl" ref="#bibl__2578"><hi rend="bold">Zurlinden, Urs</hi> (2015c, 03.10): “L’inflation de lois vue
-                                                                                    à travers la cuisine d’un restaurant” in <hi rend="italic">Le Temps</hi>
-                                                                                    <ref target="http://www.letemps.ch/Page/Uuid/095a80c8-c69c-11e4-959d-74804f4bcbe7/Linflation_de_lois_vue_à_travers_la_cuisine_dun_restaurant">http://www.letemps.ch/Page/Uuid/095a80c8-c69c-11e4-959d-74804f4bcbe7/Linflation_de_lois_vue_à_travers_la_cuisine_dun _restaurant</ref>
-                                                                                      [last seen April 16th 2015]. </rs></bibl>
+                                                                                    <rs type="bibl" ref="#bibl__2578">Zurlinden, Urs (2015c, 03.10): “L’inflation de lois vue à travers la cuisine d’un restaurant” in Le Temps http://www.letemps.ch/Page/Uuid/095a80c8-c69c-11e4-959d-74804f4bcbe7/Linflation_de_lois_vue_à_travers_la_cuisine_dun _restaurant [last seen April 16th 2015].</rs></bibl>
                                                                                     </listBibl>
                                                                                   </div>
                                                                                 </back>

@@ -243,54 +243,21 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__1889"><hi rend="bold">BStU = Bundesbeauftragter für die Unterlagen des
-                    Staatssicherheitsdienstes der ehemaligen DDR</hi> (2016): <hi rend="italic">Die DDR im Blick der Stasi</hi>. Die geheimen Berichte an
-                    die SED-Führung. <ref target="http://www.ddr-im-blick.de/">http://www.ddr-im-blick.de/</ref> [letzter Zugriff 12. Februar
-                    2016].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1890"><hi rend="bold">Jänicke, Stefan</hi> (2015): "TagPies", in: <hi rend="italic">vizcovery.org</hi>
-                    <ref target="http://www.tagpies.vizcovery.org/">http://www.tagpies.vizcovery.org/</ref> [letzter Zugriff 12. Februar
-                      2016].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__225"><hi rend="bold">Jänicke, Stefan/ Blumenstein, Judith / Rücker, Michaela /
-                        Zeckzer, Dirk / Scheuermann, Gerik</hi> (2015): "Visualizing the Results
-                        of Search Queries on Ancient Text Corpora with Tag Pies". To appear in <hi rend="italic">Digital Humanities Quarterly</hi>. </rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1891"><hi rend="bold">Kuras, Christoph / Efer, Thomas / Adam, Christian / Heyer,
-                          Gerhard</hi> (2014): "The GDR Through the Eyes of the Stasi – Data
-                          Mining on the Secret Reports of the State Security Service of the former
-                          German Democratic Republic", in: Fred, Ana / Filipe, Joaquim (eds.): <hi rend="italic">Proceedings of the 6th International Conference on
-                          Knewledge Discovery an Information Retrieval (KDIR)</hi>, Rom. Lisbon:
-                          SCITEPRESS 360–365.</rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__225"><hi rend="bold">Jänicke, Stefan / Blumenstein, Judith / Rücker, Michaela /
-                            Zeckzer, Dirk / Scheuermann, Gerik</hi> (2015): Visualizing the Results
-                            of Search Queries on Ancient Text Corpora with Tag Pies. To appear in <hi rend="italic">Digital Humanities Quarterly</hi>, 2015. </rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__1889">BStU = Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen DDR (2016): Die DDR im Blick der Stasi. Die geheimen Berichte an die SED-Führung. http://www.ddr-im-blick.de/ [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1890">Jänicke, Stefan (2015): "TagPies", in: vizcovery.org http://www.tagpies.vizcovery.org/ [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__225">Jänicke, Stefan/ Blumenstein, Judith / Rücker, Michaela / Zeckzer, Dirk / Scheuermann, Gerik (2015): "Visualizing the Results of Search Queries on Ancient Text Corpora with Tag Pies". To appear in Digital Humanities Quarterly.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1891">Kuras, Christoph / Efer, Thomas / Adam, Christian / Heyer, Gerhard (2014): "The GDR Through the Eyes of the Stasi – Data Mining on the Secret Reports of the State Security Service of the former German Democratic Republic", in: Fred, Ana / Filipe, Joaquim (eds.): Proceedings of the 6th International Conference on Knewledge Discovery an Information Retrieval (KDIR), Rom. Lisbon: SCITEPRESS 360–365.</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__225">Jänicke, Stefan / Blumenstein, Judith / Rücker, Michaela / Zeckzer, Dirk / Scheuermann, Gerik (2015): Visualizing the Results of Search Queries on Ancient Text Corpora with Tag Pies. To appear in Digital Humanities Quarterly, 2015.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__226"><hi rend="bold">Montemurro, Marcelo A. / Zanette, Damián H.</hi> (2013):
-                              "Keywords and Co-Occurrence Patterns in the Voynich Manuscript: An
-                              Information-Theoretic Analysis", in: <hi rend="italic">PloS one</hi> 8, 6:
-                              e66344. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__1892"><hi rend="bold">Universität Leipzig Historisches Seminar</hi> (2013): <hi rend="italic">eXChange - Exploring Concept Change and Transfer in
-                              Antiquity</hi>
-                              <ref target="http://exchange-projekt.de/index.html">http://exchange-projekt.de/index.html</ref> [letzter Zugriff 12.
-                                Februar 2016].</rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__1893"><hi rend="bold">Kuras, Christoph / Efer, Thomas / Adam, Christian / Heyer,
-                                  Gerhard</hi> (2014): "The GDR Through the Eyes of the Stasi – Data
-                                  Mining on the Secret Reports of the State Security Service of the former
-                                  German Democratic Republic", in: Fred, Ana / Filipe, Joaquim (eds.): <hi rend="italic">Proceedings of the 6th International Conference on
-                                  Knewledge Discovery an Information Retrieval (KDIR)</hi>, Rom. Lisbon:
-                                  SCITEPRESS 360–365. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__226">Montemurro, Marcelo A. / Zanette, Damián H. (2013): "Keywords and Co-Occurrence Patterns in the Voynich Manuscript: An Information-Theoretic Analysis", in: PloS one 8, 6: e66344.</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__1892">Universität Leipzig Historisches Seminar (2013): eXChange - Exploring Concept Change and Transfer in Antiquity http://exchange-projekt.de/index.html [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__1893">Kuras, Christoph / Efer, Thomas / Adam, Christian / Heyer, Gerhard (2014): "The GDR Through the Eyes of the Stasi – Data Mining on the Secret Reports of the State Security Service of the former German Democratic Republic", in: Fred, Ana / Filipe, Joaquim (eds.): Proceedings of the 6th International Conference on Knewledge Discovery an Information Retrieval (KDIR), Rom. Lisbon: SCITEPRESS 360–365.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__1894"><hi rend="bold"><abbr>Viégas</abbr>, Fernanda B. / Wattenberg, Martin /
-                                    Feinberg, Jonathan</hi> (2009): "Participatory Visualization with
-                                    Wordle", in: <hi rend="italic">IEEE Transactions on Visualization and
-                                    Computer Graphics</hi> 15, 6: 1137–1144.</rs></bibl>
+                                    <rs type="bibl" ref="#bibl__1894">Viégas, Fernanda B. / Wattenberg, Martin / Feinberg, Jonathan (2009): "Participatory Visualization with Wordle", in: IEEE Transactions on Visualization and Computer Graphics 15, 6: 1137–1144.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__226"><hi rend="bold">Montemurro, Marcelo A. / Zanette, Damián H.</hi> (2013):
-                                      Keywords and Co-Occurrence Patterns in the Voynich Manuscript: An
-                                      Information-Theoretic Analysis. <hi rend="italic">PloS one</hi>, 8, 6:
-                                      e66344.</rs></bibl>
+                                      <rs type="bibl" ref="#bibl__226">Montemurro, Marcelo A. / Zanette, Damián H. (2013): Keywords and Co-Occurrence Patterns in the Voynich Manuscript: An Information-Theoretic Analysis. PloS one, 8, 6: e66344.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__1895"><hi rend="bold">Viégas, Fernanda B. / Wattenberg, Martin / Feinberg,
-                                          Jonathan</hi> (2009): "Participatory Visualization with Wordle", in: <hi rend="italic">IEEE Transactions on Visualization and Computer
-                                          Graphics</hi> 15, 6: 1137–1144.</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__1895">Viégas, Fernanda B. / Wattenberg, Martin / Feinberg, Jonathan (2009): "Participatory Visualization with Wordle", in: IEEE Transactions on Visualization and Computer Graphics 15, 6: 1137–1144.</rs></bibl>
                                         </listBibl>
                                       </div>
                                     </back>

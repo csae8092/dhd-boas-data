@@ -123,17 +123,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1062"><rs type="bibl" ref="#bibl__988"><hi rend="bold">Cantemir, Dimitrie,</hi> (1771) Beschreibung der Moldau, Faksimiledruck der Originalausgabe von 1771, Frankfurt und Leipzig 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1062">Cantemir, Dimitrie, (1771) Beschreibung der Moldau, Faksimiledruck der Originalausgabe von 1771, Frankfurt und Leipzig</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1063"><rs type="bibl" ref="#bibl__989"><hi rend="bold">Cantemir, Dimitrie,</hi> (1745) Geschichte des osmanischen Reichs nach seinem Anwachse und Abnehmen, 1745, Herold, Hamburg
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1063">Cantemir, Dimitrie, (1745) Geschichte des osmanischen Reichs nach seinem Anwachse und Abnehmen, 1745, Herold, Hamburg</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1064"><rs type="bibl" ref="#bibl__990"><hi rend="bold">Pinkal, Manfred,</hi>(1981) Semantische Vagheit: Phänomene und Theorien, Teil I/II. In: Linguistische Berichte Nr. 7/72, Wiesbaden 1980/1981.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1064">Pinkal, Manfred,(1981) Semantische Vagheit: Phänomene und Theorien, Teil I/II. In: Linguistische Berichte Nr. 7/72, Wiesbaden 1980/1981.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1065"><rs type="bibl" ref="#bibl__991"><hi rend="bold">Vertan, Cristina / von Hahn, Walther / Dinu, Anca</hi> (2017) On the annotation of vague expressions: a case study on Romanian historical texts, Proceedings of the first Workshop on Language Technology for Digital Humanities in Central and (South-) Eastern Europe, in association with RANL 2017, Varna
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1065">Vertan, Cristina / von Hahn, Walther / Dinu, Anca (2017) On the annotation of vague expressions: a case study on Romanian historical texts, Proceedings of the first Workshop on Language Technology for Digital Humanities in Central and (South-) Eastern Europe, in association with RANL 2017, Varna</rs></bibl>
                 </listBibl>
             </div>
       </back>

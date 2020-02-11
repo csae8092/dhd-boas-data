@@ -113,9 +113,7 @@
               </note></div>
             <div type="bibliogr"><listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__2134"><hi rend="bold">Universitätsbibliothek Salzburg</hi> (o. J.): <hi rend="italic">Ferdinand Ebner Online Edition</hi>
-              <ref target="http://www.uni-salzburg.at/index.php?id=202485">http://www.uni-salzburg.at/index.php?id=202485</ref> [letzter Zugriff
-                15. Februar 2016].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2134">Universitätsbibliothek Salzburg (o. J.): Ferdinand Ebner Online Edition http://www.uni-salzburg.at/index.php?id=202485 [letzter Zugriff 15. Februar 2016].</rs></bibl>
               </listBibl></div>
             </back>
           </text>

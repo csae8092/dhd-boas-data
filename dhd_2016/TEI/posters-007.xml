@@ -145,44 +145,16 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__2799"><hi rend="bold">Borek, Luise / Dombrowski, Quinn / Perkins, Jody / Schöch,
-                    Christof</hi> (2014): "Scholarly primitives revisited: towards a
-                    practical taxonomy of digital humanities research activities and objects",
-                    in: <hi rend="italic">Digital Humanities Conference 2014</hi>, Lausanne,
-                    Switzerland <ref target="http://dh2014.org/paper-session-details/">
-                    http://dh2014.org/paper-session-details/ </ref> [letzter Zugriff 13.
-                    Februar 2016]. </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__2800"><hi rend="bold">centerNet</hi> (o. J.): <hi rend="italic">DH commons</hi>.
-                    A collaboration hub <ref target="http://dhcommons.org/">http://dhcommons.org/</ref> [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__2801"><hi rend="bold">DARIAH-DE</hi> (o. J.): <hi rend="italic">Digital
-                    Humanities Course Registry</hi>
-                    <ref target="https://dh-registry.de.dariah.eu/">https://dh-registry.de.dariah.eu/</ref> [letzter Zugriff 13. Februar
-                      2016]. </rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__231"><hi rend="bold">DARIAH-DE</hi> (o. J.): <hi rend="italic">Digital Research
-                      Infrastructure for the Arts and Humanities</hi>
-                      <ref target="https://de.dariah.eu/">https://de.dariah.eu/</ref> [letzter
-                      Zugriff 13. Februar 2016]. </rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__2802"><hi rend="bold">DARIAH-DE</hi> (o. J.): <hi rend="italic">Doing Digital
-                      Humanities.</hi> Bibliographie. <ref target="https://de.dariah.eu/bibliographie">https://de.dariah.eu/bibliographie</ref> [letzter Zugriff 13. Februar
-                      2016]. </rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__2803"><hi rend="bold">DiRT</hi> (o. J.): <hi rend="italic">DiRT</hi>. Digital
-                      Research Tools <ref target="http://dirtdirectory.org">http://dirtdirectory.org</ref> [letzter Zugriff 13. Februar
-                      2016].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__207"><hi rend="bold">Hughes, Lorna / Constantopoulos, Panos / Dallas,
-                        Costis</hi> (Im Druck): “Digital Methods in the Humanities:
-                        Understanding and Describing their Use across the Disciplines”, in
-                        Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): <hi rend="italic">A new companion to digital humanities.</hi> Oxford: Wiley-Blackwell. </rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2804"><hi rend="bold">NeDiMAH</hi> (2012): “Network for Digital Methods in the
-                        Arts and Humanities (NeDiMAH)” <ref target="http://www.esf.org/fileadmin/Public_documents/Publications/nedimah.pdf">http://www.esf.org/fileadmin/Public_documents/Publications/nedimah.pdf</ref>
-                        [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2805"><hi rend="bold">Schöch, Christof</hi> (2012): <hi rend="italic">Doing
-                        Digital Humanities</hi>. A DARIAH-DE Bibliography. Göttingen: DARIAH-DE
-                        <ref target="https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography">
-                          https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography
-                        </ref> [letzter Zugriff 13. Februar 2016]. </rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2806"><hi rend="bold">TaDiRAH</hi>: <hi rend="italic">Taxonomy of Digital
-                        Research Activities in the Humanities</hi>
-                        <ref target="https://github.com/dhtaxonomy/TaDiRAH">https://github.com/dhtaxonomy/TaDiRAH</ref> [13. Februar 2016].</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__2799">Borek, Luise / Dombrowski, Quinn / Perkins, Jody / Schöch, Christof (2014): "Scholarly primitives revisited: towards a practical taxonomy of digital humanities research activities and objects", in: Digital Humanities Conference 2014, Lausanne, Switzerland http://dh2014.org/paper-session-details/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__2800">centerNet (o. J.): DH commons. A collaboration hub http://dhcommons.org/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__2801">DARIAH-DE (o. J.): Digital Humanities Course Registry https://dh-registry.de.dariah.eu/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__231">DARIAH-DE (o. J.): Digital Research Infrastructure for the Arts and Humanities https://de.dariah.eu/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2802">DARIAH-DE (o. J.): Doing Digital Humanities. Bibliographie. https://de.dariah.eu/bibliographie [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2803">DiRT (o. J.): DiRT. Digital Research Tools http://dirtdirectory.org [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__207">Hughes, Lorna / Constantopoulos, Panos / Dallas, Costis (Im Druck): “Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines”, in Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A new companion to digital humanities. Oxford: Wiley-Blackwell.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2804">NeDiMAH (2012): “Network for Digital Methods in the Arts and Humanities (NeDiMAH)” http://www.esf.org/fileadmin/Public_documents/Publications/nedimah.pdf [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2805">Schöch, Christof (2012): Doing Digital Humanities. A DARIAH-DE Bibliography. Göttingen: DARIAH-DE https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2806">TaDiRAH: Taxonomy of Digital Research Activities in the Humanities https://github.com/dhtaxonomy/TaDiRAH [13. Februar 2016].</rs></bibl>
                         </listBibl>
                       </div>
                     </back>

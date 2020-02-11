@@ -231,28 +231,12 @@
                         <div type="bibliogr">
                           <listBibl>
                             <head>Bibliographie</head>
-                            <bibl><rs type="bibl" ref="#bibl__215"><hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke,
-                              Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik</hi>
-                              (im Erscheinen): "Collaborative Text Annotation Meets Machine Learning.
-                              heureCLÉA, a Digital Heuristic of Narrative", in: <hi rend="italic">DHCommons</hi> 1.</rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__111"><hi rend="bold">Genette, Gérard</hi> (1994): <hi rend="italic">Die
-                              Erzählung</hi>. München: Fink. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__255"><hi rend="bold">Gius, Evelyn / Jacke, Janina</hi> (2015): <hi rend="italic">Zur Annotation narratologischer Kategorien der Zeit.
-                            </hi>Guidelines zur Nutzung des CATMA-Tagsets (Version 1.0) <ref target="http://www.heureclea.de/guidelines">www.heureclea.de/guidelines</ref> [letzter Zugriff 11. Oktober
-                            2015].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__2903"><hi rend="bold">Maamouri, Mohamed / Bies, Ann / Kulick, Seth</hi> (2008):
-                            "Enhancing the Arabic Treebank. A Collaborative Effort toward New Annotation
-                            Guidelines", in: <hi rend="italic">7th International Conference on Language
-                            Resources and Evaluation</hi>. Marrakech (LREC 2008) <ref target="https://catalog.ldc.upenn.edu/docs/LDC2010T13/Enhancing_Arabic_Treebank.pdf">https://catalog.ldc.upenn.edu/docs/LDC2010T13/Enhancing_Arabic_Treebank.pdf</ref>
-                            [letzter Zugriff 11.Oktober 2015].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__2904"><hi rend="bold">Pyysalo, Sampo / Ginter, Filip</hi> (2014): "Collaborative
-                            development of annotation guidelines with application to Universal
-                            Dependencies", in: <hi rend="italic">Fifth Swedish Language Technology
-                            Conference</hi>. Uppsala (SLTC 2014) <ref target="http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_32.pdf">http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_32.pdf</ref>
-                            [letzter Zugriff 11.Oktober 2015].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__268"><hi rend="bold">Ryan, Marie-Laure</hi> (1991): <hi rend="italic">Possible
-                            Worlds, Artificial Intelligence, and Narrative Theory</hi>. Bloomington,
-                            Ind.: Indiana University Press.</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__215">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik (im Erscheinen): "Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a Digital Heuristic of Narrative", in: DHCommons 1.</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__111">Genette, Gérard (1994): Die Erzählung. München: Fink.</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__255">Gius, Evelyn / Jacke, Janina (2015): Zur Annotation narratologischer Kategorien der Zeit. Guidelines zur Nutzung des CATMA-Tagsets (Version 1.0) www.heureclea.de/guidelines [letzter Zugriff 11. Oktober 2015].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2903">Maamouri, Mohamed / Bies, Ann / Kulick, Seth (2008): "Enhancing the Arabic Treebank. A Collaborative Effort toward New Annotation Guidelines", in: 7th International Conference on Language Resources and Evaluation. Marrakech (LREC 2008) https://catalog.ldc.upenn.edu/docs/LDC2010T13/Enhancing_Arabic_Treebank.pdf [letzter Zugriff 11.Oktober 2015].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2904">Pyysalo, Sampo / Ginter, Filip (2014): "Collaborative development of annotation guidelines with application to Universal Dependencies", in: Fifth Swedish Language Technology Conference. Uppsala (SLTC 2014) http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_32.pdf [letzter Zugriff 11.Oktober 2015].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__268">Ryan, Marie-Laure (1991): Possible Worlds, Artificial Intelligence, and Narrative Theory. Bloomington, Ind.: Indiana University Press.</rs></bibl>
                           </listBibl>
                         </div>
                       </back>

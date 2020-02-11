@@ -150,21 +150,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3653"><rs type="bibl" ref="#bibl__2418"><hi style="font-size:11pt">RfII - Rat für Informationsinfrastrukturen (2016): Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3653">RfII - Rat für Informationsinfrastrukturen (2016): Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3654"><rs type="bibl" ref="#bibl__2419"><hi style="font-size:11pt">RfII - Rat für Informationsinfrastrukturen (2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), Göttingen.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3654">RfII - Rat für Informationsinfrastrukturen (2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), Göttingen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3655"><rs type="bibl" ref="#bibl__2420"><hi rend="color(333333)" style="font-size:11pt" xml:space="preserve">Mathiak, Brigitte / Kronenwett, Simone (2017): “A Survey on Research Data at the Faculty of Arts and Humanities of the University of Cologne” in: Digital Humanities Conference 2017, Montreal 08.-11.08.2017, </hi>
-                        <ref target="https://dh2017.adho.org/abstracts/164/164.pdf">
-                            <hi rend="color(1155CC)" style="font-size:11pt">https://dh2017.adho.org/abstracts/164/164.pdf</hi>
-                        </ref>
-                        <hi rend="color(333333)" style="font-size:11pt" xml:space="preserve"> [Letzter Zugriff 12. Oktober 2018].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3655">Mathiak, Brigitte / Kronenwett, Simone (2017): “A Survey on Research Data at the Faculty of Arts and Humanities of the University of Cologne” in: Digital Humanities Conference 2017, Montreal 08.-11.08.2017, https://dh2017.adho.org/abstracts/164/164.pdf [Letzter Zugriff 12. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__291"><rs type="bibl" ref="#bibl__185"><hi rend="color(333333)" style="font-size:11pt">Barzen, Johanna / Blumtritt, Jonathan / Breitenbücher, Uwe / Kronenwett, Simone / Leymann, Frank / Mathiak, Brigitte / Neuefeind, Claes (2018): “SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften” in: Book of Abstracts der 5. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2018), Köln 26.02.-02.03.2018: 471-474.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__291">Barzen, Johanna / Blumtritt, Jonathan / Breitenbücher, Uwe / Kronenwett, Simone / Leymann, Frank / Mathiak, Brigitte / Neuefeind, Claes (2018): “SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften” in: Book of Abstracts der 5. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2018), Köln 26.02.-02.03.2018: 471-474.</rs></bibl>
                 </listBibl>
             </div>
         </back>

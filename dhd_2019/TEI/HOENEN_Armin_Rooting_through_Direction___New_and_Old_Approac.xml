@@ -167,129 +167,37 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3862"><rs type="bibl" ref="#bibl__2629"><hi rend="bold">Baret, P</hi>
-                        <hi rend="bold">hilippe / </hi>
-                        <hi rend="bold">Macé, C</hi>
-                        <hi rend="bold">aroline /</hi>
-                        <hi rend="bold"> Robinson, P</hi>
-                        <hi rend="bold">eter</hi> (2004): "Testing methods on an artificially created textual tradition" in: Baret, Philippe / Macé, Caroline / Bozzi, Andrea / Cignoni, Laura 
-                        <hi rend="italic">The evolution of texts: confronting stemmatological and genetical methods </hi>Linguistica Computationale XXIV-XXV. Pisa/Rom: Instituti Editoriali e Poligrafici Internationali, 255–281.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3862">Baret, P hilippe / Macé, C aroline / Robinson, P eter (2004): "Testing methods on an artificially created textual tradition" in: Baret, Philippe / Macé, Caroline / Bozzi, Andrea / Cignoni, Laura The evolution of texts: confronting stemmatological and genetical methods Linguistica Computationale XXIV-XXV. Pisa/Rom: Instituti Editoriali e Poligrafici Internationali, 255–281.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3863"><rs type="bibl" ref="#bibl__2630"><hi rend="bold">Boles, D</hi>
-                        <hi rend="bold">avid </hi>
-                        <hi rend="bold">B. / Clifford, J</hi>
-                        <hi rend="bold">ohn </hi>
-                        <hi rend="bold">E.</hi> (1989) "An upper- and lower case alphabetic similarity matrix, with derived generation similarity values". Behav. Res. Methods Instrum. Comput. 21, 597–586.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3863">Boles, D avid B. / Clifford, J ohn E. (1989) "An upper- and lower case alphabetic similarity matrix, with derived generation similarity values". Behav. Res. Methods Instrum. Comput. 21, 597–586.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3864"><rs type="bibl" ref="#bibl__2631"><hi rend="bold">Geyer, L. </hi>
-                        <hi rend="bold">H. </hi>(1977). "Recognition and confusion of the lowercase alphabet". Percept. Psychophys. 22, 487–490.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3864">Geyer, L. H. (1977). "Recognition and confusion of the lowercase alphabet". Percept. Psychophys. 22, 487–490.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3865"><rs type="bibl" ref="#bibl__2632"><hi rend="bold">Gogarten, J</hi>
-                        <hi rend="bold">ohann </hi>
-                        <hi rend="bold">P. / Kibak, H</hi>
-                        <hi rend="bold">enrik /</hi>
-                        <hi rend="bold"> Dittrich, P</hi>
-                        <hi rend="bold">eter /</hi>
-                        <hi rend="bold"> Taiz, L</hi>
-                        <hi rend="bold">incoln /</hi>
-                        <hi rend="bold"> Bowman, E</hi>
-                        <hi rend="bold">mma </hi>
-                        <hi rend="bold">J. / Bowman, B</hi>
-                        <hi rend="bold">arry </hi>
-                        <hi rend="bold">J. / Manolson, M</hi>
-                        <hi rend="bold">orris </hi>
-                        <hi rend="bold">F. / Poole, R</hi>
-                        <hi rend="bold">onald </hi>
-                        <hi rend="bold">J. / Date, T</hi>
-                        <hi rend="bold">akayasu /</hi>
-                        <hi rend="bold"> Oshima, T</hi>
-                        <hi rend="bold">airo</hi> (1989) "Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes." Proc. Natl. Acad. Sci. 86, 6661–6665.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3865">Gogarten, J ohann P. / Kibak, H enrik / Dittrich, P eter / Taiz, L incoln / Bowman, E mma J. / Bowman, B arry J. / Manolson, M orris F. / Poole, R onald J. / Date, T akayasu / Oshima, T airo (1989) "Evolution of the vacuolar H+-ATPase: implications for the origin of eukaryotes." Proc. Natl. Acad. Sci. 86, 6661–6665.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3866"><rs type="bibl" ref="#bibl__2633"><hi rend="bold">Haigh, J</hi>
-                        <hi rend="bold">ohn </hi>(1970) "The recovery of the root of a tree" J. Appl. Probab. 7, 79–88.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3866">Haigh, J ohn (1970) "The recovery of the root of a tree" J. Appl. Probab. 7, 79–88.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3867"><rs type="bibl" ref="#bibl__2634"><hi rend="bold">Haigh, J</hi>
-                        <hi rend="bold">ohn</hi> (1971) "Mathematics in the Archaeological and Historical Sciences" Edinburgh University Press, Scotland, UK, 396–400.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3867">Haigh, J ohn (1971) "Mathematics in the Archaeological and Historical Sciences" Edinburgh University Press, Scotland, UK, 396–400.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3868"><rs type="bibl" ref="#bibl__2635"><hi rend="bold">Hamming, Richard</hi> W. (1950). "Error detecting and error correcting codes." Bell System technical journal, 29(2), 147-160.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3868">Hamming, Richard W. (1950). "Error detecting and error correcting codes." Bell System technical journal, 29(2), 147-160.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3869"><rs type="bibl" ref="#bibl__2636"><hi rend="bold">Hoenen, A</hi>
-                        <hi rend="bold">rmin</hi> (2018) "Multi Modal Distance - An Approach to Stemma Generation with Weighting" in: Proceedings of the 11th International Conference on Language Resources and Evaluation, LREC 2018. Miyazaki (Japan).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3869">Hoenen, A rmin (2018) "Multi Modal Distance - An Approach to Stemma Generation with Weighting" in: Proceedings of the 11th International Conference on Language Resources and Evaluation, LREC 2018. Miyazaki (Japan).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3870"><rs type="bibl" ref="#bibl__2637"><hi rend="bold">Iwabe, N</hi>
-                        <hi rend="bold">aoyuki /</hi>
-                        <hi rend="bold"> Kuma, </hi>
-                        <hi rend="bold">Kei-ichi /</hi>
-                        <hi rend="bold"> Hasegawa, M</hi>
-                        <hi rend="bold">asami /</hi>
-                        <hi rend="bold"> Osawa, S</hi>
-                        <hi rend="bold">yozo /</hi>
-                        <hi rend="bold"> Miyata, T</hi>
-                        <hi rend="bold">akashi </hi>(1989) "Evolutionary relationship of archaebacteria, eubacteria, and eukaryotes inferred from phylogenetic trees of duplicated genes" Proc. Natl. Acad. Sci. 86, 9355–9359.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3870">Iwabe, N aoyuki / Kuma, Kei-ichi / Hasegawa, M asami / Osawa, S yozo / Miyata, T akashi (1989) "Evolutionary relationship of archaebacteria, eubacteria, and eukaryotes inferred from phylogenetic trees of duplicated genes" Proc. Natl. Acad. Sci. 86, 9355–9359.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3871"><rs type="bibl" ref="#bibl__2638"><hi rend="bold">Katz, L</hi>
-                        <hi rend="bold">eonard / </hi>
-                        <hi rend="bold">Frost, R</hi>
-                        <hi rend="bold">am</hi> (1992) "The Reading Process is Different for Different Orthographies: The Orthographic Depth Hypothesis" Haskins Lab. Status Rep. Speech Res. SR-111, 147–160.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3871">Katz, L eonard / Frost, R am (1992) "The Reading Process is Different for Different Orthographies: The Orthographic Depth Hypothesis" Haskins Lab. Status Rep. Speech Res. SR-111, 147–160.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3872"><rs type="bibl" ref="#bibl__2639"><hi rend="bold">Marmerola, G</hi>
-                        <hi rend="bold">uilherme </hi>
-                        <hi rend="bold">D. / Oikawa, M</hi>
-                        <hi rend="bold">arina A</hi>
-                        <hi rend="bold">. / Dias, Z</hi>
-                        <hi rend="bold">anoni /</hi>
-                        <hi rend="bold"> Goldenstein, S</hi>
-                        <hi rend="bold">iome /</hi>
-                        <hi rend="bold"> Rocha, A</hi>
-                        <hi rend="bold">nderson</hi> (2016) "On the Reconstruction of Text Phylogeny Trees: Evaluation and Analysis of Textual Relationships" PloS One 11, e0167822.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3872">Marmerola, G uilherme D. / Oikawa, M arina A . / Dias, Z anoni / Goldenstein, S iome / Rocha, A nderson (2016) "On the Reconstruction of Text Phylogeny Trees: Evaluation and Analysis of Textual Relationships" PloS One 11, e0167822.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3873"><rs type="bibl" ref="#bibl__2640"><hi rend="bold">Mink, G</hi>
-                        <hi rend="bold">erd </hi>(2004) "Problems of a highly contaminated tradition: the New Testament: Stemmata of variants as a source of a genealogy for witnesses" in: van Reenen, P., den Hollander, A., van Mulken, M. (Eds.), Studies in Stemmatology II. John Benjamins, pp. 13–86.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3873">Mink, G erd (2004) "Problems of a highly contaminated tradition: the New Testament: Stemmata of variants as a source of a genealogy for witnesses" in: van Reenen, P., den Hollander, A., van Mulken, M. (Eds.), Studies in Stemmatology II. John Benjamins, pp. 13–86.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3874"><rs type="bibl" ref="#bibl__2641"><hi rend="bold">Paap, K</hi>
-                        <hi rend="bold">enneth </hi>
-                        <hi rend="bold">R. / Newsome, S</hi>
-                        <hi rend="bold">andra </hi>
-                        <hi rend="bold">L. / McDonald, J</hi>
-                        <hi rend="bold">ames </hi>
-                        <hi rend="bold">E. / Schvaneveldt, R</hi>
-                        <hi rend="bold">oger </hi>
-                        <hi rend="bold">W. </hi>(1982) "An activation-verification model for letter and word recognition: the word-superiority effect" Psychol. Rev. 89, 573–594.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3874">Paap, K enneth R. / Newsome, S andra L. / McDonald, J ames E. / Schvaneveldt, R oger W. (1982) "An activation-verification model for letter and word recognition: the word-superiority effect" Psychol. Rev. 89, 573–594.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3875"><rs type="bibl" ref="#bibl__2642"><hi rend="bold">Roos, T</hi>
-                        <hi rend="bold">eemu / </hi>
-                        <hi rend="bold">Heikkilä, T</hi>
-                        <hi rend="bold">uomas</hi> (2009) "Evaluating methods for computer-assisted stemmatology using artificial benchmark data sets" Lit. Linguist. Comput. 24, 417–433.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3875">Roos, T eemu / Heikkilä, T uomas (2009) "Evaluating methods for computer-assisted stemmatology using artificial benchmark data sets" Lit. Linguist. Comput. 24, 417–433.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3876"><rs type="bibl" ref="#bibl__2643"><hi rend="bold">Spencer, M</hi>
-                        <hi rend="bold">atthew /</hi>
-                        <hi rend="bold">Davidson, E</hi>
-                        <hi rend="bold">lizabeth </hi>
-                        <hi rend="bold">A. / Barbrook, A</hi>
-                        <hi rend="bold">drian </hi>
-                        <hi rend="bold">C. / Howe, C</hi>
-                        <hi rend="bold">hristopher </hi>
-                        <hi rend="bold">J.</hi> (2004). "Phylogenetics of artificial manuscripts" J. Theor. Biol. 227, 503–511.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3876">Spencer, M atthew / Davidson, E lizabeth A. / Barbrook, A drian C. / Howe, C hristopher J. (2004). "Phylogenetics of artificial manuscripts" J. Theor. Biol. 227, 503–511.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3877"><rs type="bibl" ref="#bibl__2644"><hi rend="bold">West, M</hi>
-                        <hi rend="bold">artin </hi>
-                        <hi rend="bold">L.</hi> (1973) "Textual Criticism and Editorial Technique: Applicable to Greek and Latin texts" Teubner, Stuttgart.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3877">West, M artin L. (1973) "Textual Criticism and Editorial Technique: Applicable to Greek and Latin texts" Teubner, Stuttgart.</rs></bibl>
                 </listBibl>
             </div>
         </back>

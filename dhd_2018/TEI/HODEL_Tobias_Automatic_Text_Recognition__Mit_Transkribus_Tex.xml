@@ -233,9 +233,9 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.<rs type="bibl" ref="#bibl__198"><rs type="bibl" ref="#bibl__147"/></rs></bibl>
+                    <bibl>Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.<rs type="bibl" ref="#bibl__198">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</rs></bibl>
                     <bibl>
-                  <rs type="bibl" ref="#bibl__198"><rs type="bibl" ref="#bibl__147"><hi rend="bold">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R.,</hi> 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</rs></rs></bibl>
+                  <rs type="bibl" ref="#bibl__198">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</rs></bibl>
                 </listBibl>
             </div>
       </back>

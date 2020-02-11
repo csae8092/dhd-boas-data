@@ -142,20 +142,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3605"><rs type="bibl" ref="#bibl__2369"><hi rend="bold">Christlein, Vincent / Weichselbaumer, Nikolaus</hi> (2016): "Automatische Typenbestimmung in historischen Drucken." Poster at DHd2016, Abstract online: http://dhd2016.de/boa-2.0.pdf [Access date 9 October 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3605">Christlein, Vincent / Weichselbaumer, Nikolaus (2016): "Automatische Typenbestimmung in historischen Drucken." Poster at DHd2016, Abstract online: http://dhd2016.de/boa-2.0.pdf [Access date 9 October 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__243"><rs type="bibl" ref="#bibl__2370"><hi rend="bold">Eisermann, Falk / Duntze, Oliver</hi> (2014): "Auf der Spur der seltsamen Typen. Das digitale Typenrepertorium der Wiegendrucke", in: Bibliotheksmagazin 3: 41–48 https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf [Access date 9. October 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__243">Eisermann, Falk / Duntze, Oliver (2014): "Auf der Spur der seltsamen Typen. Das digitale Typenrepertorium der Wiegendrucke", in: Bibliotheksmagazin 3: 41–48 https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf [Access date 9. October 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3606"><rs type="bibl" ref="#bibl__2371"><hi rend="bold">He et al.</hi> (2016): https://ieeexplore.ieee.org/abstract/document/7780459.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3606">He et al. (2016): https://ieeexplore.ieee.org/abstract/document/7780459.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3607"><rs type="bibl" ref="#bibl__2372"><hi rend="bold">Staatsbibliothek zu Berlin (</hi>2019a): https://www.gesamtkatalogderwiegendrucke.de [Access date 11 January 2019]. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3607">Staatsbibliothek zu Berlin (2019a): https://www.gesamtkatalogderwiegendrucke.de [Access date 11 January 2019].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3608"><rs type="bibl" ref="#bibl__2373"><hi rend="bold" xml:space="preserve">Staatsbibliothek zu Berlin </hi>(2019b): https://tw.staatsbibliothek-berlin.de [Access date 11 January 2019].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3608">Staatsbibliothek zu Berlin (2019b): https://tw.staatsbibliothek-berlin.de [Access date 11 January 2019].</rs></bibl>
                 </listBibl>
             </div>
         </back>

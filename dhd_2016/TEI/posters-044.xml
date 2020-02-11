@@ -146,16 +146,9 @@
                 <listBibl>
                   <head>Bibliographie</head>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__245"><hi rend="bold">Buddenbohm, Stefan / Enke, Harry / Hofmann, Matthias / Klar,
-                      Jochen / Neuroth, Heike / Schwiegelshohn, Uwe</hi> (2014): <hi rend="italic">Erfolgskriterien für den Aufbau und nachhaltigen Betrieb
-                      Virtueller Forschungsumgebungen</hi>. DARIAH-DE Working Papers Nr. 7.
-                      Göttingen: DARIAH-DE. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__245">Buddenbohm, Stefan / Enke, Harry / Hofmann, Matthias / Klar, Jochen / Neuroth, Heike / Schwiegelshohn, Uwe (2014): Erfolgskriterien für den Aufbau und nachhaltigen Betrieb Virtueller Forschungsumgebungen. DARIAH-DE Working Papers Nr. 7. Göttingen: DARIAH-DE.</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2205"><hi rend="bold">Romanello, Matteo / Stiller, Juliane / Thoden, Klaus</hi>
-                        (2015): <hi rend="italic">Usability Criteria for External Requests of
-                        Collaboration (R 1.2.2/R 7.5)</hi>. DARIAH-DE Aufbau von
-                        Forschungsinfrastrukturen für die eHumanities. DARIAH-DE <ref target="https://wiki.de.dariah.eu/download/attachments/14651583/R1.2.2_Usability_Criteria_for_External_Requests_of_Collaboration.pdf">https://wiki.de.dariah.eu/download/attachments/14651583/R1.2.2_Usability_Criteria_for_External_Requests _of_Collaboration.pdf</ref>
-                        [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2205">Romanello, Matteo / Stiller, Juliane / Thoden, Klaus (2015): Usability Criteria for External Requests of Collaboration (R 1.2.2/R 7.5). DARIAH-DE Aufbau von Forschungsinfrastrukturen für die eHumanities. DARIAH-DE https://wiki.de.dariah.eu/download/attachments/14651583/R1.2.2_Usability_Criteria_for_External_Requests _of_Collaboration.pdf [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                       </listBibl>
                     </div>
                   </back>

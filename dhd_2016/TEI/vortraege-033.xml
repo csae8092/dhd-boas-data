@@ -227,34 +227,17 @@
                     <listBibl>
                       <head>Bibliographie</head>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__1819"><hi rend="bold">Kepper, Johannes</hi> (2009): "XML-basierte Codierung
-                        musikwissenschaftlicher Daten – Zu den Voraussetzungen einer digitalen
-                        Musikedition", in: <hi rend="italic">it – Information Technology</hi> 51:
-                        216–221.</rs></bibl>
-                        <bibl> Library of Congress (2015): <rs type="bibl" ref="#bibl__1820"><hi rend="italic">Preservation: Recommended
-                          Formats Statement</hi>
-                          <ref target="https://www.loc.gov/preservation/resources/rfs/textmus.html">https://www.loc.gov/preservation/resources/rfs/textmus.html</ref>
-                            [letzter Zugriff 08. Januar 2016].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__1821"><hi rend="bold">Krahn, Holger / Rumpe, Bernhard</hi> (2005): <hi rend="italic">Evolution von Softwarearchitekturen</hi>.
-                            Informatik-Bericht 2005-04. Braunschweig: TU Braunschweig <ref target="http://www.se-rwth.de/~rumpe/publications20042008/Evolution-von-Software-Architekturen.pdf">http://www.se-rwth.de/~rumpe/publications20042008/Evolution-von-Software-Architekturen.pdf</ref>
-                            [letzter Zugriff 08. Januar 2016].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1819">Kepper, Johannes (2009): "XML-basierte Codierung musikwissenschaftlicher Daten – Zu den Voraussetzungen einer digitalen Musikedition", in: it – Information Technology 51: 216–221.</rs></bibl>
+                        <bibl> Library of Congress (2015): <rs type="bibl" ref="#bibl__1820">Library of Congress (2015): Preservation: Recommended Formats Statement https://www.loc.gov/preservation/resources/rfs/textmus.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__1821">Krahn, Holger / Rumpe, Bernhard (2005): Evolution von Softwarearchitekturen. Informatik-Bericht 2005-04. Braunschweig: TU Braunschweig http://www.se-rwth.de/~rumpe/publications20042008/Evolution-von-Software-Architekturen.pdf [letzter Zugriff 08. Januar 2016].</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__1822"><hi rend="bold">Richts, Kristina / Herold, Kristin</hi> (2014): <hi rend="italic">Daten- und Metadatenformate in den Fachdisziplinen:
-                              Musikwissenschaft</hi>
-                              <ref target="https://wiki.de.dariah.eu/display/publicde/3.3+Musikwissenschaft">https://wiki.de.dariah.eu/display/publicde/3.3+Musikwissenschaft</ref>
-                                [letzter Zugriff: 04. Januar 2016].</rs></bibl>
+                              <rs type="bibl" ref="#bibl__1822">Richts, Kristina / Herold, Kristin (2014): Daten- und Metadatenformate in den Fachdisziplinen: Musikwissenschaft https://wiki.de.dariah.eu/display/publicde/3.3+Musikwissenschaft [letzter Zugriff: 04. Januar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__1823"><hi rend="bold">Roland, Perry / Kepper, Johannes</hi> (eds.) (2014): <hi rend="italic">Music Encoding Initiative Guidelines</hi>. Release 2013.
-                                  Revision 2.1.1. Charlottesville / Detmold: Music Encoding Initiative Council
-                                  <ref target="http://github.com/music-encoding/music-encoding/releases/download/MEI2013_v2.1.1/MEI_Guidelines_2013_v2.1.1.pdf">http://github.com/music-encoding/music-encoding/releases/download/MEI2013_v2.1.1/MEI_Guidelines_2013_v2.1.1.pdf</ref>
-                                    [letzter Zugriff: 04. Januar 2016]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__1823">Roland, Perry / Kepper, Johannes (eds.) (2014): Music Encoding Initiative Guidelines. Release 2013. Revision 2.1.1. Charlottesville / Detmold: Music Encoding Initiative Council http://github.com/music-encoding/music-encoding/releases/download/MEI2013_v2.1.1/MEI_Guidelines_2013_v2.1.1.pdf [letzter Zugriff: 04. Januar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__1824"><hi rend="bold">Selfridge-Field, Eleanor</hi> (1997): <hi rend="italic">Beyond MIDI</hi>. The handbook of musical codes. Cambridge: MIT Press
-                                      Ltd. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__1824">Selfridge-Field, Eleanor (1997): Beyond MIDI. The handbook of musical codes. Cambridge: MIT Press Ltd.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__1825"><hi rend="bold">Veit, Joachim</hi> (2006): "Musikwissenschaft und
-                                        Computerphilologie – eine schwierige Liaison?", in: <hi rend="italic">Jahrbuch für Computerphilologie</hi> 7: 67–92 <ref target="http://computerphilologie.uni-muenchen.de/jg05/veit.html">http://computerphilologie.uni-muenchen.de/jg05/veit.html </ref>
-                                        [letzter Zugriff 30. September 2015]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__1825">Veit, Joachim (2006): "Musikwissenschaft und Computerphilologie – eine schwierige Liaison?", in: Jahrbuch für Computerphilologie 7: 67–92 http://computerphilologie.uni-muenchen.de/jg05/veit.html [letzter Zugriff 30. September 2015].</rs></bibl>
                                       </listBibl>
                                     </div>
                                   </back>

@@ -210,53 +210,19 @@
                 <listBibl>
                   <head>Bibliographie</head>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2413"><hi rend="bold">BBAW</hi> (2013): <hi rend="italic">Das DTA-Basisformat
-                    DTABf</hi>. Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)
-                    <ref target="http://www.deutschestextarchiv.de/doku/basisformat">http://www.deutschestextarchiv.de/doku/basisformat</ref> [letzter
-                      Zugriff 09. Januar 2016]. </rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__2414"><hi rend="bold">CLARIN</hi> (o. J.): <hi rend="italic">CLARIN-D
-                      WebMAUS</hi>. Automatic Segmentation of Speech. <ref target="https://www.clarin.eu/movies/clarin-d-webmaus-automatic-segmentation-speech">https://www.clarin.eu/movies/clarin-d-webmaus-automatic-segmentation-speech</ref>
-                      [letzter Zugriff 08. September 2015]. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2413">BBAW (2013): Das DTA-Basisformat DTABf. Berlin-Brandenburgische Akademie der Wissenschaften (BBAW) http://www.deutschestextarchiv.de/doku/basisformat [letzter Zugriff 09. Januar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2414">CLARIN (o. J.): CLARIN-D WebMAUS. Automatic Segmentation of Speech. https://www.clarin.eu/movies/clarin-d-webmaus-automatic-segmentation-speech [letzter Zugriff 08. September 2015].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__82"><hi rend="bold">Haaf, Susanne / Geyken, Alexander / Wiegand, Frank</hi>
-                        (2015): "The DTA 'Base Format': A TEI Subset for the Compilation of a Large
-                        Reference Corpus of Printed Text from Multiple Sources", in: <hi rend="italic">Journal of the Text Encoding Initiative</hi> 8 <ref target="https://jtei.revues.org/1114">https://jtei.revues.org/1114</ref>
-                        [letzter Zugriff 09. Januar 2016]. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__82">Haaf, Susanne / Geyken, Alexander / Wiegand, Frank (2015): "The DTA 'Base Format': A TEI Subset for the Compilation of a Large Reference Corpus of Printed Text from Multiple Sources", in: Journal of the Text Encoding Initiative 8 https://jtei.revues.org/1114 [letzter Zugriff 09. Januar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2415"><hi rend="bold"> Hadersbeck, Max / Bruder, Daniel / Capsamun, Roman / Conforti, Costanza / 
-                            Eder, Elisabeth / Eichfeldt, Nora / Fink, Florian / Herteis, Simeon / Höps, Raphael /
-                            Lindinger, Matthias / Ling, Jennifer / Mittelhammer, Katharina / Schmidt, Katharina / 
-                            Schweter, Stefan</hi>
-                          <hi rend="italic">FinderApp GoetheFind</hi>.
-                          Centrum für Informations- und Sprachverarbeitung (CIS), Ludwig Maximilians Universität
-                          München
-                          <ref target="http://goethefind.cis.uni-muenchen.de/">http://goethefind.cis.uni-muenchen.de/
-                          </ref> [18.02.2016]. </rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__2416"><hi rend="bold">Hadersbeck, Max / Pichler, Alois</hi> (eds.) (o. J.) <hi rend="italic">FinderApp WiTTFind</hi>. Centrum für Informations- und
-                          Sprachverarbeitung (CIS), Ludwig Maximilians Universität München &amp;
-                          Wittgenstein Archives, University of Bergen <ref target="http://wittfind.cis.uni-muenchen.de/">http://wittfind.cis.uni-muenchen.de/</ref> [letzter Zugriff 09. Januar
-                          2016].</rs></bibl>
+                          <rs type="bibl" ref="#bibl__2415">Hadersbeck, Max / Bruder, Daniel / Capsamun, Roman / Conforti, Costanza / Eder, Elisabeth / Eichfeldt, Nora / Fink, Florian / Herteis, Simeon / Höps, Raphael / Lindinger, Matthias / Ling, Jennifer / Mittelhammer, Katharina / Schmidt, Katharina / Schweter, Stefan FinderApp GoetheFind. Centrum für Informations- und Sprachverarbeitung (CIS), Ludwig Maximilians Universität München http://goethefind.cis.uni-muenchen.de/ [18.02.2016].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__2416">Hadersbeck, Max / Pichler, Alois (eds.) (o. J.) FinderApp WiTTFind. Centrum für Informations- und Sprachverarbeitung (CIS), Ludwig Maximilians Universität München &amp; Wittgenstein Archives, University of Bergen http://wittfind.cis.uni-muenchen.de/ [letzter Zugriff 09. Januar 2016].</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2417"><hi rend="bold">Hadersbeck, Max, Pichler, Alois, Fink, Florian , Gjesdal,
-                              Øyvind Liland</hi> (2014): "Wittgenstein's Nachlass. WiTTFind and
-                              Wittgenstein advanced search tools (WAST)", in: <hi rend="italic">Digital
-                              Access to Textual Cultural Heritage (DaTeCH 2014)</hi>, Madrid 91-96
-                              <ref target="http://dblp.uni-trier.de/db/conf/datech/datech2014.html#HadersbeckPFG14">http://dblp.uni-trier.de/db/conf/datech/datech2014.html#HadersbeckPFG14</ref>
-                                [letzter Zugriff 09. Januar 2016]. </rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__256"><hi rend="bold">Hadersbeck, Max / Pichler, Alois / Fink, Florian / Bruder,
-                                  Daniel / Arends, Ina / Baiter, Johannes</hi> (2015): "Wittgensteins
-                                  Nachlass. Erkenntnisse und Weiterentwicklung der FinderApp WiTTFind", in:
-                                  <hi rend="italic">2. Tagung der Digital Humanities im deutschsprachigen
-                                    Raum 23.-27.2.2015</hi>, Graz.</rs></bibl>
+                            <rs type="bibl" ref="#bibl__2417">Hadersbeck, Max, Pichler, Alois, Fink, Florian , Gjesdal, Øyvind Liland (2014): "Wittgenstein's Nachlass. WiTTFind and Wittgenstein advanced search tools (WAST)", in: Digital Access to Textual Cultural Heritage (DaTeCH 2014), Madrid 91-96 http://dblp.uni-trier.de/db/conf/datech/datech2014.html#HadersbeckPFG14 [letzter Zugriff 09. Januar 2016].</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__256">Hadersbeck, Max / Pichler, Alois / Fink, Florian / Bruder, Daniel / Arends, Ina / Baiter, Johannes (2015): "Wittgensteins Nachlass. Erkenntnisse und Weiterentwicklung der FinderApp WiTTFind", in: 2. Tagung der Digital Humanities im deutschsprachigen Raum 23.-27.2.2015, Graz.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2418"><hi rend="bold">Ploeger, Lieke</hi> (2014): "Open Humanities Awards round 2
-                                      – Winners announced", in: <hi rend="italic">DM2E. Digitised Manuscripts to
-                                      Europeana</hi>
-                                      <ref target="http://dm2e.eu/open-humanities-awards-round-2-winners-announced/">http://dm2e.eu/open-humanities-awards-round-2-winners-announced/</ref>
-                                        [letzter Zugriff 09. Januar 2016]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2419"><hi rend="bold">TEI</hi> (2015): "Stand-off Markup", in: <hi rend="italic">TEI Guidelines for Electronic Text Encoding and Interchange</hi>,
-                                        Version 2.9.1, 16.9 <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SASO">http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SASO</ref>
-                                        [letzter Zugriff 09. Januar 2016].</rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2418">Ploeger, Lieke (2014): "Open Humanities Awards round 2 – Winners announced", in: DM2E. Digitised Manuscripts to Europeana http://dm2e.eu/open-humanities-awards-round-2-winners-announced/ [letzter Zugriff 09. Januar 2016].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2419">TEI (2015): "Stand-off Markup", in: TEI Guidelines for Electronic Text Encoding and Interchange, Version 2.9.1, 16.9 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SASO [letzter Zugriff 09. Januar 2016].</rs></bibl>
                                       </listBibl>
                                     </div>
                                   </back>

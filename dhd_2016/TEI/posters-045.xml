@@ -210,66 +210,25 @@
                                 <listBibl>
                                   <head>Bibliographie</head>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2951"><hi rend="bold">Balasko, Akos / Farkas, Zoltan / Kacsuk, Peter</hi> (2013):
-                                    „Building science gateways by utilizing the generic WS-PGRADE/gUSE worklfow
-                                    sytem.“, in: <hi rend="italic">Computer Science Journal</hi> 14, 2: 307-325. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__2952"><hi rend="bold">COST-ENeL</hi> (2013-*): <hi rend="italic">European
-                                    CO-operation in Science and Technology: European Network of
-                                    e-Lexicography (ENeL)</hi>. COST Association. <ref target="http://www.cost.eu/COST_Actions/isch/IS1305">http://www.cost.eu/COST_Actions/isch/IS1305</ref> [letzter Zugriff 15.
-                                    Oktober 2015]. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__238"><hi rend="bold">DARIAH</hi>: <hi rend="italic">Digital Research
-                                    Infrastructures for the Arts and Humanities</hi> (DARIAH). <ref target="http://www.dariah.eu/">http://www.dariah.eu</ref> [letzter
-                                    Zugriff 15. Oktober 2015]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2951">Balasko, Akos / Farkas, Zoltan / Kacsuk, Peter (2013): „Building science gateways by utilizing the generic WS-PGRADE/gUSE worklfow sytem.“, in: Computer Science Journal 14, 2: 307-325.</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2952">COST-ENeL (2013-*): European CO-operation in Science and Technology: European Network of e-Lexicography (ENeL). COST Association. http://www.cost.eu/COST_Actions/isch/IS1305 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__238">DARIAH: Digital Research Infrastructures for the Arts and Humanities (DARIAH). http://www.dariah.eu [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2953"><hi rend="bold">Davidovic, David / Wandl-Vogt, Eveline / Skala, Karolj /
-                                        Kalman, Tibor </hi>(2015): „EGI Engage – Competence Centre for DARIAH.“,
-                                        in: <hi rend="italic">12th European Semantic Web Conference 2015 Project
-                                        Networking Session</hi>. <ref target="http://2015.eswc-conferences.org/sites/default/files/PN-ESWC-2015_num5.pdf">http://2015.eswc-conferences.org/sites/default/files/PN-ESWC-2015_num5.pdf</ref>
-                                        [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2954"><hi rend="bold">DC-NET</hi> (2009-2012): <hi rend="italic">Digital
-                                        Cultural heritage NETwork</hi>. ERA-NET (European Research Area
-                                        Network). <ref target="http://www.dc-net.org/">http://www.dc-net.org/</ref>
-                                        [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2955"><hi rend="bold">DCH-RP</hi> (2012-2014): <hi rend="italic">Digital
-                                        Cultural Heritage Roadmap for Preservation</hi>. <ref target="http://www.dch-rp.eu/">http://www.dch-rp.eu/</ref> [letzter
-                                        Zugriff 15. Oktober 2015]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2956"><hi rend="bold">EGI</hi> (2010-*): <hi rend="italic">European Grid
-                                        Infrastrucutre</hi> (EGI). <ref target="http://www.egi.eu/">http://www.egi.eu</ref> [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2957"><hi rend="bold">EGI: Dariah Competence Centre</hi>: <ref target="https://wiki.egi.eu/wiki/Competence_centre_DARIAH">https://wiki.egi.eu/wiki/Competence_centre_DARIAH</ref> [letzter
-                                        Zugriff 15. Oktober 2015]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2958"><hi rend="bold">EGI-Engage</hi> (2015-*): <hi rend="italic">Engaging the
-                                        Research Community towards an Open Science Commons</hi> (EGI-ENGAGE).
-                                        <ref target="https://www.egi.eu/about/egi-engage/">https://www.egi.eu/about/egi-engage/</ref> [letzter Zugriff 15. Oktober
-                                          2015]. </rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2959"><hi rend="bold">EGI-VO</hi> (joined EGI 01072011): <hi rend="italic">EGI:
-                                          Virtual Organisation for arts and humanities</hi>: vo.dariah.eu.
-                                          EGI-Engage Competence Centre <ref target="https://wiki.egi.eu/wiki/EGI_Virtual_Organisation_for_arts_and_humanities:_vo.dariah.eu">https://wiki.egi.eu/wiki/EGI_Virtual_Organisation_for_arts_and _humanities:_vo.dariah.eu</ref>
-                                          [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2953">Davidovic, David / Wandl-Vogt, Eveline / Skala, Karolj / Kalman, Tibor (2015): „EGI Engage – Competence Centre for DARIAH.“, in: 12th European Semantic Web Conference 2015 Project Networking Session. http://2015.eswc-conferences.org/sites/default/files/PN-ESWC-2015_num5.pdf [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2954">DC-NET (2009-2012): Digital Cultural heritage NETwork. ERA-NET (European Research Area Network). http://www.dc-net.org/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2955">DCH-RP (2012-2014): Digital Cultural Heritage Roadmap for Preservation. http://www.dch-rp.eu/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2956">EGI (2010-*): European Grid Infrastrucutre (EGI). http://www.egi.eu [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2957">EGI: Dariah Competence Centre: https://wiki.egi.eu/wiki/Competence_centre_DARIAH [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2958">EGI-Engage (2015-*): Engaging the Research Community towards an Open Science Commons (EGI-ENGAGE). https://www.egi.eu/about/egi-engage/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2959">EGI-VO (joined EGI 01072011): EGI: Virtual Organisation for arts and humanities: vo.dariah.eu. EGI-Engage Competence Centre https://wiki.egi.eu/wiki/EGI_Virtual_Organisation_for_arts_and _humanities:_vo.dariah.eu [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2960"><hi rend="bold">ENeL</hi> (2013-2017): <hi rend="italic">European Network of
-                                            e-Lexicography</hi> (ENeL). COST <ref target="http://www.elexicography.eu/">http://www.elexicography.eu</ref>
-                                            [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2961"><hi rend="bold">exploreAT!</hi> (2015-*): <hi rend="italic">exploring
-                                            austria´s culture through the language glass</hi>. <ref target="http://www.oeaw.ac.at/acdh/de/node/187">http://www.oeaw.ac.at/acdh/de/node/187</ref> [letzter Zugriff 15.
-                                            Oktober 2015]. </rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2962"><hi rend="bold">gLibrary</hi> (o.J.): <hi rend="italic">Digital Libraries
-                                            on the Grid</hi> (gLibrary). INFN <ptr target="http://glibrary.ct.infn.it/glibrary_new/index.php"/> [letzter
-                                            Zugriff 15. Oktober 2015]. </rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2963"><hi rend="bold">gUSE</hi> (2009-*): <hi rend="italic"> Grid and Cloud User
-                                            Support Environment</hi> (gUSE). Laboratory of Parallel and Distributed
-                                            Systems (LPDS) <ref target="http://guse.hu/about/architecture">http://guse.hu/about/architecture</ref> [letzter Zugriff 15. Oktober
-                                            2015]. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2960">ENeL (2013-2017): European Network of e-Lexicography (ENeL). COST http://www.elexicography.eu [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2961">exploreAT! (2015-*): exploring austria´s culture through the language glass. http://www.oeaw.ac.at/acdh/de/node/187 [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2962">gLibrary (o.J.): Digital Libraries on the Grid (gLibrary). INFN [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2963">gUSE (2009-*): Grid and Cloud User Support Environment (gUSE). Laboratory of Parallel and Distributed Systems (LPDS) http://guse.hu/about/architecture [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2964"><hi rend="bold">Kesselring, Alexander / Blasy, Cosima / Scopetta, Anette
-                                              </hi>(2014): <hi rend="italic">Workplace Innovation. Concepts and
-                                              indicators</hi>. European Commission Report <ref target="http://ec.europa.eu/DocsRoom/documents/8250/attachments/1/translations/en/renditions/native">http://ec.europa.eu/DocsRoom/documents/8250/attachments/1/translations/en/renditions/native</ref>
-                                              [letzter Zugriff 15. Oktober 2015]. </rs></bibl>
-                                              <bibl><rs type="bibl" ref="#bibl__2965"><hi rend="bold">Wandl-Vogt, Eveline</hi> (ed.) (2007-*): <hi rend="italic">"Datenbank der bairischen Mundarten in Österreich"</hi> (DBÖ), Wien
-                                              1993-2010, electronically mapped. Institut für Österreichische Dialekt- und
-                                              Namenlexika, Zentrum für Sprachwissenschaften, Bild- und Tondokumentation,
-                                              Österreichische Akademie der Wissenschaften (publiziert: Wien: 1. Juli 2010
-                                              <ref target="mailto:dbo@ema">dbo@ema</ref>). <ref target="http://wboe.oeaw.ac.at/">http://wboe.oeaw.ac.at</ref> [letzter
-                                              Zugriff 15. Oktober 2015]. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2964">Kesselring, Alexander / Blasy, Cosima / Scopetta, Anette (2014): Workplace Innovation. Concepts and indicators. European Commission Report http://ec.europa.eu/DocsRoom/documents/8250/attachments/1/translations/en/renditions/native [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                                              <bibl><rs type="bibl" ref="#bibl__2965">Wandl-Vogt, Eveline (ed.) (2007-*): "Datenbank der bairischen Mundarten in Österreich" (DBÖ), Wien 1993-2010, electronically mapped. Institut für Österreichische Dialekt- und Namenlexika, Zentrum für Sprachwissenschaften, Bild- und Tondokumentation, Österreichische Akademie der Wissenschaften (publiziert: Wien: 1. Juli 2010 dbo@ema). http://wboe.oeaw.ac.at [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                                             </listBibl>
                                           </div>
                                         </back>

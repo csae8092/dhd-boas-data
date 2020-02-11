@@ -186,52 +186,19 @@
                 <listBibl>
                   <head>Bibliographie</head>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2672"><hi rend="bold">Dreyer, Boris / Holdenried, Marvin / Scholz, Martin</hi>
-                    (2014-*): <hi rend="italic">EDEN — Epigraphische Datenbank
-                    Erlangen-Nürnberg</hi>. WissKi: Friedrich-Alexander-University,
-                    Erlangen-Nuremberg (FAU) <ref target="http://wisski.cs.fau.de/eden/">http://wisski.cs.fau.de/eden/</ref> [letzter Zugriff 08. Januar 2016]. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__2672">Dreyer, Boris / Holdenried, Marvin / Scholz, Martin (2014-*): EDEN — Epigraphische Datenbank Erlangen-Nürnberg. WissKi: Friedrich-Alexander-University, Erlangen-Nuremberg (FAU) http://wisski.cs.fau.de/eden/ [letzter Zugriff 08. Januar 2016].</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__61"><hi rend="bold">Görz, Günther </hi> (2011): "WissKI: Semantische Annotation,
-                      Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen
-                      Forschungsumgebung", in: <hi rend="italic">Kunstgeschichte. Open Peer
-                      Reviewed Journal</hi>
-                      <ref target="http://www.kunstgeschichte-ejournal.net/167/">http://www.kunstgeschichte-ejournal.net/167/</ref> [letzter Zugriff 08.
-                        Januar 2016]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__61">Görz, Günther (2011): "WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung", in: Kunstgeschichte. Open Peer Reviewed Journal http://www.kunstgeschichte-ejournal.net/167/ [letzter Zugriff 08. Januar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2673"><hi rend="bold">Görz, Günther / Scholz, Martin </hi> (2012): "WissKI: A
-                          Virtual Research Environment for Cultural Heritage", in: De Raedt, Luc, Luc
-                          De Raedt, Bessiere, Christian / Dubois, Didier / Doherty, Patrick /
-                          Frasconi, Paolo / Heintz, Fredrik / Lucas, Peter (eds.): <hi rend="italic">20th European Conference on Artificial Intelligence, ECAI 2012,
-                          Proceedings</hi>. IOS Press <ref target="http://www2.lirmm.fr/ecai2012/">http://www2.lirmm.fr/ecai2012/</ref> [letzter Zugriff 08. Januar 2016]. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2673">Görz, Günther / Scholz, Martin (2012): "WissKI: A Virtual Research Environment for Cultural Heritage", in: De Raedt, Luc, Luc De Raedt, Bessiere, Christian / Dubois, Didier / Doherty, Patrick / Frasconi, Paolo / Heintz, Fredrik / Lucas, Peter (eds.): 20th European Conference on Artificial Intelligence, ECAI 2012, Proceedings. IOS Press http://www2.lirmm.fr/ecai2012/ [letzter Zugriff 08. Januar 2016].</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2674"><hi rend="bold">Görz, Günther / Scholz, Martin / Merz, Dorian / Krause,
-                              Siegfried / Fichtner, Mark / Reinfandt, Kerstin / Grobe, Peter /
-                              Pfeifer, Maria Anna </hi>(2009-*): <hi rend="italic">WissKi: Scientific
-                              Communication Infrastructure</hi>. Friedrich-Alexander-University,
-                              Erlangen-Nuremberg (FAU); Digital Humanities Research Group, Department of
-                              Computer Science, Germanisches Nationalmuseum (GNM) Nuremberg; Biodiversity
-                              Informatics Group, Department of Museum Informatics, Zoologisches
-                              Forschungsmuseum Alexander Koenig (ZFMK) Bonn <ref target="http://wiss-ki.eu/">http://wiss-ki.eu/</ref> [letzter Zugriff:
-                              08. Januar 2016]. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__2674">Görz, Günther / Scholz, Martin / Merz, Dorian / Krause, Siegfried / Fichtner, Mark / Reinfandt, Kerstin / Grobe, Peter / Pfeifer, Maria Anna (2009-*): WissKi: Scientific Communication Infrastructure. Friedrich-Alexander-University, Erlangen-Nuremberg (FAU); Digital Humanities Research Group, Department of Computer Science, Germanisches Nationalmuseum (GNM) Nuremberg; Biodiversity Informatics Group, Department of Museum Informatics, Zoologisches Forschungsmuseum Alexander Koenig (ZFMK) Bonn http://wiss-ki.eu/ [letzter Zugriff: 08. Januar 2016].</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__64"><hi rend="bold">Hohmann, Georg / Fichtner, Mark</hi> (2015): "Chancen und
-                                Herausforderungen in der praktischen Anwendung von Ontologien für das
-                                Kulturerbe", in: Robertson-von Trotha, Caroline Y. / Schneider, Ralf M. (
-                                eds.): <hi rend="italic">Digitales Kulturerbe</hi>. Bewahrung und
-                                Zugänglichkeit in der wissenschaftlichen Praxis (= Kulturelle Überlieferung
-                                – digital 2). Karlsruhe: Karlsruhe Scientific Publishing 115-128. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__64">Hohmann, Georg / Fichtner, Mark (2015): "Chancen und Herausforderungen in der praktischen Anwendung von Ontologien für das Kulturerbe", in: Robertson-von Trotha, Caroline Y. / Schneider, Ralf M. ( eds.): Digitales Kulturerbe. Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis (= Kulturelle Überlieferung – digital 2). Karlsruhe: Karlsruhe Scientific Publishing 115-128.</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2675"><hi rend="bold">MIMO</hi> (2009-*): <hi rend="italic">Musical Instrument
-                                  Museums Online</hi>. Philharmonie de Paris: Cité de la musique, The
-                                  University of Edinburgh, Germanisches Nationalmuseum,
-                                  Muziekinstrumentenmuseum, Association "Amici del Museo degli Strumenti
-                                  Musicali" <ref target="http://www.mimo-international.com/MIMO/accueil-ermes.aspx">http://www.mimo-international.com/MIMO/accueil-ermes.aspx</ref>
-                                  [letzter Zugriff 08. Januar 2016]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2675">MIMO (2009-*): Musical Instrument Museums Online. Philharmonie de Paris: Cité de la musique, The University of Edinburgh, Germanisches Nationalmuseum, Muziekinstrumentenmuseum, Association "Amici del Museo degli Strumenti Musicali" http://www.mimo-international.com/MIMO/accueil-ermes.aspx [letzter Zugriff 08. Januar 2016].</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2676"><hi rend="bold">Scholz, Martin / Holdenried, Marvin / Dreyer, Boris /
-                                      Meyer-Wegener, Klaus / Görz, Günther </hi> (2014): "Und Semantik wuchs
-                                      in EDEN - Eine Vorstellung und ein Erfahrungsbericht", in: <hi rend="italic">Magazin für digitale Editionswissenschaften</hi> 1, 1: 22-30 <ref target="https://www.mde.fau.de/files/2015/03/MdE-2015-01_3_Scholz_et_al.pdf">https://www.mde.fau.de/files/2015/03/MdE-2015-01_3_Scholz_et_al.pdf</ref>
-                                      [letzter Zugriff 08. Januar 2016]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2676">Scholz, Martin / Holdenried, Marvin / Dreyer, Boris / Meyer-Wegener, Klaus / Görz, Günther (2014): "Und Semantik wuchs in EDEN - Eine Vorstellung und ein Erfahrungsbericht", in: Magazin für digitale Editionswissenschaften 1, 1: 22-30 https://www.mde.fau.de/files/2015/03/MdE-2015-01_3_Scholz_et_al.pdf [letzter Zugriff 08. Januar 2016].</rs></bibl>
                                     </listBibl>
                                   </div>
                                 </back>

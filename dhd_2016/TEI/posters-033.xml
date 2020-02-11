@@ -177,34 +177,17 @@
           <listBibl>
             <head>Bibliographie</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__223"><hi rend="bold">Eide, Øyvind</hi> (2015): "Ontologies, Data Modeling, and
-              TEI", in: <hi rend="italic">Journal of the Text Encoding Initiative</hi> 8.
-              <ref target="http://jtei.revues.org/1191">http://jtei.revues.org/1191</ref> [letzter Zugriff 13. Oktober 2015]. </rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__1970"><hi rend="bold">Inkunabelreferat der Staatsbibliothek zu Berlin –
-                  Preußischer Kulturbesitz</hi> (o.J.): <hi rend="italic">TW</hi>.
-                  Typenrepertorium der Wiegendrucke <ref target="http://tw.staatsbibliothek-berlin.de/">http://tw.staatsbibliothek-berlin.de/</ref> [letzter Zugriff 15.
-                  Februar 2016]. </rs></bibl>
+              <rs type="bibl" ref="#bibl__223">Eide, Øyvind (2015): "Ontologies, Data Modeling, and TEI", in: Journal of the Text Encoding Initiative 8. http://jtei.revues.org/1191 [letzter Zugriff 13. Oktober 2015].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__1970">Inkunabelreferat der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (o.J.): TW. Typenrepertorium der Wiegendrucke http://tw.staatsbibliothek-berlin.de/ [letzter Zugriff 15. Februar 2016].</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__1971"><hi rend="bold">Lucius von, Wolf D.</hi> (2012): "Buchgestaltung und
-                    Typographie bei Stefan George", in: Aurnhammer, Achim / Braungart, Wolfgang
-                    / Breuer, Stefan / Oelmann, Ute (eds.): <hi rend="italic">Stefan George und
-                    sein Kreis</hi>. Ein Handbuch, 1. Berlin / Boston: De Gruyter 467-491. </rs></bibl>
+                    <rs type="bibl" ref="#bibl__1971">Lucius von, Wolf D. (2012): "Buchgestaltung und Typographie bei Stefan George", in: Aurnhammer, Achim / Braungart, Wolfgang / Breuer, Stefan / Oelmann, Ute (eds.): Stefan George und sein Kreis. Ein Handbuch, 1. Berlin / Boston: De Gruyter 467-491.</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__1972"><hi rend="bold">Stöckl, Hartmut</hi> (2004): "Typographie: Körper und Gewand
-                      des Textes. Linguistische Überlegungen zu typographischer Gestaltung", in:
-                      <hi rend="italic">ZfAL Zeitschrift für Angewandte Linguistik</hi> 41:
-                      5-48. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__1972">Stöckl, Hartmut (2004): "Typographie: Körper und Gewand des Textes. Linguistische Überlegungen zu typographischer Gestaltung", in: ZfAL Zeitschrift für Angewandte Linguistik 41: 5-48.</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__1973"><hi rend="bold">Stokes, Peter A.</hi> (2011): <hi rend="italic">Describing
-                        Handwriting</hi>. Part I: <ref target="http://www.digipal.eu/blog/describing-handwriting-part-i/">http://www.digipal.eu/blog/describing-handwriting-part-i/</ref>
-                        [letzter Zugriff 13. Oktober 2015]. </rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1974"><hi rend="bold">Universität Würzburg</hi> (o. J.): <hi rend="italic">Dreifachlupe</hi>
-                        <ref target="http://vb.uni-wuerzburg.de/ub/lskd/dreifachlupe.html">http://vb.uni-wuerzburg.de/ub/lskd/dreifachlupe.html</ref> [letzter
-                          Zugriff 15. Februar 2016].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1973">Stokes, Peter A. (2011): Describing Handwriting. Part I: http://www.digipal.eu/blog/describing-handwriting-part-i/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1974">Universität Würzburg (o. J.): Dreifachlupe http://vb.uni-wuerzburg.de/ub/lskd/dreifachlupe.html [letzter Zugriff 15. Februar 2016].</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__1975"><hi rend="bold">Wehde, Susanne</hi> (2000): <hi rend="italic">Typographische
-                            Kultur</hi>. Eine zeichenhistorische und kulturgeschichtliche Studie zur
-                            Typographie und ihrer Entwicklung. Tübingen: Niemeyer. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__1975">Wehde, Susanne (2000): Typographische Kultur. Eine zeichenhistorische und kulturgeschichtliche Studie zur Typographie und ihrer Entwicklung. Tübingen: Niemeyer.</rs></bibl>
                           </listBibl>
                         </div>
                       </back>

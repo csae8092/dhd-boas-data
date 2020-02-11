@@ -137,33 +137,19 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__828"><rs type="bibl" ref="#bibl__748"><hi rend="bold">Bernstein, Abraham / Hendler, James / Noy, Natalya </hi>(2016): “A New Look at the Semantic Web.” in: 
-                        <hi rend="italic">Communications of the ACM</hi>. 59:9. 35-37.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__828">Bernstein, Abraham / Hendler, James / Noy, Natalya (2016): “A New Look at the Semantic Web.” in: Communications of the ACM. 59:9. 35-37.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__829"><rs type="bibl" ref="#bibl__749"><hi rend="bold">Fowler, Martin</hi> (2011): 
-                        <hi rend="italic">Domain-Specific Languages</hi>. Addison-Wesley: Upper Saddle River, New Jersey.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__829">Fowler, Martin (2011): Domain-Specific Languages. Addison-Wesley: Upper Saddle River, New Jersey.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__830"><rs type="bibl" ref="#bibl__750"><hi rend="bold">Gutknecht, Jürg</hi> (1985): “Concepts of the Text Editor Lara.” in: 
-                        <hi rend="italic">Communications of the ACM</hi>. 28:9. 942-960.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__830">Gutknecht, Jürg (1985): “Concepts of the Text Editor Lara.” in: Communications of the ACM. 28:9. 942-960.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__831"><rs type="bibl" ref="#bibl__751"><hi rend="bold">Parr, Terence</hi> (2013):  
-                        <hi rend="italic">The Definitive ANTLR 4 Reference</hi>. Pragmatic Bookshelf: Dallas Texas.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__831">Parr, Terence (2013): The Definitive ANTLR 4 Reference. Pragmatic Bookshelf: Dallas Texas.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__832"><rs type="bibl" ref="#bibl__752"><hi rend="bold">Wirth, Niklaus</hi> (1986<hi rend="superscript">4</hi>): 
-                        <hi rend="italic">Compilerbau</hi>. Teubner: Stuttgart.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__832">Wirth, Niklaus (19864): Compilerbau. Teubner: Stuttgart.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__833"><rs type="bibl" ref="#bibl__753"><hi rend="bold">Wirth, Niklaus</hi> (2000<hi rend="superscript">5</hi>): 
-                        <hi rend="italic">Algorithmen und Datenstrukturen</hi>. Teubner: Stuttgart.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__833">Wirth, Niklaus (20005): Algorithmen und Datenstrukturen. Teubner: Stuttgart.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__834"><rs type="bibl" ref="#bibl__754"><hi rend="bold">Wirth, Niklaus / Gutknecht, Jürg</hi> (1992):  
-                        <hi rend="italic">Project Oberon: Design of an Operating System and Compiler</hi>. Addison-Wesley Longman: Amsterdam. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__834">Wirth, Niklaus / Gutknecht, Jürg (1992): Project Oberon: Design of an Operating System and Compiler. Addison-Wesley Longman: Amsterdam.</rs></bibl>
                 </listBibl>
             </div>
       </back>

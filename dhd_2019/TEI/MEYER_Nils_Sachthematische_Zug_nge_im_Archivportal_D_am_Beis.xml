@@ -96,60 +96,27 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3832"><rs type="bibl" ref="#bibl__2597"><hi rend="bold">Becker, Irmgard Christa / Maier, Gerald / Uhde, Karsten / Wolf, Christina</hi> (eds.) (2016): 
-                        <hi rend="italic">Netz werken</hi>. Das Archivportal-D und andere Portale als Chance für Archive und Nutzung. Beiträge zum 19. Archivwissenschaftlichen Kolloquium (= Veröffentlichungen der Archivschule Marburg 61), Marburg: Archivschule Marburg.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3832">Becker, Irmgard Christa / Maier, Gerald / Uhde, Karsten / Wolf, Christina (eds.) (2016): Netz werken. Das Archivportal-D und andere Portale als Chance für Archive und Nutzung. Beiträge zum 19. Archivwissenschaftlichen Kolloquium (= Veröffentlichungen der Archivschule Marburg 61), Marburg: Archivschule Marburg.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3833"><rs type="bibl" ref="#bibl__2598"><hi rend="bold">Fähle, Daniel / Maier, Gerald / Schröter-Karin, Tobias / Wolf, Christina</hi> (2015): 
-                        <hi rend="italic">Archivportal-D</hi>. Funktionalität, Entwicklungsperspektiven und Beteiligungsmöglichkeiten, in: 
-                        <hi rend="italic">Archivar</hi> 68: 10-19.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3833">Fähle, Daniel / Maier, Gerald / Schröter-Karin, Tobias / Wolf, Christina (2015): Archivportal-D. Funktionalität, Entwicklungsperspektiven und Beteiligungsmöglichkeiten, in: Archivar 68: 10-19.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3834"><rs type="bibl" ref="#bibl__2599"><hi rend="bold">Hentschel, Christian / Wiradarma, Timur Pratama / Sack, Harald</hi> (2015): 
-                        <hi rend="italic">If we did not have imagenet</hi>. Comparison of fisher encodings and convolutional neural networks on limited training data, in: 
-                        <hi rend="italic">Advances in Visual Computing</hi> (= Lecture Notes in Computer Science 9475) 400-409.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3834">Hentschel, Christian / Wiradarma, Timur Pratama / Sack, Harald (2015): If we did not have imagenet. Comparison of fisher encodings and convolutional neural networks on limited training data, in: Advances in Visual Computing (= Lecture Notes in Computer Science 9475) 400-409.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3835"><rs type="bibl" ref="#bibl__2600"><hi rend="bold">Herrmann, Tobias / Zahnhausen, Vera</hi> (2018): 
-                        <hi rend="italic">Auf dem Weg zum Digitalen Lesesaal</hi>. Das Projekt "Weimar – Die erste deutsche Demokratie", in: 
-                        <hi rend="italic">Kompetent!</hi> Archive in der Wissensgesellschaft. 86. Deutscher Archivtag 2016 in Koblenz (= Tagungsdokumentationen zum Deutschen Archivtag 21), Fulda: Verband deutscher Archivarinnen und Archivare [Veröffentlichung Herbst 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3835">Herrmann, Tobias / Zahnhausen, Vera (2018): Auf dem Weg zum Digitalen Lesesaal. Das Projekt "Weimar – Die erste deutsche Demokratie", in: Kompetent! Archive in der Wissensgesellschaft. 86. Deutscher Archivtag 2016 in Koblenz (= Tagungsdokumentationen zum Deutschen Archivtag 21), Fulda: Verband deutscher Archivarinnen und Archivare [Veröffentlichung Herbst 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3836"><rs type="bibl" ref="#bibl__2601"><hi rend="bold">Hollmann, Michael</hi> (2016): 
-                        <hi rend="italic">Deutschland in zwei Nachkriegszeiten</hi>. Der Einstieg in das Online-Archiv des Bundesarchivs, in: 
-                        <hi rend="italic">Archivar</hi> 69, 6-9.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3836">Hollmann, Michael (2016): Deutschland in zwei Nachkriegszeiten. Der Einstieg in das Online-Archiv des Bundesarchivs, in: Archivar 69, 6-9.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3837"><rs type="bibl" ref="#bibl__2602"><hi rend="bold">Laux, Susanne / Wolf, Christina</hi> (2016): 
-                        <hi rend="italic">Forschungsprojekt "Von der Monarchie zur Republik" gestartet</hi>. Digitalisierung von Quellen zur Demokratiegeschichte im deutschen Südwesten 1918-1923, in: 
-                        <hi rend="italic">Archivnachrichten</hi> 52, 28-29.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3837">Laux, Susanne / Wolf, Christina (2016): Forschungsprojekt "Von der Monarchie zur Republik" gestartet. Digitalisierung von Quellen zur Demokratiegeschichte im deutschen Südwesten 1918-1923, in: Archivnachrichten 52, 28-29.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3838"><rs type="bibl" ref="#bibl__2603"><hi rend="bold">Lindenthal, Jutta</hi> (2016): 
-                        <hi rend="italic">Datenqualität und Retrieval</hi>. Vorschläge zur Verbesserung der Suche n der Deutschen Digitalen Bibliothek 
-                        <ref target="http://jl.balilabs.de/DDB/DQ/DDB_Datenqualit%C3%A4t_Retrieval_1.0.pdf">http://jl.balilabs.de/DDB/DQ/DDB_Datenqualit%C3%A4t_Retrieval_1.0.pdf</ref> [letzter Zugriff 24. September 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3838">Lindenthal, Jutta (2016): Datenqualität und Retrieval. Vorschläge zur Verbesserung der Suche n der Deutschen Digitalen Bibliothek http://jl.balilabs.de/DDB/DQ/DDB_Datenqualit%C3%A4t_Retrieval_1.0.pdf [letzter Zugriff 24. September 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3839"><rs type="bibl" ref="#bibl__2604"><hi rend="bold">Reisacher, Martin / Krauth, Wolfgang</hi> (2015): 
-                        <hi rend="italic">Vernetzen als Herausforderung</hi>. Die Deutsche Digitale Bibliothek, in: 
-                        <hi rend="italic">Archivnachrichten</hi> 51, 36 f.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3839">Reisacher, Martin / Krauth, Wolfgang (2015): Vernetzen als Herausforderung. Die Deutsche Digitale Bibliothek, in: Archivnachrichten 51, 36 f.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3840"><rs type="bibl" ref="#bibl__2605"><hi rend="bold">Rühle, Stefanie / Schulze, Francesca / Büchner, Michael</hi> (2014): 
-                        <hi rend="italic">Applying a Linked Data Compliant Model</hi>. The Usage of the Europeana Data Model by the Deutsche Digitale Bibliothek 
-                        <ref target="http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/231/225">http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/231/225</ref> [letzter Zugriff 24. September 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3840">Rühle, Stefanie / Schulze, Francesca / Büchner, Michael (2014): Applying a Linked Data Compliant Model. The Usage of the Europeana Data Model by the Deutsche Digitale Bibliothek http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/231/225 [letzter Zugriff 24. September 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3841"><rs type="bibl" ref="#bibl__2606"><hi rend="bold">Sack, Harald</hi> (2014): 
-                        <hi rend="italic">Linked Data Technologien</hi>. Ein Überblick, in: Pellegrini, Tassilo / Sack, Harald / Auer, Sören (eds.): 
-                        <hi rend="italic">Linked Enterprise Data</hi>. Management und Bewirtschaftung vernetzter Unternehmensdaten mit Semantic Web Technologien. Berlin: Springer 21-62.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3841">Sack, Harald (2014): Linked Data Technologien. Ein Überblick, in: Pellegrini, Tassilo / Sack, Harald / Auer, Sören (eds.): Linked Enterprise Data. Management und Bewirtschaftung vernetzter Unternehmensdaten mit Semantic Web Technologien. Berlin: Springer 21-62.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3842"><rs type="bibl" ref="#bibl__2607"><hi rend="bold">Wolf, Christina</hi> (2016): 
-                        <hi rend="italic">Eines für alle: Das Archivportal-D</hi>. Neue Zugangswege zu Archivgut, in: 
-                        <hi rend="italic">Neue Wege ins Archiv</hi>. Nutzer, Nutzen, Nutzung. 84. Deutscher Archivtag 2014 in Magdeburg (= Tagungsdokumentationen zum Deutschen Archivtag 19). Fulda: Verband deutscher Archivarinnen und Archivare 47
-                        <hi style="font-family:MS Gothic">‑</hi>63.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3842">Wolf, Christina (2016): Eines für alle: Das Archivportal-D. Neue Zugangswege zu Archivgut, in: Neue Wege ins Archiv. Nutzer, Nutzen, Nutzung. 84. Deutscher Archivtag 2014 in Magdeburg (= Tagungsdokumentationen zum Deutschen Archivtag 19). Fulda: Verband deutscher Archivarinnen und Archivare 47 ‑63.</rs></bibl>
                 </listBibl>
             </div>
         </back>

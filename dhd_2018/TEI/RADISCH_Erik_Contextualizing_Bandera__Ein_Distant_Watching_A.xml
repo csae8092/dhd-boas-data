@@ -252,60 +252,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__55"><rs type="bibl" ref="#bibl__46"><hi rend="bold">Burghardt, M. / Wolff, C. </hi>(2016). “Digital Humanities in Bewegung. Ansätze für die computergestützte Filmanalyse” in 
-                        <hi rend="italic">DHd 2016: Book of Abstracts,</hi> 108-112.
-                        <ref target="http://www.digitalicons.org/wp-content/uploads/issue12/files/2014/11/DI12_2_Fredheim.pdf">
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__55">Burghardt, M. / Wolff, C. (2016). “Digital Humanities in Bewegung. Ansätze für die computergestützte Filmanalyse” in DHd 2016: Book of Abstracts, 108-112.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1587"><rs type="bibl" ref="#bibl__1526"><hi rend="bold">Dunst, A. / Hartel, R. </hi>(2016). “Die Corpusanalyse multimodaler Erzählungen am Beispiel graphischer Romane” in 
-                        <hi rend="italic">DHd 2016: Book of Abstracts</hi>, 120-122.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1587">Dunst, A. / Hartel, R. (2016). “Die Corpusanalyse multimodaler Erzählungen am Beispiel graphischer Romane” in DHd 2016: Book of Abstracts, 120-122.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1588"><rs type="bibl" ref="#bibl__1527"><hi rend="bold">Fredheim, R. / Howanitz, G. / Makhortykh, M.</hi> (2014). “Scraping the Monumental: Stepan Bandera through the Lens of Quantitative Memory Studies” in 
-                        <hi rend="italic">Digital Icons</hi> 12 (2014), 25-53.
-                        <ref target="http://www.digitalicons.org/wp-content/uploads/issue12/files/2014/11/DI12_2_Fredheim.pdf">
-                        </ref>
-                        <ptr target="http://www.digitalicons.org/wp-content/uploads/issue12/files/2014/11/DI12_2_Fredheim.pdf"/>[letzer Zugriff 11. September 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1588">Fredheim, R. / Howanitz, G. / Makhortykh, M. (2014). “Scraping the Monumental: Stepan Bandera through the Lens of Quantitative Memory Studies” in Digital Icons 12 (2014), 25-53. [letzer Zugriff 11. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1589"><rs type="bibl" ref="#bibl__1528"><hi rend="bold">Hayles, N. K. </hi>(2010): “How We Read: Close, hyper, Machine” in: 
-                        <hi rend="italic">ADE Bulletin, 150</hi>: 62-79.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1589">Hayles, N. K. (2010): “How We Read: Close, hyper, Machine” in: ADE Bulletin, 150: 62-79.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1590"><rs type="bibl" ref="#bibl__1529"><hi rend="bold">Hirsch, M. </hi>(2012). “The Generation of Postmemory: Writing and Visual Culture After the Holocaust”, New York: Columbia University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1590">Hirsch, M. (2012). “The Generation of Postmemory: Writing and Visual Culture After the Holocaust”, New York: Columbia University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1591"><rs type="bibl" ref="#bibl__1530"><hi rend="bold">Howanitz, G. </hi>(2015). “Jožin z Bažin – Ein Mem, aus der Distanz betrachtet” in: Simonek, Stefan / Doschek, Jolanta (eds.): 
-                        <hi rend="italic">Slawische Popkultur</hi>. Wien: PAN, 63-80.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1591">Howanitz, G. (2015). “Jožin z Bažin – Ein Mem, aus der Distanz betrachtet” in: Simonek, Stefan / Doschek, Jolanta (eds.): Slawische Popkultur. Wien: PAN, 63-80.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__167"><rs type="bibl" ref="#bibl__125"><hi rend="bold">Shifman, L. </hi>(2013): “Memes in Digital Culture”. Cambridge (MA): MIT Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__167">Shifman, L. (2013): “Memes in Digital Culture”. Cambridge (MA): MIT Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1592"><rs type="bibl" ref="#bibl__1531"><hi rend="bold">Krizhevsky, A.</hi> (2009). “Learning Multiple Layers of Features from Tiny Images” 
-                        <ptr target="https://www.cs.utoronto.ca/~kriz/learning-features-2009-TR.pdf"/> [letzter Zugriff 12. Januar 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1592">Krizhevsky, A. (2009). “Learning Multiple Layers of Features from Tiny Images” [letzter Zugriff 12. Januar 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1593"><rs type="bibl" ref="#bibl__1532"><hi rend="bold">Lecun, Y. / Bottou, L. / Bengio, Y. / Haffner, P.</hi> (1998): “Gradient-based learning applied to document recognition” in: 
-                        <hi rend="italic">Proceedings of the IEEE</hi>, 86(11): 2278–2324 doi:
-                        <ref target="https://doi.org/10.1109/5.726791">https://doi.org/10.1109/5.726791
-                        </ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1593">Lecun, Y. / Bottou, L. / Bengio, Y. / Haffner, P. (1998): “Gradient-based learning applied to document recognition” in: Proceedings of the IEEE, 86(11): 2278–2324 doi: https://doi.org/10.1109/5.726791 .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__70"><rs type="bibl" ref="#bibl__58"><hi rend="bold">Lin, T. Y. / Maire, M. / Belongie, S. / Hays, J. / Perona, P. / Ramanan, D. / Dollár, P. / Zitnick, C. L.</hi> (2014): “Microsoft COCO: Common objects in context” in: 
-                        <hi rend="italic">Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</hi>, vol. 8693 LNCS. pp. 740–755 doi:10.1007/978-3-319-10602-1_48. 
-                        <ptr target="http://arxiv.org/abs/1405.0312"/>[letzter Zugriff 12. Januar 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__70">Lin, T. Y. / Maire, M. / Belongie, S. / Hays, J. / Perona, P. / Ramanan, D. / Dollár, P. / Zitnick, C. L. (2014): “Microsoft COCO: Common objects in context” in: Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 8693 LNCS. pp. 740–755 doi:10.1007/978-3-319-10602-1_48. [letzter Zugriff 12. Januar 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1594"><rs type="bibl" ref="#bibl__1533"><hi rend="bold">Russakovsky, O. / Deng, J. / Su, H. / Krause, J. / Satheesh, S. / Ma, S. / Huang, Z.</hi> (2015): “ImageNet Large Scale Visual Recognition Challenge” in: 
-                        <hi rend="italic">International Journal of Computer Vision</hi>, 115(3): 211–252 doi:10.1007/s11263-015-0816-y.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1594">Russakovsky, O. / Deng, J. / Su, H. / Krause, J. / Satheesh, S. / Ma, S. / Huang, Z. (2015): “ImageNet Large Scale Visual Recognition Challenge” in: International Journal of Computer Vision, 115(3): 211–252 doi:10.1007/s11263-015-0816-y.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1595"><rs type="bibl" ref="#bibl__1534"><hi rend="bold">Zagoruyko, S. / Lerer, A. / Lin, T.-Y. / Pinheiro, P. O. / Gross, S. / Chintala, S. / Dollár, P.</hi> (2016): “A MultiPath Network for Object Detection”. 
-                        <hi rend="italic">BMVC</hi>
-                        <ptr target="http://arxiv.org/abs/1604.02135"/>[letzter Zugriff 12. Januar 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1595">Zagoruyko, S. / Lerer, A. / Lin, T.-Y. / Pinheiro, P. O. / Gross, S. / Chintala, S. / Dollár, P. (2016): “A MultiPath Network for Object Detection”. BMVC [letzter Zugriff 12. Januar 2018].</rs></bibl>
                 </listBibl>
             </div>
       </back>

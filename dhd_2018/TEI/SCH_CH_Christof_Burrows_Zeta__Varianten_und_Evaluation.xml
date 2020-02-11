@@ -247,68 +247,37 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1460"><rs type="bibl" ref="#bibl__1399"><hi rend="bold">Bortz, Jürgen, and Christof Schuster</hi> (2010). 
-                        <hi rend="italic">Statistik für Human- und Sozialwissenschaftler</hi>. 7. Auflage. Berlin: Springer.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1460">Bortz, Jürgen, and Christof Schuster (2010). Statistik für Human- und Sozialwissenschaftler. 7. Auflage. Berlin: Springer.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__187"><rs type="bibl" ref="#bibl__137"><hi rend="bold">Burrows, John</hi> (2007). “All the Way Through: Testing for Authorship in Different Frequency Strata.” 
-                        <hi rend="italic">Literary and Linguistic Computing</hi> 22, no. 1: 27–47. doi:10.1093/llc/fqi067.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__187">Burrows, John (2007). “All the Way Through: Testing for Authorship in Different Frequency Strata.” Literary and Linguistic Computing 22, no. 1: 27–47. doi:10.1093/llc/fqi067.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1461"><rs type="bibl" ref="#bibl__138"><hi rend="bold">Craig, Hugh, and Arthur F. Kinney</hi>, eds. (2009). 
-                        <hi rend="italic">Shakespeare, Computers, and the Mystery of Authorship</hi>. 1st ed. Cambridge University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1461">Craig, Hugh, and Arthur F. Kinney, eds. (2009). Shakespeare, Computers, and the Mystery of Authorship. 1st ed. Cambridge University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1462"><rs type="bibl" ref="#bibl__1400"><hi rend="bold">Eder, Maciej, Mike Kestemont, and Jan Rybicki</hi>(2016). “Stylometry with R: A Package for Computational Text Analysis.” 
-                        <hi rend="italic">The R Journal</hi> 16, no. 1: 1–15.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1462">Eder, Maciej, Mike Kestemont, and Jan Rybicki(2016). “Stylometry with R: A Package for Computational Text Analysis.” The R Journal 16, no. 1: 1–15.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1463"><rs type="bibl" ref="#bibl__1401"><hi rend="bold">Fièvre, Paul</hi>, ed. (2007-2013). “Théâtre classique.” Paris: Université Paris-IV Sorbonne. http://www.theatre-classique.fr.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1463">Fièvre, Paul, ed. (2007-2013). “Théâtre classique.” Paris: Université Paris-IV Sorbonne. http://www.theatre-classique.fr.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1464"><rs type="bibl" ref="#bibl__1402"><hi rend="bold">Gries, Stefan Th.</hi> (2008). “Dispersions and Adjusted Frequencies in Corpora.” 
-                        <hi rend="italic">International Journal of Corpus Linguistics</hi> 13, no. 4: 403–37. doi:10.1075/ijcl.13.4.02gri.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1464">Gries, Stefan Th. (2008). “Dispersions and Adjusted Frequencies in Corpora.” International Journal of Corpus Linguistics 13, no. 4: 403–37. doi:10.1075/ijcl.13.4.02gri.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1465"><rs type="bibl" ref="#bibl__1403"><hi rend="bold">Heiden, Serge</hi> (2010). “The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme.” In 
-                        <hi rend="italic">24th Pacific Asia Conference on Language, Information and Computation - PACLIC24</hi>, edited by Ryo Otoguro, Kiyoshi Ishikawa, Hiroshi Umemoto, Kei Yoshimoto, and Yasunari Harada, 389–98. Sendai: Waseda University. https://halshs.archives-ouvertes.fr/halshs-00549764/en.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1465">Heiden, Serge (2010). “The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme.” In 24th Pacific Asia Conference on Language, Information and Computation - PACLIC24, edited by Ryo Otoguro, Kiyoshi Ishikawa, Hiroshi Umemoto, Kei Yoshimoto, and Yasunari Harada, 389–98. Sendai: Waseda University. https://halshs.archives-ouvertes.fr/halshs-00549764/en.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1466"><rs type="bibl" ref="#bibl__1404"><hi rend="bold">Hoover, David L.</hi> (2010). “Teasing out Authorship and Style with T-Tests and Zeta.” In 
-                        <hi rend="italic">Digital Humanities Conference</hi>. London: ADHO. http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-658.html.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1466">Hoover, David L. (2010). “Teasing out Authorship and Style with T-Tests and Zeta.” In Digital Humanities Conference. London: ADHO. http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-658.html.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1467"><rs type="bibl" ref="#bibl__1405"><hi rend="bold">Kilgarriff, Adam</hi> (2001). “Comparing Corpora.” 
-                        <hi rend="italic">International Journal of Corpus Linguistics</hi> 6, no. 1: 97–133. doi:10.1075/ijcl.6.1.05kil.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1467">Kilgarriff, Adam (2001). “Comparing Corpora.” International Journal of Corpus Linguistics 6, no. 1: 97–133. doi:10.1075/ijcl.6.1.05kil.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1468"><rs type="bibl" ref="#bibl__1406"><hi rend="bold">Lijffijt, Jefrey, Terttu Nevalainen, Tanja Säily, Panagiotis Papapetrou, Kai Puolamäki, and Heikki Mannila</hi> (2014). “Significance Testing of Word Frequencies in Corpora.” 
-                        <hi rend="italic">Digital Scholarship in the Humanities</hi> 31, no. 2: 374–97. doi:10.1093/llc/fqu064.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1468">Lijffijt, Jefrey, Terttu Nevalainen, Tanja Säily, Panagiotis Papapetrou, Kai Puolamäki, and Heikki Mannila (2014). “Significance Testing of Word Frequencies in Corpora.” Digital Scholarship in the Humanities 31, no. 2: 374–97. doi:10.1093/llc/fqu064.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__80"><rs type="bibl" ref="#bibl__68"><hi rend="bold">Rayson, Paul, and R. Garside</hi> (2000). “Comparing Corpora Using Frequency Profiling.” In 
-                        <hi rend="italic">Proceedings of the Workshop on Comparing Corpora</hi>, 1–6. Hong Kong: ACM.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__80">Rayson, Paul, and R. Garside (2000). “Comparing Corpora Using Frequency Profiling.” In Proceedings of the Workshop on Comparing Corpora, 1–6. Hong Kong: ACM.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__188"><rs type="bibl" ref="#bibl__139"><hi rend="bold">Robertson, Stephen</hi> (2004). “Understanding Inverse Document Frequency: On Theoretical Arguments for IDF.” 
-                        <hi rend="italic">Journal of Documentation</hi> 60, no. 5 : 503–20.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__188">Robertson, Stephen (2004). “Understanding Inverse Document Frequency: On Theoretical Arguments for IDF.” Journal of Documentation 60, no. 5 : 503–20.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1469"><rs type="bibl" ref="#bibl__1407"><hi rend="bold">Schöch, Christof</hi> (im Druck). “Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie.” In 
-                        <hi rend="italic">Quantitative Verfahren in der Literaturwissenschaft. Von einer Scientia Quantitatis zu den Digital Humanities</hi>, edited by Andrea Albrecht, Sandra Richter, Marcel Lepper, Marcus Willand, and Toni Bernhart. Berlin: de Gruyter. https://cligs.hypotheses.org/files/2017/09/Schoech_2017-preprint_Zeta-fuer-die-kontrastive-Analyse.pdf.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1469">Schöch, Christof (im Druck). “Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie.” In Quantitative Verfahren in der Literaturwissenschaft. Von einer Scientia Quantitatis zu den Digital Humanities, edited by Andrea Albrecht, Sandra Richter, Marcel Lepper, Marcus Willand, and Toni Bernhart. Berlin: de Gruyter. https://cligs.hypotheses.org/files/2017/09/Schoech_2017-preprint_Zeta-fuer-die-kontrastive-Analyse.pdf.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1470"><rs type="bibl" ref="#bibl__1408"><hi rend="bold">Schöch, Christof, José Calvo Tello, Ulrike Henny-Krahmer, and Stefanie Popp</hi> (angenommen). “The CLiGS Textbox: Building and Using Collections of Literary Texts in Romance Languages Encoded in XML-TEI.” 
-                        <hi rend="italic">Journal of the Text Encoding Initiative</hi> http://cligs.hypotheses.org/files/2017/09/Schoech-et-al_2017_Textbox.pdf.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1470">Schöch, Christof, José Calvo Tello, Ulrike Henny-Krahmer, and Stefanie Popp (angenommen). “The CLiGS Textbox: Building and Using Collections of Literary Texts in Romance Languages Encoded in XML-TEI.” Journal of the Text Encoding Initiative http://cligs.hypotheses.org/files/2017/09/Schoech-et-al_2017_Textbox.pdf.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1471"><rs type="bibl" ref="#bibl__1409"><hi rend="bold">Scott, Mike</hi> (1997). “PC Analysis of Key Words and Key Key Words.” 
-                        <hi rend="italic">System</hi> 25, no. 2: 233–45.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1471">Scott, Mike (1997). “PC Analysis of Key Words and Key Key Words.” System 25, no. 2: 233–45.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1472"><rs type="bibl" ref="#bibl__1410"><hi rend="bold">Webber, William, Alistair Moffat, and Justin Zobel</hi> (2010). “A Similarity Measure for Indefinite Rankings.” 
-                        <hi rend="italic">ACM Trans. Inf. Syst.</hi> 28, no. 4: 20:1–20:38. doi:10.1145/1852102.1852106.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1472">Webber, William, Alistair Moffat, and Justin Zobel (2010). “A Similarity Measure for Indefinite Rankings.” ACM Trans. Inf. Syst. 28, no. 4: 20:1–20:38. doi:10.1145/1852102.1852106.</rs></bibl>
                 </listBibl>
             </div>
       </back>

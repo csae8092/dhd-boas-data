@@ -256,56 +256,28 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1147"><rs type="bibl" ref="#bibl__1074"><hi rend="bold">Biber, Douglas / Conrad, Susan</hi> (2009): 
-                        <hi rend="italic">Register, Genre, and Style</hi>. Cambridge: Cambridge University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1147">Biber, Douglas / Conrad, Susan (2009): Register, Genre, and Style. Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1148"><rs type="bibl" ref="#bibl__1075"><hi rend="bold">Brants, Thorsten</hi> (2000): “Inter-annotator agreement for a German newspaper corpus”, in: 
-                        <hi rend="italic">Proceedings of the Second International Conference on Language Resources and Evaluation (LREC-2000), </hi>Athens, Greece. European Language Resources Association (ELRA). 
-                        <ref target="http://www.lrec-conf.org/proceedings/lrec2000/pdf/333.pdf">
-                            <hi rend="underline">http://www.lrec-conf.org/proceedings/lrec2000/pdf/333.pdf</hi>
-                        </ref>. 
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1149"><rs type="bibl" ref="#bibl__1076"><hi rend="bold">Brants, Sabine / Dipper, Stefanie / Eisenberg, Peter / Hansen-Schirra, Silvia / König, Esther / Lezius, Wolfgang / Rohrer, Christian / Smith, George / Uszkoreit, Hans</hi> (2004)
-                            : “TIGER: Linguistic interpretation of a German corpus”, in: <hi rend="italic">Research on Language and Computation</hi>, 2(4): 597–620.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__145"><rs type="bibl" ref="#bibl__1077"><hi rend="bold">Berlin-Brandenburgische Akademie der Wissenschaften.</hi>
-                        <hi rend="italic">Deutsches Textarchiv. </hi>
-                        <ref target="http://www.deutschestextarchiv.de/">http://www.deutschestextarchiv.de/</ref> [Letzter Zugriff 13.01.2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1148">Brants, Thorsten (2000): “Inter-annotator agreement for a German newspaper corpus”, in: Proceedings of the Second International Conference on Language Resources and Evaluation (LREC-2000), Athens, Greece. European Language Resources Association (ELRA). http://www.lrec-conf.org/proceedings/lrec2000/pdf/333.pdf .</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1149">Brants, Sabine / Dipper, Stefanie / Eisenberg, Peter / Hansen-Schirra, Silvia / König, Esther / Lezius, Wolfgang / Rohrer, Christian / Smith, George / Uszkoreit, Hans (2004) : “TIGER: Linguistic interpretation of a German corpus”, in: Research on Language and Computation, 2(4): 597–620.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__145">Berlin-Brandenburgische Akademie der Wissenschaften. Deutsches Textarchiv. http://www.deutschestextarchiv.de/ [Letzter Zugriff 13.01.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1150"><rs type="bibl" ref="#bibl__1078"><hi rend="bold">Giesbrecht, Eugenie / Evert, Stefan </hi>(2009). “Part-of-speech tagging - a solved task? An evaluation of POS taggers for the Web as corpus”, in: Alegria, I. / Leturia, I. / Sharoff, S. (eds.): 
-                        <hi rend="italic">Proceedings of the 5th Web as Corpus Workshop</hi> (WAC5), San Sebastian, Spain.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1151"><rs type="bibl" ref="#bibl__1079"><hi rend="bold">Evert, Stefan</hi> (2006): "How random is a corpus? The library metaphor", in: Zeitschrift für Anglistik und Amerikanistik 54.2: 177-190.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1150">Giesbrecht, Eugenie / Evert, Stefan (2009). “Part-of-speech tagging - a solved task? An evaluation of POS taggers for the Web as corpus”, in: Alegria, I. / Leturia, I. / Sharoff, S. (eds.): Proceedings of the 5th Web as Corpus Workshop (WAC5), San Sebastian, Spain.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1151">Evert, Stefan (2006): "How random is a corpus? The library metaphor", in: Zeitschrift für Anglistik und Amerikanistik 54.2: 177-190.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__146"><rs type="bibl" ref="#bibl__1080"><hi rend="bold">Jurish, Bryan / Würzner, Kay-Michael</hi> (2013). "Word and sentence tokenization with Hidden Markov Models", in: JLCL 28(2): 61-83.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__146">Jurish, Bryan / Würzner, Kay-Michael (2013). "Word and sentence tokenization with Hidden Markov Models", in: JLCL 28(2): 61-83.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1152"><rs type="bibl" ref="#bibl__1081"><hi rend="bold">Kilgarriff, Adam</hi> (2005): "Language is never, ever, ever, random", in:
-                        <hi rend="italic">Corpus linguistics and linguistic theory</hi> 1(2): 263-276.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1152">Kilgarriff, Adam (2005): "Language is never, ever, ever, random", in: Corpus linguistics and linguistic theory 1(2): 263-276.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1153"><rs type="bibl" ref="#bibl__1082"><hi rend="bold">Müller, Thomas / Schmid, Helmut / Schütze, Hinrich</hi> (2013): "Efficient higher-order CRFs for morphological Tagging", in:
-                        <hi rend="italic">Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing</hi>. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1153">Müller, Thomas / Schmid, Helmut / Schütze, Hinrich (2013): "Efficient higher-order CRFs for morphological Tagging", in: Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1154"><rs type="bibl" ref="#bibl__1083"><hi rend="bold">Rosenblatt, Frank</hi> (1958): "The perceptron: A probabilistic model for information storage and organization in the brain", in:
-                        <hi rend="italic">Psychological Review</hi>, 65(6): 386.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1154">Rosenblatt, Frank (1958): "The perceptron: A probabilistic model for information storage and organization in the brain", in: Psychological Review, 65(6): 386.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1155"><rs type="bibl" ref="#bibl__1084"><hi rend="bold">Scheible, S. / Whitt, R. J. / Durrell, M. / Bennett, P. </hi>(2011): “A gold standard corpus of Early Modern German” in: 
-                        <hi rend="italic">Proceedings of the 5th Linguistic Annotation Workshop</hi> 124–128.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1155">Scheible, S. / Whitt, R. J. / Durrell, M. / Bennett, P. (2011): “A gold standard corpus of Early Modern German” in: Proceedings of the 5th Linguistic Annotation Workshop 124–128.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__147"><rs type="bibl" ref="#bibl__108"><hi rend="bold">Schmid, Helmut </hi>(1994). "Probabilistic part-of speech Tagging using decision trees", in:
-                        <hi rend="italic"> Proceedings of International Conference on New Methods in Language Processing</hi>, Manchester, UK. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__147">Schmid, Helmut (1994). "Probabilistic part-of speech Tagging using decision trees", in: Proceedings of International Conference on New Methods in Language Processing, Manchester, UK.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1156"><rs type="bibl" ref="#bibl__1085"><hi rend="bold">Halteren, H. / Daelemans, W. / Zavrel, J.</hi> (2001): “Improving accuracy in word class tagging through the combination of Machine Learning systems”, in: 
-                        <hi rend="italic">Computational Linguistics, 27.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1156">Halteren, H. / Daelemans, W. / Zavrel, J. (2001): “Improving accuracy in word class tagging through the combination of Machine Learning systems”, in: Computational Linguistics, 27.</rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -264,74 +264,26 @@
                               <div type="bibliogr">
                                 <listBibl>
                                   <head>Bibliographie</head>
-                                  <bibl><rs type="bibl" ref="#bibl__2879"><hi rend="bold">Batini, Carlo / Lenzerini, Maurizio / Navathe, Shamkant
-                                    Bhalchandra</hi> (1986): "A comparative analysis of methodologies for
-                                    database schema integration", in: <hi rend="italic">ACM Computing
-                                    Surveys</hi> 18, 4: 323–364.</rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__2880"><hi rend="bold">Beer, Nikolaos / Herold, Kristin / Kolbmann, Wibke /
-                                      Kollatz, Thomas / Romanello, Matteo / Rose, Sebastian / Walkowski,
-                                      Niels-Oliver</hi> (2013): <hi rend="italic">Recommendations for
-                                      Interdisciplinary Interoperability (R 3.3.1)</hi>. DARIAH-DE report <ref target="https://dev2.dariah.eu/wiki/download/attachments/14651583/R3.3.1.pdf?                                       version=1&amp;modificationDate=1366904278298&amp;api=v2">https://dev2.dariah.eu/wiki/download/attachments/14651583/R3.3.1.pdf?
-                                      version=1&amp;modificationDate=1366904278298 &amp;api=v2</ref> [letzter
-                                      Zugriff 07. Februar 2016].</rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__2881"><hi rend="bold">Europeana Foundation</hi> (2008-2015): <hi rend="italic">Europeana Collections</hi>. Den Haag <ref target="http://www.europeana.eu/portal/">http://www.europeana.eu/portal/</ref> [letzter Zugriff 07. Februar
-                                      2016].</rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__2882"><hi rend="bold">Gradl, Tobias</hi> (2011-2016): <hi rend="italic">DARIAH-DE Generic Search</hi>
-                                      <ref target="http://search.de.dariah.eu">http://search.de.dariah.eu</ref>
-                                      [letzter Zugriff 07. Februar 2016].</rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__257"><hi rend="bold">Gradl, Tobias / Henrich, Andreas</hi> (2014): "A novel
-                                      approach for a reusable federation of research data within the arts and
-                                      humanities", in: <hi rend="italic">Digital Humanities 2014</hi>. Book of
-                                      Abstracts382–384 <ref target="http://dh2014.org/program/abstracts/">http://dh2014.org/program/abstracts/</ref> [letzter Zugriff 09. Oktober
-                                      2015]. </rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__2879">Batini, Carlo / Lenzerini, Maurizio / Navathe, Shamkant Bhalchandra (1986): "A comparative analysis of methodologies for database schema integration", in: ACM Computing Surveys 18, 4: 323–364.</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2880">Beer, Nikolaos / Herold, Kristin / Kolbmann, Wibke / Kollatz, Thomas / Romanello, Matteo / Rose, Sebastian / Walkowski, Niels-Oliver (2013): Recommendations for Interdisciplinary Interoperability (R 3.3.1). DARIAH-DE report https://dev2.dariah.eu/wiki/download/attachments/14651583/R3.3.1.pdf? version=1&amp;modificationDate=1366904278298 &amp;api=v2 [letzter Zugriff 07. Februar 2016].</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__2881">Europeana Foundation (2008-2015): Europeana Collections. Den Haag http://www.europeana.eu/portal/ [letzter Zugriff 07. Februar 2016].</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__2882">Gradl, Tobias (2011-2016): DARIAH-DE Generic Search http://search.de.dariah.eu [letzter Zugriff 07. Februar 2016].</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__257">Gradl, Tobias / Henrich, Andreas (2014): "A novel approach for a reusable federation of research data within the arts and humanities", in: Digital Humanities 2014. Book of Abstracts382–384 http://dh2014.org/program/abstracts/ [letzter Zugriff 09. Oktober 2015].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__29"><hi rend="bold">Gradl, Tobias / Henrich, Andreas / Plutte, Christoph</hi>
-                                        (2015): "Heterogene Daten in den Digital Humanities: Eine Architektur zur
-                                        forschungsorientierten Förderation von Kollektionen", in: Constanze Baum /
-                                        Thomas Stäcker (eds.): <hi rend="italic">Grenzen und Möglichkeiten der
-                                        Digital Humanities</hi>. Sonderband der Zeitschrift für digitale
-                                        Geisteswissenschaften 1 <ref target="http://dx.doi.org/10.17175/sb001_020">http://dx.doi.org/10.17175/sb001_020</ref> [letzter Zugriff 09. Oktober
-                                        2015]. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2883"><hi rend="bold">Gradl, Tobias / Lordick, Harald</hi> (2015-2016): <hi rend="italic">Judaica Search</hi>. Branded Search in the DARIAH-DE
-                                        Generic Search <ref target="http://judaica.search.de.dariah.eu">http://judaica.search.de.dariah.eu</ref> [letzter Zugriff 07. Februar
-                                        2016].</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__29">Gradl, Tobias / Henrich, Andreas / Plutte, Christoph (2015): "Heterogene Daten in den Digital Humanities: Eine Architektur zur forschungsorientierten Förderation von Kollektionen", in: Constanze Baum / Thomas Stäcker (eds.): Grenzen und Möglichkeiten der Digital Humanities. Sonderband der Zeitschrift für digitale Geisteswissenschaften 1 http://dx.doi.org/10.17175/sb001_020 [letzter Zugriff 09. Oktober 2015].</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2883">Gradl, Tobias / Lordick, Harald (2015-2016): Judaica Search. Branded Search in the DARIAH-DE Generic Search http://judaica.search.de.dariah.eu [letzter Zugriff 07. Februar 2016].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2884"><hi rend="bold">Hagedorn, Kat </hi>(2003): "OAIster: a 'no dead ends' OAI
-                                          service provider", in: <hi rend="italic">Library Hi Tech</hi> 21, 2:
-                                          170–181.</rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2884">Hagedorn, Kat (2003): "OAIster: a 'no dead ends' OAI service provider", in: Library Hi Tech 21, 2: 170–181.</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2885"><hi rend="bold">Henrich, Andreas / Gradl, Tobias</hi> (2013): "DARIAH(-DE):
-                                            Digital research infrastructure for the arts and humanities - concepts and
-                                            perspectives", in: <hi rend="italic">International Journal of Humanities and
-                                            Arts Computing</hi> 7: 47–58.</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2886"><hi rend="bold">Lenzerini, Maurizio </hi>(2002): "Data integration: a
-                                            theoretical perspective", in: <hi rend="italic">PODS'02 - Proceedings of the
-                                            twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of
-                                            database systems </hi>: 233-246 <ref target="http://dl.acm.org/citation.cfm?doid=543613.543644">http://dl.acm.org/citation.cfm?doid=543613.543644</ref> [letzter
-                                            Zugriff 09. Oktober 2015]. </rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2887"><hi rend="bold">Lordick, Harald</hi> (2010-2016): <hi rend="italic">Vieles
-                                            finden</hi>. Die Judaica-Suchmaschine im Steinheim-Institut. Salomon
-                                            Ludwig Steinheim-Institut für deutsch-jüdische Geschichte an der Universität
-                                            Duisburg-Essen <ref target="http://steinheim-institut.de/vf/">http://steinheim-institut.de/vf/</ref> [letzter Zugriff 07. Februar
-                                            2016].</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2888"><hi rend="bold">Lordick, Harald</hi> (2013): "Die judaica-bibliothek im
-                                            web. ganz real oder noch immer virtuell?", in: <hi rend="italic">Kalonymos</hi>1: 12–14 <ref target="http://www.steinheim-institut.de/edocs/kalonymos/kalonymos_2013_1.pdf">http://www.steinheim-institut.de/edocs/kalonymos/kalonymos_2013_1.pdf</ref>
-                                            [letzter Zugriff 09. Oktober 2015]. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2885">Henrich, Andreas / Gradl, Tobias (2013): "DARIAH(-DE): Digital research infrastructure for the arts and humanities - concepts and perspectives", in: International Journal of Humanities and Arts Computing 7: 47–58.</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2886">Lenzerini, Maurizio (2002): "Data integration: a theoretical perspective", in: PODS'02 - Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems : 233-246 http://dl.acm.org/citation.cfm?doid=543613.543644 [letzter Zugriff 09. Oktober 2015].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2887">Lordick, Harald (2010-2016): Vieles finden. Die Judaica-Suchmaschine im Steinheim-Institut. Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte an der Universität Duisburg-Essen http://steinheim-institut.de/vf/ [letzter Zugriff 07. Februar 2016].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2888">Lordick, Harald (2013): "Die judaica-bibliothek im web. ganz real oder noch immer virtuell?", in: Kalonymos1: 12–14 http://www.steinheim-institut.de/edocs/kalonymos/kalonymos_2013_1.pdf [letzter Zugriff 09. Oktober 2015].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2889"><hi rend="bold">Lordick, Harald </hi>(2014): "Jüdische Geschichte (mobil)
-                                              recherchieren", in: <hi rend="italic">Kalonymos</hi>3: 13 <ref target="http://www.steinheim-institut.de/edocs/kalonymos/kalonymos_2014_3.pdf">http://www.steinheim-institut.de/edocs/kalonymos/kalonymos_2014_3.pdf</ref>
-                                              [letzter Zugriff 9. Oktober 2015].</rs></bibl>
-                                              <bibl><rs type="bibl" ref="#bibl__2890"><hi rend="bold">OAIster</hi> (2001-2016): <hi rend="italic">OAIster</hi>.
-                                              OCLC WorldCat.org Services. Dublin / Ohio: OCLC Online Computer Library
-                                              Center <ref target="http://oaister.worldcat.org/">http://oaister.worldcat.org/</ref> [letzter Zugriff 07. Februar
-                                              2016].</rs></bibl>
-                                              <bibl><rs type="bibl" ref="#bibl__2891"><hi rend="bold">Peroni, Silvio / Tomasi, Francesca / Vitali, Fabio</hi>
-                                              (2013): "Reflecting on the europeana data model", in: Agosti, Maristella /
-                                              Esposito, Floriana / Ferilli, Stefano / Ferro, Nicola (eds.): <hi rend="italic">Digital Libraries and Archives</hi>. Berlin / Heidelberg:
-                                              Springer 228–240 <ref target="http://link.springer.com/chapter/10.1007%2F978-3-642-35834-0_23">http://link.springer.com/chapter/10.1007%2F978-3-642-35834-0_23</ref>
-                                              [letzter Zugriff 09. Oktober 2015].</rs></bibl>
-                                              <bibl><rs type="bibl" ref="#bibl__2892"><hi rend="bold">Plutte, Christoph</hi> (2011-2014): <hi rend="italic">DARIAH-DE Collection Registry</hi>. Initial Prototype. <ref target="http://colreg.de.dariah.eu">http://colreg.de.dariah.eu</ref>
-                                              [letzter Zugriff 07. Februar 2016].</rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2889">Lordick, Harald (2014): "Jüdische Geschichte (mobil) recherchieren", in: Kalonymos3: 13 http://www.steinheim-institut.de/edocs/kalonymos/kalonymos_2014_3.pdf [letzter Zugriff 9. Oktober 2015].</rs></bibl>
+                                              <bibl><rs type="bibl" ref="#bibl__2890">OAIster (2001-2016): OAIster. OCLC WorldCat.org Services. Dublin / Ohio: OCLC Online Computer Library Center http://oaister.worldcat.org/ [letzter Zugriff 07. Februar 2016].</rs></bibl>
+                                              <bibl><rs type="bibl" ref="#bibl__2891">Peroni, Silvio / Tomasi, Francesca / Vitali, Fabio (2013): "Reflecting on the europeana data model", in: Agosti, Maristella / Esposito, Floriana / Ferilli, Stefano / Ferro, Nicola (eds.): Digital Libraries and Archives. Berlin / Heidelberg: Springer 228–240 http://link.springer.com/chapter/10.1007%2F978-3-642-35834-0_23 [letzter Zugriff 09. Oktober 2015].</rs></bibl>
+                                              <bibl><rs type="bibl" ref="#bibl__2892">Plutte, Christoph (2011-2014): DARIAH-DE Collection Registry. Initial Prototype. http://colreg.de.dariah.eu [letzter Zugriff 07. Februar 2016].</rs></bibl>
                                             </listBibl>
                                           </div>
                                         </back>

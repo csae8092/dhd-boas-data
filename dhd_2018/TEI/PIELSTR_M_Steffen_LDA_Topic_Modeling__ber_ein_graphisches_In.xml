@@ -112,29 +112,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__42"><rs type="bibl" ref="#bibl__34"><anchor xml:id="id_docs-internal-guid-2033756f-ba93-21db-bc18-ce75d429b064"/>
-                        <hi rend="bold">Blei, David M.</hi>
-                        (2012): „Probabilistic Topic Models“, in 
-                        <hi rend="italic">Communication of the ACM</hi>
-                        55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__42">Blei, David M. (2012): „Probabilistic Topic Models“, in Communication of the ACM 55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__9"><rs type="bibl" ref="#bibl__7"><hi rend="bold">McCallum, Andrew K.</hi>
-                        (2002): <hi rend="italic">MALLET : A Machine Learning for Language Toolkit</hi>.
-                        <ref target="http://mallet.cs.umass.edu/">
-                            <hi rend="underline">http://mallet.cs.umass.edu</hi>
-                        </ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__9">McCallum, Andrew K. (2002): MALLET : A Machine Learning for Language Toolkit. http://mallet.cs.umass.edu .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__169"><rs type="bibl" ref="#bibl__127"><hi rend="bold">Rehurek, Radim/ Sojka, Petr</hi>
-                        (2010): "Software framework for topic modelling with large corpora."
-                        <hi rend="italic">In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__169">Rehurek, Radim/ Sojka, Petr (2010): "Software framework for topic modelling with large corpora." In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__170"><rs type="bibl" ref="#bibl__128"><hi rend="bold">Steyvers, Mark/ Griffiths, Tom</hi>
-                        (2006): „Probabilistic Topic Models“, in
-                        <hi rend="italic">Latent Semantic Analysis: A Road to Meaning</hi>, herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__170">Steyvers, Mark/ Griffiths, Tom (2006): „Probabilistic Topic Models“, in Latent Semantic Analysis: A Road to Meaning, herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.</rs></bibl>
                 </listBibl>
             </div>
       </back>

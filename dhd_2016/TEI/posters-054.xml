@@ -158,32 +158,14 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__1929"><hi rend="bold">Eisenreich, Christian / Ott, Jana / Süßdorf, Tonio /
-                    Willms / Declerck, Thierry</hi> (2014): “From Tale to Speech:
-                    Ontology-based Emotion and Dialogue Annotation of Fairy Tales with a TTS
-                    Output”, in: <hi rend="italic">Proceedings of ISWC 2014, Riva del Garda,
-                    Italy, Springer.</hi>
-                  </rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__1929">Eisenreich, Christian / Ott, Jana / Süßdorf, Tonio / Willms / Declerck, Thierry (2014): “From Tale to Speech: Ontology-based Emotion and Dialogue Annotation of Fairy Tales with a TTS Output”, in: Proceedings of ISWC 2014, Riva del Garda, Italy, Springer.</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__1930"><hi rend="bold">Declerck, Thierry / Lendvai, Piroska / Darányi, Sándor</hi>
-                    (2012): “Multilingual and Semantic Extension of Folk Tale Catalogues”, in:
-                    Jan Christoph Meister (ed.): <hi rend="italic">Digital Humanities 2012</hi>.
-                    Conference Abstracts, Hamburg, Germany. Hamburg: Hamburg University Press. </rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1931"><hi rend="bold">TopQuadrant</hi>: <hi rend="italic">TopBraid Live</hi>
-                    <ref target="http://www.topquadrant.com/products/topbraid-live/">http://www.topquadrant.com/products/topbraid-live/</ref> [letzter
-                      Zugriff 11. Februar 2016].</rs></bibl>
+                    <rs type="bibl" ref="#bibl__1930">Declerck, Thierry / Lendvai, Piroska / Darányi, Sándor (2012): “Multilingual and Semantic Extension of Folk Tale Catalogues”, in: Jan Christoph Meister (ed.): Digital Humanities 2012. Conference Abstracts, Hamburg, Germany. Hamburg: Hamburg University Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__1931">TopQuadrant: TopBraid Live http://www.topquadrant.com/products/topbraid-live/ [letzter Zugriff 11. Februar 2016].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__1932"><hi rend="bold">Stith Thompson</hi> (1955-1958): <hi rend="italic">Motif-index of folk-literature</hi>. A classification of narrative
-                        elements in folktales, ballads, myths, fables, medieval romances, exempla,
-                        fabliaux, jest-books, and local legends. Revised and enlarged edition.
-                        Bloomington: Indiana University Press. </rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1933"><hi rend="bold">Uther, Hans-Jörg</hi> (2004): <hi rend="italic">The Types
-                        of International Folktales</hi>. A Classification and Bibliography.
-                        Based on the system of Antti Aarne and Stith Thompson (= FF Communications
-                        284–286). Helsinki: Suomalainen Tiedeakatemia. </rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__1934"><hi rend="bold">W3C = World Wide Web Consortium</hi> (2004): <hi rend="italic">OWL Web Ontology Language</hi>
-                        <ref target="http://www.w3.org/TR/owl-features/">http://www.w3.org/TR/owl-features/</ref> [letzter Zugriff 16. Februar
-                          2016].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1932">Stith Thompson (1955-1958): Motif-index of folk-literature. A classification of narrative elements in folktales, ballads, myths, fables, medieval romances, exempla, fabliaux, jest-books, and local legends. Revised and enlarged edition. Bloomington: Indiana University Press.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1933">Uther, Hans-Jörg (2004): The Types of International Folktales. A Classification and Bibliography. Based on the system of Antti Aarne and Stith Thompson (= FF Communications 284–286). Helsinki: Suomalainen Tiedeakatemia.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__1934">W3C = World Wide Web Consortium (2004): OWL Web Ontology Language http://www.w3.org/TR/owl-features/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
                         </listBibl>
                       </div>
                     </back>

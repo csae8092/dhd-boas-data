@@ -274,81 +274,39 @@
                       <listBibl>
                         <head>Bibliographie</head>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2711"><hi rend="bold">Arandjelovic, Ognjen / Zisserman, Andrew</hi> (2005):
-                          "Automatic face recognition for film character retrieval in feature-length
-                          films", in: <hi rend="italic">Proceedings of the Computer Vision and Pattern
-                          Recognition Conference (IEEE)</hi> 860-867. </rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__2712"><hi rend="bold">Beard, Niall</hi> (2015): Pretentious-O-Meter <ref target="http://pretentious-o-meter.co.uk/">http://pretentious-o-meter.co.uk/</ref> [letzter Zugriff 04. Februar
-                          2016].</rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__2713"><hi rend="bold">Brodbeck, Frederic</hi> (2011): <hi rend="italic">Cinemetrics</hi>. Bachelor graduation project at the Royal Academy of
-                          Arts (KABK), Den Haag <ref target=" http://cinemetrics.fredericbrodbeck.de/"> http://cinemetrics.fredericbrodbeck.de/</ref> [letzter Zugriff 04.
-                          Februar 2016].</rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__2714"><hi rend="bold">Cinemetrics</hi> (o. J.): <ref target="http://www.cinemetrics.lv/">http://www.cinemetrics.lv/</ref>
-                          [letzter Zugriff 04.Februar 2016]</rs></bibl>
+                          <rs type="bibl" ref="#bibl__2711">Arandjelovic, Ognjen / Zisserman, Andrew (2005): "Automatic face recognition for film character retrieval in feature-length films", in: Proceedings of the Computer Vision and Pattern Recognition Conference (IEEE) 860-867.</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__2712">Beard, Niall (2015): Pretentious-O-Meter http://pretentious-o-meter.co.uk/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__2713">Brodbeck, Frederic (2011): Cinemetrics. Bachelor graduation project at the Royal Academy of Arts (KABK), Den Haag http://cinemetrics.fredericbrodbeck.de/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__2714">Cinemetrics (o. J.): http://www.cinemetrics.lv/ [letzter Zugriff 04.Februar 2016]</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2715"><hi rend="bold">Flückiger, Barbara</hi> (2011): "Die Vermessung ästhetischer
-                            Erscheinungen", in: <hi rend="italic">Zeitschrift für
-                            Medienwissenschaft</hi> 5, 2: 44-60. </rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__2716"><hi rend="bold">Flückinger, Barbara</hi> (2011-2013): <hi rend="italic">Timeline of Historical Film Colors</hi>
-                            <ref target="http://zauberklang.ch/filmcolors/">http://zauberklang.ch/filmcolors/</ref> [08. Januar 2016].</rs></bibl>
+                            <rs type="bibl" ref="#bibl__2715">Flückiger, Barbara (2011): "Die Vermessung ästhetischer Erscheinungen", in: Zeitschrift für Medienwissenschaft 5, 2: 44-60.</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2716">Flückinger, Barbara (2011-2013): Timeline of Historical Film Colors http://zauberklang.ch/filmcolors/ [08. Januar 2016].</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2717"><hi rend="bold">Heftberger, Adelheid</hi> (2015): "Filmbild , Filmschnitt ,
-                                Filmstil – die Quantifizierung und Visualisierung von filmischen
-                                Strukturen", in: <hi rend="italic">Book of Abstracts, DHd 2015</hi>. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2717">Heftberger, Adelheid (2015): "Filmbild , Filmschnitt , Filmstil – die Quantifizierung und Visualisierung von filmischen Strukturen", in: Book of Abstracts, DHd 2015.</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2718"><hi rend="bold">Howanitz, Gernot</hi> (2015): „Distant Waching: Ein
-                                  quantitativer Zugang zu YouTube-Videos“, in: <hi rend="italic">Book of
-                                  Abstracts, DHd 2015</hi>. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2718">Howanitz, Gernot (2015): „Distant Waching: Ein quantitativer Zugang zu YouTube-Videos“, in: Book of Abstracts, DHd 2015.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2719"><hi rend="bold">Hoyt, Eric / Ponot, Kevin / Roy, Carrie</hi> (2014):
-                                    „Visualizing and Analyzing the Hollywood Screenplay with ScripThreads“, in:
-                                    <hi rend="italic">Digital Humanities Quarterly</hi> 8, 4. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__264"><hi rend="bold">IMDb</hi> (o. J.): <hi rend="italic">Internet Movie
-                                    Database</hi>. <ref target="http://www.imdb.com/">http://www.imdb.com/</ref> [letzter Zugriff 04. Februar 2016]. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__264"><hi rend="bold">IMSDb</hi> (o. J.): <hi rend="italic">Internet Script
-                                    Movie Database</hi>. <ref target="http://www.imsdb.com/">http://www.imsdb.com/</ref> [letzter Zugriff 04. Februar 2016]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2719">Hoyt, Eric / Ponot, Kevin / Roy, Carrie (2014): „Visualizing and Analyzing the Hollywood Screenplay with ScripThreads“, in: Digital Humanities Quarterly 8, 4.</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__264">IMDb (o. J.): Internet Movie Database. http://www.imdb.com/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__264">IMSDb (o. J.): Internet Script Movie Database. http://www.imsdb.com/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2720"><hi rend="bold">Korte, Helmut</hi> (2004): <hi rend="italic">Einführung in
-                                      die Systematische Filmanalyse</hi>. Berlin: Erich Schmid Verlag. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2720">Korte, Helmut (2004): Einführung in die Systematische Filmanalyse. Berlin: Erich Schmid Verlag.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__242"><hi rend="bold">Lauer, Gerhard</hi> (2013): "Die digitale Vermessung der
-                                        Kultur", in: Geiselberger, Heinrich / Moorstedt, Tobias (eds.): <hi rend="italic">Big Data – Das neue Versprechen der Allwissenheit</hi>.
-                                        Berlin: Suhrkamp 99-116. </rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2721"><hi rend="bold">Lavigne, Sam</hi> (2014): <hi rend="italic">Videogrep</hi>. Automatic Supercuts with Python <ref target="http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/">http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/</ref>
-                                        [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__242">Lauer, Gerhard (2013): "Die digitale Vermessung der Kultur", in: Geiselberger, Heinrich / Moorstedt, Tobias (eds.): Big Data – Das neue Versprechen der Allwissenheit. Berlin: Suhrkamp 99-116.</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2721">Lavigne, Sam (2014): Videogrep. Automatic Supercuts with Python http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__75"><hi rend="bold">Mohammad, Saif M. / Turney, Peter D.</hi> (2010): "Emotions
-                                          evoked by common words and phrases: Using Mechanical Turk to create an
-                                          emotion lexicon", in: <hi rend="italic">Proceedings of the NAACL HLT 2010
-                                          Workshop on Computational Approaches to Analysis and Generation of
-                                          Emotion in Text</hi> 26-34. </rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2722"><hi rend="bold">MovieBarcode</hi> (o. J.): <ref target="http://moviebarcode.tumblr.com/">http://moviebarcode.tumblr.com/</ref> [letzter Zugriff 04. Februar
-                                          2016].</rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2723"><hi rend="bold">Neubauer Collegium</hi> (2014): <hi rend="italic">UChicago
-                                          Cinemetrics Conference</hi>
-                                          <ref target="https://www.youtube.com/watch?v=6ZXj67bygEc">https://www.youtube.com/watch?v=6ZXj67bygEc</ref> [letzter Zugriff 04.
-                                            Februar 2016].</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2724"><hi rend="bold">Nielsen, Finn Å.</hi> (2011): "A new ANEW: evaluation of a
-                                            word list for sentiment analysis in microblogs", in: <hi rend="italic">Proceedings of the ESWC2011 Workshop on „Making Sense of Microposts:
-                                            Big things come in small packages</hi>“ 93-98. </rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2725"><hi rend="bold">OpenSubtitles</hi> (o. J.) <ref target="www.opensubtitles.org/">www.opensubtitles.org/</ref> [letzter
-                                            Zugriff 04. Februar 2016]. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__75">Mohammad, Saif M. / Turney, Peter D. (2010): "Emotions evoked by common words and phrases: Using Mechanical Turk to create an emotion lexicon", in: Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text 26-34.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2722">MovieBarcode (o. J.): http://moviebarcode.tumblr.com/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2723">Neubauer Collegium (2014): UChicago Cinemetrics Conference https://www.youtube.com/watch?v=6ZXj67bygEc [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2724">Nielsen, Finn Å. (2011): "A new ANEW: evaluation of a word list for sentiment analysis in microblogs", in: Proceedings of the ESWC2011 Workshop on „Making Sense of Microposts: Big things come in small packages“ 93-98.</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2725">OpenSubtitles (o. J.) www.opensubtitles.org/ [letzter Zugriff 04. Februar 2016].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2726"><hi rend="bold">Salt, Barry</hi> (2006): <hi rend="italic">Moving into
-                                              Pictures</hi>. London: Starwood. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2726">Salt, Barry (2006): Moving into Pictures. London: Starwood.</rs></bibl>
                                               <bibl>
-                                                <rs type="bibl" ref="#bibl__2727"><hi rend="bold">Tiedemann, Jörg</hi> (2012): "Parallel Data, Tools and
-                                                Interfaces in OPUS", in: <hi rend="italic">Proceedings of the 8th
-                                                International Conference on Language Resources and Evaluation</hi>
-                                                2214-2218.</rs></bibl>
-                                                <bibl><rs type="bibl" ref="#bibl__2728"><hi rend="bold">Weaver, Chris</hi> (2014): <hi rend="italic">Cinegraph</hi>
-                                                <ref target="http://www.cs.ou.edu/~weaver/improvise/examples/cinegraph/index.html">http://www.cs.ou.edu/~weaver/improvise/examples/cinegraph/index.html</ref>
-                                                  [letzter Zugriff 04. Februar 2016].</rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2727">Tiedemann, Jörg (2012): "Parallel Data, Tools and Interfaces in OPUS", in: Proceedings of the 8th International Conference on Language Resources and Evaluation 2214-2218.</rs></bibl>
+                                                <bibl><rs type="bibl" ref="#bibl__2728">Weaver, Chris (2014): Cinegraph http://www.cs.ou.edu/~weaver/improvise/examples/cinegraph/index.html [letzter Zugriff 04. Februar 2016].</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2729"><hi rend="bold">Zulko</hi> (4.7.2014): "Automatic Soccer Highlights
-                                                    Compilations With Python" (Blogpost), in: <hi rend="italic">__del__
-                                                    (self)</hi> Eaten by the Python <ref target="http://zulko.github.io/blog/2014/07/04/automatic-soccer-highlights-compilations-with-python/">http://zulko.github.io/blog/2014/07/04/automatic-soccer-highlights-compilations-with-python/</ref>
-                                                    [letzter Zugriff 08. Januar 2016].</rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2729">Zulko (4.7.2014): "Automatic Soccer Highlights Compilations With Python" (Blogpost), in: __del__ (self) Eaten by the Python http://zulko.github.io/blog/2014/07/04/automatic-soccer-highlights-compilations-with-python/ [letzter Zugriff 08. Januar 2016].</rs></bibl>
                                                   </listBibl>
                                                 </div> </back>
                                               </text>

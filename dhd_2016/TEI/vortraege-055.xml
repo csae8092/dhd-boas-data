@@ -268,53 +268,22 @@
                         <div type="bibliogr">
                           <listBibl>
                             <head>Bibliography</head>
-                            <bibl><rs type="bibl" ref="#bibl__2626"><hi rend="bold">Altisent, Marta E.</hi> (2008): <hi rend="italic">A
-                            Companion to the Twentieth-Century Spanish Novel</hi>. Woodbridge:
-                            Tamesis. </rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__2627"><hi rend="bold">Blei, David M.</hi> (2011): “Introduction to Probabilistic
-                            Topic Models,” in:  <hi rend="italic">Communication of the ACM</hi>. </rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__126"><hi rend="bold">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I.</hi>
-                            (2003): “Latent Dirichlet Allocation,” in:  <hi rend="italic">Journal of
-                            Machine Learning Research</hi> 3: 993–1022. </rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2626">Altisent, Marta E. (2008): A Companion to the Twentieth-Century Spanish Novel. Woodbridge: Tamesis.</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2627">Blei, David M. (2011): “Introduction to Probabilistic Topic Models,” in: Communication of the ACM.</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__126">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. (2003): “Latent Dirichlet Allocation,” in: Journal of Machine Learning Research 3: 993–1022.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2628"><hi rend="bold">Blevins, Cameron</hi> (2010): “Topic Modeling Martha
-                              Ballard’s Diary,” in:  <hi rend="italic">Historying</hi>
-                              <ref target="http://historying.org/2010/04/01/topic-modeling-martha-ballards-diary/">http://historying.org/2010/04/01/topic-modeling-martha-ballards-diary/</ref>
-                                [letzter Zugriff 16. Februar 2016]. </rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__2629"><hi rend="bold">Doueihi, Milad</hi> (2012):  <hi rend="italic">Pour un
-                                humanisme numérique (2011)</hi>. Paris: Seuil. </rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__2630"><hi rend="bold">Gallo, Marta</hi> (1981):  <hi rend="italic">La Novela
-                                Hispanoamericana En El Siglo XIX</hi>. Madrid: La Muralla. </rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__2631"><hi rend="bold">García de Nora, Eugenio</hi> (1963):  <hi rend="italic">La
-                                Novela Española Contemporánea</hi>. Madrid: Gredos. </rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__240"><hi rend="bold">Jockers, Matthew L.</hi> (2013):  <hi rend="italic">Macroanalysis - Digital Methods and Literary History</hi>. Champaign,
-                                IL: University of Illinois Press. </rs></bibl>
-                                <bibl><rs type="bibl" ref="#bibl__163"><hi rend="bold">Jockers, Matthew L. </hi>(2015): “Revealing Sentiment and
-                                Plot Arcs with the Syuzhet Package” in:  <hi rend="italic">Matthew. L.
-                                Jockers</hi>
-                                <ref target="http://www.matthewjockers.net/2015/02/02/syuzhet/">http://www.matthewjockers.net/2015/02/02/syuzhet/</ref> [letzter
-                                  Zugriff 09. Februar 2016]. </rs></bibl>
-                                  <bibl><rs type="bibl" ref="#bibl__9"><hi rend="bold">McCallum, Andrew K.</hi> (2002): <hi rend="italic">MALLET:
-                                  A Machine Learning for Language Toolkit</hi>
-                                  <ref target="http://mallet.cs.umass.edu/">http://mallet.cs.umass.edu</ref>
-                                  [letzter Zugriff 09. Februar 2016]. </rs></bibl>
-                                  <bibl><rs type="bibl" ref="#bibl__2632"><hi rend="bold">Nachwuchsgruppe CLiGS</hi> (o.J.): <hi rend="italic">Computergestützte literarische Gattungsstilistik</hi>
-                                  <ref target="http://cligs.hypotheses.org/">http://cligs.hypotheses.org/</ref> [letzter Zugriff 16. Februar
-                                    2016].</rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__2633"><hi rend="bold">Rhody, Lisa M.</hi> (2012): “Topic Modeling and Figurative
-                                    Language,” in:  <hi rend="italic">Journal of Digital Humanities</hi> 2  <ref target="http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/">http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody</ref>
-                                    [letzter Zugriff 09. Februar 2016]. </rs></bibl>
-                                    <bibl><rs type="bibl" ref="#bibl__2634"><hi rend="bold">Schmidt, Benjamin M.</hi> (2014): “Typical TV Episodes:
-                                    Visualizing Topics in Screen Time,” in:  <hi rend="italic">Sapping
-                                    Attention</hi>
-                                    <ref target="http://sappingattention.blogspot.de/2014/12/typical-tv-episodes-visualizing-topics.html">http://sappingattention.blogspot.de/2014/12/typical-tv-episodes-visualizing-topics.html</ref>
-                                      [letzter Zugriff 09. Februar 2016]. </rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__164"><hi rend="bold">Schöch, Christof</hi> (2015): “Topic Modeling Genre: An
-                                      Exploration of French Classical and Enlightenment Drama [submitted]”, in: 
-                                      <hi rend="italic">Digital Humanities Quarterly</hi>. </rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__2635"><hi rend="bold">Williams, Raymond L.</hi> (2009):  <hi rend="italic">The
-                                      Twentieth-Century Spanish American Novel</hi>. Austin, Texas: University
-                                      of Texas Press. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2628">Blevins, Cameron (2010): “Topic Modeling Martha Ballard’s Diary,” in: Historying http://historying.org/2010/04/01/topic-modeling-martha-ballards-diary/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__2629">Doueihi, Milad (2012): Pour un humanisme numérique (2011). Paris: Seuil.</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__2630">Gallo, Marta (1981): La Novela Hispanoamericana En El Siglo XIX. Madrid: La Muralla.</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__2631">García de Nora, Eugenio (1963): La Novela Española Contemporánea. Madrid: Gredos.</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__240">Jockers, Matthew L. (2013): Macroanalysis - Digital Methods and Literary History. Champaign, IL: University of Illinois Press.</rs></bibl>
+                                <bibl><rs type="bibl" ref="#bibl__163">Jockers, Matthew L. (2015): “Revealing Sentiment and Plot Arcs with the Syuzhet Package” in: Matthew. L. Jockers http://www.matthewjockers.net/2015/02/02/syuzhet/ [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__9">McCallum, Andrew K. (2002): MALLET: A Machine Learning for Language Toolkit http://mallet.cs.umass.edu [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                  <bibl><rs type="bibl" ref="#bibl__2632">Nachwuchsgruppe CLiGS (o.J.): Computergestützte literarische Gattungsstilistik http://cligs.hypotheses.org/ [letzter Zugriff 16. Februar 2016].</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2633">Rhody, Lisa M. (2012): “Topic Modeling and Figurative Language,” in: Journal of Digital Humanities 2 http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2634">Schmidt, Benjamin M. (2014): “Typical TV Episodes: Visualizing Topics in Screen Time,” in: Sapping Attention http://sappingattention.blogspot.de/2014/12/typical-tv-episodes-visualizing-topics.html [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__164">Schöch, Christof (2015): “Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama [submitted]”, in: Digital Humanities Quarterly.</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__2635">Williams, Raymond L. (2009): The Twentieth-Century Spanish American Novel. Austin, Texas: University of Texas Press.</rs></bibl>
                                     </listBibl>
                                   </div>
                                 </back>

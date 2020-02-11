@@ -102,50 +102,19 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4162"><rs type="bibl" ref="#bibl__2938"><hi style="font-size:10pt" xml:space="preserve">Afli, H., Barrault, L., &amp; Schwenk, H. (2016). Building and using multimodal comparable corpora for machine translation. </hi>
-                        <hi rend="italic" style="font-size:10pt">Natural Language Engineering</hi>
-                        <hi style="font-size:10pt" xml:space="preserve">, </hi>
-                        <hi rend="italic" style="font-size:10pt">22</hi>
-                        <hi style="font-size:10pt">(4), 603-625.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4162">Afli, H., Barrault, L., &amp; Schwenk, H. (2016). Building and using multimodal comparable corpora for machine translation. Natural Language Engineering , 22 (4), 603-625.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4163"><rs type="bibl" ref="#bibl__2939"><hi style="font-size:10pt" xml:space="preserve">Caglayan, O., Barrault, L., &amp; Bougares, F. (2016). Multimodal attention for neural machine translation. </hi>
-                        <hi rend="italic" style="font-size:10pt">arXiv preprint arXiv:1609.03976</hi>
-                        <hi style="font-size:10pt">.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4163">Caglayan, O., Barrault, L., &amp; Bougares, F. (2016). Multimodal attention for neural machine translation. arXiv preprint arXiv:1609.03976 .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4164"><rs type="bibl" ref="#bibl__2940"><hi style="font-size:10pt" xml:space="preserve">Caglayan, O., </hi>
-                        <hi rend="italic" style="font-size:10pt" xml:space="preserve">et al. </hi>
-                        <hi style="font-size:10pt" xml:space="preserve">(2016). Does multimodality help human and machine for translation and image captioning?. </hi>
-                        <hi rend="italic" style="font-size:10pt">arXiv preprint arXiv:1605.09186</hi>
-                        <hi style="font-size:10pt">.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4164">Caglayan, O., et al. (2016). Does multimodality help human and machine for translation and image captioning?. arXiv preprint arXiv:1605.09186 .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4165"><rs type="bibl" ref="#bibl__2941"><hi style="font-size:10pt" xml:space="preserve">Elliott, D., Frank, S., Barrault, L., Bougares, F., &amp; Specia, L. (2017). Findings of the second shared task on multimodal machine translation and multilingual image description. </hi>
-                        <hi rend="italic" style="font-size:10pt">arXiv preprint arXiv:1710.07177</hi>
-                        <hi style="font-size:10pt">.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4165">Elliott, D., Frank, S., Barrault, L., Bougares, F., &amp; Specia, L. (2017). Findings of the second shared task on multimodal machine translation and multilingual image description. arXiv preprint arXiv:1710.07177 .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4166"><rs type="bibl" ref="#bibl__2942"><hi style="font-size:10pt" xml:space="preserve">Hussein, A. (2015). The use of triangulation in social sciences research: Can qualitative and quantitative methods be combined?. </hi>
-                        <hi rend="italic" style="font-size:10pt">Journal of comparative social work</hi>
-                        <hi style="font-size:10pt" xml:space="preserve">, </hi>
-                        <hi rend="italic" style="font-size:10pt">4</hi>
-                        <hi style="font-size:10pt">(1).</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4166">Hussein, A. (2015). The use of triangulation in social sciences research: Can qualitative and quantitative methods be combined?. Journal of comparative social work , 4 (1).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4167"><rs type="bibl" ref="#bibl__2943"><hi style="font-size:10pt" xml:space="preserve">Serpil, H., Durmuşoğlu-Köse, G., Erbek, M., &amp; Öztürk, Y. (2016). Employing computer-assisted translation tools to achieve terminology standardization in institutional translation: Making a case for higher education. </hi>
-                        <hi rend="italic" style="font-size:10pt">Procedia-Social and Behavioral Sciences</hi>
-                        <hi style="font-size:10pt" xml:space="preserve">, </hi>
-                        <hi rend="italic" style="font-size:10pt">231</hi>
-                        <hi style="font-size:10pt">, 76-83.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4167">Serpil, H., Durmuşoğlu-Köse, G., Erbek, M., &amp; Öztürk, Y. (2016). Employing computer-assisted translation tools to achieve terminology standardization in institutional translation: Making a case for higher education. Procedia-Social and Behavioral Sciences , 231 , 76-83.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4168"><rs type="bibl" ref="#bibl__2944"><hi style="font-size:10pt" xml:space="preserve">Viehhauser, G. (2018). Digital Humanities als Geisteswissenschaften. Zur Auflösung einer Tautologie. </hi>
-                        <hi rend="italic" style="font-size:10pt">Digital Humanities: Perspektiven der Praxis</hi>
-                        <hi style="font-size:10pt" xml:space="preserve">, </hi>
-                        <hi rend="italic" style="font-size:10pt">1</hi>
-                        <hi style="font-size:10pt">, 17.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4168">Viehhauser, G. (2018). Digital Humanities als Geisteswissenschaften. Zur Auflösung einer Tautologie. Digital Humanities: Perspektiven der Praxis , 1 , 17.</rs></bibl>
                 </listBibl>
             </div>
         </back>

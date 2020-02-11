@@ -170,44 +170,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1503"><rs type="bibl" ref="#bibl__1441"><hi rend="bold">Bernsen, Daniel</hi> (2017): 
-                        <hi rend="italic">“Arbeiten mit digitalen Quellen im Geschichtsunterricht“, in: Bernsen, Daniel / Kerber, Ulf (eds.): Praxishandbuch Historisches Lernen und Medienbildung im digitalen Zeitalter, Opladen/ Berlin/ Toronto: Verlag Barbara Budrich 295-303.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1503">Bernsen, Daniel (2017): “Arbeiten mit digitalen Quellen im Geschichtsunterricht“, in: Bernsen, Daniel / Kerber, Ulf (eds.): Praxishandbuch Historisches Lernen und Medienbildung im digitalen Zeitalter, Opladen/ Berlin/ Toronto: Verlag Barbara Budrich 295-303.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1504"><rs type="bibl" ref="#bibl__1442"><hi rend="bold">Kelly, T. Mills</hi> (2013): 
-                        <hi rend="italic">“Teaching History in the Digital Age“, Ann Arbor: MI: University of Michigan Press, </hi>
-                        <ref target="http://dx.doi.org/10.3998/dh.12146032.0001.001">
-                            <hi rend="italic">http://dx.doi.org/10.39</hi>
-                            <anchor xml:id="Hlt492655812"/>
-                            <anchor xml:id="Hlt492655813"/>
-                            <hi rend="italic">98/dh.12146032.0001.001</hi>
-                        </ref>
-                        <hi rend="italic"> [letzter Zugriff: 08. September 2017].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1504">Kelly, T. Mills (2013): “Teaching History in the Digital Age“, Ann Arbor: MI: University of Michigan Press, http://dx.doi.org/10.39 98/dh.12146032.0001.001 [letzter Zugriff: 08. September 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1505"><rs type="bibl" ref="#bibl__1443"><hi rend="bold">Meyer zu Schlochtern, Josef </hi>(2014): 
-                        <hi rend="italic">“Die Academia Theodoriana. Von der Jesuitenuniversität zur Theologischen Fakultät Paderborn 1614-2014“, Paderborn: Schöningh.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1505">Meyer zu Schlochtern, Josef (2014): “Die Academia Theodoriana. Von der Jesuitenuniversität zur Theologischen Fakultät Paderborn 1614-2014“, Paderborn: Schöningh.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1506"><rs type="bibl" ref="#bibl__1444"><hi rend="bold">Pfanzelter, Eva </hi>(2017): 
-                        <hi rend="italic">“Analoge vs. digitale Quellen: eine Standortbestimmung“, in: Bernsen, Daniel / Kerber, Ulf (eds.): Praxishandbuch Historisches Lernen und Medienbildung im digitalen Zeitalter, Opladen/ Berlin/ Toronto: Verlag Barbara Budrich 85-94.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1506">Pfanzelter, Eva (2017): “Analoge vs. digitale Quellen: eine Standortbestimmung“, in: Bernsen, Daniel / Kerber, Ulf (eds.): Praxishandbuch Historisches Lernen und Medienbildung im digitalen Zeitalter, Opladen/ Berlin/ Toronto: Verlag Barbara Budrich 85-94.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1507"><rs type="bibl" ref="#bibl__1445"><hi rend="bold">Sahle, Patrick</hi> (2013): 
-                        <hi rend="italic">“Digitale Editionsformen. Teil I: Das typografische Erbe, Teil II: Befunde, Theorie und Methodik, Teil III: Textbegriffe und Recodierung.“ Norderstedt: Schriften des Instituts für Dokumentologie und Editorik 7-9, </hi>
-                        <ref target="http://kups.ub.uni-koeln.de/5351/">
-                            <hi rend="italic">urn:nbn:de:hbz:38-53510</hi>
-                        </ref>
-                        <hi rend="italic">, </hi>
-                        <ref target="http://kups.ub.uni-koeln.de/5352/">
-                            <hi rend="italic">urn:nbn:de:hbz:38-53523</hi>
-                        </ref>
-                        <hi rend="italic">, </hi>
-                        <ref target="http://kups.ub.uni-koeln.de/5353/">
-                            <hi rend="italic">urn:nbn:de:hbz:38-53534</hi>
-                        </ref>
-                        <hi rend="italic"> [letzter Zugriff: 08. September 2017].</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1507">Sahle, Patrick (2013): “Digitale Editionsformen. Teil I: Das typografische Erbe, Teil II: Befunde, Theorie und Methodik, Teil III: Textbegriffe und Recodierung.“ Norderstedt: Schriften des Instituts für Dokumentologie und Editorik 7-9, urn:nbn:de:hbz:38-53510 , urn:nbn:de:hbz:38-53523 , urn:nbn:de:hbz:38-53534 [letzter Zugriff: 08. September 2017].</rs></bibl>
                 </listBibl>
             </div>
       </back>

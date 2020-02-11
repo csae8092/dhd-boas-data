@@ -159,18 +159,11 @@
                         <listBibl>
                           <head>Bibliographie</head>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2611"><hi rend="bold">Bush, Vannevar</hi> (1945). „The atlantic monthly”. in: <hi rend="italic">As we may think</hi> 176, 1: 101-108. </rs></bibl>
+                            <rs type="bibl" ref="#bibl__2611">Bush, Vannevar (1945). „The atlantic monthly”. in: As we may think 176, 1: 101-108.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2612"><hi rend="bold">Marshall, Catherine C.</hi> (1998) „Toward an ecology of
-                              hypertext annotation", in: <hi rend="italic">Proceedings of the ninth ACM
-                              conference on Hypertext and hypermedia</hi>: links, objects, time and
-                              space —structure in hypermedia systems 40-49. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2612">Marshall, Catherine C. (1998) „Toward an ecology of hypertext annotation", in: Proceedings of the ninth ACM conference on Hypertext and hypermedia: links, objects, time and space —structure in hypermedia systems 40-49.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2613"><hi rend="bold">Müller-Birn, Claudia / Klüwer, Tina / Breitenfeld, Andre /
-                                  Schlegel, Alexa / Benedix, Lukas</hi> (2015) „neonion: Combining Human
-                                  and Machine Intelligence“, in: <hi rend="italic">Proceedings of the 18th ACM
-                                  Conference Companion on Computer Supported Cooperative Work &amp; Social
-                                  Computing</hi> 223-226. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2613">Müller-Birn, Claudia / Klüwer, Tina / Breitenfeld, Andre / Schlegel, Alexa / Benedix, Lukas (2015) „neonion: Combining Human and Machine Intelligence“, in: Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work &amp; Social Computing 223-226.</rs></bibl>
                                 </listBibl>
                               </div>
                             </back>

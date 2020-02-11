@@ -340,109 +340,45 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3722"><rs type="bibl" ref="#bibl__2487"><anchor xml:id="id_docs-internal-guid-c267ccca-7fff-c4ca-eb06-c84dca269b78"/>
-                        <hi rend="color(#222222) background-color(#ffffff)bold">Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(2003): “Latent dirichlet allocation”. </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)italic">Journal of machine Learning research</hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">, </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)italic">3</hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(Jan), 993-1022.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3722">Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. (2003): “Latent dirichlet allocation”. Journal of machine Learning research , 3 (Jan), 993-1022.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__187"><rs type="bibl" ref="#bibl__137"><hi rend="color(#000000) background-color(#ffffff)bold">Burrows, J.</hi>
-                        <hi rend="color(#000000) background-color(#ffffff)">: »All the Way Through. Testing for Authorship in Different Frequency Strata«, in: Literary and Linguistic Computing 22.1 (2007), S.27–47.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__187">Burrows, J. : »All the Way Through. Testing for Authorship in Different Frequency Strata«, in: Literary and Linguistic Computing 22.1 (2007), S.27–47.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3723"><rs type="bibl" ref="#bibl__138"><hi rend="color(#000000)bold">Craig, H., Kinney, A. </hi>
-                        <hi rend="color(#000000)">(2009): Shakespeare, Computers, and the Mystery of Authorship. Cambridge.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3723">Craig, H., Kinney, A. (2009): Shakespeare, Computers, and the Mystery of Authorship. Cambridge.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__158"><rs type="bibl" ref="#bibl__119"><hi rend="color(#000000)bold">Eder, M., Rybicki, J.,  and Kestemont, M.</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">(2016). Stylometry with R: a package for computational text analysis. R Journal, 8(1): 107-121.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__158">Eder, M., Rybicki, J., and Kestemont, M. (2016). Stylometry with R: a package for computational text analysis. R Journal, 8(1): 107-121.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3724"><rs type="bibl" ref="#bibl__2488"><hi rend="color(#222222) background-color(#ffffff)bold">Foltin, H. F. </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(1965): Die minderwertige Prosaliteratur. Einteilung und Bezeichnung. In: DVjs 39 H. 2, 288–323.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3724">Foltin, H. F. (1965): Die minderwertige Prosaliteratur. Einteilung und Bezeichnung. In: DVjs 39 H. 2, 288–323.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3725"><rs type="bibl" ref="#bibl__2489"><hi rend="color(#222222) background-color(#ffffff)bold">Domagalski, P. </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(1980): Trivialliteratur. Geschichte. Produktion, Rezeption. Freiburg im Breisgau. </hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3725">Domagalski, P. (1980): Trivialliteratur. Geschichte. Produktion, Rezeption. Freiburg im Breisgau.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3726"><rs type="bibl" ref="#bibl__2490"><hi rend="color(#222222) background-color(#ffffff)bold">Hügel, H.-O.</hi>
-                        <hi rend="color(#222222) background-color(#ffffff)"> </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(2007): Lob des Mainstreams. Zu Theorie und Geschichte von Unterhaltung und Populärer Kultur. Köln: Halem.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3726">Hügel, H.-O. (2007): Lob des Mainstreams. Zu Theorie und Geschichte von Unterhaltung und Populärer Kultur. Köln: Halem.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3727"><rs type="bibl" ref="#bibl__2491"><hi rend="color(#222222) background-color(#ffffff)bold">Evert, S. Proisl, T., Reger, I., Pielström, S., Schöch, C. Vitt, T.</hi>
-                        <hi rend="color(#222222) background-color(#ffffff)"> </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(2017): Understanding and explaining Delta measures for authorship attribution. In: Digital Scholarship Humanities 32, 2,1, p. ii4-ii16.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3727">Evert, S. Proisl, T., Reger, I., Pielström, S., Schöch, C. Vitt, T. (2017): Understanding and explaining Delta measures for authorship attribution. In: Digital Scholarship Humanities 32, 2,1, p. ii4-ii16.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3728"><rs type="bibl" ref="#bibl__2492"><hi rend="color(#222222) background-color(#ffffff)bold">Hettinger, L., Jannidis, F., Reger, I., Hotho, A. </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(2016): Classification of Literary Subgenres. Abstracts DHd-Tagung 2016, Leipzig 2016.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3728">Hettinger, L., Jannidis, F., Reger, I., Hotho, A. (2016): Classification of Literary Subgenres. Abstracts DHd-Tagung 2016, Leipzig 2016.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3729"><rs type="bibl" ref="#bibl__2493"><hi rend="color(#24292e) background-color(#ffffff)bold">Kelleter, F. (</hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">2012)</hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)bold">: </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">Populäre Serialität. Eine Einführung. In: ders.: (Hg.): Populäre Serialität: Narration – Evolution – Distinktion. Zum seriellen Erzählen seit dem 19. Jahrhundert. Bielefeld: transcript, S. 11-46.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3729">Kelleter, F. ( 2012) : Populäre Serialität. Eine Einführung. In: ders.: (Hg.): Populäre Serialität: Narration – Evolution – Distinktion. Zum seriellen Erzählen seit dem 19. Jahrhundert. Bielefeld: transcript, S. 11-46.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3730"><rs type="bibl" ref="#bibl__2494"><hi rend="color(#24292e) background-color(#ffffff)bold">Kubát, M. &amp; Milička, J.</hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)"> </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">(2013). Vocabulary richness measure in genres. Journal of Quantitative Linguistics, 20(4), 339–349.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3730">Kubát, M. &amp; Milička, J. (2013). Vocabulary richness measure in genres. Journal of Quantitative Linguistics, 20(4), 339–349.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__9"><rs type="bibl" ref="#bibl__7"><hi rend="color(#24292e) background-color(#ffffff)bold">McCallum, A.:</hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">  </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">"MALLET: A Machine Learning for Language Toolkit."
-                            <lb/>
-                        </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">  </hi>
-                        <ref target="http://mallet.cs.umass.edu/"> </ref>
-                        <ref target="http://mallet.cs.umass.edu/">
-                            <hi rend="color(#1155cc) background-color(#ffffff)underline">http://mallet.cs.umass.edu</hi>
-                        </ref>
-                        <hi rend="color(#24292e) background-color(#ffffff)">. 2002.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__9">McCallum, A.: "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu . 2002.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3731"><rs type="bibl" ref="#bibl__2495"><hi rend="color(#24292e) background-color(#ffffff)bold">McInnes, L. Healy, J.</hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)"> </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">(2018): “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction”, ArXiv e-prints 1802.03426</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3731">McInnes, L. Healy, J. (2018): “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction”, ArXiv e-prints 1802.03426</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__273"><rs type="bibl" ref="#bibl__166"><hi rend="color(#24292e) background-color(#ffffff)bold">Nast, M. </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">(2017): "Perry Rhodan" lesen. Zur Serialität der Lektürepraktiken einer Heftromanserie. Bielefeld: transcript.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__273">Nast, M. (2017): "Perry Rhodan" lesen. Zur Serialität der Lektürepraktiken einer Heftromanserie. Bielefeld: transcript.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3732"><rs type="bibl" ref="#bibl__2496"><hi rend="color(#000000)bold">Nusser, P.</hi>
-                        <hi rend="color(#000000)">: Romane für die Unterschicht. Stuttgart 1982.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3732">Nusser, P. : Romane für die Unterschicht. Stuttgart 1982.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3733"><rs type="bibl" ref="#bibl__2497"><hi rend="color(#24292e) background-color(#ffffff)bold">Nutz, W.; Schlögell, V. </hi>
-                        <hi rend="color(#24292e) background-color(#ffffff)">(1991): Die Heftroman-Leserinnen und -Leser in Deutschland. Beiträge zur Erfassung popularkulturaler Phänomene. In: Communications 16 (2). DOI: 10.1515/comm.1991.16.2.133.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3733">Nutz, W.; Schlögell, V. (1991): Die Heftroman-Leserinnen und -Leser in Deutschland. Beiträge zur Erfassung popularkulturaler Phänomene. In: Communications 16 (2). DOI: 10.1515/comm.1991.16.2.133.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3734"><rs type="bibl" ref="#bibl__2498"><hi rend="color(#000000) background-color(#ffffff)bold">Schöch, C.</hi>
-                        <hi rend="color(#000000) background-color(#ffffff)"> </hi>
-                        <hi rend="color(#000000) background-color(#ffffff)">(2018). Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie. In Bernhart, T., et al. (eds.), </hi>
-                        <hi rend="color(#000000) background-color(#ffffff)italic">Quantitative Ansätze in der Literatur- und Geisteswissenschaften</hi>
-                        <hi rend="color(#000000) background-color(#ffffff)">. Berlin: de Gruyter. 77-94.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3734">Schöch, C. (2018). Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie. In Bernhart, T., et al. (eds.), Quantitative Ansätze in der Literatur- und Geisteswissenschaften . Berlin: de Gruyter. 77-94.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3735"><rs type="bibl" ref="#bibl__2499"><hi rend="color(#000000) background-color(#ffffff)bold">Schöch, C. Schlör, D., Zehe, A., Gebhard, H, Becker, M., Hotho, A.</hi>
-                        <hi rend="color(#000000) background-color(#ffffff)">: Burrows’ Zeta: Exploring and Evaluating Variants and Parameters. Abstracts DH 2018.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3735">Schöch, C. Schlör, D., Zehe, A., Gebhard, H, Becker, M., Hotho, A. : Burrows’ Zeta: Exploring and Evaluating Variants and Parameters. Abstracts DH 2018.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3736"><rs type="bibl" ref="#bibl__2500"><hi rend="color(#000000)bold">Stiftung Lesen</hi>
-                        <hi rend="color(#000000)">. Lesen in Deutschland 2008. https://www.stiftunglesen.de/download.php?type=documentpdf&amp;id=11</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3736">Stiftung Lesen . Lesen in Deutschland 2008. https://www.stiftunglesen.de/download.php?type=documentpdf&amp;id=11</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3737"><rs type="bibl" ref="#bibl__2501"><hi rend="color(#222222) background-color(#ffffff)bold">Stockinger, C. </hi>
-                        <hi rend="color(#222222) background-color(#ffffff)">(2018): Das Groschenheft. In: Carlos Spoerhase und Steffen Martus (Hg.): Gelesene Literatur. Populäre Lektüre im Zeichen des Medienwandels. München: text + kritik. (Im Druck)</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3737">Stockinger, C. (2018): Das Groschenheft. In: Carlos Spoerhase und Steffen Martus (Hg.): Gelesene Literatur. Populäre Lektüre im Zeichen des Medienwandels. München: text + kritik. (Im Druck)</rs></bibl>
                 </listBibl>
             </div>
         </back>

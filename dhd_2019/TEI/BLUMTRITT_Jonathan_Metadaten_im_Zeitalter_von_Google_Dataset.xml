@@ -218,20 +218,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Blumtritt, J. and Rau, F. (2016): User-Experience von Spracharchiven: Eine Neubewertung der Interaktion von Archiv und Nutzern, in: Digital Humanities im deutschsprachigen Raum (DHd 2016), Leipzig. 
-                        <rs type="bibl" ref="#bibl__3412"><rs type="bibl" ref="#bibl__2172"><ref target="http://dhd2016.de/boa.pdf%23page=215">http://dhd2016.de/boa.pdf#page=215</ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3412">Blumtritt, J. and Rau, F. (2016): User-Experience von Spracharchiven: Eine Neubewertung der Interaktion von Archiv und Nutzern, in: Digital Humanities im deutschsprachigen Raum (DHd 2016), Leipzig. http://dhd2016.de/boa.pdf#page=215.</rs></bibl>
                     <bibl style="text-align:left;">CMDI and Metadata Curation task forces of the Standing Committee on CLARIN Technical Centres (2018): CMDI Best Practices, Version 1.1.1, 
-                        <rs type="bibl" ref="#bibl__3413"><rs type="bibl" ref="#bibl__2173"><ref target="https://github.com/clarin-eric/cmdi-best-practices/releases">https://github.com/clarin-eric/cmdi-best-practices/releases</ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3413">CMDI and Metadata Curation task forces of the Standing Committee on CLARIN Technical Centres (2018): CMDI Best Practices, Version 1.1.1, https://github.com/clarin-eric/cmdi-best-practices/releases.</rs></bibl>
                     <bibl>Mache, B., &amp; Klaffki, L. (2018): Das DARIAH-DE Repository. Elementarer Teil einer modularen Infrastruktur für geistes- und kulturwissenschaftliche Forschungsdaten, in: O-Bib. Das Offene Bibliotheksjournal / Herausgeber VDB, 5(3) 2018, 92-103. 
-                        <rs type="bibl" ref="#bibl__3414"><rs type="bibl" ref="#bibl__2174"><ref target="https://doi.org/10.5282/o-bib/2018H3S92-103">https://doi.org/10.5282/o-bib/2018H3S92-103</ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3414">Mache, B., &amp; Klaffki, L. (2018): Das DARIAH-DE Repository. Elementarer Teil einer modularen Infrastruktur für geistes- und kulturwissenschaftliche Forschungsdaten, in: O-Bib. Das Offene Bibliotheksjournal / Herausgeber VDB, 5(3) 2018, 92-103. https://doi.org/10.5282/o-bib/2018H3S92-103.</rs></bibl>
                     <bibl>Mueller, John (2008): Retiring support for OAI-PMH in Sitemaps. 
-                        <rs type="bibl" ref="#bibl__3415"><rs type="bibl" ref="#bibl__2175"><ref target="https://webmasters.googleblog.com/2008/04/retiring-support-for-oai-pmh-in.html">https://webmasters.googleblog.com/2008/04/retiring-support-for-oai-pmh-in.html</ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3415">Mueller, John (2008): Retiring support for OAI-PMH in Sitemaps. https://webmasters.googleblog.com/2008/04/retiring-support-for-oai-pmh-in.html.</rs></bibl>
                     <bibl>Schaffner, J. (2009): The Metadata is the Interface: Better Description for Better Discovery of Archives and Special Collections, Synthesized from User Studies, in: Report produced by OCLC Research. 
-                        <rs type="bibl" ref="#bibl__3416"><rs type="bibl" ref="#bibl__2176"><ref target="https://www.oclc.org/content/dam/research/publications/library/2009/2009-06.pdf">https://www.oclc.org/content/dam/research/publications/library/2009/2009-06.pdf</ref>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3416">Schaffner, J. (2009): The Metadata is the Interface: Better Description for Better Discovery of Archives and Special Collections, Synthesized from User Studies, in: Report produced by OCLC Research. https://www.oclc.org/content/dam/research/publications/library/2009/2009-06.pdf.</rs></bibl>
                 </listBibl>
             </div>
         </back>

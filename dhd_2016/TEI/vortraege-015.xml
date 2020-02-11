@@ -227,61 +227,22 @@
                                   <listBibl>
                                     <head>Bibliographie</head>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__3"><hi rend="bold">Berry, David M.</hi> (2011): „The computational turn:
-                                      Thinking about the digital humanities“, in: <hi rend="italic">Culture
-                                      Machine</hi> 12: 1-22.</rs></bibl>
-                                      <bibl><rs type="bibl" ref="#bibl__2905"><hi rend="bold">Burghardt, Manuel / Wolff, Christian / Womser-Hacker,
-                                        Christa</hi> (2015): „Informationswissenschaft und Digital Humanities“,
-                                        in: <hi rend="italic">Information – Wissenschaft &amp; Praxis</hi> 66, 5-6:
-                                        287–294.</rs></bibl>
-                                        <bibl><rs type="bibl" ref="#bibl__2906"><hi rend="bold">Ceccarelli, Diego / Gordea, Sergiu / Lucchese, Claudio /
-                                          Nardini, Franco Maria / Tolomei, Gabriele</hi> (2011): „Improving
-                                          Europeana Search Experience Using Query Logs“, in: <hi rend="italic">Proceedings oft he 15th International Conference on Theory and Practice
-                                          of Digital Libraries Research and Advanced Technology for Digital
-                                          Libraries</hi> 384-395.</rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__5"><hi rend="bold">Fuller, Matthew</hi> (2008): <hi rend="italic">Software
-                                          studies.</hi> A lexicon. MIT Press.</rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2907"><hi rend="bold">Gasteiner, Martin / Haber, Peter </hi>(eds.) (2010): <hi rend="italic">Digitale Arbeitstechniken für die Geistes- und
-                                          Kulturwissenschaften</hi>. Vienna: UTB. </rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2908"><hi rend="bold">Houghton, John W. / Steele, Colin / Margaret Henty</hi>:
-                                          (2004): „Research practices and scholarly communication in the digital
-                                          environment“, in: Grewal, Bhajan S. / Kumnick, Margarita (eds.): <hi rend="italic">Engaging the New World</hi>. Responses to the Knowledge
-                                          Economy.  Melbourne: Melbourne University Publishing 169-203.</rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__88"><hi rend="bold">Kemman, Max / Kleppe, Martijn / Scagliola Stef
-                                          </hi>(2014): „Just Google It - Digital Research Practices of Humanities
-                                          Scholars“, in: <hi rend="italic">Proceedings of the Digital Humanities
-                                          Congress</hi>.</rs></bibl>
-                                          <bibl><rs type="bibl" ref="#bibl__2909"><hi rend="bold">Müller, Hendrik / Sedley, Aaron / Elizabeth
-                                            Ferrall-Nunge</hi> (2014): "Survey research in HCI", in: Olson, Judith
-                                            S. / Kellogg, Wendy A. (eds.): <hi rend="italic">Ways of Knowing in
-                                            HCI</hi>. New York: Springer 229-266.</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2910"><hi rend="bold">Müller-Birn, Claudia</hi> (2015): <hi rend="italic">practices4humanities</hi>. Wissenschaftliche Forschungspraxis in den
-                                            Geisteswissenschaften <ref target="https://practices4humanities.wordpress.com/">https://practices4humanities.wordpress.com/</ref> [letzter Zugriff 09.
-                                            Februar 2016].</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2911"><hi rend="bold">Müller-Birn, Claudia / Schlegel, Alexa / Baillot, Anne /
-                                              Klawitter, Jana</hi> (im Druck): „Forschungspraxis in den
-                                              Geisteswissenschaften oder wie digital sind die Geisteswissenschaften?", in:
-                                              Baillot, Anne / Schnöpf, Markus (eds.): #bbdh – Berliner Beiträge zu den
-                                              Digital Humanities. Berlin.</rs></bibl>
+                                      <rs type="bibl" ref="#bibl__3">Berry, David M. (2011): „The computational turn: Thinking about the digital humanities“, in: Culture Machine 12: 1-22.</rs></bibl>
+                                      <bibl><rs type="bibl" ref="#bibl__2905">Burghardt, Manuel / Wolff, Christian / Womser-Hacker, Christa (2015): „Informationswissenschaft und Digital Humanities“, in: Information – Wissenschaft &amp; Praxis 66, 5-6: 287–294.</rs></bibl>
+                                        <bibl><rs type="bibl" ref="#bibl__2906">Ceccarelli, Diego / Gordea, Sergiu / Lucchese, Claudio / Nardini, Franco Maria / Tolomei, Gabriele (2011): „Improving Europeana Search Experience Using Query Logs“, in: Proceedings oft he 15th International Conference on Theory and Practice of Digital Libraries Research and Advanced Technology for Digital Libraries 384-395.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__5">Fuller, Matthew (2008): Software studies. A lexicon. MIT Press.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2907">Gasteiner, Martin / Haber, Peter (eds.) (2010): Digitale Arbeitstechniken für die Geistes- und Kulturwissenschaften. Vienna: UTB.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2908">Houghton, John W. / Steele, Colin / Margaret Henty: (2004): „Research practices and scholarly communication in the digital environment“, in: Grewal, Bhajan S. / Kumnick, Margarita (eds.): Engaging the New World. Responses to the Knowledge Economy. Melbourne: Melbourne University Publishing 169-203.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__88">Kemman, Max / Kleppe, Martijn / Scagliola Stef (2014): „Just Google It - Digital Research Practices of Humanities Scholars“, in: Proceedings of the Digital Humanities Congress.</rs></bibl>
+                                          <bibl><rs type="bibl" ref="#bibl__2909">Müller, Hendrik / Sedley, Aaron / Elizabeth Ferrall-Nunge (2014): "Survey research in HCI", in: Olson, Judith S. / Kellogg, Wendy A. (eds.): Ways of Knowing in HCI. New York: Springer 229-266.</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2910">Müller-Birn, Claudia (2015): practices4humanities. Wissenschaftliche Forschungspraxis in den Geisteswissenschaften https://practices4humanities.wordpress.com/ [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2911">Müller-Birn, Claudia / Schlegel, Alexa / Baillot, Anne / Klawitter, Jana (im Druck): „Forschungspraxis in den Geisteswissenschaften oder wie digital sind die Geisteswissenschaften?", in: Baillot, Anne / Schnöpf, Markus (eds.): #bbdh – Berliner Beiträge zu den Digital Humanities. Berlin.</rs></bibl>
                                               <bibl>
-                                                <rs type="bibl" ref="#bibl__2912"><hi rend="bold">Perkins, Jody / Dombrowski, Quinn / Borek, Luise / Schöch,
-                                                  Christof</hi> (2014): „Building bridges to the future of a distributed
-                                                  network: From DiRT categories to TaDiRAH, a methods taxonomy for digital
-                                                  humanities", in: <hi rend="italic">Proceedings of the International
-                                                  Conference on Dublin Core and Metadata Applications</hi>.</rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2912">Perkins, Jody / Dombrowski, Quinn / Borek, Luise / Schöch, Christof (2014): „Building bridges to the future of a distributed network: From DiRT categories to TaDiRAH, a methods taxonomy for digital humanities", in: Proceedings of the International Conference on Dublin Core and Metadata Applications.</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2913"><hi rend="bold">Stiller, Juliane / Thoden, Klaus / Leganovic, Oona / Heise,
-                                                      Christian / Höckendorff, Mareike / Gnadt, Timo</hi> (2015): <hi rend="italic">Nutzungsverhalten in den Digital Humanities</hi>.
-                                                      Technical Report. DARIAH-DE Projektdokumentation R 1.2.1/ M 7.6. <ref target="https://wiki.de.dariah.eu/display/publicde/Reports+and+Milestones">https://wiki.de.dariah.eu/display/publicde/Reports+and+Milestones</ref>
-                                                      [letzter Zugriff 09. Februar 2016].</rs></bibl>
-                                                      <bibl><rs type="bibl" ref="#bibl__2914"><hi rend="bold">Toms, Elaine G. / O’Brien, Heather L.</hi> (2008)
-                                                      „Understanding the information and communication technology needs of the
-                                                      e-humanist“, in: <hi rend="italic">Journal of Documentation</hi> 64, 1:
-                                                      102–130.</rs></bibl>
-                                                      <bibl><rs type="bibl" ref="#bibl__47"><hi rend="bold">Unsworth, John</hi> (2000): "Scholarly Primitives: What
-                                                      Methods Do Humanities Researchers Have in Common and How Might Our Tools
-                                                      Reflect This?", in: <hi rend="italic">Humanities Computing, Formal Methods,
-                                                      Experimental Practice</hi>. Symposium, Kings College, London.</rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2913">Stiller, Juliane / Thoden, Klaus / Leganovic, Oona / Heise, Christian / Höckendorff, Mareike / Gnadt, Timo (2015): Nutzungsverhalten in den Digital Humanities. Technical Report. DARIAH-DE Projektdokumentation R 1.2.1/ M 7.6. https://wiki.de.dariah.eu/display/publicde/Reports+and+Milestones [letzter Zugriff 09. Februar 2016].</rs></bibl>
+                                                      <bibl><rs type="bibl" ref="#bibl__2914">Toms, Elaine G. / O’Brien, Heather L. (2008) „Understanding the information and communication technology needs of the e-humanist“, in: Journal of Documentation 64, 1: 102–130.</rs></bibl>
+                                                      <bibl><rs type="bibl" ref="#bibl__47">Unsworth, John (2000): "Scholarly Primitives: What Methods Do Humanities Researchers Have in Common and How Might Our Tools Reflect This?", in: Humanities Computing, Formal Methods, Experimental Practice. Symposium, Kings College, London.</rs></bibl>
                                                     </listBibl>
                                                   </div>
                                                 </back>

@@ -133,16 +133,9 @@
                     <listBibl>
                       <head>Bibliographie</head>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2364"><hi rend="bold">Aehnlich, Barbara</hi> (2016): <hi rend="italic">Sprachwissenschaftliche Untersuchungen zum Klagspiegel Conrad Heydens
-                        (1436) und zum Laienspiegel Ulrich Tenglers (1509)</hi>. Universität
-                        Jena <ref target="http://www.sprachwissenschaft.uni-jena.de/Lehrbereiche/Geschichte+der+deutschen+Sprache/Dr_+Barbara+Aehnlich/Projekt-p-1881.html">http://www.sprachwissenschaft.uni-jena.de/Lehrbereiche/Geschichte+der+deutschen+Sprache/Dr_+Barbara+Aehnlich/Projekt-p-1881.html</ref>
-                        [letzter Zugriff 28. Januar 2016]. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2364">Aehnlich, Barbara (2016): Sprachwissenschaftliche Untersuchungen zum Klagspiegel Conrad Heydens (1436) und zum Laienspiegel Ulrich Tenglers (1509). Universität Jena http://www.sprachwissenschaft.uni-jena.de/Lehrbereiche/Geschichte+der+deutschen+Sprache/Dr_+Barbara+Aehnlich/Projekt-p-1881.html [letzter Zugriff 28. Januar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__253"><hi rend="bold">Bremer, Thomas / Molitor, Paul / Ritter, Jörg / Solms,
-                            Hans-Joachim (eds.)</hi> (2012-2015): <hi rend="italic">SaDA</hi>.
-                            Semi-automatische Differenzanalyse von komplexen Textvarianten.
-                            Martin-Luther-Universität Halle <ref target="http://www.informatik.uni-halle.de/ti/forschung/ehumanities/sada/">http://www.informatik.uni-halle.de/ti/forschung/ehumanities/sada/</ref>
-                            [letzter Zugriff 08. Januar 2016].</rs></bibl>
+                          <rs type="bibl" ref="#bibl__253">Bremer, Thomas / Molitor, Paul / Ritter, Jörg / Solms, Hans-Joachim (eds.) (2012-2015): SaDA. Semi-automatische Differenzanalyse von komplexen Textvarianten. Martin-Luther-Universität Halle http://www.informatik.uni-halle.de/ti/forschung/ehumanities/sada/ [letzter Zugriff 08. Januar 2016].</rs></bibl>
                           </listBibl>
                         </div>
                       </back>

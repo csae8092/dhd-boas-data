@@ -135,33 +135,15 @@
             <div type="bibliogr">
               <listBibl>
                 <head>Bibliographie</head>
-                <bibl><rs type="bibl" ref="#bibl__126"><hi rend="bold">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. </hi>
-                (2003): "Latent dirichlet allocation", in: <hi rend="italic">The Journal of
-                machine Learning research</hi> 3: 993-1022. </rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2029"><hi rend="bold">CLARIN-D / SfS-Uni. Tübingen</hi> (2012): <hi rend="italic">WebLicht</hi>. Web-Based Linguistic Chaining Tool <ref target="https://weblicht.sfs.uni-tuebingen.de">https://weblicht.sfs.uni-tuebingen.de</ref> [letzter Zugriff 11.
-                Februar 2016].</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2030"><hi rend="bold">Drouin, Jeff</hi> (2011): "Foray Into Topic Modeling", in:
-                <hi rend="italic">Ecclesiastical Proust Archive</hi>
-                <ref target="http://www.proustarchive.org/?q=node/35">http://www.proustarchive.org/?q=node/35</ref> [letzter Zugriff 11.
-                  Februar 2016]. </rs></bibl>
-                  <bibl><rs type="bibl" ref="#bibl__2031"><hi rend="bold">Goldstone, Andrew</hi> (2013-2015): <hi rend="italic">DFR-browser</hi>
-                  <ref target="http://agoldst.github.io/dfr-browser/">http://agoldst.github.io/dfr-browser</ref> [letzter Zugriff 11. Februar
-                    2016].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__126">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. (2003): "Latent dirichlet allocation", in: The Journal of machine Learning research 3: 993-1022.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2029">CLARIN-D / SfS-Uni. Tübingen (2012): WebLicht. Web-Based Linguistic Chaining Tool https://weblicht.sfs.uni-tuebingen.de [letzter Zugriff 11. Februar 2016].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2030">Drouin, Jeff (2011): "Foray Into Topic Modeling", in: Ecclesiastical Proust Archive http://www.proustarchive.org/?q=node/35 [letzter Zugriff 11. Februar 2016].</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__2031">Goldstone, Andrew (2013-2015): DFR-browser http://agoldst.github.io/dfr-browser [letzter Zugriff 11. Februar 2016].</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2032"><anchor xml:id="id_docs-internal-guid-91cfa335-6694-8982-a57a-295caa5e2f7f"/><hi rend="bold">Grifﬁths, Thomas / Steyvers, Mark</hi> (2004):
-                        "Finding scientific topics", in:  <hi rend="italic">Proceedings of the
-                        National Academy of Sciences</hi> 101 (Suppl 1): 5228–5235 <ref target="www.pnas.org/content/101/suppl_1/5228.full.pdf">www.pnas.org/content/101/suppl_1/5228.full.pdf</ref> [letzter Zugriff
-                        11. Februar 2016].</rs></bibl>
+                      <rs type="bibl" ref="#bibl__2032">Grifﬁths, Thomas / Steyvers, Mark (2004): "Finding scientific topics", in: Proceedings of the National Academy of Sciences 101 (Suppl 1): 5228–5235 www.pnas.org/content/101/suppl_1/5228.full.pdf [letzter Zugriff 11. Februar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2033"><anchor xml:id="id_docs-internal-guid-91cfa335-6694-be6f-338b-6790943f5c4c"/><hi rend="bold">Jockers, Matthew</hi> (2010): "Who's your DH Blog
-                            Mate: Match-Making the Day of DH Bloggers with Topic Modeling", in: Matthew
-                            Jockers: <hi rend="italic">Homepage</hi>
-                            <ref target="http://www.matthewjockers.net/2010/03/19/whos-your-dh-blog-mate-match-making-the-day-of-dh-bloggers-with-topic-modeling/">http://www.matthewjockers.net/2010/03/19/whos-your-dh-blog-mate-match-making-the-day-of-dh-bloggers-with-topic-modeling</ref>
-                              [letzter Zugriff 11. Februar 2016]. </rs></bibl>
-                              <bibl><rs type="bibl" ref="#bibl__2034"><hi rend="bold">Storrer, Angelika et al.</hi> (2012-2015): <hi rend="italic">KobRA</hi>. Korpus-basierte Recherche und Analyse mit
-                              Hilfe von Data-Mining <ref target="http://kobra.tu-dortmund.de/mediawiki/">
-                              http://kobra.tu-dortmund.de/mediawiki/</ref> [letzter Zugriff 11.
-                              Februar 2016].</rs></bibl>
+                          <rs type="bibl" ref="#bibl__2033">Jockers, Matthew (2010): "Who's your DH Blog Mate: Match-Making the Day of DH Bloggers with Topic Modeling", in: Matthew Jockers: Homepage http://www.matthewjockers.net/2010/03/19/whos-your-dh-blog-mate-match-making-the-day-of-dh-bloggers-with-topic-modeling [letzter Zugriff 11. Februar 2016].</rs></bibl>
+                              <bibl><rs type="bibl" ref="#bibl__2034">Storrer, Angelika et al. (2012-2015): KobRA. Korpus-basierte Recherche und Analyse mit Hilfe von Data-Mining http://kobra.tu-dortmund.de/mediawiki/ [letzter Zugriff 11. Februar 2016].</rs></bibl>
                             </listBibl>
                           </div>
                         </back>

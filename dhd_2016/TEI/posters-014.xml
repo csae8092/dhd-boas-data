@@ -119,14 +119,9 @@
           <listBibl>
             <head>Bibliographie</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__52"><hi rend="bold">Moretti, Franco</hi> (2000): "Conjectures on World
-              Literature", in: <hi rend="italic">New Left Review</hi> 1: 54–68.</rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__123"><hi rend="bold">Moretti, Franco</hi> (2005): <hi rend="italic">Maps,
-              Graphs, Trees</hi>. Abstract Models for a Literary History. London / New
-              York: Verso. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2084"><hi rend="bold">Trilcke, Peer / Fischer, Frank / Kampkaspar, Dario</hi>
-              (2015): "Digitale Netzwerkanalyse dramatischer Texte (Vortrag)", in: <hi rend="italic">Tagung der Digital Humanities im deutschsprachigen
-              Raum</hi>, Graz. Slides: <ref target="http://gams.uni-graz.at/o:dhd2015.v.040">http://gams.uni-graz.at/o:dhd2015.v.040</ref>.</rs></bibl>
+              <rs type="bibl" ref="#bibl__52">Moretti, Franco (2000): "Conjectures on World Literature", in: New Left Review 1: 54–68.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__123">Moretti, Franco (2005): Maps, Graphs, Trees. Abstract Models for a Literary History. London / New York: Verso.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2084">Trilcke, Peer / Fischer, Frank / Kampkaspar, Dario (2015): "Digitale Netzwerkanalyse dramatischer Texte (Vortrag)", in: Tagung der Digital Humanities im deutschsprachigen Raum, Graz. Slides: http://gams.uni-graz.at/o:dhd2015.v.040.</rs></bibl>
             </listBibl>
           </div>
         </back>

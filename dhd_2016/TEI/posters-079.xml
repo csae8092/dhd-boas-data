@@ -245,186 +245,59 @@
         <listBibl>
           <head>Bibliographie</head>
           <bibl>
-            <rs type="bibl" ref="#bibl__2586"><hi rend="bold">Biber Hanno / Breiteneder, Evelyn / Dobrovol’skij, Dmitrij</hi>
-            (2002): ''Corpus-based study of collocations in the AAC'', in: Braasch, Anna / Povlsen, Claus (eds.):
-            <hi rend="italic">Proceedings of the Tenth EURALEX International Congress, Vol. 1.</hi>
-            Center for Sprogtknologi, Kopenhagen.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2586">Biber Hanno / Breiteneder, Evelyn / Dobrovol’skij, Dmitrij (2002): ''Corpus-based study of collocations in the AAC'', in: Braasch, Anna / Povlsen, Claus (eds.): Proceedings of the Tenth EURALEX International Congress, Vol. 1. Center for Sprogtknologi, Kopenhagen.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2587"><hi rend="bold">Björkelund, Anders / Farkas, Richárd </hi>
-            (2012): ''Data-driven Multilingual Coreference Resolution using Resolver Stacking'', in:
-            <hi rend="italic">Joint Conference on EMNLP and CoNLL - Shared Task</hi>
-            , Jeju Island, Korea. ACL 49–55.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2587">Björkelund, Anders / Farkas, Richárd (2012): ''Data-driven Multilingual Coreference Resolution using Resolver Stacking'', in: Joint Conference on EMNLP and CoNLL - Shared Task , Jeju Island, Korea. ACL 49–55.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2588"><hi rend="bold">Dobrovol’skij, Dmitrij</hi>
-            (2014): ''Russkie obrašcenija v parallel’nych korpusach'', in:
-            <hi rend="italic">Die Welt der Slaven</hi>
-            , LIX, 1: 1-21.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2588">Dobrovol’skij, Dmitrij (2014): ''Russkie obrašcenija v parallel’nych korpusach'', in: Die Welt der Slaven , LIX, 1: 1-21.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2589"><hi rend="bold">Dolan, William B. / Brockett, Chris</hi>
-            (2005): ''Automatically constructing a corpus of sentential paraphrases'',
-            in:
-            <hi rend="italic">Third International Workshop on Paraphrasing (IWP2005).</hi>
-            Asia Federation of Natural Language Processing.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2589">Dolan, William B. / Brockett, Chris (2005): ''Automatically constructing a corpus of sentential paraphrases'', in: Third International Workshop on Paraphrasing (IWP2005). Asia Federation of Natural Language Processing.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2590"><hi rend="bold">Dostojewskij, Fjodor M.</hi>
-            (1924):
-            <hi rend="italic">Verbrechen und Strafe </hi>
-            (Übersetzung von Alexander Eliasberg)
-            <hi rend="italic">.</hi>
-            Potsdam: Gustav Kiepenheuer Verlag.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2590">Dostojewskij, Fjodor M. (1924): Verbrechen und Strafe (Übersetzung von Alexander Eliasberg) . Potsdam: Gustav Kiepenheuer Verlag.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2591"><hi rend="bold">Dostojewskij, Fjodor M. (</hi>
-            1956):
-            <hi rend="italic">Schuld und Sühne </hi>
-            (Übersetzung von Hermann Röhl). Berlin:
-            Aufbau Verlag.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2591">Dostojewskij, Fjodor M. ( 1956): Schuld und Sühne (Übersetzung von Hermann Röhl). Berlin: Aufbau Verlag.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2592"><hi rend="bold">Dostojewskij, Fjodor M.</hi>
-            (2010):
-            <hi rend="italic">Verbrechen und Strafe </hi>
-            (Übersetzung von Swetlana Geier).
-            Frankfurt am Mian: Fischer Taschenbuch Verlag.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2592">Dostojewskij, Fjodor M. (2010): Verbrechen und Strafe (Übersetzung von Swetlana Geier). Frankfurt am Mian: Fischer Taschenbuch Verlag.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2593"><hi rend="bold">Faruqui, Manaal / Padó, Sebastian</hi>
-            (2010): ''Training and evaluating a German named entity recognizer with semantic generalization'',
-            in:
-            <hi rend="italic">Proceedings of KONVENS 2010</hi>
-            , Saarbrücken, Germany.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2593">Faruqui, Manaal / Padó, Sebastian (2010): ''Training and evaluating a German named entity recognizer with semantic generalization'', in: Proceedings of KONVENS 2010 , Saarbrücken, Germany.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__132"><hi rend="bold">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher</hi>
-            (2005): ''Incorporating non-local information into information extraction systems by gibbs sampling'',
-            in:
-            <hi rend="italic">Proceedings of the 43rd Annual Meeting on ACL</hi>
-            , ACL ’05, Stroudsburg, PA, USA. ACL 363–370.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__132">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher (2005): ''Incorporating non-local information into information extraction systems by gibbs sampling'', in: Proceedings of the 43rd Annual Meeting on ACL , ACL ’05, Stroudsburg, PA, USA. ACL 363–370.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2594"><hi rend="bold">Ganitkevitch, Juri / Van Durme, Benjamin / Callison-Burch, Chris </hi>
-            (2013): ''PPDB: The paraphrase database'',
-            in:
-            <hi rend="italic">Proceedings of NAACL-HLT</hi>
-            , Atlanta, Georgia, June. ACL.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2594">Ganitkevitch, Juri / Van Durme, Benjamin / Callison-Burch, Chris (2013): ''PPDB: The paraphrase database'', in: Proceedings of NAACL-HLT , Atlanta, Georgia, June. ACL.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2595"><hi rend="bold">Grishina, Yulia / Stede, Manfred</hi>
-            (2015): ''Knowledgelean projection of coreference chains across languages'',
-            in:
-            <hi rend="italic">Proceedings of the Eight Workshop on Building and Using Comparable Corpora</hi>
-            , Beijing, China. ACL.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2595">Grishina, Yulia / Stede, Manfred (2015): ''Knowledgelean projection of coreference chains across languages'', in: Proceedings of the Eight Workshop on Building and Using Comparable Corpora , Beijing, China. ACL.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2596"><hi rend="bold">Kobdani, Hamidreza / Schütze, Hinrich / Schiehlen, Michael / Kamp, Hans</hi>
-            (2011): ''Bootstrapping coreference resolution using word associations'',
-            in:
-            <hi rend="italic">Proceedings of the 49th Annual Meeting of the ACL: Human Language Technologies</hi>
-            , Portland, Oregon, USA, June. ACL 783–792.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2596">Kobdani, Hamidreza / Schütze, Hinrich / Schiehlen, Michael / Kamp, Hans (2011): ''Bootstrapping coreference resolution using word associations'', in: Proceedings of the 49th Annual Meeting of the ACL: Human Language Technologies , Portland, Oregon, USA, June. ACL 783–792.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2597"><hi rend="bold">Nivre, Joakim / Hall, Johan / Nilsson, Jens / Chanev, Atanas / Eryigit, Gülsen / Kübler, Sandra / Marinov, Svetoslav / Marsi, Erwin</hi>
-            (2007): ''MaltParser: A Language-Independent System for Data-Driven Dependency Parsing'', in:
-            <hi rend="italic">Natural Language Engineering</hi>
-            13, 2: 95–135.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2597">Nivre, Joakim / Hall, Johan / Nilsson, Jens / Chanev, Atanas / Eryigit, Gülsen / Kübler, Sandra / Marinov, Svetoslav / Marsi, Erwin (2007): ''MaltParser: A Language-Independent System for Data-Driven Dependency Parsing'', in: Natural Language Engineering 13, 2: 95–135.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2598"><hi rend="bold">Och, Franz Josef / Ney, Hermann</hi>
-            (2003): ''A systematic comparison of various statistical alignment models'',
-            <hi rend="italic">Computational Linguistics</hi>
-            29, 1: 19–51.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2598">Och, Franz Josef / Ney, Hermann (2003): ''A systematic comparison of various statistical alignment models'', Computational Linguistics 29, 1: 19–51.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2599"><hi rend="bold">Postolache, Oana / Cristea, Dan / Orasan, Constantin</hi>
-            (2006): ''Transferring coreference chains through word alignment'', in:
-            <hi rend="italic">Proceedings of the 5th International Conference on Language Resources and Evaluation.</hi>
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2599">Postolache, Oana / Cristea, Dan / Orasan, Constantin (2006): ''Transferring coreference chains through word alignment'', in: Proceedings of the 5th International Conference on Language Resources and Evaluation.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2600"><hi rend="bold">Pradhan, Sameer / Ramshaw, Lance / Marcus, Mitchell / Palmer, Martha / Weischedel, Ralph / Xue, Nianwen</hi>
-            (2011): ''CoNLL-2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes'',
-            in:
-            <hi rend="italic">Proceedings of the CoNLL 2011: Shared Task</hi>
-            , Portland, Oregon, USA. ACL.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2600">Pradhan, Sameer / Ramshaw, Lance / Marcus, Mitchell / Palmer, Martha / Weischedel, Ralph / Xue, Nianwen (2011): ''CoNLL-2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes'', in: Proceedings of the CoNLL 2011: Shared Task , Portland, Oregon, USA. ACL.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2601"><hi rend="bold">Pradhan, Sameer / Moschitti, Alessandro / Xue, Nianwen / Uryupina, Olga / Zhang, Yuchen</hi>
-            (2012): ''CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes'',
-            in:
-            <hi rend="italic">Joint Conference on EMNLP and CoNLL - Shared Task</hi>
-            , Jeju Island, Korea. ACL.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2601">Pradhan, Sameer / Moschitti, Alessandro / Xue, Nianwen / Uryupina, Olga / Zhang, Yuchen (2012): ''CoNLL-2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes'', in: Joint Conference on EMNLP and CoNLL - Shared Task , Jeju Island, Korea. ACL.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2602"><hi rend="bold">Rafferty, Anna / Manning, Christopher D.</hi>
-            (2008): ''Parsing three German treebanks: Lexicalized and unlexicalized baselines'',
-            in:
-            <hi rend="talic">Proceedings of the Workshop on Parsing German,</hi>
-            Columbus, Ohio, June. ACL 40–46.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2602">Rafferty, Anna / Manning, Christopher D. (2008): ''Parsing three German treebanks: Lexicalized and unlexicalized baselines'', in: Proceedings of the Workshop on Parsing German, Columbus, Ohio, June. ACL 40–46.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2603"><hi rend="old">Rahman, Altaf / Ng, Vincent</hi>
-            (2012): ''Translation-based projection for multilingual coreference resolution'',
-            in:
-            <hi rend="italic">Proceedings of NACL:HLT 2012</hi>
-            , Montréal. ACL.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2603">Rahman, Altaf / Ng, Vincent (2012): ''Translation-based projection for multilingual coreference resolution'', in: Proceedings of NACL:HLT 2012 , Montréal. ACL.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2604"><hi rend="bold">Recasens, Marta / Màrquez, Lluís / Sapena, Emili / Martí, M. Antònia / Taulé, Mariona / Hoste, Véronique / Poesio, Massimo / Versley, Yannick</hi>
-            (2010): ''SemEval-2010 task 1: Coreference resolution in multiple languages'',
-            in:
-            <hi rend="italic">Proceedings of SemEval 2010</hi>
-            , Uppsala, Sweden. ACL.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2604">Recasens, Marta / Màrquez, Lluís / Sapena, Emili / Martí, M. Antònia / Taulé, Mariona / Hoste, Véronique / Poesio, Massimo / Versley, Yannick (2010): ''SemEval-2010 task 1: Coreference resolution in multiple languages'', in: Proceedings of SemEval 2010 , Uppsala, Sweden. ACL.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__147"><hi rend="bold">Schmid, Helmut</hi>
-            (1994): ''Probabilistic part-of-speech tagging using decision trees'',
-            in:
-            <hi rend="italic">International Conference on New Methods in Language Processing</hi>
-            , Manchester, UK.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__147">Schmid, Helmut (1994): ''Probabilistic part-of-speech tagging using decision trees'', in: International Conference on New Methods in Language Processing , Manchester, UK.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2605"><hi rend="bold">Schmid, Helmut (</hi>
-            1995): ''Improvements in Part-of-Speech Tagging with an Application to German'',
-            in:
-            <hi rend="italic">Workshop of the Special Interest Group for Linguistic Data and Corpus-based Approaches to Natural Language Processing (EACL 1995 SIGDAT-Workshop)</hi>
-            47–50.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2605">Schmid, Helmut ( 1995): ''Improvements in Part-of-Speech Tagging with an Application to German'', in: Workshop of the Special Interest Group for Linguistic Data and Corpus-based Approaches to Natural Language Processing (EACL 1995 SIGDAT-Workshop) 47–50.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2606"><hi rend="bold">Sharoff, Serge / Nivre, Joakim </hi>
-            (2011): ''The proper place of men and machines in language technology. Processing russian without any linguistic knowledge'',
-            in:
-            <hi rend="italic">Proceedings of the International Conference on Computational Linguistics and Artificial Intelligence Dialog 2011,</hi>
-            Moscow.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2606">Sharoff, Serge / Nivre, Joakim (2011): ''The proper place of men and machines in language technology. Processing russian without any linguistic knowledge'', in: Proceedings of the International Conference on Computational Linguistics and Artificial Intelligence Dialog 2011, Moscow.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2607"><hi rend="bold">Souza, Jose Guilherme Camargo / Orasan, Constantin</hi>
-            (2011): ''Can projected chains in parallel corpora help coreference resolution?'', in: Hendrickx, Iris / Devi, Sobha Lalitha / Branco, Antonio / Mitkov, Ruslan (eds.):
-            <hi rend="italic">Anaphora Processing and Applications</hi>
-            (= Lecture Notes in Computer Science 7099).
-            Berlin / Heidelberg: Springer.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2607">Souza, Jose Guilherme Camargo / Orasan, Constantin (2011): ''Can projected chains in parallel corpora help coreference resolution?'', in: Hendrickx, Iris / Devi, Sobha Lalitha / Branco, Antonio / Mitkov, Ruslan (eds.): Anaphora Processing and Applications (= Lecture Notes in Computer Science 7099). Berlin / Heidelberg: Springer.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2608"><hi rend="bold">Zhekova, Desislava</hi>
-            (2013)
-            <hi rend="italic">Towards Multilingual Coreference Resolution</hi>
-            . Ph.D. thesis, University of Bremen.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2608">Zhekova, Desislava (2013) Towards Multilingual Coreference Resolution . Ph.D. thesis, University of Bremen.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2609"><hi rend="bold">Zhekova, Desislava / Zangenfeind, Robert / Mikhaylova, Alena / Nikolaienko, Tetiana</hi>
-            (2014): ''Alignment of Multiple Translations for Linguistic Analysis'',
-            in:
-            <hi rend="italic">Proceedings of the The 3rd Annual International Conference on Language, Literature and Linguistics (L3)</hi>
-            , Bangkok, Thailand.
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2609">Zhekova, Desislava / Zangenfeind, Robert / Mikhaylova, Alena / Nikolaienko, Tetiana (2014): ''Alignment of Multiple Translations for Linguistic Analysis'', in: Proceedings of the The 3rd Annual International Conference on Language, Literature and Linguistics (L3) , Bangkok, Thailand.</rs></bibl>
           <bibl>
-            <rs type="bibl" ref="#bibl__2610"><hi rend="bold">Zhekova, Desislava / Zangenfeind, Robert / Mikhaylova, Alena / Nikolaienko, Tetiana</hi>
-            (2015): ''Sentence-Alignment and Application of Russian-German Multi-Target Parallel Corpora for Linguistic Analysis and Literary Studies'', in: Portela, Manuel (ed.):
-            <hi rend="italic">Digital Literary Studies</hi>
-            3 (to appear).
-          </rs></bibl>
+            <rs type="bibl" ref="#bibl__2610">Zhekova, Desislava / Zangenfeind, Robert / Mikhaylova, Alena / Nikolaienko, Tetiana (2015): ''Sentence-Alignment and Application of Russian-German Multi-Target Parallel Corpora for Linguistic Analysis and Literary Studies'', in: Portela, Manuel (ed.): Digital Literary Studies 3 (to appear).</rs></bibl>
         </listBibl>
       </div>
     </back>

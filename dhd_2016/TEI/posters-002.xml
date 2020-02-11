@@ -150,10 +150,7 @@
       <div type="bibliogr">
         <listBibl>
           <head>Bibliographie</head>
-          <bibl><rs type="bibl" ref="#bibl__1787"><hi rend="bold">ICARUS = International Centre for Archival Research</hi>
-          (2001-2016): <hi rend="italic">Monasterium.net</hi>. Virtuelles
-          Urkundenarchiv <ref target="http://icar-us.eu/cooperation/online-portals/monasterium-net">http://icar-us.eu/cooperation/online-portals/monasterium-net</ref>.
-        </rs></bibl>
+          <bibl><rs type="bibl" ref="#bibl__1787">ICARUS = International Centre for Archival Research (2001-2016): Monasterium.net. Virtuelles Urkundenarchiv http://icar-us.eu/cooperation/online-portals/monasterium-net.</rs></bibl>
       </listBibl>
     </div>
   </body>

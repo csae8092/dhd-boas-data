@@ -261,55 +261,27 @@
                                 <div type="bibliogr">
                                   <listBibl>
                                     <head>Bibliographie</head>
-                                    <bibl><rs type="bibl" ref="#bibl__2206"><hi rend="bold">Focus</hi> (25.05.2015): "Henkel Favorit für
-                                    Wella-Übernahme - Wert: 5,5 bis 7,0 Milliarden Dollar" <ref target="http://www.focus.de/finanzen/news/wirtschaftsticker/kreise-henkel-favorit-fuer-wella-uebernahme-wert-5-5-bis-7-0-milliarden-dollar_id_4705463.html">http://www.focus.de/finanzen/news/wirtschaftsticker/kreise-henkel-favorit-fuer-wella-uebernahme-wert-5-5-bis-7-0-milliarden-dollar_id_4705463.html</ref>
-                                    [letzter Zugriff 05. Oktober 2015]. </rs></bibl>
+                                    <bibl><rs type="bibl" ref="#bibl__2206">Focus (25.05.2015): "Henkel Favorit für Wella-Übernahme - Wert: 5,5 bis 7,0 Milliarden Dollar" http://www.focus.de/finanzen/news/wirtschaftsticker/kreise-henkel-favorit-fuer-wella-uebernahme-wert-5-5-bis-7-0-milliarden-dollar_id_4705463.html [letzter Zugriff 05. Oktober 2015].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2207"><anchor type="bookmark-start" xml:id="id__GoBack"/>
-                                      <hi rend="bold">Gross, Maurice</hi> (1997): "The Construction of Local
-                                      Grammars", in: Roche, Emmanuel / Schabès, Yves (eds.): <hi rend="italic">Finite-State Language Processing</hi>. Cambridge, Massachusetts, USA:
-                                      MIT Press 329–354. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2207">Gross, Maurice (1997): "The Construction of Local Grammars", in: Roche, Emmanuel / Schabès, Yves (eds.): Finite-State Language Processing. Cambridge, Massachusetts, USA: MIT Press 329–354.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2208"><hi rend="bold">Guenthner, Franz / Maier, Petra</hi> (eds.) (1994): <hi rend="italic">Das CISLEX Wörterbuchsystem</hi>. München. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2208">Guenthner, Franz / Maier, Petra (eds.) (1994): Das CISLEX Wörterbuchsystem. München.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2209"><hi rend="bold">Hoffjann, Olaf</hi> (2014): "Presse- und Medienarbeit in der
-                                          Unternehmenskommunikation", in: Zerfaß, Ansgar / Piwinger, Manfred (eds.):
-                                          <hi rend="italic">Handbuch Unternehmenskommunikation</hi>. Wiesbaden:
-                                          Springer 671-690. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2209">Hoffjann, Olaf (2014): "Presse- und Medienarbeit in der Unternehmenskommunikation", in: Zerfaß, Ansgar / Piwinger, Manfred (eds.): Handbuch Unternehmenskommunikation. Wiesbaden: Springer 671-690.</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2210"><hi rend="bold">Hogenboom, Frederik / Frasincar, Flavius / Kaymak, Uzay / de
-                                              Jong, Franciska</hi> (2011): "An overview of event extraction from
-                                              text", in: <hi rend="italic">Proceedings of Detection, Representation, and
-                                              Exploitation of Events in the Semantic Web (DeRiVE 2011)</hi>. Workshop
-                                              in conjunction with the 10th International Semantic Web Conference 2011
-                                              (ISWC 2011), Bonn, Germany, October 23, 2011: 48–57. </rs></bibl>
-                                              <bibl><rs type="bibl" ref="#bibl__2211"><hi rend="bold">Institut für Deutsche Sprache (IDS)</hi> (o.J.): <hi rend="italic">Cosmas II</hi>. Corpus Search, Management and Analysis
-                                              System <ref target="http://www.ids-mannheim.de/cosmas2/">http://www.ids-mannheim.de/cosmas2</ref> [letzter Zugriff 05. Oktober
-                                              2015].</rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2210">Hogenboom, Frederik / Frasincar, Flavius / Kaymak, Uzay / de Jong, Franciska (2011): "An overview of event extraction from text", in: Proceedings of Detection, Representation, and Exploitation of Events in the Semantic Web (DeRiVE 2011). Workshop in conjunction with the 10th International Semantic Web Conference 2011 (ISWC 2011), Bonn, Germany, October 23, 2011: 48–57.</rs></bibl>
+                                              <bibl><rs type="bibl" ref="#bibl__2211">Institut für Deutsche Sprache (IDS) (o.J.): Cosmas II. Corpus Search, Management and Analysis System http://www.ids-mannheim.de/cosmas2 [letzter Zugriff 05. Oktober 2015].</rs></bibl>
                                               <bibl>
-                                                <rs type="bibl" ref="#bibl__2212"><hi rend="bold">Mallchok, Friederike</hi> (2004): <hi rend="italic">Automatic Recognition of Organization Names in English Business
-                                                News</hi>. München: Ludwig-Maximilians-Universität München. </rs></bibl>
+                                                <rs type="bibl" ref="#bibl__2212">Mallchok, Friederike (2004): Automatic Recognition of Organization Names in English Business News. München: Ludwig-Maximilians-Universität München.</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2213"><hi rend="bold">Nagel, Sebastian</hi> (2008): <hi rend="italic">Lokale
-                                                  Grammatiken zur Beschreibung von lokativen Sätzen und ihre Anwendung im
-                                                  Information Retrieval</hi>. München: Ludwig-Maximilians-Universität
-                                                  München. </rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2213">Nagel, Sebastian (2008): Lokale Grammatiken zur Beschreibung von lokativen Sätzen und ihre Anwendung im Information Retrieval. München: Ludwig-Maximilians-Universität München.</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2214"><hi rend="bold">Nassirtoussi, Arman Khadjeh / Aghabozorgi, Saeed / Wah, Teh
-                                                      Ying / Chek Ling Ngo, David</hi> (2014): "Text mining for market
-                                                      prediction: A systematic review", in: <hi rend="italic">Expert Systems with
-                                                      Applications</hi> 41,16: 7653–7670. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2214">Nassirtoussi, Arman Khadjeh / Aghabozorgi, Saeed / Wah, Teh Ying / Chek Ling Ngo, David (2014): "Text mining for market prediction: A systematic review", in: Expert Systems with Applications 41,16: 7653–7670.</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2215"><hi rend="bold">Palmieri, Rudi</hi> (2014): <hi rend="italic">Corporate
-                                                        argumentation in takeover bids</hi>. Amsterdam / Philadelphia: John
-                                                        Benjamins. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2215">Palmieri, Rudi (2014): Corporate argumentation in takeover bids. Amsterdam / Philadelphia: John Benjamins.</rs></bibl>
                                                         <bibl>
-                                                          <rs type="bibl" ref="#bibl__2216"><hi rend="bold">Saurì, Roser / Pustejovsky, James</hi> (2012). "Are You Sure
-                                                          That This Happened? Assessing the Factuality Degree of Events in Text", in:
-                                                          <hi rend="italic">Computational Linguistics</hi> 35, 1: 1–39. </rs></bibl>
-                                                          <bibl><rs type="bibl" ref="#bibl__2217"><hi rend="bold">Université Paris-Est Marne-la-Vallée</hi> (o.J.): <hi rend="italic">Unitex</hi>
-                                                          <ref target="http://igm.univ-mlv.fr/~unitex/UnitexManual3.1.pdf">http://igm.univ-mlv.fr/~unitex/UnitexManual3.1.pdf</ref> [letzter
-                                                            Zugriff 05. Oktober 2015].</rs></bibl>
+                                                          <rs type="bibl" ref="#bibl__2216">Saurì, Roser / Pustejovsky, James (2012). "Are You Sure That This Happened? Assessing the Factuality Degree of Events in Text", in: Computational Linguistics 35, 1: 1–39.</rs></bibl>
+                                                          <bibl><rs type="bibl" ref="#bibl__2217">Université Paris-Est Marne-la-Vallée (o.J.): Unitex http://igm.univ-mlv.fr/~unitex/UnitexManual3.1.pdf [letzter Zugriff 05. Oktober 2015].</rs></bibl>
                                                           </listBibl>
                                                         </div>
                                                       </back>

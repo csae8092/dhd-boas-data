@@ -129,15 +129,10 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__33"><rs type="bibl" ref="#bibl__26"><hi rend="bold">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): “An End-to-end Environment for Research Question-Driven Entity Extraction and Network Analysis”, in: 
-                        <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, 57–67, Vancouver, Canada. Association for Computational Linguistics.
-                    </rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__83"><rs type="bibl" ref="#bibl__679"><hi rend="bold">Jannidis, Fotis / Krug, Markus / Toepfer, Martin / Puppe, Frank / Reger, Isabelle / Weimer, Lukas </hi>(2015): “Automatische Erkennung von Figuren in deutschsprachigen Romanen“. Abstract für die DHd 2015 in Graz.</rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__773"><rs type="bibl" ref="#bibl__680"><hi rend="bold">Kuhn, Jonas / Alexiadou, Artemis / Braun, Manuel / Ertl, Thomas / Holtz, Sabine / Kantner, Catleen, . . . Zittel, Claus </hi>(2016): “CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities“. Abstract für die DHd 2016 in Leipzig.</rs></rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__774"><rs type="bibl" ref="#bibl__681"><hi rend="bold">Nadeau, David / Sekine, Satoshi </hi>(2007): “A survey of named entity recognition and classification. 
-                        <hi rend="italic">Linguisticae Investigationes”</hi>, 
-                        <hi rend="italic">30</hi>, 3-26.
-                    </rs></rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__33">Blessing, Andre / Echelmeyer, Nora / John, Markus / Reiter, Nils (2017): “An End-to-end Environment for Research Question-Driven Entity Extraction and Network Analysis”, in: Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, 57–67, Vancouver, Canada. Association for Computational Linguistics.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__83">Jannidis, Fotis / Krug, Markus / Toepfer, Martin / Puppe, Frank / Reger, Isabelle / Weimer, Lukas (2015): “Automatische Erkennung von Figuren in deutschsprachigen Romanen“. Abstract für die DHd 2015 in Graz.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__773">Kuhn, Jonas / Alexiadou, Artemis / Braun, Manuel / Ertl, Thomas / Holtz, Sabine / Kantner, Catleen, . . . Zittel, Claus (2016): “CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities“. Abstract für die DHd 2016 in Leipzig.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__774">Nadeau, David / Sekine, Satoshi (2007): “A survey of named entity recognition and classification. Linguisticae Investigationes”, 30, 3-26.</rs></bibl>
                 </listBibl>
             </div>
       </back>

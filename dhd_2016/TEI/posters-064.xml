@@ -136,64 +136,27 @@
                   <div type="bibliogr">
                     <listBibl>
                       <head>Bibliographie</head>
-                      <bibl><rs type="bibl" ref="#bibl__2661"><hi rend="bold">Bibliothek für Bildungsgeschichtliche Forschung (BBF)
-                        (o.J.)</hi>: <hi rend="italic">SPO</hi>. Scripta Pedagogica Online <ref target="http://goobiweb.bbf.dipf.de/viewer">http://goobiweb.bbf.dipf.de/viewer</ref> [letzter Zugriff 12. Februar
-                        2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2661">Bibliothek für Bildungsgeschichtliche Forschung (BBF) (o.J.): SPO. Scripta Pedagogica Online http://goobiweb.bbf.dipf.de/viewer [letzter Zugriff 12. Februar 2016].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2662"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1b3"/><hi rend="bold">Ell, Basil / Schindler, Christoph / Rittberger, Marc</hi> (2013):
-                          "Semantically Enhanced Interactions between Heterogeneous Data Life-Cycles",
-                          in: Garoufallou, Emmanouel / Greenberg, Jane (eds.): <hi rend="italic">Metadata and Semantics Research</hi>. Cham: Springer International
-                          Publishing 277–288. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2662">Ell, Basil / Schindler, Christoph / Rittberger, Marc (2013): "Semantically Enhanced Interactions between Heterogeneous Data Life-Cycles", in: Garoufallou, Emmanouel / Greenberg, Jane (eds.): Metadata and Semantics Research. Cham: Springer International Publishing 277–288.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__2663"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1b5"/><hi rend="bold">Feng, Ling / Jeusfeld, Manfred A. / Hoppenbrouwers, Jeroen</hi> (2005):
-                            "Beyond information searching and browsing: acquiring knowledge from digital
-                            libraries", in: <hi rend="italic">Information Processing &amp; Management
-                          </hi>41, 1: 97–120 <ref target="http://conceptbase.sourceforge.net/mjf/itrs008.pdf">http://conceptbase.sourceforge.net/mjf/itrs008.pdf</ref> [letzter
-                          Zugriff 12. Februar 2016]. </rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__2664"><hi rend="bold">German Institute for International Educational Research /
-                            Karlsruher Institute for Technology / Georg-August-Universität
-                            Göttingen</hi> (o. J.): <hi rend="italic">Semantic CorA</hi>
-                            <ref target="www.semantic-cora.org/">www.semantic-cora.org/</ref> [letzter
-                            Zugriff 12. Februar 2016].</rs></bibl>
+                            <rs type="bibl" ref="#bibl__2663">Feng, Ling / Jeusfeld, Manfred A. / Hoppenbrouwers, Jeroen (2005): "Beyond information searching and browsing: acquiring knowledge from digital libraries", in: Information Processing &amp; Management 41, 1: 97–120 http://conceptbase.sourceforge.net/mjf/itrs008.pdf [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__2664">German Institute for International Educational Research / Karlsruher Institute for Technology / Georg-August-Universität Göttingen (o. J.): Semantic CorA www.semantic-cora.org/ [letzter Zugriff 12. Februar 2016].</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2665"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1b7"/><hi rend="bold">Ide, Nancy / Woolner, David</hi> (2007): "Historical Ontologies", in:
-                              Ahmad, Khurshid / Brewster, Christopher / Stevenson, Mark (eds.): <hi rend="italic">Words and Intelligence II</hi>. Dordrecht: Springer
-                              Netherlands 137–152. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2665">Ide, Nancy / Woolner, David (2007): "Historical Ontologies", in: Ahmad, Khurshid / Brewster, Christopher / Stevenson, Mark (eds.): Words and Intelligence II. Dordrecht: Springer Netherlands 137–152.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__2666"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1b9"/><hi rend="bold">Kalfoglou, Yannis / Schorlemmer, Marco</hi> (2003): "Ontology mapping:
-                                the state of the art", in: <hi rend="italic">Knowledge Engineering
-                                Review</hi>18,1: 1–31 <ref target="http://drops.dagstuhl.de/volltexte/2005/40/pdf/04391.KalfoglouYannis.Paper.40.pdf">http://drops.dagstuhl.de/volltexte/2005/40/pdf/04391.KalfoglouYannis.Paper.40.pdf</ref>
-                                [letzter Zugriff 12. Februar 2016]. </rs></bibl>
+                                <rs type="bibl" ref="#bibl__2666">Kalfoglou, Yannis / Schorlemmer, Marco (2003): "Ontology mapping: the state of the art", in: Knowledge Engineering Review18,1: 1–31 http://drops.dagstuhl.de/volltexte/2005/40/pdf/04391.KalfoglouYannis.Paper.40.pdf [letzter Zugriff 12. Februar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2667"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1c11"/><hi rend="bold">Kauppinen, Tomi / Hyvönen, Eero</hi> (2007): "Modeling and Reasoning
-                                  About Changes in Ontology Time Series", in: Sharman, Raj / Kishore, Rajiv /
-                                  Ramesh, Ram (eds.): <hi rend="italic">Ontologies</hi>. A handbook of
-                                  Principles, Concepts ans Applications in Information Systems. Boston, MA:
-                                  Springer 319–338. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2667">Kauppinen, Tomi / Hyvönen, Eero (2007): "Modeling and Reasoning About Changes in Ontology Time Series", in: Sharman, Raj / Kishore, Rajiv / Ramesh, Ram (eds.): Ontologies. A handbook of Principles, Concepts ans Applications in Information Systems. Boston, MA: Springer 319–338.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2668"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1c13"/><hi rend="bold">Keil, Stefan</hi> (2012): "Terminologie Mapping: Grundlagen und
-                                    aktuelle Normungsvorhaben", in: <hi rend="italic">Information - Wissenschaft
-                                    &amp; Praxis </hi>63, 1: 45-55 <ref target="http://eprints.rclis.org/16716/1/Stefan%20Keil%20-TM%20Grundlagen%20und%20Normungsvorhaben-Repository.pdf">http://eprints.rclis.org/16716/1/Stefan%20Keil%20-TM%20Grundlagen%20und%20Normungsvorhaben-Repository.pdf</ref>
-                                    [letzter Zugriff 12. Februar 2016]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2668">Keil, Stefan (2012): "Terminologie Mapping: Grundlagen und aktuelle Normungsvorhaben", in: Information - Wissenschaft &amp; Praxis 63, 1: 45-55 http://eprints.rclis.org/16716/1/Stefan%20Keil%20-TM%20Grundlagen%20und%20Normungsvorhaben-Repository.pdf [letzter Zugriff 12. Februar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__2669"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1c15"/><hi rend="bold">Oramas, Sergio / Sordo, Mohamed / Serra, Xavier</hi> (2014): "Automatic
-                                      creation of knowledge graphs from digital musical document libraries", in:
-                                      <hi rend="italic">9th Conference on interdisciplinary musicology -
-                                        CIM14</hi>. Proceedings <ref target="http://mtg.upf.edu/system/files/publications/CIM14_MAIN.pdf">http://mtg.upf.edu/system/files/publications/CIM14_MAIN.pdf</ref>
-                                        [letzter Zugriff 12. Februar 2016]. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__2669">Oramas, Sergio / Sordo, Mohamed / Serra, Xavier (2014): "Automatic creation of knowledge graphs from digital musical document libraries", in: 9th Conference on interdisciplinary musicology - CIM14. Proceedings http://mtg.upf.edu/system/files/publications/CIM14_MAIN.pdf [letzter Zugriff 12. Februar 2016].</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2670"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1c17"/><hi rend="bold">Ritzi, Christian</hi> (2003): "Scripta Paedagogica Online : Digitales
-                                          Textarchiv zur Bildungsgeschichte des deutschsprachigen Raums", in: Thaller,
-                                          Manfred (ed.): <hi rend="italic">Digitale Bausteine für die
-                                          geisteswissenschaftliche Forschung</hi>. Göttingen: Dührkohp &amp;
-                                          Radicke 103–135. </rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2670">Ritzi, Christian (2003): "Scripta Paedagogica Online : Digitales Textarchiv zur Bildungsgeschichte des deutschsprachigen Raums", in: Thaller, Manfred (ed.): Digitale Bausteine für die geisteswissenschaftliche Forschung. Göttingen: Dührkohp &amp; Radicke 103–135.</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__230"><anchor xml:id="id_index.xml-bibl-w1855386aab3b3b1b1c19"/><hi rend="bold">van Hage, Willem Robert / Malaisé, Véronique / Segers, Roxane /
-                                            Hollink, Laura / Schreiber, Guus</hi> (2011): "Design and use of the
-                                            Simple Event Model (SEM)", in: <hi rend="italic">Web Semantics: Science,
-                                            Services and Agents on the World Wide Web</hi> 9, 2: 128–136.</rs></bibl>
-                                            <bibl><rs type="bibl" ref="#bibl__2671"><hi rend="bold">W3C = World Wide Web Consortium</hi> (2012): <hi rend="italic">SKOS</hi>. Simple Knowledge Organization System <ref target="Simple Knowledge Organization System">Simple Knowledge
-                                            Organization System</ref> [letzter Zugriff 12. Februar 2016].</rs></bibl>
+                                            <rs type="bibl" ref="#bibl__230">van Hage, Willem Robert / Malaisé, Véronique / Segers, Roxane / Hollink, Laura / Schreiber, Guus (2011): "Design and use of the Simple Event Model (SEM)", in: Web Semantics: Science, Services and Agents on the World Wide Web 9, 2: 128–136.</rs></bibl>
+                                            <bibl><rs type="bibl" ref="#bibl__2671">W3C = World Wide Web Consortium (2012): SKOS. Simple Knowledge Organization System Simple Knowledge Organization System [letzter Zugriff 12. Februar 2016].</rs></bibl>
                                           </listBibl>
                                         </div>
                                       </back>

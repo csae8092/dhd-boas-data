@@ -141,70 +141,37 @@
                   <listBibl>
                     <head>Bibliography</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2528"><hi rend="bold">CERL</hi> (2015): <hi rend="italic">CERL Thesaurus</hi>
-                      <ref target="http://thesaurus.cerl.org/">http://thesaurus.cerl.org</ref>
-                      [letzter Zugriff 14. Oktober 2015 ]. </rs></bibl>
+                      <rs type="bibl" ref="#bibl__2528">CERL (2015): CERL Thesaurus http://thesaurus.cerl.org [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2529"><hi rend="bold">d3SPARQL</hi> (2015): <hi rend="italic">d3sparql.js</hi>
-                        Utilities for visualizing SPARQL results with the D3 library <ref target="http://biohackathon.org/d3sparql/">http://biohackathon.org/d3sparql/</ref> [letzter Zugriff 13. Oktober
-                        2015 ]. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2529">d3SPARQL (2015): d3sparql.js Utilities for visualizing SPARQL results with the D3 library http://biohackathon.org/d3sparql/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2530"><hi rend="bold">EMLO</hi> (2015): <hi rend="italic">Early Modern Letters
-                          Online</hi>
-                          <ref target="http://emlo.bodleian.ox.ac.uk/">http://emlo.bodleian.ox.ac.uk/</ref> [letzter Zugriff 14. Oktober 2015
-                            ]. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2530">EMLO (2015): Early Modern Letters Online http://emlo.bodleian.ox.ac.uk/ [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2531"><hi rend="bold">GND</hi> (2015): <hi rend="italic">Gemeinsame Normdatei</hi>
-                              <ref target="http://www.dnb.de/DE/Header/Hilfe/kataloghilfe.html#doc207526bodyText73">http://www.dnb.de/DE/Header/Hilfe/kataloghilfe.html#doc207526bodyText73</ref>
-                                [letzter Zugriff 14. Oktober 2015 ]. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2531">GND (2015): Gemeinsame Normdatei http://www.dnb.de/DE/Header/Hilfe/kataloghilfe.html#doc207526bodyText73 [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2532"><hi rend="bold">HDAT</hi> (2015): <hi rend="italic">Historical Dutch-Asiatic
-                                  Shipping</hi>
-                                  <ref target="http://app.thebrownmap.nl/">http://app.thebrownmap.nl/</ref>
-                                  [letzter Zugriff 13. Oktober 2015 ]. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2532">HDAT (2015): Historical Dutch-Asiatic Shipping http://app.thebrownmap.nl/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2533"><hi rend="bold">Heatmaps</hi> (2015): <hi rend="italic">Google Maps
-                                    Javascript API</hi>
-                                    <ref target="https://developers.google.com/maps/documentation/javascript/heatmaplayer">https://developers.google.com/maps/documentation/javascript/heatmaplayer</ref>
-                                      [letzter Zugriff 13. Oktober 2015 ]. </rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2533">Heatmaps (2015): Google Maps Javascript API https://developers.google.com/maps/documentation/javascript/heatmaplayer [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2534"><hi rend="bold">LDFC</hi> (2015): <hi rend="italic">Linked Data Fragments
-                                        client</hi>
-                                        <ref target="http://client.linkeddatafragments.org/">http://client.linkeddatafragments.org/</ref> [letzter Zugriff 13.
-                                          Oktober 2015 ]. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2534">LDFC (2015): Linked Data Fragments client http://client.linkeddatafragments.org/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2535"><hi rend="bold">LodLive</hi> (2012): <hi rend="italic">LodLive</hi> Browsing
-                                            the Web of Data <ref target="http://en.lodlive.it/">http://en.lodlive.it/</ref> [letzter Zugriff 13. Oktober 2015 ]. </rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2535">LodLive (2012): LodLive Browsing the Web of Data http://en.lodlive.it/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2536"><hi rend="bold">NodeBox</hi> (2015): <hi rend="italic">Meet NodeBox 3</hi>
-                                              <ref target="https://www.nodebox.net/node/">https://www.nodebox.net/node/</ref> [letzter Zugriff 13. Oktober 2015]. </rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2536">NodeBox (2015): Meet NodeBox 3 https://www.nodebox.net/node/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2537"><hi rend="bold">PRDL</hi> (2013): <hi rend="italic">Scholastica</hi> Early
-                                                  Modern Academies &amp; Universities <ref target="http://www.prdl.org/schools.php">http://www.prdl.org/schools.php</ref> [letzter Zugriff 14. Oktober 2015
-                                                  ]. </rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2537">PRDL (2013): Scholastica Early Modern Academies &amp; Universities http://www.prdl.org/schools.php [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2538"><hi rend="bold">RelFinder</hi> (2015): <hi rend="italic">RelFinder</hi>
-                                                    Interactive Relationship Discovery in RDF Data <ref target="http://www.visualdataweb.org/relfinder.php">http://www.visualdataweb.org/relfinder.php</ref> [letzter Zugriff 13.
-                                                    Oktober 2015 ]. </rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2538">RelFinder (2015): RelFinder Interactive Relationship Discovery in RDF Data http://www.visualdataweb.org/relfinder.php [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                                     <bibl>
-                                                      <rs type="bibl" ref="#bibl__2539"><hi rend="bold">Schmutz, Jacob </hi> (2009): <hi rend="italic">Scholasticon</hi> Ressources en ligne pour l'étude de la scolastique
-                                                      moderne (1500-1800): auteurs, sources, institutions <ref target="http://scholasticon.ish-lyon.cnrs.fr/">http://scholasticon.ish-lyon.cnrs.fr</ref> [letzter Zugriff 14. Oktober
-                                                      2015 ]. </rs></bibl>
+                                                      <rs type="bibl" ref="#bibl__2539">Schmutz, Jacob (2009): Scholasticon Ressources en ligne pour l'étude de la scolastique moderne (1500-1800): auteurs, sources, institutions http://scholasticon.ish-lyon.cnrs.fr [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2540"><hi rend="bold">Sgvizler</hi> (2015): <hi rend="italic">Sgvizler</hi>
-                                                        <ref target="http://dev.data2000.no/sgvizler/">http://dev.data2000.no/sgvizler/</ref> [letzter Zugriff 13. Oktober
-                                                          2015]. </rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2540">Sgvizler (2015): Sgvizler http://dev.data2000.no/sgvizler/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
                                                           <bibl>
-                                                            <rs type="bibl" ref="#bibl__2541"><hi rend="bold">TGN</hi> (2015): <hi rend="italic">The Getty Thesaurus of
-                                                            Geographic Names</hi> (TGN) <ref target="http://vocab.getty.edu/">http://vocab.getty.edu/</ref> [letzter Zugriff 13. Oktober 2015 ]. </rs></bibl>
+                                                            <rs type="bibl" ref="#bibl__2541">TGN (2015): The Getty Thesaurus of Geographic Names (TGN) http://vocab.getty.edu/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                                             <bibl>
-                                                              <rs type="bibl" ref="#bibl__2542"><hi rend="bold">Timeline</hi> (2015): <hi rend="italic">Leaflet.timeline</hi>
-                                                              <ref target="https://github.com/skeate/Leaflet.timeline">https://github.com/skeate/Leaflet.timeline</ref> [letzter Zugriff 13.
-                                                                Oktober 2015]. </rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2542">Timeline (2015): Leaflet.timeline https://github.com/skeate/Leaflet.timeline [letzter Zugriff 13. Oktober 2015].</rs></bibl>
                                                                 <bibl>
-                                                                  <rs type="bibl" ref="#bibl__2543"><hi rend="bold">xTriples</hi> (2015): <hi rend="italic">Xtriples</hi> A
-                                                                  generic webservice to extract RDF statements from XML resources <ref target="http://xtriples.spatialhumanities.de/index.html">http://xtriples.spatialhumanities.de/index.html</ref> [letzter Zugriff
-                                                                  13. Oktober 2015 ]. </rs></bibl>
+                                                                  <rs type="bibl" ref="#bibl__2543">xTriples (2015): Xtriples A generic webservice to extract RDF statements from XML resources http://xtriples.spatialhumanities.de/index.html [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                                                 </listBibl>
                                                               </div>
                                                             </back>

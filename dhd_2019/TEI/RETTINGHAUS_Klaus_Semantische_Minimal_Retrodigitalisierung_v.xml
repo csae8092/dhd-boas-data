@@ -106,31 +106,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3846"><rs type="bibl" ref="#bibl__2611"><hi rend="bold">Woesler, Winfried</hi> (1988): "Vorschläge für eine Normierung von Briefeditionen" in: 
-                        <anchor xml:id="id_mainTitle"/>
-                        <hi rend="color(#2a2a2a)italic">Editio</hi> 2, S. 8–18. doi: 
-                        <ref target="https://doi.org/10.1515/9783110241938.8">10.1515/9783110241938.8</ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3846">Woesler, Winfried (1988): "Vorschläge für eine Normierung von Briefeditionen" in: Editio 2, S. 8–18. doi: 10.1515/9783110241938.8</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3847"><rs type="bibl" ref="#bibl__2612"><hi rend="bold">Ball, Rafael</hi> (2014): "Bibliotheken im 21. Jahrhundert. Vom Leser zum Kunden" in: 
-                        <hi rend="bold">Ceynowa, Klaus / Hermann, Martin</hi>: Bibliotheken: Innovation aus Tradition, Berlin: De Gruyter Saur 226–231, doi: 
-                        <ref target="https://doi.org/10.1515/9783110310511.226">10.1515/9783110310511.226</ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3847">Ball, Rafael (2014): "Bibliotheken im 21. Jahrhundert. Vom Leser zum Kunden" in: Ceynowa, Klaus / Hermann, Martin: Bibliotheken: Innovation aus Tradition, Berlin: De Gruyter Saur 226–231, doi: 10.1515/9783110310511.226</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__267"><rs type="bibl" ref="#bibl__2613"><hi rend="bold">Stadler, Peter</hi> (2014): "Interoperabilität von digitalen Briefeditionen" in: 
-                        <hi rend="bold">Wolzogen, Hanna Delf von / Falk, Rainer</hi>: 
-                        <hi rend="italic">Fontanes Briefe ediert</hi>, Würzburg: Königshausen &amp; Neumann 278–287.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__267">Stadler, Peter (2014): "Interoperabilität von digitalen Briefeditionen" in: Wolzogen, Hanna Delf von / Falk, Rainer: Fontanes Briefe ediert, Würzburg: Königshausen &amp; Neumann 278–287.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__209"><rs type="bibl" ref="#bibl__152"><hi rend="bold">Dumont, Stefan</hi> (2016): "correspSearch – Connecting Scholarly Editions of Letters" in: 
-                        <hi rend="italic">Journal of the Text Encoding Initiative</hi> 10, 
-                        <ptr target="https://journals.openedition.org/jtei/1511"/> [letzter Zugriff 10. Oktober 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__209">Dumont, Stefan (2016): "correspSearch – Connecting Scholarly Editions of Letters" in: Journal of the Text Encoding Initiative 10, [letzter Zugriff 10. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3848"><rs type="bibl" ref="#bibl__2614"><hi rend="bold">Rettinghaus, Klaus</hi> (2018): 
-                        <hi rend="italic">saw-leipzig/csv2cmi </hi>(Version v1.6.2), Zenodo, doi: 
-                        <ref target="http://doi.org/10.5281/zenodo.1461642">10.5281/zenodo.1461642</ref> [letzter Zugriff 13. Oktober 2018].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3848">Rettinghaus, Klaus (2018): saw-leipzig/csv2cmi (Version v1.6.2), Zenodo, doi: 10.5281/zenodo.1461642 [letzter Zugriff 13. Oktober 2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

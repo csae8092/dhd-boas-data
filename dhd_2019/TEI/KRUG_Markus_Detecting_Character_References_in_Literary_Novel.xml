@@ -141,41 +141,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left;">Agarwal, A., Corvalan, A., Jensen, J., &amp; Rambow, O. (2012). Social network analysis of alice in wonderland. In 
-                        <rs type="bibl" ref="#bibl__133"><rs type="bibl" ref="#bibl__99"><hi rend="italic">Proceedings of the NAACL-HLT 2012 Workshop on computational linguistics for literature</hi> (pp. 88-96).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__133">Agarwal, A., Corvalan, A., Jensen, J., &amp; Rambow, O. (2012). Social network analysis of alice in wonderland. In Proceedings of the NAACL-HLT 2012 Workshop on computational linguistics for literature (pp. 88-96).</rs></bibl>
                     <bibl style="text-align:left;">Brill, E. (1992, March). A simple rule-based part of speech tagger. In 
-                        <rs type="bibl" ref="#bibl__3693"><rs type="bibl" ref="#bibl__2458"><hi rend="italic">Proceedings of the third conference on Applied natural language processing</hi> (pp. 152-155). Association for Computational Linguistics. 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3693">Brill, E. (1992, March). A simple rule-based part of speech tagger. In Proceedings of the third conference on Applied natural language processing (pp. 152-155). Association for Computational Linguistics.</rs></bibl>
                     <bibl style="text-align:left;">Elson, D. K., Dames, N., &amp; McKeown, K. R. (2010, July). Extracting social networks from literary fiction. In 
-                        <rs type="bibl" ref="#bibl__110"><rs type="bibl" ref="#bibl__82"><hi rend="italic">Proceedings of the 48th annual meeting of the association for computational linguistics</hi> (pp. 138-147). Association for Computational Linguistics.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__110">Elson, D. K., Dames, N., &amp; McKeown, K. R. (2010, July). Extracting social networks from literary fiction. In Proceedings of the 48th annual meeting of the association for computational linguistics (pp. 138-147). Association for Computational Linguistics.</rs></bibl>
                     <bibl style="text-align:left;">Faruqui, M., Padó, S., &amp; Sprachverarbeitung, M. (2010, September). Training and Evaluating a German Named Entity Recognizer with Semantic Generalization. In 
-                        <rs type="bibl" ref="#bibl__3694"><rs type="bibl" ref="#bibl__2459"><hi rend="italic">KONVENS</hi> (pp. 129-133).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3694">Faruqui, M., Padó, S., &amp; Sprachverarbeitung, M. (2010, September). Training and Evaluating a German Named Entity Recognizer with Semantic Generalization. In KONVENS (pp. 129-133).</rs></bibl>
                     <bibl style="text-align:left;">Finkel, J. R., Grenager, T., &amp; Manning, C. (2005, June). Incorporating non-local information into information extraction systems by gibbs sampling. In 
-                        <rs type="bibl" ref="#bibl__3695"><rs type="bibl" ref="#bibl__2460"><hi rend="italic">Proceedings of the 43rd annual meeting on association for computational linguistics</hi> (pp. 363-370). Association for Computational Linguistics.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3695">Finkel, J. R., Grenager, T., &amp; Manning, C. (2005, June). Incorporating non-local information into information extraction systems by gibbs sampling. In Proceedings of the 43rd annual meeting on association for computational linguistics (pp. 363-370). Association for Computational Linguistics.</rs></bibl>
                     <bibl style="text-align:left;">Huang, Z., Xu, W., &amp; Yu, K. (2015). Bidirectional LSTM-CRF models for sequence tagging. 
-                        <rs type="bibl" ref="#bibl__3696"><rs type="bibl" ref="#bibl__2461"><hi rend="italic">arXiv preprint arXiv:1508.01991</hi>.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3696">Huang, Z., Xu, W., &amp; Yu, K. (2015). Bidirectional LSTM-CRF models for sequence tagging. arXiv preprint arXiv:1508.01991.</rs></bibl>
                     <bibl style="text-align:left;">Hettinger, L., Becker, M., Reger, I., Jannidis, F., &amp; Hotho, A. (2015, September). Genre classification on German novels. In 
-                        <rs type="bibl" ref="#bibl__3697"><rs type="bibl" ref="#bibl__2462"><hi rend="italic">Database and Expert Systems Applications (DEXA), 2015 26th International Workshop on</hi> (pp. 249-253). IEEE.
-                    </rs></rs></bibl>
-                    <bibl style="text-align:left;">Jannidis, F., Reger, I., Weimer, L., Krug, M., &amp; Puppe, F. (2017). Automatische Erkennung von Figuren in deutschsprachigen Romanen.<rs type="bibl" ref="#bibl__3698"><rs type="bibl" ref="#bibl__2463"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3697">Hettinger, L., Becker, M., Reger, I., Jannidis, F., &amp; Hotho, A. (2015, September). Genre classification on German novels. In Database and Expert Systems Applications (DEXA), 2015 26th International Workshop on (pp. 249-253). IEEE.</rs></bibl>
+                    <bibl style="text-align:left;">Jannidis, F., Reger, I., Weimer, L., Krug, M., &amp; Puppe, F. (2017). Automatische Erkennung von Figuren in deutschsprachigen Romanen.<rs type="bibl" ref="#bibl__3698">Jannidis, F., Reger, I., Weimer, L., Krug, M., &amp; Puppe, F. (2017). Automatische Erkennung von Figuren in deutschsprachigen Romanen.</rs></bibl>
                     <bibl style="text-align:left;">Krug Markus, Puppe Frank, Reger Isabella, Weimer Lukas, Macharowsky Luisa, Feldhaus Stephan, Jannidis Fotis (2018, April). 
-                        <rs type="bibl" ref="#bibl__3699"><rs type="bibl" ref="#bibl__2464"><hi rend="italic">Description of a Corpus of Character References in German Novels - DROC [Deutsches ROman Corpus]</hi>. DARIAH-DE Working Papers Nr. 27. Göttingen: DARIAH-DE. URN: urn:nbn:de:gbv:7-dariah-2018-2-9
-                    </rs></rs></bibl>
-                    <bibl style="text-align:left;">Lafferty, J., McCallum, A., &amp; Pereira, F. C. (2001). Conditional random fields: Probabilistic models for segmenting and labeling sequence data.<rs type="bibl" ref="#bibl__3700"><rs type="bibl" ref="#bibl__2465"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3699">Krug Markus, Puppe Frank, Reger Isabella, Weimer Lukas, Macharowsky Luisa, Feldhaus Stephan, Jannidis Fotis (2018, April). Description of a Corpus of Character References in German Novels - DROC [Deutsches ROman Corpus]. DARIAH-DE Working Papers Nr. 27. Göttingen: DARIAH-DE. URN: urn:nbn:de:gbv:7-dariah-2018-2-9</rs></bibl>
+                    <bibl style="text-align:left;">Lafferty, J., McCallum, A., &amp; Pereira, F. C. (2001). Conditional random fields: Probabilistic models for segmenting and labeling sequence data.<rs type="bibl" ref="#bibl__3700">Lafferty, J., McCallum, A., &amp; Pereira, F. C. (2001). Conditional random fields: Probabilistic models for segmenting and labeling sequence data.</rs></bibl>
                     <bibl style="text-align:left;">Lee, H., Chang, A., Peirsman, Y., Chambers, N., Surdeanu, M., &amp; Jurafsky, D. (2013). Deterministic coreference resolution based on entity-centric, precision-ranked rules. 
-                        <rs type="bibl" ref="#bibl__3701"><rs type="bibl" ref="#bibl__2466"><hi rend="italic">Computational Linguistics</hi>, 
-                        <hi rend="italic">39</hi>(4), 885-916.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3701">Lee, H., Chang, A., Peirsman, Y., Chambers, N., Surdeanu, M., &amp; Jurafsky, D. (2013). Deterministic coreference resolution based on entity-centric, precision-ranked rules. Computational Linguistics, 39(4), 885-916.</rs></bibl>
                     <bibl style="text-align:left;">Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., &amp; Dean, J. (2013). Distributed representations of words and phrases and their compositionality. In 
-                        <rs type="bibl" ref="#bibl__54"><rs type="bibl" ref="#bibl__45"><hi rend="italic">Advances in neural information processing systems</hi> (pp. 3111-3119).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__54">Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., &amp; Dean, J. (2013). Distributed representations of words and phrases and their compositionality. In Advances in neural information processing systems (pp. 3111-3119).</rs></bibl>
                     <bibl style="text-align:left;">Riedl, M., &amp; Padó, S. (2018). A Named Entity Recognition Shootout for German. In 
-                        <rs type="bibl" ref="#bibl__3702"><rs type="bibl" ref="#bibl__2467"><hi rend="italic">Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</hi> (Vol. 2, pp. 120-125).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3702">Riedl, M., &amp; Padó, S. (2018). A Named Entity Recognition Shootout for German. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (Vol. 2, pp. 120-125).</rs></bibl>
                 </listBibl>
             </div>
         </back>

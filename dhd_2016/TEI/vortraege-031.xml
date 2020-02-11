@@ -290,38 +290,19 @@
                     <listBibl>
                       <head>Bibliographie</head>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2022"><hi rend="bold">Ertl, Thomas / Wörner, Michael</hi> (2013): “Smoothscroll. A
-                        multi-scale, multi-layer slider”, in: <hi rend="italic">Computer Vision,
-                        Imaging and Computer Graphics - Theory and Applications</hi> 274:
-                        142–154. </rs></bibl>
+                        <rs type="bibl" ref="#bibl__2022">Ertl, Thomas / Wörner, Michael (2013): “Smoothscroll. A multi-scale, multi-layer slider”, in: Computer Vision, Imaging and Computer Graphics - Theory and Applications 274: 142–154.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2023"><hi rend="bold">Ertl, Thomas / John, Markus / Koch, Steffen / Wörner,
-                            Michael</hi> (2014): “VarifocalReader – In-Depth Visual Analysis of
-                            Large Text Documents”, in: <hi rend="italic"> IEEE Transactions on
-                            Visualization and Computer Graphics (TVCG)</hi> 20, 12: 1723-1732. </rs></bibl>
+                          <rs type="bibl" ref="#bibl__2023">Ertl, Thomas / John, Markus / Koch, Steffen / Wörner, Michael (2014): “VarifocalReader – In-Depth Visual Analysis of Large Text Documents”, in: IEEE Transactions on Visualization and Computer Graphics (TVCG) 20, 12: 1723-1732.</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2024"><hi rend="bold">Ertl, Thomas / Kuhn, Jonas / Richter, Sandra / Alscher,
-                                Stefan / Rapp, Andrea (2013-2016): </hi><hi rend="italic">ePoetics</hi>.
-                                Universität Stuttgart <ref target="/www.epoetics.de">/www.epoetics.de</ref>
-                                [letzter Zugriff 03. Februar 2016]. </rs></bibl>
+                              <rs type="bibl" ref="#bibl__2024">Ertl, Thomas / Kuhn, Jonas / Richter, Sandra / Alscher, Stefan / Rapp, Andrea (2013-2016): ePoetics. Universität Stuttgart /www.epoetics.de [letzter Zugriff 03. Februar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2025"><hi rend="bold">Heimerl, Florian / John, Markus / Koch, Steffen / Müller,
-                                    Andreas</hi> (2014): “A Visual Focus+Context Approach for Text
-                                    Comparison Tasks”, in: <hi rend="italic"> VisLR Workshop, LREC 2014</hi>. </rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2025">Heimerl, Florian / John, Markus / Koch, Steffen / Müller, Andreas (2014): “A Visual Focus+Context Approach for Text Comparison Tasks”, in: VisLR Workshop, LREC 2014.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__32"><hi rend="bold">Kuhn, Jonas / Reiter, Nils</hi> (2015): “A plea for a
-                                      method-driven agenda in the Digital Humanities”, in: <hi rend="italic">
-                                      Proceedings of the Digital Humanities Conference, Sydney, Australia
-                                      2015</hi>. </rs></bibl>
+                                      <rs type="bibl" ref="#bibl__32">Kuhn, Jonas / Reiter, Nils (2015): “A plea for a method-driven agenda in the Digital Humanities”, in: Proceedings of the Digital Humanities Conference, Sydney, Australia 2015.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2026"><hi rend="bold">Ramsay, Stephen</hi> (2007): “Algorithmic Criticism”, in:
-                                        Schreibman, Susan / Siemens, Ray (eds.): <hi rend="italic">A Companion to
-                                        Digital Literary Studies</hi>. Malden, MA: Blackwell 477-491. </rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2026">Ramsay, Stephen (2007): “Algorithmic Criticism”, in: Schreibman, Susan / Siemens, Ray (eds.): A Companion to Digital Literary Studies. Malden, MA: Blackwell 477-491.</rs></bibl>
                                         <bibl>
-                                          <rs type="bibl" ref="#bibl__2027"><hi rend="bold">Richter, Sandra</hi> (2010): <hi rend="italic">A History of
-                                          Poetics</hi>. German Scholarly Aesthetics and Poetics in International
-                                          Context, 1770-1960. With Bibliographies by Anja Zenk, Jasmin Azazmah, Eva
-                                          Jost and Sandra Richter. Berlin / New York: de Gruyter.</rs></bibl>
+                                          <rs type="bibl" ref="#bibl__2027">Richter, Sandra (2010): A History of Poetics. German Scholarly Aesthetics and Poetics in International Context, 1770-1960. With Bibliographies by Anja Zenk, Jasmin Azazmah, Eva Jost and Sandra Richter. Berlin / New York: de Gruyter.</rs></bibl>
                                         </listBibl>
                                       </div>
                                     </back>

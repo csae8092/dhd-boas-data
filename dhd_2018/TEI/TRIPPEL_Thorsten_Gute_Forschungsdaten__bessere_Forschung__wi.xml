@@ -231,80 +231,41 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1213"><rs type="bibl" ref="#bibl__1143"><hi rend="bold">Allianz der deutschen Wissenschaftsorganisationen</hi> (2010): "Grundsätze zum Umgang mit Forschungsdaten". 
-                        <ptr target="http://www.allianzinitiative.de/de/handlungsfelder/forschungsdaten/grundsaetze.html"/> [letzter Zugriff 15. Januar 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1213">Allianz der deutschen Wissenschaftsorganisationen (2010): "Grundsätze zum Umgang mit Forschungsdaten". [letzter Zugriff 15. Januar 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1214"><rs type="bibl" ref="#bibl__1144"><hi rend="bold">Bargheer, Margo, / Zeki, Mustafa Dogan / Horstmann, Wolfram / Mertens, Mike / Rapp, Andrea</hi> (2017): "Unlocking the digital potential of scholarly  monographs in 21st century research," in: 
-                        <hi rend="italic">Liber Quaterly 27</hi>(2). 
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1214">Bargheer, Margo, / Zeki, Mustafa Dogan / Horstmann, Wolfram / Mertens, Mike / Rapp, Andrea (2017): "Unlocking the digital potential of scholarly monographs in 21st century research," in: Liber Quaterly 27(2).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1215"><rs type="bibl" ref="#bibl__1145"><hi rend="bold">Baum, Constanze / Stäcker, Thomas</hi> (2015): "Methoden – Theorien – Projekte," in: 
-                        <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften, 1</hi>(Sonderband: Grenzen und Möglichkeiten der Digital Humanities), 4-12. doi:DOI 10.17175/sb001_023
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1215">Baum, Constanze / Stäcker, Thomas (2015): "Methoden – Theorien – Projekte," in: Zeitschrift für digitale Geisteswissenschaften, 1(Sonderband: Grenzen und Möglichkeiten der Digital Humanities), 4-12. doi:DOI 10.17175/sb001_023</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3"><rs type="bibl" ref="#bibl__3"><hi rend="bold">Berry, David M</hi> (2011): "The Computational Turn: Thinking about the Digital Humanities", in: 
-                        <hi rend="italic">Cultural Machine, 12</hi>, 1-22. 
-                        <ptr target="http://www.culturemachine.net/index.php/cm/article/view/440"/>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3">Berry, David M (2011): "The Computational Turn: Thinking about the Digital Humanities", in: Cultural Machine, 12, 1-22.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1216"><rs type="bibl" ref="#bibl__1146"><hi rend="bold">Busa, Roberto</hi> (1951): 
-                        <hi rend="italic">Sancti Thomae Aquinatis Hymnorum Ritualium Varia Specimina Concordantiarum</hi>. Milano: Fratelli Bocca.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1216">Busa, Roberto (1951): Sancti Thomae Aquinatis Hymnorum Ritualium Varia Specimina Concordantiarum. Milano: Fratelli Bocca.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1217"><rs type="bibl" ref="#bibl__1147"><hi rend="bold">Deutsche Forschungsgemeinschaft</hi> (2013): "Empfehlungen der Kommission „Selbstkontrolle in der Wissenschaft“". 
-                        <hi rend="italic">Sicherung guter wissenschaftlicher Praxis</hi>. 
-                        <ptr target="http://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/download/empfehlung_wiss_praxis_1310.pdf"/> [letzter Zugriff 15. Januar 2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1217">Deutsche Forschungsgemeinschaft (2013): "Empfehlungen der Kommission „Selbstkontrolle in der Wissenschaft“". Sicherung guter wissenschaftlicher Praxis. [letzter Zugriff 15. Januar 2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1218"><rs type="bibl" ref="#bibl__1148"><hi rend="bold">Deutsche Forschungsgemeinschaft</hi>
-                        <hi rend="bold">(DFG)</hi>: "Umgang mit Forschungsdaten: DFG-Leitlinien zum Umgang mit Forschungsdaten". http://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/antragstellung/nachnutzung_forschungsdaten/ [letzter Zugriff 15. Januar 2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1218">Deutsche Forschungsgemeinschaft (DFG): "Umgang mit Forschungsdaten: DFG-Leitlinien zum Umgang mit Forschungsdaten". http://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/antragstellung/nachnutzung_forschungsdaten/ [letzter Zugriff 15. Januar 2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1219"><rs type="bibl" ref="#bibl__1149"><hi rend="bold">Deutsche Forschungsgemeinschaft (DFG) Ausschuss für wissenschaftliche Bibliotheken und Informationssysteme (Unterausschuss für Informationsmanagement)</hi> (2009)" 
-                        <hi rend="italic">Empfehlungen zur gesicherten Aufbewahrung und Bereitstellung digitaler Forschungsprimärdaten</hi>. Bonn: Deutsche Forschungsgemeinschaft. http://www.dfg.de/download/pdf/foerderung/programme/lis/ua_inf_empfehlungen_200901.pdf [letzter Zugriff 15. Januar 2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1219">Deutsche Forschungsgemeinschaft (DFG) Ausschuss für wissenschaftliche Bibliotheken und Informationssysteme (Unterausschuss für Informationsmanagement) (2009)" Empfehlungen zur gesicherten Aufbewahrung und Bereitstellung digitaler Forschungsprimärdaten. Bonn: Deutsche Forschungsgemeinschaft. http://www.dfg.de/download/pdf/foerderung/programme/lis/ua_inf_empfehlungen_200901.pdf [letzter Zugriff 15. Januar 2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__127"><rs type="bibl" ref="#bibl__95"><hi rend="bold">Geyken, Alexander</hi> (2011): "
-                        <hi rend="italic">Wege zu einem historischen Referenzkorpus des Deutschen: das Projekt Deutsches Textarchiv</hi>," in: Perspektiven einer corpusbasierten historischen Linguistik. Internationale Tagung des Akademienvorhabens „Altägyptisches Wörterbuch“, Berlin, Germany.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__127">Geyken, Alexander (2011): " Wege zu einem historischen Referenzkorpus des Deutschen: das Projekt Deutsches Textarchiv," in: Perspektiven einer corpusbasierten historischen Linguistik. Internationale Tagung des Akademienvorhabens „Altägyptisches Wörterbuch“, Berlin, Germany.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1220"><rs type="bibl" ref="#bibl__1150"><hi rend="bold">Geyken, Alexander / Haaf, Susanne / Boenig, Matthias / Thomas, Christian / Wiegand, Frank</hi> (seit 2007): Deutsches Text Archiv (DTA). 
-                        <ptr target="http://www.deutschestextarchiv.de/"/>  [letzter Zugriff 15. Januar 2017]
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1220">Geyken, Alexander / Haaf, Susanne / Boenig, Matthias / Thomas, Christian / Wiegand, Frank (seit 2007): Deutsches Text Archiv (DTA). [letzter Zugriff 15. Januar 2017]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__30"><rs type="bibl" ref="#bibl__25"><hi rend="bold">Gradl, Tobias / Henrich, Andreas</hi> (2016): "Die DARIAH-DE-Föderationsarchitektur – Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen," in: 
-                        <hi rend="italic">Bibliothek - Forschung und Praxis, 40</hi>(2), 222-228. doi:10.1515/bfp-2016-0027
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__30">Gradl, Tobias / Henrich, Andreas (2016): "Die DARIAH-DE-Föderationsarchitektur – Datenintegration im Spannungsfeld forschungsspezifischer und domänenübergreifender Anforderungen," in: Bibliothek - Forschung und Praxis, 40(2), 222-228. doi:10.1515/bfp-2016-0027</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1221"><rs type="bibl" ref="#bibl__1151"><hi rend="bold">Hinrichs, Erhard / Trippel, Thorsten</hi> (2017): "CLARIN-D: eine Forschungsinfrastruktur für die sprachbasierte Forschung in den Geistes- und Sozialwissenschaften," in: 
-                        <hi rend="italic">Bibliothek - Forschung und Praxis, 1</hi>(41).
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1221">Hinrichs, Erhard / Trippel, Thorsten (2017): "CLARIN-D: eine Forschungsinfrastruktur für die sprachbasierte Forschung in den Geistes- und Sozialwissenschaften," in: Bibliothek - Forschung und Praxis, 1(41).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1222"><rs type="bibl" ref="#bibl__1152"><hi rend="bold">Senat der Deutschen Forschungsgemeinschaft (DFG)</hi> (2015): "Leitlinien zum Umgang mit Forschungsdaten.  
-                        <ptr target="https://www.wissenschaftsrat.de/download/archiv/10466-11.pdf"/> [letzter Zugriff 15. Januar 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1222">Senat der Deutschen Forschungsgemeinschaft (DFG) (2015): "Leitlinien zum Umgang mit Forschungsdaten. [letzter Zugriff 15. Januar 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1223"><rs type="bibl" ref="#bibl__1153"><hi rend="bold">Thiel, Thomas</hi> (2012): "Digital Humanities: Eine empirische Wende für die Geisteswissenschaften?", in: 
-                        <hi rend="italic">Frankfurter Allgemeine Zeitung</hi>, 24.07.2012.  
-                        <ptr target="http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/digital-humanities-eine-empirische-wende-fuer-die-geisteswissenschaften-11830514.html"/> [letzter Zugriff 15. Januar 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1223">Thiel, Thomas (2012): "Digital Humanities: Eine empirische Wende für die Geisteswissenschaften?", in: Frankfurter Allgemeine Zeitung, 24.07.2012. [letzter Zugriff 15. Januar 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1224"><rs type="bibl" ref="#bibl__1154"><hi rend="bold">Winter, Thomas Nelson</hi> (1999): "Roberto Busa, S.J., and the Invention of the
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1224">Winter, Thomas Nelson (1999): "Roberto Busa, S.J., and the Invention of the</rs></bibl>
                     <bibl>Machine-Generated Concordance," in: 
-                        <rs type="bibl" ref="#bibl__1225"><rs type="bibl" ref="#bibl__1155"><hi rend="italic">Faculty Publications, Classics and Religious Studies Department</hi>. 
-                        <ptr target="http://digitalcommons.unl.edu/classicsfacpub/70/"/> [letzter Zugriff 15. Januar 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1225">Machine-Generated Concordance," in: Faculty Publications, Classics and Religious Studies Department. [letzter Zugriff 15. Januar 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1226"><rs type="bibl" ref="#bibl__1156"><hi rend="bold">Wissenschaftsra</hi>t (2011): 
-                        <hi rend="italic">Übergreifende Empfehlungen zu Informationsinfrastrukturen</hi> Vol. Drs. 10466-11. 
-                        <ptr target="https://www.wissenschaftsrat.de/download/archiv/10466-11.pdf"/> [letzter Zugriff 15. Januar 2017].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1226">Wissenschaftsrat (2011): Übergreifende Empfehlungen zu Informationsinfrastrukturen Vol. Drs. 10466-11. [letzter Zugriff 15. Januar 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1227"><rs type="bibl" ref="#bibl__1157"><hi rend="bold">Zampolli, Antonio</hi> (1973): "Humanities Computing in Italy," in: 
-                        <hi rend="italic">Computers and the Humanities, VII</hi>(6), 343-360. doi:10.1007/BF02395110
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1227">Zampolli, Antonio (1973): "Humanities Computing in Italy," in: Computers and the Humanities, VII(6), 343-360. doi:10.1007/BF02395110</rs></bibl>
                 </listBibl>
             </div>
       </back>

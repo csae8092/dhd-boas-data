@@ -203,22 +203,10 @@
                     <div type="bibliogr">
                       <listBibl>
                         <head>Bibliographie</head>
-                        <bibl><rs type="bibl" ref="#bibl__2452"><anchor xml:id="id_docs-internal-guid-501e6c2d-233e-e592-90fa-a62298d67e34"/><hi rend="bold">Prestopnik, Nathan R.</hi> (2011): <hi rend="italic">Citizen
-                          Science Case Study</hi>. Galaxy Zoo / Zooniverse <ref target="http://citsci.syr.edu/system/files/galaxyzoo.pdf">http://citsci.syr.edu/system/files/galaxyzoo.pdf</ref> [letzter Zugriff
-                          15. Oktober 2015]. </rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__59"><hi rend="bold">TEI Consortium</hi> (2015): <hi rend="italic">TEI P5</hi>.
-                          Guidelines for Electronic Text Encoding and Interchange. Version 2.9.0.
-                          Updated on 9th October 2015. <ref target="http://www.tei-c.org/Guidelines/P5/">http://www.tei-c.org/Guidelines/P5/</ref> [letzter Zugriff 15. Oktober
-                          2015]. </rs></bibl>
-                          <bibl><rs type="bibl" ref="#bibl__233"><hi rend="bold">TextGrid Konsortium</hi> (2015): <hi rend="italic">Die
-                          Digitale Bibliothek bei TextGrid</hi>
-                          <ref target="https://textgrid.de/digitale-bibliothek">https://textgrid.de/digitale-bibliothek</ref> [letzter Zugriff 15.
-                            Oktober 2015].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__2453"><hi rend="bold">Trilcke, Peer / Fischer, Frank / Göbel, Mathias /
-                              Kampkaspar, Dario</hi> (2015): <hi rend="italic">Network Analysis of
-                              Dramatic Texts</hi>
-                              <ref target="https://dlina.github.io/about/">https://dlina.github.io/about/</ref> [letzter Zugriff 15. Oktober
-                                2015].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2452">Prestopnik, Nathan R. (2011): Citizen Science Case Study. Galaxy Zoo / Zooniverse http://citsci.syr.edu/system/files/galaxyzoo.pdf [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__59">TEI Consortium (2015): TEI P5. Guidelines for Electronic Text Encoding and Interchange. Version 2.9.0. Updated on 9th October 2015. http://www.tei-c.org/Guidelines/P5/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                          <bibl><rs type="bibl" ref="#bibl__233">TextGrid Konsortium (2015): Die Digitale Bibliothek bei TextGrid https://textgrid.de/digitale-bibliothek [letzter Zugriff 15. Oktober 2015].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2453">Trilcke, Peer / Fischer, Frank / Göbel, Mathias / Kampkaspar, Dario (2015): Network Analysis of Dramatic Texts https://dlina.github.io/about/ [letzter Zugriff 15. Oktober 2015].</rs></bibl>
                               </listBibl>
                             </div>
                           </back>

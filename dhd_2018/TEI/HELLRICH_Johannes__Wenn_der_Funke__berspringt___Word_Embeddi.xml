@@ -214,159 +214,57 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__126"><rs type="bibl" ref="#bibl__94"><hi rend="bold">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. </hi>
-                        (2003): "Latent Dirichlet Allocation", in:
-                        <hi rend="italic">The Journal of Machine Learning Research </hi>
-                        3: 993–1022.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__126">Blei, David M. / Ng, Andrew Y. / Jordan, Michael I. (2003): "Latent Dirichlet Allocation", in: The Journal of Machine Learning Research 3: 993–1022.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1024"><rs type="bibl" ref="#bibl__948"><hi rend="bold">Bullinaria, John A. / Levy, Joseph P.</hi>
-                         (2007): "Extracting semantic representations from word co- occurrence statistics: A computational study", in: 
-                        <hi rend="italic">Behavior Research Methods</hi>
-                         39(3):510–26.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1024">Bullinaria, John A. / Levy, Joseph P. (2007): "Extracting semantic representations from word co- occurrence statistics: A computational study", in: Behavior Research Methods 39(3):510–26.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1025"><rs type="bibl" ref="#bibl__949"><hi rend="bold">Fankhauser, Peter / Knappen, Jörg / Teich, Elke </hi>(2016):
-                        "Topical diversification over time in the royal society corpus", in: 
-                        <hi rend="italic">Digital Humanities 2016 </hi>
-                        496–500.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1025">Fankhauser, Peter / Knappen, Jörg / Teich, Elke (2016): "Topical diversification over time in the royal society corpus", in: Digital Humanities 2016 496–500.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1026"><rs type="bibl" ref="#bibl__950"><hi rend="bold">Firth, John Rupert </hi>
-                        (1957): "A synopsis of Linguistic Theory, 1930–1955", in:
-                        <hi rend="italic">Studies in linguistic analysis</hi>
-                         1–32.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1026">Firth, John Rupert (1957): "A synopsis of Linguistic Theory, 1930–1955", in: Studies in linguistic analysis 1–32.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__127"><rs type="bibl" ref="#bibl__95"><hi rend="bold">Geyken, Alexander</hi>
-                         (2013): "Wege zu einem historischen Referenzkorpus des Deutschen: das Projekt Deutsches Textarchiv", in:
-                        <hi rend="italic">Perspektiven einer corpusbasierten historischen Linguistik und Philologie</hi>
-                         221–34.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__127">Geyken, Alexander (2013): "Wege zu einem historischen Referenzkorpus des Deutschen: das Projekt Deutsches Textarchiv", in: Perspektiven einer corpusbasierten historischen Linguistik und Philologie 221–34.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1027"><rs type="bibl" ref="#bibl__951"><hi rend="bold">Hall, David / Jurafsky, Daniel / Manning, Christopher D.</hi>
-                         (2008): "Studying the History of Ideas Using Topic Models", in:
-                        <hi rend="italic">Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing</hi>
-                         363–71.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1027">Hall, David / Jurafsky, Daniel / Manning, Christopher D. (2008): "Studying the History of Ideas Using Topic Models", in: Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing 363–71.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1028"><rs type="bibl" ref="#bibl__952"><hi rend="bold">Hamilton, William L. / Leskovec, Jure / Jurafsky, Dan</hi>
-                         (2016): "Diachronic Word Embeddings reveal sta- tistical laws of semantic change", in:
-                        <hi rend="italic">Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics</hi>
-                        1489–501.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1028">Hamilton, William L. / Leskovec, Jure / Jurafsky, Dan (2016): "Diachronic Word Embeddings reveal sta- tistical laws of semantic change", in: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics 1489–501.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1029"><rs type="bibl" ref="#bibl__953"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
-                         (2016): "Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period", in: 
-                        <hi rend="italic">Digital Humanities 2016</hi>
-                         545–7.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1029">Hellrich, Johannes / Hahn, Udo (2016): "Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period", in: Digital Humanities 2016 545–7.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1030"><rs type="bibl" ref="#bibl__954"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
-                         (2017a): "Don't Get Fooled by Word Embeddings-Better Watch their Neighborhood", in: 
-                        <hi rend="italic">Digital Humanities 2017</hi>
-                         250–2.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1030">Hellrich, Johannes / Hahn, Udo (2017a): "Don't Get Fooled by Word Embeddings-Better Watch their Neighborhood", in: Digital Humanities 2017 250–2.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1031"><rs type="bibl" ref="#bibl__955"><hi rend="bold">Hellrich, Johannes / Hahn, Udo</hi>
-                         (2017b): "Exploring Diachronic Lexical Semantics with JeSemE", in:
-                        <hi rend="italic">Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics – System Demonstrations </hi>
-                        31–6.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1031">Hellrich, Johannes / Hahn, Udo (2017b): "Exploring Diachronic Lexical Semantics with JeSemE", in: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics – System Demonstrations 31–6.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1032"><rs type="bibl" ref="#bibl__956"><hi rend="bold">Hippel</hi>
-                         (1781):
-                        <hi rend="italic">Lebensläufe nach Aufsteigender Linie</hi>
-                        . Meines Lebenslaufs Dritter Theil. Zweyter Band.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1032">Hippel (1781): Lebensläufe nach Aufsteigender Linie . Meines Lebenslaufs Dritter Theil. Zweyter Band.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1033"><rs type="bibl" ref="#bibl__957"><hi rend="bold">Hochadel, Oliver</hi>
-                         (2006): „The Business of Experimental Physics: Instrument Makers and Itinerant Lecturers in the German Enlightenment“, in:
-                        <hi rend="italic">Science &amp; Education 2007</hi>
-                         525–37.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1033">Hochadel, Oliver (2006): „The Business of Experimental Physics: Instrument Makers and Itinerant Lecturers in the German Enlightenment“, in: Science &amp; Education 2007 525–37.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1034"><rs type="bibl" ref="#bibl__958"><hi rend="bold">Home, R. W.</hi>
-                         (2016): „Experimental Physics“, in: Porter, Roy:
-                        <hi rend="italic">The Cambridge History of Science, Volume 4: Eighteenth-Century Science </hi>
-                        363–71.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1034">Home, R. W. (2016): „Experimental Physics“, in: Porter, Roy: The Cambridge History of Science, Volume 4: Eighteenth-Century Science 363–71.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1035"><rs type="bibl" ref="#bibl__959"><hi rend="bold">Jo, Eun Seo</hi>
-                         (2016): "Diplomatic history by data. Understanding Cold War foreign policy ideology using networks and NLP", in: 
-                        <hi rend="italic">Digital Humanities 2016</hi>
-                         582–5.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1035">Jo, Eun Seo (2016): "Diplomatic history by data. Understanding Cold War foreign policy ideology using networks and NLP", in: Digital Humanities 2016 582–5.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__128"><rs type="bibl" ref="#bibl__96"><hi rend="bold">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke</hi>
-                         (2016): "The royal society corpus: From uncharted data to corpus", in:
-                        <hi rend="italic">Proceedings of the Tenth International Conference on Language Resources and Evaluation </hi>
-                        1928–31.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__128">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke (2016): "The royal society corpus: From uncharted data to corpus", in: Proceedings of the Tenth International Conference on Language Resources and Evaluation 1928–31.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__129"><rs type="bibl" ref="#bibl__960"><hi rend="bold">Kim, Yoon / Chiu, Yi-I / Hanaki, Kentaro / Hegde, Darshan / Petrov, Slav</hi>
-                         (2014): "Temporal analysis of language through neural language models", in:
-                        <hi rend="italic">Proceedings of the Workshop on Language Technologies and Computational Social Science @ ACL 2014</hi>
-                         61–5.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__129">Kim, Yoon / Chiu, Yi-I / Hanaki, Kentaro / Hegde, Darshan / Petrov, Slav (2014): "Temporal analysis of language through neural language models", in: Proceedings of the Workshop on Language Technologies and Computational Social Science @ ACL 2014 61–5.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1036"><rs type="bibl" ref="#bibl__961"><hi rend="bold">Kulkarni, Vivek / Al-Rfou, Rami / Perozzi, Bryan / Skiena, Steven</hi>
-                         (2015): "Statistically significant detection of linguistic change", in:
-                        <hi rend="italic">Proceedings of the 24th International Conference on World Wide Web – Technical Papers</hi>
-                         625–35.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1036">Kulkarni, Vivek / Al-Rfou, Rami / Perozzi, Bryan / Skiena, Steven (2015): "Statistically significant detection of linguistic change", in: Proceedings of the 24th International Conference on World Wide Web – Technical Papers 625–35.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1037"><rs type="bibl" ref="#bibl__962"><hi rend="bold">Levy, Omer / Goldberg, Yoav / Dagan, Ido</hi>
-                        (2015): "Improving distributional similarity with lessons learned from Word Embeddings", in:
-                        <hi rend="italic">Transactions of the Association for Computational Linguistics</hi>
-                         3:211–25.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1037">Levy, Omer / Goldberg, Yoav / Dagan, Ido (2015): "Improving distributional similarity with lessons learned from Word Embeddings", in: Transactions of the Association for Computational Linguistics 3:211–25.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1038"><rs type="bibl" ref="#bibl__963"><hi rend="bold">Lichtenberg, Georg Christoph / Erxleben, Johann Christian Polykarp</hi>
-                         (1787):
-                        <hi rend="italic">Anfangsgründe der Naturlehre</hi>
-                        . Dietrich, 4. Auflage.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1038">Lichtenberg, Georg Christoph / Erxleben, Johann Christian Polykarp (1787): Anfangsgründe der Naturlehre . Dietrich, 4. Auflage.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1039"><rs type="bibl" ref="#bibl__964"><hi rend="bold">Manning, Chris / Schütze, Hinrich</hi>
-                         (1999): 
-                        <hi rend="italic">Foundations of Statistical Natural Language Processing.</hi>
-                         MIT Press, Kapitel 5: Collocations.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1039">Manning, Chris / Schütze, Hinrich (1999): Foundations of Statistical Natural Language Processing. MIT Press, Kapitel 5: Collocations.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1040"><rs type="bibl" ref="#bibl__965"><hi rend="bold">Mikolov, Tomas / Chen, Kai / Corrado, Gregory S. / Dean, Jeffrey </hi>
-                        (2013): "Efficient estimation of word representations in vector space", in: 
-                        <hi rend="italic">Workshop Proceedings of the International Conference on Learning Representations</hi>
-                        https://arxiv.org/abs/1301.3781
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1040">Mikolov, Tomas / Chen, Kai / Corrado, Gregory S. / Dean, Jeffrey (2013): "Efficient estimation of word representations in vector space", in: Workshop Proceedings of the International Conference on Learning Representations https://arxiv.org/abs/1301.3781</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__131"><rs type="bibl" ref="#bibl__98"><hi rend="bold">Mimno, David </hi>
-                        (2012): "Computational historiography: Data mining in a century of classics journals", in: 
-                        <hi rend="italic">Journal on Computing and Cultural Heritage </hi>
-                        5(1): Article 3.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__131">Mimno, David (2012): "Computational historiography: Data mining in a century of classics journals", in: Journal on Computing and Cultural Heritage 5(1): Article 3.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__71"><rs type="bibl" ref="#bibl__59"><hi rend="bold">Moretti, Franco</hi>
-                         (2013): 
-                        <hi rend="italic">Distant Reading</hi>
-                        . Verso.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__71">Moretti, Franco (2013): Distant Reading . Verso.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1041"><rs type="bibl" ref="#bibl__966"><hi rend="bold">Morus, Iwan Rhys</hi> (1998): 
-                        <hi rend="italic">Frankenstein’s Children. Electricity, Exhibition, And Experiment in Early-Nineteenth-Century London.</hi> Princeton University Press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1041">Morus, Iwan Rhys (1998): Frankenstein’s Children. Electricity, Exhibition, And Experiment in Early-Nineteenth-Century London. Princeton University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1042"><rs type="bibl" ref="#bibl__967"><hi rend="bold">Schumann, Anne-Kathrin </hi>
-                        (2016): "Brave new world: Uncovering topical dynamics in the ACL anthology reference corpus using term life cycle information", in:
-                        <hi rend="italic">Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities @ ACL 2016</hi>
-                         1–11.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1042">Schumann, Anne-Kathrin (2016): "Brave new world: Uncovering topical dynamics in the ACL anthology reference corpus using term life cycle information", in: Proceedings of the 10th SIGHUM Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities @ ACL 2016 1–11.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1043"><rs type="bibl" ref="#bibl__968"><hi rend="bold">Steigerwald, Joan</hi>
-                         (2013): "Rethinking organic vitality in Germany at the turn of the nineteenth century", in: Normandin, Sebastian / Wolfe, Charles T.:
-                        <hi rend="italic">Vitalism and the Scientific Image in Post Enlightenment Life Science, 1800-2010</hi>
-                        , Springer, 51-75.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__1043">Steigerwald, Joan (2013): "Rethinking organic vitality in Germany at the turn of the nineteenth century", in: Normandin, Sebastian / Wolfe, Charles T.: Vitalism and the Scientific Image in Post Enlightenment Life Science, 1800-2010 , Springer, 51-75.</rs></bibl>
                 </listBibl>
             </div>
       </back>

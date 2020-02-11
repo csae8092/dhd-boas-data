@@ -167,28 +167,18 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3456"><rs type="bibl" ref="#bibl__2217"><hi rend="bold">Viele Herausgeber und Bearbeiter</hi> (1970–2015): Die Protokolle des österreichischen Ministerrates 1848–1867. Wien: mehrere Verlage. [https://hw.oeaw.ac.at/ministerrat/].
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3456">Viele Herausgeber und Bearbeiter (1970–2015): Die Protokolle des österreichischen Ministerrates 1848–1867. Wien: mehrere Verlage. [https://hw.oeaw.ac.at/ministerrat/].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3457"><rs type="bibl" ref="#bibl__2218"><hi rend="bold">Viele HerausgeberInnen und BearbeiterInnen</hi> (1973–2018): Die Habsburgermonarchie 1848–1918, 12 Bände, Wien: Verlag der Österreichischen Akademie der Wissenschaften.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3457">Viele HerausgeberInnen und BearbeiterInnen (1973–2018): Die Habsburgermonarchie 1848–1918, 12 Bände, Wien: Verlag der Österreichischen Akademie der Wissenschaften.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3458"><rs type="bibl" ref="#bibl__2219"><hi rend="bold">Bernád, Ágoston Zénó / Gruber, Christine / Kaiser, Maximilian</hi> (2017): 
-                        <hi rend="italic">Europa baut auf Biographien</hi>. Wien: new academic press.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3458">Bernád, Ágoston Zénó / Gruber, Christine / Kaiser, Maximilian (2017): Europa baut auf Biographien. Wien: new academic press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3459"><rs type="bibl" ref="#bibl__2220"><hi rend="bold">Fokkens, Antske / ter Braake, Serge / Ockeloen, Niels / Vossen, Piek / Legêne, Susan / Schreiber, Guus / de Boer, Victor</hi> (2017): „BiographyNet: Extracting Relations Between People and Events“, in: 
-                        <hi rend="italic">Europa baut auf Biographien</hi>, 193–223.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3459">Fokkens, Antske / ter Braake, Serge / Ockeloen, Niels / Vossen, Piek / Legêne, Susan / Schreiber, Guus / de Boer, Victor (2017): „BiographyNet: Extracting Relations Between People and Events“, in: Europa baut auf Biographien, 193–223.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3460"><rs type="bibl" ref="#bibl__2221"><hi rend="bold">Heath, Tom / Bizer, Christian</hi> (2011): 
-                        <emph>Linked Data: Evolving the Web into a Global Data Space</emph> (1st edition). Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. San Rafael: Morgan &amp; Claypool
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3460">Heath, Tom / Bizer, Christian (2011): Linked Data: Evolving the Web into a Global Data Space (1st edition). Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. San Rafael: Morgan &amp; Claypool</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3461"><rs type="bibl" ref="#bibl__2222"><hi rend="bold">Miles, Alistair / Bechhofer, Sean</hi> (eds.) (2009): SKOS Simple Knowledge Organization System, W3C Recommendation, 18 August 2009, 
-                        <ptr target="http://www.w3.org/TR/skos-reference"/>.
-                    </rs></rs></bibl>
-                    <bibl>Eine ausführliche historiographische Literaturliste kann bei Bedarf zur Verfügung gestellt werden. <rs type="bibl" ref="#bibl__3462"><rs type="bibl" ref="#bibl__2223"/></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3461">Miles, Alistair / Bechhofer, Sean (eds.) (2009): SKOS Simple Knowledge Organization System, W3C Recommendation, 18 August 2009, .</rs></bibl>
+                    <bibl>Eine ausführliche historiographische Literaturliste kann bei Bedarf zur Verfügung gestellt werden. <rs type="bibl" ref="#bibl__3462">Eine ausführliche historiographische Literaturliste kann bei Bedarf zur Verfügung gestellt werden.</rs></bibl>
                 </listBibl>
             </div>
         </back>

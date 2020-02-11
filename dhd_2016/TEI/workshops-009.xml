@@ -225,15 +225,10 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__231"><hi rend="italic">DARIAH-DE</hi>. Digital Research Infrasructure for the
-                  Arts and Humanities. Göttingen <ref target="https://de.dariah.eu/">https://de.dariah.eu/</ref>.</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__231">DARIAH-DE. Digital Research Infrasructure for the Arts and Humanities. Göttingen https://de.dariah.eu/.</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2028"><hi rend="bold">Neuroth, Heike / Rapp, Andrea / Söring, Sibylle</hi> (eds.)
-                    (2015): <hi rend="italic">TextGrid: Von der Community — für die
-                    Community</hi>. Eine Virtuelle Forschungsumgebung für die
-                    Geisteswissenschaften. Glückstadt: Hülsbusch.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__232"><hi rend="bold">TextGrid Konsortium</hi> (2006–2014) <hi rend="italic">TextGrid </hi>Virtuelle Forschungsumgebung für die
-                    Geisteswissenschaften. Göttingen: TextGrid Konsortium <ref target="http://textgrid.de/">textgrid.de</ref>.</rs></bibl>
+                    <rs type="bibl" ref="#bibl__2028">Neuroth, Heike / Rapp, Andrea / Söring, Sibylle (eds.) (2015): TextGrid: Von der Community — für die Community. Eine Virtuelle Forschungsumgebung für die Geisteswissenschaften. Glückstadt: Hülsbusch.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__232">TextGrid Konsortium (2006–2014) TextGrid Virtuelle Forschungsumgebung für die Geisteswissenschaften. Göttingen: TextGrid Konsortium textgrid.de.</rs></bibl>
                   </listBibl>
                 </div>
               </back>

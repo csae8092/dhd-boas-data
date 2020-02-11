@@ -136,14 +136,9 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliography</head>
-              <bibl><rs type="bibl" ref="#bibl__2429"><hi rend="bold">Auster, Paul</hi> (1985): <hi rend="italic">City of
-              glass.</hi> Volume 1 of The New York trilogy. New York: Penguin
-              Books.</rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2430"><hi rend="bold">Karasik, Paul / Mazzucchelli, David / Auster, Paul</hi>
-              (1994): <hi rend="italic">Paul Auster’s City of glass</hi>. New York: Avon
-              Books. </rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2431"><hi rend="bold">McCloud, Scott</hi> (1993): <hi rend="italic">Understanding comics: the invisible art</hi>. Northampton, MA: Tundra.
-            </rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2429">Auster, Paul (1985): City of glass. Volume 1 of The New York trilogy. New York: Penguin Books.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2430">Karasik, Paul / Mazzucchelli, David / Auster, Paul (1994): Paul Auster’s City of glass. New York: Avon Books.</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2431">McCloud, Scott (1993): Understanding comics: the invisible art. Northampton, MA: Tundra.</rs></bibl>
           </listBibl>
         </div>
       </back>

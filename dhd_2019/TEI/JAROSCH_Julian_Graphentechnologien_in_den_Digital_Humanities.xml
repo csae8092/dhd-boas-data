@@ -260,54 +260,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4098"><rs type="bibl" ref="#bibl__2872"><hi rend="color(#000000)bold">Grüntgens, Max / Schrade, Torsten</hi>
-                        <hi rend="color(#000000)"> (2016): Data repositories in the Humanities and the Semantic Web: modelling, linking, visualising. </hi>
-                        <hi rend="color(#000000)">In: </hi>
-                        <hi rend="color(#000000)italic">Adamou, A., Daga, E., Isaksen, L. (</hi>
-                        <hi rend="color(#000000)italic">Hrsg</hi>
-                        <hi rend="color(#000000)italic">.): Proceedings of the 1st Workshop on Humanities in the Semantic Web (WHiSe), CEUR Workshop Proceedings</hi>
-                        <hi rend="color(#000000)">. Aachen</hi>
-                        <hi rend="color(#000000)">, </hi>
-                        <hi rend="color(#000000)">S. 53–64.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4098">Grüntgens, Max / Schrade, Torsten (2016): Data repositories in the Humanities and the Semantic Web: modelling, linking, visualising. In: Adamou, A., Daga, E., Isaksen, L. ( Hrsg .): Proceedings of the 1st Workshop on Humanities in the Semantic Web (WHiSe), CEUR Workshop Proceedings . Aachen , S. 53–64.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__227"><rs type="bibl" ref="#bibl__2873"><hi rend="color(#000000)bold">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian</hi>
-                        <hi rend="color(#000000)"> (2015): Metadaten, LOD und der Mehrwert standardisierter und vernetzter Daten. In: </hi>
-                        <hi rend="color(#000000)italic">Heike Neuroth, Andrea Rapp, Sibylle Söring (Hrsg.): TextGrid: Von der Community – für die Community. Eine Virtuelle Forschungsumgebung für </hi>
-                        <hi rend="color(#000000)italic">die Geisteswissenschaften</hi>
-                        <hi rend="color(#000000)">. Göttingen, S. 91–102. DOI: </hi>
-                        <ref target="http://dx.doi.org/10.3249/webdoc-3947"> </ref>
-                        <ptr target="http://dx.doi.org/10.3249/webdoc-3947"/>
-                        <hi rend="color(#000000)">[Letzter Zugriff </hi>
-                        <hi rend="color(#000000)">09</hi>
-                        <hi rend="color(#000000)">.</hi>
-                        <hi rend="color(#000000)">01</hi>
-                        <hi rend="color(#000000)">.201</hi>
-                        <hi rend="color(#000000)">9</hi>
-                        <hi rend="color(#000000)">]</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__227">Iglesia, Martin de la / Moretto, Nicolas / Brodhun, Maximilian (2015): Metadaten, LOD und der Mehrwert standardisierter und vernetzter Daten. In: Heike Neuroth, Andrea Rapp, Sibylle Söring (Hrsg.): TextGrid: Von der Community – für die Community. Eine Virtuelle Forschungsumgebung für die Geisteswissenschaften . Göttingen, S. 91–102. DOI: [Letzter Zugriff 09 . 01 .201 9 ]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4099"><rs type="bibl" ref="#bibl__2874"><hi rend="color(#000000)bold">Kuczera, Andreas</hi>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">(</hi>
-                        <hi rend="color(#000000)">2017</hi>
-                        <hi rend="color(#000000)">):</hi>
-                        <hi rend="color(#000000)"> Graphentechnologien in den Digitalen Geisteswissenschaften. abitech 37, </hi>
-                        <hi rend="color(#000000)">S. </hi>
-                        <hi rend="color(#000000)">179</hi>
-                        <hi rend="color(#000000)">–196</hi>
-                        <hi rend="color(#000000)">. </hi>
-                        <ptr target="https://doi.org/10.1515/abitech-2017-0042"/>
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)">[Letzter Zugriff 09.01.2019]</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__4099">Kuczera, Andreas ( 2017 ): Graphentechnologien in den Digitalen Geisteswissenschaften. abitech 37, S. 179 –196 . [Letzter Zugriff 09.01.2019]</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__228"><rs type="bibl" ref="#bibl__2875"><hi rend="color(#000000)bold">Schrade, Torsten </hi>
-                        <hi rend="color(#000000)">(2013): Datenstrukturierung. </hi>In:
-                        <hi rend="color(#000000)"> </hi>
-                        <hi rend="color(#000000)italic">Über die Praxis des kulturwissenschaftlichen Arbeitens. Ein Handwörterbuch.</hi>
-                        <hi rend="color(#000000)"> Bielefeld: transcript, S. 91–97.</hi>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__228">Schrade, Torsten (2013): Datenstrukturierung. In: Über die Praxis des kulturwissenschaftlichen Arbeitens. Ein Handwörterbuch. Bielefeld: transcript, S. 91–97.</rs></bibl>
                 </listBibl>
             </div>
         </back>

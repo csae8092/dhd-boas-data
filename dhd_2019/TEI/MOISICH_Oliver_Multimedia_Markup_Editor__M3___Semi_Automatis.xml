@@ -101,17 +101,11 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl rend="Bibliography">
-                        <rs type="bibl" ref="#bibl__3279"><rs type="bibl" ref="#bibl__2038"><ref target="BIBLIOGRAPHY">Dunst, A., Hartel, R., &amp; Laubrock, J. (2017). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 
-                            <hi rend="italic">2nd International Workshop on coMics Analysis, Processing, and Understanding, 14th IAPR International Conference on Document Analysis and Recognition.</hi> Kyoto, Japan.
-                        </ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3279">Dunst, A., Hartel, R., &amp; Laubrock, J. (2017). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 2nd International Workshop on coMics Analysis, Processing, and Understanding, 14th IAPR International Conference on Document Analysis and Recognition. Kyoto, Japan.</rs></bibl>
                     <bibl rend="Bibliography">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. 
-                        <rs type="bibl" ref="#bibl__3280"><rs type="bibl" ref="#bibl__2039"><hi rend="italic">Proceedings of the 22nd annual conference on Computer graphics and interactive techniques</hi> (pp. 191-198). ACM.
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3280">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. Proceedings of the 22nd annual conference on Computer graphics and interactive techniques (pp. 191-198). ACM.</rs></bibl>
                     <bibl rend="Bibliography">Revoy, D. (2017). 
-                        <rs type="bibl" ref="#bibl__3281"><rs type="bibl" ref="#bibl__2040"><hi rend="italic">Pepper &amp; Carrot. Episode 21: The Magic Contest</hi>. (Pepper and Carrot) Retrieved 2018 10, from 
-                        <ref target="https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest">https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest</ref>
-                    </rs></rs></bibl>
+                        <rs type="bibl" ref="#bibl__3281">Revoy, D. (2017). Pepper &amp; Carrot. Episode 21: The Magic Contest. (Pepper and Carrot) Retrieved 2018 10, from https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest</rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -129,21 +129,10 @@
             <div type="bibliogr">
               <listBibl>
                 <head>Bibliographie</head>
-                <bibl><rs type="bibl" ref="#bibl__1815"><hi rend="bold">Dilthey, Wilhelm</hi> (1970): <hi rend="italic">Der Aufbau
-                der geschichtlichen Welt in den Geisteswissenschaften</hi>. Frankfurt
-                a.M.: Suhrkamp 365-393.</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__1816"><hi rend="bold">Scheuermann, Leif</hi> (in Vorbereitung): "Die Abgrenzung
-                der digitalen Geisteswissenschaften", in: <hi rend="italic">Digital
-                Classics</hi> 2.</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__1817"><hi rend="bold">Scheuermann, Leif</hi> (2014): "On co-productive web-based
-                digital mapmaking. Preconditions, risks and opportunities", in: Rau, Susanne
-                / Schönherr, Ekkehard (eds.): <hi rend="italic">Mapping Spatial Relations,
-                their Perceptions and Dynamics</hi> (= Lecture Notes in Geoinformation
-                and Cartography). Switzerland: Springer International Publishing
-                17-23.</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__1818"><hi rend="bold">Scheuermann, Leif</hi> (2006): "Ontologien in den
-                historischen Wissenschaften", in: <hi rend="italic">Historical Social
-                Research</hi> 31, 3: 308-316.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__1815">Dilthey, Wilhelm (1970): Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften. Frankfurt a.M.: Suhrkamp 365-393.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__1816">Scheuermann, Leif (in Vorbereitung): "Die Abgrenzung der digitalen Geisteswissenschaften", in: Digital Classics 2.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__1817">Scheuermann, Leif (2014): "On co-productive web-based digital mapmaking. Preconditions, risks and opportunities", in: Rau, Susanne / Schönherr, Ekkehard (eds.): Mapping Spatial Relations, their Perceptions and Dynamics (= Lecture Notes in Geoinformation and Cartography). Switzerland: Springer International Publishing 17-23.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__1818">Scheuermann, Leif (2006): "Ontologien in den historischen Wissenschaften", in: Historical Social Research 31, 3: 308-316.</rs></bibl>
               </listBibl>
             </div>
           </back>

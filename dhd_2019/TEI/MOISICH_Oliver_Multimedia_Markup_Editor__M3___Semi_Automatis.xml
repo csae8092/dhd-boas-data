@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title>
+                <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title><title type="conf_year">2019</title>
                 <author ref="#person__moisich-gmail-com">
                     <persName>
                         <surname>Moisich</surname>

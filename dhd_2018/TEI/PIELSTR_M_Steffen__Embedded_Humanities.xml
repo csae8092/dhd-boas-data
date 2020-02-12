@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Embedded Humanities</title>
+                <title> Embedded Humanities</title><title type="conf_year">2018</title>
                 <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
                     <persName>
                         <surname>Jannidis</surname>

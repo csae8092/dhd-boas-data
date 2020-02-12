@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>SANTA: Systematische Analyse Narrativer Texte durch Annotation</title>
+                <title>SANTA: Systematische Analyse Narrativer Texte durch Annotation</title><title type="conf_year">2018</title>
                 <author ref="#person__evelyn-gius-uni-hamburg-de">
                     <persName>
                         <surname>Gius</surname>

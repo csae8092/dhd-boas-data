@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Reisewege in Raum und Zeit</title>
+                <title>Reisewege in Raum und Zeit</title><title type="conf_year">2018</title>
                 <author ref="#person__aschauer-ieg-mainz-de">
                     <persName>
                         <surname>Aschauer</surname>

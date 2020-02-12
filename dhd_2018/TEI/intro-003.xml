@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="nodisplay">Description Page</title>
+        <title type="nodisplay">Description Page</title><title type="conf_year">2018</title>
       </titleStmt>
       <publicationStmt>
         <t:publisher xmlns:t="http://www.tei-c.org/ns/1.0">Georg Vogeler, im Auftrag des Verbands Digital Humanities im deutschaprachigen Raum e.V.</t:publisher>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pfälzische Burgen und ihre Umgebung im Mittelalter, modelliert anhand von Neo4j, QGIS und 3D Modellen</title>
+                <title>Pfälzische Burgen und ihre Umgebung im Mittelalter, modelliert anhand von Neo4j, QGIS und 3D Modellen</title><title type="conf_year">2019</title>
                 <author ref="#person__aaron-pattee-iwr-uni-heidelberg-de">
                     <persName>
                         <surname>Pattee</surname>

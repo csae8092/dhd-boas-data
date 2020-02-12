@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title>
+                <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title><title type="conf_year">2019</title>
                 <author ref="#person__katja-metzmacher-uni-koeln-de">
                     <persName>
                         <surname>Metzmacher</surname>

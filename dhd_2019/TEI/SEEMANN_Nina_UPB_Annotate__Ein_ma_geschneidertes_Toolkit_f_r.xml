@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title>
+                <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title><title type="conf_year">2019</title>
                 <author ref="#person__nina-seemann-upb-de">
                     <persName>
                         <surname>Seemann</surname>

@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Formalisierung von Märchen</title>
+                <title>Formalisierung von Märchen</title><title type="conf_year">2018</title>
                 <author ref="#person__declerck-dfki-de">
                     <persName>
                         <surname>Declerck</surname>

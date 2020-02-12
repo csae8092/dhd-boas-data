@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Topic, Genre, Text</title>
+        <title>Topic, Genre, Text</title><title type="conf_year">2016</title>
         <author ref="#person__christof-schoech-uni-wuerzburg-de">
           <name>
             <surname>Schöch</surname>

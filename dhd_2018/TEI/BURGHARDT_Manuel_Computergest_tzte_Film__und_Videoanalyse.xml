@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Computergestützte Film- und Videoanalyse</title>
+                <title>Computergestützte Film- und Videoanalyse</title><title type="conf_year">2018</title>
                 <author ref="#person__manuel-burghardt-ur-de">
                     <persName>
                         <surname>Burghardt</surname>

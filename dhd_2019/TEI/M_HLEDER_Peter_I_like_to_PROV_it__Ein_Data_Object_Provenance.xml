@@ -4,7 +4,7 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">I like to PROV it! Ein Data Object Provenance Tool für die Digital Humanities</title>
-                    <title type="sub"/>
+                    <title type="sub"/><title type="conf_year">2019</title>
                 </title>
                 <author ref="#person__peter-muehleder-uni-leipzig-de">
                     <persName>

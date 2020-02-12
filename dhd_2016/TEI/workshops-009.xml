@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TextGrid und DARIAH-DE: Forschungsumgebung und Infrastruktur für die Geisteswissenschaften</title>
+        <title>TextGrid und DARIAH-DE: Forschungsumgebung und Infrastruktur für die Geisteswissenschaften</title><title type="conf_year">2016</title>
         <author ref="#person__vanscheidt-linglit-tu-darmstadt-de">
           <name>
             <surname>Vanscheidt</surname>

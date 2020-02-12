@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Neue Wahlverwandtschaften</title>
+                <title> Neue Wahlverwandtschaften</title><title type="conf_year">2018</title>
                 <author ref="#person__daniel-althof-bbaw-de">
                     <persName>
                         <surname>Althof</surname>

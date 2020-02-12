@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Geisteswissenschaft-liche Fachdatenrepositorien im Semantic Web. Modellierung, Vernetzung, Visualisierung.</title>
+        <title>Geisteswissenschaft-liche Fachdatenrepositorien im Semantic Web. Modellierung, Vernetzung, Visualisierung.</title><title type="conf_year">2016</title>
         <author ref="#person__torsten-schrade-adwmainz-de">
           <name>
             <surname>Schrade</surname>

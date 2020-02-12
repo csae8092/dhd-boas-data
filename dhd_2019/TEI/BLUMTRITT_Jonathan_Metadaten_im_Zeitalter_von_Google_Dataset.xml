@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Metadaten im Zeitalter von Google Dataset Search</title>
+                <title>Metadaten im Zeitalter von Google Dataset Search</title><title type="conf_year">2019</title>
                 <author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>

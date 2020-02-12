@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>„Bis zum Sankt(-|\s)?[Nn]immerleins(-|\s)?[Tt]ag“ – Der Datumserkenner „PDR-Dates“</title>
+        <title>„Bis zum Sankt(-|\s)?[Nn]immerleins(-|\s)?[Tt]ag“ – Der Datumserkenner „PDR-Dates“</title><title type="conf_year">2016</title>
         <author ref="#person__fechner-bbaw-de">
           <name>
             <surname>Fechner</surname>

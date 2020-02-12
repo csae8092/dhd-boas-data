@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Bearbeitung und Annotation historischer Texte mittels Graph-Datenbanken am Beispiel der Chronik des Matthias von Edessa </title>
+        <title>Bearbeitung und Annotation historischer Texte mittels Graph-Datenbanken am Beispiel der Chronik des Matthias von Edessa </title><title type="conf_year">2016</title>
         <author ref="#person__sascha-kaufmann-dh-unibe-ch">
           <name>
             <surname>Kaufmann</surname>

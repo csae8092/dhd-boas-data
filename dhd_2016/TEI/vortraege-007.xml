@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus</title>
+        <title>Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus</title><title type="conf_year">2016</title>
         <author ref="#person__mathiasgoebel-web-de">
           <name>
             <surname>Göbel</surname>

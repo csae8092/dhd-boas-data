@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Fachwissenschaftliche Nutzungsszenarien der CLARIN-D Infrastruktur</title>
+        <title>Fachwissenschaftliche Nutzungsszenarien der CLARIN-D Infrastruktur</title><title type="conf_year">2016</title>
         <author ref="#person__gregor-wiedemann-uni-leipzig-de">
           <name>
             <surname>Wiedemann</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> Visualisierung von Ortsnamen im Deutschen Textarchiv</title>
+        <title> Visualisierung von Ortsnamen im Deutschen Textarchiv</title><title type="conf_year">2016</title>
         <author ref="#person__adrien-barbaresi-oeaw-ac-at">
           <name>
             <surname>Barbaresi</surname>

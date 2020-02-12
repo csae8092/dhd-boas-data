@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Text and Feature Recognition: Mit READ Werkzeugen Texte erkennen und Dokumente analysieren</title>
+                <title>Automatic Text and Feature Recognition: Mit READ Werkzeugen Texte erkennen und Dokumente analysieren</title><title type="conf_year">2019</title>
                 <author ref="#person__tobias-hodel-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>

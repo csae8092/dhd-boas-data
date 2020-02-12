@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title>
+                <title>Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title><title type="conf_year">2018</title>
                 <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Reiter</surname>

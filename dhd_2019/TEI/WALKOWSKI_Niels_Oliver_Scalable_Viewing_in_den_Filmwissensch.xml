@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Scalable Viewing in den Filmwissenschaften</title>
+                <title>Scalable Viewing in den Filmwissenschaften</title><title type="conf_year">2019</title>
                 <author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Operationalisierung von Forschungsfragen in CLARIN-D - Der Anwendungsfall Ernst Jünger</title>
+        <title>Operationalisierung von Forschungsfragen in CLARIN-D - Der Anwendungsfall Ernst Jünger</title><title type="conf_year">2016</title>
         <author ref="#person__dgoldhahn-informatik-uni-leipzig-de">
           <name>
             <surname>Goldhahn</surname>

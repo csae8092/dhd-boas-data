@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Wer bist Du, Nutzer?</title>
+        <title>Wer bist Du, Nutzer?</title><title type="conf_year">2016</title>
         <author ref="#person__fandrych-rz-uni-leipzig-de">
           <name>
             <surname>Fandrych</surname>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Potentielle Privatsphäreverletzungen aufdecken und automatisiert sichtbar machen</title>
+                <title>Potentielle Privatsphäreverletzungen aufdecken und automatisiert sichtbar machen</title><title type="conf_year">2019</title>
                 <author ref="#person__fbaeumer-mail-upb-de">
                     <persName>
                         <surname>Bäumer</surname>

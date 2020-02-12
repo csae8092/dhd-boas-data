@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Booksprint-Projekt: Lehrbuch „Forschungsdaten-management“</title>
+        <title>Booksprint-Projekt: Lehrbuch „Forschungsdaten-management“</title><title type="conf_year">2016</title>
         <author ref="#person__st-buettner-fh-potsdam-de">
           <name>
             <surname>Büttner</surname>

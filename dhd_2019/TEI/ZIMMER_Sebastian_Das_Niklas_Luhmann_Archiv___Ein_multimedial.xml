@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Niklas-Luhmann Archiv - Ein multimediales Dokumenten-Netz</title>
+                <title>Das Niklas-Luhmann Archiv - Ein multimediales Dokumenten-Netz</title><title type="conf_year">2019</title>
                 <author ref="#person__sebastian-zimmer-uni-koeln-de">
                     <persName>
                         <surname>Zimmer</surname>

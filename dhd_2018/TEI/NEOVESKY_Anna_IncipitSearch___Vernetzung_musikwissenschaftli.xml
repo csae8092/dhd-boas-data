@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>IncipitSearch - Vernetzung musikwissenschaftlicher Vorhaben</title>
+                <title>IncipitSearch - Vernetzung musikwissenschaftlicher Vorhaben</title><title type="conf_year">2018</title>
                 <author ref="#person__anna-neovesky-adwmainz-de">
                     <persName>
                         <surname>Neovesky</surname>

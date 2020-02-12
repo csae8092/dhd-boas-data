@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Annotation gesprochener Daten mit WebAnno-MM</title>
+                <title>Annotation gesprochener Daten mit WebAnno-MM</title><title type="conf_year">2019</title>
                 <author ref="#person__hanna-hedeland-uni-hamburg-de">
                     <persName>
                         <surname>Hedeland</surname>

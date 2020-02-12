@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Editionsportal (nicht nur) für Thüringen</title>
+                <title>Ein Editionsportal (nicht nur) für Thüringen</title><title type="conf_year">2019</title>
                 <author ref="#person__martin-prell-uni-jena-de">
                     <persName>
                         <surname>Prell</surname>

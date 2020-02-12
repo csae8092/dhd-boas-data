@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Das Dortmunder Chat-Korpus in CLARIN-D: Modellierung und Mehrwerte</title>
+        <title>Das Dortmunder Chat-Korpus in CLARIN-D: Modellierung und Mehrwerte</title><title type="conf_year">2016</title>
         <author ref="#person__michael-beisswenger-tu-dortmund-de">
           <name>
             <surname>Beißwenger</surname>

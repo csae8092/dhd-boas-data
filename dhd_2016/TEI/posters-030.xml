@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Datenressourcen der Arbeitsstelle des Deutschen Wörterbuchs (Neubearbeitung)</title>
+        <title>Datenressourcen der Arbeitsstelle des Deutschen Wörterbuchs (Neubearbeitung)</title><title type="conf_year">2016</title>
         <author ref="#person__nmedera-gwdg-de">
           <name>
             <surname>Mederake</surname>

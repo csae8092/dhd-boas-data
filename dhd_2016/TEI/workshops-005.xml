@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CATMA - Eine Plattform zum kollaborativen und automatisierten Annotieren und Analysieren von Texten</title>
+        <title>CATMA - Eine Plattform zum kollaborativen und automatisierten Annotieren und Analysieren von Texten</title><title type="conf_year">2016</title>
         <author ref="#person__thomas-boegel-informatik-uni-heidelberg-de">
           <name>
             <surname>Bögel</surname>

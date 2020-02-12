@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Deutsche Geschichte-Digital: Ergebnisse der TEI-Konvertierung und Integration in Pilotprojekten</title>
+                <title>Deutsche Geschichte-Digital: Ergebnisse der TEI-Konvertierung und Integration in Pilotprojekten</title><title type="conf_year">2018</title>
                 <author ref="#person__hiebert-ghi-dc-org">
                     <persName>
                         <surname>Hiebert</surname>

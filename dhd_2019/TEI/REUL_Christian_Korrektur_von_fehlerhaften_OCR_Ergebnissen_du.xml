@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Korrektur von fehlerhaften OCR Ergebnissen durch automatisches Alignment mit Texten eines Korpus</title>
+                <title>Korrektur von fehlerhaften OCR Ergebnissen durch automatisches Alignment mit Texten eines Korpus</title><title type="conf_year">2019</title>
                 <author ref="#person__markusbald92-gmail-com">
                     <persName>
                         <surname>Bald</surname>

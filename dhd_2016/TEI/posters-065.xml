@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>neonion - Kollaboratives Annotieren zur Erschließung von textuellen Quellen </title>
+        <title>neonion - Kollaboratives Annotieren zur Erschließung von textuellen Quellen </title><title type="conf_year">2016</title>
         <author ref="#person__clmb-inf-fu-berlin-de">
           <name>
             <surname>Müller-Birn</surname>

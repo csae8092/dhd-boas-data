@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die PARTHENOS Training Suite</title>
+                <title>Die PARTHENOS Training Suite</title><title type="conf_year">2019</title>
                 <author ref="#person__wuttke-fh-potsdam-de">
                     <persName>
                         <surname>Wuttke</surname>

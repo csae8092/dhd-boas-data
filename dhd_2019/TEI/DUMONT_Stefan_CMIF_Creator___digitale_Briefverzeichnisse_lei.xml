@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>CMIF Creator - digitale Briefverzeichnisse leicht erstellt</title>
+                <title>CMIF Creator - digitale Briefverzeichnisse leicht erstellt</title><title type="conf_year">2019</title>
                 <author ref="#person__jonas-mueller-laackman-bbaw-de">
                     <persName>
                         <surname>Müller-Laackman</surname>

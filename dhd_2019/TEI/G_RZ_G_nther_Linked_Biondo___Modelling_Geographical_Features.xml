@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Linked Biondo - Modelling Geographical Features in Renaissance Text and Maps</title>
+                <title>Linked Biondo - Modelling Geographical Features in Renaissance Text and Maps</title><title type="conf_year">2019</title>
                 <author ref="#person__guenther-goerz-fau-de">
                     <persName>
                         <surname>Görz</surname>

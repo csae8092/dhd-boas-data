@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Aufbau einer Korpusinfrastruktur für die Beobachtung des Schreibgebrauchs</title>
+        <title>Aufbau einer Korpusinfrastruktur für die Beobachtung des Schreibgebrauchs</title><title type="conf_year">2016</title>
         <author ref="#person__peter-fischer-ids-mannheim-de">
           <name>
             <surname>Fischer</surname>

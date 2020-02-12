@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>"Bleeding Edge" – Datenmodellierung, Softwareentwicklung und die Freuden und Leiden forschungsgetriebener Entwicklung am Beispiel der Datenbank der Islamic Scientific Manuscript Initiative (ISMI)</title>
+        <title>"Bleeding Edge" – Datenmodellierung, Softwareentwicklung und die Freuden und Leiden forschungsgetriebener Entwicklung am Beispiel der Datenbank der Islamic Scientific Manuscript Initiative (ISMI)</title><title type="conf_year">2016</title>
         <author ref="#person__casties-mpiwg-berlin-mpg-de">
           <name>
             <surname>Casties</surname>

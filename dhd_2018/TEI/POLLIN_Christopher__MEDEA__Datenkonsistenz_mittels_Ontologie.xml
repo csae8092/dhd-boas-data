@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> MEDEA: Datenkonsistenz mittels Ontologie</title>
+                <title> MEDEA: Datenkonsistenz mittels Ontologie</title><title type="conf_year">2018</title>
                 <author ref="#person__christopher-pollin-uni-graz-at">
                     <persName>
                         <surname>Pollin</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CLARIN-D: Ressourcen gesprochener Sprache und Webservices des Bayerischen Archivs für Sprachsignale</title>
+        <title>CLARIN-D: Ressourcen gesprochener Sprache und Webservices des Bayerischen Archivs für Sprachsignale</title><title type="conf_year">2016</title>
         <author ref="#person__draxler-phonetik-uni-muenchen-de">
           <name>
             <surname>Draxler</surname>

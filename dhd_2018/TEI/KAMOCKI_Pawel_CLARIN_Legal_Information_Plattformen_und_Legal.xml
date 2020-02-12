@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>CLARIN Legal Information Plattformen und Legal Helpdesk</title>
+                <title>CLARIN Legal Information Plattformen und Legal Helpdesk</title><title type="conf_year">2018</title>
                 <author ref="#person__pawel-kamocki-gmail-com">
                     <persName>
                         <surname>Kamocki</surname>

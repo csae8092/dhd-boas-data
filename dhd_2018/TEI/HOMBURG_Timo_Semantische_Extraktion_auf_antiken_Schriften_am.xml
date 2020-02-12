@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Semantische Extraktion auf antiken Schriften am Beispiel von Keilschriftsprachen mithilfe semantischer Wörterbücher</title>
+                <title>Semantische Extraktion auf antiken Schriften am Beispiel von Keilschriftsprachen mithilfe semantischer Wörterbücher</title><title type="conf_year">2018</title>
                 <author ref="#person__timo-homburg-gmx-de">
                     <persName>
                         <surname>Homburg</surname>

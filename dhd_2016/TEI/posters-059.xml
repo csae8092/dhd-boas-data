@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Erstellung und Visualisierung von Topic-Modellen in WebLicht</title>
+        <title>Erstellung und Visualisierung von Topic-Modellen in WebLicht</title><title type="conf_year">2016</title>
         <author ref="#person__marie-hinrichs-uni-tuebingen-de">
           <name>
             <surname>Hinrichs</surname>

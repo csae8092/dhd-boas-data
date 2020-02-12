@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Das digitale Handbuch der Höfe und Residenzen im spätmittelalterlichen Reich. Eine suchoptimierte Präsentation von strukturierten und verlinkten XML-TEI Daten.</title>
+        <title>Das digitale Handbuch der Höfe und Residenzen im spätmittelalterlichen Reich. Eine suchoptimierte Präsentation von strukturierten und verlinkten XML-TEI Daten.</title><title type="conf_year">2016</title>
         <author ref="#person__jwettla-gwdg-de">
           <name>
             <surname>Wettlaufer</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Knowledge-Based Support for Scholarly Editing and Text Processing</title>
+        <title>Knowledge-Based Support for Scholarly Editing and Text Processing</title><title type="conf_year">2016</title>
         <author ref="#person__info-janakittelmann-de">
           <name>
             <surname>Kittelmann</surname>

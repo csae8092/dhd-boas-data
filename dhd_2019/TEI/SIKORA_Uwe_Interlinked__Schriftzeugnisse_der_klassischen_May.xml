@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Interlinked: Schriftzeugnisse der klassischen Mayakultur im Spannungsfeld zwischen Stand-off- und Inlinemarkup in TEI-XML</title>
+                <title>Interlinked: Schriftzeugnisse der klassischen Mayakultur im Spannungsfeld zwischen Stand-off- und Inlinemarkup in TEI-XML</title><title type="conf_year">2019</title>
                 <author ref="#person__sikora-sub-uni-goettingen-de">
                     <persName>
                         <surname>Sikora</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Aufbau und Annotation des Kafka/Referenzkorpus </title>
+        <title>Aufbau und Annotation des Kafka/Referenzkorpus </title><title type="conf_year">2016</title>
         <author ref="#person__bherrma1-gwdg-de">
           <name>
             <surname>Herrmann</surname>

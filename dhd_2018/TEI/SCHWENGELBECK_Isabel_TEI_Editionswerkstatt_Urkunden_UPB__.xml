@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEI-Editionswerkstatt Urkunden@UPB. </title>
+                <title>TEI-Editionswerkstatt Urkunden@UPB. </title><title type="conf_year">2018</title>
                 <author ref="#person__schwengelbeck-isabel-gmail-com">
                     <persName>
                         <surname>Schwengelbeck</surname>

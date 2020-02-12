@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The 'Tiroler Soldaten-Zeitung' and its Authors. A Computer-Aided Search for Robert Musil</title>
+                <title>The 'Tiroler Soldaten-Zeitung' and its Authors. A Computer-Aided Search for Robert Musil</title><title type="conf_year">2018</title>
                 <author ref="#person__massimo-salgaro-univr-it">
                     <persName>
                         <surname>Salgaro</surname>

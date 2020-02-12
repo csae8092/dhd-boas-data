@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digital HUMANities - Eine benutzerzentrierte Perspektive</title>
+                <title>Digital HUMANities - Eine benutzerzentrierte Perspektive</title><title type="conf_year">2018</title>
                 <author ref="#person__eva-mayr-donau-uni-ac-at">
                     <persName>
                         <surname>Mayr</surname>

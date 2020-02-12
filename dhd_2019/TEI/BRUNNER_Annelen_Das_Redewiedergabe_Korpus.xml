@@ -4,7 +4,7 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Das Redewiedergabe-Korpus</title>
-                    <title type="sub">Eine neue Ressource</title>
+                    <title type="sub">Eine neue Ressource</title><title type="conf_year">2019</title>
                 </title>
                 <author ref="#person__brunner-ids-mannheim-de">
                     <persName>

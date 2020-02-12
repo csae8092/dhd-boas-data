@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Eine Basis-Architektur für den Zugriff auf multimodale Korpora gesprochener Sprache</title>
+                <title>Eine Basis-Architektur für den Zugriff auf multimodale Korpora gesprochener Sprache</title><title type="conf_year">2019</title>
                 <author ref="#person__josip-batinic-ids-mannheim-de">
                     <persName>
                         <surname>Batinic</surname>

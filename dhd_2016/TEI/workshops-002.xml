@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Wissenschaftliches Bloggen bei de.hypotheses.org</title>
+        <title>Wissenschaftliches Bloggen bei de.hypotheses.org</title><title type="conf_year">2016</title>
         <author ref="#person__mkoenig-dhi-paris-fr">
           <name>
             <surname>König</surname>

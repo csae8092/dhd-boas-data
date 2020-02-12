@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Stefan George Digital</title>
+        <title>Stefan George Digital</title><title type="conf_year">2016</title>
         <author ref="#person__frederike-neuber-uni-graz-at">
           <name>
             <surname>Neuber</surname>

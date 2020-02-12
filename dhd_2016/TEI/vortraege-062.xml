@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Emosaic – Visualisierung von Emotionen in Texten durch Farbumwandlung zur Analyse und Exploration</title>
+        <title>Emosaic – Visualisierung von Emotionen in Texten durch Farbumwandlung zur Analyse und Exploration</title><title type="conf_year">2016</title>
         <author ref="#person__martin-von-lupin-fh-potsdam-de">
           <name>
             <surname>von Lupin</surname>

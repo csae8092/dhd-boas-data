@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>CorpusExplorer v2.0 - Seminartauglich in einem halben Tag</title>
+                <title>CorpusExplorer v2.0 - Seminartauglich in einem halben Tag</title><title type="conf_year">2018</title>
                 <author ref="#person__jan-ruediger-uni-kassel-de">
                     <persName>
                         <surname>Rüdiger</surname>

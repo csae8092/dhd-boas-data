@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das GeSIG-Inventar: Eine Ressource für die Erforschung und Vermittlung der Wissenschaftssprache der Geisteswissenschaften</title>
+                <title>Das GeSIG-Inventar: Eine Ressource für die Erforschung und Vermittlung der Wissenschaftssprache der Geisteswissenschaften</title><title type="conf_year">2019</title>
                 <author ref="#person__cordula-meissner-uni-leipzig-de">
                     <persName>
                         <surname>Meißner</surname>

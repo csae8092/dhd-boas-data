@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Web Annotation Protocol Server zur Untersuchung vormoderner Wissensbestände</title>
+                <title>Ein Web Annotation Protocol Server zur Untersuchung vormoderner Wissensbestände</title><title type="conf_year">2019</title>
                 <author ref="#person__danah-tonne-kit-edu">
                     <persName>
                         <surname>Tonne</surname>

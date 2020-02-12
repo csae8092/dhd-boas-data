@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title>
+                <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title><title type="conf_year">2019</title>
                 <author ref="#person__adelmann-informatik-uni-hamburg-de">
                     <persName>
                         <surname>Adelmann</surname>

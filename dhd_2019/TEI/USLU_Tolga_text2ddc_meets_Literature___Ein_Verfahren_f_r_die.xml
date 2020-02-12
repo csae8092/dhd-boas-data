@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>text2ddc meets Literature - Ein Verfahren für die Analyse und Visualisierung thematischer Makrostrukturen</title>
+                <title>text2ddc meets Literature - Ein Verfahren für die Analyse und Visualisierung thematischer Makrostrukturen</title><title type="conf_year">2019</title>
                 <author ref="#person__mehler-em-uni-frankfurt-de">
                     <persName>
                         <surname>Mehler</surname>

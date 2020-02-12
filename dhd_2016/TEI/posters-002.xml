@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Monasterium. Benutzerintegration in einem DH-Großprojekt</title>
+        <title>Monasterium. Benutzerintegration in einem DH-Großprojekt</title><title type="conf_year">2016</title>
         <author ref="#person__martina-buergermeister-uni-graz-at">
           <name>
             <surname>Bürgermeister</surname>

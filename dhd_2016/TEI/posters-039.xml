@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>WissKI – Wissenschaftliche Kommunikations-Infrastruktur</title>
+        <title>WissKI – Wissenschaftliche Kommunikations-Infrastruktur</title><title type="conf_year">2016</title>
         <author ref="#person__dorian-merz-fau-de">
           <name>
             <surname>Merz</surname>

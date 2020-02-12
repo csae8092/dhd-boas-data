@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Metaphern digital – Auf dem Weg von der Annotation zur automatischen Detektion</title>
+        <title>Metaphern digital – Auf dem Weg von der Annotation zur automatischen Detektion</title><title type="conf_year">2016</title>
         <author ref="#person__dodinh-kdsl-informatik-tu-darmstadt-de">
           <name>
             <surname>Do Dinh</surname>

@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Macht der Daten - vom konsequenten Umgang mit Forschungsdaten</title>
+                <title>Die Macht der Daten - vom konsequenten Umgang mit Forschungsdaten</title><title type="conf_year">2018</title>
                 <author ref="#person__agalffy-smail-uni-koeln-de">
                     <persName>
                         <surname>Gálffy</surname>

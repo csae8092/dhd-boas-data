@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>State of the Art Optical Character Recognition of 19th Century Fraktur Scripts using Open Source Engines</title>
+                <title>State of the Art Optical Character Recognition of 19th Century Fraktur Scripts using Open Source Engines</title><title type="conf_year">2019</title>
                 <author ref="#person__christian-reul-uni-wuerzburg-de">
                     <persName>
                         <surname>Reul</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Darstellung heterogenen und dynamischen Wissens mit CIDOC CRM und WissKI</title>
+        <title>Darstellung heterogenen und dynamischen Wissens mit CIDOC CRM und WissKI</title><title type="conf_year">2016</title>
         <author ref="#person__martin-scholz-fau-de">
           <name>
             <surname>Scholz</surname>

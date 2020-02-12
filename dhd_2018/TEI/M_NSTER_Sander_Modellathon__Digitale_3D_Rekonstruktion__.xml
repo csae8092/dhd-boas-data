@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Modellathon „Digitale 3D-Rekonstruktion" </title>
+                <title>Modellathon „Digitale 3D-Rekonstruktion" </title><title type="conf_year">2018</title>
                 <author ref="#person__sander-muenster-tu-dresden-de">
                     <persName>
                         <surname>Münster</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>histoGraph: Graphbasierte Exploration und Crowdbasierte Indexierung </title>
+        <title>histoGraph: Graphbasierte Exploration und Crowdbasierte Indexierung </title><title type="conf_year">2016</title>
         <author ref="#person__lars-wieneke-cvce-eu">
           <name>
             <surname>Wieneke</surname>

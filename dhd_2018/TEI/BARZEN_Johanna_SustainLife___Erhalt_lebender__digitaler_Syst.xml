@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften</title>
+                <title>SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften</title><title type="conf_year">2018</title>
                 <author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
                     <persName>
                         <surname>Barzen</surname>

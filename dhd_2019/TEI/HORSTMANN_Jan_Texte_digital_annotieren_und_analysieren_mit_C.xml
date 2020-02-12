@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Texte digital annotieren und analysieren mit CATMA 6.0</title>
+                <title>Texte digital annotieren und analysieren mit CATMA 6.0</title><title type="conf_year">2019</title>
                 <author ref="#person__jan-horstmann-uni-hamburg-de">
                     <persName>
                         <surname>Horstmann</surname>

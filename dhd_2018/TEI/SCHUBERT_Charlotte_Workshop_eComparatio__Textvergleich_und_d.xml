@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Workshop eComparatio: Textvergleich und digitaler Apparat</title>
+                <title>Workshop eComparatio: Textvergleich und digitaler Apparat</title><title type="conf_year">2018</title>
                 <author ref="#person__schubert-uni-leipzig-de">
                     <persName>
                         <surname>Schubert</surname>

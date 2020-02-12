@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Texterkennung mit Ocropy – Vom Bild zum Text</title>
+                <title>Texterkennung mit Ocropy – Vom Bild zum Text</title><title type="conf_year">2019</title>
                 <author ref="#person__robert-nasarek-geschichte-uni-halle-de">
                     <persName>
                         <surname>Nasarek</surname>

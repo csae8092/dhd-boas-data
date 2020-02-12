@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Dramenwerkbank - Automatische Sprachverarbeitung zur Analyse von Figurenrede</title>
+        <title>Dramenwerkbank - Automatische Sprachverarbeitung zur Analyse von Figurenrede</title><title type="conf_year">2016</title>
         <author ref="#person__andre-blessing-ims-uni-stuttgart-de">
           <name>
             <surname>Blessing</surname>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title>
+                <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title><title type="conf_year">2019</title>
                 <author ref="#person__tobias-hodel-hist-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>

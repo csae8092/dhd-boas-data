@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grundzüge einer visuellen Stilometrie</title>
+                <title>Grundzüge einer visuellen Stilometrie</title><title type="conf_year">2019</title>
                 <author ref="#person__laubrock-uni-potsdam-de">
                     <persName>
                         <surname>Laubrock</surname>

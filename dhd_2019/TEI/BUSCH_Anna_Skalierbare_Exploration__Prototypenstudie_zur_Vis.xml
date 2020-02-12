@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title>
+                <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title><title type="conf_year">2019</title>
                 <author ref="#person__annabusch-uni-potsdam-de">
                     <persName>
                         <surname>Busch</surname>

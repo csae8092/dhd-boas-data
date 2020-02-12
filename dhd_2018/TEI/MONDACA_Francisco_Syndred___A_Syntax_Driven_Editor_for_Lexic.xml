@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Syndred - A Syntax-Driven Editor for Lexical Resources</title>
+                <title>Syndred - A Syntax-Driven Editor for Lexical Resources</title><title type="conf_year">2018</title>
                 <author ref="#person__f-mondaca-uni-koeln-de">
                     <persName>
                         <surname>Mondaca</surname>

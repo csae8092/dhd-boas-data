@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Datenbank für Gesprochenes Deutsch (DGD)</title>
+        <title>Datenbank für Gesprochenes Deutsch (DGD)</title><title type="conf_year">2016</title>
         <author ref="#person__thomas-schmidt-ids-mannheim-de">
           <name>
             <surname>Schmidt</surname>

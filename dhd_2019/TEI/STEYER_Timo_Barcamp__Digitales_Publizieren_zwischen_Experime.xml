@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Barcamp: Digitales Publizieren zwischen Experiment und Etablierung</title>
+                <title>Barcamp: Digitales Publizieren zwischen Experiment und Etablierung</title><title type="conf_year">2019</title>
                 <author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Von IIIF zu IPIF? Ein Vorschlag für den Datenaustausch über Personen</title>
+                <title>Von IIIF zu IPIF? Ein Vorschlag für den Datenaustausch über Personen</title><title type="conf_year">2019</title>
                 <author ref="#person__georg-vogeler-uni-graz-at">
                     <persName>
                         <surname>Vogeler</surname>

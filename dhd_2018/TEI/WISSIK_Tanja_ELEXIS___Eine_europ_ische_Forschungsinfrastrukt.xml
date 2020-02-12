@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ELEXIS – Eine europäische Forschungsinfrastruktur für lexikographische Daten</title>
+                <title>ELEXIS – Eine europäische Forschungsinfrastruktur für lexikographische Daten</title><title type="conf_year">2018</title>
                 <author ref="#person__tanja-wissik-oeaw-ac-at">
                     <persName>
                         <surname>Wissik</surname>

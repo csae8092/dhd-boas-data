@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sechs Wege der FRBRisierung von Textverknüpfungen</title>
+                <title>Sechs Wege der FRBRisierung von Textverknüpfungen</title><title type="conf_year">2018</title>
                 <author ref="#person__patrick-helling-uni-koeln-de">
                     <persName>
                         <surname>Helling</surname>

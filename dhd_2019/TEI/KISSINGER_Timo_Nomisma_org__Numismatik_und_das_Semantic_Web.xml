@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nomisma.org: Numismatik und das Semantic Web</title>
+                <title>Nomisma.org: Numismatik und das Semantic Web</title><title type="conf_year">2019</title>
                 <author ref="#person__david-wigg-wolf-dainst-de">
                     <persName>
                         <surname>Wigg-Wolf</surname>

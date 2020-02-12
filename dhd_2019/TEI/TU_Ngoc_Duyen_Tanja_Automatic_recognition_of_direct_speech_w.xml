@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic recognition of direct speech without quotation marks. A rule-based approach</title>
+                <title>Automatic recognition of direct speech without quotation marks. A rule-based approach</title><title type="conf_year">2019</title>
                 <author ref="#person__tu-ids-mannheim-de">
                     <persName>
                         <surname>Tu</surname>

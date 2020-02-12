@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities </title>
+        <title>CRETA (Centrum für reflektierte Textanalyse) – Fachübergreifende Methodenentwicklung in den Digital Humanities </title><title type="conf_year">2016</title>
         <author ref="#person__jonas-kuhn-ims-uni-stuttgart-de">
           <name>
             <surname>Kuhn</surname>

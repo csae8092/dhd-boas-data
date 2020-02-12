@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title>
+                <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title><title type="conf_year">2019</title>
                 <author ref="#person__julian-schulz-lmu-de">
                     <persName>
                         <surname>Schulz</surname>

@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Uwe Johnson-Werkausgabe</title>
+        <title>Die Uwe Johnson-Werkausgabe</title><title type="conf_year">2016</title>
         <author ref="#person__fabian-kassner-uni-rostock-de">
           <name>
             <surname>Kaßner</surname>

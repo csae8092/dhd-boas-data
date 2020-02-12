@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kritik der digitalen Vernunft</title>
+                <title>Kritik der digitalen Vernunft</title><title type="conf_year">2018</title>
                 <author ref="#person__cmsmcq-blackmesatech-com">
                     <persName>
                         <surname>Sperberg-McQueen</surname>

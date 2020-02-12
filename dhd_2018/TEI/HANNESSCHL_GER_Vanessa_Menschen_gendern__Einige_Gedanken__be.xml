@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Menschen gendern? Einige Gedanken über Datenmodellierung zur Erhebung von Geschlechterverteilung anhand der TEI2016 Abstracts App</title>
+                <title>Menschen gendern? Einige Gedanken über Datenmodellierung zur Erhebung von Geschlechterverteilung anhand der TEI2016 Abstracts App</title><title type="conf_year">2018</title>
                 <author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
                     <persName>
                         <surname>Hannesschläger</surname>

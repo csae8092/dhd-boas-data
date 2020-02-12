@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Detecting Character References in Literary Novels using a Two Stage Contextual Deep Learning approach</title>
+                <title>Detecting Character References in Literary Novels using a Two Stage Contextual Deep Learning approach</title><title type="conf_year">2019</title>
                 <author ref="#person__markus-krug-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Krug</surname>

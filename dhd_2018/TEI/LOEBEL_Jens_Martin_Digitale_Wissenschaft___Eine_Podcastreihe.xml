@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digitale Wissenschaft – Eine Podcastreihe</title>
+                <title>Digitale Wissenschaft – Eine Podcastreihe</title><title type="conf_year">2018</title>
                 <author ref="#person__loebel-bitgilde-de">
                     <persName>
                         <surname>Loebel</surname>

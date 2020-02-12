@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>With a little help from my (HDC-)friends</title>
+        <title>With a little help from my (HDC-)friends</title><title type="conf_year">2016</title>
         <author ref="#person__claudia-engelhardt-sub-uni-goettingen-de">
           <name>
             <surname>Engelhardt</surname>

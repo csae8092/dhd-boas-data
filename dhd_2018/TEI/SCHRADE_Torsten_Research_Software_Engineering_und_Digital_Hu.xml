@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation.</title>
+                <title>Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation.</title><title type="conf_year">2018</title>
                 <author ref="#person__torsten-schrade-adwmainz-de">
                     <persName>
                         <surname>Schrade</surname>

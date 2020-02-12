@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digital Medievalist: A Web Community for Medievalists working with Digital Media</title>
+                <title>Digital Medievalist: A Web Community for Medievalists working with Digital Media</title><title type="conf_year">2018</title>
                 <author ref="#person__gfranzini-etrap-eu">
                     <persName>
                         <surname>Franzini</surname>

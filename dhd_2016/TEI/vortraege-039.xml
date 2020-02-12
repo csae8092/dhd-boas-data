@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kollaboratives Annotieren literarischer Texte</title>
+        <title>Kollaboratives Annotieren literarischer Texte</title><title type="conf_year">2016</title>
         <author ref="#person__janina-jacke-uni-hamburg-de">
           <name>
             <surname>Jacke</surname>

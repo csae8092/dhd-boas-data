@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title>
+                <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title><title type="conf_year">2019</title>
                 <author ref="#person__schlupko-uni-wuppertal-de">
                     <persName>
                         <surname>Schlupkothen</surname>

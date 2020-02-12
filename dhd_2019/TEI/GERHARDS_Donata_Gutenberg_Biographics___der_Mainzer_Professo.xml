@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutenberg Biographics - der Mainzer Professorenkatalog</title>
+                <title>Gutenberg Biographics - der Mainzer Professorenkatalog</title><title type="conf_year">2019</title>
                 <author ref="#person__dgerhard-students-uni-mainz-de">
                     <persName>
                         <surname>Gerhards</surname>

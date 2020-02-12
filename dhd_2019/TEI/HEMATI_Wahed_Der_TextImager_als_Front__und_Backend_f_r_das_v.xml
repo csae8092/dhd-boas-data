@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der TextImager als Front- und Backend für das verteilte NLP von Big Digital Humanities Data</title>
+                <title>Der TextImager als Front- und Backend für das verteilte NLP von Big Digital Humanities Data</title><title type="conf_year">2019</title>
                 <author ref="#person__hemati-em-uni-frankfurt-de">
                     <persName>
                         <surname>Hemati</surname>

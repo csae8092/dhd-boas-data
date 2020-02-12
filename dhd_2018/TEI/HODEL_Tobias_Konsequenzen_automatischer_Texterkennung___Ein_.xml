@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Konsequenzen automatischer Texterkennung – Ein Aufriss zur Texterkennung mit Machine Learning</title>
+                <title>Konsequenzen automatischer Texterkennung – Ein Aufriss zur Texterkennung mit Machine Learning</title><title type="conf_year">2018</title>
                 <author ref="#person__tobias-hodel-hist-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>

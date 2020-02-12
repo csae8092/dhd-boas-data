@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digital Dylan – Computergestützte Analyse der Liedtexte von Bob Dylan (1962 – 2016)</title>
+                <title>Digital Dylan – Computergestützte Analyse der Liedtexte von Bob Dylan (1962 – 2016)</title><title type="conf_year">2018</title>
                 <author ref="#person__colin-sippl-stud-uni-regensburg-de">
                     <persName>
                         <surname>Sippl</surname>

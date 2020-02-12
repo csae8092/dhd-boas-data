@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Über die Nutzung von TagPies zur vergleichenden Analyse von Textdaten</title>
+        <title>Über die Nutzung von TagPies zur vergleichenden Analyse von Textdaten</title><title type="conf_year">2016</title>
         <author ref="#person__stjaenicke-informatik-uni-leipzig-de">
           <name>
             <surname>Jänicke</surname>

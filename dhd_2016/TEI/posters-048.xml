@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>dariahTeach - Freizugängliche Plattform für DH Lehrmaterialien</title>
+        <title>dariahTeach - Freizugängliche Plattform für DH Lehrmaterialien</title><title type="conf_year">2016</title>
         <author ref="#person__tanja-wissik-oeaw-ac-at">
           <name>
             <surname>Wissik</surname>

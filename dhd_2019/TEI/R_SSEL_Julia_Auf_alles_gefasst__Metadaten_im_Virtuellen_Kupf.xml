@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Auf alles gefasst? Metadaten im Virtuellen Kupferstichkabinett</title>
+                <title>Auf alles gefasst? Metadaten im Virtuellen Kupferstichkabinett</title><title type="conf_year">2019</title>
                 <author ref="#person__roessel-hab-de">
                     <persName>
                         <surname>Rössel</surname>

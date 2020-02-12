@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Automatische Typenbestimmung in historischen Drucken</title>
+        <title>Automatische Typenbestimmung in historischen Drucken</title><title type="conf_year">2016</title>
         <author ref="#person__weichsel-uni-mainz-de">
           <name>
             <surname>Weichselbaumer</surname>

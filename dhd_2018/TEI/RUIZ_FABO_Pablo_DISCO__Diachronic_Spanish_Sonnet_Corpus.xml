@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>DISCO: Diachronic Spanish Sonnet Corpus</title>
+                <title>DISCO: Diachronic Spanish Sonnet Corpus</title><title type="conf_year">2018</title>
                 <author ref="#person__pablo-ruiz-linhd-uned-es">
                     <persName>
                         <surname>Ruiz Fabo</surname>

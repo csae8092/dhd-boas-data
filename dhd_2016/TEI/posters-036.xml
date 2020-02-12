@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>DARIAH-DKPro-Wrapper</title>
+        <title>DARIAH-DKPro-Wrapper</title><title type="conf_year">2016</title>
         <author ref="#person__reimers-ukp-informatik-tu-darmstadt-de">
           <name>
             <surname>Reimer</surname>

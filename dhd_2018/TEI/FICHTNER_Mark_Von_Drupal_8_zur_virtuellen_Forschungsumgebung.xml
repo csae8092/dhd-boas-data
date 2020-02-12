@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Von Drupal 8 zur virtuellen Forschungsumgebung - Der WissKI-Ansatz</title>
+                <title>Von Drupal 8 zur virtuellen Forschungsumgebung - Der WissKI-Ansatz</title><title type="conf_year">2018</title>
                 <author ref="#person__m-fichtner-wiss-ki-eu">
                     <persName>
                         <surname>Fichtner</surname>

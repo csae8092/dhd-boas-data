@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Font Group Recognition in Early Printed Books</title>
+                <title>Automatic Font Group Recognition in Early Printed Books</title><title type="conf_year">2019</title>
                 <author ref="#person__weichsel-uni-mainz-de">
                     <persName>
                         <surname>Weichselbaumer</surname>

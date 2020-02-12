@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TInCAP – ein interdisziplinäres Korpus zu Ambiguitäts-phänomenen</title>
+        <title>TInCAP – ein interdisziplinäres Korpus zu Ambiguitäts-phänomenen</title><title type="conf_year">2016</title>
         <author ref="#person__jutta-hartmann-uni-tuebingen-de">
           <name>
             <surname>Hartmann</surname>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>DHd 2019 Book of Abstracts Hackathon</title>
+                <title>DHd 2019 Book of Abstracts Hackathon</title><title type="conf_year">2019</title>
                 <author ref="#person__peter-andorfer-oeaw-ac-at">
                     <persName>
                         <surname>Andorfer</surname>

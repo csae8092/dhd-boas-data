@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Kunst als Ganzes. Heterogene Bilddatensätze als Herausforderung für die Kunstgeschichte und die Computer Vision.</title>
+        <title>Die Kunst als Ganzes. Heterogene Bilddatensätze als Herausforderung für die Kunstgeschichte und die Computer Vision.</title><title type="conf_year">2016</title>
         <author ref="#person__lisa-dieckmann-uni-koeln-de">
           <name>
             <surname>Dieckmann</surname>

@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ambraser Heldenbuch: Transkription und wissenschaftliches Datenset</title>
+                <title>Ambraser Heldenbuch: Transkription und wissenschaftliches Datenset</title><title type="conf_year">2018</title>
                 <author ref="#person__claudia-sojer-uibk-ac-at">
                     <persName>
                         <surname>Sojer</surname>

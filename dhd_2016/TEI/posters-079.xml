@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>RuCoCo: Automatische Koreferenzannotationen für Russisch</title>
+        <title>RuCoCo: Automatische Koreferenzannotationen für Russisch</title><title type="conf_year">2016</title>
         <author ref="#person__desi-cis-uni-muenchen-de">
           <name>
             <surname>Zhekova</surname>

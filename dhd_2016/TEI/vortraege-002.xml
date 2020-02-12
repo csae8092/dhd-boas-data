@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Pattern Mining in Keilschriftzeichnungen</title>
+        <title>Pattern Mining in Keilschriftzeichnungen</title><title type="conf_year">2016</title>
         <author ref="#person__bg-bartek-gmail-com">
           <name>
             <surname>Bogacz</surname>

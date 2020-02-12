@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Peer-to-Peer statt Client-Server: Der Mehrwert kollegialer Beratung und agiler DH-Treffen</title>
+                <title>Peer-to-Peer statt Client-Server: Der Mehrwert kollegialer Beratung und agiler DH-Treffen</title><title type="conf_year">2018</title>
                 <author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>

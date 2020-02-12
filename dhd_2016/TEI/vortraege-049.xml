@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Classification of Literary Subgenres</title>
+        <title>Classification of Literary Subgenres</title><title type="conf_year">2016</title>
         <author ref="#person__lena-hettinger-uni-wuerzburg-de">
           <name>
             <surname>Hettinger</surname>

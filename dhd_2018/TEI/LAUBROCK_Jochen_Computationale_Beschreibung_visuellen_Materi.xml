@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Computationale Beschreibung visuellen Materials am Beispiel des Graphic Narrative Corpus</title>
+                <title>Computationale Beschreibung visuellen Materials am Beispiel des Graphic Narrative Corpus</title><title type="conf_year">2018</title>
                 <author ref="#person__laubrock-uni-potsdam-de">
                     <persName>
                         <surname>Laubrock</surname>

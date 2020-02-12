@@ -2,7 +2,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEIHencer - Enhance your TEI-Documents</title>
+                <title>TEIHencer - Enhance your TEI-Documents</title><title type="conf_year">2018</title>
                 <author ref="#person__peter-andorfer-oeaw-ac-at">
                     <persName>
                         <surname>Andorfer</surname>

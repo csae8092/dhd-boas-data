@@ -153,16 +153,16 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1157">Flaischlen, Cäsar (1890): Graphische Litteratur-Tafel. Die deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf vom Beginn der schriftlichen Ueberlieferung an bis heute in graphischer Darstellung. Berlin: Behr's Verlag.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1158">Hölter, Achim (2005): „Überlegungen zu Raffaels Parnass-Fresko als Kanonbild“ in: Heimböckel, Dieter / Werlein, Uwe (eds.): Der Bildhunger der Literatur. Festschrift für Gunter E. Grimm. Würzburg 51-68.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1159">Hölter, Achim / Schmitz-Emans, Monika (eds.) (2013): Literaturgeschichte und Bildmedien. Heidelberg: Synchron.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1160">Kohlstock, Manuel (2004): Kartographie. Eine Einführung. Stuttgart: UTB.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1161">Lima, Manuel (2014): The Book of Trees. Visualizing Branches of Knowledge. New York: Princeton Architectural Press.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__123">Moretti, Franco (2007): Graphs, Maps, Trees. Abstract Models for Literary History. London, New York: Verso.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1162">openCV: Open Source Computer Vision Library. http://opencv.org [letzter Zugriff 24. September 2017].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1163">Rosenberg, Daniel / Grafton, Anthony (2010): Cartographies of Time. New York: Princeton Architectural Press.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1164">Strass, Friedrich (1803): Der Strom Der Zeiten. http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281767~90054624 [letzter Zugriff 24. September 2017].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__58">TEI Consortium (2017). TEI P5 – Guidelines for Electronic Text Encoding and Interchange. Version 3.2.0. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html [letzter Zugriff 25. September 2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3729">Flaischlen, Cäsar (1890): Graphische Litteratur-Tafel. Die deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf vom Beginn der schriftlichen Ueberlieferung an bis heute in graphischer Darstellung. Berlin: Behr's Verlag.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3730">Hölter, Achim (2005): „Überlegungen zu Raffaels Parnass-Fresko als Kanonbild“ in: Heimböckel, Dieter / Werlein, Uwe (eds.): Der Bildhunger der Literatur. Festschrift für Gunter E. Grimm. Würzburg 51-68.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3731">Hölter, Achim / Schmitz-Emans, Monika (eds.) (2013): Literaturgeschichte und Bildmedien. Heidelberg: Synchron.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3732">Kohlstock, Manuel (2004): Kartographie. Eine Einführung. Stuttgart: UTB.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3733">Lima, Manuel (2014): The Book of Trees. Visualizing Branches of Knowledge. New York: Princeton Architectural Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__314">Moretti, Franco (2007): Graphs, Maps, Trees. Abstract Models for Literary History. London, New York: Verso.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3734">openCV: Open Source Computer Vision Library. http://opencv.org [letzter Zugriff 24. September 2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3735">Rosenberg, Daniel / Grafton, Anthony (2010): Cartographies of Time. New York: Princeton Architectural Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3736">Strass, Friedrich (1803): Der Strom Der Zeiten. http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281767~90054624 [letzter Zugriff 24. September 2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__20">TEI Consortium (2017). TEI P5 – Guidelines for Electronic Text Encoding and Interchange. Version 3.2.0. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html [letzter Zugriff 25. September 2017].</rs></bibl>
                 </listBibl>
             </div>
       </back>

@@ -178,53 +178,27 @@ profitieren von der Interoperabilität, die automatisierte Extraktion von Person
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold">Barabucci, Gioele </hi> (2018): 
-	<hi rend="italic">Funktionale und deklarative Programmierung-basierte Methode für nachhaltige, reproduzierbare und verifizierbare Datenkuration</hi>. DHd Konferenz 2018: Kritik der digitalen Vernunft, 214–219, doi: 
-	<ptr target="https://doi.org/10.18716/KUPS.8085"/>  [letzter Zugriff 10. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5303">Barabucci, Gioele (2018): Funktionale und deklarative Programmierung-basierte Methode für nachhaltige, reproduzierbare und verifizierbare Datenkuration. DHd Konferenz 2018: Kritik der digitalen Vernunft, 214–219, doi: [letzter Zugriff 10. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Bogatzki, Jakob</hi> (2019): »(Re-)Collecting Theatre History. Neue Perspektiven biografischer und theaterhistoriografischer Forschung«, in: 
-	<hi rend="italic">Die vierte Wand</hi>, Heft 9, S. 26–29.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5304">Bogatzki, Jakob (2019): »(Re-)Collecting Theatre History. Neue Perspektiven biografischer und theaterhistoriografischer Forschung«, in: Die vierte Wand, Heft 9, S. 26–29.</rs></bibl>
       <bibl>
-	<hi rend="bold">Deutsche Biographie</hi>. Hauptseite, 
-	<ref target="https://www.deutsche-biographie.de/">https://www.deutsche-biographie.de</ref> [letzter Zugriff 10. September 2019]
-      </bibl>
+	<rs type="bibl" ref="#bibl__5305">Deutsche Biographie. Hauptseite, https://www.deutsche-biographie.de [letzter Zugriff 10. September 2019]</rs></bibl>
       <bibl>
-	<hi rend="bold">Deutsche Biographie</hi>. Services, 
-	<ptr target="http://data.deutsche-biographie.de/about/"/>  [letzter Zugriff 10. September 2019]
-      </bibl>
+	<rs type="bibl" ref="#bibl__5306">Deutsche Biographie. Services, [letzter Zugriff 10. September 2019]</rs></bibl>
       <bibl>
-	<hi rend="bold">Illmayer, Klaus</hi> (2017): „Aufbau einer digitalen Infrastruktur für Theaterwissenschaft“ (Abstract),
-	<ptr target="https://www.uibk.ac.at/congress/dha2017/bilder-und-dateien/aufbau-einer-digitalen-infrastruktur-fuer-theaterwissenschaft.pdf"/>  [letzter Zugriff 7. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5307">Illmayer, Klaus (2017): „Aufbau einer digitalen Infrastruktur für Theaterwissenschaft“ (Abstract), [letzter Zugriff 7. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Leonhardt, Nic</hi> (2014): 
-	<hi rend="italic">Digital Humanities and the Performing Arts: Building Communities, Creating Knowledge</hi>.
-	Keynote auf der SIBMAS/TLA Konferenz, New York (NY), 12. Juni 2014,
-	<ptr target="https://mappinggth.hypotheses.org/files/2014/09/Nic-Leonhardt_DH-and-the-Performing-Arts_June-2014.pdf"/> [letzter Zugriff 3. August 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5308">Leonhardt, Nic (2014): Digital Humanities and the Performing Arts: Building Communities, Creating Knowledge. Keynote auf der SIBMAS/TLA Konferenz, New York (NY), 12. Juni 2014, [letzter Zugriff 3. August 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">LIDO Working Group</hi>. What is LIDO, 
-	<ptr target="http://network.icom.museum/cidoc/working-groups/lido/what-islido/"/>
-	[letzter Zugriff 10. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__232">LIDO Working Group. What is LIDO, [letzter Zugriff 10. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">LIDO Working Group</hi>. LIDO Terminology, 
-	<ptr target="http://network.icom.museum/cidoc/working-groups/lido/lido-technical/terminology/"/>
-	[letzter Zugriff 10. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__232">LIDO Working Group. LIDO Terminology, [letzter Zugriff 10. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold"> Marx, Peter W., Hrsg. </hi> (2019): 100 Jahre Theaterwissenschaftliche Sammlung Köln. Dokumente, Pläne, Traumreste. Berlin: Alexander Verlag.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5309">Marx, Peter W., Hrsg. (2019): 100 Jahre Theaterwissenschaftliche Sammlung Köln. Dokumente, Pläne, Traumreste. Berlin: Alexander Verlag.</rs></bibl>
       <bibl>
-	<hi rend="bold"> Probst, Nora / Pinto, Vito</hi>: Re-Collecting Theatre History. Theaterhistoriografische Nachlassforschung mit Verfahren der Digital Humanities. In: Wihstutz, Benjamin; Hoesch, Benjamin (Hg.): Neue Methoden der Theaterwissenschaft (Druck in Vorbereitung).
-      </bibl>
+	<rs type="bibl" ref="#bibl__5310">Probst, Nora / Pinto, Vito: Re-Collecting Theatre History. Theaterhistoriografische Nachlassforschung mit Verfahren der Digital Humanities. In: Wihstutz, Benjamin; Hoesch, Benjamin (Hg.): Neue Methoden der Theaterwissenschaft (Druck in Vorbereitung).</rs></bibl>
       <bibl>
-	<hi rend="bold">Vogeler, Georg / Vasold, Gunter / Schlögl, Matthias </hi> (2019): 
-	<hi rend="italic">Von IIIF zu IPIF? Ein Vorschlag für den Datenaustausch über Personen</hi>. In: Sahle, Patrick (Hg.): DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts. Frankfurt / Mainz. DHd. 2019 DOI: 
-	<ref target="http://doi.org/10.5281/zenodo.2600812">10.5281/zenodo.2600812</ref>. pp. 239-241. 
-      </bibl>
+	<rs type="bibl" ref="#bibl__5311">Vogeler, Georg / Vasold, Gunter / Schlögl, Matthias (2019): Von IIIF zu IPIF? Ein Vorschlag für den Datenaustausch über Personen. In: Sahle, Patrick (Hg.): DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts. Frankfurt / Mainz. DHd. 2019 DOI: 10.5281/zenodo.2600812. pp. 239-241.</rs></bibl>
     </listBibl>
   </div>
 </back>

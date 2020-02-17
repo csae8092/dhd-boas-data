@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Niklas-Luhmann Archiv - Ein multimediales Dokumenten-Netz</title><title type="conf_year">2019</title><author ref="#person__sebastian-zimmer-uni-koeln-de">
+                <title>Das Niklas-Luhmann Archiv - Ein multimediales Dokumenten-Netz</title><title type="conf_year">2019</title>
+                <author ref="#person__sebastian-zimmer-uni-koeln-de">
                     <persName>
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
@@ -103,17 +104,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__279">Gfrereis, Heike / Strittmatter, Ellen (2013): Zettelkästen. Maschinen der Phantasie. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__35">Gfrereis, Heike / Strittmatter, Ellen (2013): Zettelkästen. Maschinen der Phantasie. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3649">Gödel, Martina / Schmidt, Johannes / Zimmer, Sebastian (2018): Digitale Differenz. Luhmanns Zettelkasten als physisch-historisches Objekt und als vernetzter Navigationsraum (Vortragsabstract), in: Georg Vogeler (ed.): DHd 2018: Kritik der digitalen Vernunft. Köln, 178-181 ( http://dhd2018.uni-koeln.de/)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__549">Gödel, Martina / Schmidt, Johannes / Zimmer, Sebastian (2018): Digitale Differenz. Luhmanns Zettelkasten als physisch-historisches Objekt und als vernetzter Navigationsraum (Vortragsabstract), in: Georg Vogeler (ed.): DHd 2018: Kritik der digitalen Vernunft. Köln, 178-181 ( http://dhd2018.uni-koeln.de/)</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3650">Gödel, Martina / Zimmer, Sebastian (2017): Niklas Luhmanns Werk und Lesekosmos - DH in der bibliographischen Dimension (Vortragsabstract), in: Georg Vogeler (ed.): Konferenzabstracts. DHd 2017 Bern: Digitale Nachhaltigkeit. Bern, 180-184 ( http://www.dhd2017.ch/)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__550">Gödel, Martina / Zimmer, Sebastian (2017): Niklas Luhmanns Werk und Lesekosmos - DH in der bibliographischen Dimension (Vortragsabstract), in: Georg Vogeler (ed.): Konferenzabstracts. DHd 2017 Bern: Digitale Nachhaltigkeit. Bern, 180-184 ( http://www.dhd2017.ch/)</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3651">Krajewski, Markus (2011): Paper Machines. About cards &amp; catalogs, 1548-1929. Cambridge: MIT Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__551">Krajewski, Markus (2011): Paper Machines. About cards &amp; catalogs, 1548-1929. Cambridge: MIT Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__43">Schmidt, Johannes F.K. (2018): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__36">Schmidt, Johannes F.K. (2018): "Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine", in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill, 289-311.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3652">Watts, Duncan (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__552">Watts, Duncan (2004): "The »new« science of networks", in: Annual Review of Sociology 30, 243-270.</rs></bibl>
                 </listBibl>
             </div>
         </back>

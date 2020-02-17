@@ -145,13 +145,13 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1508">Calle-Martin, J. &amp; A. Miranda-García (2012). „Stylometry and Authorship Attribution: Introduction to the Special Issue“, Stylometry and Authorship Attribution, special issue of English Studies 93-3: 251-58.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__189">Dunst, A., R. Hartel &amp; J. Laubrock (2017). „The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities” Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017) [im Druck].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__190">Holmes, D (1998). „The Evolution of Stylometry in Humaninities Scholarship“ Literary and Linguistic Computing 13-3: 111-17.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1509">Kohle, H. (2013). Digitale Bildwissenschaft. Glückstadt: VWH.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1510">Manovich, L. (2011) “Style Space: How to Compare Image Sets and Follow their Evolution”, http://manovich.net/index.php/projects/style-space.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__191">Manovich, L., J. Douglas, T. Zepel (2011). „How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__192">Qi, Hanchao, Armeen Taeb &amp; Shannon M. Hughes , „Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings” Signal Processing 93-3 (2013): 541-53.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3260">Calle-Martin, J. &amp; A. Miranda-García (2012). „Stylometry and Authorship Attribution: Introduction to the Special Issue“, Stylometry and Authorship Attribution, special issue of English Studies 93-3: 251-58.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3261">Dunst, A., R. Hartel &amp; J. Laubrock (2017). „The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities” Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR 2017) [im Druck].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__7">Holmes, D (1998). „The Evolution of Stylometry in Humaninities Scholarship“ Literary and Linguistic Computing 13-3: 111-17.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3262">Kohle, H. (2013). Digitale Bildwissenschaft. Glückstadt: VWH.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3263">Manovich, L. (2011) “Style Space: How to Compare Image Sets and Follow their Evolution”, http://manovich.net/index.php/projects/style-space.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__8">Manovich, L., J. Douglas, T. Zepel (2011). „How to Compare One Million Images“, http://manovich.net/index.php/projects/how-to-compare.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__9">Qi, Hanchao, Armeen Taeb &amp; Shannon M. Hughes , „Visual stylometry using background selection and wavelet-HMT-based Fisher information distances for attribution and dating of impressionist paintings” Signal Processing 93-3 (2013): 541-53.</rs></bibl>
                 </listBibl>
             </div>
       </back>

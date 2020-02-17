@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Netzwerkanalyse narrativer Informationsvermittlung in Dramen</title><title type="conf_year">2019</title><author ref="#person__michael-vauth-tuhh-de">
+                <title>Netzwerkanalyse narrativer Informationsvermittlung in Dramen</title><title type="conf_year">2019</title>
+                <author ref="#person__michael-vauth-tuhh-de">
                     <persName>
                         <surname>Vauth</surname>
                         <forename>Michael</forename>
@@ -762,27 +763,27 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__133">Agarwal, A., A. Corvalan, J. Jensen und O. Rambow (2012). „Social Network Analysis of Alice in Wonderland“. Proceedings of the Workshop on Computational Linguistics for Literature: 88–96.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__24">Agarwal, A., A. Corvalan, J. Jensen und O. Rambow (2012). „Social Network Analysis of Alice in Wonderland“. Proceedings of the Workshop on Computational Linguistics for Literature: 88–96.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__2974">Bastian, M., S. Heymann und M. Jacomy (2008). „Gephi: An open source sofware for exploring and manipulating networks.“. AVI 2008 – Proceedings of the Working Conference on Advanced Visual Interfaces.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1464">Bastian, M., S. Heymann und M. Jacomy (2008). „Gephi: An open source sofware for exploring and manipulating networks.“. AVI 2008 – Proceedings of the Working Conference on Advanced Visual Interfaces.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__2975">Lahn, Silke, J. C. Meister (2008): Einführung in die Erzähltextanalyse. Stuttgart: Verlag J.B. Metzler.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1465">Lahn, Silke, J. C. Meister (2008): Einführung in die Erzähltextanalyse. Stuttgart: Verlag J.B. Metzler.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">Meister, J. C., M. Petris, E. Gius und J. Jacke (2016). 
-                        <rs type="bibl" ref="#bibl__117">Meister, J. C., M. Petris, E. Gius und J. Jacke (2016). CATMA 5.0. software for text annotation and analysis.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__183">Meister, J. C., M. Petris, E. Gius und J. Jacke (2016). CATMA 5.0. software for text annotation and analysis.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__134">Moretti, F. (2011). „Network Theory, Plot Analysis.“. Stanford Literary Lab Pamphlets 2.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__149">Moretti, F. (2011). „Network Theory, Plot Analysis.“. Stanford Literary Lab Pamphlets 2.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__2976">Müller-Salget, Klaus (2009): Die Herrmannsschlacht. In: Ingo Breuer (Hg.): Kleist-Handbuch. Leben – Werk – Wirkung. Stuttgart: Verlag J.B. Metzler. S. 76-79.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1466">Müller-Salget, Klaus (2009): Die Herrmannsschlacht. In: Ingo Breuer (Hg.): Kleist-Handbuch. Leben – Werk – Wirkung. Stuttgart: Verlag J.B. Metzler. S. 76-79.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">Piper, Andrew, Mark Algee-Hewitt, Koustuv Sinha, Derek Ruths und Hardik Vala (2017). „Studying Literary Characters and Character Networks“. 
-                        <rs type="bibl" ref="#bibl__157">Piper, Andrew, Mark Algee-Hewitt, Koustuv Sinha, Derek Ruths und Hardik Vala (2017). „Studying Literary Characters and Character Networks“. Digital Humanities 2017, Conference Abstracts.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1467">Piper, Andrew, Mark Algee-Hewitt, Koustuv Sinha, Derek Ruths und Hardik Vala (2017). „Studying Literary Characters and Character Networks“. Digital Humanities 2017, Conference Abstracts.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__2977">Pfister,Manfred (2001): Das Drama. München. Wilhelm Fink Verlag.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__151">Pfister,Manfred (2001): Das Drama. München. Wilhelm Fink Verlag.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">Trilcke, P., F. Fischer und D. Kampkaspar (2015). „Digital Network Analysis of Dramatic Texts“. 
-                        <rs type="bibl" ref="#bibl__2978">Trilcke, P., F. Fischer und D. Kampkaspar (2015). „Digital Network Analysis of Dramatic Texts“. Digital Humanities 2015: Book of Abstracts.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1468">Trilcke, P., F. Fischer und D. Kampkaspar (2015). „Digital Network Analysis of Dramatic Texts“. Digital Humanities 2015: Book of Abstracts.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__2979">Trilcke, Peer (2013). „Social Network Analysis (SNA) als Methode einer textempirischen Literaturwissenschaft“. Empirie in der Literaturwissenschaft. Hrsg. von Christoph Rauen, Katja Mellmann und Philip Ajouri. Münster: 201–247.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1469">Trilcke, Peer (2013). „Social Network Analysis (SNA) als Methode einer textempirischen Literaturwissenschaft“. Empirie in der Literaturwissenschaft. Hrsg. von Christoph Rauen, Katja Mellmann und Philip Ajouri. Münster: 201–247.</rs></bibl>
                     <bibl rend="Citavi Bibliography Entry">
-                        <rs type="bibl" ref="#bibl__2980">Wolf, Werner (2002). „Das Problem der Narrativität in Literatur, bildender Kunst und Musik: Ein Beitrag zu einer intermedialen Erzähltheorie“. Erzähltheorie transgenerisch, intermedial, interdisziplinär. Hrsg. von Vera Nünning und Ansgar Nünning. Trier: 23–104.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1470">Wolf, Werner (2002). „Das Problem der Narrativität in Literatur, bildender Kunst und Musik: Ein Beitrag zu einer intermedialen Erzähltheorie“. Erzähltheorie transgenerisch, intermedial, interdisziplinär. Hrsg. von Vera Nünning und Ansgar Nünning. Trier: 23–104.</rs></bibl>
                 </listBibl>
             </div>
         </back>

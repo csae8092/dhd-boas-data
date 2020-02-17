@@ -173,63 +173,33 @@ RetinaNet (Lin 2017) untersucht. In einer ersten qualitativen Analyse hat insbes
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Flach, Peter / Kull, Meelis</hi> (2015): “Precision-recall-gain curves: PR analysis done right” in: 
-                        <hi rend="italic">Advances in Neural Information Processing Systems</hi> 28: 838-846.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4570">Flach, Peter / Kull, Meelis (2015): “Precision-recall-gain curves: PR analysis done right” in: Advances in Neural Information Processing Systems 28: 838-846.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Geirhos, Robert / Rubisch, Patricia /  Michaelis, Claudio / Bethge, Matthias / Wichmann, Felix / Brendel, Wieland </hi>(2019): “ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness” in: 
-                        <hi rend="italic">Proceedings of the International Conference on Learning Representations</hi> (ICLR).
-                    </bibl>
+<rs type="bibl" ref="#bibl__405">Geirhos, Robert / Rubisch, Patricia / Michaelis, Claudio / Bethge, Matthias / Wichmann, Felix / Brendel, Wieland (2019): “ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness” in: Proceedings of the International Conference on Learning Representations (ICLR).</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">He, Kaiming / Zhang, Xiangyu / Ren, Shaoqing / Sun, Jian</hi> (2016) „Deep Residual Learning for Image Recognition“ in: 
-                        <hi rend="italic">Proceedings of the IEEE conference on computer vision and pattern recognition</hi>: 770-778.
-                    </bibl>
+<rs type="bibl" ref="#bibl__42">He, Kaiming / Zhang, Xiangyu / Ren, Shaoqing / Sun, Jian (2016) „Deep Residual Learning for Image Recognition“ in: Proceedings of the IEEE conference on computer vision and pattern recognition: 770-778.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Hiltmann, Torsten</hi> (2019): “Zwischen Grundwissenschaft, Kulturgeschichte und digitalen Methoden. Zum aktuellen Stand der Heraldik” in: 
-                        <hi rend="italic">Archiv für Diplomatik</hi> 65: 287-319.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4571">Hiltmann, Torsten (2019): “Zwischen Grundwissenschaft, Kulturgeschichte und digitalen Methoden. Zum aktuellen Stand der Heraldik” in: Archiv für Diplomatik 65: 287-319.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Hiltmann, Torsten / Riechert, Thomas </hi>(2020): “Digital Heraldry. The State of the Art and New Approaches Based on Semantic Web Technologies” in: Christelle Balouzat-Loubet (ed.), 
-                        <hi rend="italic">L’édition en ligne de documents d’archives médiévaux</hi>, Turnhout: Brepols 102-125 [im Druck].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4572">Hiltmann, Torsten / Riechert, Thomas (2020): “Digital Heraldry. The State of the Art and New Approaches Based on Semantic Web Technologies” in: Christelle Balouzat-Loubet (ed.), L’édition en ligne de documents d’archives médiévaux, Turnhout: Brepols 102-125 [im Druck].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Hofman, Elmar</hi> (2019): 
-                        <hi rend="italic">Armorials in medieval manuscripts. Collections of coats of arms as means of communication and historical sources in France and the Holy Roman Empire (13th – early 16th centuries)</hi>, PhD University of Münster.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4573">Hofman, Elmar (2019): Armorials in medieval manuscripts. Collections of coats of arms as means of communication and historical sources in France and the Holy Roman Empire (13th – early 16th centuries), PhD University of Münster.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Huang, Xun / Belongie, Serge </hi>(2017): „Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization“ in: 
-                        <hi rend="italic">Proceedings of the IEEE International Conference on Computer Vision</hi>: 1501-1510.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4574">Huang, Xun / Belongie, Serge (2017): „Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization“ in: Proceedings of the IEEE International Conference on Computer Vision: 1501-1510.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">LeCun, Yann / Bengio, Yoshua / Hinton, Geoffrey</hi> (2015): “Deep learning” in: 
-                        <hi rend="italic">Nature</hi> 521 (7553): 436–444.
-                    </bibl>
+<rs type="bibl" ref="#bibl__275">LeCun, Yann / Bengio, Yoshua / Hinton, Geoffrey (2015): “Deep learning” in: Nature 521 (7553): 436–444.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Lin, Tsung-Yi / Goyal, Priya / Girshick, Ross / He, Kaiming / Dollár, Piotr</hi> (2017): "Focal loss for dense object detection" in: 
-                        <hi rend="italic">Proceedings of the IEEE international conference on computer vision</hi>: 2980-2988.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4575">Lin, Tsung-Yi / Goyal, Priya / Girshick, Ross / He, Kaiming / Dollár, Piotr (2017): "Focal loss for dense object detection" in: Proceedings of the IEEE international conference on computer vision: 2980-2988.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Paravicini, Werner </hi>(1998): “Gruppe und Person. Repräsentation durch Wappen im späteren Mittelalter” in: Oexle, Otto Gerhard / Hülsen-Esch, Andrea von (eds.): 
-                        <hi rend="italic">Die Repräsentation der Gruppen</hi>. 
-                        <hi rend="italic">Texte - Bilder - Objekte</hi>, Göttingen: Vandenhoeck&amp;Ruprecht 327-389.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4576">Paravicini, Werner (1998): “Gruppe und Person. Repräsentation durch Wappen im späteren Mittelalter” in: Oexle, Otto Gerhard / Hülsen-Esch, Andrea von (eds.): Die Repräsentation der Gruppen. Texte - Bilder - Objekte, Göttingen: Vandenhoeck&amp;Ruprecht 327-389.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Pastoureau, Michel</hi> (2018): 
-                        <hi rend="italic">L’art héraldique au Moyen Âge</hi>, Paris:Seuil.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4577">Pastoureau, Michel (2018): L’art héraldique au Moyen Âge, Paris:Seuil.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Redmon, Joseph / Farhadi, Ali</hi> (2018): "Yolov3: An incremental improvement." in: 
-                        <hi rend="italic">arXiv preprint</hi> arXiv:1804.02767. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__4578">Redmon, Joseph / Farhadi, Ali (2018): "Yolov3: An incremental improvement." in: arXiv preprint arXiv:1804.02767.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Sustek, Martin / Vidensky, Frantisek / Zboril, Frantisek / Zboril, Frantisek </hi>(2018); "Family Coat of Arms and Armorial Achievement Classification." in: 
-                        <hi rend="italic">International Conference on Intelligent Systems Design and Applications</hi>: 577-586.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4579">Sustek, Martin / Vidensky, Frantisek / Zboril, Frantisek / Zboril, Frantisek (2018); "Family Coat of Arms and Armorial Achievement Classification." in: International Conference on Intelligent Systems Design and Applications: 577-586.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold">Tzutalin</hi> (2015):
-  “LabelImg” in: Git code 
-  <ref target="https://github.com/tzutalin/labelImg">https://github.com/tzutalin/labelImg</ref>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4580">Tzutalin (2015): “LabelImg” in: Git code https://github.com/tzutalin/labelImg.</rs></bibl>
 </listBibl>
 </div>
 </back>

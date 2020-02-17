@@ -106,39 +106,19 @@ beschriftet. Quelle: <ref target="http://dev.cceh.uni-koeln.de/sr-sd">http://dev
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold" xml:space="preserve">Filek, Jan /  Uebele, Andreas </hi>(2013):  
-                        <hi rend="italic">Read/ability. Typografie und Lesbarkeit</hi>, Sulgen: Niggli.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4748">Filek, Jan / Uebele, Andreas (2013): Read/ability. Typografie und Lesbarkeit, Sulgen: Niggli.</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Hegewald, Falk / Tritschler, Johannes / Hien, Katharina / Rümpler, Steffen  </hi>(2011): 
-                        <hi rend="italic">Typografische Animation für Studium und Praxis</hi>, Berlin, Heidelberg: Springer.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4749">Hegewald, Falk / Tritschler, Johannes / Hien, Katharina / Rümpler, Steffen (2011): Typografische Animation für Studium und Praxis, Berlin, Heidelberg: Springer.</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Korthaus, Claudia </hi>(2016): 
-                        <hi rend="italic">Grundkurs Typografie und Layout. Für Ausbildung und Praxis</hi>, 5. Auflage, Bonn: Rheinwerk Verlag.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4750">Korthaus, Claudia (2016): Grundkurs Typografie und Layout. Für Ausbildung und Praxis, 5. Auflage, Bonn: Rheinwerk Verlag.</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Landau, Angelina </hi>(2016): 
-                        <hi rend="italic">Wie das Gehirn liest. Die neuronalen Prozesse beim Lesen</hi>, Marburger Schriften zur Lehrerbildung, Bd. 12, Marburg: Tectum Verlag.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4751">Landau, Angelina (2016): Wie das Gehirn liest. Die neuronalen Prozesse beim Lesen, Marburger Schriften zur Lehrerbildung, Bd. 12, Marburg: Tectum Verlag.</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Myrberg, Caroline / Wiberg, Ninna </hi>(2015): 
-                        <hi rend="italic">Screen vs. paper: what is
-			the difference for reading and learning?</hi>
-			Insights: the UKSG Journal 28, 49–54
-			&lt;<ref target="https://doi.org/10.1629/uksg.236">https://doi.org/10.1629/uksg.236</ref>&gt;.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4752">Myrberg, Caroline / Wiberg, Ninna (2015): Screen vs. paper: what is the difference for reading and learning? Insights: the UKSG Journal 28, 49–54 &lt;https://doi.org/10.1629/uksg.236&gt;.</rs></bibl>
 <bibl>
-<hi rend="bold">Sahle, Patrick</hi> (2020): 
-                        <hi rend="italic">Wie wir lesen könnten. StreamReader</hi><hi rend=" subscript">PS</hi>
-<hi rend="italic" xml:space="preserve"> 0.1</hi>. Book of Abstracts zur DHd2020, Paderborn.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4753">Sahle, Patrick (2020): Wie wir lesen könnten. StreamReaderPS 0.1. Book of Abstracts zur DHd2020, Paderborn.</rs></bibl>
 <bibl>[Members and relevant stakeholders of the EU funded COST research Action E-READ]: 
-                        <hi rend="italic" xml:space="preserve">COST E-READ </hi>
-<hi rend="italic bold">Stavanger Declaration</hi>
-<hi rend="italic" xml:space="preserve"> Concerning the Future of Reading</hi> (2019). &lt;
-                        <ref target="http://ereadcost.eu/wp-content/uploads/2019/01/StavangerDeclaration.pdf">http://ereadcost.eu/wp-content/uploads/2019/01/StavangerDeclaration.pdf</ref> &gt;. 
-                    </bibl>
+                        <rs type="bibl" ref="#bibl__4754">[Members and relevant stakeholders of the EU funded COST research Action E-READ]: COST E-READ Stavanger Declaration Concerning the Future of Reading (2019). &lt; http://ereadcost.eu/wp-content/uploads/2019/01/StavangerDeclaration.pdf &gt;.</rs></bibl>
 </listBibl>
 </div>
 </back>

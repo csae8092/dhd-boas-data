@@ -182,27 +182,15 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Andrews, Tara L</hi> (2014): Analysis of variation significance inartificial traditions using Stemmaweb, in 
-                        <hi rend="italic">Digital Scholarship in the Humanities, 31(3)</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4874">Andrews, Tara L (2014): Analysis of variation significance inartificial traditions using Stemmaweb, in Digital Scholarship in the Humanities, 31(3).</rs></bibl>
 <bibl>
-<hi rend="bold">Bulatovic, Natasa / Gnadt, Timo / Romanello, Matteo / Schmitt, Viola / Stiller, Juliane / Thoden, Klaus</hi> (2016): Usability von DH­Tools und Services, in 
-                        <hi rend="italic">DARIAH Working Papers</hi>: 
-                        <ref target="https://wiki.de.dariah.eu/download/attachments/14651583/AP1.2.3_Usability_von_DH-Tools_und-Services_final.pdf">https://wiki.de.dariah.eu/download/attachments/14651583/AP1.2.3_Usability_von_DH-Tools_und-Services_final.pdf</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4875">Bulatovic, Natasa / Gnadt, Timo / Romanello, Matteo / Schmitt, Viola / Stiller, Juliane / Thoden, Klaus (2016): Usability von DH­Tools und Services, in DARIAH Working Papers: https://wiki.de.dariah.eu/download/attachments/14651583/AP1.2.3_Usability_von_DH-Tools_und-Services_final.pdf.</rs></bibl>
 <bibl>
-<hi rend="bold">Haentjens Dekker, Ronald / van Hulle, Dirk / Midell, Gregor / Neyt, Vincent / van Zundert, Joris</hi> (2014): Computer-supported collation of modern manuscripts: CollateX and the Beckett Digital Manuscript Project, in 
-                        <hi rend="italic">Digital Scholarship in the Humanities, 30(3), 452-470</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4876">Haentjens Dekker, Ronald / van Hulle, Dirk / Midell, Gregor / Neyt, Vincent / van Zundert, Joris (2014): Computer-supported collation of modern manuscripts: CollateX and the Beckett Digital Manuscript Project, in Digital Scholarship in the Humanities, 30(3), 452-470.</rs></bibl>
 <bibl>
-<hi rend="bold">Jänicke, Stefan / Geßner, Annette / Büchler, Marco / Scheuermann, Gerik</hi> (2014): 5 Design Rules for Visualizing Text Variant Graphs, in 
-                        <hi rend="italic">DH</hi>: 
-                        <ref target="https://www.informatik.uni-leipzig.de/~stjaenicke/5_Design_Rules_for_Visualizing_Text_Variant_Graphs.pdf">https://www.informatik.uni-leipzig.de/~stjaenicke/5_Design_Rules_for_Visualizing_Text_Variant_Graphs.pdf</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4877">Jänicke, Stefan / Geßner, Annette / Büchler, Marco / Scheuermann, Gerik (2014): 5 Design Rules for Visualizing Text Variant Graphs, in DH: https://www.informatik.uni-leipzig.de/~stjaenicke/5_Design_Rules_for_Visualizing_Text_Variant_Graphs.pdf.</rs></bibl>
 <bibl>
-<hi rend="bold">Myers, Gene</hi> (1986): An O(ND) difference algorithm and its variations, in 
-                        <hi rend="italic">Algorithmica, 1, 251-266</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4878">Myers, Gene (1986): An O(ND) difference algorithm and its variations, in Algorithmica, 1, 251-266.</rs></bibl>
 </listBibl>
 </div>
 </back>

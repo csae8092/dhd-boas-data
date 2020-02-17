@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Den Menschen als Zeichen lesen. Quantitative Lesarten körperlicher Zeichenhaftigkeit in visuellen Medien</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__gernot-howanitz-uni-passau-de">
                     <persName>
                         <surname>Howanitz</surname>
@@ -171,31 +172,31 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3382">Amos, Brandon / Ludwiczuk, Bartosz / Satyanarayanan, Mahadev (2016): "Openface: A general-purpose face recognition library with mobile applications," CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016. [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__553">Amos, Brandon / Ludwiczuk, Bartosz / Satyanarayanan, Mahadev (2016): "Openface: A general-purpose face recognition library with mobile applications," CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016. [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3383">Arnold, Taylor / Tilton, Lauren (2018): „Distant Viewing Toolkit (DVT) for the Cultural Analysis of Moving Images“, https://github.com/distant-viewing/dvt [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__554">Arnold, Taylor / Tilton, Lauren (2018): „Distant Viewing Toolkit (DVT) for the Cultural Analysis of Moving Images“, https://github.com/distant-viewing/dvt [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3384">Baltrušaitis, Tadas / Zadeh, Amir / Chong Lim, Yao / Morency, Louis-Philippe (2018): “OpenFace 2.0: Facial Behavior Analysis Toolkit“, IEEE International Conference on Automatic Face and Gesture Recognition 2018., [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__555">Baltrušaitis, Tadas / Zadeh, Amir / Chong Lim, Yao / Morency, Louis-Philippe (2018): “OpenFace 2.0: Facial Behavior Analysis Toolkit“, IEEE International Conference on Automatic Face and Gesture Recognition 2018., [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3385">Bermeitinger, Bernhard / Howanitz, Gernot / Radisch, Erik (2018): “Contextualising Bandera. Eine Distant Watching-Methode”, DHd 2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__556">Bermeitinger, Bernhard / Howanitz, Gernot / Radisch, Erik (2018): “Contextualising Bandera. Eine Distant Watching-Methode”, DHd 2018.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3386">Bourdev, Lubomir / Malik, Jitendra (2009): “Poselets: Body Part Detectors Trained Using 3D Human Pose Annotations”, ICCV 2009. [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__557">Bourdev, Lubomir / Malik, Jitendra (2009): “Poselets: Body Part Detectors Trained Using 3D Human Pose Annotations”, ICCV 2009. [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3387">Ekman, Paul / Friesen, Wallace V. (1978): The Facial Action Coding System: A Technique for the Measurement of Facial Movement. Palo Alto: Consulting.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__558">Ekman, Paul / Friesen, Wallace V. (1978): The Facial Action Coding System: A Technique for the Measurement of Facial Movement. Palo Alto: Consulting.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3388">Gassner, S ebastian. (2018): „How to Use David Sandberg's Facenet Implementation“, h ttps://github.com/sepastian/facenet/blob/master/HOWTO.md [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__559">Gassner, S ebastian. (2018): „How to Use David Sandberg's Facenet Implementation“, h ttps://github.com/sepastian/facenet/blob/master/HOWTO.md [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3389">Girshick, Ross / Radosavovic, Ilija / Gkioxari, Georgia / Dollár, Piotr / He, Kaiming (2018): Detectron. [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__37">Girshick, Ross / Radosavovic, Ilija / Gkioxari, Georgia / Dollár, Piotr / He, Kaiming (2018): Detectron. [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3390">Cao, Zhe / Simon, Tomas / Wei, Shih-En / Sheikh, Yaser (2017): „Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields“. CVPR 2017. [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__560">Cao, Zhe / Simon, Tomas / Wei, Shih-En / Sheikh, Yaser (2017): „Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields“. CVPR 2017. [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>I
-                        <rs type="bibl" ref="#bibl__3391">I mpett, Leonardo / Moretti, Franco (2017): “Totentanz. Operationalizing Aby Warburg’s Pathosformeln.” In: Literary Lab Pamphlet 16, November 2017, [letzter Zugriff 29. 9. 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__561">I mpett, Leonardo / Moretti, Franco (2017): “Totentanz. Operationalizing Aby Warburg’s Pathosformeln.” In: Literary Lab Pamphlet 16, November 2017, [letzter Zugriff 29. 9. 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3392">Lotman, Jurij (1984): “O semiosfere”. Učen. zap. Tart. gos. un-ta 641 (1984), 5-23. (=Trudy po znakovym sistemam 17).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__562">Lotman, Jurij (1984): “O semiosfere”. Učen. zap. Tart. gos. un-ta 641 (1984), 5-23. (=Trudy po znakovym sistemam 17).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3393">Mühlen-Achs, Gitta (1998): Geschlecht bewusst gemacht. Körpersprachliche Inszenierungen. München: Frauenoffensive.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__563">Mühlen-Achs, Gitta (1998): Geschlecht bewusst gemacht. Körpersprachliche Inszenierungen. München: Frauenoffensive.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3394">Sachs-Hombach, Klaus. (1993): Das Bild als k ommunikatives Medium. Elemente einer allgemeinen Bildwissenschaft. Köln: Halem.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__564">Sachs-Hombach, Klaus. (1993): Das Bild als k ommunikatives Medium. Elemente einer allgemeinen Bildwissenschaft. Köln: Halem.</rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -205,89 +205,43 @@
 <listBibl>
   <head>Bibliographie</head>
   <bibl>
-    <hi rend="bold">An, Weihua </hi> (2016):
-    „Fitting ERGMs on big networks.“, in: Social Science Research 59: 107-119.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5034">An, Weihua (2016): „Fitting ERGMs on big networks.“, in: Social Science Research 59: 107-119.</rs></bibl>
   <bibl>
-    <hi rend="bold">Amati, Viviana / Mol, Angus / Shafie, Termeh / Hofman, Corinne / Brandes, Ulrik </hi> (2019):
-    „A Framework for Reconstructing Archaeological Networks Using Exponential Random Graph Models.“, in: 
-    <hi rend="italic">Journal of Archaeological Method and Theory</hi> 29: 1-28.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5035">Amati, Viviana / Mol, Angus / Shafie, Termeh / Hofman, Corinne / Brandes, Ulrik (2019): „A Framework for Reconstructing Archaeological Networks Using Exponential Random Graph Models.“, in: Journal of Archaeological Method and Theory 29: 1-28.</rs></bibl>
   <bibl>
-    <hi rend="bold">Bodenmann, Reinhard</hi> (2019): „Bullinger-Briefwechsel“, unter
-    <ptr target="http://www.arpa-docs.ch/SedServer/SedWEB.cgi?fld_41a=&amp;fld_30b=&amp;fld_41c=&amp;fld_30c=&amp;fld_41e=&amp;search=&amp;range=&amp;Alias=Briefe&amp;Lng=0&amp;first=0&amp;session=0&amp;awidth=1440&amp;aheight=769&amp;PrjName=Bullinger+-+Briefwechsel"/>
-    (abgerufen am 12.12.2019).
-  </bibl>
+    <rs type="bibl" ref="#bibl__5036">Bodenmann, Reinhard (2019): „Bullinger-Briefwechsel“, unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Casiraghi, Giona / Nanumyan, Vahan</hi> ( 2018): „Generalised hypergeometric ensembles of random graphs: the configuration model as an urn problem“, 
-    <hi rend="italic">arXiv:1810.06495</hi>.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5037">Casiraghi, Giona / Nanumyan, Vahan ( 2018): „Generalised hypergeometric ensembles of random graphs: the configuration model as an urn problem“, arXiv:1810.06495.</rs></bibl>
   <bibl>
-    <hi rend="bold">Casiraghi, Giona</hi> (2017): „Multiplex Network Regression: How do relations drive interactions?“ 
-    <hi rend="italic">arXiv:1702.02048</hi>.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5038">Casiraghi, Giona (2017): „Multiplex Network Regression: How do relations drive interactions?“ arXiv:1702.02048.</rs></bibl>
   <bibl>
-    <hi rend="bold">Eagle, Nathan / Lazer, David</hi> (2009): „Inferring friendship network structure by using mobile phonedata“, in 
-    <hi rend="italic">PNAS </hi>106
-    <hi rend="italic">(36)</hi>, 15274-15278.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5039">Eagle, Nathan / Lazer, David (2009): „Inferring friendship network structure by using mobile phonedata“, in PNAS 106 (36), 15274-15278.</rs></bibl>
   <bibl>
-    <hi rend="bold">Eliassi-Rad, Tina / Caceres, Rajmonda. / LaRock, Timothy</hi> (2019): „Incompleteness in Networks: Biases, Skewed Results, and Some Solutions“, in 
-    <hi rend="italic">KDD’19 Proceedings</hi>.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5040">Eliassi-Rad, Tina / Caceres, Rajmonda. / LaRock, Timothy (2019): „Incompleteness in Networks: Biases, Skewed Results, and Some Solutions“, in KDD’19 Proceedings.</rs></bibl>
   <bibl>
-    <hi rend="bold">HAW-Forschungsstelle Melanchthon-Briefwechsel</hi> (2019): „Melanchthon Briefwechsel – Regesten online“, unter 
-    <ptr target="https://www.haw.uni-heidelberg.de/forschung/forschungsstellen/melanchthon/mbw-online.de.html"/>
-    <hi rend="color(#000000)">(abgerufen am 12.12.2019).</hi>
-  </bibl>
+    <rs type="bibl" ref="#bibl__5041">HAW-Forschungsstelle Melanchthon-Briefwechsel (2019): „Melanchthon Briefwechsel – Regesten online“, unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Liben-Nowell, David / Kleinberg, Jon</hi> (2007): „The Link Prediction Problem for Social Net- works“, in 
-    <hi rend="italic">Proceedings of the Twelfth Annual ACM International Conference on Information and Knowledge Management (CIKM)</hi>.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5042">Liben-Nowell, David / Kleinberg, Jon (2007): „The Link Prediction Problem for Social Net- works“, in Proceedings of the Twelfth Annual ACM International Conference on Information and Knowledge Management (CIKM).</rs></bibl>
   <bibl>
-    <hi rend="bold">Kaufmann, Thomas. </hi>(2017): „Erlöste und Verdammte - Eine Geschichte der Reformation (2. Ed.)“, C.H.Beck.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5043">Kaufmann, Thomas. (2017): „Erlöste und Verdammte - Eine Geschichte der Reformation (2. Ed.)“, C.H.Beck.</rs></bibl>
   <bibl>
-    <hi rend="bold">Kaufmann, Thomas</hi> (2012): 
-    <hi rend="italic">„Kritische Gesamtausgabe der Schriften und Briefe Andreas Bodensteins von Karlstadt, Teil I (1507-1518)</hi>. Wolfenbüttel 2012. 
-    <hi rend="italic">(Editiones Electronicae Guelferbytanae), </hi> unter
-    <ptr target="http://diglib.hab.de/edoc/ed000216/start.htm"/> (abgerufen am 12.12.2019).
-  </bibl>
+    <rs type="bibl" ref="#bibl__5044">Kaufmann, Thomas (2012): „Kritische Gesamtausgabe der Schriften und Briefe Andreas Bodensteins von Karlstadt, Teil I (1507-1518). Wolfenbüttel 2012. (Editiones Electronicae Guelferbytanae), unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Moser, Christian</hi> (2019): 
-    „Huldrych Zwingli Briefe: Digitale Texte“, unter 
-    <ptr target="http://www.irg.uzh.ch/static/zwingli-briefe/?n=Main.HomePage"/>
-    (abgerufen am 12.12.2019).
-  </bibl>
+    <rs type="bibl" ref="#bibl__5045">Moser, Christian (2019): „Huldrych Zwingli Briefe: Digitale Texte“, unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Newman, Mark. </hi>(2018): „Networks (2. Ed.)“, Oxford University Press.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5046">Newman, Mark. (2018): „Networks (2. Ed.)“, Oxford University Press.</rs></bibl>
   <bibl>
-    <hi rend="bold">ProQuest LLC.</hi> (2019): „Luthers Werke im WWW: Weimarer Ausgabe“, unter <ptr target="luther.chadwyck.co.uk"/> (abgerufen am 12.12.2019).
-  </bibl>
+    <rs type="bibl" ref="#bibl__5047">ProQuest LLC. (2019): „Luthers Werke im WWW: Weimarer Ausgabe“, unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Simon, Wolfgang / Friedrich, Reinhold</hi> (2018): „Briefkorrespondenz von Martin Bucer, unter 
-    <ptr target="https://augustana.de/forschung-lehre/kirchengeschichte/bucer-forschungsstelle.html"/>
-    <hi rend="color(#000000)">(abgerufen am 12.12.2019).</hi>
-  </bibl>
+    <rs type="bibl" ref="#bibl__5048">Simon, Wolfgang / Friedrich, Reinhold (2018): „Briefkorrespondenz von Martin Bucer, unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Snijders, Tom / Pattison, Philippa / Robins, Garry / Handcock, Mark</hi> (2006): „New specifications for exponential random graph models“, in 
-    <hi rend="italic">Sociological methodology </hi>36
-    <hi rend="italic">(1)</hi>, 99-153.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5049">Snijders, Tom / Pattison, Philippa / Robins, Garry / Handcock, Mark (2006): „New specifications for exponential random graph models“, in Sociological methodology 36 (1), 99-153.</rs></bibl>
   <bibl>
-    <hi rend="bold">Strohm, Christoph</hi> (2017): „Theologenbriefwechsel im Südwesten des Reichs in der Frühen Neuzeit (1550-1620)“ , Universitätsverlag WINTER Heidelberg.
-  </bibl>
+    <rs type="bibl" ref="#bibl__5050">Strohm, Christoph (2017): „Theologenbriefwechsel im Südwesten des Reichs in der Frühen Neuzeit (1550-1620)“ , Universitätsverlag WINTER Heidelberg.</rs></bibl>
   <bibl>
-    <hi rend="bold">Wallraff, Martin</hi> (2016): 
-    „Erschliessung des Briefwechsels von Oswald Myconius“, unter 
-    <ptr target="https://myconius.unibas.ch/impressum.html"/>
-    <hi rend="color(#000000)">(abgerufen am 12.12.2019).</hi>
-  </bibl>
+    <rs type="bibl" ref="#bibl__5051">Wallraff, Martin (2016): „Erschliessung des Briefwechsels von Oswald Myconius“, unter (abgerufen am 12.12.2019).</rs></bibl>
   <bibl>
-    <hi rend="bold">Wu, Yun-Jhong / Levina, Elizaveta / Zhu, Ji</hi> (2009): „Link prediction for egocentrically sampled networks“, 
-    <hi rend="italic">arXiv:1803.04084.</hi>
-  </bibl>
+    <rs type="bibl" ref="#bibl__5052">Wu, Yun-Jhong / Levina, Elizaveta / Zhu, Ji (2009): „Link prediction for egocentrically sampled networks“, arXiv:1803.04084.</rs></bibl>
 </listBibl>
 </div>
 </back>

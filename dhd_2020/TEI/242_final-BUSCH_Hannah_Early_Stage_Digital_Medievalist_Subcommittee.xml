@@ -143,77 +143,35 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Andorfer, Peter</hi> (2015):
-  „Forschungsdaten in den (digitalen) Geisteswissenschaften: Versuch
-  einer Konkretisierung“, Göttingen: GOEDOC (DARIAH-DE working papers
-  14)
-  <ref target="http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2">http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4370">Andorfer, Peter (2015): „Forschungsdaten in den (digitalen) Geisteswissenschaften: Versuch einer Konkretisierung“, Göttingen: GOEDOC (DARIAH-DE working papers 14) http://nbn-resolving.de/urn:nbn:de:gbv:7-dariah-2015-7-2</rs></bibl>
 <bibl>
-  <hi rend="bold">Bleier, Roman / Fischer, Franz / Hiltmann, Torsten /
-  Viehhauser, Gabriel / Vogeler, Georg</hi> (2019):
-  „Digitale Mediävistik und der deutschsprachige Raum“ in: Das
-  Mittelalter 24. 1 : 1-12 DOI:
-  <ptr target="10.1515/mial-2019-0001"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4371">Bleier, Roman / Fischer, Franz / Hiltmann, Torsten / Viehhauser, Gabriel / Vogeler, Georg (2019): „Digitale Mediävistik und der deutschsprachige Raum“ in: Das Mittelalter 24. 1 : 1-12 DOI:</rs></bibl>
 <bibl>
-  <hi rend="bold">Campagnolo, Alberto</hi> (2017): „What do digital
-  medievalists do?“
-  <ref target="https://digitalmedievalist.wordpress.com/2017/08/10/what-do-digital-medievalists-do/">https://digitalmedievalist.wordpress.com/2017/08/10/what-do-digital-medievalists-do/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4372">Campagnolo, Alberto (2017): „What do digital medievalists do?“ https://digitalmedievalist.wordpress.com/2017/08/10/what-do-digital-medievalists-do/</rs></bibl>
 <bibl>
-  <hi rend="bold">Computer Vision Lab Uni Heidelberg</hi>:
-  <ref target="https://hciweb.iwr.uni-heidelberg.de/compvis/">https://hciweb.iwr.uni-heidelberg.de/compvis/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4373">Computer Vision Lab Uni Heidelberg: https://hciweb.iwr.uni-heidelberg.de/compvis/</rs></bibl>
 <bibl>
-  <hi rend="bold">DigiPal</hi> (2011-2014): „Digital Resource and
-  Database of Palaeography, Manuscript Studies and Diplomatic“
-  <ptr target="http://www.digipal.eu/"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4374">DigiPal (2011-2014): „Digital Resource and Database of Palaeography, Manuscript Studies and Diplomatic“</rs></bibl>
 <bibl>
-  <hi rend="bold">Digital Medievalist Webseite</hi>: 
-  <ref target="https://digitalmedievalist.wordpress.com/">https://digitalmedievalist.wordpress.com/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__349">Digital Medievalist Webseite: https://digitalmedievalist.wordpress.com/</rs></bibl>
 <bibl>
-  <hi rend="bold">Digital Medievalist Journal</hi>:
-  <ref target="https://journal.digitalmedievalist.org/">https://journal.digitalmedievalist.org/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4375">Digital Medievalist Journal: https://journal.digitalmedievalist.org/</rs></bibl>
 <bibl>
-  <hi rend="bold">Digital Medievalist Mailingliste</hi>: 
-  <ref target="https://digitalmedievalist.wordpress.com/mailing-list/">https://digitalmedievalist.wordpress.com/mailing-list/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__349">Digital Medievalist Mailingliste: https://digitalmedievalist.wordpress.com/mailing-list/</rs></bibl>
 <bibl>
-  <hi rend="bold">Digital Medievalist on Facebook</hi>:
-  <ref target="https://www.facebook.com/groups/49320313760/">https://www.facebook.com/groups/49320313760/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4376">Digital Medievalist on Facebook: https://www.facebook.com/groups/49320313760/</rs></bibl>
 <bibl>
-  <hi rend="bold">Digital Medievalist on Twitter</hi>:
-  <ref target="https://twitter.com/digitalmedieval">https://twitter.com/digitalmedieval</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4377">Digital Medievalist on Twitter: https://twitter.com/digitalmedieval</rs></bibl>
 <bibl>
-  <hi rend="bold">Digital Medievalist on Zotero</hi>:
-  <ref target="https://www.zotero.org/groups/2138266/digitalmedievalist">https://www.zotero.org/groups/2138266/digitalmedievalist</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4378">Digital Medievalist on Zotero: https://www.zotero.org/groups/2138266/digitalmedievalist</rs></bibl>
 <bibl>
-  <hi rend="italic">Kodikologie und Paläographie im digitalen
-  Zeitalter 1-4 / Codicology and Palaeography in the Digital Age
-  1-4</hi> (2009, 2010, 2015, 2017):
-  Herausgegeben vom Institut für Dokumentologie und Editorik,
-  Norderstedt: BoD.
-  <ref target="https://www.i-d-e.de/publikationen/schriften/">https://www.i-d-e.de/publikationen/schriften/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4379">Kodikologie und Paläographie im digitalen Zeitalter 1-4 / Codicology and Palaeography in the Digital Age 1-4 (2009, 2010, 2015, 2017): Herausgegeben vom Institut für Dokumentologie und Editorik, Norderstedt: BoD. https://www.i-d-e.de/publikationen/schriften/</rs></bibl>
 <bibl>
-  <hi rend="bold">Mapping Medieval Conflict</hi>:
- <ref target="https://www.i-d-e.de/publikationen/schriften/">https://www.i-d-e.de/publikationen/schriften/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4380">Mapping Medieval Conflict: https://www.i-d-e.de/publikationen/schriften/</rs></bibl>
 <bibl>
-  <hi rend="bold">Sahle, Patrick</hi> (2016) : “Zur
-  Professoralisierung der Digital Humanities” in: DHdBlog 23. März
-  2016
-  <ptr target="https://dhd-blog.org/?p=6174"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4381">Sahle, Patrick (2016) : “Zur Professoralisierung der Digital Humanities” in: DHdBlog 23. März 2016</rs></bibl>
 <bibl>
-Alle angegeben Links wurden am 4. Januar 2020 geprüft.</bibl>
+Alle angegeben Links wurden am 4. Januar 2020 geprüft.<rs type="bibl" ref="#bibl__4382">Alle angegeben Links wurden am 4. Januar 2020 geprüft.</rs></bibl>
 </listBibl>
 </div>
 </back>

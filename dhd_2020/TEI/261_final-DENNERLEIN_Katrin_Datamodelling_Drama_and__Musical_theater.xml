@@ -234,27 +234,15 @@ In der Aufführungsdatenbank „Theadok“,<ref n="12" target="ftn12"/>
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold" style="font-size:12pt">Jonathan Bollen (2016)</hi>
-  <hi style="font-size:12pt">: Data Models for Theatre Research: People, Places, and Performance. In: Theatre Journal 68,4 2016, S. 615-632.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5066">Jonathan Bollen (2016) : Data Models for Theatre Research: People, Places, and Performance. In: Theatre Journal 68,4 2016, S. 615-632.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:12pt">Estermann, Beat / Christian Schneeberger</hi>
-  <hi style="font-size:12pt" xml:space="preserve">  (2017): Data Model for the Swiss Performing Arts Platform. Draft Version 0.51 September 2017 </hi>
-  <ref target="https://datahub.ckan.io/dataset/360db967-078c-4eca-bcd4-58bb5870753f/resource/9bb9d231-6b39-4e06-a44a-d0d9d939d45f/download/spa_data_model_v0-51_20170926.pdf">https://datahub.ckan.io/dataset/360db967-078c-4eca-bcd4-58bb5870753f/resource/9bb9d231-6b39-4e06-a44a-d0d9d939d45f/download/spa_data_model_v0-51_20170926.pdf</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__5067">Estermann, Beat / Christian Schneeberger (2017): Data Model for the Swiss Performing Arts Platform. Draft Version 0.51 September 2017 https://datahub.ckan.io/dataset/360db967-078c-4eca-bcd4-58bb5870753f/resource/9bb9d231-6b39-4e06-a44a-d0d9d939d45f/download/spa_data_model_v0-51_20170926.pdf</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:12pt">Gantert, Klaus /  Rupert Hacker</hi> (2008):
-  <hi style="font-size:12pt" xml:space="preserve"> (2008): Bibliothekarisches Grundwissen. München.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5068">Gantert, Klaus / Rupert Hacker (2008): (2008): Bibliothekarisches Grundwissen. München.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:12pt">Knoche, Michael</hi>
-  <hi style="font-size:12pt" xml:space="preserve"> (2017): </hi>
-  <hi rend="italic" style="font-size:12pt" xml:space="preserve">Die Idee der Bibliothek und ihre Zukunft. </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5069">Knoche, Michael (2017): Die Idee der Bibliothek und ihre Zukunft.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:12pt">Engelbert Plassmann</hi>
-  <hi style="font-size:12pt" xml:space="preserve"> (et. al.) (2011): Bibliotheken und Informationsgesellschaft in Deutschland. Eine Einführung. Wiesbaden.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5070">Engelbert Plassmann (et. al.) (2011): Bibliotheken und Informationsgesellschaft in Deutschland. Eine Einführung. Wiesbaden.</rs></bibl>
 </listBibl>
 </div>
 </back>

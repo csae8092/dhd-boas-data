@@ -144,16 +144,16 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__2799">Borek, Luise / Dombrowski, Quinn / Perkins, Jody / Schöch, Christof (2014): "Scholarly primitives revisited: towards a practical taxonomy of digital humanities research activities and objects", in: Digital Humanities Conference 2014, Lausanne, Switzerland http://dh2014.org/paper-session-details/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__2800">centerNet (o. J.): DH commons. A collaboration hub http://dhcommons.org/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__2801">DARIAH-DE (o. J.): Digital Humanities Course Registry https://dh-registry.de.dariah.eu/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__231">DARIAH-DE (o. J.): Digital Research Infrastructure for the Arts and Humanities https://de.dariah.eu/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__2802">DARIAH-DE (o. J.): Doing Digital Humanities. Bibliographie. https://de.dariah.eu/bibliographie [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__2803">DiRT (o. J.): DiRT. Digital Research Tools http://dirtdirectory.org [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__207">Hughes, Lorna / Constantopoulos, Panos / Dallas, Costis (Im Druck): “Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines”, in Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A new companion to digital humanities. Oxford: Wiley-Blackwell.</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2804">NeDiMAH (2012): “Network for Digital Methods in the Arts and Humanities (NeDiMAH)” http://www.esf.org/fileadmin/Public_documents/Publications/nedimah.pdf [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2805">Schöch, Christof (2012): Doing Digital Humanities. A DARIAH-DE Bibliography. Göttingen: DARIAH-DE https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography [letzter Zugriff 13. Februar 2016].</rs></bibl>
-                        <bibl><rs type="bibl" ref="#bibl__2806">TaDiRAH: Taxonomy of Digital Research Activities in the Humanities https://github.com/dhtaxonomy/TaDiRAH [13. Februar 2016].</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__2138">Borek, Luise / Dombrowski, Quinn / Perkins, Jody / Schöch, Christof (2014): "Scholarly primitives revisited: towards a practical taxonomy of digital humanities research activities and objects", in: Digital Humanities Conference 2014, Lausanne, Switzerland http://dh2014.org/paper-session-details/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__2139">centerNet (o. J.): DH commons. A collaboration hub http://dhcommons.org/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__2140">DARIAH-DE (o. J.): Digital Humanities Course Registry https://dh-registry.de.dariah.eu/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__240">DARIAH-DE (o. J.): Digital Research Infrastructure for the Arts and Humanities https://de.dariah.eu/ [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2141">DARIAH-DE (o. J.): Doing Digital Humanities. Bibliographie. https://de.dariah.eu/bibliographie [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2142">DiRT (o. J.): DiRT. Digital Research Tools http://dirtdirectory.org [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__2143">Hughes, Lorna / Constantopoulos, Panos / Dallas, Costis (Im Druck): “Digital Methods in the Humanities: Understanding and Describing their Use across the Disciplines”, in Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A new companion to digital humanities. Oxford: Wiley-Blackwell.</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2144">NeDiMAH (2012): “Network for Digital Methods in the Arts and Humanities (NeDiMAH)” http://www.esf.org/fileadmin/Public_documents/Publications/nedimah.pdf [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2145">Schöch, Christof (2012): Doing Digital Humanities. A DARIAH-DE Bibliography. Göttingen: DARIAH-DE https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography [letzter Zugriff 13. Februar 2016].</rs></bibl>
+                        <bibl><rs type="bibl" ref="#bibl__2146">TaDiRAH: Taxonomy of Digital Research Activities in the Humanities https://github.com/dhtaxonomy/TaDiRAH [13. Februar 2016].</rs></bibl>
                         </listBibl>
                       </div>
                     </back>

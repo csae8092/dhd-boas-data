@@ -70,29 +70,29 @@
           <listBibl>
             <head>Bibliography</head>
             <bibl>
-              <rs type="bibl" ref="#bibl__1935">Agosti, Maristella / Nicola Ferro (2007): “A Formal Model of Annotations of Digital Content”, in: ACM Transactions on Information Systems 26, 1.</rs></bibl>
+              <rs type="bibl" ref="#bibl__2759">Agosti, Maristella / Nicola Ferro (2007): “A Formal Model of Annotations of Digital Content”, in: ACM Transactions on Information Systems 26, 1.</rs></bibl>
               <bibl>
-                <rs type="bibl" ref="#bibl__1936">Barteld, Fabian / Ihden, Sarah / Schröder, Ingrid / Zinsmeister, Heike (2014): „Annotating descriptively incomplete language phenomena“, in: Levin, Lori / Stede, Manfred (eds.): Proceedings of LAW VIII - The 8th Linguistic Annotation Workshop 99–104.</rs></bibl>
+                <rs type="bibl" ref="#bibl__2760">Barteld, Fabian / Ihden, Sarah / Schröder, Ingrid / Zinsmeister, Heike (2014): „Annotating descriptively incomplete language phenomena“, in: Levin, Lori / Stede, Manfred (eds.): Proceedings of LAW VIII - The 8th Linguistic Annotation Workshop 99–104.</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__1937">Blustein, James / Rowe, David / Graff, Ann-Barbara (2011): „Making Sense in the Margins: A Field Study of Annotation“, in: Research and Advanced Technology for Digital Libraries. Berlin: Springer 252–259.</rs></bibl>
+                    <rs type="bibl" ref="#bibl__2761">Blustein, James / Rowe, David / Graff, Ann-Barbara (2011): „Making Sense in the Margins: A Field Study of Annotation“, in: Research and Advanced Technology for Digital Libraries. Berlin: Springer 252–259.</rs></bibl>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__1938">Bradley, John (2008): “Pliny: A model for digital support of scholarship”, in: Journal of Digital Information (JoDI) 9, 1.</rs></bibl>
+                      <rs type="bibl" ref="#bibl__2762">Bradley, John (2008): “Pliny: A model for digital support of scholarship”, in: Journal of Digital Information (JoDI) 9, 1.</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__1939">Bradley, John / Vetch, Paul (2007): “Supporting Annotation as a Scholarly Tool – Experiences from the Online Chopin Variorum Edition”, in: Literary and Linguistic Computing 22, 2.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2763">Bradley, John / Vetch, Paul (2007): “Supporting Annotation as a Scholarly Tool – Experiences from the Online Chopin Variorum Edition”, in: Literary and Linguistic Computing 22, 2.</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__1940">Burghardt, Manuel (2014): Engineering Annotation Usability-Toward Usability Patterns for Linguistic Annotation Tools. Doktorarbeit. Universität Regensburg.</rs></bibl>
+                          <rs type="bibl" ref="#bibl__2764">Burghardt, Manuel (2014): Engineering Annotation Usability-Toward Usability Patterns for Linguistic Annotation Tools. Doktorarbeit. Universität Regensburg.</rs></bibl>
                           <bibl>
-                            <rs type="bibl" ref="#bibl__17">Dipper, Stefanie (2005): „XML-Based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation“, in: Proceedings der Berliner XML-Tage 2005 (BXML 2005) 39–50.</rs></bibl>
+                            <rs type="bibl" ref="#bibl__139">Dipper, Stefanie (2005): „XML-Based Stand-off Representation and Exploitation of Multi-Level Linguistic Annotation“, in: Proceedings der Berliner XML-Tage 2005 (BXML 2005) 39–50.</rs></bibl>
                               <bibl>
-                                <rs type="bibl" ref="#bibl__183">Gius, Evelyn / Jacke, Janina (2015): „Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse“, in: Baum, Constanze / Stäcker, Thomas (eds.): Grenzen und Möglichkeiten der Digital Humanities (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). http://www.zfdg.de/sb001_006 [letzter Zugriff 09. Januar 2016].</rs></bibl>
+                                <rs type="bibl" ref="#bibl__2765">Gius, Evelyn / Jacke, Janina (2015): „Informatik und Hermeneutik. Zum Mehrwert interdisziplinärer Textanalyse“, in: Baum, Constanze / Stäcker, Thomas (eds.): Grenzen und Möglichkeiten der Digital Humanities (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1). http://www.zfdg.de/sb001_006 [letzter Zugriff 09. Januar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__1941">Leech, Geoffrey (1997): “Introducing Corpus Annotation”, in: Garside, Roger / Leech, Geoffrey / McEnery, Tony (eds.): Corpus Annotation. Linguistic Information from Computer Text Corpora. London / New York: Longman 1–18.</rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2766">Leech, Geoffrey (1997): “Introducing Corpus Annotation”, in: Garside, Roger / Leech, Geoffrey / McEnery, Tony (eds.): Corpus Annotation. Linguistic Information from Computer Text Corpora. London / New York: Longman 1–18.</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__1942">Piez, Wendell (2010): „Towards Hermeneutic Markup. An Architectural Outline“, in: Digital Humanities 2010. Conference Abstracts, präsentiert auf der Digital Humanities Conference 2010 (DH 2010) 202–205.</rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2767">Piez, Wendell (2010): „Towards Hermeneutic Markup. An Architectural Outline“, in: Digital Humanities 2010. Conference Abstracts, präsentiert auf der Digital Humanities Conference 2010 (DH 2010) 202–205.</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__1943">Pustejovsky, James / Stubbs, Amber (2012): Natural Language Annotation for Machine Learning. O’Reilly Media, Inc.</rs></bibl>
+                                      <rs type="bibl" ref="#bibl__324">Pustejovsky, James / Stubbs, Amber (2012): Natural Language Annotation for Machine Learning. O’Reilly Media, Inc.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__1944">Stede, Manfred / Neumann, Arne (2014): “Potsdam Commentary Corpus 2.0: Annotation for Discourse Research”, in: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14) 925–929.</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2768">Stede, Manfred / Neumann, Arne (2014): “Potsdam Commentary Corpus 2.0: Annotation for Discourse Research”, in: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14) 925–929.</rs></bibl>
                                       </listBibl>
                                     </div>
                                   </back>

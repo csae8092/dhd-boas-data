@@ -226,17 +226,17 @@
                     <listBibl>
                       <head>Bibliographie</head>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__1819">Kepper, Johannes (2009): "XML-basierte Codierung musikwissenschaftlicher Daten – Zu den Voraussetzungen einer digitalen Musikedition", in: it – Information Technology 51: 216–221.</rs></bibl>
-                        <bibl> Library of Congress (2015): <rs type="bibl" ref="#bibl__1820">Library of Congress (2015): Preservation: Recommended Formats Statement https://www.loc.gov/preservation/resources/rfs/textmus.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
-                            <bibl><rs type="bibl" ref="#bibl__1821">Krahn, Holger / Rumpe, Bernhard (2005): Evolution von Softwarearchitekturen. Informatik-Bericht 2005-04. Braunschweig: TU Braunschweig http://www.se-rwth.de/~rumpe/publications20042008/Evolution-von-Software-Architekturen.pdf [letzter Zugriff 08. Januar 2016].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2466">Kepper, Johannes (2009): "XML-basierte Codierung musikwissenschaftlicher Daten – Zu den Voraussetzungen einer digitalen Musikedition", in: it – Information Technology 51: 216–221.</rs></bibl>
+                        <bibl> Library of Congress (2015): <rs type="bibl" ref="#bibl__2467">Library of Congress (2015): Library of Congress (2015): Preservation: Recommended Formats Statement https://www.loc.gov/preservation/resources/rfs/textmus.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
+                            <bibl><rs type="bibl" ref="#bibl__2468">Krahn, Holger / Rumpe, Bernhard (2005): Evolution von Softwarearchitekturen. Informatik-Bericht 2005-04. Braunschweig: TU Braunschweig http://www.se-rwth.de/~rumpe/publications20042008/Evolution-von-Software-Architekturen.pdf [letzter Zugriff 08. Januar 2016].</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__1822">Richts, Kristina / Herold, Kristin (2014): Daten- und Metadatenformate in den Fachdisziplinen: Musikwissenschaft https://wiki.de.dariah.eu/display/publicde/3.3+Musikwissenschaft [letzter Zugriff: 04. Januar 2016].</rs></bibl>
+                              <rs type="bibl" ref="#bibl__2469">Richts, Kristina / Herold, Kristin (2014): Daten- und Metadatenformate in den Fachdisziplinen: Musikwissenschaft https://wiki.de.dariah.eu/display/publicde/3.3+Musikwissenschaft [letzter Zugriff: 04. Januar 2016].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__1823">Roland, Perry / Kepper, Johannes (eds.) (2014): Music Encoding Initiative Guidelines. Release 2013. Revision 2.1.1. Charlottesville / Detmold: Music Encoding Initiative Council http://github.com/music-encoding/music-encoding/releases/download/MEI2013_v2.1.1/MEI_Guidelines_2013_v2.1.1.pdf [letzter Zugriff: 04. Januar 2016].</rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2470">Roland, Perry / Kepper, Johannes (eds.) (2014): Music Encoding Initiative Guidelines. Release 2013. Revision 2.1.1. Charlottesville / Detmold: Music Encoding Initiative Council http://github.com/music-encoding/music-encoding/releases/download/MEI2013_v2.1.1/MEI_Guidelines_2013_v2.1.1.pdf [letzter Zugriff: 04. Januar 2016].</rs></bibl>
                                     <bibl>
-                                      <rs type="bibl" ref="#bibl__1824">Selfridge-Field, Eleanor (1997): Beyond MIDI. The handbook of musical codes. Cambridge: MIT Press Ltd.</rs></bibl>
+                                      <rs type="bibl" ref="#bibl__305">Selfridge-Field, Eleanor (1997): Beyond MIDI. The handbook of musical codes. Cambridge: MIT Press Ltd.</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__1825">Veit, Joachim (2006): "Musikwissenschaft und Computerphilologie – eine schwierige Liaison?", in: Jahrbuch für Computerphilologie 7: 67–92 http://computerphilologie.uni-muenchen.de/jg05/veit.html [letzter Zugriff 30. September 2015].</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2471">Veit, Joachim (2006): "Musikwissenschaft und Computerphilologie – eine schwierige Liaison?", in: Jahrbuch für Computerphilologie 7: 67–92 http://computerphilologie.uni-muenchen.de/jg05/veit.html [letzter Zugriff 30. September 2015].</rs></bibl>
                                       </listBibl>
                                     </div>
                                   </back>

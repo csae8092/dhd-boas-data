@@ -265,108 +265,49 @@ For Multinomial Naive Bayes, Logistic Regression, SVM and K-NN we used the libra
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<anchor xml:id="id_docs-internal-guid-7a242af9-7fff-178f-85c2-c9b350b605f8"/>
-<hi rend="bold">Akiba, Takuya / Shotaro Sano / Toshihiko Yanase / Takeru Ohta /  Masanori Koyama </hi> (2019): „Optuna: A Next-generation Hyperparameter Optimization Framework“. 
-<hi rend="italic">CoRR</hi> abs/1907.10902. http://arxiv.org/abs/1907.10902.
-</bibl>
+<rs type="bibl" ref="#bibl__4661">Akiba, Takuya / Shotaro Sano / Toshihiko Yanase / Takeru Ohta / Masanori Koyama (2019): „Optuna: A Next-generation Hyperparameter Optimization Framework“. CoRR abs/1907.10902. http://arxiv.org/abs/1907.10902.</rs></bibl>
 <bibl>
-<hi rend="bold">Bojanowski, Piotr / Edouard Grave /  Armand Joulin / Tomas Mikolov</hi> (2016): „Enriching Word Vectors with Subword Information“. 
-<hi rend="italic">CoRR</hi> abs/1607.04606. http://arxiv.org/abs/1607.04606.
-</bibl>
+<rs type="bibl" ref="#bibl__4662">Bojanowski, Piotr / Edouard Grave / Armand Joulin / Tomas Mikolov (2016): „Enriching Word Vectors with Subword Information“. CoRR abs/1607.04606. http://arxiv.org/abs/1607.04606.</rs></bibl>
 <bibl>
-<hi rend="bold">Chen, Tianqi /  Carlos Guestrin</hi> (2016): „XGBoost: A Scalable Tree Boosting System“.
-<hi rend="italic">CoRR</hi> abs/1603.02754. http://arxiv.org/abs/1603.02754.
-</bibl>
+<rs type="bibl" ref="#bibl__4663">Chen, Tianqi / Carlos Guestrin (2016): „XGBoost: A Scalable Tree Boosting System“. CoRR abs/1603.02754. http://arxiv.org/abs/1603.02754.</rs></bibl>
 <bibl>
-<hi rend="bold">Dorogush, Anna Veronika /  Andrey Gulin / Gleb Gusev / Nikita Kazeev / Liudmila Ostroumova Prokhorenkova / Aleksandr Vorobev </hi> (2017): „Fighting biases with dynamic boosting“. 
-<hi rend="italic">CoRR</hi> abs/1706.09516. http://arxiv.org/abs/1706.09516.
-</bibl>
+<rs type="bibl" ref="#bibl__4664">Dorogush, Anna Veronika / Andrey Gulin / Gleb Gusev / Nikita Kazeev / Liudmila Ostroumova Prokhorenkova / Aleksandr Vorobev (2017): „Fighting biases with dynamic boosting“. CoRR abs/1706.09516. http://arxiv.org/abs/1706.09516.</rs></bibl>
 <bibl>
-<hi rend="bold">Eissen, Sven Meyer zu  /  Stein, Benno</hi> (2008):  „Retrieval models for genre classification“.
-<hi rend="italic">Scandinavian Journal of Information Systems.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4665">Eissen, Sven Meyer zu / Stein, Benno (2008): „Retrieval models for genre classification“. Scandinavian Journal of Information Systems.</rs></bibl>
 <bibl>
-<hi rend="bold">Frank, Eibe  /  Remco R. Bouckaert</hi> (2006): „Naive Bayes for Text Classification with Unbalanced Classes“. In 
-<hi rend="italic">Knowledge Discovery in Databases: PKDD 2006</hi>
-, herausgegeben von Johannes Fürnkranz, Tobias Scheffer, und Myra Spiliopoulou, 503–510. Berlin, Heidelberg: Springer Berlin Heidelberg.
-</bibl>
+<rs type="bibl" ref="#bibl__4666">Frank, Eibe / Remco R. Bouckaert (2006): „Naive Bayes for Text Classification with Unbalanced Classes“. In Knowledge Discovery in Databases: PKDD 2006 , herausgegeben von Johannes Fürnkranz, Tobias Scheffer, und Myra Spiliopoulou, 503–510. Berlin, Heidelberg: Springer Berlin Heidelberg.</rs></bibl>
 <bibl>
-<hi rend="bold">Goncales, T.  /  Quaresma, P.</hi> (2014): Evaluating
-preprocessing techniques in a Text Classification problem. In 
-Information Processing &amp; Management 50. Jg., Nr. 1, S. 104-112.
-</bibl>
+<rs type="bibl" ref="#bibl__4667">Goncales, T. / Quaresma, P. (2014): Evaluating preprocessing techniques in a Text Classification problem. In Information Processing &amp; Management 50. Jg., Nr. 1, S. 104-112.</rs></bibl>
  <bibl>
-<hi rend="bold">Hempfer, Klaus W.</hi> (2010): „Zum begrifflichen Status der Gattungsbegriffe: Von ‘Klassen’ zu ‘Familienähnlichkeiten’ und ‘Prototypen’.“ 
-<hi rend="italic">Zeitschrift Für Französische Sprache Und Literatur</hi>
-120, 1: 14-32. <ptr target="http://www.jstor.org/stable/40619075"/>.
-</bibl>
+<rs type="bibl" ref="#bibl__381">Hempfer, Klaus W. (2010): „Zum begrifflichen Status der Gattungsbegriffe: Von ‘Klassen’ zu ‘Familienähnlichkeiten’ und ‘Prototypen’.“ Zeitschrift Für Französische Sprache Und Literatur 120, 1: 14-32. .</rs></bibl>
 <bibl>
-<hi rend="bold">Jannidis, Fotis,  /  Konle, Leonard  /  Leinen, Peter </hi>
-(2019a): Thematic Complexity. DH 2019 in Utrecht. Conference Abstracts.
-</bibl>
+<rs type="bibl" ref="#bibl__4668">Jannidis, Fotis, / Konle, Leonard / Leinen, Peter (2019a): Thematic Complexity. DH 2019 in Utrecht. Conference Abstracts.</rs></bibl>
 <bibl>
-  <hi rend="bold">Jannidis, Fotis  /  Konle, Leonard  /  Leinen, Peter</hi> (2019b): Makroanalytische Untersuchung von Heftromanen. DHd 2019. Conference Abstracts.
-</bibl>
+  <rs type="bibl" ref="#bibl__406">Jannidis, Fotis / Konle, Leonard / Leinen, Peter (2019b): Makroanalytische Untersuchung von Heftromanen. DHd 2019. Conference Abstracts.</rs></bibl>
 <bibl>
-<hi rend="bold">Kaufman, Shachar  /  Saharon Rosset  /  Claudia Perlich  /  Stitelman</hi> (2012): „Leakage in Data Mining: Formulation, Detection, and Avoidance“. 
-<hi rend="italic">ACM Trans. Knowl. Discov. Data</hi> 6 (4): 15:1–15:21.
-<ptr target="https://doi.org/10.1145/2382577.2382579"/>.
-</bibl>
+<rs type="bibl" ref="#bibl__4669">Kaufman, Shachar / Saharon Rosset / Claudia Perlich / Stitelman (2012): „Leakage in Data Mining: Formulation, Detection, and Avoidance“. ACM Trans. Knowl. Discov. Data 6 (4): 15:1–15:21. .</rs></bibl>
 <bibl>
-<hi rend="bold">Ke, Guolin  /  Qi Meng  /  Thomas Finley  /  Taifeng
-Wang  /  Wei Chen  /  Weidong Ma  /  Qiwei Ye  /  Tie-Yan Liu</hi> (2017): „LightGBM: A Highly Efficient Gradient Boosting Decision Tree“. In
-<hi rend="italic">Advances in Neural Information Processing Systems 30</hi>
-, herausgegeben von I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, und R. Garnett, 3146–3154. Curran Associates, Inc. 
-<ptr target="http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf"/>.
-</bibl>
+<rs type="bibl" ref="#bibl__4670">Ke, Guolin / Qi Meng / Thomas Finley / Taifeng Wang / Wei Chen / Weidong Ma / Qiwei Ye / Tie-Yan Liu (2017): „LightGBM: A Highly Efficient Gradient Boosting Decision Tree“. In Advances in Neural Information Processing Systems 30 , herausgegeben von I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, und R. Garnett, 3146–3154. Curran Associates, Inc. .</rs></bibl>
 <bibl>
-<hi rend="bold">Landeiro, V.  /  Culotta, A.</hi> (2016):  „Robust Text Classification in the Presence of Confounding Bias“. 
-<ref target="https://dl.acm.org/doi/proceedings/10.5555/3015812">AAAI'16: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence</ref>, 186–193.
-</bibl>
+<rs type="bibl" ref="#bibl__4671">Landeiro, V. / Culotta, A. (2016): „Robust Text Classification in the Presence of Confounding Bias“. AAAI'16: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, 186–193.</rs></bibl>
 <bibl>
-<hi rend="bold">Nusser, Peter</hi> (1973):
-<hi rend="italic">Romane für die Unterschicht. Groschenhefte und ihre
-Leser.</hi> Stuttgart: Metzler.
-</bibl>
+<rs type="bibl" ref="#bibl__95">Nusser, Peter (1973): Romane für die Unterschicht. Groschenhefte und ihre Leser. Stuttgart: Metzler.</rs></bibl>
 <bibl>
-<hi rend="bold">Nusser, Peter</hi> (1991):
-<hi rend="italic">Trivialliteratur.</hi>
-Stuttgart: Metzler.
-</bibl>
+<rs type="bibl" ref="#bibl__4672">Nusser, Peter (1991): Trivialliteratur. Stuttgart: Metzler.</rs></bibl>
 <bibl>
-<hi rend="bold">Nutz, Walter</hi> (1999):
-<hi rend="italic">Trivialliteratur und Populärkultur.</hi>
-Opladen: Wiesbaden.
-</bibl>
+<rs type="bibl" ref="#bibl__4673">Nutz, Walter (1999): Trivialliteratur und Populärkultur. Opladen: Wiesbaden.</rs></bibl>
 <bibl>
-<hi rend="bold">Olson, Randal S. / William La Cava / Zairah Mustahsan
-/ Akshay Varik /  Jason H. Moore</hi> (2017):
-„Data-driven Advice for Applying Machine Learning to Bioinformatics Problems“.
-<hi rend="italic">arXiv:1708.05070 [cs, q-bio, stat],</hi> August. <ref target="http://arxiv.org/abs/1708.05070">http://arxiv.org/abs/1708.05070.</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4674">Olson, Randal S. / William La Cava / Zairah Mustahsan / Akshay Varik / Jason H. Moore (2017): „Data-driven Advice for Applying Machine Learning to Bioinformatics Problems“. arXiv:1708.05070 [cs, q-bio, stat], August. http://arxiv.org/abs/1708.05070.</rs></bibl>
 <bibl>
-<hi rend="bold">Pedregosa, F. / G. Varoquaux / A. Gramfort / V. Michel
-/ B. Thirion / O. Grisel / M. Blondel u. a.</hi> (2011): „Scikit-learn: Machine Learning in Python“. 
-<hi rend="italic">Journal of Machine Learning Research</hi> 12: 2825–2830.
-</bibl>
+<rs type="bibl" ref="#bibl__4675">Pedregosa, F. / G. Varoquaux / A. Gramfort / V. Michel / B. Thirion / O. Grisel / M. Blondel u. a. (2011): „Scikit-learn: Machine Learning in Python“. Journal of Machine Learning Research 12: 2825–2830.</rs></bibl>
 <bibl>
-<hi rend="bold">Ribeiro, Marco Tulio/  Sameer Singh / Carlos Guestrin</hi> (2016): „’Why Should I Trust You?‘: Explaining the Predictions of Any Classifier“. 
-<hi rend="italic">arXiv:1602.04938 [cs, stat],</hi> Februar. <ptr target="http://arxiv.org/abs/1602.04938"/>.
-</bibl>
+<rs type="bibl" ref="#bibl__4676">Ribeiro, Marco Tulio/ Sameer Singh / Carlos Guestrin (2016): „’Why Should I Trust You?‘: Explaining the Predictions of Any Classifier“. arXiv:1602.04938 [cs, stat], Februar. .</rs></bibl>
 <bibl>
-<hi rend="bold">Stockinger, Claudia</hi> (2018): „Das All dort draußen zeigt uns, wer wir sind. Die Leseuniversen der Groschenhefte“. In Steffen Martus / Carlos Spoerhase (ed.): 
-<hi rend="italic">Gelesene Literatur: Populäre Literatur im Medienwandel.</hi>
-Text und Kritik. edition text und kritik.
-</bibl>
+<rs type="bibl" ref="#bibl__4677">Stockinger, Claudia (2018): „Das All dort draußen zeigt uns, wer wir sind. Die Leseuniversen der Groschenhefte“. In Steffen Martus / Carlos Spoerhase (ed.): Gelesene Literatur: Populäre Literatur im Medienwandel. Text und Kritik. edition text und kritik.</rs></bibl>
 <bibl>
-<hi rend="bold">Szubert, Benjamin, et al. </hi> (2019): “Structure-Preserving Visualisation of High Dimensional Single-Cell Datasets.”
-<hi rend="italic">Scientific Reports,</hi> vol. 9, no. 1, June, p. 8914, doi:
-<ref target="https://doi.org/10.1038/s41598-019-45301-0">10.1038/s41598-019-45301-0.</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4678">Szubert, Benjamin, et al. (2019): “Structure-Preserving Visualisation of High Dimensional Single-Cell Datasets.” Scientific Reports, vol. 9, no. 1, June, p. 8914, doi: 10.1038/s41598-019-45301-0.</rs></bibl>
 <bibl>
-<hi rend="bold">Toman, M. / Tesar, R. / Jezek, K.</hi> (2006): “Influence in Word Normalization on Text Classification."
-Proceedings of InSciT 4 (2006): 354-358.
-</bibl>
+<rs type="bibl" ref="#bibl__4679">Toman, M. / Tesar, R. / Jezek, K. (2006): “Influence in Word Normalization on Text Classification." Proceedings of InSciT 4 (2006): 354-358.</rs></bibl>
 </listBibl>
 </div>
 </back>

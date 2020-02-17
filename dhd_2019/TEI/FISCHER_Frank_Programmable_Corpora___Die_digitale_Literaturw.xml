@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Programmable Corpora – Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__frafis-gmail-com">
                     <persName>
                         <surname>Fischer</surname>
@@ -200,25 +201,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4112">Bleier, Roman; Klug, Helmut W. (2018): Discussing Interfaces in Digital Scholarly Editing. In: Digital Scholarly Editions as Interfaces. BoD, Norderstedt, S. V–XV. URL:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1387">Bleier, Roman; Klug, Helmut W. (2018): Discussing Interfaces in Digital Scholarly Editing. In: Digital Scholarly Editions as Interfaces. BoD, Norderstedt, S. V–XV. URL:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4113">de la Iglesia, Martin; Fischer, Frank (2016): The Facebook of German Playwrights. URL:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1388">de la Iglesia, Martin; Fischer, Frank (2016): The Facebook of German Playwrights. URL:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4114">Fischer, Frank; Dazord, Gilles; Göbel, Mathias; Kittel, Christopher; Trilcke, P eer (2017): Le drame comme réseau de relations. Une application de l‘analyse automatisée pour l’histoire littéraire du théâtre. In: Revue d'historiographie du théâtre. № 4. URL:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1389">Fischer, Frank; Dazord, Gilles; Göbel, Mathias; Kittel, Christopher; Trilcke, P eer (2017): Le drame comme réseau de relations. Une application de l‘analyse automatisée pour l’histoire littéraire du théâtre. In: Revue d'historiographie du théâtre. № 4. URL:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4115">Fischer , Frank; Kittel, Christopher; Milling, Carsten; Schultz, Anika; Trilcke, Peer; Wolf, Jana (2018): Dramenquartett – Eine didaktische Intervention. In: Konferenzabstracts zur DHd2018, Universität zu Köln. S. 397 f. DOI:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1390">Fischer , Frank; Kittel, Christopher; Milling, Carsten; Schultz, Anika; Trilcke, Peer; Wolf, Jana (2018): Dramenquartett – Eine didaktische Intervention. In: Konferenzabstracts zur DHd2018, Universität zu Köln. S. 397 f. DOI:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4116">Göbel, Mathias; Fischer, Frank (2015): The Birth and Death of German Playwrights. URL:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1391">Göbel, Mathias; Fischer, Frank (2015): The Birth and Death of German Playwrights. URL:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4117">Göbel, Mathias; Meiners, Hanna-Lena (2016): Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus. In: Konferenzabstracts zur DHd201 6, Bern/CH. S. 140–143. URL: http://www.dhd2016.de/abstracts/vortr%C3%A4ge-007.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__209">Göbel, Mathias; Meiners, Hanna-Lena (2016): Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus. In: Konferenzabstracts zur DHd201 6, Bern/CH. S. 140–143. URL: http://www.dhd2016.de/abstracts/vortr%C3%A4ge-007.html</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4118">Grayson, Siobhán; Wade, Karen; Meaney, Gerardine; Greene, Derek (2016): The Sense and Sensibility of Different Sliding Windows in Constructing Co-Occurrence Networks from Literature. In: 2nd IFIP International Workshop on Computational History and Data-Driven Humanities. Trinity College Dublin 2016. PDF:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1392">Grayson, Siobhán; Wade, Karen; Meaney, Gerardine; Greene, Derek (2016): The Sense and Sensibility of Different Sliding Windows in Constructing Co-Occurrence Networks from Literature. In: 2nd IFIP International Workshop on Computational History and Data-Driven Humanities. Trinity College Dublin 2016. PDF:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4119">Kittel; Christopher; Fischer, Frank (2014–2018): dramavis. Python-Skriptsammlung. Repo:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1393">Kittel; Christopher; Fischer, Frank (2014–2018): dramavis. Python-Skriptsammlung. Repo:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4120">Schöch, Christoph et al. (2018): Distant Reading for European Literary History. A COST Action [Poster]. In: DH2018: Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C. URL: https://dh2018.adho.org/en/?p=11345</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1394">Schöch, Christoph et al. (2018): Distant Reading for European Literary History. A COST Action [Poster]. In: DH2018: Book of Abstracts / Libro de resúmenes. Mexico: Red de Humanidades Digitales A. C. URL: https://dh2018.adho.org/en/?p=11345</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4121">Trilcke, Peer; Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. Hrsg. von Martin Huber und Sybille Krämer (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3). DOI:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__160">Trilcke, Peer; Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. Hrsg. von Martin Huber und Sybille Krämer (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3). DOI:</rs></bibl>
                 </listBibl>
             </div>
         </back>

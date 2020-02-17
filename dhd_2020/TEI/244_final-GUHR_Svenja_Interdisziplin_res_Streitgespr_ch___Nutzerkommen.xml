@@ -115,99 +115,35 @@ Das Projekt verfolgt damit das Ziel, den Dialog zwischen datenbasierter Forschun
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold">Aker, Ahmet / Paramita, Monica / Kurtic, Emina / Funk, Adam / Barker, Emma</hi>
-	<hi xml:space="preserve"> (2016): „Automatic label generation for news comment clusters“, in:</hi>
-	<hi rend="italic">Proceedings of the 9th International Natural Language Generation Conference</hi>
-	<hi xml:space="preserve">, </hi>
-	<hi rend="italic" xml:space="preserve">Edinburgh, UK: </hi> 61–69
-	https://pdfs.semanticscholar.org/4da7/ac02c56d43312425a854d63e71f89dd288ec.pdf [letzter Zugriff 26. Juni 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5545">Aker, Ahmet / Paramita, Monica / Kurtic, Emina / Funk, Adam / Barker, Emma (2016): „Automatic label generation for news comment clusters“, in: Proceedings of the 9th International Natural Language Generation Conference , Edinburgh, UK: 61–69 https://pdfs.semanticscholar.org/4da7/ac02c56d43312425a854d63e71f89dd288ec.pdf [letzter Zugriff 26. Juni 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Brokering, Annalena</hi>
-	<hi xml:space="preserve"> (2019): </hi>
-	<hi rend="italic">Drawing from approaches in regulatory theory for the regulation of new technologies and design theory, how can ethical considerations be effectively incorporated into data science activities?.</hi>
-	Masterthesis, The University of Edinburgh, Edinburgh Law School.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5546">Brokering, Annalena (2019): Drawing from approaches in regulatory theory for the regulation of new technologies and design theory, how can ethical considerations be effectively incorporated into data science activities?. Masterthesis, The University of Edinburgh, Edinburgh Law School.</rs></bibl>
       <bibl>
-	<hi rend="bold">Buchanan, Elizabeth / Zimmer, Michael</hi>
-	<hi xml:space="preserve"> (2016): „Internet Research Ethics“, in: </hi>
-	<hi rend="italic">Stanford Encyclopedia of Philosophy</hi>
-	<hi xml:space="preserve"> https://plato.stanford.edu/entries/ethics-internet-research/ [letzter Zugriff 19. August 2019].</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5547">Buchanan, Elizabeth / Zimmer, Michael (2016): „Internet Research Ethics“, in: Stanford Encyclopedia of Philosophy https://plato.stanford.edu/entries/ethics-internet-research/ [letzter Zugriff 19. August 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Busch, Andreas</hi>
-	(2017): Informationsinflation: Herausforderungen an die politische Willensbildung in der digitalen Gesellschaft, in: Gapski, Harald / Oberle, Monika / Staufer, Walter (eds.): 
-	<hi rend="italic">Medienkompetenz. Herausforderungen für Politik, politische Bildung und Medienbildung,</hi> Schriftenreihe der Bundeszentrale für Politische Bildung.
-	Bonn: Bundeszentrale für Politische Bildung 53-62
-	<ref target="http://www.bpb.de/lernen/digitale-bildung/medienpaedagogik/medienkompetenz-schriftenreihe/257594/informationsinflation">http://www.bpb.de/lernen/digitale-bildung/medienpaedagogik/medienkompetenz-schriftenreihe/257594/informationsinflation</ref>
-	[letzter Zugriff 11. Juni 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5548">Busch, Andreas (2017): Informationsinflation: Herausforderungen an die politische Willensbildung in der digitalen Gesellschaft, in: Gapski, Harald / Oberle, Monika / Staufer, Walter (eds.): Medienkompetenz. Herausforderungen für Politik, politische Bildung und Medienbildung, Schriftenreihe der Bundeszentrale für Politische Bildung. Bonn: Bundeszentrale für Politische Bildung 53-62 http://www.bpb.de/lernen/digitale-bildung/medienpaedagogik/medienkompetenz-schriftenreihe/257594/informationsinflation [letzter Zugriff 11. Juni 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Dashtipour, Kia / Poria, Soujanya / Hussain, Amir / Cambria, Erik / Hawalah, Ahmad Y. A. / Gelbukh, Alexander / Zhou, Qiang</hi>
-	<hi xml:space="preserve"> (2016): „Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques“, in:</hi>
-	<hi rend="italic">Cognitive Computation</hi>
-	(2016) 8: 757-771 https://link.springer.com/article/10.1007/s12559-016-9415-7 [letzter Zugriff 26. Juni 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5549">Dashtipour, Kia / Poria, Soujanya / Hussain, Amir / Cambria, Erik / Hawalah, Ahmad Y. A. / Gelbukh, Alexander / Zhou, Qiang (2016): „Multilingual Sentiment Analysis: State of the Art and Independent Comparison of Techniques“, in: Cognitive Computation (2016) 8: 757-771 https://link.springer.com/article/10.1007/s12559-016-9415-7 [letzter Zugriff 26. Juni 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Golder, Susan P. / Ahmed, Shahd / Norman, Gill / Booth, Andrew</hi>
-	<hi xml:space="preserve"> (2017): „Attitudes Toward the Ethics of Research Using Social Media: A Systematic Review“, in: </hi>
-	<hi rend="italic">Journal of Medical Internet Research</hi> 19 http://eprints.whiterose.ac.uk/117721/ [letzter Zugriff 26. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5550">Golder, Susan P. / Ahmed, Shahd / Norman, Gill / Booth, Andrew (2017): „Attitudes Toward the Ethics of Research Using Social Media: A Systematic Review“, in: Journal of Medical Internet Research 19 http://eprints.whiterose.ac.uk/117721/ [letzter Zugriff 26. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Guhr, Svenja</hi>
-	<hi xml:space="preserve"> (2019): </hi>
-	<hi rend="italic">Computergestützte Analyse von französischen Onlinemedien zur Präsidentschaftswahl 2017</hi>, Masterthesis, Georg-August-Universität Göttingen.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5551">Guhr, Svenja (2019): Computergestützte Analyse von französischen Onlinemedien zur Präsidentschaftswahl 2017, Masterthesis, Georg-August-Universität Göttingen.</rs></bibl>
       <bibl>
-	<hi rend="bold">Holtz-Bacha, Christina</hi>
-	<hi xml:space="preserve"> (2019): „Demoskopie - Medien - Politik. Umfragen im Bundestagswahlkampf 2017“, in: Holtz-Bacha, Christina: </hi>
-	<hi rend="italic">Die (Massen-)Medien im Wahlkampf. Die Bundestagswahl 2017.</hi>
-	Wiesbaden: Springer Fachmedien Wiesbaden GmbH 263-280.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5552">Holtz-Bacha, Christina (2019): „Demoskopie - Medien - Politik. Umfragen im Bundestagswahlkampf 2017“, in: Holtz-Bacha, Christina: Die (Massen-)Medien im Wahlkampf. Die Bundestagswahl 2017. Wiesbaden: Springer Fachmedien Wiesbaden GmbH 263-280.</rs></bibl>
       <bibl>
-	<hi rend="bold">Locatelli, Elisabetta</hi>
-	<hi xml:space="preserve"> (2018): „Ethics of Social Media Research: State of the Debate and Future Challenges“, in: Hunsinger, Jeremy / Klastrup, Lisbeth / Allen, Matthew M. (eds.): </hi>
-	<hi rend="italic">Second International Handbook of Internet Research.</hi>
-	Dordrecht: Springer 1-22.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5553">Locatelli, Elisabetta (2018): „Ethics of Social Media Research: State of the Debate and Future Challenges“, in: Hunsinger, Jeremy / Klastrup, Lisbeth / Allen, Matthew M. (eds.): Second International Handbook of Internet Research. Dordrecht: Springer 1-22.</rs></bibl>
       <bibl>
-	<hi rend="bold">McKee, Heidi / Porter, James E.</hi>
-	<hi xml:space="preserve"> (2008): „The Ethics of Digital Writing Research: A Rhetorical Approach“, </hi>
-	<hi rend="italic">College Composition and Communication</hi>
-	59: 711 http://wrconf08.writing.ucsb.edu/Pdf_Articles/McKee_Article.pdf [letzter Zugriff 26. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5554">McKee, Heidi / Porter, James E. (2008): „The Ethics of Digital Writing Research: A Rhetorical Approach“, College Composition and Communication 59: 711 http://wrconf08.writing.ucsb.edu/Pdf_Articles/McKee_Article.pdf [letzter Zugriff 26. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Mohammad, Saif</hi>
-	<hi xml:space="preserve"> (2016): „A Practical Guide to Sentiment Annotation: Challenges and Solutions“, in: </hi>
-	<hi rend="italic" xml:space="preserve">Proceedings of the NAACL 2016 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA) </hi>
-	174-179 http://www.aclweb.org/anthology/W16-0429 [letzter Zugriff 16. Mai 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__364">Mohammad, Saif (2016): „A Practical Guide to Sentiment Annotation: Challenges and Solutions“, in: Proceedings of the NAACL 2016 Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media (WASSA) 174-179 http://www.aclweb.org/anthology/W16-0429 [letzter Zugriff 16. Mai 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Moreno, Megan A. / Goniu, Natalie / Moreno, Peter S. / Diekema, Douglas</hi>
-	<hi xml:space="preserve"> (2013): „Ethics of Social Media Research: Common Concerns and Practical Considerations“, in:</hi>
-	<hi rend="italic">Cyberpsychology, Behavior, and Social
-	Networking</hi> 16: 708-713 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942703/ [letzter Zugriff 16. Mai 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5555">Moreno, Megan A. / Goniu, Natalie / Moreno, Peter S. / Diekema, Douglas (2013): „Ethics of Social Media Research: Common Concerns and Practical Considerations“, in: Cyberpsychology, Behavior, and Social Networking 16: 708-713 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942703/ [letzter Zugriff 16. Mai 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Perez Vallejos, Elvira / Koene, Ansgar / Carter, Christopher J. / Hunt, Daniel / Woodard, Christopher / Urquhart, Lachlan / Bergin, Aislinn / Statche, Ramona</hi>
-	<hi xml:space="preserve"> (2019): „Accessing Online Data for Youth Mental Health Research: Meeting the Ethical Challenges“, in:</hi>
-	<hi rend="italic">Philosophy &amp; Technology</hi>
-	32: 87-110 https://link.springer.com/article/10.1007/s13347-017-0286-y [letzter Zugriff 26. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5556">Perez Vallejos, Elvira / Koene, Ansgar / Carter, Christopher J. / Hunt, Daniel / Woodard, Christopher / Urquhart, Lachlan / Bergin, Aislinn / Statche, Ramona (2019): „Accessing Online Data for Youth Mental Health Research: Meeting the Ethical Challenges“, in: Philosophy &amp; Technology 32: 87-110 https://link.springer.com/article/10.1007/s13347-017-0286-y [letzter Zugriff 26. September 2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Schoen, Harald</hi>
-	<hi xml:space="preserve"> (2002): „Wirkung von Wahlprognosen auf Wahlen“ in: Berg, Thomas (ed.) (2002): </hi>
-	<hi rend="italic">Moderner Wahlkampf</hi>
-	<hi xml:space="preserve">. </hi>
-	<hi rend="italic">Blick hinter die Kulissen.</hi>
-	<hi xml:space="preserve"> Opladen: Leske und Budrich 171-191.</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5557">Schoen, Harald (2002): „Wirkung von Wahlprognosen auf Wahlen“ in: Berg, Thomas (ed.) (2002): Moderner Wahlkampf . Blick hinter die Kulissen. Opladen: Leske und Budrich 171-191.</rs></bibl>
       <bibl>
-	<hi rend="bold">Williams, Matthew L. / Burnap, Pete / Sloan, Luke</hi>
-	<hi xml:space="preserve"> (2017): „Towards an Ethical Framework for Publishing Twitter Data in Social Research: Taking into Account Users’ Views, Online Context and Algorithmic Estimation“, in:</hi>
-	<hi rend="italic">Sociology</hi>
-	51: 1149-1168 https://journals.sagepub.com/doi/pdf/10.1177/0038038517708140 [letzter Zugriff 26. September 2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__5558">Williams, Matthew L. / Burnap, Pete / Sloan, Luke (2017): „Towards an Ethical Framework for Publishing Twitter Data in Social Research: Taking into Account Users’ Views, Online Context and Algorithmic Estimation“, in: Sociology 51: 1149-1168 https://journals.sagepub.com/doi/pdf/10.1177/0038038517708140 [letzter Zugriff 26. September 2019].</rs></bibl>
     </listBibl>
   </div>
 </back>

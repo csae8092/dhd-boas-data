@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">I like to PROV it! Ein Data Object Provenance Tool für die Digital Humanities</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__peter-muehleder-uni-leipzig-de">
                     <persName>
                         <surname>Mühleder</surname>
@@ -113,17 +114,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3662">D’Ignazio, Catherine / Klein, Lauren F. (201 6 ): “Feminist Data Visualization”, in : W orkshop on Visualization for the Digital Humanities (VIS4D H), Baltimore. IEEE.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__170">D’Ignazio, Catherine / Klein, Lauren F. (201 6 ): “Feminist Data Visualization”, in : W orkshop on Visualization for the Digital Humanities (VIS4D H), Baltimore. IEEE.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3663">Freire, Jualina / Koop, D. / Santos, E. / Silva, C. T. (2008): “Provenance for Computational Tasks: A Survey”, in: Computing in Science &amp; Engineering May/June 2008, 11-21, DOI 10.1109/MCSE.2008.79.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1207">Freire, Jualina / Koop, D. / Santos, E. / Silva, C. T. (2008): “Provenance for Computational Tasks: A Survey”, in: Computing in Science &amp; Engineering May/June 2008, 11-21, DOI 10.1109/MCSE.2008.79.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3664">Lebo, Timothy / Sahoo, Satya / McGuinness, Deborah (2013): PROV-O: The PROV Ontology. W3C Recommendation. https://www.w3.org/TR/prov-o/ [letzter Zugriff 12. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1208">Lebo, Timothy / Sahoo, Satya / McGuinness, Deborah (2013): PROV-O: The PROV Ontology. W3C Recommendation. https://www.w3.org/TR/prov-o/ [letzter Zugriff 12. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3665">Rämisch, Florian / Mühleder, Peter (2018), Provit (Version v0.2.3). Zenodo, DOI http://doi.org/10.5281/zenodo.2268521</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1209">Rämisch, Florian / Mühleder, Peter (2018), Provit (Version v0.2.3). Zenodo, DOI http://doi.org/10.5281/zenodo.2268521</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3666">Oliveira, Wellington / De Oliveira, Daniel / Braganholo, Vanessa (2018): “Provenance Analytics for Workflow-Based Computational Experiments: A Survey”, in: ACM Computing Surveys 51/3, 53:1-53:25, DOI 10.1145/3184900.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1210">Oliveira, Wellington / De Oliveira, Daniel / Braganholo, Vanessa (2018): “Provenance Analytics for Workflow-Based Computational Experiments: A Survey”, in: ACM Computing Surveys 51/3, 53:1-53:25, DOI 10.1145/3184900.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3667">Pasquier, T. / Lau, M. K. / Trisovic, A. / Boose, E. R. / Couturier, B. / Crosas, M. / Seltzer, M. (2017): “ If these data could talk”. in : Scientific Data 4, DOI 10.1038/sdata.2017.114.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1211">Pasquier, T. / Lau, M. K. / Trisovic, A. / Boose, E. R. / Couturier, B. / Crosas, M. / Seltzer, M. (2017): “ If these data could talk”. in : Scientific Data 4, DOI 10.1038/sdata.2017.114.</rs></bibl>
                 </listBibl>
             </div>
         </back>

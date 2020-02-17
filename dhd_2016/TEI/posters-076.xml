@@ -140,37 +140,37 @@
                   <listBibl>
                     <head>Bibliography</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__2528">CERL (2015): CERL Thesaurus http://thesaurus.cerl.org [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
+                      <rs type="bibl" ref="#bibl__2122">CERL (2015): CERL Thesaurus http://thesaurus.cerl.org [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__2529">d3SPARQL (2015): d3sparql.js Utilities for visualizing SPARQL results with the D3 library http://biohackathon.org/d3sparql/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2123">d3SPARQL (2015): d3sparql.js Utilities for visualizing SPARQL results with the D3 library http://biohackathon.org/d3sparql/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                         <bibl>
-                          <rs type="bibl" ref="#bibl__2530">EMLO (2015): Early Modern Letters Online http://emlo.bodleian.ox.ac.uk/ [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
+                          <rs type="bibl" ref="#bibl__2124">EMLO (2015): Early Modern Letters Online http://emlo.bodleian.ox.ac.uk/ [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                             <bibl>
-                              <rs type="bibl" ref="#bibl__2531">GND (2015): Gemeinsame Normdatei http://www.dnb.de/DE/Header/Hilfe/kataloghilfe.html#doc207526bodyText73 [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
+                              <rs type="bibl" ref="#bibl__2125">GND (2015): Gemeinsame Normdatei http://www.dnb.de/DE/Header/Hilfe/kataloghilfe.html#doc207526bodyText73 [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                                 <bibl>
-                                  <rs type="bibl" ref="#bibl__2532">HDAT (2015): Historical Dutch-Asiatic Shipping http://app.thebrownmap.nl/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                  <rs type="bibl" ref="#bibl__2126">HDAT (2015): Historical Dutch-Asiatic Shipping http://app.thebrownmap.nl/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                   <bibl>
-                                    <rs type="bibl" ref="#bibl__2533">Heatmaps (2015): Google Maps Javascript API https://developers.google.com/maps/documentation/javascript/heatmaplayer [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                    <rs type="bibl" ref="#bibl__2127">Heatmaps (2015): Google Maps Javascript API https://developers.google.com/maps/documentation/javascript/heatmaplayer [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                       <bibl>
-                                        <rs type="bibl" ref="#bibl__2534">LDFC (2015): Linked Data Fragments client http://client.linkeddatafragments.org/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                        <rs type="bibl" ref="#bibl__2128">LDFC (2015): Linked Data Fragments client http://client.linkeddatafragments.org/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                           <bibl>
-                                            <rs type="bibl" ref="#bibl__2535">LodLive (2012): LodLive Browsing the Web of Data http://en.lodlive.it/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                            <rs type="bibl" ref="#bibl__2129">LodLive (2012): LodLive Browsing the Web of Data http://en.lodlive.it/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                             <bibl>
-                                              <rs type="bibl" ref="#bibl__2536">NodeBox (2015): Meet NodeBox 3 https://www.nodebox.net/node/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
+                                              <rs type="bibl" ref="#bibl__2130">NodeBox (2015): Meet NodeBox 3 https://www.nodebox.net/node/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
                                                 <bibl>
-                                                  <rs type="bibl" ref="#bibl__2537">PRDL (2013): Scholastica Early Modern Academies &amp; Universities http://www.prdl.org/schools.php [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
+                                                  <rs type="bibl" ref="#bibl__2131">PRDL (2013): Scholastica Early Modern Academies &amp; Universities http://www.prdl.org/schools.php [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                                                   <bibl>
-                                                    <rs type="bibl" ref="#bibl__2538">RelFinder (2015): RelFinder Interactive Relationship Discovery in RDF Data http://www.visualdataweb.org/relfinder.php [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                                    <rs type="bibl" ref="#bibl__2132">RelFinder (2015): RelFinder Interactive Relationship Discovery in RDF Data http://www.visualdataweb.org/relfinder.php [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                                     <bibl>
-                                                      <rs type="bibl" ref="#bibl__2539">Schmutz, Jacob (2009): Scholasticon Ressources en ligne pour l'étude de la scolastique moderne (1500-1800): auteurs, sources, institutions http://scholasticon.ish-lyon.cnrs.fr [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
+                                                      <rs type="bibl" ref="#bibl__2133">Schmutz, Jacob (2009): Scholasticon Ressources en ligne pour l'étude de la scolastique moderne (1500-1800): auteurs, sources, institutions http://scholasticon.ish-lyon.cnrs.fr [letzter Zugriff 14. Oktober 2015 ].</rs></bibl>
                                                       <bibl>
-                                                        <rs type="bibl" ref="#bibl__2540">Sgvizler (2015): Sgvizler http://dev.data2000.no/sgvizler/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
+                                                        <rs type="bibl" ref="#bibl__2134">Sgvizler (2015): Sgvizler http://dev.data2000.no/sgvizler/ [letzter Zugriff 13. Oktober 2015].</rs></bibl>
                                                           <bibl>
-                                                            <rs type="bibl" ref="#bibl__2541">TGN (2015): The Getty Thesaurus of Geographic Names (TGN) http://vocab.getty.edu/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                                            <rs type="bibl" ref="#bibl__2135">TGN (2015): The Getty Thesaurus of Geographic Names (TGN) http://vocab.getty.edu/ [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                                             <bibl>
-                                                              <rs type="bibl" ref="#bibl__2542">Timeline (2015): Leaflet.timeline https://github.com/skeate/Leaflet.timeline [letzter Zugriff 13. Oktober 2015].</rs></bibl>
+                                                              <rs type="bibl" ref="#bibl__2136">Timeline (2015): Leaflet.timeline https://github.com/skeate/Leaflet.timeline [letzter Zugriff 13. Oktober 2015].</rs></bibl>
                                                                 <bibl>
-                                                                  <rs type="bibl" ref="#bibl__2543">xTriples (2015): Xtriples A generic webservice to extract RDF statements from XML resources http://xtriples.spatialhumanities.de/index.html [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
+                                                                  <rs type="bibl" ref="#bibl__2137">xTriples (2015): Xtriples A generic webservice to extract RDF statements from XML resources http://xtriples.spatialhumanities.de/index.html [letzter Zugriff 13. Oktober 2015 ].</rs></bibl>
                                                                 </listBibl>
                                                               </div>
                                                             </back>

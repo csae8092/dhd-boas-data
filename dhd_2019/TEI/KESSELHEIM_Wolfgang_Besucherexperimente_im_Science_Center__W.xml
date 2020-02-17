@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Besucherexperimente im Science Center: Welche Einsichten in die Herstellung von Wissen in Interaktion werden erst durch die Zusammenschau von Audio-, Video- und Eye-Tracking-Daten möglich?</title><title type="conf_year">2019</title><author ref="#person__wolfgang-kesselheim-ds-uzh-ch">
+                <title>Besucherexperimente im Science Center: Welche Einsichten in die Herstellung von Wissen in Interaktion werden erst durch die Zusammenschau von Audio-, Video- und Eye-Tracking-Daten möglich?</title><title type="conf_year">2019</title>
+                <author ref="#person__wolfgang-kesselheim-ds-uzh-ch">
                     <persName>
                         <surname>Kesselheim</surname>
                         <forename>Wolfgang</forename>
@@ -139,37 +140,37 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">Bergmann, Jörg R. / Quasthoff, Uta M. (2010): "Interaktive Verfahren der Wissensgenerierung. Methodische Problemfelder", in: Dausendschön-Gay, Ulrich / Domke, Christine / Ohlhus, Sören (eds.): 
-                        <rs type="bibl" ref="#bibl__3738">Bergmann, Jörg R. / Quasthoff, Uta M. (2010): "Interaktive Verfahren der Wissensgenerierung. Methodische Problemfelder", in: Dausendschön-Gay, Ulrich / Domke, Christine / Ohlhus, Sören (eds.): Wissen in (Inter-)Aktion. Verfahren der Wissensgenerierung in unterschiedlichen Praxisfeldern. Berlin / New York: de Gruyter 21–34.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__974">Bergmann, Jörg R. / Quasthoff, Uta M. (2010): "Interaktive Verfahren der Wissensgenerierung. Methodische Problemfelder", in: Dausendschön-Gay, Ulrich / Domke, Christine / Ohlhus, Sören (eds.): Wissen in (Inter-)Aktion. Verfahren der Wissensgenerierung in unterschiedlichen Praxisfeldern. Berlin / New York: de Gruyter 21–34.</rs></bibl>
                     <bibl style="text-align:left; ">Birkner, Karin / Ehmer, Oliver (eds.) (2013): 
-                        <rs type="bibl" ref="#bibl__3739">Birkner, Karin / Ehmer, Oliver (eds.) (2013): Veranschaulichungsverfahren im Gespräch. Mannheim: Verlag für Gesprächsforschung. http://www.verlag-gespraechsforschung.de/2013/birkner.html [letzter Zugriff am 10.03.2014].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__975">Birkner, Karin / Ehmer, Oliver (eds.) (2013): Veranschaulichungsverfahren im Gespräch. Mannheim: Verlag für Gesprächsforschung. http://www.verlag-gespraechsforschung.de/2013/birkner.html [letzter Zugriff am 10.03.2014].</rs></bibl>
                     <bibl style="text-align:left; ">Clifton Jr., Charles / Ferreira, Fernanda / Henderson, John M. / Inhoff, Albrecht W. / Liversedge, Simon P. / Reichle, Erik D. / Schotter, Elizabeth R. (2016): "Eye movements in reading and information processing: Keith Rayner’s 40 year legacy", in: 
-                        <rs type="bibl" ref="#bibl__3740">Clifton Jr., Charles / Ferreira, Fernanda / Henderson, John M. / Inhoff, Albrecht W. / Liversedge, Simon P. / Reichle, Erik D. / Schotter, Elizabeth R. (2016): "Eye movements in reading and information processing: Keith Rayner’s 40 year legacy", in: Journal of Memory and Language 86: 1–19. DOI: 10.1016/j.jml.2015.07.004.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__976">Clifton Jr., Charles / Ferreira, Fernanda / Henderson, John M. / Inhoff, Albrecht W. / Liversedge, Simon P. / Reichle, Erik D. / Schotter, Elizabeth R. (2016): "Eye movements in reading and information processing: Keith Rayner’s 40 year legacy", in: Journal of Memory and Language 86: 1–19. DOI: 10.1016/j.jml.2015.07.004.</rs></bibl>
                     <bibl style="text-align:left; ">Dausendschön-Gay, Ulrich / Domke, Christine / Ohlhus, Sören (eds.) (2010): 
-                        <rs type="bibl" ref="#bibl__3741">Dausendschön-Gay, Ulrich / Domke, Christine / Ohlhus, Sören (eds.) (2010): Wissen in (Inter-)Aktion. Verfahren der Wissensgenerierung in unterschiedlichen Praxisfeldern. Berlin / New York: de Gruyter.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__977">Dausendschön-Gay, Ulrich / Domke, Christine / Ohlhus, Sören (eds.) (2010): Wissen in (Inter-)Aktion. Verfahren der Wissensgenerierung in unterschiedlichen Praxisfeldern. Berlin / New York: de Gruyter.</rs></bibl>
                     <bibl style="text-align:left; ">Eisenberg, M. (2001): "Discovery Learning, Cognitive Psychology of", in: Smelser, Neil Joseph (ed.): 
-                        <rs type="bibl" ref="#bibl__3742">Eisenberg, M. (2001): "Discovery Learning, Cognitive Psychology of", in: Smelser, Neil Joseph (ed.): International encyclopedia of the social and behavioral sciences. Amsterdam: Elsevier 3736–3739.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__978">Eisenberg, M. (2001): "Discovery Learning, Cognitive Psychology of", in: Smelser, Neil Joseph (ed.): International encyclopedia of the social and behavioral sciences. Amsterdam: Elsevier 3736–3739.</rs></bibl>
                     <bibl style="text-align:left; ">Gülich, Elisabeth (2001): "Zum Zusammenhang von alltagsweltlichen und wissenschaftlichen 'Methoden'", in: Brinker, Klaus / Antos, Gerd / Heinemann, Wolfgang / Sager, Sven F. (eds.): 
-                        <rs type="bibl" ref="#bibl__3743">Gülich, Elisabeth (2001): "Zum Zusammenhang von alltagsweltlichen und wissenschaftlichen 'Methoden'", in: Brinker, Klaus / Antos, Gerd / Heinemann, Wolfgang / Sager, Sven F. (eds.): Text- und Gesprächslinguistik. Ein internationales Handbuch zeitgenössischer Forschung. Berlin: de Gruyter 1086–1093.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__979">Gülich, Elisabeth (2001): "Zum Zusammenhang von alltagsweltlichen und wissenschaftlichen 'Methoden'", in: Brinker, Klaus / Antos, Gerd / Heinemann, Wolfgang / Sager, Sven F. (eds.): Text- und Gesprächslinguistik. Ein internationales Handbuch zeitgenössischer Forschung. Berlin: de Gruyter 1086–1093.</rs></bibl>
                     <bibl style="text-align:left; ">Gülich, Elisabeth / Mondada, Lorenza (2008): 
-                        <rs type="bibl" ref="#bibl__3744">Gülich, Elisabeth / Mondada, Lorenza (2008): Konversationsanalyse. Eine Einführung am Beispiel des Französischen. Unter Mitarbeit von Ingrid Furchner. Tübingen: Niemeyer.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__980">Gülich, Elisabeth / Mondada, Lorenza (2008): Konversationsanalyse. Eine Einführung am Beispiel des Französischen. Unter Mitarbeit von Ingrid Furchner. Tübingen: Niemeyer.</rs></bibl>
                     <bibl style="text-align:left; ">Hausendorf, Heiko / Schmitt, Reinhold / Kesselheim, Wolfgang (eds.) (2016): 
-                        <rs type="bibl" ref="#bibl__3745">Hausendorf, Heiko / Schmitt, Reinhold / Kesselheim, Wolfgang (eds.) (2016): Interaktionsarchitektur, Sozialtopographie und Interaktionsraum. Tübingen: Narr Francke Attempto.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__981">Hausendorf, Heiko / Schmitt, Reinhold / Kesselheim, Wolfgang (eds.) (2016): Interaktionsarchitektur, Sozialtopographie und Interaktionsraum. Tübingen: Narr Francke Attempto.</rs></bibl>
                     <bibl style="text-align:left; ">Hindmarsh, Jon / Pilnick, Alison (2007): "Knowing bodies at work. Embodiment and ephemeral teamwork in anaesthesia", in: 
-                        <rs type="bibl" ref="#bibl__3746">Hindmarsh, Jon / Pilnick, Alison (2007): "Knowing bodies at work. Embodiment and ephemeral teamwork in anaesthesia", in: Organization Studies 28 (9): 1395–1416.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__982">Hindmarsh, Jon / Pilnick, Alison (2007): "Knowing bodies at work. Embodiment and ephemeral teamwork in anaesthesia", in: Organization Studies 28 (9): 1395–1416.</rs></bibl>
                     <bibl style="text-align:left; ">Kesselheim, Wolfgang (2012): "Gemeinsam im Museum: Materielle Umwelt und interaktive Ordnung", in: Hausendorf, Heiko / Mondada, Lorenza / Schmitt, Reinhold (eds.): 
-                        <rs type="bibl" ref="#bibl__3747">Kesselheim, Wolfgang (2012): "Gemeinsam im Museum: Materielle Umwelt und interaktive Ordnung", in: Hausendorf, Heiko / Mondada, Lorenza / Schmitt, Reinhold (eds.): Raum als interaktive Ressource. Tübingen: Narr: 187–231.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__983">Kesselheim, Wolfgang (2012): "Gemeinsam im Museum: Materielle Umwelt und interaktive Ordnung", in: Hausendorf, Heiko / Mondada, Lorenza / Schmitt, Reinhold (eds.): Raum als interaktive Ressource. Tübingen: Narr: 187–231.</rs></bibl>
                     <bibl style="text-align:left; ">Kesselheim, Wolfgang (2017): "Die Museumsausstellung - ein Text?", in: 
-                        <rs type="bibl" ref="#bibl__3748">Kesselheim, Wolfgang (2017): "Die Museumsausstellung - ein Text?", in: Germanistik in der Schweiz – Zeitschrift der Schweizerischen Akademischen Gesellschaft für Germanistik 14: 1–29.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__984">Kesselheim, Wolfgang (2017): "Die Museumsausstellung - ein Text?", in: Germanistik in der Schweiz – Zeitschrift der Schweizerischen Akademischen Gesellschaft für Germanistik 14: 1–29.</rs></bibl>
                     <bibl style="text-align:left; ">Nevile, Maurice / Haddington, Pentti / Heinemann, Trine / Rauniomaa, Mirka (eds.) (2014): 
-                        <rs type="bibl" ref="#bibl__286">Nevile, Maurice / Haddington, Pentti / Heinemann, Trine / Rauniomaa, Mirka (eds.) (2014): Interacting with objects. Language, materiality, and social activity. Amsterdam: Benjamins.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__118">Nevile, Maurice / Haddington, Pentti / Heinemann, Trine / Rauniomaa, Mirka (eds.) (2014): Interacting with objects. Language, materiality, and social activity. Amsterdam: Benjamins.</rs></bibl>
                     <bibl style="text-align:left; ">Selting, Margret / Auer, Peter / Barth-Weingarten, Dagmar / Bergmann, Jörg R. (2009): "Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)", in: 
-                        <rs type="bibl" ref="#bibl__3749">Selting, Margret / Auer, Peter / Barth-Weingarten, Dagmar / Bergmann, Jörg R. (2009): "Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)", in: Gesprächsforschung – Online-Zeitschrift zur verbalen Interaktion 10: 353–402. http://www.gespraechsforschung-ozs.de/heft2009/px-gat2.pdf [letzter Zugriff am 28.06.2013].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__985">Selting, Margret / Auer, Peter / Barth-Weingarten, Dagmar / Bergmann, Jörg R. (2009): "Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)", in: Gesprächsforschung – Online-Zeitschrift zur verbalen Interaktion 10: 353–402. http://www.gespraechsforschung-ozs.de/heft2009/px-gat2.pdf [letzter Zugriff am 28.06.2013].</rs></bibl>
                     <bibl style="text-align:left; ">Sidnell, Jack (2010): 
-                        <rs type="bibl" ref="#bibl__3750">Sidnell, Jack (2010): Conversation analysis. An introduction. Oxford: Wiley-Blackwell.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__986">Sidnell, Jack (2010): Conversation analysis. An introduction. Oxford: Wiley-Blackwell.</rs></bibl>
                     <bibl style="text-align:left; ">Stivers, Tanya / Mondada, Lorenza / Steensig, Jakob (eds.) (2011): 
-                        <rs type="bibl" ref="#bibl__3751">Stivers, Tanya / Mondada, Lorenza / Steensig, Jakob (eds.) (2011): The morality of knowledge in conversation. Cambridge: Cambridge University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__987">Stivers, Tanya / Mondada, Lorenza / Steensig, Jakob (eds.) (2011): The morality of knowledge in conversation. Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl style="text-align:left; ">Wichter, Sigurd / Antos, Gerd (eds.) (1999): 
-                        <rs type="bibl" ref="#bibl__3752">Wichter, Sigurd / Antos, Gerd (eds.) (1999): Wissenstransfer zwischen Experten und Laien. Umriss einer Transferwissenschaft. Frankfurt am Main: Lang.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__988">Wichter, Sigurd / Antos, Gerd (eds.) (1999): Wissenstransfer zwischen Experten und Laien. Umriss einer Transferwissenschaft. Frankfurt am Main: Lang.</rs></bibl>
                 </listBibl>
             </div>
         </back>

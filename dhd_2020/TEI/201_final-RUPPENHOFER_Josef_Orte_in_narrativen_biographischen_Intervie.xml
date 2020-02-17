@@ -115,30 +115,17 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Akbik, Alan / Blythe, Duncan / Vollgraf, Roland</hi> (2018):
-  "Contextual string embeddings for sequence labeling."
-  <hi rend="italic">Proceedings of the 27th International Conference on Computational Linguistics</hi>.
-</bibl>
+  <rs type="bibl" ref="#bibl__425">Akbik, Alan / Blythe, Duncan / Vollgraf, Roland (2018): "Contextual string embeddings for sequence labeling." Proceedings of the 27th International Conference on Computational Linguistics.</rs></bibl>
 <bibl>
-<hi rend="bold">Brambilla, Marina / Flinz, Carolina</hi> (2019): Orte und entgegengesetzte Emotionen (Liebe und Hass) im Korpus ISW. In: Studi Germanici. Im Druck.
-</bibl>
+<rs type="bibl" ref="#bibl__5300">Brambilla, Marina / Flinz, Carolina (2019): Orte und entgegengesetzte Emotionen (Liebe und Hass) im Korpus ISW. In: Studi Germanici. Im Druck.</rs></bibl>
 <bibl>
-  <hi rend="bold">Croft, William, / Cruse, D. Alan</hi> (2004): 
-  <hi rend="italic">Cognitive linguistics</hi>. Cambridge University Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__5301">Croft, William, / Cruse, D. Alan (2004): Cognitive linguistics. Cambridge University Press.</rs></bibl>
 <bibl>
-<hi rend="bold">Flinz, Carolina</hi> (2019): “Multiword units and N-Grams naming FEAR in the Israel-Corpus”. Corpas Pastor, G. / Mitkov, R. Computational and Corpus-Based Phraseology. Springer Verlag. Lecture Notes in Computer Science. 86—98.
-</bibl>
+<rs type="bibl" ref="#bibl__5302">Flinz, Carolina (2019): “Multiword units and N-Grams naming FEAR in the Israel-Corpus”. Corpas Pastor, G. / Mitkov, R. Computational and Corpus-Based Phraseology. Springer Verlag. Lecture Notes in Computer Science. 86—98.</rs></bibl>
 <bibl>
-  <hi rend="bold">Hamp, Birgit / Feldweg, Helmut </hi>(1997):
-  "GermaNet - a Lexical-Semantic Net for German." Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications. Madrid.
-</bibl>
+  <rs type="bibl" ref="#bibl__178">Hamp, Birgit / Feldweg, Helmut (1997): "GermaNet - a Lexical-Semantic Net for German." Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications. Madrid.</rs></bibl>
 <bibl>
-<hi rend="bold">Vrandečić, </hi>
-<hi rend="bold">Denny</hi>
-<hi rend="bold"> and Markus Krötzsch </hi> (2014). "Wikidata: a free collaborative knowledgebase". 
-<hi rend="italic">Commun. ACM</hi> 57, 10 (September 2014). 78-85.
-</bibl>
+<rs type="bibl" ref="#bibl__343">Vrandečić, Denny and Markus Krötzsch (2014). "Wikidata: a free collaborative knowledgebase". Commun. ACM 57, 10 (September 2014). 78-85.</rs></bibl>
 </listBibl>
 </div>
 </back>

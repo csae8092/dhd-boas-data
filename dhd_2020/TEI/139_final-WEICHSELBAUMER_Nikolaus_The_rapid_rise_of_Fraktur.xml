@@ -174,40 +174,23 @@ vernacula in Latinam &amp; Graecam pridem translates</hi>
 <listBibl>
 <head>Bibliography</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Hessel, Alfred</hi> (1937): “Die Schrift der Reichskanzlei seit dem Interregnum und die Entstehung der Fraktur”, in: 
-                        <hi rend="italic">Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen</hi>. Philologisch-Historische Klasse. Fachgruppe 2: Nachrichten aus der Mittleren und Neueren Geschichte N. F. 2: 43-59.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5351">Hessel, Alfred (1937): “Die Schrift der Reichskanzlei seit dem Interregnum und die Entstehung der Fraktur”, in: Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen. Philologisch-Historische Klasse. Fachgruppe 2: Nachrichten aus der Mittleren und Neueren Geschichte N. F. 2: 43-59.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Huang, Gao / Liu, Zhuang / van der Maaten, Laurens / Weinberger, Kilian Q.</hi> (2017): „Densely Connected Convolutional Networks“, in: 
-                        <hi rend="italic">2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</hi> 2261-2269.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5352">Huang, Gao / Liu, Zhuang / van der Maaten, Laurens / Weinberger, Kilian Q. (2017): „Densely Connected Convolutional Networks“, in: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2261-2269.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kapr, Albert</hi> (1993): 
-                        <hi rend="italic">Fraktur</hi>. Form und Geschichte der gebrochenen Schriften. Mainz: Schmidt.
-                    </bibl>
+<rs type="bibl" ref="#bibl__432">Kapr, Albert (1993): Fraktur. Form und Geschichte der gebrochenen Schriften. Mainz: Schmidt.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kautzsch, Rudolf</hi> (1922): 
-                        <hi rend="italic">Die Entstehung der Frakturschrift</hi> (= Jahresbericht der Gutenberg-Gesellschaft 20, Beilage). Mainz: Gutenberg-Gesellschaft.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5353">Kautzsch, Rudolf (1922): Die Entstehung der Frakturschrift (= Jahresbericht der Gutenberg-Gesellschaft 20, Beilage). Mainz: Gutenberg-Gesellschaft.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kapr, Albert</hi> (1993): Fraktur. Form und Geschichte der Gebrochenen Schriften. Mainz: Hermann Schmidt.
-                    </bibl>
+<rs type="bibl" ref="#bibl__432">Kapr, Albert (1993): Fraktur. Form und Geschichte der Gebrochenen Schriften. Mainz: Hermann Schmidt.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Killius, Christina</hi> (1999): 
-                        <hi rend="italic">Die Antiqua-Fraktur-Debatte um 1800 und ihre historische Herleitung</hi> (= Mainzer Studien zur Buchwissenschaft 7). Wiesbaden: Harrassowitz.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5354">Killius, Christina (1999): Die Antiqua-Fraktur-Debatte um 1800 und ihre historische Herleitung (= Mainzer Studien zur Buchwissenschaft 7). Wiesbaden: Harrassowitz.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Lühmann, Frithjof</hi> (1981): 
-                        <hi rend="italic">Buchgestaltung in Deutschland 1770 - 1800</hi>. PhD, Ludwig-Maximilians-Universität München.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5355">Lühmann, Frithjof (1981): Buchgestaltung in Deutschland 1770 - 1800. PhD, Ludwig-Maximilians-Universität München.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Seuret, Mathias / Limbach, Saskia / Weichselbaumer, Nikolaus / Maier, Andreas / Christlein, Vincent </hi>(2019): “Dataset of Pages from Early Printed Books with Multiple Font Groups”, in: 
-                        <hi rend="italic">Historical Document Imaging and Processing (HIP) 2019, 5th International Workshop 21-22 September 2019, Sydney, Australia</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5356">Seuret, Mathias / Limbach, Saskia / Weichselbaumer, Nikolaus / Maier, Andreas / Christlein, Vincent (2019): “Dataset of Pages from Early Printed Books with Multiple Font Groups”, in: Historical Document Imaging and Processing (HIP) 2019, 5th International Workshop 21-22 September 2019, Sydney, Australia.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Weichselbaumer, Nikolaus / Seuret, Mathias / Limbach, Saskia / Christlein, Vincent / Maier, Andreas</hi> (2019): “Automatic Font Group Recognition in Early Printed Books”, in: 
-                        <hi rend="italic">Digital Humanities im deutschsprachigen Raum (DHd) 2019. 6th International Conference 25-29 March 2019, Universitäten zu Mainz und Frankfurt</hi> 84-87.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5357">Weichselbaumer, Nikolaus / Seuret, Mathias / Limbach, Saskia / Christlein, Vincent / Maier, Andreas (2019): “Automatic Font Group Recognition in Early Printed Books”, in: Digital Humanities im deutschsprachigen Raum (DHd) 2019. 6th International Conference 25-29 March 2019, Universitäten zu Mainz und Frankfurt 84-87.</rs></bibl>
 </listBibl>
 </div>
 </back>

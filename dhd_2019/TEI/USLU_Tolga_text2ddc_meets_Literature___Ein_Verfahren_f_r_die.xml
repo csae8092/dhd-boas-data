@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>text2ddc meets Literature - Ein Verfahren für die Analyse und Visualisierung thematischer Makrostrukturen</title><title type="conf_year">2019</title><author ref="#person__mehler-em-uni-frankfurt-de">
+                <title>text2ddc meets Literature - Ein Verfahren für die Analyse und Visualisierung thematischer Makrostrukturen</title><title type="conf_year">2019</title>
+                <author ref="#person__mehler-em-uni-frankfurt-de">
                     <persName>
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
@@ -115,11 +116,11 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3887">T. Uslu, A. Mehler, A. Niekler, and W. Hemati (2018): “Towards a DDC-based Topic Network Model of Wikipedia”, in Proceedings of 2nd International Workshop on Modeling, Analysis, and Management of Social Networks and their Applications (SOCNET 2018), February 28, 2018 , 2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1079">T. Uslu, A. Mehler, A. Niekler, and W. Hemati (2018): “Towards a DDC-based Topic Network Model of Wikipedia”, in Proceedings of 2nd International Workshop on Modeling, Analysis, and Management of Social Networks and their Applications (SOCNET 2018), February 28, 2018 , 2018.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3888">T. Uslu and A. Mehler (2018): “PolyViz: a Visualization System for a Special Kind of Multipartite Graphs”, in Proceedings of the IEEE VIS 2018 .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1080">T. Uslu and A. Mehler (2018): “PolyViz: a Visualization System for a Special Kind of Multipartite Graphs”, in Proceedings of the IEEE VIS 2018 .</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3889">D. Baumartz, T. Uslu, and A. Mehler (2018): “LTV: Labeled Topic Vector”, in Proceedings of COLING 2018, the 27th International Conference on Computational Linguistics: System Demonstrations, August 20-26 , Santa Fe, New Mexico, USA.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1081">D. Baumartz, T. Uslu, and A. Mehler (2018): “LTV: Labeled Topic Vector”, in Proceedings of COLING 2018, the 27th International Conference on Computational Linguistics: System Demonstrations, August 20-26 , Santa Fe, New Mexico, USA.</rs></bibl>
                 </listBibl>
             </div>
         </back>

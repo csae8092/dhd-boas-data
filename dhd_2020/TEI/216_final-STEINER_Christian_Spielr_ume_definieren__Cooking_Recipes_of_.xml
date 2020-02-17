@@ -138,103 +138,45 @@
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-      <hi rend="bold">Adamson, M. W. (Ed.) </hi> (1995): Food in the
-      Middle Ages. A Book of Essays. New York, London:
-      Garland. Adamson, M. W. (Ed.). (2002). Regional Cuisines of
-      Medieval Europe: A Book of Essays. New York, London: Routledge.
-      </bibl>
+      <rs type="bibl" ref="#bibl__4879">Adamson, M. W. (Ed.) (1995): Food in the Middle Ages. A Book of Essays. New York, London: Garland. Adamson, M. W. (Ed.). (2002). Regional Cuisines of Medieval Europe: A Book of Essays. New York, London: Routledge.</rs></bibl>
       <bibl>
-	<hi rend="bold">Amoia, M. / Martínez, J.M.M. </hi> (2019): SaCoCo Diachronic Corpus [WWW Document]. URL 
-	<ref target="http://fedora.clarin-d.uni-saarland.de/sacoco/">http://fedora.clarin-d.uni-saarland.de/sacoco/</ref> (accessed 1.7.20).
-      </bibl>
+	<rs type="bibl" ref="#bibl__417">Amoia, M. / Martínez, J.M.M. (2019): SaCoCo Diachronic Corpus [WWW Document]. URL http://fedora.clarin-d.uni-saarland.de/sacoco/ (accessed 1.7.20).</rs></bibl>
       <bibl>
-      <hi rend="bold">Böhm, A.  /  Klug, H.</hi>: Quellenorientierte
-      Aufbereitung historischer Texte im Rahmen digitaler Editionen:
-      Das Problem der Transkription in mediävistischen
-      Editionsprojekten. In: [Titel steht noch nicht fest] Hrsg. von
-      Ingrid Bennewitz und Martin Fischer (= Bamberger
-      interdisziplinäre Mittelalterstudien.) [in Vorbereitung]
-      </bibl>
+      <rs type="bibl" ref="#bibl__418">Böhm, A. / Klug, H.: Quellenorientierte Aufbereitung historischer Texte im Rahmen digitaler Editionen: Das Problem der Transkription in mediävistischen Editionsprojekten. In: [Titel steht noch nicht fest] Hrsg. von Ingrid Bennewitz und Martin Fischer (= Bamberger interdisziplinäre Mittelalterstudien.) [in Vorbereitung]</rs></bibl>
       <bibl>
-      <hi rend="bold">Carlin, M. /  Rosenthal, J. T. (Eds.)</hi>
-      (1998): Food and Eating in Medieval Europe. London: Hambledon
-      Press.
-      </bibl>
+      <rs type="bibl" ref="#bibl__419">Carlin, M. / Rosenthal, J. T. (Eds.) (1998): Food and Eating in Medieval Europe. London: Hambledon Press.</rs></bibl>
       <bibl>
-	<hi rend="bold">Chow, A. E. / Ninger, M. G. </hi> (o. J.): 
-	<hi rend="italic">Multimodal Event Recognition with an Ontology For Cooking Recipes</hi>. 12.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4880">Chow, A. E. / Ninger, M. G. (o. J.): Multimodal Event Recognition with an Ontology For Cooking Recipes. 12.</rs></bibl>
       <bibl>
-	<hi rend="bold">Dooley, D. M. / Griffiths, E. J. / Gosal, G. S. / Buttigieg, P. L. / Hoehndorf, R. / Lange, M. C.,  / …  / Hsiao,
-	W. W. L. </hi> (2018): FoodOn: A harmonized food ontology to increase global food traceability, quality control and data integration. 
-	<hi rend="italic">Npj Science of Food</hi>, <hi rend="italic">2</hi>(1), 23. 
-	<ref target="https://doi.org/10.1038/s41538-018-0032-6">https://doi.org/10.1038/s41538-018-0032-6</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__4881">Dooley, D. M. / Griffiths, E. J. / Gosal, G. S. / Buttigieg, P. L. / Hoehndorf, R. / Lange, M. C., / … / Hsiao, W. W. L. (2018): FoodOn: A harmonized food ontology to increase global food traceability, quality control and data integration. Npj Science of Food, 2(1), 23. https://doi.org/10.1038/s41538-018-0032-6</rs></bibl>
       <bibl>
-      <hi rend="bold">Flandrin, J.-L.</hi> (1984): «Internationalisme,
-      nationalisme et régionalisme dans la cuisine des XIVe et XVe
-      siècles: le témoignage des livres de cuisine». In Manger et
-      boire au Moyen âge. Actes du Colloque de Nice (15-17 octobre
-      1982). (pt. 2, p. 75-91). Paris.
-      </bibl>
+      <rs type="bibl" ref="#bibl__4882">Flandrin, J.-L. (1984): «Internationalisme, nationalisme et régionalisme dans la cuisine des XIVe et XVe siècles: le témoignage des livres de cuisine». In Manger et boire au Moyen âge. Actes du Colloque de Nice (15-17 octobre 1982). (pt. 2, p. 75-91). Paris.</rs></bibl>
       <bibl>
-      <hi rend="bold">Flandrin, J.-L.  /  Hyman, P.</hi> (1988):
-      “Regional tastes and cuisines: Problems, documents, and
-      discourses on food in Southern France in the 16th and 17th
-      centuries”. Food and Foodways 1-3, p. 221-251.
-      </bibl>
+      <rs type="bibl" ref="#bibl__420">Flandrin, J.-L. / Hyman, P. (1988): “Regional tastes and cuisines: Problems, documents, and discourses on food in Southern France in the 16th and 17th centuries”. Food and Foodways 1-3, p. 221-251.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gloning, T., </hi> (2000): Monumenta Culinaria et Diaetetica Historica. Corpus of culinary &amp; dietetic texts of Europe from the Middle Ages to 1800. Corpus älterer deutscher Kochbücher und Ernährungslehren [WWW Document]. URL 
-	<ref target="http://www.staff.uni-giessen.de/gloning/kobu.htm">http://www.staff.uni-giessen.de/gloning/kobu.htm</ref> (accessed 1.7.20).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4883">Gloning, T., (2000): Monumenta Culinaria et Diaetetica Historica. Corpus of culinary &amp; dietetic texts of Europe from the Middle Ages to 1800. Corpus älterer deutscher Kochbücher und Ernährungslehren [WWW Document]. URL http://www.staff.uni-giessen.de/gloning/kobu.htm (accessed 1.7.20).</rs></bibl>
       <bibl>
-	<hi rend="bold">Hammad, R. /  Hassouna, M. </hi> (2011): 
-	<hi rend="italic">Multi-Language Semantic Search Engine</hi>. 6.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4884">Hammad, R. / Hassouna, M. (2011): Multi-Language Semantic Search Engine. 6.</rs></bibl>
       <bibl>
-	<hi rend="bold">Hieatt, C. </hi> (1995): Sorting through the
-	Titles of Medieval Dishes: What Is, or Is Not, a “Blanc
-	manger”. In M. W. Adamson (Ed.), Food in the Middle Ages. A
-	Book of Essays. (pp. 25-43). New York, London: Garland.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4885">Hieatt, C. (1995): Sorting through the Titles of Medieval Dishes: What Is, or Is Not, a “Blanc manger”. In M. W. Adamson (Ed.), Food in the Middle Ages. A Book of Essays. (pp. 25-43). New York, London: Garland.</rs></bibl>
       <bibl>
-	<hi rend="bold">Hyman, P.  /  M. </hi> (2005): «Les associations de saveurs dans les livres de cuisine français du XVIe siècle». In 
-	<hi rend="italic">Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles). Actes du colloque international à la mémoire de Jean-Louis Flandrin</hi> (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 135-150). Saint-Denis: Presses Universitaires de Vincennes.
-      </bibl>
+	<rs type="bibl" ref="#bibl__421">Hyman, P. / M. (2005): «Les associations de saveurs dans les livres de cuisine français du XVIe siècle». In Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles). Actes du colloque international à la mémoire de Jean-Louis Flandrin (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 135-150). Saint-Denis: Presses Universitaires de Vincennes.</rs></bibl>
       <bibl>
-      <hi rend="bold">Karg, S. (Ed.)</hi> (2007): Medieval Food
-      Traditions in Northern Europe. Copenhagen: National Museum of
-      Denmark.
-      </bibl>
+      <rs type="bibl" ref="#bibl__422">Karg, S. (Ed.) (2007): Medieval Food Traditions in Northern Europe. Copenhagen: National Museum of Denmark.</rs></bibl>
       <bibl>
-      <hi rend="bold">Klug, H. W. /  Kranich, K. </hi> (2015): “Das Edieren von handschriftlichen Kochrezepttexten am Weg ins digitale Zeitalter. Zur Neuedition des Tegernseer Wirtschaftsbuches.” In T. Bein (Ed.), Vom Nutzen der Editionen. Zur Bedeutung moderner Editorik für die Erforschung von Literatur- und Kulturgeschichte. (pp. 121-137). Berlin, Boston: De Gruyter.</bibl>
+      <rs type="bibl" ref="#bibl__423">Klug, H. W. / Kranich, K. (2015): “Das Edieren von handschriftlichen Kochrezepttexten am Weg ins digitale Zeitalter. Zur Neuedition des Tegernseer Wirtschaftsbuches.” In T. Bein (Ed.), Vom Nutzen der Editionen. Zur Bedeutung moderner Editorik für die Erforschung von Literatur- und Kulturgeschichte. (pp. 121-137). Berlin, Boston: De Gruyter.</rs></bibl>
       <bibl>
-	<hi rend="bold">Lamé, M. /  Pittet, P.</hi> (2018):
-      <hi rend="italic">Heterotoki: Non-st / ructured and heterogeneous terminology alignment for Digital Humanities data producers</hi>. 12.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4886">Lamé, M. / Pittet, P. (2018): Heterotoki: Non-st / ructured and heterogeneous terminology alignment for Digital Humanities data producers. 12.</rs></bibl>
       <bibl>
-      <hi rend="bold">Laurioux, B. </hi> (2005): «Les voyageurs et la gastronomie en Europe à la fin du Moyen âge ». In Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles), Actes du colloque international à la mémoire de Jean-Louis Flandrin (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 99-117). Saint-Denis, Presses Universitaires de Vincennes.</bibl>
+      <rs type="bibl" ref="#bibl__4887">Laurioux, B. (2005): «Les voyageurs et la gastronomie en Europe à la fin du Moyen âge ». In Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles), Actes du colloque international à la mémoire de Jean-Louis Flandrin (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 99-117). Saint-Denis, Presses Universitaires de Vincennes.</rs></bibl>
       <bibl>
-	<hi rend="bold">Ribeiro, R. / Batista, F. / Pardal, J. P.  / Mamede, N. J. /  Pinto, H. S. </hi> (2006): Cooking an Ontology. In J. Euzenat &amp; J. Domingue (Hrsg.), 
-	<hi rend="italic">Artificial Intelligence: Methodology, Systems, and Applications</hi> (S. 213–221). Springer Berlin Heidelberg.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4888">Ribeiro, R. / Batista, F. / Pardal, J. P. / Mamede, N. J. / Pinto, H. S. (2006): Cooking an Ontology. In J. Euzenat &amp; J. Domingue (Hrsg.), Artificial Intelligence: Methodology, Systems, and Applications (S. 213–221). Springer Berlin Heidelberg.</rs></bibl>
       <bibl>
-	<hi rend="bold">Sam, M. / Krisnadhi, A. A. / Wang, C. / Gallagher, J. /  Hitzler, P.</hi> (2014): 
-	<hi rend="italic">An Ontology Design Pattern for Cooking Recipes – Classroom Created</hi>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4889">Sam, M. / Krisnadhi, A. A. / Wang, C. / Gallagher, J. / Hitzler, P. (2014): An Ontology Design Pattern for Cooking Recipes – Classroom Created.</rs></bibl>
       <bibl>
-	<hi rend="bold">Vadivu, G. / Hopper, S. W. </hi> (2010): Semantic Linking and Querying of Natural Food, Chemicals and Diseases. 
-	<hi rend="italic">International Journal of Computer Applications</hi>, 
-	<hi rend="italic">11</hi>(4), 35–38. 
-	<ref target="https://doi.org/10.5120/1567-2093">https://doi.org/10.5120/1567-2093</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__4890">Vadivu, G. / Hopper, S. W. (2010): Semantic Linking and Querying of Natural Food, Chemicals and Diseases. International Journal of Computer Applications, 11(4), 35–38. https://doi.org/10.5120/1567-2093</rs></bibl>
       <bibl>
-	<hi rend="bold">van Winter, J. M.</hi> (1989):
-	“Kochen und Essen im Mittelalter.” In B. Herrmann
-	(Ed.). Mensch und Umwelt im
-	Mittelalter. (pp. 88-100). Frankfurt am Main: Fischer
-	Taschenbuch Verl.
-      </bibl>
+	<rs type="bibl" ref="#bibl__424">van Winter, J. M. (1989): “Kochen und Essen im Mittelalter.” In B. Herrmann (Ed.). Mensch und Umwelt im Mittelalter. (pp. 88-100). Frankfurt am Main: Fischer Taschenbuch Verl.</rs></bibl>
     </listBibl>
   </div>
 </back>

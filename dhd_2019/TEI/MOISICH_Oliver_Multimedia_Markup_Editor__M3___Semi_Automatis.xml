@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title><title type="conf_year">2019</title><author ref="#person__moisich-gmail-com">
+                <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title><title type="conf_year">2019</title>
+                <author ref="#person__moisich-gmail-com">
                     <persName>
                         <surname>Moisich</surname>
                         <forename>Oliver</forename>
@@ -100,11 +101,11 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl rend="Bibliography">
-                        <rs type="bibl" ref="#bibl__3279">Dunst, A., Hartel, R., &amp; Laubrock, J. (2017). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 2nd International Workshop on coMics Analysis, Processing, and Understanding, 14th IAPR International Conference on Document Analysis and Recognition. Kyoto, Japan.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__772">Dunst, A., Hartel, R., &amp; Laubrock, J. (2017). The Graphic Narrative Corpus (GNC): Design, Annotation, and Analysis for the Digital Humanities. 2nd International Workshop on coMics Analysis, Processing, and Understanding, 14th IAPR International Conference on Document Analysis and Recognition. Kyoto, Japan.</rs></bibl>
                     <bibl rend="Bibliography">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. 
-                        <rs type="bibl" ref="#bibl__3280">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. Proceedings of the 22nd annual conference on Computer graphics and interactive techniques (pp. 191-198). ACM.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__773">Mortensen, E., &amp; Barrett, W. (1995). Intelligent scissors for image composition. Proceedings of the 22nd annual conference on Computer graphics and interactive techniques (pp. 191-198). ACM.</rs></bibl>
                     <bibl rend="Bibliography">Revoy, D. (2017). 
-                        <rs type="bibl" ref="#bibl__3281">Revoy, D. (2017). Pepper &amp; Carrot. Episode 21: The Magic Contest. (Pepper and Carrot) Retrieved 2018 10, from https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest</rs></bibl>
+                        <rs type="bibl" ref="#bibl__774">Revoy, D. (2017). Pepper &amp; Carrot. Episode 21: The Magic Contest. (Pepper and Carrot) Retrieved 2018 10, from https://www.peppercarrot.com/en/article400/episode-21-the-magic-contest</rs></bibl>
                 </listBibl>
             </div>
         </back>

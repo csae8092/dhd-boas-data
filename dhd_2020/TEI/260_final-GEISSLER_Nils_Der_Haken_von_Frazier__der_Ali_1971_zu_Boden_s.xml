@@ -111,34 +111,19 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left;">
-<anchor xml:id="Hlk20505802"/>
-<hi rend="bold">Bloom, John / Willard, Michael Nevin</hi> (2002): “Introduction. Out of Bounds and between the Lines: Race in Twentieth-Century American Sport” in: Bloom, John / Willard, Michael Nevin (eds.):
-<hi rend="italic">Sports Matters: Race, Recreation, and Culture</hi>. New York &amp; London: New York University Press 1–10.
-</bibl>
+<rs type="bibl" ref="#bibl__4526">Bloom, John / Willard, Michael Nevin (2002): “Introduction. Out of Bounds and between the Lines: Race in Twentieth-Century American Sport” in: Bloom, John / Willard, Michael Nevin (eds.): Sports Matters: Race, Recreation, and Culture. New York &amp; London: New York University Press 1–10.</rs></bibl>
 <bibl style="text-align:left;">
-<hi rend="bold">Doerr, Martin</hi> (2003): “The CIDOC CRM – an Ontological Approach to Semantic Interoperability of Metadata”, in:
-<hi rend="italic">AI Magazine</hi> 24.
-</bibl>
+<rs type="bibl" ref="#bibl__4527">Doerr, Martin (2003): “The CIDOC CRM – an Ontological Approach to Semantic Interoperability of Metadata”, in: AI Magazine 24.</rs></bibl>
 <bibl style="text-align:left;">
-<hi rend="bold">Fiedler, Horst</hi> (1983):
-<hi rend="italic">Boxsport</hi>, 2nd ed. Berlin: Sportverlag Berlin.
-</bibl>
+<rs type="bibl" ref="#bibl__4528">Fiedler, Horst (1983): Boxsport, 2nd ed. Berlin: Sportverlag Berlin.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Fiedler, Horst</hi> (1971):
-  <hi rend="italic">Boxen.</hi> Eine Anleitung für die Ausbildung der Anfänger, 3rd ed. Berlin: Sportverlag Berlin.
-</bibl>
+  <rs type="bibl" ref="#bibl__4529">Fiedler, Horst (1971): Boxen. Eine Anleitung für die Ausbildung der Anfänger, 3rd ed. Berlin: Sportverlag Berlin.</rs></bibl>
 <bibl style="text-align:left;">
-<hi rend="bold">Fischer-Lichte, Erika </hi> (2004):
-<hi rend="italic">Ästhetik des Performativen</hi>. Frankfurt am Main: Suhrkamp.
-</bibl>
+<rs type="bibl" ref="#bibl__4530">Fischer-Lichte, Erika (2004): Ästhetik des Performativen. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl style="text-align:left;">
-<hi rend="bold">Hitzler, Ronald </hi> (1991): “Ist Sport Kultur?“, in: 
-<hi rend="italic">Zeitschrift für Soziologie</hi> 20: 479–487.
-</bibl>
+<rs type="bibl" ref="#bibl__4531">Hitzler, Ronald (1991): “Ist Sport Kultur?“, in: Zeitschrift für Soziologie 20: 479–487.</rs></bibl>
 <bibl style="text-align:left;">
-<hi rend="bold">Hughes, Jon</hi> (2018):
-<hi rend="italic">Max Schmeling and the Making of a National Hero in Twentieth-Century Germany</hi>. Cham: Springer International Publishing.
-</bibl>
+<rs type="bibl" ref="#bibl__4532">Hughes, Jon (2018): Max Schmeling and the Making of a National Hero in Twentieth-Century Germany. Cham: Springer International Publishing.</rs></bibl>
 </listBibl>
 </div>
 </back>

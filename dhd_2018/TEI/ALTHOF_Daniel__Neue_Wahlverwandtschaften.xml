@@ -137,26 +137,26 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1242"/></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1243">Berry, D. M. (2011): Philosophy of Software. Code and Mediation in the Digital Age, Basingstoke, Hampshire: Palgrave Macmillan UK.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1244">Berry, D. M. &amp; Fagerjord, A. (2017): Digital Humanities: Knowledge and Critique in a Digital Age, London: Polity Press.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1245">Cassirer, E. (1961): Naturbegriffe und Kulturbegriffe. Zur Logik der Kulturwissenschaften. Fünf Studien. Darmstadt: Wissenschaftliche Buchgesellschaft.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1246">Comte, A. (1830-1842): Cours de la philosophie positive, Paris: Bachelier.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1247">Dilthey, W. (1992): Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, Stuttgart/Göttingen: Teubner/Vandenhoeck &amp; Ruprecht.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__44">Gadamer, H.-G. (2010): Hermeneutik I. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik, Tübingen: Mohr Siebeck.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1248">Helmholtz, H. L. F. V. (1903): Über das Verhältnis von Naturwissenschaften zu der Gesammtheit der Wissenschaften, Braunschweig: Vieweg.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1249">Kirsch, A. (2012): Technology Is Taking Over English Departments. The false promise of the digital humanities. Available from: https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch [Accessed 22. September 2017].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1250">Liu, A. (2008): Local Transcendence: Essays on Postmodern Historicism and the Database, Chicago/London: The University of Chicago Press.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1251">Liu, A. (2012): Where is Cultural Criticism in the Digital Humanities? In: Gold, M. K. (ed.) Debates in the Digital Humanities. Minneapolis: The University of Minnesota Press.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1252">Marche, S. (2012): Literature Is not Data: Against Digital Humanities. Los Angeles Reviews of Books [Online]. [Accessed 22. September 2017].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1253">Mill, J. S. (1974): A System of Logic Ratiocinative and Inductive, London/Toronto: Routledge and Kegan Paul/University of Toronto Press.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__123">Moretti, F. (2005): Graphs, Maps, Trees. Abstract Models for a Literary History, London/New York: Verso.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1254">Popper, K. (2005): Logik der Forschung, Tübingen: Mohr Siebeck.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1255">Rickert, H. (1986): Kulturwissenschaft und Naturwissenschaft, Stuttgart: Reclam.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1256">Ritter, J. (1974): Die Aufgabe der Geisteswissenschaften in der modernen Gesellschaft. Subjektivität. Sechs Aufsätze. Frankfurt/M.: Suhrkamp.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1257">Searle, J. (1993): Die Wiederentdeckung des Geistes, München: Artemis &amp; Winkler.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1258">Windelband, W. (1924): Geschichte und Naturwissenschaft. Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte. Tübingen: Mohr.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1259">Wittgenstein, L. (1998): Logisch-philosophische Abhandlung. Tractatus logico-philosophicus - Kritische Edition, Frankfurt/M.: Suhrkamp.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3628"/></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3629">Berry, D. M. (2011): Philosophy of Software. Code and Mediation in the Digital Age, Basingstoke, Hampshire: Palgrave Macmillan UK.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3630">Berry, D. M. &amp; Fagerjord, A. (2017): Digital Humanities: Knowledge and Critique in a Digital Age, London: Polity Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3631">Cassirer, E. (1961): Naturbegriffe und Kulturbegriffe. Zur Logik der Kulturwissenschaften. Fünf Studien. Darmstadt: Wissenschaftliche Buchgesellschaft.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3632">Comte, A. (1830-1842): Cours de la philosophie positive, Paris: Bachelier.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3633">Dilthey, W. (1992): Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, Stuttgart/Göttingen: Teubner/Vandenhoeck &amp; Ruprecht.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__365">Gadamer, H.-G. (2010): Hermeneutik I. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik, Tübingen: Mohr Siebeck.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3634">Helmholtz, H. L. F. V. (1903): Über das Verhältnis von Naturwissenschaften zu der Gesammtheit der Wissenschaften, Braunschweig: Vieweg.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3635">Kirsch, A. (2012): Technology Is Taking Over English Departments. The false promise of the digital humanities. Available from: https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch [Accessed 22. September 2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3636">Liu, A. (2008): Local Transcendence: Essays on Postmodern Historicism and the Database, Chicago/London: The University of Chicago Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3637">Liu, A. (2012): Where is Cultural Criticism in the Digital Humanities? In: Gold, M. K. (ed.) Debates in the Digital Humanities. Minneapolis: The University of Minnesota Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3638">Marche, S. (2012): Literature Is not Data: Against Digital Humanities. Los Angeles Reviews of Books [Online]. [Accessed 22. September 2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3639">Mill, J. S. (1974): A System of Logic Ratiocinative and Inductive, London/Toronto: Routledge and Kegan Paul/University of Toronto Press.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__314">Moretti, F. (2005): Graphs, Maps, Trees. Abstract Models for a Literary History, London/New York: Verso.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3640">Popper, K. (2005): Logik der Forschung, Tübingen: Mohr Siebeck.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3641">Rickert, H. (1986): Kulturwissenschaft und Naturwissenschaft, Stuttgart: Reclam.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3642">Ritter, J. (1974): Die Aufgabe der Geisteswissenschaften in der modernen Gesellschaft. Subjektivität. Sechs Aufsätze. Frankfurt/M.: Suhrkamp.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3643">Searle, J. (1993): Die Wiederentdeckung des Geistes, München: Artemis &amp; Winkler.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3644">Windelband, W. (1924): Geschichte und Naturwissenschaft. Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte. Tübingen: Mohr.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3645">Wittgenstein, L. (1998): Logisch-philosophische Abhandlung. Tractatus logico-philosophicus - Kritische Edition, Frankfurt/M.: Suhrkamp.</rs></bibl>
                 </listBibl>
             </div>
       </back>

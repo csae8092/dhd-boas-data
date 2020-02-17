@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title><title type="conf_year">2019</title><author ref="#person__tobias-hodel-hist-uzh-ch">
+                <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title><title type="conf_year">2019</title>
+                <author ref="#person__tobias-hodel-hist-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
@@ -148,7 +149,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.<rs type="bibl" ref="#bibl__198">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</rs></bibl>
+                    <bibl>Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.<rs type="bibl" ref="#bibl__116">Leifert, G., Strauß, T., Grüning, T., Wustlich, W., Labahn, R., 2016. Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning Research 17, 1-37.</rs></bibl>
                 </listBibl>
             </div>
         </back>

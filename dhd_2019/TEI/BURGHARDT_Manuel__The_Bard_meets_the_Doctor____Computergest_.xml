@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>“The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who</title><title type="conf_year">2019</title><author ref="#person__burghardt-informatik-uni-leipzig-de">
+                <title>“The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who</title><title type="conf_year">2019</title>
+                <author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
@@ -236,35 +237,35 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Allen, G. (2000). 
-                        <rs type="bibl" ref="#bibl__3753">Allen, G. (2000). Intertextuality. London, New York: Routledge.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__776">Allen, G. (2000). Intertextuality. London, New York: Routledge.</rs></bibl>
                     <bibl>Bamman, D., &amp; Crane, G. (2008). The Logic and Discovery of Textual Allusion. 
-                        <rs type="bibl" ref="#bibl__3754">Bamman, D., &amp; Crane, G. (2008). The Logic and Discovery of Textual Allusion. ACL Language Technology for Cultural Heritage, (1986).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__777">Bamman, D., &amp; Crane, G. (2008). The Logic and Discovery of Textual Allusion. ACL Language Technology for Cultural Heritage, (1986).</rs></bibl>
                     <bibl>Bär, D., Zesch, T., &amp; Gurevych, I. (2012). Text Reuse Detection using a Composition of Text Similarity Measures. 
-                        <rs type="bibl" ref="#bibl__3755">Bär, D., Zesch, T., &amp; Gurevych, I. (2012). Text Reuse Detection using a Composition of Text Similarity Measures. Proceedings of COLING 2012, 1(December), 167–184.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__75">Bär, D., Zesch, T., &amp; Gurevych, I. (2012). Text Reuse Detection using a Composition of Text Similarity Measures. Proceedings of COLING 2012, 1(December), 167–184.</rs></bibl>
                     <bibl>Berti, M., Büchler, M., Geßner, A., &amp; Thomas, E. (2013). Measuring the Influence of a Work by Text Reuse. In 
-                        <rs type="bibl" ref="#bibl__3756">Berti, M., Büchler, M., Geßner, A., &amp; Thomas, E. (2013). Measuring the Influence of a Work by Text Reuse. In The Digital Classicist.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__778">Berti, M., Büchler, M., Geßner, A., &amp; Thomas, E. (2013). Measuring the Influence of a Work by Text Reuse. In The Digital Classicist.</rs></bibl>
                     <bibl>Burghardt, M., &amp; Wolff, C. (2015). Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik. In 
-                        <rs type="bibl" ref="#bibl__3757">Burghardt, M., &amp; Wolff, C. (2015). Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik. In Book of Abstracts Workshop “Informatik und die Digital Humanities”, Leipzig.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__76">Burghardt, M., &amp; Wolff, C. (2015). Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik. In Book of Abstracts Workshop “Informatik und die Digital Humanities”, Leipzig.</rs></bibl>
                     <bibl>Büchler, M., Burns, P. R., Müller, M., Franzini, E., &amp; Franzini, G. (2014). Towards a Historical Text Re-use Detection. In C. Biemann &amp; A. Mehler (Eds.), 
-                        <rs type="bibl" ref="#bibl__3758">Büchler, M., Burns, P. R., Müller, M., Franzini, E., &amp; Franzini, G. (2014). Towards a Historical Text Re-use Detection. In C. Biemann &amp; A. Mehler (Eds.), Text Mining, Theory and Applications of Natural Language Processing. Springer International Publishing.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__779">Büchler, M., Burns, P. R., Müller, M., Franzini, E., &amp; Franzini, G. (2014). Towards a Historical Text Re-use Detection. In C. Biemann &amp; A. Mehler (Eds.), Text Mining, Theory and Applications of Natural Language Processing. Springer International Publishing.</rs></bibl>
                     <bibl>Forstall, C., Coffee, N., Buck, T., Roache, K., &amp; Jacobson, S. (2015). Modeling the scholars: Detecting intertextuality through enhanced word-level n-gram matching. 
-                        <rs type="bibl" ref="#bibl__3759">Forstall, C., Coffee, N., Buck, T., Roache, K., &amp; Jacobson, S. (2015). Modeling the scholars: Detecting intertextuality through enhanced word-level n-gram matching. Digital Scholarship in the Humanities, 30(4), 503–515.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__780">Forstall, C., Coffee, N., Buck, T., Roache, K., &amp; Jacobson, S. (2015). Modeling the scholars: Detecting intertextuality through enhanced word-level n-gram matching. Digital Scholarship in the Humanities, 30(4), 503–515.</rs></bibl>
                     <bibl>Hohl Trillini, R., &amp; Quassdorf, S. (2010). A “key to all quotations”? A corpus-based parameter model of intertextuality. 
-                        <rs type="bibl" ref="#bibl__3760">Hohl Trillini, R., &amp; Quassdorf, S. (2010). A “key to all quotations”? A corpus-based parameter model of intertextuality. Literary and Linguistic Computing, 25(3), 269–286.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__77">Hohl Trillini, R., &amp; Quassdorf, S. (2010). A “key to all quotations”? A corpus-based parameter model of intertextuality. Literary and Linguistic Computing, 25(3), 269–286.</rs></bibl>
                     <bibl>Klarer, M. (1999). 
-                        <rs type="bibl" ref="#bibl__3761">Klarer, M. (1999). An Introduction to Literary Studies. London, New York: Routledge.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__781">Klarer, M. (1999). An Introduction to Literary Studies. London, New York: Routledge.</rs></bibl>
                     <bibl>Kozloff, S. (2000). 
-                        <rs type="bibl" ref="#bibl__3762">Kozloff, S. (2000). Overhearing Film Dialogue. Berkeley et al.: University of California Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__78">Kozloff, S. (2000). Overhearing Film Dialogue. Berkeley et al.: University of California Press.</rs></bibl>
                     <bibl>Malone, T. (2018). Quoting Shakespeare in Twentieth- Century Film. In J. Maxwell &amp; K. Rumbold (Eds.), 
-                        <rs type="bibl" ref="#bibl__3763">Malone, T. (2018). Quoting Shakespeare in Twentieth- Century Film. In J. Maxwell &amp; K. Rumbold (Eds.), Shakespeare and Quotation (pp. 194–208). Cambridge: Cambridge University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__782">Malone, T. (2018). Quoting Shakespeare in Twentieth- Century Film. In J. Maxwell &amp; K. Rumbold (Eds.), Shakespeare and Quotation (pp. 194–208). Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl>Maxwell, J., &amp; Rumbold, K. (2018). 
-                        <rs type="bibl" ref="#bibl__3764">Maxwell, J., &amp; Rumbold, K. (2018). Shakespeare and Quotation. Cambridge: Cambridge University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__79">Maxwell, J., &amp; Rumbold, K. (2018). Shakespeare and Quotation. Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl>Scheirer, W., Forstall, C., &amp; Coffee, N. (2016). The sense of a connection: Automatic tracing of intertextuality by meaning. 
-                        <rs type="bibl" ref="#bibl__3765">Scheirer, W., Forstall, C., &amp; Coffee, N. (2016). The sense of a connection: Automatic tracing of intertextuality by meaning. Digital Scholarship in the Humanities, 31(1), 204–217.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__783">Scheirer, W., Forstall, C., &amp; Coffee, N. (2016). The sense of a connection: Automatic tracing of intertextuality by meaning. Digital Scholarship in the Humanities, 31(1), 204–217.</rs></bibl>
                     <bibl>Smith, T. F., &amp; Waterman, M. S. (1981). Identification of Common Molecular Subsequences. 
-                        <rs type="bibl" ref="#bibl__3766">Smith, T. F., &amp; Waterman, M. S. (1981). Identification of Common Molecular Subsequences. Journal of Molecular Biology, 147, 195–197.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__784">Smith, T. F., &amp; Waterman, M. S. (1981). Identification of Common Molecular Subsequences. Journal of Molecular Biology, 147, 195–197.</rs></bibl>
                     <bibl>Taylor, G. (1991). 
-                        <rs type="bibl" ref="#bibl__3767">Taylor, G. (1991). Reinventing Shakespeare: A Cultural History from the Restoration to the Present. Oxford: Oxford University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__80">Taylor, G. (1991). Reinventing Shakespeare: A Cultural History from the Restoration to the Present. Oxford: Oxford University Press.</rs></bibl>
                 </listBibl>
             </div>
         </back>

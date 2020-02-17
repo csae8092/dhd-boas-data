@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">DH is the Study of dead Dudes</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__mark-hall-informatik-uni-halle-de">
                     <persName>
                         <surname>Hall</surname>
@@ -624,21 +625,21 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3">Berry, David M. (2011): "The Computational Turn: Thinking about the Digital Humanities ", in: Culture Machine 12: 1–22.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__107">Berry, David M. (2011): "The Computational Turn: Thinking about the Digital Humanities ", in: Culture Machine 12: 1–22.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3687">Fiormonte, Domenico. (2016), "Toward a Cultural Critique of Digital Humanities ", in Gold, Matthew K / Klein, L. (ed.): Debates in the Digital Humanities 2016, University of Minnesota Press 438-458.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1043">Fiormonte, Domenico. (2016), "Toward a Cultural Critique of Digital Humanities ", in Gold, Matthew K / Klein, L. (ed.): Debates in the Digital Humanities 2016, University of Minnesota Press 438-458.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3688">Fischer, Frank &amp; Jäschke, Robert. (2018). "Liebe und Tod in der Deutschen Nationalbibliothek ". in DHd2018: Kritik der digitalen Vernunft 261-266.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1044">Fischer, Frank &amp; Jäschke, Robert. (2018). "Liebe und Tod in der Deutschen Nationalbibliothek ". in DHd2018: Kritik der digitalen Vernunft 261-266.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3689">Gallon, Kim. (2016). "Making a Case for the Black Digital Humanities ". in Gold, Matthew K / Klein, L. (ed.): Debates in Digital Humanities 2016 42-49.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1045">Gallon, Kim. (2016). "Making a Case for the Black Digital Humanities ". in Gold, Matthew K / Klein, L. (ed.): Debates in Digital Humanities 2016 42-49.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__40">Liu, Alan. (2012). "Where is cultural criticism in the digital humanities? " in Gold, Matthew K (ed.): Debates in the Digital Humanities, University of Minnesota Press 490-509.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1046">Liu, Alan. (2012). "Where is cultural criticism in the digital humanities? " in Gold, Matthew K (ed.): Debates in the Digital Humanities, University of Minnesota Press 490-509.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3690">McPherson, Tara. (2012). "Why are the digital humanities so white? Or thinking the histories of race and computation ". in Gold, Matthew K (ed.): Debates in the Digital Humanities, 139-160.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1047">McPherson, Tara. (2012). "Why are the digital humanities so white? Or thinking the histories of race and computation ". in Gold, Matthew K (ed.): Debates in the Digital Humanities, 139-160.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3691">Rhody, Lisa M. (2016). "Why I dig: Feminist approaches to text analysis ". in Gold, Matthew K / Klein, L. (ed.): Debates in Digital Humanities 2016 536-539.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1048">Rhody, Lisa M. (2016). "Why I dig: Feminist approaches to text analysis ". in Gold, Matthew K / Klein, L. (ed.): Debates in Digital Humanities 2016 536-539.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3692">Wernimont, Jacqueline. (2013). Whence Feminism? Assessing Feminist Interventions in Digital Literary Archives. in DHQ: Digital Humanities Quarterly, 7(1).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1049">Wernimont, Jacqueline. (2013). Whence Feminism? Assessing Feminist Interventions in Digital Literary Archives. in DHQ: Digital Humanities Quarterly, 7(1).</rs></bibl>
                 </listBibl>
             </div>
         </back>

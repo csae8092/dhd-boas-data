@@ -151,34 +151,19 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left;">
-  <hi rend="bold"> Ertler, K.; Fuchs, A.; Fischer, M.; Hobisch, E.;
-  Scholger, M.; Völkl, Y. (Hg.) </hi> (2011-2019): 
-  <hi rend="italic">The Spectators in the International Context</hi>, https://gams.uni-graz.at/spectators.
-</bibl>
+  <rs type="bibl" ref="#bibl__5388">Ertler, K.; Fuchs, A.; Fischer, M.; Hobisch, E.; Scholger, M.; Völkl, Y. (Hg.) (2011-2019): The Spectators in the International Context, https://gams.uni-graz.at/spectators.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold"> Ertler, K.</hi> (2003): 
-  <hi rend="italic">Moralische Wochenschriften in Spanien. José Clavijo y Fajardo: ‚El Pensador’.</hi> Tübingen: Gunter Narr.
-</bibl>
+  <rs type="bibl" ref="#bibl__5389">Ertler, K. (2003): Moralische Wochenschriften in Spanien. José Clavijo y Fajardo: ‚El Pensador’. Tübingen: Gunter Narr.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold"> Guinard, P. </hi> (1973): 
-  <hi rend="italic">La Presse espagnole de 1737 à 1791. Formation et signification d’un genre</hi>. Paris: Centre de recherches hispaniques.
-</bibl>
+  <rs type="bibl" ref="#bibl__5390">Guinard, P. (1973): La Presse espagnole de 1737 à 1791. Formation et signification d’un genre. Paris: Centre de recherches hispaniques.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. </hi> (2003): Latent dirichlet allocation. 
-  <hi rend="italic">Journal of machine Learning research</hi>, 3 (Jan), 993-1022.
-</bibl>
+  <rs type="bibl" ref="#bibl__91">Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. (2003): Latent dirichlet allocation. Journal of machine Learning research, 3 (Jan), 993-1022.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Jelodar, H., Wang, Y., Yuan, C., Feng, X., Jiang, X., Li, Y., &amp; Zhao, L.</hi> (2019): Latent Dirichlet Allocation (LDA) and Topic modeling: models, applications, a survey. 
-  <hi rend="italic">Multimedia Tools and Applications</hi>, 78 (11), 15169-15211.
-</bibl>
+  <rs type="bibl" ref="#bibl__5391">Jelodar, H., Wang, Y., Yuan, C., Feng, X., Jiang, X., Li, Y., &amp; Zhao, L. (2019): Latent Dirichlet Allocation (LDA) and Topic modeling: models, applications, a survey. Multimedia Tools and Applications, 78 (11), 15169-15211.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Kuang, D., Choo, J., &amp; Park, H. </hi> (2015): Nonnegative matrix factorization for interactive topic modeling and document clustering. In 
-  <hi rend="italic">Partitional Clustering Algorithms</hi> (pp. 215-243). Springer, Cham.
-</bibl>
+  <rs type="bibl" ref="#bibl__5392">Kuang, D., Choo, J., &amp; Park, H. (2015): Nonnegative matrix factorization for interactive topic modeling and document clustering. In Partitional Clustering Algorithms (pp. 215-243). Springer, Cham.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">TEI Consortium </hi> (2019): eds. 
-  <hi rend="italic">Guidelines for Electronic Text Encoding and Interchange.</hi> July 2019. http://www.tei-c.org/P5/.
-</bibl>
+  <rs type="bibl" ref="#bibl__20">TEI Consortium (2019): eds. Guidelines for Electronic Text Encoding and Interchange. July 2019. http://www.tei-c.org/P5/.</rs></bibl>
 </listBibl>
 </div>
 </back>

@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Versionskontrolle mit Git + Kollaboratives Arbeiten im Web mit GitHub</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__stephan-druskat-hu-berlin-de">
                     <persName>
                         <surname>Druskat</surname>

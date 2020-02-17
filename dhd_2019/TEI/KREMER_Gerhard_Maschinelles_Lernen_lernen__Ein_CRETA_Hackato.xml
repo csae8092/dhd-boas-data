@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__gerhard-kremer-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Kremer</surname>

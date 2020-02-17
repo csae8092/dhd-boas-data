@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Visualisierung zwischen Pluralismus und Fragmentierung: Zur Integration von multiplen Perspektiven auf kulturelle Sammlungen</title><title type="conf_year">2019</title><author ref="#person__eva-mayr-donau-uni-ac-at">
+                <title>Visualisierung zwischen Pluralismus und Fragmentierung: Zur Integration von multiplen Perspektiven auf kulturelle Sammlungen</title><title type="conf_year">2019</title>
+                <author ref="#person__eva-mayr-donau-uni-ac-at">
                     <persName>
                         <surname>Mayr</surname>
                         <forename>Eva</forename>
@@ -173,21 +174,21 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__25">Dörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1215-1224). ACM. DOI: https://doi.org/10.1145/1978942.1979124</rs></bibl>
+                        <rs type="bibl" ref="#bibl__820">Dörk, M., Carpendale, S., &amp; Williamson, C. (2011). The information flaneur: A fresh look at information seeking. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1215-1224). ACM. DOI: https://doi.org/10.1145/1978942.1979124</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3989">Dörk, M., Pietsch, C., &amp; Credico, G. (2017). One view is not enough. Information Design Journal , 23 (1), 39-47.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__821">Dörk, M., Pietsch, C., &amp; Credico, G. (2017). One view is not enough. Information Design Journal , 23 (1), 39-47.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3990">Mayr, E., Schreder, G., Salisu, S. &amp; Windhager, F.. (2018) Integrated Visualization of Space and Time: A Distributed Cognition Perspective . Manuscript in preparation.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__822">Mayr, E., Schreder, G., Salisu, S. &amp; Windhager, F.. (2018) Integrated Visualization of Space and Time: A Distributed Cognition Perspective . Manuscript in preparation.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3991">Qu, Z and Hullman, J 2018, Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring, IEEE Transactions on Visualization and Computer Graphics , 24 (1), p. 468-477. DOI: https://doi.org/10.1109/TVCG.2017.2744198</rs></bibl>
+                        <rs type="bibl" ref="#bibl__823">Qu, Z and Hullman, J 2018, Keeping Multiple Views Consistent: Constraints, Validations, and Exceptions in Visualization Authoring, IEEE Transactions on Visualization and Computer Graphics , 24 (1), p. 468-477. DOI: https://doi.org/10.1109/TVCG.2017.2744198</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3992">Schreder, G., Windhager, F., Smuc, M., &amp; Mayr, E. (2016). A Mental Models Perspective on Designing Information Visualizations for Political Communication. JeDEM-eJournal of eDemocracy &amp; Open Government , 8 (3), 80-99.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__824">Schreder, G., Windhager, F., Smuc, M., &amp; Mayr, E. (2016). A Mental Models Perspective on Designing Information Visualizations for Political Communication. JeDEM-eJournal of eDemocracy &amp; Open Government , 8 (3), 80-99.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__26">Whitelaw, M. (2015). Generous Interfaces for Digital Cultural Collections. DHQ: Digital Humanities Quarterly , 9 (1).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__82">Whitelaw, M. (2015). Generous Interfaces for Digital Cultural Collections. DHQ: Digital Humanities Quarterly , 9 (1).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__149">Windhager, F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. (2018). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. IEEE Transactions on Visualization and Computer Graphics . DOI: 10.1109/TVCG.2018.2830759</rs></bibl>
+                        <rs type="bibl" ref="#bibl__83">Windhager, F., Federico, P., Schreder, G., Glinka, K., Dörk, M., Miksch, S., &amp; Mayr, E. (2018). Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges. IEEE Transactions on Visualization and Computer Graphics . DOI: 10.1109/TVCG.2018.2830759</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3993">Windhager, F., Salisu, S., Schreder, G., &amp; Mayr, E. (2018). Orchestrating Overviews: A Synoptic Approach to the Visualization of Cultural Collections. Open Library of Humanities , 4 (2). DOI: http://doi.org/10.16995/olh.276</rs></bibl>
+                        <rs type="bibl" ref="#bibl__825">Windhager, F., Salisu, S., Schreder, G., &amp; Mayr, E. (2018). Orchestrating Overviews: A Synoptic Approach to the Visualization of Cultural Collections. Open Library of Humanities , 4 (2). DOI: http://doi.org/10.16995/olh.276</rs></bibl>
                 </listBibl>
             </div>
         </back>

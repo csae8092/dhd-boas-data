@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Distant Letters: Methoden und Praktiken zur quantitativen Analyse digitaler Briefeditionen</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__dumont-bbaw-de">
                     <persName>
                         <surname>Dumont</surname>
@@ -264,29 +265,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3417">Andorfer, Peter (2017): „Turing Test für das Topic Modeling. Von Menschen und Maschinen erstellte inhaltliche Analysen der Korrespondenz von Leo von Thun-Hohenstein im Vergleich“, in : Zeitschrift für digitale Geisteswissenschaften; doi: 10.17175/2017_002 [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__130">Andorfer, Peter (2017): „Turing Test für das Topic Modeling. Von Menschen und Maschinen erstellte inhaltliche Analysen der Korrespondenz von Leo von Thun-Hohenstein im Vergleich“, in : Zeitschrift für digitale Geisteswissenschaften; doi: 10.17175/2017_002 [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3418">Bernauer, Markus / Miller, Norbert / Neuber, Frederike (eds.) (2018): Jean Paul – Sämtliche Briefe digital. In der Fassung der von Eduard Berend herausgegebenen 3. Abteilung der Historisch-kritischen Ausgabe (1952-1964), im Auftrag der Berlin-Brandenburgischen Akademie der Wissenschaften überarbeitet und herausgegeben von Markus Bernauer, Norbert Miller und Frederike Neuber; http://jeanpaul-edition.de [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1053">Bernauer, Markus / Miller, Norbert / Neuber, Frederike (eds.) (2018): Jean Paul – Sämtliche Briefe digital. In der Fassung der von Eduard Berend herausgegebenen 3. Abteilung der Historisch-kritischen Ausgabe (1952-1964), im Auftrag der Berlin-Brandenburgischen Akademie der Wissenschaften überarbeitet und herausgegeben von Markus Bernauer, Norbert Miller und Frederike Neuber; http://jeanpaul-edition.de [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__172">Burrows, John (2002) : „Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship“, in : Literary and Linguistic Computing 17/3, S. 267–287.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__131">Burrows, John (2002) : „Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship“, in : Literary and Linguistic Computing 17/3, S. 267–287.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3419">Dumont, Stefan ( 2016): „ correspSearch – Connecting Scholarly Editions of Letters“, in: Journal of the Text Encoding Initiative [Online], Issue 1 0; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__39">Dumont, Stefan ( 2016): „ correspSearch – Connecting Scholarly Editions of Letters“, in: Journal of the Text Encoding Initiative [Online], Issue 1 0; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__158">Eder, Maciej / Rybicki, Jan / Kestemont, Mike (2016) : „Stylometry with R: A Package for Computational Text Analysis“, in : The R Journal 8/1 (2016), S. 107–121.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__132">Eder, Maciej / Rybicki, Jan / Kestemont, Mike (2016) : „Stylometry with R: A Package for Computational Text Analysis“, in : The R Journal 8/1 (2016), S. 107–121.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3420">Ette Ottmar (eds.) (seit 2016): edition humboldt digital. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin. Version 3 vom 14.09.2018; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1054">Ette Ottmar (eds.) (seit 2016): edition humboldt digital. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin. Version 3 vom 14.09.2018; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3421">Graham, Shawn / Weingart, S cott / Milligan, Ian (2012): „Getting Started with Topic Modeling and MALLET“, in: The Programming Historian 1; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1055">Graham, Shawn / Weingart, S cott / Milligan, Ian (2012): „Getting Started with Topic Modeling and MALLET“, in: The Programming Historian 1; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3422">Heiden, Serge (2010): „The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme“. 24th Pacific Asia Conference on Language, Information and Computation , Nov 2010, Sendai, Japan. Institute for Digital Enhancement of Cognitive Development, Waseda University, S. 389–398.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1056">Heiden, Serge (2010): „The TXM Platform: Building Open-Source Textual Analysis Software Compatible with the TEI Encoding Scheme“. 24th Pacific Asia Conference on Language, Information and Computation , Nov 2010, Sendai, Japan. Institute for Digital Enhancement of Cognitive Development, Waseda University, S. 389–398.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__265">Herrmann, Berenike J. / van Dalen-Oskam, Karina / Schöch, Schöch (2015): „Revisiting Style, a Key Concept in Literary Studies“, in : Journal of Literary Theory 9/1, S. 25–52.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__133">Herrmann, Berenike J. / van Dalen-Oskam, Karina / Schöch, Schöch (2015): „Revisiting Style, a Key Concept in Literary Studies“, in : Journal of Literary Theory 9/1, S. 25–52.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3423">Rhody, Lisa M. (2012) .: „Topic Modeling and Figurative Language“, in: Journal of Digital Humanities 2/1; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1057">Rhody, Lisa M. (2012) .: „Topic Modeling and Figurative Language“, in: Journal of Digital Humanities 2/1; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__164">Schöch, Christof (2017) : „Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama“, in: Digital Humanities Quarterly 11/2; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__134">Schöch, Christof (2017) : „Topic Modeling Genre: An Exploration of French Classical and Enlightenment Drama“, in: Digital Humanities Quarterly 11/2; [letzter Zugriff 7 . Januar 2019 ].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3424">Walmsley, Priscilla (2009): XQuery : Search Across a Variety of XML Data. O’Reilly Media.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1058">Walmsley, Priscilla (2009): XQuery : Search Across a Variety of XML Data. O’Reilly Media.</rs></bibl>
                 </listBibl>
             </div>
         </back>

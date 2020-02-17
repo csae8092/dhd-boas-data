@@ -120,183 +120,73 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001a08c11191a474dfe86ea898c756b25fb"/>
-<hi rend="bold">Ammon, Ulrich</hi> (1995): 
-                        <hi rend="italic">Die deutsche Sprache in Deutschland, Österreich und der Schweiz: Das Problem der nationalen Varietäten</hi>. Berlin / New York: De Gruyter.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4321">Ammon, Ulrich (1995): Die deutsche Sprache in Deutschland, Österreich und der Schweiz: Das Problem der nationalen Varietäten. Berlin / New York: De Gruyter.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0011093766b9e2e43198a466d61dd69964d"/>
-<hi rend="bold">Artetxe, Mikel / Labaka, Gorka / Agirre, Eneko</hi> (2019): „An Effective Approach to Unsupervised Machine Translation“, in: 
-                        <hi rend="italic">Proceedings of the 57</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic" xml:space="preserve"> Annual Meeting of the Association for Computational Linguistics. Florence, Italy, July 28 - August 2, 2019</hi>, Association for Computational Linguistics 194–203.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4322">Artetxe, Mikel / Labaka, Gorka / Agirre, Eneko (2019): „An Effective Approach to Unsupervised Machine Translation“, in: Proceedings of the 57 th Annual Meeting of the Association for Computational Linguistics. Florence, Italy, July 28 - August 2, 2019, Association for Computational Linguistics 194–203.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0017d873053fb90464e8b9fcd9ebe82d3ba"/>
-<hi rend="bold" xml:space="preserve">Castilho, Sheila / Moorkens, Joss / Gaspari, Federico / Calixto, Iacer / Tinsley, John / Way, Andy </hi>(2017): „Is Neural Machine Translation the New State of the Art?“, in: 
-                        <hi rend="italic">The Prague Bulletin of Mathematical Linguistics</hi> 108: 109-120.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4323">Castilho, Sheila / Moorkens, Joss / Gaspari, Federico / Calixto, Iacer / Tinsley, John / Way, Andy (2017): „Is Neural Machine Translation the New State of the Art?“, in: The Prague Bulletin of Mathematical Linguistics 108: 109-120.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<hi rend="bold">Chu, Chenhui / Dabre, Raj / Kurohashi, Sadao</hi> (2017): „An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation“, in: Barzilay, Regina / Kan, Min-Yen (Hrsg.): 
-                        <hi rend="italic">Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Short Papers)</hi>. Stroudsburg, PA, USA: Association for Computational Linguistics 385–391.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4324">Chu, Chenhui / Dabre, Raj / Kurohashi, Sadao (2017): „An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation“, in: Barzilay, Regina / Kan, Min-Yen (Hrsg.): Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Short Papers). Stroudsburg, PA, USA: Association for Computational Linguistics 385–391.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<hi rend="bold">Costa-jussà, Marta R. / Zampieri, Marcos / Pal, Santanu</hi> (2018): „A Neural Approach to Language Variety Translation“, in: 
-                        <hi rend="italic">Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018)</hi> 275–282.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4325">Costa-jussà, Marta R. / Zampieri, Marcos / Pal, Santanu (2018): „A Neural Approach to Language Variety Translation“, in: Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018) 275–282.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<hi rend="bold">Dinu, Georgiana / Mathur, Prashant / Federico, Marcello / Al-Onaizan, Yaser</hi> (2019): „Training Neural Machine Translation To Apply Terminology Constraints“, in: 
-                        <hi rend="italic">Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</hi> 3063–3068.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4326">Dinu, Georgiana / Mathur, Prashant / Federico, Marcello / Al-Onaizan, Yaser (2019): „Training Neural Machine Translation To Apply Terminology Constraints“, in: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics 3063–3068.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0014e1eb7dd7ca74b6b808aaa89b8e83625"/>
-<hi rend="bold">EU</hi> (1995): 
-                        <hi rend="italic" xml:space="preserve">Beachtung österreichischer Ausdrücke. Protokoll Nr. 10 über die Verwendung spezifisch österreichischer Ausdrücke der deutschen Sprache im Rahmen der Europäischen Union </hi>
-<ref target="https://ec.europa.eu/info/sites/info/files/austrian_expressions_de.pdf">https://ec.europa.eu/info/sites/info/files/austrian_expressions_de.pdf</ref> [letzter Zugriff 11. November 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4327">EU (1995): Beachtung österreichischer Ausdrücke. Protokoll Nr. 10 über die Verwendung spezifisch österreichischer Ausdrücke der deutschen Sprache im Rahmen der Europäischen Union https://ec.europa.eu/info/sites/info/files/austrian_expressions_de.pdf [letzter Zugriff 11. November 2019].</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL00190ead7daf14e4d1caae50f274d5eddb4"/>
-<hi rend="bold">Farajian, M. Amin / Bertoldi, Nicola / Negri, Matteo / Turchi, Marco / Federico, Marcello</hi> (2018): „Evaluation of Terminology Translation in Instance-Based Neural MT Adaptation“, in: Pérez-Ortiz, Juan Antonio / Sánchez-Martínez, Felipe / Esplá-Gomis, Miquel / Popović, Maja / Rico, Celia / Martins, André / van den Bogaert, Joachim / Forcada, Mikel L. (Hrsg.): 
-                        <hi rend="italic">Proceedings of the 21</hi>
-<hi rend="italic superscript">st</hi>
-<hi rend="italic" xml:space="preserve"> Annual Conference of the European Association for Machine Translation. 28-30 May 2018, Universitat d’Alacant, Alacant, Spain</hi> 149–158.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4328">Farajian, M. Amin / Bertoldi, Nicola / Negri, Matteo / Turchi, Marco / Federico, Marcello (2018): „Evaluation of Terminology Translation in Instance-Based Neural MT Adaptation“, in: Pérez-Ortiz, Juan Antonio / Sánchez-Martínez, Felipe / Esplá-Gomis, Miquel / Popović, Maja / Rico, Celia / Martins, André / van den Bogaert, Joachim / Forcada, Mikel L. (Hrsg.): Proceedings of the 21 st Annual Conference of the European Association for Machine Translation. 28-30 May 2018, Universitat d’Alacant, Alacant, Spain 149–158.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0017a8278feabfa493b86d191e2271714bb"/>
-<hi rend="bold" xml:space="preserve">Forcada, Mikel L. </hi>(2017): „Making sense of neural machine translation“, in: 
-                        <hi rend="italic">Translation Spaces</hi> 6:2 291–309.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4329">Forcada, Mikel L. (2017): „Making sense of neural machine translation“, in: Translation Spaces 6:2 291–309.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL00156b7a8164a3246c3b910962de45e926b"/>
-<hi rend="bold">Forcada, Mikel L. / Ginestí-Rosell, Mireia / Nordfalk, Jacob / O’Regan, Jim / Ortiz-Rojas, Sergio / Pérez-Ortiz, Juan Antonio / Sánchez-Martínez, Felipe / Ramírez-Sánchez, Gema / Tyers, Francis M.</hi> (2011): „Apertium: a free/open-source platform for rule-based machine translation“, in: 
-                        <hi rend="italic">Machine Translation</hi> 25:2 127–144.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4330">Forcada, Mikel L. / Ginestí-Rosell, Mireia / Nordfalk, Jacob / O’Regan, Jim / Ortiz-Rojas, Sergio / Pérez-Ortiz, Juan Antonio / Sánchez-Martínez, Felipe / Ramírez-Sánchez, Gema / Tyers, Francis M. (2011): „Apertium: a free/open-source platform for rule-based machine translation“, in: Machine Translation 25:2 127–144.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<hi rend="bold" xml:space="preserve">Hasler, Eva / Gispert, Adrià De / Iglesias, Gonzalo / Byrne, Bill </hi>(2018): „Neural Machine Translation Decoding with Terminology Constraints“, in: 
-                        <hi rend="italic">Proceedings of NAACL-HLT 2018, New Orleans, Louisiana, June 1 - 6, 2018</hi> 506–512.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4331">Hasler, Eva / Gispert, Adrià De / Iglesias, Gonzalo / Byrne, Bill (2018): „Neural Machine Translation Decoding with Terminology Constraints“, in: Proceedings of NAACL-HLT 2018, New Orleans, Louisiana, June 1 - 6, 2018 506–512.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001bd3f695127e44d82b7ee15c3962431fe"/>
-<hi rend="bold">Hassan, Hany / Aue, Anthony / Chen, Chang / Chowdhary, Vishal / Clark, Jonathan / Federmann, Christian / Huang, Xuedong / Junczys-Dowmunt, Marcin / Lewis, William / Li, Mu / Liu, Shujie / Liu, Tie-Yan / Luo, Renqian / Menezes, Arul / Qin, Tao / Seide, Frank / Tan, Xu / Tian, Fei / Wu, Lijun / Wu, Shuangzhi / Xia, Yingce / Zhang, Dongdong / Zhang, Zhirui / Zhou, Ming</hi> (2018): 
-                        <hi rend="italic">Achieving Human Parity on Automatic Chinese to English News Translation</hi> https://arxiv.org/pdf/1803.05567
-                    </bibl>
+<rs type="bibl" ref="#bibl__4332">Hassan, Hany / Aue, Anthony / Chen, Chang / Chowdhary, Vishal / Clark, Jonathan / Federmann, Christian / Huang, Xuedong / Junczys-Dowmunt, Marcin / Lewis, William / Li, Mu / Liu, Shujie / Liu, Tie-Yan / Luo, Renqian / Menezes, Arul / Qin, Tao / Seide, Frank / Tan, Xu / Tian, Fei / Wu, Lijun / Wu, Shuangzhi / Xia, Yingce / Zhang, Dongdong / Zhang, Zhirui / Zhou, Ming (2018): Achieving Human Parity on Automatic Chinese to English News Translation https://arxiv.org/pdf/1803.05567</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0019c2d8af375504d4389cf1470482f0c7c"/>
-<hi rend="bold">Heinisch, Barbara</hi> (2018): 
-                        <hi rend="italic">Dissemination of administrative terminology on Austria’s language resource portal as a means of quality assurance</hi>, Donostia / San Sebastián, Spanien: Poster presented at EAFT Terminology Summit 2018: 3M4Q: Making, Managing, Measuring Terminology. In the pursuit of Quality - Donostia / San Sebastián, Spanien, 22-23 Nov. 2018.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4333">Heinisch, Barbara (2018): Dissemination of administrative terminology on Austria’s language resource portal as a means of quality assurance, Donostia / San Sebastián, Spanien: Poster presented at EAFT Terminology Summit 2018: 3M4Q: Making, Managing, Measuring Terminology. In the pursuit of Quality - Donostia / San Sebastián, Spanien, 22-23 Nov. 2018.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001ce6946b7125e40f7820b8261f4dea321"/>
-<hi rend="bold">Heinisch, Barbara / Lušicky, Vesna</hi> (2019): „User expectations towards machine translation: A case study“, in: 
-                        <hi rend="italic">Proceedings of Machine Translation Summit XVII Volume 2: Translator, Project and User Tracks, 19–23 August, 2019, Dublin, Ireland</hi> 42–48.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4334">Heinisch, Barbara / Lušicky, Vesna (2019): „User expectations towards machine translation: A case study“, in: Proceedings of Machine Translation Summit XVII Volume 2: Translator, Project and User Tracks, 19–23 August, 2019, Dublin, Ireland 42–48.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0017424ddf6a5ae46f5b607882d69022959"/>
-<hi rend="bold">Heinisch-Obermoser, Barbara</hi> (2014): „University terminology: Why it is not just higher education terminology“, in: Budin, Gerhard / Lušicky, Vesna (Hrsg.): 
-                        <hi rend="italic">Languages for special purposes in a multilingual, transcultural world. Proceedings of the 19</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic" xml:space="preserve"> European Symposium on Languages for Special Purposes, LSP, 2013 8-10 July, 2013 Vienna, Austria</hi>. Vienna: Centre for Translation Studies 429–433.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4335">Heinisch-Obermoser, Barbara (2014): „University terminology: Why it is not just higher education terminology“, in: Budin, Gerhard / Lušicky, Vesna (Hrsg.): Languages for special purposes in a multilingual, transcultural world. Proceedings of the 19 th European Symposium on Languages for Special Purposes, LSP, 2013 8-10 July, 2013 Vienna, Austria. Vienna: Centre for Translation Studies 429–433.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0015b0d54ad32cf431d91b29960ac817d22"/>
-<hi rend="bold">Heinisch-Obermoser, Barbara</hi> (2016): „Terminology workflows at an Austrian university aimed at collaboration, terminology awareness and joint responsibility for university terminology – a study on the University of Vienna’s terminological database UniVieTerm“, in: European Association for Terminology (Hrsg.): 
-                        <hi rend="italic">VIII EAFT Terminology Summit (2016), 14 Nov 2016 - 15 Nov 2016, Luxembourg. Revisions and Visions</hi> 8.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4336">Heinisch-Obermoser, Barbara (2016): „Terminology workflows at an Austrian university aimed at collaboration, terminology awareness and joint responsibility for university terminology – a study on the University of Vienna’s terminological database UniVieTerm“, in: European Association for Terminology (Hrsg.): VIII EAFT Terminology Summit (2016), 14 Nov 2016 - 15 Nov 2016, Luxembourg. Revisions and Visions 8.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0015d0f27bc35d448d9895be6c5d98d3f96"/>
-<hi rend="bold">Junczys-Dowmunt, Marcin / Dwojak, Tomasz / Hoang, Hieu</hi> (2016): 
-                        <hi rend="italic">Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions</hi>. 
-                        <ref target="https://arxiv.org/pdf/1610.01108">https://arxiv.org/pdf/1610.01108</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4337">Junczys-Dowmunt, Marcin / Dwojak, Tomasz / Hoang, Hieu (2016): Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions. https://arxiv.org/pdf/1610.01108.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0011a66d94a779d4e1fba04adc7db2e3427"/>
-<hi rend="bold">Koehn, Philipp / Knowles, Rebecca</hi> (2017): „Six Challenges for Neural Machine Translation“, in: 
-                        <hi rend="italic">Workshop on Neural Machine Translation, Vancouver, BC. arXiv: 1706.03872</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4338">Koehn, Philipp / Knowles, Rebecca (2017): „Six Challenges for Neural Machine Translation“, in: Workshop on Neural Machine Translation, Vancouver, BC. arXiv: 1706.03872.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001baadc621aa60474185ee0aacdda50be8"/>
-<hi rend="bold">Lakew, Surafel M. / Erofeeva, Aliia / Federico, Marcello</hi> (2018): „Neural Machine Translation into Language Varieties“, in: 
-                        <hi rend="italic">Proceedings of the Third Conference on Machine Translation (WMT). Volume 1: Research Papers. Brussels, Belgium, October 31 - November 1, 2018</hi> 156–164.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4339">Lakew, Surafel M. / Erofeeva, Aliia / Federico, Marcello (2018): „Neural Machine Translation into Language Varieties“, in: Proceedings of the Third Conference on Machine Translation (WMT). Volume 1: Research Papers. Brussels, Belgium, October 31 - November 1, 2018 156–164.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001c41a82de693c47709edcac7b209f0d19"/>
-<hi rend="bold">Lohaus, Marianne</hi> (2000): 
-                        <hi rend="italic">Recht und Sprache in Österreich und Deutschland. Gemeinsamkeiten und Verschiedenheiten als Folge geschichtlicher Entwicklungen; Untersuchung zur juristischen Fachterminologie in Österreich und Deutschland</hi>. Giessen: Fachverl. Köhler.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4340">Lohaus, Marianne (2000): Recht und Sprache in Österreich und Deutschland. Gemeinsamkeiten und Verschiedenheiten als Folge geschichtlicher Entwicklungen; Untersuchung zur juristischen Fachterminologie in Österreich und Deutschland. Giessen: Fachverl. Köhler.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0019777019e57284ad3b3e78432a71d8ced"/>
-<hi rend="bold">Lommel, Arle / Uszkoreit, Hans / Burchardt, Aljoscha</hi> (2014): „Multidimensional quality metrics (MQM): A framework for declaring and describing translation quality metrics“, in: 
-                        <hi rend="italic">Revista tradumàtica: traducció i tecnologies de la informació i la comunicació</hi> 12: 455–463.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4341">Lommel, Arle / Uszkoreit, Hans / Burchardt, Aljoscha (2014): „Multidimensional quality metrics (MQM): A framework for declaring and describing translation quality metrics“, in: Revista tradumàtica: traducció i tecnologies de la informació i la comunicació 12: 455–463.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0014926d2c5043a48858e910d3fe6e8975c"/>
-<hi rend="bold">Lösch, Andrea / Mapelli, Valérie / Piperidis, Stelios / Vasiļjevs, Andrejs / Smal, Lilli / Declerck, Thierry / Schnur, Eileen / Choukri, Khalid / van Genabith, Josef</hi> (2018): „European Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management“, in: Calzolari / Nicoletta (Hrsg.): 
-                        <hi rend="italic" xml:space="preserve">Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018) </hi>1339-1343.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4342">Lösch, Andrea / Mapelli, Valérie / Piperidis, Stelios / Vasiļjevs, Andrejs / Smal, Lilli / Declerck, Thierry / Schnur, Eileen / Choukri, Khalid / van Genabith, Josef (2018): „European Language Resource Coordination: Collecting Language Resources for Public Sector Multilingual Information Management“, in: Calzolari / Nicoletta (Hrsg.): Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018) 1339-1343.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001dfb6eed08e47441997ea99953b615634"/>
-<hi rend="bold">Lušicky, Vesna / Heinisch, Barbara</hi> (unveröffentlichtes Manuskript): 
-                        <hi rend="italic">User expectations towards machine translation: The implications of experience and disconfirmation in neural machine translation</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4343">Lušicky, Vesna / Heinisch, Barbara (unveröffentlichtes Manuskript): User expectations towards machine translation: The implications of experience and disconfirmation in neural machine translation.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001ece92b3d4df74d0085d47cb22a4a614c"/>
-<hi rend="bold">Markhardt, Heidemarie</hi> (2002): 
-                        <hi rend="italic">Das österreichische Deutsch im Rahmen der Europäischen Union das „Protokoll Nr. 10 über die Verwendung österreichischer Ausdrücke der deutschen Sprache“ zum österreichischen EU-Beitrittsvertrag und die Folgen: eine empirische Studie zum österreichischen Deutsch in der EU</hi>. Dissertation, Universität Wien.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4344">Markhardt, Heidemarie (2002): Das österreichische Deutsch im Rahmen der Europäischen Union das „Protokoll Nr. 10 über die Verwendung österreichischer Ausdrücke der deutschen Sprache“ zum österreichischen EU-Beitrittsvertrag und die Folgen: eine empirische Studie zum österreichischen Deutsch in der EU. Dissertation, Universität Wien.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0019d591b253684470da1cb58e8b815781d"/>
-<hi rend="bold">Michel, Paul / Neubig, Graham</hi> (2018): „Extreme Adaptation for Personalized Neural Machine Translation“, in: 
-                        <hi rend="italic">Proceedings of the 56</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic" xml:space="preserve"> Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</hi> 312–318.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4345">Michel, Paul / Neubig, Graham (2018): „Extreme Adaptation for Personalized Neural Machine Translation“, in: Proceedings of the 56 th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) 312–318.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001fc4f9711a5734b1880c1ed98ed714faa"/>
-<hi rend="bold">Neubarth, Friedrich / Trost, Harald</hi> (2017): „Statistische maschinelle Übersetzung vom Standarddeutschen in den Wiener Dialekt“, in: Resch, Claudia / Dressler, Wolfgang U. (Hrsg.): 
-                        <hi rend="italic">Digitale Methoden der Korpusforschung</hi>. Wien: Verlag der österreichischen Akademie der Wissenschaften 179–203.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4346">Neubarth, Friedrich / Trost, Harald (2017): „Statistische maschinelle Übersetzung vom Standarddeutschen in den Wiener Dialekt“, in: Resch, Claudia / Dressler, Wolfgang U. (Hrsg.): Digitale Methoden der Korpusforschung. Wien: Verlag der österreichischen Akademie der Wissenschaften 179–203.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL00138ed20f877404dc29b58e0d220048982"/>
-<hi rend="bold">Reynolds, Peter</hi> (2015): „Machine translation, translation memory and terminology management“, in: Kockaert, Hendrik J. / Steurs, Frieda (Hrsg.): 
-                        <hi rend="italic">Handbook of Terminology</hi>. Amsterdam: John Benjamins Publishing Company 276–287.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4347">Reynolds, Peter (2015): „Machine translation, translation memory and terminology management“, in: Kockaert, Hendrik J. / Steurs, Frieda (Hrsg.): Handbook of Terminology. Amsterdam: John Benjamins Publishing Company 276–287.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001cdae9f3a86894114bca27206fcb84363"/>
-<hi rend="bold">Scansani, Randy / Bernardini, Silvia / Ferraresi, Adriano / Gaspari, Federico / Soffritti, Marcello</hi> (2017): „Enhancing Machine Translation of Academic Course Catalogues with Terminological Resources“, in: 
-                        <hi rend="italic">Proceedings of the Workshop on Human-Informed Translation and Interpreting Technology: Incoma Ltd. Shoumen, Bulgaria</hi> 1–10.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4348">Scansani, Randy / Bernardini, Silvia / Ferraresi, Adriano / Gaspari, Federico / Soffritti, Marcello (2017): „Enhancing Machine Translation of Academic Course Catalogues with Terminological Resources“, in: Proceedings of the Workshop on Human-Informed Translation and Interpreting Technology: Incoma Ltd. Shoumen, Bulgaria 1–10.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL00106866e25b85c4ccd8fbd7a914e511ce3"/>
-<hi rend="bold">Schmidlin, Regula</hi> (2011): 
-                        <hi rend="italic">Die Vielfalt des Deutschen: Standard und Variation Gebrauch, Einschätzung und Kodifizierung einer plurizentrischen Sprache</hi>. Berlin: De Gruyter.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4349">Schmidlin, Regula (2011): Die Vielfalt des Deutschen: Standard und Variation Gebrauch, Einschätzung und Kodifizierung einer plurizentrischen Sprache. Berlin: De Gruyter.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001a8f4463bf01a43b2af4e8457cd28b74b"/>
-<hi rend="bold">Servan, Christophe / Crego, Josep / Senellart, Jean</hi> (2016): 
-                        <hi rend="italic">Domain specialization: a post-training domain adaptation for Neural Machine Translation</hi> https://arxiv.org/pdf/1612.06141.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4350">Servan, Christophe / Crego, Josep / Senellart, Jean (2016): Domain specialization: a post-training domain adaptation for Neural Machine Translation https://arxiv.org/pdf/1612.06141.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001bd643b4cebb144a99f149265ec8bd825"/>
-<hi rend="bold">Simard, Michel / Ueffing, Nicola / Isabelle, Pierre / Kuhn, Roland</hi> (2007): „Rule-based translation with statistical phrase-based post-editing“, in: 
-                        <hi rend="italic">Proceedings of the 45</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic" xml:space="preserve"> Annual Meeting of the Association of Computational Linguistics. Prague, Czech Republic — June 23 - 23, 2007</hi> 203–206.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4351">Simard, Michel / Ueffing, Nicola / Isabelle, Pierre / Kuhn, Roland (2007): „Rule-based translation with statistical phrase-based post-editing“, in: Proceedings of the 45 th Annual Meeting of the Association of Computational Linguistics. Prague, Czech Republic — June 23 - 23, 2007 203–206.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL00142d49b28c87f4fdd9646d2aeb720834e"/>
-<hi rend="bold">Stolze, Radegundis</hi> (2009): 
-                        <hi rend="italic">Fachübersetzen - ein Lehrbuch für Theorie und Praxis.</hi> Berlin: Frank &amp; Timme.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4352">Stolze, Radegundis (2009): Fachübersetzen - ein Lehrbuch für Theorie und Praxis. Berlin: Frank &amp; Timme.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL001d712d1802757495e9801ce548550e160"/>
-<hi rend="bold" xml:space="preserve">Wissik, Tanja </hi>(2013): 
-                        <hi rend="italic">Terminologische Variation in der Rechts- und Verwaltungssprache eine korpusbasierte Analyse der Hochschulterminologie in den Standardvarietäten des Deutschen in Deutschland, Österreich und der Schweiz</hi>. Dissertation, Universität Wien.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4353">Wissik, Tanja (2013): Terminologische Variation in der Rechts- und Verwaltungssprache eine korpusbasierte Analyse der Hochschulterminologie in den Standardvarietäten des Deutschen in Deutschland, Österreich und der Schweiz. Dissertation, Universität Wien.</rs></bibl>
 <bibl rend="Citavi Bibliography Entry">
-<anchor xml:id="CTVL0018c5f2c19457b42e18fdccd3eb2daebd6"/>
-<hi rend="bold">Wloka, Bartholomäus / Budin, Gerhard / Winiwarter, Werner</hi> (2013): „Machine Translation, Language Analysis, and Mobile Applications in the Terminology Domain“, in: 
-                        <hi rend="italic">Jusletter IT</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4354">Wloka, Bartholomäus / Budin, Gerhard / Winiwarter, Werner (2013): „Machine Translation, Language Analysis, and Mobile Applications in the Terminology Domain“, in: Jusletter IT.</rs></bibl>
 </listBibl>
 </div>
 </back>

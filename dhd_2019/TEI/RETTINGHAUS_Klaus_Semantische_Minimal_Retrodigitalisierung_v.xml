@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Semantische Minimal-Retrodigitalisierung von Brief-Editionen</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__klaus-rettinghaus-gmail-com">
                     <persName>
                         <surname>Rettinghaus</surname>
@@ -105,15 +106,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3846">Woesler, Winfried (1988): "Vorschläge für eine Normierung von Briefeditionen" in: Editio 2, S. 8–18. doi: 10.1515/9783110241938.8</rs></bibl>
+                        <rs type="bibl" ref="#bibl__565">Woesler, Winfried (1988): "Vorschläge für eine Normierung von Briefeditionen" in: Editio 2, S. 8–18. doi: 10.1515/9783110241938.8</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3847">Ball, Rafael (2014): "Bibliotheken im 21. Jahrhundert. Vom Leser zum Kunden" in: Ceynowa, Klaus / Hermann, Martin: Bibliotheken: Innovation aus Tradition, Berlin: De Gruyter Saur 226–231, doi: 10.1515/9783110310511.226</rs></bibl>
+                        <rs type="bibl" ref="#bibl__566">Ball, Rafael (2014): "Bibliotheken im 21. Jahrhundert. Vom Leser zum Kunden" in: Ceynowa, Klaus / Hermann, Martin: Bibliotheken: Innovation aus Tradition, Berlin: De Gruyter Saur 226–231, doi: 10.1515/9783110310511.226</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__267">Stadler, Peter (2014): "Interoperabilität von digitalen Briefeditionen" in: Wolzogen, Hanna Delf von / Falk, Rainer: Fontanes Briefe ediert, Würzburg: Königshausen &amp; Neumann 278–287.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__38">Stadler, Peter (2014): "Interoperabilität von digitalen Briefeditionen" in: Wolzogen, Hanna Delf von / Falk, Rainer: Fontanes Briefe ediert, Würzburg: Königshausen &amp; Neumann 278–287.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__209">Dumont, Stefan (2016): "correspSearch – Connecting Scholarly Editions of Letters" in: Journal of the Text Encoding Initiative 10, [letzter Zugriff 10. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__39">Dumont, Stefan (2016): "correspSearch – Connecting Scholarly Editions of Letters" in: Journal of the Text Encoding Initiative 10, [letzter Zugriff 10. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3848">Rettinghaus, Klaus (2018): saw-leipzig/csv2cmi (Version v1.6.2), Zenodo, doi: 10.5281/zenodo.1461642 [letzter Zugriff 13. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__567">Rettinghaus, Klaus (2018): saw-leipzig/csv2cmi (Version v1.6.2), Zenodo, doi: 10.5281/zenodo.1461642 [letzter Zugriff 13. Oktober 2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Ein GUI-Topic-Modeling-Tool mit interaktiver Ergebnisdarstellung</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__severin-simmler-stud-mail-uni-wuerzburg-de">
                     <persName>
                         <surname>Severin</surname>
@@ -102,19 +103,19 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__42">Blei, David M. (2012): „Probabilistic Topic Models“, in Communication of the ACM 55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__104">Blei, David M. (2012): „Probabilistic Topic Models“, in Communication of the ACM 55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.</rs></bibl>
                     <bibl>Chaney, Allison J.B./ Blei, David M. (2012): "The Visualizing Topic Models", in: 
-                        <rs type="bibl" ref="#bibl__4109">Chaney, Allison J.B./ Blei, David M. (2012): "The Visualizing Topic Models", in: Proceedings of the S ixth International AAAI Conference on Weblogs and Social Media 419-422.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1395">Chaney, Allison J.B./ Blei, David M. (2012): "The Visualizing Topic Models", in: Proceedings of the S ixth International AAAI Conference on Weblogs and Social Media 419-422.</rs></bibl>
                     <bibl>Jannidis, Fotis/ Pielström, Steffen / Schöch, Christof / Vitt, Thorsten (2017): "Making topic modeling easy: a programming library in Python", in: 
-                        <rs type="bibl" ref="#bibl__4110">Jannidis, Fotis/ Pielström, Steffen / Schöch, Christof / Vitt, Thorsten (2017): "Making topic modeling easy: a programming library in Python", in: Proceedings of the Digital Humanities 2017 Conference.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1396">Jannidis, Fotis/ Pielström, Steffen / Schöch, Christof / Vitt, Thorsten (2017): "Making topic modeling easy: a programming library in Python", in: Proceedings of the Digital Humanities 2017 Conference.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__9">McCallum, Andrew K. (2002): MALLET : A Machine Learning for Language Toolkit . http://mallet.cs.umass.edu .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__93">McCallum, Andrew K. (2002): MALLET : A Machine Learning for Language Toolkit . http://mallet.cs.umass.edu .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__169">Rehurek, Radim/ Sojka, Petr (2010): "Software framework for topic modelling with large corpora." In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__210">Rehurek, Radim/ Sojka, Petr (2010): "Software framework for topic modelling with large corpora." In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks .</rs></bibl>
                     <bibl>Simmler, Severin/ Vitt, Thorsten / Pielström. Steffen (2018): "LDA Topic Modeling über eine graphisches Interface", in: 
-                        <rs type="bibl" ref="#bibl__4111">Simmler, Severin/ Vitt, Thorsten / Pielström. Steffen (2018): "LDA Topic Modeling über eine graphisches Interface", in: Konferenzabstracts der 5. Tagung des Verbands Digital Humanities im deutschsprachigen Raum e.V. 428-429.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1397">Simmler, Severin/ Vitt, Thorsten / Pielström. Steffen (2018): "LDA Topic Modeling über eine graphisches Interface", in: Konferenzabstracts der 5. Tagung des Verbands Digital Humanities im deutschsprachigen Raum e.V. 428-429.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__170">Steyvers, Mark/ Griffiths, Tom (2006): „Probabilistic Topic Models“, in Latent Semantic Analysis: A Road to Meaning , herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__106">Steyvers, Mark/ Griffiths, Tom (2006): „Probabilistic Topic Models“, in Latent Semantic Analysis: A Road to Meaning , herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.</rs></bibl>
                 </listBibl>
             </div>
         </back>

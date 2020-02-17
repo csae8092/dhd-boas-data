@@ -168,36 +168,17 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold" style="font-size:11pt">Bradley, John / Short, Harold</hi>
-<hi style="font-size:11pt" xml:space="preserve"> (2005): “Texts into databases. The Evolving field of New-style Prosopography.“ in: </hi>
-<hi rend="italic" style="font-size:11pt">LLC</hi>
-<hi style="font-size:11pt" xml:space="preserve"> 20, suppl. 1: 3-24.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__229">Bradley, John / Short, Harold (2005): “Texts into databases. The Evolving field of New-style Prosopography.“ in: LLC 20, suppl. 1: 3-24.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:11pt" xml:space="preserve">Fokkens, A. / ter Braake, S. </hi>
-<hi style="font-size:11pt">(2018): Connecting People Across Borders: a Repository for Biographical Data Models, in: Proceedings of the Second Conference on Biographical Data in a Digital World 2017. Linz, Austria, November 6-7, 2017. CEUR Workshop Proceedings: 83–92.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__5169">Fokkens, A. / ter Braake, S. (2018): Connecting People Across Borders: a Repository for Biographical Data Models, in: Proceedings of the Second Conference on Biographical Data in a Digital World 2017. Linz, Austria, November 6-7, 2017. CEUR Workshop Proceedings: 83–92.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:11pt">Stone, Lawrence</hi> (1971): "Prosopography." in: 
-<hi rend="italic" style="font-size:11pt">Daedalus</hi>
-<hi style="font-size:11pt" xml:space="preserve"> 100: 46–79.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__5170">Stone, Lawrence (1971): "Prosopography." in: Daedalus 100: 46–79.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:11pt">Schlögl, Matthias / Katalin Lejtovicz</hi>
-<hi style="font-size:11pt" xml:space="preserve">. (2018). “A Prosopographical Information System (APIS).“ In: Antske Fokkens, ter Braake, Serge, Sluijter, Ronald, Arthur, Paul, and Wandl-Vogt, Eveline (eds.). </hi>
-<hi rend="italic" style="font-size:11pt">BD-2017. Biographical Data in a Digital World 2017. Proceedings of the Second Conference on Biographical Data in a Digital World 2017</hi>
-<hi style="font-size:11pt">. Linz, Austria, November 6-7, 2017. Budapest: CEUR (CEUR Workshop Proceedings 2119): 53-58.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__230">Schlögl, Matthias / Katalin Lejtovicz . (2018). “A Prosopographical Information System (APIS).“ In: Antske Fokkens, ter Braake, Serge, Sluijter, Ronald, Arthur, Paul, and Wandl-Vogt, Eveline (eds.). BD-2017. Biographical Data in a Digital World 2017. Proceedings of the Second Conference on Biographical Data in a Digital World 2017 . Linz, Austria, November 6-7, 2017. Budapest: CEUR (CEUR Workshop Proceedings 2119): 53-58.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:11pt" xml:space="preserve">Tuominen, Jouni / Hyvönen, Eero / Leskinen, Petri </hi>
-<hi style="font-size:11pt" xml:space="preserve">(2018): “Bio CRM. A Data Model for Representing Biographical Data for Prosopographical Research.” In: </hi>
-<hi rend="italic" style="font-size:11pt">BD-2017. Biographical Data in a Digital World 2017</hi>
-<hi style="font-size:11pt">, ed. by Antske Fokkens, Serge ter Braake, Ronald Sluijter, Paul Arthur, Eveline Wandl-Vogt, Budapest: CEUR (CEUR Workshop Proceedings 2119): 59-66.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__231">Tuominen, Jouni / Hyvönen, Eero / Leskinen, Petri (2018): “Bio CRM. A Data Model for Representing Biographical Data for Prosopographical Research.” In: BD-2017. Biographical Data in a Digital World 2017 , ed. by Antske Fokkens, Serge ter Braake, Ronald Sluijter, Paul Arthur, Eveline Wandl-Vogt, Budapest: CEUR (CEUR Workshop Proceedings 2119): 59-66.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:11pt" xml:space="preserve">Vogeler, Georg / Vasold, Gunter / Schlögl, Matthias </hi>
-<hi style="font-size:11pt">(2020 forthcoming): Data exchange in practice: Towards a prosopographical API. In: BD2019, Workshop on Biographical Data in Occasion of the RANLP 2019, Varna, ed. by Antske Fokkens et al.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__5171">Vogeler, Georg / Vasold, Gunter / Schlögl, Matthias (2020 forthcoming): Data exchange in practice: Towards a prosopographical API. In: BD2019, Workshop on Biographical Data in Occasion of the RANLP 2019, Varna, ed. by Antske Fokkens et al.</rs></bibl>
 </listBibl>
 </div>
 </back>

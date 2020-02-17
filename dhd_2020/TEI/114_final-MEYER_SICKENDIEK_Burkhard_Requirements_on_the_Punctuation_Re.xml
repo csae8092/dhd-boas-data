@@ -169,38 +169,27 @@ by the German poet Nicolai Kobus [6] (Text A):</p>
 <listBibl>
 <head>Bibliography</head>
 <bibl>
-  <hi rend="bold">[1] Baker, M.</hi> (1994): In Other Words: A Course Book on Translation. London, New York: Routledge. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4827">[1] Baker, M. (1994): In Other Words: A Course Book on Translation. London, New York: Routledge.</rs></bibl>
 <bibl>
-  <hi rend="bold">[2] Halliday, M. A. K.</hi> (1985): An Introduction to Functional Grammar. London: Edward Arnold. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4828">[2] Halliday, M. A. K. (1985): An Introduction to Functional Grammar. London: Edward Arnold.</rs></bibl>
 <bibl>
-  <hi rend="bold">[3] Han, S.</hi>: Free Google Translate API for Python. Available on https://pypi.org/project/googletrans/. Last accessed at 15. August 2019.
-</bibl>
+  <rs type="bibl" ref="#bibl__4829">[3] Han, S.: Free Google Translate API for Python. Available on https://pypi.org/project/googletrans/. Last accessed at 15. August 2019.</rs></bibl>
 <bibl>
-  <hi rend="bold">[4] Hosseini-Maasoum, S. M. / Mahdiyan, M.</hi> (2012): Punctuation in Translation: The Unseen Side of the Coin. Mediterranean journal of social sciences, 3(11):25–32. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4830">[4] Hosseini-Maasoum, S. M. / Mahdiyan, M. (2012): Punctuation in Translation: The Unseen Side of the Coin. Mediterranean journal of social sciences, 3(11):25–32.</rs></bibl>
 <bibl>
-  <hi rend="bold">[5] Kirkman, J.</hi> (2006): Punctuation Matters: Advice on Punctuation for Scientific and Technical Writing. Routledge study guides. Routledge. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4831">[5] Kirkman, J. (2006): Punctuation Matters: Advice on Punctuation for Scientific and Technical Writing. Routledge study guides. Routledge.</rs></bibl>
 <bibl>
-  <hi rend="bold">[6] Kobus, N.</hi> (2006): Hard cover: Gedichte. Ardey Verlag, Münster. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4832">[6] Kobus, N. (2006): Hard cover: Gedichte. Ardey Verlag, Münster.</rs></bibl>
 <bibl>
-  <hi rend="bold">[7] Lyrikline Literaturwerkstatt Berlin</hi>: Lyrikline: listen to the poet. Available on www.lyrikline.org. Last accessed at 03. September 2019.
-</bibl>
+  <rs type="bibl" ref="#bibl__4833">[7] Lyrikline Literaturwerkstatt Berlin: Lyrikline: listen to the poet. Available on www.lyrikline.org. Last accessed at 03. September 2019.</rs></bibl>
 <bibl>
-  <hi rend="bold">[8] Newmark, P.</hi> (1988): A Textbook of Translation. Prentice Hall. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4834">[8] Newmark, P. (1988): A Textbook of Translation. Prentice Hall.</rs></bibl>
 <bibl>
-  <hi rend="bold">[9] Papineni, K. / Roukos, S. / Ward, T. / Zhu, W-J</hi> (2002): BLEU: A Method for Automatic Evaluation of Machine Translation. In Proceedings of the 40th Annual Meeting on Association for Computational Linguistics, ACL ’02, pages 311–318, Stroudsburg, PA, USA. Association for Computational Linguistics. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4835">[9] Papineni, K. / Roukos, S. / Ward, T. / Zhu, W-J (2002): BLEU: A Method for Automatic Evaluation of Machine Translation. In Proceedings of the 40th Annual Meeting on Association for Computational Linguistics, ACL ’02, pages 311–318, Stroudsburg, PA, USA. Association for Computational Linguistics.</rs></bibl>
 <bibl>
-  <hi rend="bold">[10] Shiyab, S. M.</hi> (2017): Translation: Concepts and Critical Issues. Garant Publishers. 
-</bibl>
+  <rs type="bibl" ref="#bibl__4836">[10] Shiyab, S. M. (2017): Translation: Concepts and Critical Issues. Garant Publishers.</rs></bibl>
 <bibl>
-  <hi rend="bold">[11] Wesling, D.</hi> (1996): The Scissors of Meter: Grammetrics and Reading. University of Michigan Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__4837">[11] Wesling, D. (1996): The Scissors of Meter: Grammetrics and Reading. University of Michigan Press.</rs></bibl>
 </listBibl>
 </div>
 </back>

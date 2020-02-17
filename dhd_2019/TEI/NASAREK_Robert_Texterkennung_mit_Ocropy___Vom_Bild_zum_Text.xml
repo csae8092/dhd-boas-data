@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Texterkennung mit Ocropy – Vom Bild zum Text</title><title type="conf_year">2019</title><author ref="#person__robert-nasarek-geschichte-uni-halle-de">
+                <title>Texterkennung mit Ocropy – Vom Bild zum Text</title><title type="conf_year">2019</title>
+                <author ref="#person__robert-nasarek-geschichte-uni-halle-de">
                     <persName>
                         <surname>Nasarek</surname>
                         <forename>Robert</forename>
@@ -147,25 +148,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">ImageMagick (2018): Convert, Edit, Or Compose Bitmap Images @ ImageMagick, URL: 
-                        <rs type="bibl" ref="#bibl__3401">ImageMagick (2018): Convert, Edit, Or Compose Bitmap Images @ ImageMagick, URL: https://www.imagemagick.org/, zuletzt besucht am 14.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1244">ImageMagick (2018): Convert, Edit, Or Compose Bitmap Images @ ImageMagick, URL: https://www.imagemagick.org/, zuletzt besucht am 14.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">MDZ (2018): Münchner DigitalisierungsZentrum, Bayerische Staatsbibliothek, München, URL: 
-                        <rs type="bibl" ref="#bibl__3402">MDZ (2018): Münchner DigitalisierungsZentrum, Bayerische Staatsbibliothek, München, URL: https://www.digitale-sammlungen.de/, zuletzt besucht am 12.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1245">MDZ (2018): Münchner DigitalisierungsZentrum, Bayerische Staatsbibliothek, München, URL: https://www.digitale-sammlungen.de/, zuletzt besucht am 12.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">ocropy (2018): Python-based tools for document analysis and OCR, URL: 
-                        <rs type="bibl" ref="#bibl__3403">ocropy (2018): Python-based tools for document analysis and OCR, URL: https://github.com/tmbdev/ocropy, zuletzt besucht am 14.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1246">ocropy (2018): Python-based tools for document analysis and OCR, URL: https://github.com/tmbdev/ocropy, zuletzt besucht am 14.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">ScanTailor (2018): ScanTailor, 
-                        <rs type="bibl" ref="#bibl__3404">ScanTailor (2018): ScanTailor, http://scantailor.org/, zuletzt besucht am 14.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1247">ScanTailor (2018): ScanTailor, http://scantailor.org/, zuletzt besucht am 14.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">Springman, Uwe (2015): Ocrosis. A high accuracy OCR method to convert early printings into digital text, Center for Information and Language Processing (CIS), Ludwig-Maximilians-University, Munich, URL: 
-                        <rs type="bibl" ref="#bibl__3405">Springman, Uwe (2015): Ocrosis. A high accuracy OCR method to convert early printings into digital text, Center for Information and Language Processing (CIS), Ludwig-Maximilians-University, Munich, URL: http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm zuletzt besucht am 14.10.2018.</rs></bibl>
-                    <bibl style="text-align:left; ">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, zuletzt besucht am 10.10.2018.<rs type="bibl" ref="#bibl__3406">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, zuletzt besucht am 10.10.2018.</rs></bibl>
-                    <bibl style="text-align:left; ">Vanderkam, Dan (2015): Extracting text from an image using Ocropus, URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, zuletzt besucht am 10.10.2018.<rs type="bibl" ref="#bibl__3407">Vanderkam, Dan (2015): Extracting text from an image using Ocropus, URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, zuletzt besucht am 10.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1248">Springman, Uwe (2015): Ocrosis. A high accuracy OCR method to convert early printings into digital text, Center for Information and Language Processing (CIS), Ludwig-Maximilians-University, Munich, URL: http://cistern.cis.lmu.de/ocrocis/tutorial.pdfm zuletzt besucht am 14.10.2018.</rs></bibl>
+                    <bibl style="text-align:left; ">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, zuletzt besucht am 10.10.2018.<rs type="bibl" ref="#bibl__1249">statista, Marktanteile der führenden Betriebssysteme in Deutschland von Januar 2009 bis Juli 2018, URL: https://de.statista.com/statistik/daten/studie/158102/umfrage/marktanteile-von-betriebssystemen-in-deutschland-seit-2009/, zuletzt besucht am 10.10.2018.</rs></bibl>
+                    <bibl style="text-align:left; ">Vanderkam, Dan (2015): Extracting text from an image using Ocropus, URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, zuletzt besucht am 10.10.2018.<rs type="bibl" ref="#bibl__1250">Vanderkam, Dan (2015): Extracting text from an image using Ocropus, URL: http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html, zuletzt besucht am 10.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">VD (2018): Digitale Sammlungen des 16. bis 19. Jahrhunderts, Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle (Saale), URL: 
-                        <rs type="bibl" ref="#bibl__3408">VD (2018): Digitale Sammlungen des 16. bis 19. Jahrhunderts, Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle (Saale), URL: http://digitale.bibliothek.uni-halle.de/, zuletzt besucht am 14.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1251">VD (2018): Digitale Sammlungen des 16. bis 19. Jahrhunderts, Universitäts- und Landesbibliothek Sachsen-Anhalt, Halle (Saale), URL: http://digitale.bibliothek.uni-halle.de/, zuletzt besucht am 14.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">VirtualBox (2018): Oracle VM VirtualBox, URL: 
-                        <rs type="bibl" ref="#bibl__3409">VirtualBox (2018): Oracle VM VirtualBox, URL: https://www.virtualbox.org/, zuletzt besucht am 14.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1252">VirtualBox (2018): Oracle VM VirtualBox, URL: https://www.virtualbox.org/, zuletzt besucht am 14.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">Ubuntu (2018): The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu, URL: 
-                        <rs type="bibl" ref="#bibl__3410">Ubuntu (2018): The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu, URL: https://www.ubuntu.com/, zuletzt besucht am 14.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1253">Ubuntu (2018): The leading operating system for PCs, IoT devices, servers and the cloud | Ubuntu, URL: https://www.ubuntu.com/, zuletzt besucht am 14.10.2018.</rs></bibl>
                     <bibl style="text-align:left; ">ZVDD (2018): Zentrales Verzeichnis Digitalisierter Drucke, Georg August Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Göttingen, URL: 
-                        <rs type="bibl" ref="#bibl__3411">ZVDD (2018): Zentrales Verzeichnis Digitalisierter Drucke, Georg August Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Göttingen, URL: http://www.zvdd.de/, zuletzt besucht am 12.10.2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1254">ZVDD (2018): Zentrales Verzeichnis Digitalisierter Drucke, Georg August Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen, Göttingen, URL: http://www.zvdd.de/, zuletzt besucht am 12.10.2018.</rs></bibl>
                 </listBibl>
             </div>
         </back>

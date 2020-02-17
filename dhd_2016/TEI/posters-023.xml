@@ -111,10 +111,10 @@
             <div type="bibliogr">
               <listBibl>
                 <head>Bibliograpie</head>
-                <bibl><rs type="bibl" ref="#bibl__1908">Cardellino, Cristian (2014): Licentia. Licenses Visualizer http://licentia.inria.fr/visualize [letzter Zugriff 15. Februar 2016].</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__1909">ELRA License Wizard (2015): http://wizard.elda.org [letzter Zugriff 15. Februar 2016].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2182">Cardellino, Cristian (2014): Licentia. Licenses Visualizer http://licentia.inria.fr/visualize [letzter Zugriff 15. Februar 2016].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2183">ELRA License Wizard (2015): http://wizard.elda.org [letzter Zugriff 15. Februar 2016].</rs></bibl>
                 <bibl>
-                  <rs type="bibl" ref="#bibl__1910">Kamocki, Pawel / Stranak, Pavel / Sedlak, Michal (2014): License Selector http://ufal.github.io/lindat-license-selector/ [letzter Zugriff 15. Februar 2016].</rs></bibl>
+                  <rs type="bibl" ref="#bibl__2184">Kamocki, Pawel / Stranak, Pavel / Sedlak, Michal (2014): License Selector http://ufal.github.io/lindat-license-selector/ [letzter Zugriff 15. Februar 2016].</rs></bibl>
                   </listBibl>
                 </div>
               </back>

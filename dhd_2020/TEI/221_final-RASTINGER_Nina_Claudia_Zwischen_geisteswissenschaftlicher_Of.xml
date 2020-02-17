@@ -102,71 +102,37 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Anthony, Laurence</hi> (2019): 
-                        <hi rend="italic">AntConc (Version 3.5.8)</hi>. Tokyo: Waseda University https://www.laurenceanthony.net/software [letzter Zugriff 25. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5370">Anthony, Laurence (2019): AntConc (Version 3.5.8). Tokyo: Waseda University https://www.laurenceanthony.net/software [letzter Zugriff 25. September 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Berlin-Brandenburgische Akademie der Wissenschaften</hi> (eds.) (2019): 
-                        <hi rend="italic" xml:space="preserve">Deutsches Textarchiv. </hi>Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. http://www.deutschestextarchiv.de/ [letzter Zugriff 25. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5371">Berlin-Brandenburgische Akademie der Wissenschaften (eds.) (2019): Deutsches Textarchiv. Grundlage für ein Referenzkorpus der neuhochdeutschen Sprache. http://www.deutschestextarchiv.de/ [letzter Zugriff 25. September 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Beckson, Karl / Ganz, Arthur</hi> (1960): 
-                        <hi rend="italic">A Reader's Guide to Literary Terms</hi>. New York: The Noonday Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5372">Beckson, Karl / Ganz, Arthur (1960): A Reader's Guide to Literary Terms. New York: The Noonday Press.</rs></bibl>
 <bibl>
-<hi rend="bold">Best, Otto F.</hi> (2008): 
-                        <hi rend="italic" xml:space="preserve">Handbuch literarischer Fachbegriffe. </hi>Definitionen und Beispiele. Frankfurt am Main: Fischer.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5373">Best, Otto F. (2008): Handbuch literarischer Fachbegriffe. Definitionen und Beispiele. Frankfurt am Main: Fischer.</rs></bibl>
 <bibl>
-<anchor xml:id="Hlk20319381"/>
-<hi rend="bold">Ester, Hans / Mariacher, Barbara / Tax, Evelyne</hi> (eds.) (2017): 
-                        <hi rend="italic" xml:space="preserve">Abschied als literarisches Motiv in der deutschsprachigen Literatur. </hi>Festschrift zu Ehren des 75. Geburtstages von Jattie Enklaar. Würzburg: Königshausen &amp; Neumann.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5374">Ester, Hans / Mariacher, Barbara / Tax, Evelyne (eds.) (2017): Abschied als literarisches Motiv in der deutschsprachigen Literatur. Festschrift zu Ehren des 75. Geburtstages von Jattie Enklaar. Würzburg: Königshausen &amp; Neumann.</rs></bibl>
 <bibl>
-<hi rend="bold">Freedman, William</hi> (1971): „The Literary Motif: A Definition and Evaluation“, in: 
-                        <hi rend="italic" xml:space="preserve">NOVEL: A Forum on Fiction </hi>4 (2): 123–131.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5375">Freedman, William (1971): „The Literary Motif: A Definition and Evaluation“, in: NOVEL: A Forum on Fiction 4 (2): 123–131.</rs></bibl>
 <bibl>
-<hi rend="bold">Frenzel, Elisabeth</hi> (1978): 
-                        <hi rend="italic">Stoff-, Motiv- und Symbolforschung</hi>. 4., durchges. u. erg. Aufl. Stuttgart: Metzler.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5376">Frenzel, Elisabeth (1978): Stoff-, Motiv- und Symbolforschung. 4., durchges. u. erg. Aufl. Stuttgart: Metzler.</rs></bibl>
 <bibl>
-<anchor xml:id="Hlk20307338"/>
-<hi rend="bold">Garcia-Fernandez, Anne / Ligozat, Anne-Laure / Vilnat, Anne</hi> (2014): „Construction and Annotation of a French Folkstale Corpus“, in: 
-                        <hi rend="italic" xml:space="preserve">Proceedings of the Ninth International Conference on Language Resources and Evaluation </hi>2430–2435. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__5377">Garcia-Fernandez, Anne / Ligozat, Anne-Laure / Vilnat, Anne (2014): „Construction and Annotation of a French Folkstale Corpus“, in: Proceedings of the Ninth International Conference on Language Resources and Evaluation 2430–2435.</rs></bibl>
 <bibl>
-<hi rend="bold">Huijnen, Pim / Lonij, Juliette</hi> (2016). „From Keyword Search To Discourse Mining – The Meaning Of Scientific Management In Dutch Vocabulary, 1900-1940“, in: 
-                        <hi rend="italic">Digital Humanities 2016: Conference Abstracts</hi> 569–570. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__5378">Huijnen, Pim / Lonij, Juliette (2016). „From Keyword Search To Discourse Mining – The Meaning Of Scientific Management In Dutch Vocabulary, 1900-1940“, in: Digital Humanities 2016: Conference Abstracts 569–570.</rs></bibl>
 <bibl>
-<hi rend="bold">Karsdorp, Folgert / van Kranenburg, Peter / Meder, Theo / Trieschnigg, Dolf / van den Bosch, Antal</hi> (2012): 
-                        <hi rend="italic">In search of an appropriate abstraction level for motif annotations</hi>. http://dolf.trieschnigg.nl/papers/CMN.2012.karsdorp.pdf [letzter Zugriff 25. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5379">Karsdorp, Folgert / van Kranenburg, Peter / Meder, Theo / Trieschnigg, Dolf / van den Bosch, Antal (2012): In search of an appropriate abstraction level for motif annotations. http://dolf.trieschnigg.nl/papers/CMN.2012.karsdorp.pdf [letzter Zugriff 25. September 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Nölle, Volker</hi> (2017): 
-                        <hi rend="italic">Der heimliche Blick: Motiv und Modell – eine Matrix innovativer Perspektiven</hi>. Würzburg: Königshausen &amp; Neumann.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5380">Nölle, Volker (2017): Der heimliche Blick: Motiv und Modell – eine Matrix innovativer Perspektiven. Würzburg: Königshausen &amp; Neumann.</rs></bibl>
 <bibl>
-<hi rend="bold">Nünning, Ansgar</hi> (ed.) (2013): 
-                        <hi rend="italic">Metzler Lexikon Literatur- und Kulturtheorie. Ansätze – Personen – Grundbegriffe</hi>. Fünfte, aktualisierte und erweiterte Auflage. Stuttgart: J. B. Metzler.
-                    </bibl>
+<rs type="bibl" ref="#bibl__126">Nünning, Ansgar (ed.) (2013): Metzler Lexikon Literatur- und Kulturtheorie. Ansätze – Personen – Grundbegriffe. Fünfte, aktualisierte und erweiterte Auflage. Stuttgart: J. B. Metzler.</rs></bibl>
 <bibl>
-<hi rend="bold">Resch, Claudia / Czeitschner, Ulrike</hi> (eds.) (2015): 
-                        <hi rend="italic">ABaC:us – Austrian Baroque Corpus</hi>. http://acdh.oeaw.ac.at/abacus/ [letzter Zugriff 25. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5381">Resch, Claudia / Czeitschner, Ulrike (eds.) (2015): ABaC:us – Austrian Baroque Corpus. http://acdh.oeaw.ac.at/abacus/ [letzter Zugriff 25. September 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Sinclair, Stéfan / Rockwell, Geoffrey</hi> (2019): 
-                        <hi rend="italic">Voyant Tools (Version 2.4)</hi>. https://voyant-tools.org/ [letzter Zugriff 25. September 2019]. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__430">Sinclair, Stéfan / Rockwell, Geoffrey (2019): Voyant Tools (Version 2.4). https://voyant-tools.org/ [letzter Zugriff 25. September 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Springeth, Margarete</hi> (2005): „Auf der Suche nach Begriffen und Motiven. Die Mittelhochdeutsche Begriffsdatenbank (MHDBDB) an der Universität Salzburg“, in: Schubert, Martin J. (ed.): 
-                        <hi rend="italic">Deutsche Texte des Mittelalters zwischen Handschriftennähe und Rekonstruktion</hi> (= Beihefte zu Editio 23). Tübingen: Niemeyer 317–323.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5382">Springeth, Margarete (2005): „Auf der Suche nach Begriffen und Motiven. Die Mittelhochdeutsche Begriffsdatenbank (MHDBDB) an der Universität Salzburg“, in: Schubert, Martin J. (ed.): Deutsche Texte des Mittelalters zwischen Handschriftennähe und Rekonstruktion (= Beihefte zu Editio 23). Tübingen: Niemeyer 317–323.</rs></bibl>
 <bibl>
-<hi rend="bold">Von Wilpert, Gero</hi> (2013): 
-                        <hi rend="italic" xml:space="preserve">Sachwörterbuch der Literatur. </hi>Sonderausgabe der 8. verbesserten und erweiterten Auflage 2001. Stuttgart: Alfred Kröner.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5383">Von Wilpert, Gero (2013): Sachwörterbuch der Literatur. Sonderausgabe der 8. verbesserten und erweiterten Auflage 2001. Stuttgart: Alfred Kröner.</rs></bibl>
 </listBibl>
 </div>
 </back>

@@ -117,37 +117,21 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Althoff, Tim / Clark, Kevin / Leskovec, Jure</hi> (2016) "Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health". In: 
-                        <hi rend="italic">Transactions of the Association for Computational Linguistics</hi>, Vol. 4, S. 463–476.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4552">Althoff, Tim / Clark, Kevin / Leskovec, Jure (2016) "Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health". In: Transactions of the Association for Computational Linguistics, Vol. 4, S. 463–476.</rs></bibl>
 <bibl>
-<hi rend="bold">Blei, David M.</hi> (2012) "Probabilistic topic models". In: 
-                        <hi rend="italic">Communications of the ACM</hi>. ACM, 55(4), S. 77ff.
-                    </bibl>
+<rs type="bibl" ref="#bibl__104">Blei, David M. (2012) "Probabilistic topic models". In: Communications of the ACM. ACM, 55(4), S. 77ff.</rs></bibl>
 <bibl>
-<hi rend="bold">Devlin, Jacob / Chang, Ming-Wei / Lee, Kenton / Toutanova, Kristina</hi> (2018) 
-                        <hi rend="italic">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.</hi> Computing Research Repository (CoRR), arXiv:1810.04805
-                    </bibl>
+<rs type="bibl" ref="#bibl__4553">Devlin, Jacob / Chang, Ming-Wei / Lee, Kenton / Toutanova, Kristina (2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Computing Research Repository (CoRR), arXiv:1810.04805</rs></bibl>
 <bibl>
-<hi rend="bold">Döring, Nicola / Bortz, Jürgen</hi> (2016) 
-                        <hi rend="italic">Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften</hi>. Berlin, Heidelberg: Springer.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4554">Döring, Nicola / Bortz, Jürgen (2016) Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften. Berlin, Heidelberg: Springer.</rs></bibl>
 <bibl>
-<hi rend="bold">Groeben, Norbert</hi> (1982) 
-                        <hi rend="italic">Leserpsychologie: Textverständnis - Textverständlichkeit.</hi> Münster: Aschendorff.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4555">Groeben, Norbert (1982) Leserpsychologie: Textverständnis - Textverständlichkeit. Münster: Aschendorff.</rs></bibl>
 <bibl>
-<hi rend="bold">Mayring, Philipp</hi> (2015) 
-                        <hi rend="italic">Qualitative Inhaltsanalyse</hi>. Weinheim: Beltz
-                    </bibl>
+<rs type="bibl" ref="#bibl__361">Mayring, Philipp (2015) Qualitative Inhaltsanalyse. Weinheim: Beltz</rs></bibl>
 <bibl>
-<hi rend="bold">Mikolov, Tomas / Sutskever, Ilya / Chen, Kai / Corrado, Greg / Dean, Jeffrey</hi> (2013) "Distributed Representations of Words and Phrases and Their Compositionality". In: 
-                        <hi rend="italic">Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2</hi>. USA: Curran Associates Inc. (NIPS’13), S. 3111–3119. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__30">Mikolov, Tomas / Sutskever, Ilya / Chen, Kai / Corrado, Greg / Dean, Jeffrey (2013) "Distributed Representations of Words and Phrases and Their Compositionality". In: Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2. USA: Curran Associates Inc. (NIPS’13), S. 3111–3119.</rs></bibl>
 <bibl>
-<hi rend="bold">Wälte, Dieter / Borg-Laufs, Michael</hi> (Hrsg.) 
-                        <hi rend="italic">Psychosoziale Beratung – Grundlagen, Diagnostik, Intervention. Stuttgart: Kohlhammer</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4556">Wälte, Dieter / Borg-Laufs, Michael (Hrsg.) Psychosoziale Beratung – Grundlagen, Diagnostik, Intervention. Stuttgart: Kohlhammer.</rs></bibl>
 </listBibl>
 </div>
 </back>

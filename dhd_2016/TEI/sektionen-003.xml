@@ -217,9 +217,9 @@
                 <div type="bibliogr">
                   <head>Bibliographie</head>
                   <listBibl>
-                    <bibl><rs type="bibl" ref="#bibl__2133">Dijkshoorn, Chris / Ter Weele, Wesley / Jongma, Lizzy / Aroyo, Lora (2014): "The Rijksmuseum Collection as Linked Data", in: Semantic Web Journal http://www.semantic-web-journal.net/content/rijksmuseum-collection-linked-data. [letzter Zugriff 05. Februar 2016].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__2407">Dijkshoorn, Chris / Ter Weele, Wesley / Jongma, Lizzy / Aroyo, Lora (2014): "The Rijksmuseum Collection as Linked Data", in: Semantic Web Journal http://www.semantic-web-journal.net/content/rijksmuseum-collection-linked-data. [letzter Zugriff 05. Februar 2016].</rs></bibl>
                       <bibl>
-                        <rs type="bibl" ref="#bibl__23">Kohle, Hubertus (2013): Digitale Bildwissenschaft. Glückstadt: Verlag Werner Hülsbusch.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__166">Kohle, Hubertus (2013): Digitale Bildwissenschaft. Glückstadt: Verlag Werner Hülsbusch.</rs></bibl>
                       </listBibl>
                     </div>
                   </body>

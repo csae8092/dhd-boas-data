@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gutenberg Biographics - der Mainzer Professorenkatalog</title><title type="conf_year">2019</title><author ref="#person__dgerhard-students-uni-mainz-de">
+                <title>Gutenberg Biographics - der Mainzer Professorenkatalog</title><title type="conf_year">2019</title>
+                <author ref="#person__dgerhard-students-uni-mainz-de">
                     <persName>
                         <surname>Gerhards</surname>
                         <forename>Donata</forename>
@@ -178,17 +179,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3656">Auge, Oliver / Piotrowski, Swantje (2013): „Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte“ in: Jahrbuch für Universitätsgeschichte 16: 143-339.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1500">Auge, Oliver / Piotrowski, Swantje (2013): „Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte“ in: Jahrbuch für Universitätsgeschichte 16: 143-339.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3657">Eckert, Karin / George, Christian / Hüther, Frank (2017): „Gutenberg Biographics: Eine biographische Online-Datenbank zur Mainzer Universitätsgeschichte“, in: ABI Technik – Zeitschrift für Automation, Bau und Technik im Archiv-, Bibliotheks- und Informationswesen 37, 3: 171-178 https://doi.org/10.1515/abitech-2017-0041 [letzter Zugriff 08. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1501">Eckert, Karin / George, Christian / Hüther, Frank (2017): „Gutenberg Biographics: Eine biographische Online-Datenbank zur Mainzer Universitätsgeschichte“, in: ABI Technik – Zeitschrift für Automation, Bau und Technik im Archiv-, Bibliotheks- und Informationswesen 37, 3: 171-178 https://doi.org/10.1515/abitech-2017-0041 [letzter Zugriff 08. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3658">Göllnitz, Martin (2013): „Das ‚Kieler Gelehrtenverzeichnis‘ in der Praxis: Karrieren von Hochschullehrern im Dritten Reich zwischen Parteizugehörigkeit und Wissenschaft“, in: Auge, Oliver / Piotrowski, Swantje (eds.): Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte. Jahrbuch für Universitätsgeschichte 16. Stuttgart: Franz Steiner Verlag 291-312.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1502">Göllnitz, Martin (2013): „Das ‚Kieler Gelehrtenverzeichnis‘ in der Praxis: Karrieren von Hochschullehrern im Dritten Reich zwischen Parteizugehörigkeit und Wissenschaft“, in: Auge, Oliver / Piotrowski, Swantje (eds.): Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte. Jahrbuch für Universitätsgeschichte 16. Stuttgart: Franz Steiner Verlag 291-312.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3659">Pfeiffer, Barbara (2013): „Über Zweck und Nutzen der Gemeinsamen Normdatei“, in: Auge, Oliver / Piotrowski, Swantje (eds.): Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte. Jahrbuch für Universitätsgeschichte 16. Stuttgart: Franz Steiner Verlag 251-259.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1503">Pfeiffer, Barbara (2013): „Über Zweck und Nutzen der Gemeinsamen Normdatei“, in: Auge, Oliver / Piotrowski, Swantje (eds.): Professorenkataloge 2.0 – Ansätze und Perspektiven webbasierter Forschung in der gegenwärtigen Universitäts- und Wissenschaftsgeschichte. Jahrbuch für Universitätsgeschichte 16. Stuttgart: Franz Steiner Verlag 251-259.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3660">Schrade, Torsten (2016): Deutsche Professorenkataloge. Perspektiven, Möglichkeiten, Potentiale zur Interoperabilität https://digicademy.github.io/presentation-catalogus-professorum/#/step-1 [letzter Zugriff 08. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1504">Schrade, Torsten (2016): Deutsche Professorenkataloge. Perspektiven, Möglichkeiten, Potentiale zur Interoperabilität https://digicademy.github.io/presentation-catalogus-professorum/#/step-1 [letzter Zugriff 08. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3661">Schrade, Torsten (2017): Sammlungs- und Editionsportale mit dem Cultural Heritage Framework der Digitalen Akademie. Ein Werkstattbericht. https://digicademy.github.io/2017-editionsportale-jena/#/step-1 [letzter Zugriff 08. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1505">Schrade, Torsten (2017): Sammlungs- und Editionsportale mit dem Cultural Heritage Framework der Digitalen Akademie. Ein Werkstattbericht. https://digicademy.github.io/2017-editionsportale-jena/#/step-1 [letzter Zugriff 08. Januar 2019].</rs></bibl>
                 </listBibl>
             </div>
         </back>

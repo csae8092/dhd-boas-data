@@ -229,73 +229,39 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Abdallah, Samer / Benetos, Emmanouil / Gold, Nicolas / Hargreaves, Steven / Weyde, Tillman / Wolff, Daniel</hi> (2017): “The Digital Music Lab: A Big Data Infrastructure for Digital Musicology”, in: 
-                        <hi rend="italic">Journal on Computing and Cultural Heritage (JOCCH)</hi> 10(1).
-                    </bibl>
+<rs type="bibl" ref="#bibl__5285">Abdallah, Samer / Benetos, Emmanouil / Gold, Nicolas / Hargreaves, Steven / Weyde, Tillman / Wolff, Daniel (2017): “The Digital Music Lab: A Big Data Infrastructure for Digital Musicology”, in: Journal on Computing and Cultural Heritage (JOCCH) 10(1).</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Burghardt, Manuel</hi> (2018): “Digital Humanities in
-Der Musikwissenschaft – Computergestützte Erschließungsstrategien Und Analyseansätze Für Handschriftliche Liedblätter” in: 
-                        <hi rend="italic">Bibliothek Forschung Und Praxis</hi> 42(2): 324–32.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5286">Burghardt, Manuel (2018): “Digital Humanities in Der Musikwissenschaft – Computergestützte Erschließungsstrategien Und Analyseansätze Für Handschriftliche Liedblätter” in: Bibliothek Forschung Und Praxis 42(2): 324–32.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Burghardt, Manuel / Lamm, Lukas</hi> (2017): “Entwicklung Eines Music Information Retrieval-Tools Zur Melodic Similarity-Analyse Deutschsprachiger Volkslieder” in: Eibl, Maximilian / Gaedke Martin (eds.): 
-                        <hi rend="italic">INFORMATIK 2017</hi>. Bonn: Gesellschaft für Informatik 87–99.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5287">Burghardt, Manuel / Lamm, Lukas (2017): “Entwicklung Eines Music Information Retrieval-Tools Zur Melodic Similarity-Analyse Deutschsprachiger Volkslieder” in: Eibl, Maximilian / Gaedke Martin (eds.): INFORMATIK 2017. Bonn: Gesellschaft für Informatik 87–99.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Burghardt, Manuel / Wolff, Christian</hi> (2014): “Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik” in: 
-                        <hi rend="italic">DHd Workshop: Informatik und die Digital Humanities.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__76">Burghardt, Manuel / Wolff, Christian (2014): “Humanist-Computer Interaction: Herausforderungen für die Digital Humanities aus Perspektive der Medieninformatik” in: DHd Workshop: Informatik und die Digital Humanities.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Burghardt, Manuel / Lamm, Lukas / Lechler, David / Schneider, Matthias / Semmelmann, Tobias</hi> (2015): "MusicXML Analyzer. Ein Analysewerkzeug für die computergestützte Identifikation von Melodie-Patterns" in: 
-                        <hi rend="italic">Hildesheimer Evaluierungs- und Retrievalworkshop</hi> 2015: 29-42.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5288">Burghardt, Manuel / Lamm, Lukas / Lechler, David / Schneider, Matthias / Semmelmann, Tobias (2015): "MusicXML Analyzer. Ein Analysewerkzeug für die computergestützte Identifikation von Melodie-Patterns" in: Hildesheimer Evaluierungs- und Retrievalworkshop 2015: 29-42.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Condit-Schultz, Nathaniel / Ju, Yaolong / Fujinaga, Ichiro</hi> (2018): “A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Prætorius” in: 
-                        <hi rend="italic">19th International Society for Music Information Retrieval Conference</hi> 66–73.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5289">Condit-Schultz, Nathaniel / Ju, Yaolong / Fujinaga, Ichiro (2018): “A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Prætorius” in: 19th International Society for Music Information Retrieval Conference 66–73.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Cook, Nicholas</hi> (2013): 
-                        <hi rend="italic">Beyond the score: Music as performance.</hi> Oxford University Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5290">Cook, Nicholas (2013): Beyond the score: Music as performance. Oxford University Press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Cuthbert, Michael Scott / Christopher, Ariza</hi> (2010): “Music21: A Toolkit for Computer-Aided Musicology and Symbolic Music Data” in: 
-                        <hi rend="italic">11th International Society for Music Information Retrieval Conference (ISMIR 2010)</hi> 637–642.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5291">Cuthbert, Michael Scott / Christopher, Ariza (2010): “Music21: A Toolkit for Computer-Aided Musicology and Symbolic Music Data” in: 11th International Society for Music Information Retrieval Conference (ISMIR 2010) 637–642.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Frieler, Klaus / Hoger, Frank / Pfleiderer, Martin / Dixon, Simon</hi> (2018): “Two Web Applications for Exploring Melodic Patterns in Jazz Solos” in: 
-                        <hi rend="italic">19th International Society for Music Information Retrieval Conference</hi> 777–83.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5292">Frieler, Klaus / Hoger, Frank / Pfleiderer, Martin / Dixon, Simon (2018): “Two Web Applications for Exploring Melodic Patterns in Jazz Solos” in: 19th International Society for Music Information Retrieval Conference 777–83.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Hudson, Richard</hi> (1973): “The Folia Melodies” in: Acta Musicologica 45 (1): 98–119.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5293">Hudson, Richard (1973): “The Folia Melodies” in: Acta Musicologica 45 (1): 98–119.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Huron, David</hi> (1994): 
-                        <hi rend="italic">UNIX Tools for Music Research: The Humdrum Toolkit</hi>. Reference manual http://www.humdrum.org/Humdrum/manual07.html [letzter Zugriff 21. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5294">Huron, David (1994): UNIX Tools for Music Research: The Humdrum Toolkit. Reference manual http://www.humdrum.org/Humdrum/manual07.html [letzter Zugriff 21. September 2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Huron, David.</hi> (2002): “Music Information Processing Using the Humdrum Toolkit: Concepts, Examples, and Lessons” in: 
-                        <hi rend="italic">Computer Music Journal</hi> 26 (2): 11–26. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__5295">Huron, David. (2002): “Music Information Processing Using the Humdrum Toolkit: Concepts, Examples, and Lessons” in: Computer Music Journal 26 (2): 11–26.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kornstädt, Andreas</hi> (1996): “SCORE-to-Humdrum: A Graphical Environment for Musicological Analysis” in: 
-                        <hi rend="italic">Computing in Musicology</hi> 10: 105–22.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5296">Kornstädt, Andreas (1996): “SCORE-to-Humdrum: A Graphical Environment for Musicological Analysis” in: Computing in Musicology 10: 105–22.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Moretti, Franco</hi> (2002): “Conjectures on World Literature” in: 
-                        <hi rend="italic">New Left Review</hi> Jan / Feb: 54–68.
-                    </bibl>
+<rs type="bibl" ref="#bibl__313">Moretti, Franco (2002): “Conjectures on World Literature” in: New Left Review Jan / Feb: 54–68.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Nettheim, Nigel</hi> (1997): “A Bibliography of Statistical Applications in Musicology” in: 
-                        <hi rend="italic">Musicology Australia</hi> 20(1): 94–106.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5297">Nettheim, Nigel (1997): “A Bibliography of Statistical Applications in Musicology” in: Musicology Australia 20(1): 94–106.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Taylor, Michael</hi> (1996): 
-                        <hi rend="italic">Humdrum Graphical User Interface</hi>. Belfast, Queen’s University.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5298">Taylor, Michael (1996): Humdrum Graphical User Interface. Belfast, Queen’s University.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Vredenburg, Karel / Mao, Ji-Ye / Smith, Paul W. / Carey, Tom</hi> (2002): “A Survey of User-Centered Design Practice” in: 
-                        <hi rend="italic">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</hi> 471–478.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5299">Vredenburg, Karel / Mao, Ji-Ye / Smith, Paul W. / Carey, Tom (2002): “A Survey of User-Centered Design Practice” in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems 471–478.</rs></bibl>
 </listBibl>
 </div>
 </back>

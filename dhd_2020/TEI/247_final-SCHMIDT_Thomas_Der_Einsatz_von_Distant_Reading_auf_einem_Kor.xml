@@ -224,97 +224,51 @@ Musikern
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Blei, David M. / Andrew, Y. Ng / Michael, I. Jordan</hi> (2003): "Latent dirichlet allocation", in 
-                        <hi rend="italic">Journal of machine Learning research</hi> 3: 993-1022.
-                    </bibl>
+<rs type="bibl" ref="#bibl__103">Blei, David M. / Andrew, Y. Ng / Michael, I. Jordan (2003): "Latent dirichlet allocation", in Journal of machine Learning research 3: 993-1022.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Cole, Richard R.</hi> (1971): "Top songs in the sixties: A content analysis of popular lyrics", in: 
-                        <hi rend="italic">American Behavioral Scientist</hi> 14 (3): 389-400.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4712">Cole, Richard R. (1971): "Top songs in the sixties: A content analysis of popular lyrics", in: American Behavioral Scientist 14 (3): 389-400.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">De Sousa, Jefferson Martins / Eanes Torres, Pereira / Luciana Ribeiro, Veloso</hi> (2016): "A robust music genre classification approach for global and regional music datasets evaluation", in:
-                        <hi rend="italic" xml:space="preserve"> IEEE International Conference on Digital Signal Processing (DSP).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4713">De Sousa, Jefferson Martins / Eanes Torres, Pereira / Luciana Ribeiro, Veloso (2016): "A robust music genre classification approach for global and regional music datasets evaluation", in: IEEE International Conference on Digital Signal Processing (DSP).</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Fell, Michael / Caroline Sporleder</hi> (2014): "Lyrics-based analysis and classification of music", in: 
-                        <hi rend="italic">Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4714">Fell, Michael / Caroline Sporleder (2014): "Lyrics-based analysis and classification of music", in: Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Hess-Lüttich, Ernest WB.</hi> (2009): "Rap-Rhetorik. Eine semiolinguistische Analyse schweizerischer rap-lyrics", in: 
-                        <hi rend="italic">Ars Semeiotica 32.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4715">Hess-Lüttich, Ernest WB. (2009): "Rap-Rhetorik. Eine semiolinguistische Analyse schweizerischer rap-lyrics", in: Ars Semeiotica 32.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Körner, Stefan</hi> (2012): "Bob, Pop, Bibel-die Spuren der Bibel in den Songtexten Bob Dylans." 
-                        <hi rend="italic">Pastoraltheologie</hi> 101 (12): 503-521.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4716">Körner, Stefan (2012): "Bob, Pop, Bibel-die Spuren der Bibel in den Songtexten Bob Dylans." Pastoraltheologie 101 (12): 503-521.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kreyer, Rolf / Joybrato Mukherjee</hi> (2007): "The style of pop song lyrics: A corpus-linguistic pilot study." in: 
-                        <hi rend="italic">Anglia-Zeitschrift für englische Philologie</hi> 125 (1): 31-58.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4717">Kreyer, Rolf / Joybrato Mukherjee (2007): "The style of pop song lyrics: A corpus-linguistic pilot study." in: Anglia-Zeitschrift für englische Philologie 125 (1): 31-58.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kuhn, Elisabeth D.</hi> (1999): "‘I just want to make love to you’–Seductive strategies in blues lyrics", in: 
-                        <hi rend="italic">Journal of pragmatics</hi> 31 (4): 525-534.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4718">Kuhn, Elisabeth D. (1999): "‘I just want to make love to you’–Seductive strategies in blues lyrics", in: Journal of pragmatics 31 (4): 525-534.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Liu, Bing</hi> (2016): 
-                        <hi rend="italic">Sentiment analysis: Mining opinions, sentiments, and emotions.</hi> New York: Cambridge University Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__368">Liu, Bing (2016): Sentiment analysis: Mining opinions, sentiments, and emotions. New York: Cambridge University Press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Mohammad, Saif</hi> (2011): "From once upon a time to happily ever after: Tracking emotions in novels and fairy tales.", in: 
-                        <hi rend="italic">Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</hi> 105-114.
-                    </bibl>
+<rs type="bibl" ref="#bibl__348">Mohammad, Saif (2011): "From once upon a time to happily ever after: Tracking emotions in novels and fairy tales.", in: Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities 105-114.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Moretti, Franco</hi> (2002): “Conjectures on World Literature” in: 
-                        <hi rend="italic">New Left Review</hi> Jan / Feb: 54–68.
-                    </bibl>
+<rs type="bibl" ref="#bibl__313">Moretti, Franco (2002): “Conjectures on World Literature” in: New Left Review Jan / Feb: 54–68.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Napier, Kathleen / Lior, Shamir</hi> (2018): "Quantitative Sentiment Analysis of Lyrics in Popular Music", in: 
-                        <hi rend="italic">Journal of Popular Music Studies</hi> 30 (4): 161-176.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4719">Napier, Kathleen / Lior, Shamir (2018): "Quantitative Sentiment Analysis of Lyrics in Popular Music", in: Journal of Popular Music Studies 30 (4): 161-176.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Nalisnick, Eric T. / Baird, Henry S.</hi> (2013): "Character-to-character sentiment analysis in shakespeare’s plays.“, in
-                        <hi rend="italic">: Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics</hi> 479–483.
-                    </bibl>
+<rs type="bibl" ref="#bibl__369">Nalisnick, Eric T. / Baird, Henry S. (2013): "Character-to-character sentiment analysis in shakespeare’s plays.“, in : Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics 479–483.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Nishina, Yasunori</hi> (2017): "A study of pop songs based on the billboard corpus." in: 
-                        <hi rend="italic">Int. J. Lang. Linguist</hi> 4 (2): 125-134.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4720">Nishina, Yasunori (2017): "A study of pop songs based on the billboard corpus." in: Int. J. Lang. Linguist 4 (2): 125-134.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Pettijohn, Terry F. / Donald F. Sacco Jr.</hi> (2009): "The language of lyrics: An analysis of popular Billboard songs across conditions of social and economic threat", in: 
-                        <hi rend="italic" xml:space="preserve">Journal of Language and Social Psychology </hi>28(3): 297-311.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4721">Pettijohn, Terry F. / Donald F. Sacco Jr. (2009): "The language of lyrics: An analysis of popular Billboard songs across conditions of social and economic threat", in: Journal of Language and Social Psychology 28(3): 297-311.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Pfahler, Lukas / Elwert, Frederik / Tabti, Samira / Morik, Katharina / Krech, Volker</hi> (2018): "Versuche zum distant reading religiöser Online-Foren“: in 
-                        <hi rend="italic">Book of Abstracts, DHd 2018.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4722">Pfahler, Lukas / Elwert, Frederik / Tabti, Samira / Morik, Katharina / Krech, Volker (2018): "Versuche zum distant reading religiöser Online-Foren“: in Book of Abstracts, DHd 2018.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Remus, Robert / Quasthoff, Uwe / Gerhard, Heyer</hi> (2010): "SentiWS-A Publicly Available German-language Resource for Sentiment Analysis.", in: 
-                        <hi rend="italic">LREC:</hi> 1168-1171.
-                    </bibl>
+<rs type="bibl" ref="#bibl__370">Remus, Robert / Quasthoff, Uwe / Gerhard, Heyer (2010): "SentiWS-A Publicly Available German-language Resource for Sentiment Analysis.", in: LREC: 1168-1171.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Riedemann, Frank</hi> (2012): "Computergestützte Analyse und Hit-Songwriting.", in: 
-                        <hi rend="italic">Black box pop. Analysen populärer Musik</hi>: 43-56.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4723">Riedemann, Frank (2012): "Computergestützte Analyse und Hit-Songwriting.", in: Black box pop. Analysen populärer Musik: 43-56.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Stiegler, Christian</hi> (2009): 
-                        <hi rend="italic">Nur ein Wort.</hi> Dissertation, Universität Wien.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4724">Stiegler, Christian (2009): Nur ein Wort. Dissertation, Universität Wien.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Werner, Valentin</hi> (2012): “Love is all around: A corpus-based study of pop lyrics.” in: 
-                        <hi rend="italic">Corpora</hi> 7 (1): 19–50.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4725">Werner, Valentin (2012): “Love is all around: A corpus-based study of pop lyrics.” in: Corpora 7 (1): 19–50.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">West, Alan / Colin Martindale</hi> (1996): "Creative trends in the content of Beatles lyrics" 
-                        <hi rend="italic">Popular Music &amp; Society</hi> 20 (4): 103-125.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4726">West, Alan / Colin Martindale (1996): "Creative trends in the content of Beatles lyrics" Popular Music &amp; Society 20 (4): 103-125.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Whissell, Cynthia </hi>(1996): "Traditional and emotional stylometric analysis of the songs of Beatles Paul McCartney and John Lennon", in: 
-                        <hi rend="italic">Computers and the Humanities</hi> 30 (3): 257-265.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4727">Whissell, Cynthia (1996): "Traditional and emotional stylometric analysis of the songs of Beatles Paul McCartney and John Lennon", in: Computers and the Humanities 30 (3): 257-265.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Whissell, Cynthia</hi> (2008): "Emotional fluctuations in Bob Dylan's lyrics measured by the Dictionary of Affect accompany events and phases in his life", in
-                        <hi rend="italic">: Psychological reports</hi> 102 (2): 469-483.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4728">Whissell, Cynthia (2008): "Emotional fluctuations in Bob Dylan's lyrics measured by the Dictionary of Affect accompany events and phases in his life", in : Psychological reports 102 (2): 469-483.</rs></bibl>
 </listBibl>
 </div>
 </back>

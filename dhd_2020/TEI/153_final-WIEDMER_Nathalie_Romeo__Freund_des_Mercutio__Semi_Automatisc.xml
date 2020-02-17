@@ -278,45 +278,23 @@ vereinheitlicht (z.B. Bürgerliches Trauerspiel <hi rend="math">→</hi> Tragöd
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold"> Asmuth, Bernhard. </hi> (2016). 
-  <hi rend="italic">Einführung in die Dramenanalyse</hi>. Stuttgart: J.B. Metzler Verlag.
-</bibl>
+  <rs type="bibl" ref="#bibl__5496">Asmuth, Bernhard. (2016). Einführung in die Dramenanalyse. Stuttgart: J.B. Metzler Verlag.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Böckenhauer, Hans-Joachim /  Juraj Hromkovič </hi> (2013): 
-  <hi rend="italic">Formale Sprachen: Endliche Automaten, Grammatiken, lexikalische und syntaktische Analyse</hi>. Zürich: Springer.
-</bibl>
+  <rs type="bibl" ref="#bibl__5497">Böckenhauer, Hans-Joachim / Juraj Hromkovič (2013): Formale Sprachen: Endliche Automaten, Grammatiken, lexikalische und syntaktische Analyse. Zürich: Springer.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Fischer, Frank / Ingo Börner / Mathias Göbel /
-  Angelika Hechtl  / Christopher Kittel / Carsten Milling /  Peer
-  Trilcke</hi>
-  (2019):  „Programmable Corpora – Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor“. In 
-  <hi rend="italic">Proceedings of DHd</hi>. 
-  <ptr target="https://doi.org/10.5281/zenodo.2596095"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5498">Fischer, Frank / Ingo Börner / Mathias Göbel / Angelika Hechtl / Christopher Kittel / Carsten Milling / Peer Trilcke (2019): „Programmable Corpora – Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor“. In Proceedings of DHd. .</rs></bibl>
 <bibl>
-  <hi rend="bold"> Genette, Gérard </hi> (1993): 
-  <hi rend="italic">Palimpseste. Die Literatur auf zweiter Stufe</hi>. Frankfurt am Main: Suhrkamp.
-</bibl>
+  <rs type="bibl" ref="#bibl__224">Genette, Gérard (1993): Palimpseste. Die Literatur auf zweiter Stufe. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Jeßing, Benedikt</hi> (2015): 
-  <hi rend="italic">Dramenanalyse. Eine Einführung</hi>. Berlin: Erich Schmidt Verlag.
-</bibl>
+  <rs type="bibl" ref="#bibl__5499">Jeßing, Benedikt (2015): Dramenanalyse. Eine Einführung. Berlin: Erich Schmidt Verlag.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Pangallo, Matteo</hi> (2015):  „‚I will keep and character that name‘: Dramatis Personae Lists in Early Modern Manuscript Plays“. 
-  <hi rend="italic">Early Theatre</hi> 18 (2): 87–118. <ptr target="https://doi.org/10.12745/et.18.2.1166"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5500">Pangallo, Matteo (2015): „‚I will keep and character that name‘: Dramatis Personae Lists in Early Modern Manuscript Plays“. Early Theatre 18 (2): 87–118. .</rs></bibl>
 <bibl>
-  <hi rend="bold"> Pfister, Manfred</hi> (2001): 
-  <hi rend="italic">Das Drama</hi>. München: Wilhelm Fink.
-</bibl>
+  <rs type="bibl" ref="#bibl__151">Pfister, Manfred (2001): Das Drama. München: Wilhelm Fink.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Schlaffer, Hannelore</hi> (1972):
-  <hi rend="italic">Dramenform und Klassenstruktur. Eine Analyse der dramatis persona "Volk"</hi>. Stuttgart: J.B. Metzler Verlag.
-</bibl>
+  <rs type="bibl" ref="#bibl__5501">Schlaffer, Hannelore (1972): Dramenform und Klassenstruktur. Eine Analyse der dramatis persona "Volk". Stuttgart: J.B. Metzler Verlag.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Tonger-Erk, Lily  /  Nils Werber /  Constanze Baum (Hrsg.)</hi> (2018):  „Hauptsache Nebentext. Regiebemerkungen im Drama“. 
-  <hi rend="italic">Zeitschrift für Literaturwissenschaft und Linguistik</hi> 48 (3).
-</bibl>
+  <rs type="bibl" ref="#bibl__5502">Tonger-Erk, Lily / Nils Werber / Constanze Baum (Hrsg.) (2018): „Hauptsache Nebentext. Regiebemerkungen im Drama“. Zeitschrift für Literaturwissenschaft und Linguistik 48 (3).</rs></bibl>
 </listBibl>
 </div>
 </back>

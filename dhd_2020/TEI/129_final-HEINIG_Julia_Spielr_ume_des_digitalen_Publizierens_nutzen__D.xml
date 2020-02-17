@@ -112,32 +112,17 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Degkwitz, Andreas</hi> (2013): “What Will Future Publications Be Like?”, in Hobohm Hans-Christoph (ed.): 
-                        <hi rend="italic">Informationswissenschaft zwischen virtueller Infrastruktur und materiellen Lebenswelten.</hi> Glückstadt: Verlag Werner Hülsbusch 81-92.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4956">Degkwitz, Andreas (2013): “What Will Future Publications Be Like?”, in Hobohm Hans-Christoph (ed.): Informationswissenschaft zwischen virtueller Infrastruktur und materiellen Lebenswelten. Glückstadt: Verlag Werner Hülsbusch 81-92.</rs></bibl>
 <bibl>
-<hi rend="bold">Humphreys, Alex</hi> (2018): “Sprechen Sie Textanalysierer? Creating a Multilingual Text Analyzer“. JSTOR Labs Blog. 
-                        <ref target="https://labs.jstor.org/blog/#!sprechen_sie_textanalysierer?-creating_a_multilingual_text_analyzer_">https://labs.jstor.org/blog/#!sprechen_sie_textanalysierer?-creating_a_multilingual_text_analyzer_</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4957">Humphreys, Alex (2018): “Sprechen Sie Textanalysierer? Creating a Multilingual Text Analyzer“. JSTOR Labs Blog. https://labs.jstor.org/blog/#!sprechen_sie_textanalysierer?-creating_a_multilingual_text_analyzer_.</rs></bibl>
 <bibl>
-<hi rend="bold">Kohle, Hubertus</hi> (2017): “Digitales Publizieren“, in Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds):
-                        <hi rend="italic" xml:space="preserve"> Digital Humanities</hi>. Stuttgart: J.B. Metzler 199–205 
-                        <ref target="https://doi.org/10.1007/978-3-476-05446-3_13">https://doi.org/10.1007/978-3-476-05446-3_13</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4958">Kohle, Hubertus (2017): “Digitales Publizieren“, in Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds): Digital Humanities. Stuttgart: J.B. Metzler 199–205 https://doi.org/10.1007/978-3-476-05446-3_13.</rs></bibl>
 <bibl>
-<hi rend="bold">Schwaderer, Christian / Stäcker, Thomas / Walkowski, Niels Oliver / Baillot, Anne / Ernst, Thomas / Baum, Constanze / Chen, Esther / Steyer, Timo / Kaden, Ben / Kleineberg, Michael</hi> (2016): “Workingpaper ‘Digitales Publizieren‘“, in 
-                        <hi rend="italic">DHd Workingpaper</hi>
-<ref target="https://doi.org/10.15499/dhd-wp.001">https://doi.org/10.15499/dhd-wp.001</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4959">Schwaderer, Christian / Stäcker, Thomas / Walkowski, Niels Oliver / Baillot, Anne / Ernst, Thomas / Baum, Constanze / Chen, Esther / Steyer, Timo / Kaden, Ben / Kleineberg, Michael (2016): “Workingpaper ‘Digitales Publizieren‘“, in DHd Workingpaper https://doi.org/10.15499/dhd-wp.001.</rs></bibl>
 <bibl rend="Bibliography">
-<hi rend="bold">Snyder, Ron</hi> (2017): “Under the Hood of Text Analyzer“. JSTOR Labs Blog. 
-                        <ref target="https://labs.jstor.org/blog/#!under_the_hood_of_text_analyzer">https://labs.jstor.org/blog/#!under_the_hood_of_text_analyzer</ref>. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__4960">Snyder, Ron (2017): “Under the Hood of Text Analyzer“. JSTOR Labs Blog. https://labs.jstor.org/blog/#!under_the_hood_of_text_analyzer.</rs></bibl>
 <bibl>
-<hi rend="bold">Söllner, Konstanze</hi> (2017): “1a. Warum und für wen Open Access?“, in Söllner, Konstanze / Mittermaier, Bernhard (eds.): 
-                        <hi rend="italic">Praxishandbuch Open Access</hi>. Berlin, Boston: De Gruyter 3–11 
-                        <ref target="https://doi.org/10.1515/9783110494068-001">https://doi.org/10.1515/9783110494068-001</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4961">Söllner, Konstanze (2017): “1a. Warum und für wen Open Access?“, in Söllner, Konstanze / Mittermaier, Bernhard (eds.): Praxishandbuch Open Access. Berlin, Boston: De Gruyter 3–11 https://doi.org/10.1515/9783110494068-001.</rs></bibl>
 </listBibl>
 </div>
 </back>

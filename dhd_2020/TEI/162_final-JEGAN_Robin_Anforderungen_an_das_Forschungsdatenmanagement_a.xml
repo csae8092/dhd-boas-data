@@ -100,38 +100,29 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold"> Dataverse</hi> (2019): The Dataverse Project: Open source research data repository software. Online: https://dataverse.org/ [letzter Zugriff: 19.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5393">Dataverse (2019): The Dataverse Project: Open source research data repository software. Online: https://dataverse.org/ [letzter Zugriff: 19.12.2019]</rs></bibl>
 <bibl>
-<hi rend="bold"> Dataverse</hi>  (2019): The Dataverse Project: About the project. Online: https://dataverse.org/about [letzter Zugriff: 20.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5394">Dataverse (2019): The Dataverse Project: About the project. Online: https://dataverse.org/about [letzter Zugriff: 20.12.2019]</rs></bibl>
 <bibl>
-<hi rend="bold"> Dataverse</hi>  (2019): The Dataverse Project Admin Guide: Metadata Customization. Online: http://guides.dataverse.org/en/latest/admin/metadatacustomization.html [letzter Zugriff: 19.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5395">Dataverse (2019): The Dataverse Project Admin Guide: Metadata Customization. Online: http://guides.dataverse.org/en/latest/admin/metadatacustomization.html [letzter Zugriff: 19.12.2019]</rs></bibl>
 <bibl>
-<hi rend="bold"> Donohue, Tim</hi>  (2018): DSpace User FAQ. Online: https://wiki.lyrasis.org/display/DSPACE/User+FAQ [letzter Zugriff: 20.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5396">Donohue, Tim (2018): DSpace User FAQ. Online: https://wiki.lyrasis.org/display/DSPACE/User+FAQ [letzter Zugriff: 20.12.2019]</rs></bibl>
 <bibl>
-<hi rend="bold"> Donohue, Tim</hi>  (2019): DSpace-CRIS Home. Online: https://wiki.duraspace.org/display/DSPACECRIS/DSpace-CRIS+Home [letzter Zugriff: 19.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5397">Donohue, Tim (2019): DSpace-CRIS Home. Online: https://wiki.duraspace.org/display/DSPACECRIS/DSpace-CRIS+Home [letzter Zugriff: 19.12.2019]</rs></bibl>
 <bibl>
-<hi rend="bold"> Elliott, Tom / Bodard, Gabriel / Cayless, Hugh / et al. </hi> (2006-2017): EpiDoc: Epigraphic Documents in TEI XML. Online: https://sourceforge.net/p/epidoc/wiki/Home/ [letzter Zugriff: 19.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5398">Elliott, Tom / Bodard, Gabriel / Cayless, Hugh / et al. (2006-2017): EpiDoc: Epigraphic Documents in TEI XML. Online: https://sourceforge.net/p/epidoc/wiki/Home/ [letzter Zugriff: 19.12.2019]</rs></bibl>
 <bibl>
-<hi rend="bold"> Franke, Fabian</hi>  (2019): Laufende Projekte unter Beteiligung der Universitätsbibliothek Bamberg. In: Projekte – Otto-Friedrich-Universtiät Bamberg. Online: https://www.uni-bamberg.de/ub/ueber-uns/projekte/ [letzter Zugriff: 19.12.2019]</bibl>
+<rs type="bibl" ref="#bibl__5399">Franke, Fabian (2019): Laufende Projekte unter Beteiligung der Universitätsbibliothek Bamberg. In: Projekte – Otto-Friedrich-Universtiät Bamberg. Online: https://www.uni-bamberg.de/ub/ueber-uns/projekte/ [letzter Zugriff: 19.12.2019]</rs></bibl>
 <bibl>
-  <hi rend="bold"> King, Gary </hi> (2007):
-  An Introduction to the Dataverse Network as an Infrastructure for Data Sharing. In:
-  <hi rend="italic"> Sociological Methods &amp; Research</hi> 36(2): 173–199.
-</bibl>
+  <rs type="bibl" ref="#bibl__5400">King, Gary (2007): An Introduction to the Dataverse Network as an Infrastructure for Data Sharing. In: Sociological Methods &amp; Research 36(2): 173–199.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Neuroth, Heike </hi> (2017): Bibliothek, Archiv, Museum. In:
-  <hi rend="italic"> Digital Humanities:</hi> 213–222.
-</bibl>
+  <rs type="bibl" ref="#bibl__5401">Neuroth, Heike (2017): Bibliothek, Archiv, Museum. In: Digital Humanities: 213–222.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Smith, MacKenzie / et al.</hi> (2003): "An Open Source Dynamic Digital Repository". In: <hi rend="italic"> D-Lib Magazine</hi> 9.1.
-</bibl>
+  <rs type="bibl" ref="#bibl__5402">Smith, MacKenzie / et al. (2003): "An Open Source Dynamic Digital Repository". In: D-Lib Magazine 9.1.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Steinheim-Institut </hi> (2019): Datenbank: Jüdische Grabsteinepigraphik. Online: http://www.steinheim-institut.de/cgi-bin/epidat [letzter Zugriff: 20.12.2019]
-</bibl>
+  <rs type="bibl" ref="#bibl__5403">Steinheim-Institut (2019): Datenbank: Jüdische Grabsteinepigraphik. Online: http://www.steinheim-institut.de/cgi-bin/epidat [letzter Zugriff: 20.12.2019]</rs></bibl>
 <bibl>
-  <hi rend="bold"> Wilkinson, Mark D., et al. </hi> (2016): 
-  The FAIR Guiding Principles for scientific data management and stewardship. In: <hi rend="italic"> Scientific data </hi> 3.
-</bibl>
+  <rs type="bibl" ref="#bibl__203">Wilkinson, Mark D., et al. (2016): The FAIR Guiding Principles for scientific data management and stewardship. In: Scientific data 3.</rs></bibl>
 </listBibl>
 </div>
 </back>

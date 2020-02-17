@@ -129,37 +129,15 @@ Von den derzeit 13.033 Accounts wurden 3030 nur einmalig benutzt und 1876 waren 
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Horstmann, Jan / Jacke Janina / Meister, Jan Christoph</hi> (2018): „Digital vs. Humanities. Didaktische Aufbereitung digitaler Methoden für die klassischen Geisteswissenschaften im Projekt forTEXT“, in: 
-                        <hi rend="italic">Kritik der digitalen Vernunft. DHd 2018 Köln. Konferenzabstracts</hi>, 386–391. 
-                        <ref target="http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf">http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf</ref> [Zugriff: 26. August 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5231">Horstmann, Jan / Jacke Janina / Meister, Jan Christoph (2018): „Digital vs. Humanities. Didaktische Aufbereitung digitaler Methoden für die klassischen Geisteswissenschaften im Projekt forTEXT“, in: Kritik der digitalen Vernunft. DHd 2018 Köln. Konferenzabstracts, 386–391. http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf [Zugriff: 26. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Horstmann, Jan / Schumacher, Mareike</hi> (2019): „Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT“, in: Sahle, Patrick (ed.): 
-                        <hi rend="italic">DHd 2019. Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts</hi>, 207–211. DOI: 
-                        <ref target="https://doi.org/10.5281/zenodo.2596095">
-<hi rend="underline color(1155CC)">10.5281/zenodo.2596095</hi>
-</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__411">Horstmann, Jan / Schumacher, Mareike (2019): „Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT“, in: Sahle, Patrick (ed.): DHd 2019. Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts, 207–211. DOI: 10.5281/zenodo.2596095 .</rs></bibl>
 <bibl>
-<hi rend="bold">Horstmann, Jan / Kleymann, Rabea</hi> (2019): „Alte Fragen, neue Methoden – Philologische und digitale Verfahren im Dialog. Ein Beitrag zum Forschungsdiskurs um Entsagung und Ironie bei Goethe“, in: 
-                        <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi> DOI: 
-                        <ref target="http://dx.doi.org/10.17175/2019_007">
-<hi rend="underline color(1155CC)">10.17175/2019_007</hi>
-</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__398">Horstmann, Jan / Kleymann, Rabea (2019): „Alte Fragen, neue Methoden – Philologische und digitale Verfahren im Dialog. Ein Beitrag zum Forschungsdiskurs um Entsagung und Ironie bei Goethe“, in: Zeitschrift für digitale Geisteswissenschaften DOI: 10.17175/2019_007 .</rs></bibl>
 <bibl>
-<hi rend="bold">Sahle, Patrick</hi> (2015): „Digital Humanities? Gibt’s doch gar nicht!”, in: Baum, Constanze / Stäcker, Thomas (eds.): 
-                        <hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities.</hi> Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1. DOI:
-                        <ref target="http://dx.doi.org/10.17175/sb001_004" xml:space="preserve"> </ref>
-<ref target="http://dx.doi.org/10.17175/sb001_004">
-<hi rend="underline color(1155CC)">10.17175/sb001_004</hi>
-</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__399">Sahle, Patrick (2015): „Digital Humanities? Gibt’s doch gar nicht!”, in: Baum, Constanze / Stäcker, Thomas (eds.): Grenzen und Möglichkeiten der Digital Humanities. Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1. DOI: 10.17175/sb001_004 .</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Thaller, Manfred</hi> (2012): „Controversies around the digital humanities: an agenda”, in: 
-                        <hi rend="italic">Historical Social Research</hi>, 
-                        <hi rend="italic">37</hi>(3): 7–23.
-                    </bibl>
+<rs type="bibl" ref="#bibl__234">Thaller, Manfred (2012): „Controversies around the digital humanities: an agenda”, in: Historical Social Research, 37(3): 7–23.</rs></bibl>
 </listBibl>
 </div>
 </back>

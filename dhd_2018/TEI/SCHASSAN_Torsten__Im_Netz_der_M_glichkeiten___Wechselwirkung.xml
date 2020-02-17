@@ -116,23 +116,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__821">Lou Burnard / Sebastian Rahtz (2004): "RelaxNG with Son of ODD", in: Proceedings of Extreme Markup Languages 2004.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3000">Lou Burnard / Sebastian Rahtz (2004): "RelaxNG with Son of ODD", in: Proceedings of Extreme Markup Languages 2004.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__822">Lou Burnard / C. Michael Sperberg-McQueen (1995): "The Design of the TEI Encoding Scheme", in: Computers and the Humanities 29 (1) p. 17–39. 10.1007/BF01830314</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3001">Lou Burnard / C. Michael Sperberg-McQueen (1995): "The Design of the TEI Encoding Scheme", in: Computers and the Humanities 29 (1) p. 17–39. 10.1007/BF01830314</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__823">Guidelines for Electronic Text Encoding and Interchange, edited by TEI Consortium. 1990-, P1--P5. ,</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3002">Guidelines for Electronic Text Encoding and Interchange, edited by TEI Consortium. 1990-, P1--P5. ,</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__101">Patrick Sahle (2013): Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. 3 Bde. Norderstedt: BoD.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__17">Patrick Sahle (2013): Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. 3 Bde. Norderstedt: BoD.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__824">C. Michael Sperberg-McQueen (1994): Textual Criticism and the Text Encoding Initiative . (First draft of a paper presented at MLA, San Diego, 1994)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3003">C. Michael Sperberg-McQueen (1994): Textual Criticism and the Text Encoding Initiative . (First draft of a paper presented at MLA, San Diego, 1994)</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__825">C. Michael Sperberg-McQueen / Henry Thompson (2000): XML-Schema.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3004">C. Michael Sperberg-McQueen / Henry Thompson (2000): XML-Schema.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__103">Jörg Wettlaufer (2016): "Neue Erkenntnisse durch digitalisierte Geschichtswissenschaft(en)? Zur hermeneutischen Reichweite aktueller digitaler Methoden in informationszentrierten Fächern", in: Zeitschrift für digitale Geisteswissenschaften. DOI: 10.17175/2016_011.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__334">Jörg Wettlaufer (2016): "Neue Erkenntnisse durch digitalisierte Geschichtswissenschaft(en)? Zur hermeneutischen Reichweite aktueller digitaler Methoden in informationszentrierten Fächern", in: Zeitschrift für digitale Geisteswissenschaften. DOI: 10.17175/2016_011.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__826">RelaxNG (2008): ISO/IEC 19757-2:2008. Information technology -- Document Schema Definition Language (DSDL) -- Part 2: Regular-grammar-based validation -- RELAX NG.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3005">RelaxNG (2008): ISO/IEC 19757-2:2008. Information technology -- Document Schema Definition Language (DSDL) -- Part 2: Regular-grammar-based validation -- RELAX NG.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__827">Schematron (2016): ISO/IEC 19757-3:2016. Information technology -- Document Schema Definition Languages (DSDL) -- Part 3: Rule-based validation – Schematron.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3006">Schematron (2016): ISO/IEC 19757-3:2016. Information technology -- Document Schema Definition Languages (DSDL) -- Part 3: Rule-based validation – Schematron.</rs></bibl>
                 </listBibl>
             </div>
       </back>

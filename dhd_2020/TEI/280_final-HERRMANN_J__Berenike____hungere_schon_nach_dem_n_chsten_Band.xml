@@ -298,77 +298,41 @@ wurden
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Demmen, J. / Semino, E. / Demjén, Z. / Koller, V. /
-Hardie, A. / Rayson, P. / Payne, S.</hi>
-(2015): “A computer-assisted study of the use of Violence metaphors for cancer and end of life by patients, family carers and health professionals” in: 
-<hi rend="italic">International Journal of Corpus Linguistics</hi>, 20/2: 205–231.
-</bibl>
+<rs type="bibl" ref="#bibl__5466">Demmen, J. / Semino, E. / Demjén, Z. / Koller, V. / Hardie, A. / Rayson, P. / Payne, S. (2015): “A computer-assisted study of the use of Violence metaphors for cancer and end of life by patients, family carers and health professionals” in: International Journal of Corpus Linguistics, 20/2: 205–231.</rs></bibl>
 <bibl>
-  <hi rend="bold">Dornseiff, F.</hi> (2004): 
-  <hi rend="italic">Der deutsche Wortschatz nach Sachgruppen</hi>. Mit einer lexikographisch-historischen Einführung und einer ausführlichen Bibliographie zur Lexikographie und Onomasiologie (8. völlig neu bearb. u. m. einem alphabet. Zugriffsreg. vers. Aufl. Reprint 2010).
-  <ref target="https://doi.org/10.1515/9783110901009">https://doi.org/10.1515/9783110901009</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__5467">Dornseiff, F. (2004): Der deutsche Wortschatz nach Sachgruppen. Mit einer lexikographisch-historischen Einführung und einer ausführlichen Bibliographie zur Lexikographie und Onomasiologie (8. völlig neu bearb. u. m. einem alphabet. Zugriffsreg. vers. Aufl. Reprint 2010). https://doi.org/10.1515/9783110901009</rs></bibl>
 <bibl>
-  <hi rend="bold">Eggs, E.</hi> (2000): «Metapher» in: Gert Ueding (Hg.), Historisches Wörterbuch der Rhetorik, Bd. 5, Tübingen 1109-1183.
-</bibl>
+  <rs type="bibl" ref="#bibl__5468">Eggs, E. (2000): «Metapher» in: Gert Ueding (Hg.), Historisches Wörterbuch der Rhetorik, Bd. 5, Tübingen 1109-1183.</rs></bibl>
 <bibl>
-  <hi rend="bold">Genette, G.</hi> (1989): 
-  <hi rend="italic">Paratexte: Das Buch vom Beiwerk des Buches</hi>. (D. Honig, Übersetzung). Frankfurt am Main: Campus.
-</bibl>
+  <rs type="bibl" ref="#bibl__5469">Genette, G. (1989): Paratexte: Das Buch vom Beiwerk des Buches. (D. Honig, Übersetzung). Frankfurt am Main: Campus.</rs></bibl>
 <bibl>
-  <hi rend="bold">Herrmann, J. B.</hi> (im Druck): «Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang vom Realismus zur Moderne» in: Tagungsband DFG-Symposium „Digitale Literaturwissenschaft“ (Villa Vigoni, 09.-13.10.2017). Berlin: De Gruyter.
-</bibl>
+  <rs type="bibl" ref="#bibl__5470">Herrmann, J. B. (im Druck): «Operationalisierung der Metapher zur quantifizierenden Untersuchung deutschsprachiger literarischer Texte im Übergang vom Realismus zur Moderne» in: Tagungsband DFG-Symposium „Digitale Literaturwissenschaft“ (Villa Vigoni, 09.-13.10.2017). Berlin: De Gruyter.</rs></bibl>
 <bibl>
-  <hi rend="bold">Herrmann, J. B. / Woll, K. / Dorst, A. G.</hi> (2019): “Linguistic Metaphor Identification in German” in: S. Nacey / A.G. Dorst / T. Krennmayr / W. G. Reijnierse (Hg.), MIPVU in Multiple Languages, Amsterdam: John Benjamins.
-</bibl>
+  <rs type="bibl" ref="#bibl__5471">Herrmann, J. B. / Woll, K. / Dorst, A. G. (2019): “Linguistic Metaphor Identification in German” in: S. Nacey / A.G. Dorst / T. Krennmayr / W. G. Reijnierse (Hg.), MIPVU in Multiple Languages, Amsterdam: John Benjamins.</rs></bibl>
 <bibl>
-  <hi rend="bold">Heydebrand, R. / Winko, S.</hi> (1996): 
-  <hi rend="italic">Einführung in die Wertung von Literatur: Systematik - Geschichte - Legitimation</hi>. Paderborn, Zürich [etc.]: Schöningh.
-</bibl>
+  <rs type="bibl" ref="#bibl__5472">Heydebrand, R. / Winko, S. (1996): Einführung in die Wertung von Literatur: Systematik - Geschichte - Legitimation. Paderborn, Zürich [etc.]: Schöningh.</rs></bibl>
 <bibl>
-  <hi rend="bold">Köhler, M.</hi> (1999): 
-  <hi rend="italic">Wertung in der Literaturkritik: Bewertungskriterien und sprachliche Ausdrucksmöglichkeiten des Bewertens in journalistischen Rezensionen zeitgenössischer Literatur</hi> (PhD Dissertation, Universitätsbibliothek der Universität Würzburg). 
-  <ref target="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/784">https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/784</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__5473">Köhler, M. (1999): Wertung in der Literaturkritik: Bewertungskriterien und sprachliche Ausdrucksmöglichkeiten des Bewertens in journalistischen Rezensionen zeitgenössischer Literatur (PhD Dissertation, Universitätsbibliothek der Universität Würzburg). https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/784</rs></bibl>
 <bibl>
-  <hi rend="bold">Lakoff, G. / Johnson, M.</hi> (1980): 
-  <hi rend="italic">Metaphors we live by</hi>. Chicago, IL: University of Chicago Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__5474">Lakoff, G. / Johnson, M. (1980): Metaphors we live by. Chicago, IL: University of Chicago Press.</rs></bibl>
 <bibl>
-  <hi rend="bold">Narula, S. K.</hi> (2014): “Millions of people reading alone, together: The rise of Goodreads” in: 
-  <hi rend="italic">The Atlantic</hi>. 
-  <ref target="https://www.theatlantic.com/entertainment/archive/2014/02/millions-of-people-reading-alone-together-the-rise-of-goodreads/283662/">https://www.theatlantic.com/entertainment/archive/2014/02/millions-of-people-reading-alone-together-the-rise-of-goodreads/283662/</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__5475">Narula, S. K. (2014): “Millions of people reading alone, together: The rise of Goodreads” in: The Atlantic. https://www.theatlantic.com/entertainment/archive/2014/02/millions-of-people-reading-alone-together-the-rise-of-goodreads/283662/</rs></bibl>
 <bibl>
-  <hi rend="bold">Nuttall, L. / Harrison, C.</hi> (2018): Wolfing down the Twilight series: Metaphors for reading in online reviews in: H. Ringrow / S. Pihlaja (Hg.), 
-  <hi rend="italic">Contemporary Media Stylistics</hi>. New York: Bloomsbury Academic.
-</bibl>
+  <rs type="bibl" ref="#bibl__5476">Nuttall, L. / Harrison, C. (2018): Wolfing down the Twilight series: Metaphors for reading in online reviews in: H. Ringrow / S. Pihlaja (Hg.), Contemporary Media Stylistics. New York: Bloomsbury Academic.</rs></bibl>
 <bibl>
-  <hi rend="bold">Peplow, D. / Swann, J. / Trimarco, P. / Whiteley, S.</hi> (2016): 
-  <hi rend="italic">The discourse of reading groups: Integrating cognitive and sociocultural perspectives</hi>. London: Routledge.
-</bibl>
+  <rs type="bibl" ref="#bibl__5477">Peplow, D. / Swann, J. / Trimarco, P. / Whiteley, S. (2016): The discourse of reading groups: Integrating cognitive and sociocultural perspectives. London: Routledge.</rs></bibl>
 <bibl>
-  <hi rend="bold">Radway, J. A.</hi> (1986): “Reading is not eating: mass-produced literature and theoretical, methodological, and political consequences of a metaphor” in: 
-  <hi rend="italic">Book Research Quarterly</hi>, 2/3: 7–29.
-</bibl>
+  <rs type="bibl" ref="#bibl__5478">Radway, J. A. (1986): “Reading is not eating: mass-produced literature and theoretical, methodological, and political consequences of a metaphor” in: Book Research Quarterly, 2/3: 7–29.</rs></bibl>
 <bibl>
-  <hi rend="bold">Steen, G. J.</hi> (2009): “Deliberate Metaphor Affords Conscious Metaphorical Cognition” in: 
-  <hi rend="italic" xml:space="preserve">Cognitive Semiotics </hi>5/1-2: 179-197.
-</bibl>
+  <rs type="bibl" ref="#bibl__5479">Steen, G. J. (2009): “Deliberate Metaphor Affords Conscious Metaphorical Cognition” in: Cognitive Semiotics 5/1-2: 179-197.</rs></bibl>
 <bibl>
-  <hi rend="bold" xml:space="preserve">Steen, G. J. / Dorst, A. G. /
-  Herrmann, J. B. / Kaal, A. A. / Krennmayr, T. / Pasma, T. </hi> (2010): A Method for Linguistic Metaphor Identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.
-</bibl>
+  <rs type="bibl" ref="#bibl__5480">Steen, G. J. / Dorst, A. G. / Herrmann, J. B. / Kaal, A. A. / Krennmayr, T. / Pasma, T. (2010): A Method for Linguistic Metaphor Identification: From MIP to MIPVU. Amsterdam and Philadelphia: John Benjamins.</rs></bibl>
 <bibl>
-  <hi rend="bold">Stockwell, P.</hi> (2009): Texture: A cognitive aesthetics of reading. Edinburgh: Edinburgh University Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__5481">Stockwell, P. (2009): Texture: A cognitive aesthetics of reading. Edinburgh: Edinburgh University Press.</rs></bibl>
 <bibl>
-  <hi rend="bold">Tognini-Bonelli, E</hi>. (2001): Corpus Linguistics at Work. Amsterdam: John Benjamins.
-</bibl>
+  <rs type="bibl" ref="#bibl__5482">Tognini-Bonelli, E. (2001): Corpus Linguistics at Work. Amsterdam: John Benjamins.</rs></bibl>
 <bibl>
-  <hi rend="bold">Veale, T., Shutova, E. / Klebanov, B. B.</hi> (2016): “Metaphor: A Computational Perspective” in: 
-<hi rend="italic">Synthesis Lectures on Human Language Technologies</hi>, 9/1: 1–160.
-</bibl>
+  <rs type="bibl" ref="#bibl__5483">Veale, T., Shutova, E. / Klebanov, B. B. (2016): “Metaphor: A Computational Perspective” in: Synthesis Lectures on Human Language Technologies, 9/1: 1–160.</rs></bibl>
 </listBibl>
 </div>
 </back>

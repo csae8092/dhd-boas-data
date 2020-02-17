@@ -153,53 +153,31 @@
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold">Adamson, M. W. (Ed.) </hi> (1995): Food in the Middle Ages. A Book of Essays. New York, London: Garland. Adamson, M. W. (Ed.). (2002). Regional Cuisines of Medieval Europe: A Book of Essays. New York, London: Routledge.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5164">Adamson, M. W. (Ed.) (1995): Food in the Middle Ages. A Book of Essays. New York, London: Garland. Adamson, M. W. (Ed.). (2002). Regional Cuisines of Medieval Europe: A Book of Essays. New York, London: Routledge.</rs></bibl>
       <bibl>
-	<hi rend="bold">Amoia, M., Martínez, J.M.M. </hi> (2019): SaCoCo Diachronic Corpus [WWW Document]. URL 
-	<ref target="http://fedora.clarin-d.uni-saarland.de/sacoco/">http://fedora.clarin-d.uni-saarland.de/sacoco/</ref>
-	(accessed 1.7.20).
-      </bibl>
+	<rs type="bibl" ref="#bibl__417">Amoia, M., Martínez, J.M.M. (2019): SaCoCo Diachronic Corpus [WWW Document]. URL http://fedora.clarin-d.uni-saarland.de/sacoco/ (accessed 1.7.20).</rs></bibl>
       <bibl>
-	<hi rend="bold">Böhm, A. &amp; Klug, H.:</hi> Quellenorientierte Aufbereitung historischer Texte im Rahmen digitaler Editionen: Das Problem der Transkription in mediävistischen Editionsprojekten. In: [Titel steht noch nicht fest] Hrsg. von Ingrid Bennewitz und Martin Fischer (= Bamberger interdisziplinäre Mittelalterstudien.) [in Vorbereitung]
-      </bibl>
+	<rs type="bibl" ref="#bibl__418">Böhm, A. &amp; Klug, H.: Quellenorientierte Aufbereitung historischer Texte im Rahmen digitaler Editionen: Das Problem der Transkription in mediävistischen Editionsprojekten. In: [Titel steht noch nicht fest] Hrsg. von Ingrid Bennewitz und Martin Fischer (= Bamberger interdisziplinäre Mittelalterstudien.) [in Vorbereitung]</rs></bibl>
       <bibl>
-	<hi rend="bold">Carlin, M., &amp; Rosenthal,
-	J. T. (Eds.). </hi> (1998): Food and Eating in Medieval Europe. London: Hambledon Press.
-      </bibl>
+	<rs type="bibl" ref="#bibl__419">Carlin, M., &amp; Rosenthal, J. T. (Eds.). (1998): Food and Eating in Medieval Europe. London: Hambledon Press.</rs></bibl>
       <bibl>
-	<hi rend="bold">Flandrin, J.-L. </hi> (1984): «Internationalisme, nationalisme et régionalisme dans la cuisine des XIVe et XVe siècles: le témoignage des livres de cuisine». In Manger et boire au Moyen âge. Actes du Colloque de Nice (15-17 octobre 1982). (pt. 2, p. 75-91). Paris.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5165">Flandrin, J.-L. (1984): «Internationalisme, nationalisme et régionalisme dans la cuisine des XIVe et XVe siècles: le témoignage des livres de cuisine». In Manger et boire au Moyen âge. Actes du Colloque de Nice (15-17 octobre 1982). (pt. 2, p. 75-91). Paris.</rs></bibl>
       <bibl>
-	<hi rend="bold">Flandrin, J.-L. &amp; Hyman, P. </hi> (1988): “Regional tastes and cuisines: Problems, documents, and discourses on food in Southern France in the 16th and 17th centuries”. Food and Foodways 1-3, p. 221-251.
-      </bibl>
+	<rs type="bibl" ref="#bibl__420">Flandrin, J.-L. &amp; Hyman, P. (1988): “Regional tastes and cuisines: Problems, documents, and discourses on food in Southern France in the 16th and 17th centuries”. Food and Foodways 1-3, p. 221-251.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gloning, T., </hi> (2000): Monumenta Culinaria et Diaetetica Historica. Corpus of culinary &amp; dietetic texts of Europe from the Middle Ages to 1800. Corpus älterer deutscher Kochbücher und Ernährungslehren [WWW Document]. URL <ref target="http://www.staff.uni-giessen.de/gloning/kobu.htm">http://www.staff.uni-giessen.de/gloning/kobu.htm</ref>
-	(accessed 1.7.20).
-      </bibl>
+	<rs type="bibl" ref="#bibl__5166">Gloning, T., (2000): Monumenta Culinaria et Diaetetica Historica. Corpus of culinary &amp; dietetic texts of Europe from the Middle Ages to 1800. Corpus älterer deutscher Kochbücher und Ernährungslehren [WWW Document]. URL http://www.staff.uni-giessen.de/gloning/kobu.htm (accessed 1.7.20).</rs></bibl>
       <bibl>
-	<hi rend="bold">Hieatt, C. </hi> (1995): Sorting through the Titles of Medieval Dishes: What Is, or Is Not, a “Blanc manger”. In M. W. Adamson (Ed.), Food in the Middle Ages. A Book of Essays. (pp. 25-43). New York, London: Garland.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5167">Hieatt, C. (1995): Sorting through the Titles of Medieval Dishes: What Is, or Is Not, a “Blanc manger”. In M. W. Adamson (Ed.), Food in the Middle Ages. A Book of Essays. (pp. 25-43). New York, London: Garland.</rs></bibl>
       <bibl>
-	<hi rend="bold">Hyman, P. &amp; M. </hi> (2005). «Les associations de saveurs dans les livres de cuisine français du XVIe siècle». In 
-	<hi rend="italic">Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles). Actes du colloque international à la mémoire de Jean-Louis Flandrin</hi>
-	(Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 135-150). Saint-Denis: Presses Universitaires de Vincennes.
-      </bibl>
+	<rs type="bibl" ref="#bibl__421">Hyman, P. &amp; M. (2005). «Les associations de saveurs dans les livres de cuisine français du XVIe siècle». In Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles). Actes du colloque international à la mémoire de Jean-Louis Flandrin (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 135-150). Saint-Denis: Presses Universitaires de Vincennes.</rs></bibl>
       <bibl>
-	<hi rend="bold">Karg, S. (Ed.). </hi> (2007): Medieval Food Traditions in Northern Europe. Copenhagen: National Museum of Denmark.
-      </bibl>
+	<rs type="bibl" ref="#bibl__422">Karg, S. (Ed.). (2007): Medieval Food Traditions in Northern Europe. Copenhagen: National Museum of Denmark.</rs></bibl>
       <bibl>
-	<hi rend="bold">Klug, H. W., &amp; Kranich, K.</hi> (2015): “Das Edieren von handschriftlichen Kochrezepttexten am Weg ins digitale Zeitalter. Zur Neuedition des Tegernseer Wirtschaftsbuches.” In T. Bein (Ed.), Vom Nutzen der Editionen. Zur Bedeutung moderner Editorik für die Erforschung von Literatur- und Kulturgeschichte. (pp. 121-137). Berlin, Boston: De Gruyter.
-      </bibl>
+	<rs type="bibl" ref="#bibl__423">Klug, H. W., &amp; Kranich, K. (2015): “Das Edieren von handschriftlichen Kochrezepttexten am Weg ins digitale Zeitalter. Zur Neuedition des Tegernseer Wirtschaftsbuches.” In T. Bein (Ed.), Vom Nutzen der Editionen. Zur Bedeutung moderner Editorik für die Erforschung von Literatur- und Kulturgeschichte. (pp. 121-137). Berlin, Boston: De Gruyter.</rs></bibl>
       <bibl>
-	<hi rend="bold">Laurioux, B.</hi> (2005): «Les voyageurs et la gastronomie en Europe à la fin du Moyen âge ». In Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles), Actes du colloque international à la mémoire de Jean-Louis Flandrin (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 99-117). Saint-Denis, Presses Universitaires de Vincennes.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5168">Laurioux, B. (2005): «Les voyageurs et la gastronomie en Europe à la fin du Moyen âge ». In Le Désir et le Goût. Une autre histoire (XIIIe-XVIIIe siècles), Actes du colloque international à la mémoire de Jean-Louis Flandrin (Saint-Denis, septembre 2003). Dir. Odile Redon, Line Sallman et Sylvie Steinberg. (p. 99-117). Saint-Denis, Presses Universitaires de Vincennes.</rs></bibl>
       <bibl>
-      <hi rend="bold">van Winter, J. M. </hi> (1989). “Kochen und Essen im Mittelalter.” In
-      B. Herrmann (Ed.). Mensch und Umwelt im
-      Mittelalter. (pp. 88-100). Frankfurt am Main: Fischer
-      Taschenbuch Verl.
-      </bibl>
+      <rs type="bibl" ref="#bibl__424">van Winter, J. M. (1989). “Kochen und Essen im Mittelalter.” In B. Herrmann (Ed.). Mensch und Umwelt im Mittelalter. (pp. 88-100). Frankfurt am Main: Fischer Taschenbuch Verl.</rs></bibl>
 </listBibl>
 </div>
 </back>

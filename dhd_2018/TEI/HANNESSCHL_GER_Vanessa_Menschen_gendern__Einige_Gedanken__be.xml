@@ -115,20 +115,20 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__624">Peter Andorfer, Vanessa Hannesschläger (2017): TEI Abstracts 2016. A little application to publish the abstracts of the TEI conference 2016. http://tei2016app.acdh.oeaw.ac.at/</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__625">Judith Butler (1988): Performative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory. In: Theatre Journal 40:4, 519–531.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__626">Judith Butler (2010): Performative Agency. In: Journal of Cultural Economy 3:2, 147–161.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__627">Genderchecker: http://genderchecker.com/</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__628">genderize.io: Determine the gender of a first name. https://genderize.io/</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__629">Vanessa Hannesschläger, Daniel Schopper (Hg.) (2017): TEI Conference and Members’ Meeting 2016. Book of Abstracts [XML/TEI files]. https://github.com/acdh-oeaw/TEI2016abstracts</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__630">Stefan Hirschauer (1994): Die soziale Fortpflanzung der Zwei-Geschlechtlichkeit. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie 46:4, 668–692.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__631">Stefan Hirschauer (2001): Das Vergessen des Geschlechts: Zur Praxeologie einer Kategorie sozialer Ordnung. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie (Sonderheft 41), 208–235.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__632">Mark Kantrowitz (1997): Name Corpus: List of Male, Female, and Pet names. CMU Artificial Intelligence Repository. http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__633">Natural Language Toolkit (NLTK). http://www.nltk.org/</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__634">Susanne Oelkers (2003): Naming gender. Empirische Untersuchungen zur phonologischen Struktur von Vornamen im Deutschen. Frankfurt a. M.: Lang.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__58">TEI Consortium (2017): TEI P5: Guidelines for Electronic Text Encoding and Interchange. http://www.tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__635">Virtual International Authority File (VIAF). https://viaf.org/</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__636">Candance West, Don Zimmerman (1987): Doing Gender. In: Gender and Society 1:2, 125–151.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3567">Peter Andorfer, Vanessa Hannesschläger (2017): TEI Abstracts 2016. A little application to publish the abstracts of the TEI conference 2016. http://tei2016app.acdh.oeaw.ac.at/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3568">Judith Butler (1988): Performative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory. In: Theatre Journal 40:4, 519–531.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3569">Judith Butler (2010): Performative Agency. In: Journal of Cultural Economy 3:2, 147–161.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3570">Genderchecker: http://genderchecker.com/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3571">genderize.io: Determine the gender of a first name. https://genderize.io/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3572">Vanessa Hannesschläger, Daniel Schopper (Hg.) (2017): TEI Conference and Members’ Meeting 2016. Book of Abstracts [XML/TEI files]. https://github.com/acdh-oeaw/TEI2016abstracts</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3573">Stefan Hirschauer (1994): Die soziale Fortpflanzung der Zwei-Geschlechtlichkeit. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie 46:4, 668–692.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3574">Stefan Hirschauer (2001): Das Vergessen des Geschlechts: Zur Praxeologie einer Kategorie sozialer Ordnung. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie (Sonderheft 41), 208–235.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3575">Mark Kantrowitz (1997): Name Corpus: List of Male, Female, and Pet names. CMU Artificial Intelligence Repository. http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3576">Natural Language Toolkit (NLTK). http://www.nltk.org/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3577">Susanne Oelkers (2003): Naming gender. Empirische Untersuchungen zur phonologischen Struktur von Vornamen im Deutschen. Frankfurt a. M.: Lang.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__20">TEI Consortium (2017): TEI P5: Guidelines for Electronic Text Encoding and Interchange. http://www.tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3578">Virtual International Authority File (VIAF). https://viaf.org/</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3579">Candance West, Don Zimmerman (1987): Doing Gender. In: Gender and Society 1:2, 125–151.</rs></bibl>
                 </listBibl>
             </div>
       </back>

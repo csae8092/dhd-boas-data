@@ -186,53 +186,25 @@
     <listBibl>
       <head>Bibliographie</head>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Baierer, Konstantin / Boenig, Matthias / Hartmann, Volker / Hermann, Elisa / Neudecker, Clemens</hi> (2019): 
-	<hi rend="italic">„Vom gedruckten Werk zu elektronischem Volltext als Forschungsgrundlage“</hi> (Workshop)
-	(<ptr target="https://zenodo.org/record/2596095/files/2019_DHd_BookOfAbstracts_web.pdf"/>, S. 58).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4266">Baierer, Konstantin / Boenig, Matthias / Hartmann, Volker / Hermann, Elisa / Neudecker, Clemens (2019): „Vom gedruckten Werk zu elektronischem Volltext als Forschungsgrundlage“ (Workshop) (, S. 58).</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Boenig, Matthias / Würzner, Kay-Michael / Binder, Arne / Springmann, Uwe </hi> (2016): 
-	<hi rend="italic" xml:space="preserve">„Über den Mehrwert der Vernetzung von OCR-Verfahren zur Erfassung von Texten des 17. Jahrhunderts.“ </hi>
-	Vortrag auf der DHd 2016, 7.12.03.2016 in Leipzig (<ptr target="http://dhd2016.de/boa.pdf#page=103"/>).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4267">Boenig, Matthias / Würzner, Kay-Michael / Binder, Arne / Springmann, Uwe (2016): „Über den Mehrwert der Vernetzung von OCR-Verfahren zur Erfassung von Texten des 17. Jahrhunderts.“ Vortrag auf der DHd 2016, 7.12.03.2016 in Leipzig ().</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Boenig, Matthias / Federbusch, Maria / Herrmann, Elisa / Neudecker, Clemens / Würzner, Kay-Michael </hi>(2018):
-	<hi rend="italic"> „Ground Truth: Grundwahrheit oder Ad-Hoc-Lösung? Wo stehen die Digital Humanities?“</hi>.
-	Vortrag auf der DHd2018, 28.02.2018 in Köln
-	(<ptr target="http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf#page=221"/>).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4268">Boenig, Matthias / Federbusch, Maria / Herrmann, Elisa / Neudecker, Clemens / Würzner, Kay-Michael (2018): „Ground Truth: Grundwahrheit oder Ad-Hoc-Lösung? Wo stehen die Digital Humanities?“. Vortrag auf der DHd2018, 28.02.2018 in Köln ().</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Castelvecchi, Davide</hi> (2019): 
-      <hi rend="italic">“Venice ‘Time Machine’ Project Suspended amid Data Row. Disagreements between International Partners Leave Plans to Digitize the Italian City’s History in Limbo”</hi> in: 
-      <hi rend="italic">Nature</hi> 574: 607.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4269">Castelvecchi, Davide (2019): “Venice ‘Time Machine’ Project Suspended amid Data Row. Disagreements between International Partners Leave Plans to Digitize the Italian City’s History in Limbo” in: Nature 574: 607.</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">DFG </hi> (2019): 
-	<hi rend="italic">„Weiterentwicklung des Förderprogramms ‚Informationsinfrastrukturen für Forschungsdaten‘"</hi>
-	<ptr target="https://zenodo.org/record/2650866"/> [6.3.2019 / 26.9.2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__4270">DFG (2019): „Weiterentwicklung des Förderprogramms ‚Informationsinfrastrukturen für Forschungsdaten‘" [6.3.2019 / 26.9.2019].</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Kempf, Klaus</hi> (2015): 
-      <hi rend="italic">„Data Curation oder (Retro-)Digitalisierung ist mehr als die Produktion von Daten“</hi> in: 
-      <hi rend="italic">o-bib</hi> 4: 268–278.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4271">Kempf, Klaus (2015): „Data Curation oder (Retro-)Digitalisierung ist mehr als die Produktion von Daten“ in: o-bib 4: 268–278.</rs></bibl>
       <bibl style="text-align:left; ">
-      <hi rend="bold">Neuroth, Heike / Rothfritz, Laura / Petras, Vivien / Kindling, Maxi</hi>  (2019): “Digitales Datenmanagement als neue Aufgabe für wissenschaftliche Bibliotheken” in: Bibliothek. Forschung und Praxis 43: 421–431.</bibl>
+      <rs type="bibl" ref="#bibl__4272">Neuroth, Heike / Rothfritz, Laura / Petras, Vivien / Kindling, Maxi (2019): “Digitales Datenmanagement als neue Aufgabe für wissenschaftliche Bibliotheken” in: Bibliothek. Forschung und Praxis 43: 421–431.</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Smith, David A. / Cordell, Ryan </hi> (2018): 
-	<hi rend="italic">“A Research Agenda for Historical and Multilingual Optical Character Recognition”</hi>
-	<ptr target="http://hdl.handle.net/2047/D20297452"/> [9.12.2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__4273">Smith, David A. / Cordell, Ryan (2018): “A Research Agenda for Historical and Multilingual Optical Character Recognition” [9.12.2019].</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Wikipedia, Die freie Enzyklopädie</hi>  (2019): 
-	<hi rend="italic">„Google Books“</hi>.
-	<ptr target="https://de.wikipedia.org/w/index.php?title=Google_Books&amp;oldid=189583765"/> [16.6.2019 / 25.9.2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__4274">Wikipedia, Die freie Enzyklopädie (2019): „Google Books“. [16.6.2019 / 25.9.2019].</rs></bibl>
       <bibl style="text-align:left; ">
-	<hi rend="bold">Wikisource </hi> (2019): 
-	<hi rend="italic">“Google Book Search”</hi>
-	<ptr target="https://de.wikisource.org/wiki/Wikisource:Google_Book_Search"/> [22.8.2019 / 26.9.2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__4275">Wikisource (2019): “Google Book Search” [22.8.2019 / 26.9.2019].</rs></bibl>
     </listBibl>
 </div>
 </back>

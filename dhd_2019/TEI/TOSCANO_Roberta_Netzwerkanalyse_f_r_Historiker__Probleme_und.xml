@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Netzwerkanalyse für Historiker. Probleme und Lösungen am Beispiel eines Promotionsvorhabens</title><title type="conf_year">2019</title><author ref="#person__toscano-r-outlook-de">
+                <title>Netzwerkanalyse für Historiker. Probleme und Lösungen am Beispiel eines Promotionsvorhabens</title><title type="conf_year">2019</title>
+                <author ref="#person__toscano-r-outlook-de">
                     <persName>
                         <surname>Toscano</surname>
                         <forename>Roberta</forename>
@@ -108,15 +109,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. 
-                        <rs type="bibl" ref="#bibl__3937">Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media. https://gephi.org/publications/gephi-bastian-feb09.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1107">Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media. https://gephi.org/publications/gephi-bastian-feb09.pdf</rs></bibl>
                     <bibl>Düring, Marten. (2017). “Historical Network Research. Network Analysis in the Historical Disciplines.” 
-                        <rs type="bibl" ref="#bibl__3938">Düring, Marten. (2017). “Historical Network Research. Network Analysis in the Historical Disciplines.” http://historicalnetworkresearch.org/ .</rs></bibl>
-                    <bibl>Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.<rs type="bibl" ref="#bibl__3939">Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.</rs></bibl>
-                    <bibl>Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/<rs type="bibl" ref="#bibl__3940">Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/</rs></bibl>
-                    <bibl>Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.<rs type="bibl" ref="#bibl__152">Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.</rs></bibl>
-                    <bibl>Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/<rs type="bibl" ref="#bibl__3941">Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1108">Düring, Marten. (2017). “Historical Network Research. Network Analysis in the Historical Disciplines.” http://historicalnetworkresearch.org/ .</rs></bibl>
+                    <bibl>Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.<rs type="bibl" ref="#bibl__32">Düring, Marten/ Kerschbaumer, Florian (2016): "Quantifizierung und Visualisierung. Anknüpfungspunkte in den Geschichtswissenschaften" in: Düring, Marten/ Eumann, Ulrich/ Stark, Martin, von Keyserlingk, Linda (eds.): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster: Lit Verlag 31- 44.</rs></bibl>
+                    <bibl>Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/<rs type="bibl" ref="#bibl__1109">Grandjean,M. (2015): GEPHI – Introduction to Network Analysis and Visualization. http://www.martingrandjean.ch/gephi-introduction/</rs></bibl>
+                    <bibl>Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.<rs type="bibl" ref="#bibl__34">Jannidis, Fotis/ Kohle, Hubertus/ Rehbein, Malte (2017): Digital Humanities. Eine Einführung. Stuttgart: J. B. Metzler.</rs></bibl>
+                    <bibl>Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/<rs type="bibl" ref="#bibl__1110">Milligan, I. (2015): From Dataverse to Gephi: Network Analysis on our Data, A Step-by-Step Walkthrough. https://ianmilligan.ca/2015/12/11/from-dataverse-to-gephi-network-analysis-on-our-data/</rs></bibl>
                     <bibl>Scott, John. 
-                        <rs type="bibl" ref="#bibl__3942">Scott, John. What Is Social Network Analysis? London: Bloomsbury Academic, 2013.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1111">Scott, John. What Is Social Network Analysis? London: Bloomsbury Academic, 2013.</rs></bibl>
                 </listBibl>
             </div>
         </back>

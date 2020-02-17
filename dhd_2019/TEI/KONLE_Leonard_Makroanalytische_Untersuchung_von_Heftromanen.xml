@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Makroanalytische Untersuchung von Heftromanen</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
                     <persName>
                         <surname>Jannidis</surname>
@@ -339,45 +340,45 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3722">Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. (2003): “Latent dirichlet allocation”. Journal of machine Learning research , 3 (Jan), 993-1022.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__91">Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. (2003): “Latent dirichlet allocation”. Journal of machine Learning research , 3 (Jan), 993-1022.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__187">Burrows, J. : »All the Way Through. Testing for Authorship in Different Frequency Strata«, in: Literary and Linguistic Computing 22.1 (2007), S.27–47.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__92">Burrows, J. : »All the Way Through. Testing for Authorship in Different Frequency Strata«, in: Literary and Linguistic Computing 22.1 (2007), S.27–47.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3723">Craig, H., Kinney, A. (2009): Shakespeare, Computers, and the Mystery of Authorship. Cambridge.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__866">Craig, H., Kinney, A. (2009): Shakespeare, Computers, and the Mystery of Authorship. Cambridge.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__158">Eder, M., Rybicki, J., and Kestemont, M. (2016). Stylometry with R: a package for computational text analysis. R Journal, 8(1): 107-121.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__867">Eder, M., Rybicki, J., and Kestemont, M. (2016). Stylometry with R: a package for computational text analysis. R Journal, 8(1): 107-121.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3724">Foltin, H. F. (1965): Die minderwertige Prosaliteratur. Einteilung und Bezeichnung. In: DVjs 39 H. 2, 288–323.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__868">Foltin, H. F. (1965): Die minderwertige Prosaliteratur. Einteilung und Bezeichnung. In: DVjs 39 H. 2, 288–323.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3725">Domagalski, P. (1980): Trivialliteratur. Geschichte. Produktion, Rezeption. Freiburg im Breisgau.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__869">Domagalski, P. (1980): Trivialliteratur. Geschichte. Produktion, Rezeption. Freiburg im Breisgau.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3726">Hügel, H.-O. (2007): Lob des Mainstreams. Zu Theorie und Geschichte von Unterhaltung und Populärer Kultur. Köln: Halem.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__870">Hügel, H.-O. (2007): Lob des Mainstreams. Zu Theorie und Geschichte von Unterhaltung und Populärer Kultur. Köln: Halem.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3727">Evert, S. Proisl, T., Reger, I., Pielström, S., Schöch, C. Vitt, T. (2017): Understanding and explaining Delta measures for authorship attribution. In: Digital Scholarship Humanities 32, 2,1, p. ii4-ii16.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__871">Evert, S. Proisl, T., Reger, I., Pielström, S., Schöch, C. Vitt, T. (2017): Understanding and explaining Delta measures for authorship attribution. In: Digital Scholarship Humanities 32, 2,1, p. ii4-ii16.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3728">Hettinger, L., Jannidis, F., Reger, I., Hotho, A. (2016): Classification of Literary Subgenres. Abstracts DHd-Tagung 2016, Leipzig 2016.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__872">Hettinger, L., Jannidis, F., Reger, I., Hotho, A. (2016): Classification of Literary Subgenres. Abstracts DHd-Tagung 2016, Leipzig 2016.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3729">Kelleter, F. ( 2012) : Populäre Serialität. Eine Einführung. In: ders.: (Hg.): Populäre Serialität: Narration – Evolution – Distinktion. Zum seriellen Erzählen seit dem 19. Jahrhundert. Bielefeld: transcript, S. 11-46.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__873">Kelleter, F. ( 2012) : Populäre Serialität. Eine Einführung. In: ders.: (Hg.): Populäre Serialität: Narration – Evolution – Distinktion. Zum seriellen Erzählen seit dem 19. Jahrhundert. Bielefeld: transcript, S. 11-46.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3730">Kubát, M. &amp; Milička, J. (2013). Vocabulary richness measure in genres. Journal of Quantitative Linguistics, 20(4), 339–349.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__874">Kubát, M. &amp; Milička, J. (2013). Vocabulary richness measure in genres. Journal of Quantitative Linguistics, 20(4), 339–349.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__9">McCallum, A.: "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu . 2002.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__93">McCallum, A.: "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu . 2002.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3731">McInnes, L. Healy, J. (2018): “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction”, ArXiv e-prints 1802.03426</rs></bibl>
+                        <rs type="bibl" ref="#bibl__94">McInnes, L. Healy, J. (2018): “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction”, ArXiv e-prints 1802.03426</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__273">Nast, M. (2017): "Perry Rhodan" lesen. Zur Serialität der Lektürepraktiken einer Heftromanserie. Bielefeld: transcript.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__875">Nast, M. (2017): "Perry Rhodan" lesen. Zur Serialität der Lektürepraktiken einer Heftromanserie. Bielefeld: transcript.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3732">Nusser, P. : Romane für die Unterschicht. Stuttgart 1982.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__876">Nusser, P. : Romane für die Unterschicht. Stuttgart 1982.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3733">Nutz, W.; Schlögell, V. (1991): Die Heftroman-Leserinnen und -Leser in Deutschland. Beiträge zur Erfassung popularkulturaler Phänomene. In: Communications 16 (2). DOI: 10.1515/comm.1991.16.2.133.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__877">Nutz, W.; Schlögell, V. (1991): Die Heftroman-Leserinnen und -Leser in Deutschland. Beiträge zur Erfassung popularkulturaler Phänomene. In: Communications 16 (2). DOI: 10.1515/comm.1991.16.2.133.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3734">Schöch, C. (2018). Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie. In Bernhart, T., et al. (eds.), Quantitative Ansätze in der Literatur- und Geisteswissenschaften . Berlin: de Gruyter. 77-94.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__878">Schöch, C. (2018). Zeta für die kontrastive Analyse literarischer Texte. Theorie, Implementierung, Fallstudie. In Bernhart, T., et al. (eds.), Quantitative Ansätze in der Literatur- und Geisteswissenschaften . Berlin: de Gruyter. 77-94.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3735">Schöch, C. Schlör, D., Zehe, A., Gebhard, H, Becker, M., Hotho, A. : Burrows’ Zeta: Exploring and Evaluating Variants and Parameters. Abstracts DH 2018.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__879">Schöch, C. Schlör, D., Zehe, A., Gebhard, H, Becker, M., Hotho, A. : Burrows’ Zeta: Exploring and Evaluating Variants and Parameters. Abstracts DH 2018.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3736">Stiftung Lesen . Lesen in Deutschland 2008. https://www.stiftunglesen.de/download.php?type=documentpdf&amp;id=11</rs></bibl>
+                        <rs type="bibl" ref="#bibl__880">Stiftung Lesen . Lesen in Deutschland 2008. https://www.stiftunglesen.de/download.php?type=documentpdf&amp;id=11</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3737">Stockinger, C. (2018): Das Groschenheft. In: Carlos Spoerhase und Steffen Martus (Hg.): Gelesene Literatur. Populäre Lektüre im Zeichen des Medienwandels. München: text + kritik. (Im Druck)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__881">Stockinger, C. (2018): Das Groschenheft. In: Carlos Spoerhase und Steffen Martus (Hg.): Gelesene Literatur. Populäre Lektüre im Zeichen des Medienwandels. München: text + kritik. (Im Druck)</rs></bibl>
                 </listBibl>
             </div>
         </back>

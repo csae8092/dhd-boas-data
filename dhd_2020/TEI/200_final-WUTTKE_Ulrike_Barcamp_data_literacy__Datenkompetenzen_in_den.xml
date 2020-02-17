@@ -210,80 +210,37 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Budd, A. / Dinkel, H. / Corpas, M. / Fuller, J.C. / Rubinat, L. / Devos, D.P. / Khoueiry, P.H. / Förstner, K.U. / Georgatos, F. / Rowland, F. / Sharan, M. / Binder, J.X. / Grace, T. / Traphagen, K. / Gristwood, A. / Wood, N.T. </hi> (2015): “Ten simple rules for organizing an unconference”, in: 
-  <hi rend="italic">PLoS Comput Biol.</hi> 11, e1003905, DOI: 10.1371/journal.pcbi.1003905.
-</bibl>
+  <rs type="bibl" ref="#bibl__4790">Budd, A. / Dinkel, H. / Corpas, M. / Fuller, J.C. / Rubinat, L. / Devos, D.P. / Khoueiry, P.H. / Förstner, K.U. / Georgatos, F. / Rowland, F. / Sharan, M. / Binder, J.X. / Grace, T. / Traphagen, K. / Gristwood, A. / Wood, N.T. (2015): “Ten simple rules for organizing an unconference”, in: PLoS Comput Biol. 11, e1003905, DOI: 10.1371/journal.pcbi.1003905.</rs></bibl>
 <bibl>
-  <hi rend="bold">DCC </hi> (2019): “Unconference”, Blogpost: 
-  <ref target="http://www.dcc.ac.uk/events/idcc19/unconference">http://www.dcc.ac.uk/events/idcc19/unconference</ref> [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4791">DCC (2019): “Unconference”, Blogpost: http://www.dcc.ac.uk/events/idcc19/unconference [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">DFG </hi> (2019): 
-  <hi rend="italic">Leitlinien zur Sicherung guter wissenschaftlicher Praxis: Kodex</hi>, Bonn, 
-  <ref target="https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf">https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf</ref>
-  [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4792">DFG (2019): Leitlinien zur Sicherung guter wissenschaftlicher Praxis: Kodex, Bonn, https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Dogunke, Swantje / Steyer, Timo / Mayer, Corinna</hi> (2018): “Barcamp Data and Demons: von Bestands- und Forschungsdaten zu Services. Treffen sich ein Bibliothekar, eine Archäologin, ein Informatiker, …” in: 
-  <hi rend="italic">LIBREAS. Library Ideas</hi> 33,
-  <ptr target="https://libreas.eu/ausgabe33/dogunke/"/> [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__57">Dogunke, Swantje / Steyer, Timo / Mayer, Corinna (2018): “Barcamp Data and Demons: von Bestands- und Forschungsdaten zu Services. Treffen sich ein Bibliothekar, eine Archäologin, ein Informatiker, …” in: LIBREAS. Library Ideas 33, [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Dolzycka, Dominika / Biernacka, Katarzyna / Helbig, Kerstin / Buchholz, Petra </hi> (2019): 
-  <hi rend="italic">Train-the-Trainer Konzept zum Thema Forschungsdatenmanagement (Version 2.0)</hi>, DOI: 
-  <ptr target="http://doi.org/10.5281/zenodo.2581292"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4793">Dolzycka, Dominika / Biernacka, Katarzyna / Helbig, Kerstin / Buchholz, Petra (2019): Train-the-Trainer Konzept zum Thema Forschungsdatenmanagement (Version 2.0), DOI: .</rs></bibl>
 <bibl>
-  <hi rend="bold">FDMentor &amp; DINI/nestor-AG Forschungsdaten </hi> (2018): "Materialkatalog zum Forschungsdatenmanagement (Version 1.0) [Data set]". DOI: 
-  <ptr target="http://doi.org/10.5281/zenodo.1209284"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4794">FDMentor &amp; DINI/nestor-AG Forschungsdaten (2018): "Materialkatalog zum Forschungsdatenmanagement (Version 1.0) [Data set]". DOI: .</rs></bibl>
 <bibl>
-  <hi rend="bold">Forschungsdaten.org </hi> (o. J.): "Data Policies", Webseite, 
-  <ptr target="https://www.forschungsdaten.org/"/>
-  [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4795">Forschungsdaten.org (o. J.): "Data Policies", Webseite, [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Helbig, Kerstin / Hahn, Uli / Jagusch, Gerald / Rex, Jessica</hi> (2018): “Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy” in: 
-  <hi rend="italic">Bausteine Forschungsdatenmanagement</hi> 1: 17-23, DOI: 
-  <ptr target="https://doi.org/10.17192/bfdm.2018.1.7945"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4796">Helbig, Kerstin / Hahn, Uli / Jagusch, Gerald / Rex, Jessica (2018): “Erstellung und Realisierung einer institutionellen Forschungsdaten-Policy” in: Bausteine Forschungsdatenmanagement 1: 17-23, DOI: .</rs></bibl>
 <bibl>
-  <hi rend="bold">Lemaire, Marina </hi> (2018): “Vereinbarkeit von Forschungsprozess und Datenmanagement. Forschungsdatenmanagement nüchtern betrachtet” in: 
-  <hi rend="italic">o-bib. Das offene Bibliotheksjournal</hi> 5(4): 237–247, DOI: 
-  <ptr target="https://doi.org/10.5282/o-bib/2018H4S237-247"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4797">Lemaire, Marina (2018): “Vereinbarkeit von Forschungsprozess und Datenmanagement. Forschungsdatenmanagement nüchtern betrachtet” in: o-bib. Das offene Bibliotheksjournal 5(4): 237–247, DOI: .</rs></bibl>
 <bibl>
-  <hi rend="bold">Muuß-Merholz, Jöran</hi> (2019): 
-  <hi rend="italic">Barcamps &amp; Co: Peer to Peer-Methoden für Fortbildungen</hi>, Weinheim: Beltz 
-  <ptr target="http://www.content-select.com/index.php?id=bib_view&amp;ean=9783407367082"/> [letzter Zugriff 11.12.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4798">Muuß-Merholz, Jöran (2019): Barcamps &amp; Co: Peer to Peer-Methoden für Fortbildungen, Weinheim: Beltz [letzter Zugriff 11.12.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">RfII</hi> (2016): <hi rend="italic">Leistung aus Vielfalt – Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland</hi>, Göttingen, 
-  <ptr target="http://www.rfii.de/?wpdmdl=1998"/> [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__414">RfII (2016): Leistung aus Vielfalt – Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen, [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">RfII</hi> (2019): 
-  <hi rend="italic">Digitale Kompetenzen – dringend gesucht! Empfehlungen zu Berufs- und Ausbildungsperspektiven für den Arbeitsmarkt Wissenschaft</hi>, Göttingen, 
-  <ptr target="http://www.rfii.de/?wpdmdl=3883"/> [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4799">RfII (2019): Digitale Kompetenzen – dringend gesucht! Empfehlungen zu Berufs- und Ausbildungsperspektiven für den Arbeitsmarkt Wissenschaft, Göttingen, [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Schüller, Katharina / Busch, Paulina / Hindinger, Carina</hi> (2019): 
-  <hi rend="italic">Future Skills: Ein Framework für Data Literacy</hi>. Hochschulforum Digitalisierung. Arbeitspapier Nr. 47. 
-  <ptr target="https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr_47_DALI_Kompetenzrahmen_WEB.pdf"/> [letzter Zugriff 10.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4800">Schüller, Katharina / Busch, Paulina / Hindinger, Carina (2019): Future Skills: Ein Framework für Data Literacy. Hochschulforum Digitalisierung. Arbeitspapier Nr. 47. [letzter Zugriff 10.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Tóth-Czifra, Erzsébet / Wuttke, Ulrike</hi> (2019): “Loners, Pathfinders, or Explorers? How are the Humanities Progressing in Open Science?" (Bericht vom Open Science Barcamp Berlin, 2019), Blogpost Generation R, 20.04.2019, DOI: 
-  <ptr target="https://doi.org/10.25815/x516-wf23"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4801">Tóth-Czifra, Erzsébet / Wuttke, Ulrike (2019): “Loners, Pathfinders, or Explorers? How are the Humanities Progressing in Open Science?" (Bericht vom Open Science Barcamp Berlin, 2019), Blogpost Generation R, 20.04.2019, DOI: .</rs></bibl>
 <bibl>
-  <hi rend="bold">Wiljes, Cord / Cimiano, Philipp</hi> (2019): “Teaching Research Data Management for Students” in: 
-  <hi rend="italic">Data Science Journal</hi> 18(1), DOI: 
-  <ptr target="http://doi.org/10.5334/dsj-2019-038"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4802">Wiljes, Cord / Cimiano, Philipp (2019): “Teaching Research Data Management for Students” in: Data Science Journal 18(1), DOI: .</rs></bibl>
 <bibl>
-  <hi rend="bold">Wuttke, Ulrike / Klar, Jochen</hi> (2019): "How FAR is FAIR? Der öffentliche Zugang zu geisteswissenschaftlichen Forschungsdaten als gute wissenschaftliche Praxis und die Rolle des Forschungsdatenmanagements", Vortragsfolien, DOI: 
-  <ptr target="http://doi.org/10.5281/zenodo.3365979"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4803">Wuttke, Ulrike / Klar, Jochen (2019): "How FAR is FAIR? Der öffentliche Zugang zu geisteswissenschaftlichen Forschungsdaten als gute wissenschaftliche Praxis und die Rolle des Forschungsdatenmanagements", Vortragsfolien, DOI: .</rs></bibl>
 </listBibl>
 </div>
 </back>

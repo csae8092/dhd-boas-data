@@ -127,70 +127,33 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">ADHO: </hi> <ref target="https://dh2019.adho.org/conftool/">https://dh2019.adho.org/conftool/</ref>
-[letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__4296">ADHO: https://dh2019.adho.org/conftool/ [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">ANNO (AustriaN Newpapers Online): </hi> <ref target="http://anno.onb.ac.at/">http://anno.onb.ac.at/</ref>
- [letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__194">ANNO (AustriaN Newpapers Online): http://anno.onb.ac.at/ [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Crymble, Adam </hi> (2016): “Digital Library Search Preferences amongst Historians and Genealogists: British History Online User Survey”, in: 
-<hi rend="italic">Digital Humanities Quarterly</hi> 10(4)
-<ref target="http://www.digitalhumanities.org/dhq/vol/10/4/000270/000270.html">http://www.digitalhumanities.org/dhq/vol/10/4/000270/000270.html</ref>
-[letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__4297">Crymble, Adam (2016): “Digital Library Search Preferences amongst Historians and Genealogists: British History Online User Survey”, in: Digital Humanities Quarterly 10(4) http://www.digitalhumanities.org/dhq/vol/10/4/000270/000270.html [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Ehrmann, Maud / Bunout, Estelle / Düring, Marten</hi> (2019): “Historical Newspaper User Interfaces: A Review”, in: 
-<hi rend="italic">IFLA</hi>
-<ref target="http://library.ifla.org/2578/1/085-ehrmann-en.pdf">http://library.ifla.org/2578/1/085-ehrmann-en.pdf</ref>
-[letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__4298">Ehrmann, Maud / Bunout, Estelle / Düring, Marten (2019): “Historical Newspaper User Interfaces: A Review”, in: IFLA http://library.ifla.org/2578/1/085-ehrmann-en.pdf [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Ferguson, NJ et al.</hi> (2015): “Media Content and Stock Returns: The Predictive Power of Press”, in:
-<hi rend="italic">Multinational Finance Journal</hi> 19(1): 1–31.
-</bibl>
+<rs type="bibl" ref="#bibl__4299">Ferguson, NJ et al. (2015): “Media Content and Stock Returns: The Predictive Power of Press”, in: Multinational Finance Journal 19(1): 1–31.</rs></bibl>
 <bibl>
-<hi rend="bold">García, D. </hi> (2013): “Sentiment during Recessions”, in:
-<hi rend="italic">The Journal of Finance</hi> 68(3): 1267–1300.
-</bibl>
+<rs type="bibl" ref="#bibl__4300">García, D. (2013): “Sentiment during Recessions”, in: The Journal of Finance 68(3): 1267–1300.</rs></bibl>
 <bibl>
-<hi rend="bold">Hanna, Alan J. / Turner, John D. / Walker, Clive B. </hi>(2017): “News Media and Investor Sentiment Over the Long Run”, in: QUCEH Working Paper Series, Working Paper No. 2017-06.
-</bibl>
+<rs type="bibl" ref="#bibl__4301">Hanna, Alan J. / Turner, John D. / Walker, Clive B. (2017): “News Media and Investor Sentiment Over the Long Run”, in: QUCEH Working Paper Series, Working Paper No. 2017-06.</rs></bibl>
 <bibl>
-<hi rend="bold">impresso: </hi>
-<ref target="https://impresso-project.ch/">https://impresso-project.ch/</ref>
- [letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__200">impresso: https://impresso-project.ch/ [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Koenen, Erik</hi> (2018): “Digitale Perspektiven in der Kommunikations- und Mediengeschichte”, in:
-<hi rend="italic">Publizistik</hi> 63(4): 535–56 <ref target="https://doi.org/10.1007/s11616-018-0459-4">https://doi.org/10.1007/s11616-018-0459-4</ref>
-[letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__4302">Koenen, Erik (2018): “Digitale Perspektiven in der Kommunikations- und Mediengeschichte”, in: Publizistik 63(4): 535–56 https://doi.org/10.1007/s11616-018-0459-4 [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">NewsEye: </hi>
-<ref target="https://www.newseye.eu/">https://www.newseye.eu/</ref>
-[letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__201">NewsEye: https://www.newseye.eu/ [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Oceanic Exchanges: </hi>
-<ref target="http://oceanicexchanges.org/">http://oceanicexchanges.org/</ref>
- [letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__202">Oceanic Exchanges: http://oceanicexchanges.org/ [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Tetlock, PC </hi> (2007): “Giving Content to Investor Sentiment: The Role of Media in the Stock Market”, in:
-<hi rend="italic">The Journal of Finance</hi> 62 (3): 1139–1168.
-</bibl>
+<rs type="bibl" ref="#bibl__4303">Tetlock, PC (2007): “Giving Content to Investor Sentiment: The Role of Media in the Stock Market”, in: The Journal of Finance 62 (3): 1139–1168.</rs></bibl>
 <bibl>
-<hi rend="bold">Viral Texts:</hi>
-<ref target="https://viraltexts.org./">https://viraltexts.org./</ref>
-[letzter Zugriff 31. August 2019].
-</bibl>
+<rs type="bibl" ref="#bibl__4304">Viral Texts: https://viraltexts.org./ [letzter Zugriff 31. August 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Wijfjes, Huub </hi> (2017): “Digital Humanities and Media History. A Challenge for Historical Newspaper Research”, in: 
-<hi rend="italic">Tijdschrift Voor Mediageschiedenis</hi> 20(1): 4-24–24 <ref target="https://doi.org/10.18146/tmg20277">https://doi.org/10.18146/tmg20277</ref>
-<hi style="font-size:10pt">[letzter Zugriff 31. August 2019].</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4305">Wijfjes, Huub (2017): “Digital Humanities and Media History. A Challenge for Historical Newspaper Research”, in: Tijdschrift Voor Mediageschiedenis 20(1): 4-24–24 https://doi.org/10.18146/tmg20277 [letzter Zugriff 31. August 2019].</rs></bibl>
 </listBibl>
 </div>
 </back>

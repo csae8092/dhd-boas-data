@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT</title><title type="conf_year">2019</title><author ref="#person__mareike-schumacher-uni-hamburg-de">
+                <title>Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT</title><title type="conf_year">2019</title>
+                <author ref="#person__mareike-schumacher-uni-hamburg-de">
                     <persName>
                         <surname>Schumacher</surname>
                         <forename>Mareike</forename>
@@ -163,37 +164,37 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3121">Barthes, Roland (1976): S/Z. Frankfurt am Main: Suhrkamp.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__568">Barthes, Roland (1976): S/Z. Frankfurt am Main: Suhrkamp.</rs></bibl>
                     <bibl>Brossard, Dominique (2013): 
-                        <rs type="bibl" ref="#bibl__3122">Brossard, Dominique (2013): „New media landscape and the science information consumer”, in: PNAS 110 (3), 14096–14101. https://www.pnas.org/content/pnas/110/Supplement_3/14096.full.pdf , [Zugriff 21.12.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__569">Brossard, Dominique (2013): „New media landscape and the science information consumer”, in: PNAS 110 (3), 14096–14101. https://www.pnas.org/content/pnas/110/Supplement_3/14096.full.pdf , [Zugriff 21.12.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3123">Bucher, Hans-Jürgen (2007): „Textdesign und Multimodalität. Zur Semantik und Pragmatik medialer Gestaltungsformen”, in: Roth, Kersten Sven / Spitzmüller, Jürgen (eds.): Textdesign und Textwirkung in der massenmedialen Kommunikation. Konstanz: UVK, 49–76.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__570">Bucher, Hans-Jürgen (2007): „Textdesign und Multimodalität. Zur Semantik und Pragmatik medialer Gestaltungsformen”, in: Roth, Kersten Sven / Spitzmüller, Jürgen (eds.): Textdesign und Textwirkung in der massenmedialen Kommunikation. Konstanz: UVK, 49–76.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3124">Eco, Umberto (1985): Einführung in die Semiotik. München: Fink.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__571">Eco, Umberto (1985): Einführung in die Semiotik. München: Fink.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3125">Herb, Ulrich / Beucke, Daniel (2013): „Die Zukunft der Impact-Messung. Social Media, Nutzung und Zitate im World Wide Web”, in: Wissenschaftsmanagement. Zeitschrift für Innovation 19 (4), 22–25. https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/23789/1/Die_Zukunft_der_Impact_Messung_fuer_Reps_fertig.pdf [Zugriff: 21.12.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__572">Herb, Ulrich / Beucke, Daniel (2013): „Die Zukunft der Impact-Messung. Social Media, Nutzung und Zitate im World Wide Web”, in: Wissenschaftsmanagement. Zeitschrift für Innovation 19 (4), 22–25. https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/23789/1/Die_Zukunft_der_Impact_Messung_fuer_Reps_fertig.pdf [Zugriff: 21.12.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3126">Gao, Jin / Nyhan, Julianne / Duke-Williams, Oliver / Mahony, Simon (2018): „Visualising The Digital Humanities Community: A Comparison Study Between Citation Network And Social Network”, in: Digital Humanities 2018. Book of Abstracts. Puentes-Bridges.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__573">Gao, Jin / Nyhan, Julianne / Duke-Williams, Oliver / Mahony, Simon (2018): „Visualising The Digital Humanities Community: A Comparison Study Between Citation Network And Social Network”, in: Digital Humanities 2018. Book of Abstracts. Puentes-Bridges.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3127">Neuberger, Christian (2014): „Social Media in der Wissenschaftsöffentlichkeit. Forschungsstand und Empfehlungen”, in: Weingart, Peter / Schulz, Patricia (eds.): Wissen – Nachricht – Sensation. Zur Kommunikation zwischen Wissenschaft, Medien und Öffentlichkeit. Weilerswist: Velbrück, 315–368.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__574">Neuberger, Christian (2014): „Social Media in der Wissenschaftsöffentlichkeit. Forschungsstand und Empfehlungen”, in: Weingart, Peter / Schulz, Patricia (eds.): Wissen – Nachricht – Sensation. Zur Kommunikation zwischen Wissenschaft, Medien und Öffentlichkeit. Weilerswist: Velbrück, 315–368.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3128">Puschmann, Cornelius / Bastos, Marco (2015): „How Digital Are the Digital Humanities? An Analysis of Two Scholarly Blogging Platforms”, in: PLOS ONE 10 (2): e0115035. https://doi.org/10.1371/journal.pone.0115035 [Zugriff 2.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__575">Puschmann, Cornelius / Bastos, Marco (2015): „How Digital Are the Digital Humanities? An Analysis of Two Scholarly Blogging Platforms”, in: PLOS ONE 10 (2): e0115035. https://doi.org/10.1371/journal.pone.0115035 [Zugriff 2.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3129">Reid, Alexander (2011): „Social Media Assemblages in Digital Humanities: from Backchannel to Buzz”, in: Wankel, Charles (ed.): Teaching Arts and Science with the New Social Media . West Yorkshire: Emerald Publishing, 321–338.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__576">Reid, Alexander (2011): „Social Media Assemblages in Digital Humanities: from Backchannel to Buzz”, in: Wankel, Charles (ed.): Teaching Arts and Science with the New Social Media . West Yorkshire: Emerald Publishing, 321–338.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3130">Roesler, Alexander / Stiegler, Bernd (eds. 2005): Grundbegriffe der Medientheorie . Paderborn: UTB.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__577">Roesler, Alexander / Stiegler, Bernd (eds. 2005): Grundbegriffe der Medientheorie . Paderborn: UTB.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3131">Ross, Claire (2012): „Social media for digital humanities and community engagement”, in: Warwick, Claire / Terras, Melissa / Nyhann, Julianne (eds.): Digital Humanities in Practice. London: Facet Publishing.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__578">Ross, Claire (2012): „Social media for digital humanities and community engagement”, in: Warwick, Claire / Terras, Melissa / Nyhann, Julianne (eds.): Digital Humanities in Practice. London: Facet Publishing.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3132">Schäfer, Mike S. (2017): „Wissenschaftskommunikation online”, in: Bonfadelli, Heinz et al. (eds.): Forschungsfeld Wissenschaftskommunikation. Wiesbaden: Springer. https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf [Zugriff 21.12.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__579">Schäfer, Mike S. (2017): „Wissenschaftskommunikation online”, in: Bonfadelli, Heinz et al. (eds.): Forschungsfeld Wissenschaftskommunikation. Wiesbaden: Springer. https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf [Zugriff 21.12.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3133">Schelhowe, Heidi (2000): „Informatik”, in: Braun, Christina von / Stephan, Inge (eds.): Gender-Studien. Eine Einführung . Stuttgart, Weimar: Metzler, 207–216.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__580">Schelhowe, Heidi (2000): „Informatik”, in: Braun, Christina von / Stephan, Inge (eds.): Gender-Studien. Eine Einführung . Stuttgart, Weimar: Metzler, 207–216.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3134">Scheu, Andreas M. / Volpers, Anna Maria (2017): „Sozial- und Geisteswissenschaften im öffentlichen Diskurs”, in: Bonfadelli, Heinz et al . (eds.): Forschungsfeld Wissenschaftskommunikation. Wiesbaden: Springer. https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf [Zugriff 21.12.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__581">Scheu, Andreas M. / Volpers, Anna Maria (2017): „Sozial- und Geisteswissenschaften im öffentlichen Diskurs”, in: Bonfadelli, Heinz et al . (eds.): Forschungsfeld Wissenschaftskommunikation. Wiesbaden: Springer. https://link.springer.com/content/pdf/10.1007%2F978-3-658-12898-2.pdf [Zugriff 21.12.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__0">Terras, Melissa (2012): „The Impact of Social Media on the Dissemination of Research: Results of an Experiment”. in: Journal of Digital Humanities 1 (3). http://journalofdigitalhumanities.org/1-3/the-impact-of-social-media-on-the-dissemination-of-research-by-melissa-terras/ [Zugriff 2.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__40">Terras, Melissa (2012): „The Impact of Social Media on the Dissemination of Research: Results of an Experiment”. in: Journal of Digital Humanities 1 (3). http://journalofdigitalhumanities.org/1-3/the-impact-of-social-media-on-the-dissemination-of-research-by-melissa-terras/ [Zugriff 2.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3135">Voigt, Kristin (2012): Informelle Wissenschaftskommunikation und Social Media. Berlin: Frank &amp; Timme.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__582">Voigt, Kristin (2012): Informelle Wissenschaftskommunikation und Social Media. Berlin: Frank &amp; Timme.</rs></bibl>
                 </listBibl>
             </div>
         </back>

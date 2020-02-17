@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forschung öffnen: Möglichkeiten, Potentiale und Grenzen von Open Science am Beispiel der offenen Datenbank “Handke: in Zungen”</title><title type="conf_year">2019</title><author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
+                <title>Forschung öffnen: Möglichkeiten, Potentiale und Grenzen von Open Science am Beispiel der offenen Datenbank “Handke: in Zungen”</title><title type="conf_year">2019</title>
+                <author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
                     <persName>
                         <surname>Hannesschlaeger</surname>
                         <forename>Vanessa</forename>
@@ -83,25 +84,25 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.<rs type="bibl" ref="#bibl__3821">Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.</rs></bibl>
-                    <bibl>Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.<rs type="bibl" ref="#bibl__3822">Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.</rs></bibl>
+                    <bibl>Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.<rs type="bibl" ref="#bibl__1255">Höller, Hans: Eine ungewöhnliche Klassik nach 1945. Das Werk Peter Handkes. Berlin: Suhrkamp 2013.</rs></bibl>
+                    <bibl>Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.<rs type="bibl" ref="#bibl__1256">Kastberger, Klaus / Pektor, Katharina: Vorwort, in: Dies. (Hg.): Die Arbeit des Zuschauers. Peter Handke und das Theater. Salzburg/Wien: Jung und Jung 2012.</rs></bibl>
                     <bibl>Open Science Network Austria (OANA): Über Open Science. 
-                        <rs type="bibl" ref="#bibl__3823">Open Science Network Austria (OANA): Über Open Science. https://www.oana.at/ueber-open-science/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1257">Open Science Network Austria (OANA): Über Open Science. https://www.oana.at/ueber-open-science/</rs></bibl>
                     <bibl style="text-align:left; ">Pomerantz, Jeffrey / Peek, Robin: Fifty shades of open. In: 
-                        <rs type="bibl" ref="#bibl__3824">Pomerantz, Jeffrey / Peek, Robin: Fifty shades of open. In: First Monday 4/2016. http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460</rs></bibl>
-                    <bibl>Ressourcen zum Projekt:<rs type="bibl" ref="#bibl__3825">Ressourcen zum Projekt:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1258">Pomerantz, Jeffrey / Peek, Robin: Fifty shades of open. In: First Monday 4/2016. http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460</rs></bibl>
+                    <bibl>Ressourcen zum Projekt:<rs type="bibl" ref="#bibl__1259">Ressourcen zum Projekt:</rs></bibl>
                     <bibl>Web-App: 
-                        <rs type="bibl" ref="#bibl__3826">Web-App: https://handkeinzungen.acdh.oeaw.ac.at/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1260">Web-App: https://handkeinzungen.acdh.oeaw.ac.at/</rs></bibl>
                     <bibl>Projekt-Logbuch: 
-                        <rs type="bibl" ref="#bibl__3827">Projekt-Logbuch: https://github.com/vanyh/handkeinzungen</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1261">Projekt-Logbuch: https://github.com/vanyh/handkeinzungen</rs></bibl>
                     <bibl>Github-Repository: 
-                        <rs type="bibl" ref="#bibl__3828">Github-Repository: https://github.com/vanyh/handkeinzungen-app</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1262">Github-Repository: https://github.com/vanyh/handkeinzungen-app</rs></bibl>
                     <bibl>Wikiversity-Seite: 
-                        <rs type="bibl" ref="#bibl__3829">Wikiversity-Seite: https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1263">Wikiversity-Seite: https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke</rs></bibl>
                     <bibl>Zotero-Gruppe: 
-                        <rs type="bibl" ref="#bibl__3830">Zotero-Gruppe: https://www.zotero.org/groups/1840645/peter_handke_stage_texts</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1264">Zotero-Gruppe: https://www.zotero.org/groups/1840645/peter_handke_stage_texts</rs></bibl>
                     <bibl>Twitter-Account: 
-                        <rs type="bibl" ref="#bibl__3831">Twitter-Account: https://twitter.com/HandkeinZungen</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1265">Twitter-Account: https://twitter.com/HandkeinZungen</rs></bibl>
                 </listBibl>
             </div>
         </back>

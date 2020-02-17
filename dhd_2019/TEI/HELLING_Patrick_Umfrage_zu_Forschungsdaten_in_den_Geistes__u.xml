@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title><title type="conf_year">2019</title><author ref="#person__katja-metzmacher-uni-koeln-de">
+                <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title><title type="conf_year">2019</title>
+                <author ref="#person__katja-metzmacher-uni-koeln-de">
                     <persName>
                         <surname>Metzmacher</surname>
                         <forename>Katja</forename>
@@ -149,13 +150,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3653">RfII - Rat für Informationsinfrastrukturen (2016): Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__697">RfII - Rat für Informationsinfrastrukturen (2016): Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3654">RfII - Rat für Informationsinfrastrukturen (2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), Göttingen.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__698">RfII - Rat für Informationsinfrastrukturen (2017): Schritt für Schritt - oder: Was bringt wer mit? Ein Diskussionsimpuls für den Einstieg in die Nationale Forschungsdateninfrastruktur (NFDI), Göttingen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3655">Mathiak, Brigitte / Kronenwett, Simone (2017): “A Survey on Research Data at the Faculty of Arts and Humanities of the University of Cologne” in: Digital Humanities Conference 2017, Montreal 08.-11.08.2017, https://dh2017.adho.org/abstracts/164/164.pdf [Letzter Zugriff 12. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__699">Mathiak, Brigitte / Kronenwett, Simone (2017): “A Survey on Research Data at the Faculty of Arts and Humanities of the University of Cologne” in: Digital Humanities Conference 2017, Montreal 08.-11.08.2017, https://dh2017.adho.org/abstracts/164/164.pdf [Letzter Zugriff 12. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__291">Barzen, Johanna / Blumtritt, Jonathan / Breitenbücher, Uwe / Kronenwett, Simone / Leymann, Frank / Mathiak, Brigitte / Neuefeind, Claes (2018): “SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften” in: Book of Abstracts der 5. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2018), Köln 26.02.-02.03.2018: 471-474.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__56">Barzen, Johanna / Blumtritt, Jonathan / Breitenbücher, Uwe / Kronenwett, Simone / Leymann, Frank / Mathiak, Brigitte / Neuefeind, Claes (2018): “SustainLife - Erhalt lebender, digitaler Systeme für die Geisteswissenschaften” in: Book of Abstracts der 5. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2018), Köln 26.02.-02.03.2018: 471-474.</rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -116,88 +116,47 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Altschul, Stephen F.</hi> (1991): "Amino acid substitution matrices from an information theoretic perspective" in: 
-                        <hi rend="italic">Journal of Molecular Biology</hi> 219.3: 555–565 10.1016/0022-2836(91)90193-a.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4276">Altschul, Stephen F. (1991): "Amino acid substitution matrices from an information theoretic perspective" in: Journal of Molecular Biology 219.3: 555–565 10.1016/0022-2836(91)90193-a.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Atlas, Allan W.</hi> (1975): 
-                        <hi rend="italic">The Cappella Giulia Chansonnier. (Rome, Bibliotheca Apostolica Vaticana, C.G. XIII.27)</hi>. Brooklyn, NY: Inst. of Mediaeval Music, 1975.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4277">Atlas, Allan W. (1975): The Cappella Giulia Chansonnier. (Rome, Bibliotheca Apostolica Vaticana, C.G. XIII.27). Brooklyn, NY: Inst. of Mediaeval Music, 1975.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Bent, Margaret</hi> (1981): "Some criteria for establishing relationships between sources of late-medieval polyphony" in: Fenlon, Iain (ed.): 
-                        <hi rend="italic">Music in medieval and early modern Europe.</hi> Cambridge: Cambridge Univ. Press: 295-317.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4278">Bent, Margaret (1981): "Some criteria for establishing relationships between sources of late-medieval polyphony" in: Fenlon, Iain (ed.): Music in medieval and early modern Europe. Cambridge: Cambridge Univ. Press: 295-317.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Berger, Karol</hi> (1987): 
-                        <hi rend="italic">Musica ficta. Theories of accidental inflections in vocal polyphony from Marchetto da Padova to Gioseffo Zarlino.</hi> Cambridge: Cambridge Univ. Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4279">Berger, Karol (1987): Musica ficta. Theories of accidental inflections in vocal polyphony from Marchetto da Padova to Gioseffo Zarlino. Cambridge: Cambridge Univ. Press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Boorman, Stanley</hi> (1981): "Limitations and extentions of filiation technique" in: Fenlon, Iain (ed.): 
-                        <hi rend="italic">Music in medieval and early modern Europe.</hi> Cambridge: Cambridge Univ. Press: 319–346.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4280">Boorman, Stanley (1981): "Limitations and extentions of filiation technique" in: Fenlon, Iain (ed.): Music in medieval and early modern Europe. Cambridge: Cambridge Univ. Press: 319–346.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Busse Berger, Anna Maria</hi> (1993): 
-                        <hi rend="italic">Mensuration and proportion signs. Origins and evolution.</hi> Oxford monographs on music. Oxford: Clarendon Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4281">Busse Berger, Anna Maria (1993): Mensuration and proportion signs. Origins and evolution. Oxford monographs on music. Oxford: Clarendon Press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Dumitrescu, Theodor / van Berchum, Marnix</hi> (2009): "The CMME Occo Codex Edition. Variants and Versions in Encoding and Interface" in: Stadler, Peter / Veit, Joachim (eds.) 
-                        <hi rend="italic">Digitale Edition zwischen Experiment und Standardisierung.</hi> Beihefte zu editio. Tübingen: Niemeyer: 129–146.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4282">Dumitrescu, Theodor / van Berchum, Marnix (2009): "The CMME Occo Codex Edition. Variants and Versions in Encoding and Interface" in: Stadler, Peter / Veit, Joachim (eds.) Digitale Edition zwischen Experiment und Standardisierung. Beihefte zu editio. Tübingen: Niemeyer: 129–146.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Feder, Georg</hi> (1987): 
-                        <hi rend="italic">Musikphilologie. Eine Einführung in die musikalische Textkritik, Hermeneutik und Editionstechnik.</hi> Einführungen. Darmstadt: Wiss. Buchgesellschaft.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4283">Feder, Georg (1987): Musikphilologie. Eine Einführung in die musikalische Textkritik, Hermeneutik und Editionstechnik. Einführungen. Darmstadt: Wiss. Buchgesellschaft.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Field, Andy / Miles, Jeremy / Field, Zoë</hi> (2012): 
-                        <hi rend="italic">Discovering statistics using R</hi>. London: Sage.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4284">Field, Andy / Miles, Jeremy / Field, Zoë (2012): Discovering statistics using R. London: Sage.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">ISO/IEC DIS 10743</hi>: 
-                        <hi rend="italic">Standard Music Description Language (SMDL)</hi>. https://www.lim.di.unimi.it/IEEE/SMDL/INDEX.HTM [letzter Zugriff 20. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4285">ISO/IEC DIS 10743: Standard Music Description Language (SMDL). https://www.lim.di.unimi.it/IEEE/SMDL/INDEX.HTM [letzter Zugriff 20. September 2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Josquin / Noblitt, Thomas</hi> (ed.) (1997): 
-                        <hi rend="italic">Masses based on secular polyphonic songs: Critical commentary.</hi> New Josquin Edition 7. Utrecht: Vereniging voor Nederlandse Muziekgeschiedenis.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4286">Josquin / Noblitt, Thomas (ed.) (1997): Masses based on secular polyphonic songs: Critical commentary. New Josquin Edition 7. Utrecht: Vereniging voor Nederlandse Muziekgeschiedenis.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Josquin / Blackburn, Bonnie</hi> (ed.) (2003): 
-                        <hi rend="italic">Motets on non-biblical texts 2: Critical commentary.</hi> New Josquin Edition 22. Utrecht: Vereniging voor Nederlandse Muziekgeschiedenis.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4287">Josquin / Blackburn, Bonnie (ed.) (2003): Motets on non-biblical texts 2: Critical commentary. New Josquin Edition 22. Utrecht: Vereniging voor Nederlandse Muziekgeschiedenis.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Just, Martin</hi> (1983): "Zur Examinatio von Varianten" in: Finscher, Ludwig (ed.): 
-                        <hi rend="italic">Datierung und Filiation von Musikhandschriften der Josquin-Zeit.</hi> Wolfenbütteler Forschungen. Wiesbaden: Harrassowitz: 129–152.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4288">Just, Martin (1983): "Zur Examinatio von Varianten" in: Finscher, Ludwig (ed.): Datierung und Filiation von Musikhandschriften der Josquin-Zeit. Wolfenbütteler Forschungen. Wiesbaden: Harrassowitz: 129–152.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kranenburg, Peter van</hi> (2010): A Computational Approach to Content-Based Retrieval of Folk Song Melodies. PhD. Universiteit Utrecht. http://hdl.handle.net/20.500.11755/8436a210-ceeb-4c66-ba02-ffe5c7e66a42 [letzter Zugriff 20. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4289">Kranenburg, Peter van (2010): A Computational Approach to Content-Based Retrieval of Folk Song Melodies. PhD. Universiteit Utrecht. http://hdl.handle.net/20.500.11755/8436a210-ceeb-4c66-ba02-ffe5c7e66a42 [letzter Zugriff 20. September 2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Mongeau, Marcel / Sankoff, David</hi> (1990): "Comparison of Musical Sequences" in: 
-                        <hi rend="italic">Computers and the Humanities</hi> 24.3: 161–175. http://www.jstor.org/stable/30200223 [letzter Zugriff 26. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4290">Mongeau, Marcel / Sankoff, David (1990): "Comparison of Musical Sequences" in: Computers and the Humanities 24.3: 161–175. http://www.jstor.org/stable/30200223 [letzter Zugriff 26. September 2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">The Music Encoding Initiative</hi>: 
-                        <hi rend="italic">An Introduction to MEI.</hi> https://music-encoding.org/resources/introduction.html [letzter Zugriff 19. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4291">The Music Encoding Initiative: An Introduction to MEI. https://music-encoding.org/resources/introduction.html [letzter Zugriff 19. September 2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">O’Hara, Robert / Robinson, Peter</hi> (1993): "Computer-assisted Methods of Stemmatic Analysis" in: Blake, Norman Francis / Robinson, Peter (eds.): 
-                        <hi rend="italic">The Canterbury Tales Project occasional papers.</hi> Oxford: Office for Humanities Communication: 53–74.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4292">O’Hara, Robert / Robinson, Peter (1993): "Computer-assisted Methods of Stemmatic Analysis" in: Blake, Norman Francis / Robinson, Peter (eds.): The Canterbury Tales Project occasional papers. Oxford: Office for Humanities Communication: 53–74.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Plaksin, Anna</hi> (2019): 
-                        <hi rend="italic">Modelle zur computergestützten Analyse von Überlieferungen der Mensuralmusik. Empirische Textforschung im Kontext phylogenetischer Verfahren</hi>. Diss., Technische Universität Darmstadt.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4293">Plaksin, Anna (2019): Modelle zur computergestützten Analyse von Überlieferungen der Mensuralmusik. Empirische Textforschung im Kontext phylogenetischer Verfahren. Diss., Technische Universität Darmstadt.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Selfridge-Field, Eleanor</hi> (ed.) (1997): 
-                        <hi rend="italic">Beyond MIDI. The Handbook of Musical Codes.</hi> Cambridge, Mass. [u.a.]: MIT Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__305">Selfridge-Field, Eleanor (ed.) (1997): Beyond MIDI. The Handbook of Musical Codes. Cambridge, Mass. [u.a.]: MIT Press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Theiler, James u. a.</hi> (1992): "Testing for nonlinearity in time series. The method of surrogate data" in: 
-                        <hi rend="italic">Physica D: Nonlinear Phenomena</hi> 58.1-4: 77–94. 10.1016/0167-2789(92)90102-S.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4294">Theiler, James u. a. (1992): "Testing for nonlinearity in time series. The method of surrogate data" in: Physica D: Nonlinear Phenomena 58.1-4: 77–94. 10.1016/0167-2789(92)90102-S.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Urchueguía, Cristina</hi> (2003): 
-                        <hi rend="italic">Die mehrstimmige Messe im „goldenen Jahrhundert“. Überlieferung und Repertoirebildung in Quellen aus Spanien und Portugal; (ca. 1490 - 1630).</hi> Würzburger musikhistorische Beiträge, Bd. 25. Tutzing: H. Schneider.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4295">Urchueguía, Cristina (2003): Die mehrstimmige Messe im „goldenen Jahrhundert“. Überlieferung und Repertoirebildung in Quellen aus Spanien und Portugal; (ca. 1490 - 1630). Würzburger musikhistorische Beiträge, Bd. 25. Tutzing: H. Schneider.</rs></bibl>
 </listBibl>
 </div>
 </back>

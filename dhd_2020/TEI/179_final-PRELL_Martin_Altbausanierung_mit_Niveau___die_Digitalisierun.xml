@@ -169,47 +169,23 @@ oder <hi rend="italic">Briefe der Fruchtbringenden Gesellschaft und Beilagen. Di
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Ball et al. </hi> (2016): „Der gedruckten Edition eine digitale Schwester. Das AEDit-Projekt und die digitale Edition der Fruchtbringenden Gesellschaft“, in: 
-  <hi rend="italic">Denkströme. Journal der Sächsischen Akademie der Wissenschaften zu Leipzig</hi> 16: 69-81, <ptr target="http://www.denkstroeme.de/heft-16/s_69-81_ball-dickel-herz-steyer"/> 
-  [letzter Zugriff: 25.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5120">Ball et al. (2016): „Der gedruckten Edition eine digitale Schwester. Das AEDit-Projekt und die digitale Edition der Fruchtbringenden Gesellschaft“, in: Denkströme. Journal der Sächsischen Akademie der Wissenschaften zu Leipzig 16: 69-81, [letzter Zugriff: 25.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Bolter, Jay David </hi>(2001): 
-  <hi rend="italic">Writing Space: Computers, Hypertext, and the Remediation of Print</hi>. 2. Aufl. Mahwah, NJ u.a.: Erlbaum.
-</bibl>
+  <rs type="bibl" ref="#bibl__5121">Bolter, Jay David (2001): Writing Space: Computers, Hypertext, and the Remediation of Print. 2. Aufl. Mahwah, NJ u.a.: Erlbaum.</rs></bibl>
 <bibl>
-  <hi rend="bold">Eggert, Paul </hi>(2009): “The book, the E-text and the 'Work-site'”, in: Deegan, Marilyn (ed.): 
-  <hi rend="italic">Text editing, print and the digital world</hi>. Farnham u.a.: Ashgate 63-82.
-</bibl>
+  <rs type="bibl" ref="#bibl__384">Eggert, Paul (2009): “The book, the E-text and the 'Work-site'”, in: Deegan, Marilyn (ed.): Text editing, print and the digital world. Farnham u.a.: Ashgate 63-82.</rs></bibl>
 <bibl>
-  <hi rend="bold">Haugen, Odd Einar</hi> (2014): “The Making of an Edition”, in: Apollon, Daniel / Bélisle, Claire /  Régnier, Philippe (eds.): 
-  <hi rend="italic">Digital Critical Editions. Topics in the Digital Humanities.</hi> Urbana: University of Illinois Press 203-245.
-</bibl>
+  <rs type="bibl" ref="#bibl__5122">Haugen, Odd Einar (2014): “The Making of an Edition”, in: Apollon, Daniel / Bélisle, Claire / Régnier, Philippe (eds.): Digital Critical Editions. Topics in the Digital Humanities. Urbana: University of Illinois Press 203-245.</rs></bibl>
 <bibl>
-  <hi rend="bold">Krämer, Sybille / Huber, Martin</hi> (2018): „Dimensionen Digitaler Geisteswissenschaften“, in: 
-  <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>, <ref target="http://dx.doi.org/10.17175/sb003_013">http://dx.doi.org/10.17175/sb003_013</ref>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5123">Krämer, Sybille / Huber, Martin (2018): „Dimensionen Digitaler Geisteswissenschaften“, in: Zeitschrift für digitale Geisteswissenschaften, http://dx.doi.org/10.17175/sb003_013.</rs></bibl>
 <bibl>
-  <hi rend="bold">Price, Kenneth M. </hi> (2009): „Edition, Project, Database, Archive, Thematic Research Collection: What’s in a Name?“, in: 
-  <hi rend="italic">Digital Humanities Quarterly</hi> 3, Nr. 3,
-  <ref target="http://digitalhumanities.org:8081/dhq/vol/3/3/000053/000053.html">http://digitalhumanities.org:8081/dhq/vol/3/3/000053/000053.html</ref> 
-  [letzter Zugriff: 25.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5124">Price, Kenneth M. (2009): „Edition, Project, Database, Archive, Thematic Research Collection: What’s in a Name?“, in: Digital Humanities Quarterly 3, Nr. 3, http://digitalhumanities.org:8081/dhq/vol/3/3/000053/000053.html [letzter Zugriff: 25.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Sahle, Patrick</hi> (2012): „Mal wieder und immer noch: Digitized vs. Digital“, in: 
-  <hi rend="italic">DHd-Blog</hi> (27. November 2012) 
-  <ptr target="https://dhd-blog.org/?p=1122"/>
-  [letzter Zugriff: 25.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5125">Sahle, Patrick (2012): „Mal wieder und immer noch: Digitized vs. Digital“, in: DHd-Blog (27. November 2012) [letzter Zugriff: 25.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Sahle, Patrick</hi> (2013): 
-  <hi rend="italic">Digitale Editionsformen: zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels</hi>. 
-  <hi rend="italic">Teil 2: Befunde, Theorie und Methodik </hi>(= Schriften des Instituts für Dokumentologie und Editorik 8). Norderstedt: Books on Demand.
-</bibl>
+  <rs type="bibl" ref="#bibl__16">Sahle, Patrick (2013): Digitale Editionsformen: zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 2: Befunde, Theorie und Methodik (= Schriften des Instituts für Dokumentologie und Editorik 8). Norderstedt: Books on Demand.</rs></bibl>
 <bibl>
-  <hi rend="bold">Sahle, Patrick</hi> (unter Mitarbeit von Georg Vogeler und den Mitgliedern des IDE) (2014): „Kriterienkatalog für die Besprechung digitaler Editionen“ (Version 1.1) 
-  <ptr target="https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/"/> [letzter Zugriff: 25.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__136">Sahle, Patrick (unter Mitarbeit von Georg Vogeler und den Mitgliedern des IDE) (2014): „Kriterienkatalog für die Besprechung digitaler Editionen“ (Version 1.1) [letzter Zugriff: 25.09.2019].</rs></bibl>
 </listBibl>
 </div>
 </back>

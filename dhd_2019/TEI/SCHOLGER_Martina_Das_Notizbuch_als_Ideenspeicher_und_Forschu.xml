@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Notizbuch als Ideenspeicher und Forschungswerkzeug: Erkenntnisse aus einer digitalen Repräsentation</title><title type="conf_year">2019</title><author ref="#person__martina-scholger-uni-graz-at">
+                <title>Das Notizbuch als Ideenspeicher und Forschungswerkzeug: Erkenntnisse aus einer digitalen Repräsentation</title><title type="conf_year">2019</title>
+                <author ref="#person__martina-scholger-uni-graz-at">
                     <persName>
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
@@ -139,49 +140,49 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3913">Allemang, Dean / Hendler, James (2011): Semantic Web for the Working Ontologist. Effective Modeling in RDFS and OWL. Oxford: Elsevier.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__486">Allemang, Dean / Hendler, James (2011): Semantic Web for the Working Ontologist. Effective Modeling in RDFS and OWL. Oxford: Elsevier.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__236">Burnard, Lou / Jannidis, Fotis / Pierazzo, Elena / Rehbein, Malte (2008-2013): An Encoding Model for Genetic Editions. http://www.tei-c.org/Activities/Council/Working/tcw19.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__13">Burnard, Lou / Jannidis, Fotis / Pierazzo, Elena / Rehbein, Malte (2008-2013): An Encoding Model for Genetic Editions. http://www.tei-c.org/Activities/Council/Working/tcw19.html</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__235">Brüning, Gerrit / Henzel, Katrin / Pravida, Dietmar (2013). "Multiple Encoding in Genetic Editions: The Case of ‘Faust’", in: Journal of the Text Encoding Initiative 4 http://jtei.revues.org/697</rs></bibl>
+                        <rs type="bibl" ref="#bibl__14">Brüning, Gerrit / Henzel, Katrin / Pravida, Dietmar (2013). "Multiple Encoding in Genetic Editions: The Case of ‘Faust’", in: Journal of the Text Encoding Initiative 4 http://jtei.revues.org/697</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3914">Deutsche Nationalbibliothek (2012–2019): GND – Gemeinsame Normdatei, https://www.dnb.de/gnd</rs></bibl>
+                        <rs type="bibl" ref="#bibl__487">Deutsche Nationalbibliothek (2012–2019): GND – Gemeinsame Normdatei, https://www.dnb.de/gnd</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3915">D’Iorio, Paolo (2009): Nietzschesource. http://www.nietzschesource.org/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__488">D’Iorio, Paolo (2009): Nietzschesource. http://www.nietzschesource.org/</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3916">Eggelhöfer, Fabienne / Keller Tschirren, Marianne (2012): Paul Klee – Bildnerische Form- und Gestaltungslehre. http://www.kleegestaltungslehre.zpk.org</rs></bibl>
+                        <rs type="bibl" ref="#bibl__489">Eggelhöfer, Fabienne / Keller Tschirren, Marianne (2012): Paul Klee – Bildnerische Form- und Gestaltungslehre. http://www.kleegestaltungslehre.zpk.org</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3917">Getty Research Institute (2018): Art &amp; Architecture Thesaurus (AAT). https://www.getty.edu/research/tools/vocabularies/aat/index.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__490">Getty Research Institute (2018): Art &amp; Architecture Thesaurus (AAT). https://www.getty.edu/research/tools/vocabularies/aat/index.html</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3918">Holler-Schuster, Günther (2015): "Hartmut Skerbisch’s work between media art and land art", in: Verein der Freunde von Hartmut Skerbisch (ed.), Hartmut Skerbisch. Life and Work. Present as Present. Wien: Verlag für moderne Kunst 142-171.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__491">Holler-Schuster, Günther (2015): "Hartmut Skerbisch’s work between media art and land art", in: Verein der Freunde von Hartmut Skerbisch (ed.), Hartmut Skerbisch. Life and Work. Present as Present. Wien: Verlag für moderne Kunst 142-171.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3919">Kosuth, Joseph (1969a): "Art after philosophy I", in: Studio International (915): 134-37.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__492">Kosuth, Joseph (1969a): "Art after philosophy I", in: Studio International (915): 134-37.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__208">Le Boeuf, Patrick / Doerr, Martin / Emil Ore, Christian / Stead, Stephen (2018): Definition of the CIDOC Conceputal Reference Model. Version 6.2.4. http://www.cidoc-crm.org/sites/default/files/2018-10-26%23CIDOC%20CRM_v6.2.4_esIP.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__15">Le Boeuf, Patrick / Doerr, Martin / Emil Ore, Christian / Stead, Stephen (2018): Definition of the CIDOC Conceputal Reference Model. Version 6.2.4. http://www.cidoc-crm.org/sites/default/files/2018-10-26%23CIDOC%20CRM_v6.2.4_esIP.pdf</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3920">LeWitt, Sol (1967): "Paragraphs on Conceptual Art", in: Artforum 5 (10): 80-84.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__493">LeWitt, Sol (1967): "Paragraphs on Conceptual Art", in: Artforum 5 (10): 80-84.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3921">Maugham, William Somerset (1949): A writer's notebook, Melbourn-London-Toronto: William Heinemann.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__494">Maugham, William Somerset (1949): A writer's notebook, Melbourn-London-Toronto: William Heinemann.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3922">Munch Museum (2011-2015): eMunch. Edvard Munchs Tekster. Digitalt Arkiv. http://www.emunch.no</rs></bibl>
+                        <rs type="bibl" ref="#bibl__495">Munch Museum (2011-2015): eMunch. Edvard Munchs Tekster. Digitalt Arkiv. http://www.emunch.no</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3923">OCLC - Online Computer Library Center (2010–2016): VIAF – Virtual International Authority File, https://viaf.org/.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__496">OCLC - Online Computer Library Center (2010–2016): VIAF – Virtual International Authority File, https://viaf.org/.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3924">Radecke, Gabriele (2013): "Notizbuch-Editionen. Zum philologischen Konzept der Genetisch-kritischen und kommentierten Hybrid-Edition von Theodor Fontanes Notizbüchern", in: editio 27 149-172. 10.1515/editio-2013-010</rs></bibl>
+                        <rs type="bibl" ref="#bibl__497">Radecke, Gabriele (2013): "Notizbuch-Editionen. Zum philologischen Konzept der Genetisch-kritischen und kommentierten Hybrid-Edition von Theodor Fontanes Notizbüchern", in: editio 27 149-172. 10.1515/editio-2013-010</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__102">Sahle, Patrick (2013): "Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 3: Textbegriffe und Recodierung", in: Schriften des Instituts für Dokumentologie und Editorik 9. Norderstedt: Books on Demand.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__16">Sahle, Patrick (2013): "Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 3: Textbegriffe und Recodierung", in: Schriften des Instituts für Dokumentologie und Editorik 9. Norderstedt: Books on Demand.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3925">Scholger, Martina (2015): "Tracing the association processes of the Artist – The artwork as a commentary", in: Verein der Freunde von Hartmut Skerbisch (ed.), Hartmut Skerbisch. Life and Work. Present as Present. Wien: Verlag für moderne Kunst 305-3.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__498">Scholger, Martina (2015): "Tracing the association processes of the Artist – The artwork as a commentary", in: Verein der Freunde von Hartmut Skerbisch (ed.), Hartmut Skerbisch. Life and Work. Present as Present. Wien: Verlag für moderne Kunst 305-3.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__81">Sepúlveda, Pedro / Henny-Krahmer, Ulrike (2017). Fernando Pessoa – Digitale Edition. Projekte und Publikationen. http://www.pessoadigital.pt</rs></bibl>
+                        <rs type="bibl" ref="#bibl__19">Sepúlveda, Pedro / Henny-Krahmer, Ulrike (2017). Fernando Pessoa – Digitale Edition. Projekte und Publikationen. http://www.pessoadigital.pt</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3926">Stigler, Johannes Hubert / Steiner, Elisabeth (2018): "GAMS – Eine Infrastruktur zur Langzeitarchivierung und Publikation geisteswissenschaftlicher Forschungsdaten", in: Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen und Bibliothekare 71 (1), 207-216. https://doi.org/10.31263/voebm.v71i1.1992</rs></bibl>
+                        <rs type="bibl" ref="#bibl__499">Stigler, Johannes Hubert / Steiner, Elisabeth (2018): "GAMS – Eine Infrastruktur zur Langzeitarchivierung und Publikation geisteswissenschaftlicher Forschungsdaten", in: Mitteilungen der Vereinigung Österreichischer Bibliothekarinnen und Bibliothekare 71 (1), 207-216. https://doi.org/10.31263/voebm.v71i1.1992</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__58">TEI Consortium (2018): TEI P5: Guidelines for Electronic Text Encoding and Interchange. Version 3.4.0. http://www.tei-c.org/Vault/P5/3.4.0/doc/tei-p5-doc/en/html/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__20">TEI Consortium (2018): TEI P5: Guidelines for Electronic Text Encoding and Interchange. Version 3.4.0. http://www.tei-c.org/Vault/P5/3.4.0/doc/tei-p5-doc/en/html/</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3927">Van Hulle, Dirk / Nixon, Mark (2019): Samuel Beckett Digital Manuscript Project. http://www.beckettarchive.org/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__500">Van Hulle, Dirk / Nixon, Mark (2019): Samuel Beckett Digital Manuscript Project. http://www.beckettarchive.org/</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3928">Vogeler, Georg (2015): "Warum werden mittelalterliche und frühneuzeitliche Rechnungsbücher eigentlich nicht digital editiert?", in: Grenzen und Möglichkeiten der Digital Humanities, edited by Constanze Baum and Thomas Stäcker. Sonderband der Zeitschrift für digitale Geisteswissenschaften 1. 10.17175/sb001_007</rs></bibl>
+                        <rs type="bibl" ref="#bibl__501">Vogeler, Georg (2015): "Warum werden mittelalterliche und frühneuzeitliche Rechnungsbücher eigentlich nicht digital editiert?", in: Grenzen und Möglichkeiten der Digital Humanities, edited by Constanze Baum and Thomas Stäcker. Sonderband der Zeitschrift für digitale Geisteswissenschaften 1. 10.17175/sb001_007</rs></bibl>
                 </listBibl>
             </div>
         </back>

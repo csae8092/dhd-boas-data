@@ -237,80 +237,45 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Aggarwal, C. C.</hi> (2001): On k-anonymity and the curse of dimensionality. In: Proc. 31st International Conference on Very Large Data Bases (VLDB), S. 901–909. ACM, 2005.
-</bibl>
+  <rs type="bibl" ref="#bibl__5126">Aggarwal, C. C. (2001): On k-anonymity and the curse of dimensionality. In: Proc. 31st International Conference on Very Large Data Bases (VLDB), S. 901–909. ACM, 2005.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Argamon, S. / Shimoni,
-  A. R. / Koppel, M. </hi> (2003): Automatically categorizing written texts by author gender. In: Literary and Linguistic Computing, Vol. 17, Nr. 4, S. 401– 412.
-</bibl>
+  <rs type="bibl" ref="#bibl__5127">Argamon, S. / Shimoni, A. R. / Koppel, M. (2003): Automatically categorizing written texts by author gender. In: Literary and Linguistic Computing, Vol. 17, Nr. 4, S. 401– 412.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Bednarek, M. </hi> (to appear
-  2020): The Sydney Corpus of Television Dialogue: Designing and
-  building a corpus of dialogue from US TV series. Corpora 15/1.
-  Pre-Print-Version hier verfügbar:
-  <ref target="https://www.monikabednarek.com/wp-content/uploads/2019/09/Designing-and-building-a-corpus-of-US-TV-dialogue_Academia.pdf">https://www.monikabednarek.com/wp-content/uploads/2019/09/Designing-and-building-a-corpus-of-US-TV-dialogue_Academia.pdf</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__5128">Bednarek, M. (to appear 2020): The Sydney Corpus of Television Dialogue: Designing and building a corpus of dialogue from US TV series. Corpora 15/1. Pre-Print-Version hier verfügbar: https://www.monikabednarek.com/wp-content/uploads/2019/09/Designing-and-building-a-corpus-of-US-TV-dialogue_Academia.pdf</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Blackstock, A. / Spitz,
-  M. </hi> (2008): Classifying movie scripts by genre with a MEMM using NLP-based features. M.Sc. Kurs Natural Language Processing, stud. Projektbericht, Juni 2008. Stanford University.
-</bibl>
+  <rs type="bibl" ref="#bibl__5129">Blackstock, A. / Spitz, M. (2008): Classifying movie scripts by genre with a MEMM using NLP-based features. M.Sc. Kurs Natural Language Processing, stud. Projektbericht, Juni 2008. Stanford University.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Bougiatiotis, K.  / 
-  Giannakopoulos, T.</hi> (2017): Multimodal content representation
-  and similarity ranking of movies. Pre-Print-Version hier verfügbar:
-  <ptr target="https://arxiv.org/pdf/1702.04815.pdf"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__5130">Bougiatiotis, K. / Giannakopoulos, T. (2017): Multimodal content representation and similarity ranking of movies. Pre-Print-Version hier verfügbar:</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Burghardt, M. / Kao, M. /
-  Wolff, C. </hi> (2016): Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis. In Book of Abstracts of the International Digital Humanities Conference (DH).
-</bibl>
+  <rs type="bibl" ref="#bibl__211">Burghardt, M. / Kao, M. / Wolff, C. (2016): Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis. In Book of Abstracts of the International Digital Humanities Conference (DH).</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Burghardt, M. / Meyer, S. /
-  Schmidtbauer, S. / Molz, J. </hi> (2019): “The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who. In Book of Abstracts, DHd 2019.
-</bibl>
+  <rs type="bibl" ref="#bibl__397">Burghardt, M. / Meyer, S. / Schmidtbauer, S. / Molz, J. (2019): “The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who. In Book of Abstracts, DHd 2019.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Schmidt, B.</hi> (15.9.2014):
-  Screen time! Published on <ref target="http://sappingattention.blogspot.com/2014/09/screen-time.html">http://sappingattention.blogspot.com/2014/09/screen-time.html</ref>
-  <hi style="font-size:10pt" xml:space="preserve"> (letzter Zugrifff am 24.9.2019)</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5131">Schmidt, B. (15.9.2014): Screen time! Published on http://sappingattention.blogspot.com/2014/09/screen-time.html (letzter Zugrifff am 24.9.2019)</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">Hutto, C. J. / Gilbert,
-E. </hi> (2014): VADER: A parsimonious rule-based model for sentiment analysis of social media text. In: International Conference on Weblogs and Social Media.
-</bibl>
+<rs type="bibl" ref="#bibl__5132">Hutto, C. J. / Gilbert, E. (2014): VADER: A parsimonious rule-based model for sentiment analysis of social media text. In: International Conference on Weblogs and Social Media.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Johnson, W. </hi> (1944): Studies in language behavior: I. A program of research. In: Psychological Monographs, Vol. 56, S. 1-15.
-</bibl>
+  <rs type="bibl" ref="#bibl__5133">Johnson, W. (1944): Studies in language behavior: I. A program of research. In: Psychological Monographs, Vol. 56, S. 1-15.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Kozloff, S.</hi> (2000): Overhearing Film Dialogue. University of California Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__78">Kozloff, S. (2000): Overhearing Film Dialogue. University of California Press.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Santini, M. </hi> (2004): A shallow approach to syntactic feature extraction for genre classification. In Proceedings of the 7th Annual Colloquium for the UK Special Interest Group for Computational Linguistics (CLUK 2004).
-</bibl>
+  <rs type="bibl" ref="#bibl__5134">Santini, M. (2004): A shallow approach to syntactic feature extraction for genre classification. In Proceedings of the 7th Annual Colloquium for the UK Special Interest Group for Computational Linguistics (CLUK 2004).</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Shannon, C. </hi> (1948): A mathematical theory of communication. In: The Bell System Technical Journal, Vol. 27, S. 379–423, 623–656, Juli und October 1948.
-</bibl>
+  <rs type="bibl" ref="#bibl__164">Shannon, C. (1948): A mathematical theory of communication. In: The Bell System Technical Journal, Vol. 27, S. 379–423, 623–656, Juli und October 1948.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Taylor, A. / Tilton, L.</hi> (2019): Distant viewing: analyzing large visual corpora. In Digital Scholarship in the Humanities, 2019. Published by Oxford University Press on behalf of EADH.
-</bibl>
+  <rs type="bibl" ref="#bibl__5135">Taylor, A. / Tilton, L. (2019): Distant viewing: analyzing large visual corpora. In Digital Scholarship in the Humanities, 2019. Published by Oxford University Press on behalf of EADH.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Torruella, J. / Capsada, R.</hi> (2013): Lexical statistics and topological structures: A measure of lexical richness. In: 
-  <hi rend="italic" style="font-size:10pt">Procedia - Social and Behavioral Sciences</hi>, Vol. 95, S. 447-454.
-</bibl>
+  <rs type="bibl" ref="#bibl__5136">Torruella, J. / Capsada, R. (2013): Lexical statistics and topological structures: A measure of lexical richness. In: Procedia - Social and Behavioral Sciences, Vol. 95, S. 447-454.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">Manning, C. / Raghavan, P. /  Schütze, H.</hi> (2008): Introduction to Information Retrieval. Cambridge University Press.
-</bibl>
+<rs type="bibl" ref="#bibl__5137">Manning, C. / Raghavan, P. / Schütze, H. (2008): Introduction to Information Retrieval. Cambridge University Press.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Müller M. / Volk M. </hi> (2013): Statistical Machine Translation of Subtitles: From OpenSubtitles to TED. In: Gurevych I., Biemann C., Zesch T. (eds) Language Processing and Knowledge in the Web. Lecture Notes in Computer Science, vol 8105. Springer, Berlin, Heidelberg.
-</bibl>
+  <rs type="bibl" ref="#bibl__5138">Müller M. / Volk M. (2013): Statistical Machine Translation of Subtitles: From OpenSubtitles to TED. In: Gurevych I., Biemann C., Zesch T. (eds) Language Processing and Knowledge in the Web. Lecture Notes in Computer Science, vol 8105. Springer, Berlin, Heidelberg.</rs></bibl>
 <bibl>
-  <hi rend="bold" style="font-size:10pt">Nessel, J. / Cimpa, B.</hi> (2011): The MovieOracle-content based movie recommendations. In: Proceedings of the 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology, S. 361-364.
-</bibl>
+  <rs type="bibl" ref="#bibl__5139">Nessel, J. / Cimpa, B. (2011): The MovieOracle-content based movie recommendations. In: Proceedings of the 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology, S. 361-364.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">Lison, P. / Tiedemann, J. </hi> (2016): OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC), p. 923-929, European Language Resources Association.
-</bibl>
+<rs type="bibl" ref="#bibl__5140">Lison, P. / Tiedemann, J. (2016): OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC), p. 923-929, European Language Resources Association.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">Tiedemann , J. </hi> (2016): Finding Alternative Translations in a Large Corpus of Movie Subtitles. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC), p. 3518–3522, European Language Resources Association.
-</bibl>
+<rs type="bibl" ref="#bibl__5141">Tiedemann , J. (2016): Finding Alternative Translations in a Large Corpus of Movie Subtitles. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC), p. 3518–3522, European Language Resources Association.</rs></bibl>
 </listBibl>
 </div>
 </back>

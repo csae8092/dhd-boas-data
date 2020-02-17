@@ -147,158 +147,71 @@ Vereinzelte Beiträge zur theoretischen Reflexion der DH als solche, ihrer Objek
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<anchor xml:id="id_docs-internal-guid-efa73741-7fff-bfd9-a6ae-13b9b1315120"/>
-	<hi rend="bold">Bauer, J.</hi> (2011): ‘Who are you Calling Untheoretical?’, 
-	<hi rend="italic">Journal of Digital Humanities</hi>, 1(1). Available at:
-	<ptr target="http://journalofdigitalhumanities.org/1-1/who-you-calling-untheoretical-by-jean-bauer/"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4619">Bauer, J. (2011): ‘Who are you Calling Untheoretical?’, Journal of Digital Humanities, 1(1). Available at: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Brügger, N. </hi> (2016): ‘Digital Humanities in the 21st Century: Digital Material as a Driving Force’, 
-	<hi rend="italic">digital humanities quarterly</hi>, 10(2). Available at:
-	<ptr target="http://www.digitalhumanities.org/dhq/vol/10/3/000256/000256.html"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4620">Brügger, N. (2016): ‘Digital Humanities in the 21st Century: Digital Material as a Driving Force’, digital humanities quarterly, 10(2). Available at: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Capurro, R. </hi> (1978): 
-	<hi rend="italic">Information: ein Beitrag zur etymologischen und ideengeschichtlichen Begründung des Informationsbegriffs</hi>. München: Saur.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4621">Capurro, R. (1978): Information: ein Beitrag zur etymologischen und ideengeschichtlichen Begründung des Informationsbegriffs. München: Saur.</rs></bibl>
       <bibl>
-	<hi rend="bold">Capurro, R. </hi> (2017): 
-	<hi rend="italic">Homo Digitalis: Beiträge zur Ontologie, Anthropologie und Ethik der digitalen Technik</hi>. Wiesbaden: Springer.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4622">Capurro, R. (2017): Homo Digitalis: Beiträge zur Ontologie, Anthropologie und Ethik der digitalen Technik. Wiesbaden: Springer.</rs></bibl>
       <bibl>
-	<hi rend="bold">Castells, M. </hi> (2003): 
-	<hi rend="italic">Das Informationszeitalter: Wirtschaft, Gesellschaft, Kultur.</hi> Wiesbaden: Springer.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4623">Castells, M. (2003): Das Informationszeitalter: Wirtschaft, Gesellschaft, Kultur. Wiesbaden: Springer.</rs></bibl>
       <bibl>
-	<hi rend="bold">Cecire, N. </hi> (2011): ‘Theory and the Virtues of Digital Humanites’, 
-	<hi rend="italic">Journal of Digital Humanities</hi>, 1(1). Available at:
-	<ptr target="http://journalofdigitalhumanities.org/1-1/introduction-theory-and-the-virtues-of-digital-humanities-by-natalia-cecire/"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4624">Cecire, N. (2011): ‘Theory and the Virtues of Digital Humanites’, Journal of Digital Humanities, 1(1). Available at: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Ciula, A. / Eide, Ø. </hi> (2017): ‘Modelling in digital humanities. Signs in context’, 
-	<hi rend="italic">Digital Scholarship in the Humanities</hi>, 32(1), pp. 33–46. DOI:
-	<ptr target="https://doi.org/10.1093/llc/fqw045"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4625">Ciula, A. / Eide, Ø. (2017): ‘Modelling in digital humanities. Signs in context’, Digital Scholarship in the Humanities, 32(1), pp. 33–46. DOI: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Dahlström, M. </hi> (2011): ‘Critical Editing And Critical Digitisation’, 
-	<hi rend="italic">Text Comparison and Digital Creativity</hi>, (The Production of Presence and Meaning in Digital Text Scholarship). DOI:
-	<ptr target="https://doi.org/10.1163/ej.9789004188655.i-328.29"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4626">Dahlström, M. (2011): ‘Critical Editing And Critical Digitisation’, Text Comparison and Digital Creativity, (The Production of Presence and Meaning in Digital Text Scholarship). DOI: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Deck, K.-G. </hi> (2018): ‘Digital Humanities – Eine Herausforderung an die Informatik und an die Geisteswissenschaften’, 
-	<hi rend="italic">Sonderband der Zeitschrift für digitale Geisteswissenschaften</hi>, 3. DOI: 
-	<ref target="https://doi.org/10.17175/sb003_002">10.17175/sb003_002</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4627">Deck, K.-G. (2018): ‘Digital Humanities – Eine Herausforderung an die Informatik und an die Geisteswissenschaften’, Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3. DOI: 10.17175/sb003_002.</rs></bibl>
       <bibl>
-	<hi rend="bold">Flanders, J.  /  Jannidis, F. </hi> (2019): 
-	<hi rend="italic">The shape of data in the digital humanities. Modeling texts and text-based resources.</hi>
-	London, New York: Routhledge (Digital research in the arts and humanities).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4628">Flanders, J. / Jannidis, F. (2019): The shape of data in the digital humanities. Modeling texts and text-based resources. London, New York: Routhledge (Digital research in the arts and humanities).</rs></bibl>
       <bibl>
-	<hi rend="bold">Floridi, L. </hi> (2013): 
-	<hi rend="italic">The philosophy of information</hi>. Oxford: Oxford Univ. Press.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4629">Floridi, L. (2013): The philosophy of information. Oxford: Oxford Univ. Press.</rs></bibl>
       <bibl>
-	<hi rend="bold">Frabetti, F. </hi> (2015): 
-	<hi rend="italic">Software theory: a cultural and philosophical study</hi>. London; New York: Rowman &amp; Littlefield International (Media philosophy).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4630">Frabetti, F. (2015): Software theory: a cultural and philosophical study. London; New York: Rowman &amp; Littlefield International (Media philosophy).</rs></bibl>
       <bibl>
-	<hi rend="bold">Friedewald, M.  /  Leimbach, T. </hi> (2011): ‘Computersoftware als digitales Erbe: Probleme aus Sicht der Technikgeschichte’, in 
-	<hi rend="italic">Neues Erbe. Aspekte, Perspektiven und Konsequenzen der digitalen Überlieferung.</hi> KIT Scientific Publishing.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4631">Friedewald, M. / Leimbach, T. (2011): ‘Computersoftware als digitales Erbe: Probleme aus Sicht der Technikgeschichte’, in Neues Erbe. Aspekte, Perspektiven und Konsequenzen der digitalen Überlieferung. KIT Scientific Publishing.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gius, E.  /  Jacke, J. </hi> (2017): ‘The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis’, in 
-	<hi rend="italic">International Journal of Humanities and Arts Computing</hi> 11(2), 233–254.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4632">Gius, E. / Jacke, J. (2017): ‘The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis’, in International Journal of Humanities and Arts Computing 11(2), 233–254.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gnadt, T.  et al.</hi> (2017): ‘Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen’. DARIAH-DE, Niedersächsische Staats- und Universitätsbibliothek. Available at:
-	<ptr target="http://webdoc.sub.gwdg.de/pub/mon/dariah-de/dwp-2017-21.pdf"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4633">Gnadt, T. et al. (2017): ‘Faktoren und Kriterien für den Impact von DH-Tools und Infrastrukturen’. DARIAH-DE, Niedersächsische Staats- und Universitätsbibliothek. Available at: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Hall, G. (2012): </hi> “<hi rend="italic">Blog Post: Has Critical Theory Run Out of Time for Data-Driven Scholarship?</hi>, 
-	<hi rend="italic">Debates in the Digital Humanities</hi>. Available at:
-	<ptr target="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/1a9b138c-eb51-4f48-bcb8-039505f88ff8#p2b2"/>
-	(Zugriff: 19. August 2019).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4634">Hall, G. (2012): “Blog Post: Has Critical Theory Run Out of Time for Data-Driven Scholarship?, Debates in the Digital Humanities. Available at: (Zugriff: 19. August 2019).</rs></bibl>
       <bibl>
-	<hi rend="bold">Heßbrüggen-Walter, S. </hi> (2018): ‘Philosophie als digitale Geisteswissenschaft’, 
-	<hi rend="italic">Sonderband der Zeitschrift für digitale Geisteswissenschaften</hi>, 3. DOI: 
-	<ref target="https://doi.org/10.17175/sb003_006">10.17175/sb003_006</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4635">Heßbrüggen-Walter, S. (2018): ‘Philosophie als digitale Geisteswissenschaft’, Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3. DOI: 10.17175/sb003_006.</rs></bibl>
       <bibl>
-	<hi rend="bold">Hui, Y. </hi> (2016): 
-	<hi rend="italic">On the existence of digital objects</hi>. London: University of Minnesota Press.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4636">Hui, Y. (2016): On the existence of digital objects. London: University of Minnesota Press.</rs></bibl>
       <bibl>
-	<hi rend="bold">Kaden, B. </hi> (2016): ‘Zur Epistemologie digitaler Methoden in den Geisteswissenschaften’, 
-	<hi rend="italic">Berliner Beiträge zu Digital Humanities</hi>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4637">Kaden, B. (2016): ‘Zur Epistemologie digitaler Methoden in den Geisteswissenschaften’, Berliner Beiträge zu Digital Humanities.</rs></bibl>
       <bibl>
-	<hi rend="bold">Koch, G. (ed.) </hi> (2017): 
-	<hi rend="italic">Digitalisierung. Theorien und Konzepte für die empirische Kulturforschung.</hi> Köln: Herbert von Halem Verlag.
-      </bibl>
+	<rs type="bibl" ref="#bibl__394">Koch, G. (ed.) (2017): Digitalisierung. Theorien und Konzepte für die empirische Kulturforschung. Köln: Herbert von Halem Verlag.</rs></bibl>
       <bibl>
-	<hi rend="bold">Matzner, T. </hi> (2016): ‘Beyond data as representation. The performativity of Big Data in surveillance.’, 
-	<hi rend="italic">Surveillance &amp; Society</hi>, 14(2), pp. 197–204.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4638">Matzner, T. (2016): ‘Beyond data as representation. The performativity of Big Data in surveillance.’, Surveillance &amp; Society, 14(2), pp. 197–204.</rs></bibl>
       <bibl>
-	<hi rend="bold">McCarty, W. </hi> (2014): ‘Getting there from here. Remembering the future of digital humanities: Roberto Busa Award lecture 2013’, 
-	<hi rend="italic">Literary and Linguistic Computing</hi>, Volume 29(Issue 3), pp. 283–306. DOI: 
-	<ref target="https://doi.org/10.1093/llc/fqu022">10.1093/llc/fqu022</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__233">McCarty, W. (2014): ‘Getting there from here. Remembering the future of digital humanities: Roberto Busa Award lecture 2013’, Literary and Linguistic Computing, Volume 29(Issue 3), pp. 283–306. DOI: 10.1093/llc/fqu022.</rs></bibl>
       <bibl>
-	<hi rend="bold">Mohabbat Kar, R.  /  Parycek, P. </hi> (2018): ‘Berechnen, ermöglichen, verhindern: Algorithmen als Ordnungs- und Steuerungsinstrumente in der digitalen Gesellschaft’, in 
-	<hi rend="italic">(Un)berechenbar? Algorithmen und Automatisierung in Staat und Gesellschaft</hi>. Berlin: Fraunhofer-Institut für Offene Kommunikationssysteme FOKUS, Kompetenzzentrum Öffentliche IT (ÖFIT), pp. 7–39. Available at: 
-	<ref target="https://nbn-resolving.org/urn:nbn:de:0168-ssoar-57562-7">https://nbn-resolving.org/urn:nbn:de:0168-ssoar-57562-7</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4639">Mohabbat Kar, R. / Parycek, P. (2018): ‘Berechnen, ermöglichen, verhindern: Algorithmen als Ordnungs- und Steuerungsinstrumente in der digitalen Gesellschaft’, in (Un)berechenbar? Algorithmen und Automatisierung in Staat und Gesellschaft. Berlin: Fraunhofer-Institut für Offene Kommunikationssysteme FOKUS, Kompetenzzentrum Öffentliche IT (ÖFIT), pp. 7–39. Available at: https://nbn-resolving.org/urn:nbn:de:0168-ssoar-57562-7.</rs></bibl>
       <bibl>
-	<hi rend="bold">Nassehi, A. </hi> (2019): 
-	<hi rend="italic">Muster. Theorie der digitalen Gesellschaft.</hi> München: Beck Verlag.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4640">Nassehi, A. (2019): Muster. Theorie der digitalen Gesellschaft. München: Beck Verlag.</rs></bibl>
       <bibl>
-	<hi rend="bold">Nerbonne, J. </hi> (2015): ‘Die Informatik als Geisteswissenschaft’, 
-	<hi rend="italic">Sonderband der Zeitschrift für digitale Geisteswissenschaften</hi>, 1(1). DOI: 
-	<ref target="https://doi.org/10.17175/sb001_003">10.17175/sb001_003</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4641">Nerbonne, J. (2015): ‘Die Informatik als Geisteswissenschaft’, Sonderband der Zeitschrift für digitale Geisteswissenschaften, 1(1). DOI: 10.17175/sb001_003.</rs></bibl>
       <bibl>
-	<hi rend="bold">Porter, D. </hi> (no date): 
-	<hi rend="italic">The Uncanny Valley and the Ghost in the Machine: a discussion of analogies for thinking about digitized medieval manuscripts</hi>, 
-	<hi rend="italic">Dot Porter Digital</hi>. Available at:
-	<ptr target="http://www.dotporterdigital.org/the-uncanny-valley-and-the-ghost-in-the-machine-a-discussion-of-analogies-for-thinking-about-digitized-medieval-manuscripts/"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4642">Porter, D. (no date): The Uncanny Valley and the Ghost in the Machine: a discussion of analogies for thinking about digitized medieval manuscripts, Dot Porter Digital. Available at: .</rs></bibl>
       <bibl>
-	<hi rend="bold">Reiche, R. et al.</hi> (2014): ‘Verfahren der Digital Humanities in den Geistes- und Kulturwissenschaften’. (DARIAH-DE Working Papers), (4).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4643">Reiche, R. et al. (2014): ‘Verfahren der Digital Humanities in den Geistes- und Kulturwissenschaften’. (DARIAH-DE Working Papers), (4).</rs></bibl>
       <bibl>
-	<hi rend="bold">Sahle, P. </hi> (2015): ‘Digital Humanities? Gibt’s doch gar nicht!’, 
-	<hi rend="italic">Grenzen und Möglichkeiten der Digital Humanities</hi>. DOI: 
-	<ref target="https://doi.org/DOI:%2010.17175/sb001_004">10.17175/sb001_004</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4644">Sahle, P. (2015): ‘Digital Humanities? Gibt’s doch gar nicht!’, Grenzen und Möglichkeiten der Digital Humanities. DOI: 10.17175/sb001_004.</rs></bibl>
       <bibl>
-	<hi rend="bold">Scheinfeldt, T. </hi> (2012): 
-	“<hi rend="italic">Blog Post: Where’s the Beef? Does Digital Humanities Have to Answer Questions?</hi>,
-	<hi rend="italic">Debates in the Digital Humanities</hi>. Available at: 
-	<ptr target="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/3c03ecdb-2dcf-4597-8fc4-e42f8dcc21e1"/>
-	(Zugriff: 19 August 2019).
-      </bibl>
+	<rs type="bibl" ref="#bibl__4645">Scheinfeldt, T. (2012): “Blog Post: Where’s the Beef? Does Digital Humanities Have to Answer Questions?, Debates in the Digital Humanities. Available at: (Zugriff: 19 August 2019).</rs></bibl>
       <bibl>
-	<hi rend="bold">Schröter, J.  /  Böhnke, A. (eds) </hi> (2004): 
-	<hi rend="italic">Analog/Digital – Opposition oder Kontinuum? Zur Theorie und Geschichte einer Unterscheidung.</hi> Bielefeld: transcript Verlag.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4646">Schröter, J. / Böhnke, A. (eds) (2004): Analog/Digital – Opposition oder Kontinuum? Zur Theorie und Geschichte einer Unterscheidung. Bielefeld: transcript Verlag.</rs></bibl>
       <bibl>
-	<hi rend="bold">Stalder, F. </hi> (2016): 
-	<hi rend="italic">Kultur der Digitalität</hi>. Berlin: Suhrkamp.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4647">Stalder, F. (2016): Kultur der Digitalität. Berlin: Suhrkamp.</rs></bibl>
       <bibl>
-	<hi rend="bold">Türkoglu, E. </hi> (2019): ‘Vom Digitalisat zum Kontextualisat – einige Gedanken zu digitalen Objekten’, in. 
-	<hi rend="italic">DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts</hi>, Frankfurt am Main. DOI: 
-	<ref target="https://doi.org/10.5281/zenodo.2600812">10.5281/zenodo.2600812</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4648">Türkoglu, E. (2019): ‘Vom Digitalisat zum Kontextualisat – einige Gedanken zu digitalen Objekten’, in. DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts, Frankfurt am Main. DOI: 10.5281/zenodo.2600812.</rs></bibl>
       <bibl>
-	<hi rend="bold">Wettlaufer, J. </hi> (2016): ‘Neue Erkenntnisse durch digitalisierte Geschichtswissenschaft(en)? Zur hermeneutischen Reichweite aktueller digitaler Methoden in informationszentrierten Fächern’, 
-	<hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>. DOI: 
-	<ref target="https://doi.org/10.17175/2016_011">10.17175/2016_011</ref>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4649">Wettlaufer, J. (2016): ‘Neue Erkenntnisse durch digitalisierte Geschichtswissenschaft(en)? Zur hermeneutischen Reichweite aktueller digitaler Methoden in informationszentrierten Fächern’, Zeitschrift für digitale Geisteswissenschaften. DOI: 10.17175/2016_011.</rs></bibl>
     </listBibl>
   </div>
 </back>

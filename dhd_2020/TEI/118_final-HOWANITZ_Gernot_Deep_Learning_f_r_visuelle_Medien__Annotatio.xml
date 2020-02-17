@@ -238,27 +238,15 @@ Personen und deren Haltung in Bildern erkennen (Abb. 1)</p>
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold"> Bermeitinger, B. / Howanitz, G. / Radisch, E. </hi> (2018): Contextualizing Bandera: Ein Distant Watching Ansatz, in Kritik der digitalen Vernunft Konferenzabstracts. Köln, 26.02-02.03.2018.
-  <ptr target="http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf"/>
-  [abgerufen am 01.05.2018].
-</bibl>
+  <rs type="bibl" ref="#bibl__4504">Bermeitinger, B. / Howanitz, G. / Radisch, E. (2018): Contextualizing Bandera: Ein Distant Watching Ansatz, in Kritik der digitalen Vernunft Konferenzabstracts. Köln, 26.02-02.03.2018. [abgerufen am 01.05.2018].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Baltrusaitiš, T. / Zadeh, A. / Chong Lim, Y.,
-  Morency, L.-P.</hi> (2018): "OpenFace 2.0: Facial Behavior Analysis
-  Toolkit," 2018 13th IEEE International Conference on. IEEE, 2018,
-  S. 59-66.
-</bibl>
+  <rs type="bibl" ref="#bibl__4505">Baltrusaitiš, T. / Zadeh, A. / Chong Lim, Y., Morency, L.-P. (2018): "OpenFace 2.0: Facial Behavior Analysis Toolkit," 2018 13th IEEE International Conference on. IEEE, 2018, S. 59-66.</rs></bibl>
 <bibl>
-   <hi rend="bold"> Decker, J.-O. / Howanitz, G. / Radisch, E. / Rehbein,
-   M. </hi> (2019): Den Menschen als Zeichen lesen. Quantitative Lesarten körperlicher Zeichenhaftigkeit in visuellen Medien. In: Dhd 2019, Digital Humanities: multimodal &amp; multimedial, Konferenzabstracts, Frankfurt am Main 2019, S. 106-109.
-   <ptr target="https://zenodo.org/record/2596095#.XLBUNUNS-V4"/>
-</bibl>
+   <rs type="bibl" ref="#bibl__4506">Decker, J.-O. / Howanitz, G. / Radisch, E. / Rehbein, M. (2019): Den Menschen als Zeichen lesen. Quantitative Lesarten körperlicher Zeichenhaftigkeit in visuellen Medien. In: Dhd 2019, Digital Humanities: multimodal &amp; multimedial, Konferenzabstracts, Frankfurt am Main 2019, S. 106-109.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Girshick, R. /  Radosavovic, I. / Gkioxari, G. / Dollár, P. / He, K.</hi> (2018): Detectron. 
-  <ptr target="https://github.com/facebookresearch/detectron"/>. [Letzter Zugriff 25. 09. 2018] 
-</bibl>
+  <rs type="bibl" ref="#bibl__37">Girshick, R. / Radosavovic, I. / Gkioxari, G. / Dollár, P. / He, K. (2018): Detectron. . [Letzter Zugriff 25. 09. 2018]</rs></bibl>
 <bibl>
-  <hi rend="bold"> Zhe C. /  Tomas S. / Shih-En W. / Yaser Sh. </hi> (2017): Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields. In: CVPR.</bibl>
+  <rs type="bibl" ref="#bibl__4507">Zhe C. / Tomas S. / Shih-En W. / Yaser Sh. (2017): Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields. In: CVPR.</rs></bibl>
 </listBibl>
 </div>
 </back>

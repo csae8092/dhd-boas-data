@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Font Group Recognition in Early Printed Books</title><title type="conf_year">2019</title><author ref="#person__weichsel-uni-mainz-de">
+                <title>Automatic Font Group Recognition in Early Printed Books</title><title type="conf_year">2019</title>
+                <author ref="#person__weichsel-uni-mainz-de">
                     <persName>
                         <surname>Weichselbaumer</surname>
                         <forename>Nikolaus</forename>
@@ -141,15 +142,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3605">Christlein, Vincent / Weichselbaumer, Nikolaus (2016): "Automatische Typenbestimmung in historischen Drucken." Poster at DHd2016, Abstract online: http://dhd2016.de/boa-2.0.pdf [Access date 9 October 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1150">Christlein, Vincent / Weichselbaumer, Nikolaus (2016): "Automatische Typenbestimmung in historischen Drucken." Poster at DHd2016, Abstract online: http://dhd2016.de/boa-2.0.pdf [Access date 9 October 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__243">Eisermann, Falk / Duntze, Oliver (2014): "Auf der Spur der seltsamen Typen. Das digitale Typenrepertorium der Wiegendrucke", in: Bibliotheksmagazin 3: 41–48 https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf [Access date 9. October 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__162">Eisermann, Falk / Duntze, Oliver (2014): "Auf der Spur der seltsamen Typen. Das digitale Typenrepertorium der Wiegendrucke", in: Bibliotheksmagazin 3: 41–48 https://www.bsb-muenchen.de/fileadmin/imageswww/pdf-dateien/bibliotheksmagazin/BM2014-3.pdf [Access date 9. October 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3606">He et al. (2016): https://ieeexplore.ieee.org/abstract/document/7780459.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1151">He et al. (2016): https://ieeexplore.ieee.org/abstract/document/7780459.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3607">Staatsbibliothek zu Berlin (2019a): https://www.gesamtkatalogderwiegendrucke.de [Access date 11 January 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1152">Staatsbibliothek zu Berlin (2019a): https://www.gesamtkatalogderwiegendrucke.de [Access date 11 January 2019].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3608">Staatsbibliothek zu Berlin (2019b): https://tw.staatsbibliothek-berlin.de [Access date 11 January 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1153">Staatsbibliothek zu Berlin (2019b): https://tw.staatsbibliothek-berlin.de [Access date 11 January 2019].</rs></bibl>
                 </listBibl>
             </div>
         </back>

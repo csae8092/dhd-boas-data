@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gute Wörter für Delta: Verbesserung der Autorschaftsattribution durch autorspezifische distinktive Wörter</title><title type="conf_year">2019</title><author ref="#person__mail-dimpel-de">
+                <title>Gute Wörter für Delta: Verbesserung der Autorschaftsattribution durch autorspezifische distinktive Wörter</title><title type="conf_year">2019</title>
+                <author ref="#person__mail-dimpel-de">
                     <persName>
                         <surname>Dimpel</surname>
                         <forename>Friedrich</forename>

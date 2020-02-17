@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">OCR Nachkorrektur des Royal Society Corpus</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__s8caklau-stud-uni-saarland-de">
                     <persName>
                         <surname>Klaus</surname>
@@ -239,17 +240,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3175">Jurafsky Daniel / Martin James H. (2016): "Spelling Correction and the Noisy Channel" In: Speech and Language Processing, 3. Edition, S. 61-73.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1154">Jurafsky Daniel / Martin James H. (2016): "Spelling Correction and the Noisy Channel" In: Speech and Language Processing, 3. Edition, S. 61-73.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__128">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke (2016): "The Royal Society Corpus: From Uncharted Data to Corpus", in: Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). European Language Resources Association (ELRA).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__163">Kermes, Hannah / Degaetano-Ortlieb, Stefania / Khamis, Ashraf / Knappen, Jörg / Teich, Elke (2016): "The Royal Society Corpus: From Uncharted Data to Corpus", in: Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). European Language Resources Association (ELRA).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3176">Knappen, Jörg / Fischer, Stefan / Kermes, Hannah / Teich, Elke / Fankhauser, Peter (2017): "The Making of the Royal Society Corpus", in ListLang@NoDaLiDa.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1155">Knappen, Jörg / Fischer, Stefan / Kermes, Hannah / Teich, Elke / Fankhauser, Peter (2017): "The Making of the Royal Society Corpus", in ListLang@NoDaLiDa.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3177">Norvig, Peter (2008): "Natural Language Corpus Data: Beautiful Data". [online] [letzter Zugriff 08. November 2017].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1156">Norvig, Peter (2008): "Natural Language Corpus Data: Beautiful Data". [online] [letzter Zugriff 08. November 2017].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__100">Shannon, Claude E. (1948): "A Mathematical Theory of Communication", in Bell System Technical Journal.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__164">Shannon, Claude E. (1948): "A Mathematical Theory of Communication", in Bell System Technical Journal.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3178">UdS Fedora Commons Repository (o.J.) "The Royal Society Corpus (RSC)" , . [letzter Zugriff 29. März 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1157">UdS Fedora Commons Repository (o.J.) "The Royal Society Corpus (RSC)" , . [letzter Zugriff 29. März 2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

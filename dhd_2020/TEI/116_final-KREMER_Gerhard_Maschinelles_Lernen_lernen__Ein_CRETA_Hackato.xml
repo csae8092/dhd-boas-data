@@ -233,29 +233,17 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Blessing, André / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): "An end-to-end environment for research question-driven entity extraction and network analysis" in 
-<hi rend="italic">Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, Vancouver.
-</bibl>
+<rs type="bibl" ref="#bibl__388">Blessing, André / Echelmeyer, Nora / John, Markus / Reiter, Nils (2017): "An end-to-end environment for research question-driven entity extraction and network analysis" in Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, Vancouver.</rs></bibl>
 <bibl>
-  <hi rend="bold">Kuhn, Jonas / Reiter, Nils</hi> (2015): "A Plea for a Method-Driven Agenda in the Digital Humanities" in: 
-  <hi rend="italic">Digital Humanities 2015: Conference Abstracts</hi>, Sydney. 
-</bibl>
+  <rs type="bibl" ref="#bibl__315">Kuhn, Jonas / Reiter, Nils (2015): "A Plea for a Method-Driven Agenda in the Digital Humanities" in: Digital Humanities 2015: Conference Abstracts, Sydney.</rs></bibl>
 <bibl>
-  <hi rend="bold">Lotman, Juri</hi> (1972): 
-  <hi rend="italic">Die Struktur literarischer Texte</hi>, München.
-</bibl>
+  <rs type="bibl" ref="#bibl__261">Lotman, Juri (1972): Die Struktur literarischer Texte, München.</rs></bibl>
 <bibl>
-  <hi rend="bold">Reiter, Nils / Blessing, André / Echelmeyer, Nora / Koch, Steffen / Kremer, Gerhard / Murr, Sandra / Overbeck, Maximilian / Pichler, Axel</hi> (2017a): "CUTE: CRETA Unshared Task zu Entitätenreferenzen" in 
-  <hi rend="italic">Konferenzabstracts DHd2017</hi>, Bern.
-</bibl>
+  <rs type="bibl" ref="#bibl__387">Reiter, Nils / Blessing, André / Echelmeyer, Nora / Koch, Steffen / Kremer, Gerhard / Murr, Sandra / Overbeck, Maximilian / Pichler, Axel (2017a): "CUTE: CRETA Unshared Task zu Entitätenreferenzen" in Konferenzabstracts DHd2017, Bern.</rs></bibl>
 <bibl>
-  <hi rend="bold">Reiter, Nils / Kuhn, Jonas / Willand, Marcus</hi> (2017b): "To GUI or not to GUI?" in 
-  <hi rend="italic">Proceedings of INFORMATIK 2017</hi>, Chemnitz.
-</bibl>
+  <rs type="bibl" ref="#bibl__5118">Reiter, Nils / Kuhn, Jonas / Willand, Marcus (2017b): "To GUI or not to GUI?" in Proceedings of INFORMATIK 2017, Chemnitz.</rs></bibl>
 <bibl>
-  <hi rend="bold">Willand, Marcus / Gius, Evelyn / Reiter, Nils </hi>(2019): “Ein neues Format für die Digital Humanities: Shared Tasks. Zur Annotation narrativer Ebenen.” in 
-  <hi rend="italic">Abstracts of DHd: multimedial und multimodal,</hi> Frankfurt. 
-</bibl>
+  <rs type="bibl" ref="#bibl__5119">Willand, Marcus / Gius, Evelyn / Reiter, Nils (2019): “Ein neues Format für die Digital Humanities: Shared Tasks. Zur Annotation narrativer Ebenen.” in Abstracts of DHd: multimedial und multimodal, Frankfurt.</rs></bibl>
 </listBibl>
 </div>
 </back>

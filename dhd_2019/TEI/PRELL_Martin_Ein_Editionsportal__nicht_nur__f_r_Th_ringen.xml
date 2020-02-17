@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Editionsportal (nicht nur) für Thüringen</title><title type="conf_year">2019</title><author ref="#person__martin-prell-uni-jena-de">
+                <title>Ein Editionsportal (nicht nur) für Thüringen</title><title type="conf_year">2019</title>
+                <author ref="#person__martin-prell-uni-jena-de">
                     <persName>
                         <surname>Prell</surname>
                         <forename>Martin</forename>
@@ -128,17 +129,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__245">Buddenbohm, Stefan / Enke, Harry / Hofmann, Matthias / Klar, Jochen / Neuroth, Heike / Schwiegelshohn, Uwe (2014): „Erfolgskriterien für den Aufbau und nachhaltigen Betrieb Virtueller Forschungsumgebungen“. Göttingen. http://webdoc.sub.gwdg.de/pub/mon/dariah-de/dwp-2014-7.pdf [letzter Zugriff 27.09.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__135">Buddenbohm, Stefan / Enke, Harry / Hofmann, Matthias / Klar, Jochen / Neuroth, Heike / Schwiegelshohn, Uwe (2014): „Erfolgskriterien für den Aufbau und nachhaltigen Betrieb Virtueller Forschungsumgebungen“. Göttingen. http://webdoc.sub.gwdg.de/pub/mon/dariah-de/dwp-2014-7.pdf [letzter Zugriff 27.09.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3036">Carusi, Annamaria / Reimer, Torsten (2010): “Virtual Research Environment Collaborative Landscape Study. A JISC funded project.” Oxford/London: JISC http://www.jisc.ac.uk/publications/reports/2010/vrelandscapestudy.aspx [letzter Zugriff 27.09.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1059">Carusi, Annamaria / Reimer, Torsten (2010): “Virtual Research Environment Collaborative Landscape Study. A JISC funded project.” Oxford/London: JISC http://www.jisc.ac.uk/publications/reports/2010/vrelandscapestudy.aspx [letzter Zugriff 27.09.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3037">Dogunke, Swantje (2017): „Tagungsbericht: Editionsportale, 03.08.2017 – 04.08.2017 Jena“, in: H-Soz-Kult, 10.10.2017, &lt;www.hsozkult.de/conferencereport/id/tagungsberichte-7350&gt; [letzter Zugriff 28.09.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1060">Dogunke, Swantje (2017): „Tagungsbericht: Editionsportale, 03.08.2017 – 04.08.2017 Jena“, in: H-Soz-Kult, 10.10.2017, &lt;www.hsozkult.de/conferencereport/id/tagungsberichte-7350&gt; [letzter Zugriff 28.09.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3038">Mutschler, Thomas (2017): „Neue Wege der Kulturgutdigitalisierung in Thüringen“, in: Bibliotheksdienst 51 , 310-321.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1061">Mutschler, Thomas (2017): „Neue Wege der Kulturgutdigitalisierung in Thüringen“, in: Bibliotheksdienst 51 , 310-321.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3039">Prell, Martin / Schmidt-Funke, Julia (Hg.) (2017): „Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)“. Jena http://erdmuthe.thulb.uni-jena.de [letzter Zugriff 28.09.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1062">Prell, Martin / Schmidt-Funke, Julia (Hg.) (2017): „Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)“. Jena http://erdmuthe.thulb.uni-jena.de [letzter Zugriff 28.09.2018].</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3040">Sahle, Patrick (2014): „Kriterienkatalog für die Besprechung digitaler Editionen, Version 1.1“ (unter Mitarbeit von Georg Vogeler und den Mitgliedern des IDE) https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/ [letzter Zugriff 27.09.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1063">Sahle, Patrick (2014): „Kriterienkatalog für die Besprechung digitaler Editionen, Version 1.1“ (unter Mitarbeit von Georg Vogeler und den Mitgliedern des IDE) https://www.i-d-e.de/publikationen/weitereschriften/kriterien-version-1-1/ [letzter Zugriff 27.09.2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

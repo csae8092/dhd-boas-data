@@ -139,14 +139,14 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__1418">AthenaPlus (2015): Digital storytelling and cultural heritage: stakes and opportunities. http://www.athenaplus.eu/index.php?en/207/digital-storytelling [letzter Zugriff 22. August 2017]</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1419">AthenaPlus (2016): Metadata for the description of digital exhibitions: the DEMES element set. Version 1.0. http://www.athenaplus.eu/index.php?en/206/demes [letzter Zugriff 22. August 2017]</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1420">AthenaPlus: Movio. http://www.athenaplus.eu/index.php?en/211/movio)</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1421">Geisteswissenschaftliches Asset Management System – GAMS. http://gams.uni-graz.at [letzter Zugriff 22. August 2017]</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1422">INDICATE (2012): Handbook on virtual exhibitions and virtual performances. Version 1.0. http://www.indicate-project.org/getFile.php?id=412 [letzter Zugriff 22. August 2017]</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1423">Kultur- und Wissenschaftserbe Steiermark. http://www.kulturerbe-stmk.at [letzter Zugriff 22. August 2017]</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1424">Repositorium Steirisches Wissenschaftserbe. https://wissenschaftserbe.uni-graz.at/ [letzter Zugriff 22. August 2017]</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__1425">StoryMapJS. https://storymap.knightlab.com/ [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3559">AthenaPlus (2015): Digital storytelling and cultural heritage: stakes and opportunities. http://www.athenaplus.eu/index.php?en/207/digital-storytelling [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3560">AthenaPlus (2016): Metadata for the description of digital exhibitions: the DEMES element set. Version 1.0. http://www.athenaplus.eu/index.php?en/206/demes [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3561">AthenaPlus: Movio. http://www.athenaplus.eu/index.php?en/211/movio)</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3562">Geisteswissenschaftliches Asset Management System – GAMS. http://gams.uni-graz.at [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3563">INDICATE (2012): Handbook on virtual exhibitions and virtual performances. Version 1.0. http://www.indicate-project.org/getFile.php?id=412 [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3564">Kultur- und Wissenschaftserbe Steiermark. http://www.kulturerbe-stmk.at [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3565">Repositorium Steirisches Wissenschaftserbe. https://wissenschaftserbe.uni-graz.at/ [letzter Zugriff 22. August 2017]</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3566">StoryMapJS. https://storymap.knightlab.com/ [letzter Zugriff 22. August 2017]</rs></bibl>
                 </listBibl>
             </div>
       </back>

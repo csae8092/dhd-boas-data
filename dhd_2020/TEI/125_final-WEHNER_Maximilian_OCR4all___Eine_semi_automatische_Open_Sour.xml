@@ -204,21 +204,13 @@ vor erhebliche Probleme. Auch die vermeintlich einfach gedruckten Frakturromane 
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Breuel, Thomas M. / Ul-Hasan, Adnan / Al-Azawi, Mayce Ali / Shafait, Faisal</hi> (2013): High-Performance OCR for Printed English and Fraktur Using LSTM Networks, in:
-                        <hi rend="Betont"> 12th International Conference on Document Analysis and Recognition:</hi> 683-687.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4911">Breuel, Thomas M. / Ul-Hasan, Adnan / Al-Azawi, Mayce Ali / Shafait, Faisal (2013): High-Performance OCR for Printed English and Fraktur Using LSTM Networks, in: 12th International Conference on Document Analysis and Recognition: 683-687.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Reul, Christian / Christ, Dennis / Hartelt, Alexander / Balbach, Nico / Wehner, Maximilian / Springmann, Uwe / Wick, Christoph / Grundig, Christine / Büttner, Andreas / Puppe, Frank</hi> (2019): OCR4all – An Open-Source Tool Providing a (Semi-)Automatic OCR Workflow for Historical Printings, in: 
-                        <hi rend="italic" xml:space="preserve">ArXiv Preprints (submitted to MDPI – Applied Sciences) </hi>https://arxiv.org/abs/1909.04032.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4912">Reul, Christian / Christ, Dennis / Hartelt, Alexander / Balbach, Nico / Wehner, Maximilian / Springmann, Uwe / Wick, Christoph / Grundig, Christine / Büttner, Andreas / Puppe, Frank (2019): OCR4all – An Open-Source Tool Providing a (Semi-)Automatic OCR Workflow for Historical Printings, in: ArXiv Preprints (submitted to MDPI – Applied Sciences) https://arxiv.org/abs/1909.04032.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Rydberg-Cox, Jeffrey A.</hi> (2009): Digitizing Latin Incunabula: Callenges, Methods, and Possibilities, in: 
-                        <hi rend="italic">Digital Humanities Quarterly</hi> 3, 1 http://digitalhumanities.org:8081/dhq/vol/3/1/000027/000027.html.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4913">Rydberg-Cox, Jeffrey A. (2009): Digitizing Latin Incunabula: Callenges, Methods, and Possibilities, in: Digital Humanities Quarterly 3, 1 http://digitalhumanities.org:8081/dhq/vol/3/1/000027/000027.html.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Springmann, Uwe / Lüdeling, Anke</hi> (2017): OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus, in: 
-                        <hi rend="italic">Digital Humanities Quarterly</hi> 11, 2 http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html.
-                    </bibl>
+<rs type="bibl" ref="#bibl__167">Springmann, Uwe / Lüdeling, Anke (2017): OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus, in: Digital Humanities Quarterly 11, 2 http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html.</rs></bibl>
 </listBibl>
 </div>
 </back>

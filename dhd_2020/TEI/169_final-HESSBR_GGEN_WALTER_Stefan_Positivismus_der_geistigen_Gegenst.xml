@@ -88,50 +88,27 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Bishop, Claire</hi> (2018): „Against Digital Art History“, in: International Journal for Digital Art History, no. 3 (July). 
-  <ptr target="https://doi.org/10.11588/dah.2018.3.49915"/>. [Letzter Zugriff: 22. September 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4838">Bishop, Claire (2018): „Against Digital Art History“, in: International Journal for Digital Art History, no. 3 (July). . [Letzter Zugriff: 22. September 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Carnap, Rudolf</hi> (1928): Der logische Aufbau der Welt. Berlin-Schlachtensee: Weltkreis-Verlag.
-</bibl>
+  <rs type="bibl" ref="#bibl__4839">Carnap, Rudolf (1928): Der logische Aufbau der Welt. Berlin-Schlachtensee: Weltkreis-Verlag.</rs></bibl>
 <bibl>
-  <hi rend="bold">CIDOM CRM SIG</hi> (2015): E28 Conceptual Object | CIDOC CRM‘. 
-  <ptr target="http://www.cidoc-crm.org/entity/e28-conceptual-object/version-6.2"/>. [Letzter Zugriff: 22. September 2019]-
-</bibl>
+  <rs type="bibl" ref="#bibl__4840">CIDOM CRM SIG (2015): E28 Conceptual Object | CIDOC CRM‘. . [Letzter Zugriff: 22. September 2019]-</rs></bibl>
 <bibl>
-  <hi rend="bold">CIDOC CRM SIG </hi> (2015a): E73 Information Object | CIDOC CRM‘. 
-  <ptr target="http://www.cidoc-crm.org/Entity/e73-information-object/version-6.2"/>. [Letzter Zugriff: 22. September 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4841">CIDOC CRM SIG (2015a): E73 Information Object | CIDOC CRM‘. . [Letzter Zugriff: 22. September 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Creath, Richard </hi> (2017): 
-  ‘Logical Empiricism’, in: The Stanford Encyclopedia of Philosophy, hg. v. Edward N. Zalta, Fall 2017. Metaphysics Research Lab, Stanford University. 
-  <ptr target="https://plato.stanford.edu/archives/fall2017/entries/logical-empiricism/"/> [Letzter Zugriff: 22. September 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4842">Creath, Richard (2017): ‘Logical Empiricism’, in: The Stanford Encyclopedia of Philosophy, hg. v. Edward N. Zalta, Fall 2017. Metaphysics Research Lab, Stanford University. [Letzter Zugriff: 22. September 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Doerr, Martin, et al. </hi> (2016): 
-  Definition of the CRMdig: An Extension of CIDOC-CRM to support provenance metadata, Version 3.2.1. 
-  <ptr target="http://www.cidoc-crm.org/crmdig/sites/default/files/CRMdig_v3.2.1.pdf"/> [Letzter Zugriff: 22. September 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4843">Doerr, Martin, et al. (2016): Definition of the CRMdig: An Extension of CIDOC-CRM to support provenance metadata, Version 3.2.1. [Letzter Zugriff: 22. September 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Drucker, Johanna </hi> (2012):  'Humanistic Theory and Digital Scholarship', in: Gold, Matthew K., (ed). Debates in the Digital Humanities. Minneapolis, Minn.: Univ. of Minnesota Press, 85-95.
-</bibl>
+  <rs type="bibl" ref="#bibl__120">Drucker, Johanna (2012): 'Humanistic Theory and Digital Scholarship', in: Gold, Matthew K., (ed). Debates in the Digital Humanities. Minneapolis, Minn.: Univ. of Minnesota Press, 85-95.</rs></bibl>
 <bibl>
-  <hi rend="bold">Dutilh Novaes, Catarina </hi> (2011):  'The Different Ways in which Logic is (said to be) Formal', in: History and Philosophy of Logic, 32:4, 303-332.
-</bibl>
+  <rs type="bibl" ref="#bibl__4844">Dutilh Novaes, Catarina (2011): 'The Different Ways in which Logic is (said to be) Formal', in: History and Philosophy of Logic, 32:4, 303-332.</rs></bibl>
 <bibl>
-  <hi rend="bold">Eyers, Tom </hi> (2013): 
-  ‘The Perils of the “Digital Humanities”: New Positivisms and the Fate of Literary Theory’. Postmodern Culture 23 (2). 
-  <ptr target="https://doi.org/10.1353/pmc.2013.0038"/>. [Letzter Zugriff: 22. September 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__4845">Eyers, Tom (2013): ‘The Perils of the “Digital Humanities”: New Positivisms and the Fate of Literary Theory’. Postmodern Culture 23 (2). . [Letzter Zugriff: 22. September 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Levenberg, Lewis / Neilson, Tai</hi> (2018): 
-  Research Methods for the Digital Humanities. Cham, Switzerland: Palgrave Macmillan.
-</bibl>
+  <rs type="bibl" ref="#bibl__4846">Levenberg, Lewis / Neilson, Tai (2018): Research Methods for the Digital Humanities. Cham, Switzerland: Palgrave Macmillan.</rs></bibl>
 <bibl>
-  <hi rend="bold">Trilcke, Peer / Fischer, Frank </hi> (2018): 
-  ‚Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen.‘ In: Huber, Martin/Krämer, Sybille (eds.), Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3). 
-  <ptr target="https://doi.org/10.17175/sb003_003"/>[Letzter Zugriff: 22. September 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__160">Trilcke, Peer / Fischer, Frank (2018): ‚Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen.‘ In: Huber, Martin/Krämer, Sybille (eds.), Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3). [Letzter Zugriff: 22. September 2019].</rs></bibl>
 </listBibl>
 </div>
 </back>

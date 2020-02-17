@@ -221,108 +221,37 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Berners-Lee, Tim / </hi>
-  <hi rend="bold">Hendler, </hi>
-  <hi rend="bold">James / </hi>
-  <hi rend="bold">Lassila, </hi>
-  <hi rend="bold">Ora</hi> (2001): 
-  <hi rend="italic">"The Semantic Web",</hi> in: 
-  <hi rend="italic">Scientific American </hi>284.5: 29–37.
-</bibl>
+  <rs type="bibl" ref="#bibl__5421">Berners-Lee, Tim / Hendler, James / Lassila, Ora (2001): "The Semantic Web", in: Scientific American 284.5: 29–37.</rs></bibl>
 <bibl>
-  <hi rend="bold">Bizer, Christian / </hi>
-  <hi rend="bold">Heath,</hi>
-  <hi rend="bold"> Tom / </hi>
-  <hi rend="bold">Berners-Lee, </hi>
-  <hi rend="bold">Tim </hi>(2009): 
-  "Linked Data – The Story So Far", in: 
-  <hi rend="italic">International Journal on Semantic Web and Information Systems </hi>5.3: 1–22 
-  <ref target="http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf">http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf</ref>
-  [letzter Zugriff 03. Januar 2020]. 
-</bibl>
+  <rs type="bibl" ref="#bibl__5422">Bizer, Christian / Heath, Tom / Berners-Lee, Tim (2009): "Linked Data – The Story So Far", in: International Journal on Semantic Web and Information Systems 5.3: 1–22 http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf [letzter Zugriff 03. Januar 2020].</rs></bibl>
 <bibl>
-  <hi rend="bold">Candeias, Ricardo Pereira</hi> (2011): 
-  <hi rend="italic">Metadata Extraction from Scholarly Articles</hi>. Master Thesis, Universidade Técnica de Lisboa. 
-  <ptr target="https://fenix.tecnico.ulisboa.pt/downloadFile/395143160947/dissertacao.pdf"/> [letzter Zugriff 03. Januar 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5423">Candeias, Ricardo Pereira (2011): Metadata Extraction from Scholarly Articles. Master Thesis, Universidade Técnica de Lisboa. [letzter Zugriff 03. Januar 2020].</rs></bibl>
 <bibl>
-  <hi rend="bold">Dublin Core Metadata Initiative</hi> (2012): 
-  <hi rend="italic">DCMI Metadata Terms</hi>. DCMI Recommendation. 
-  <ptr target="http://dublincore.org/documents/2012/06/14/dcmi-terms/"/> [letzter Zugriff 03. Januar 2020],
-</bibl>
+  <rs type="bibl" ref="#bibl__5424">Dublin Core Metadata Initiative (2012): DCMI Metadata Terms. DCMI Recommendation. [letzter Zugriff 03. Januar 2020],</rs></bibl>
 <bibl>
-  <hi rend="bold">Freyberg, Linda </hi>(2017): 
-  "Density of Knowledge Organization Systems", in: 
-  <hi rend="italic">Knowledge Organization for Digital Humanities. Proceedings of the 15th Conference on Knowledge Organization WissOrg '17 of the German Chapter of the International Society for Knowledge Organization (ISKO) </hi>25–30.
-</bibl>
+  <rs type="bibl" ref="#bibl__5425">Freyberg, Linda (2017): "Density of Knowledge Organization Systems", in: Knowledge Organization for Digital Humanities. Proceedings of the 15th Conference on Knowledge Organization WissOrg '17 of the German Chapter of the International Society for Knowledge Organization (ISKO) 25–30.</rs></bibl>
 <bibl>
-  <hi rend="bold">Groza, T. / Grimnes, A. / Handschuh, S.</hi> (2012): 
-  "Reference Information Extraction and Processing Using Conditional Random Fields", in: 
-  <hi rend="italic">Information Technology and Libraries</hi> 31.2: 6–20.
-</bibl>
+  <rs type="bibl" ref="#bibl__5426">Groza, T. / Grimnes, A. / Handschuh, S. (2012): "Reference Information Extraction and Processing Using Conditional Random Fields", in: Information Technology and Libraries 31.2: 6–20.</rs></bibl>
 <bibl>
-  <hi rend="bold">IDEAlliance – International Digital Enterprise Alliance</hi> (2008): 
-  <hi rend="italic">The PRISM Namespace – Final </hi>
-  <ref target="http://www.prismstandard.org/specifications/2.0/PRISM_prism_namespace_2.0.pdf">http://www.prismstandard.org/specifications/2.0/PRISM_prism_namespace_2.0.pdf</ref>
-  [letzter Zugriff 03. Januar 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5427">IDEAlliance – International Digital Enterprise Alliance (2008): The PRISM Namespace – Final http://www.prismstandard.org/specifications/2.0/PRISM_prism_namespace_2.0.pdf [letzter Zugriff 03. Januar 2020].</rs></bibl>
 <bibl>
-  <hi rend="bold">IFLA Study Group on the Functional Requirements for Bibliographic Records</hi> (2009): 
-  <hi rend="italic">Functional Requirements for Bibliographic Records – Final Report</hi>. (IFLA Series on Bibliographic Control, Vol. 19) 
-  <ptr target="https://www.ifla.org/publications/functional-requirements-for-bibliographic-records"/> [letzter Zugriff 03. Januar 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5428">IFLA Study Group on the Functional Requirements for Bibliographic Records (2009): Functional Requirements for Bibliographic Records – Final Report. (IFLA Series on Bibliographic Control, Vol. 19) [letzter Zugriff 03. Januar 2020].</rs></bibl>
 <bibl>
-  <hi rend="bold">Kovacevic, Aleksandar / Ivanovic, Dragan / Milosavljevic, Branko / Konjovic, Zora / Surla, Dusan </hi>(2011): 
-  "Automatic extraction of metadata from scientific publications for CRIS systems“, in: 
-  <hi rend="italic">Program </hi>45.4: 376–396.
-</bibl>
+  <rs type="bibl" ref="#bibl__5429">Kovacevic, Aleksandar / Ivanovic, Dragan / Milosavljevic, Branko / Konjovic, Zora / Surla, Dusan (2011): "Automatic extraction of metadata from scientific publications for CRIS systems“, in: Program 45.4: 376–396.</rs></bibl>
 <bibl>
-  <hi rend="bold">Kuczera, A.</hi> (2017): 
-  "Graphentechnologien in den Digitalen Geisteswissenschaften", in: 
-  <hi rend="italic">ABI Technik</hi>, 37.3: 179–196.
-</bibl>
+  <rs type="bibl" ref="#bibl__66">Kuczera, A. (2017): "Graphentechnologien in den Digitalen Geisteswissenschaften", in: ABI Technik, 37.3: 179–196.</rs></bibl>
 <bibl>
-  <hi rend="bold">Lafferty, John D. / </hi>
-  <hi rend="bold">McCallum, </hi>
-  <hi rend="bold">Andrew / </hi>
-  <hi rend="bold">Pereira, </hi>
-  <hi rend="bold">Fernando C. N </hi>(2001): 
-  "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", in: 
-  <hi rend="italic">Proceedings of the Eighteenth International Conference on Machine Learning (ICML '01) </hi>282–289.
-</bibl>
+  <rs type="bibl" ref="#bibl__29">Lafferty, John D. / McCallum, Andrew / Pereira, Fernando C. N (2001): "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data", in: Proceedings of the Eighteenth International Conference on Machine Learning (ICML '01) 282–289.</rs></bibl>
 <bibl>
-  <hi rend="bold">Martin, Angus / </hi>
-  <hi rend="bold">Mylne,</hi>
-  <hi rend="bold"> Vivienne / </hi>
-  <hi rend="bold">Frautschi, </hi>
-  <hi rend="bold">Richard </hi>(1977): 
-  <hi rend="italic">Bibliographie du genre romanesque français 1751-1800</hi>. London, Paris: Mansell, France expansion.
-</bibl>
+  <rs type="bibl" ref="#bibl__5430">Martin, Angus / Mylne, Vivienne / Frautschi, Richard (1977): Bibliographie du genre romanesque français 1751-1800. London, Paris: Mansell, France expansion.</rs></bibl>
 <bibl>
-  <hi rend="bold">Peng, Fuchun / McCallum, Andrew </hi>(2004): 
-  "Accurate Information Extraction from Research Papers using Conditional Random Fields", in: 
-  <hi rend="italic">Proceedings of Human Language Technology Conference and North American Chapter of the Association for Computational Linguistics (HLTNAACL) </hi>329–336 
-  <ptr target="https://www.cs.umass.edu/~mccallum/papers/hlt2004.pdf"/>[letzter Zugriff 03. Januar 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5431">Peng, Fuchun / McCallum, Andrew (2004): "Accurate Information Extraction from Research Papers using Conditional Random Fields", in: Proceedings of Human Language Technology Conference and North American Chapter of the Association for Computational Linguistics (HLTNAACL) 329–336 [letzter Zugriff 03. Januar 2020].</rs></bibl>
 <bibl>
-  <hi rend="bold">Peroni, Silvio / </hi>
-  <hi rend="bold">Shotton, </hi>
-  <hi rend="bold">David </hi>(2018): 
-  "The SPAR Ontologies", in: Vrandečić D. et al. (eds.): 
-  <hi rend="italic">The Semantic Web – ISWC 2018</hi>. Lecture Notes in Computer Science. Cham: Springer 119–136.
-</bibl>
+  <rs type="bibl" ref="#bibl__5432">Peroni, Silvio / Shotton, David (2018): "The SPAR Ontologies", in: Vrandečić D. et al. (eds.): The Semantic Web – ISWC 2018. Lecture Notes in Computer Science. Cham: Springer 119–136.</rs></bibl>
 <bibl>
-  <hi rend="bold">Schreiber, Guus / </hi>
-  <hi rend="bold">Raimond, </hi>
-  <hi rend="bold">Yves </hi>(2014): 
-  <hi rend="italic">RDF 1.1 Primer</hi>. W3C Note. 
-  <ptr target="http://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624"/> [letzter Zugriff 03. Januar 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5433">Schreiber, Guus / Raimond, Yves (2014): RDF 1.1 Primer. W3C Note. [letzter Zugriff 03. Januar 2020].</rs></bibl>
 <bibl>
-  <hi rend="bold">Suominen, Osma / Hyvönen, Nina</hi> (2017): 
-  "From MARC silos to Linked Data silos?", in: 
-  <hi rend="italic">o-bib. Das offene Bibliotheksjournal</hi> 4.2: 1–13.
-</bibl>
+  <rs type="bibl" ref="#bibl__5434">Suominen, Osma / Hyvönen, Nina (2017): "From MARC silos to Linked Data silos?", in: o-bib. Das offene Bibliotheksjournal 4.2: 1–13.</rs></bibl>
 </listBibl>
 </div>
 </back>

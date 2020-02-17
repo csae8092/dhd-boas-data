@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Museum Analytics: Ein Online-Tool zur vergleichenden Analyse musealer Datenbestände</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__stefanie-schneider-itg-uni-muenchen-de">
                     <persName>
                         <surname>Schneider</surname>
@@ -153,15 +154,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Chang, Winston / Cheng, Joe / Allaire, JJ / Xie, Yihui / McPherson, Jonathan (2017): 
-                        <rs type="bibl" ref="#bibl__3600">Chang, Winston / Cheng, Joe / Allaire, JJ / Xie, Yihui / McPherson, Jonathan (2017): shiny: Web Application Framework for R, .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1064">Chang, Winston / Cheng, Joe / Allaire, JJ / Xie, Yihui / McPherson, Jonathan (2017): shiny: Web Application Framework for R, .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3601">Klinke, Harald (Hrsg., 2018): #DigiCampus. Digitale Forschung und Lehre in den Geisteswissenschaften. München: Universitätsbibliothek der Ludwig-Maximilians-Universität.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1065">Klinke, Harald (Hrsg., 2018): #DigiCampus. Digitale Forschung und Lehre in den Geisteswissenschaften. München: Universitätsbibliothek der Ludwig-Maximilians-Universität.</rs></bibl>
                     <bibl>R Core Team (2017): 
-                        <rs type="bibl" ref="#bibl__3602">R Core Team (2017): R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1066">R Core Team (2017): R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3603">Ridge, Mia (2012): Mia Ridge Explores the Shape of Cooper-Hewitt Collections, .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1067">Ridge, Mia (2012): Mia Ridge Explores the Shape of Cooper-Hewitt Collections, .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3604">Stack, John (2018): Exploring Museum Collections Online. Some Background Reading , .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1068">Stack, John (2018): Exploring Museum Collections Online. Some Background Reading , .</rs></bibl>
                 </listBibl>
             </div>
         </back>

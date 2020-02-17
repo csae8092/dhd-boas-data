@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Digitales Publizieren im Spiegel der Zeitschrift für digitale Geisteswissenschaften - ZfdG: Eine Standortbestimmung</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__henrike-fricke-hab-de">
                     <persName>
                         <surname>Fricke-Steyer</surname>
@@ -138,17 +139,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3843">Amsen, Eva (2014): “What is post-publication peer review?”, in: Blogpost auf F1000 Research Blog. [letzter Zugriff: 14.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__69">Amsen, Eva (2014): “What is post-publication peer review?”, in: Blogpost auf F1000 Research Blog. [letzter Zugriff: 14.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__288">Degkwitz, Andreas (2015): “Enhanced Publications Exploit the Potential of Digital Media”, in: Evolving Genres of ETDs for Knowledge Discovery. Proceedings of ETD 2015 18th International Symposium on Electronic Theses and Dissertations 51–59.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__70">Degkwitz, Andreas (2015): “Enhanced Publications Exploit the Potential of Digital Media”, in: Evolving Genres of ETDs for Knowledge Discovery. Proceedings of ETD 2015 18th International Symposium on Electronic Theses and Dissertations 51–59.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3844">DHd-Arbeitsgruppe (2016): "Digitales Publizieren", in: DHd-Arbeitsgruppe (eds.): Working Paper "Digitales Publizieren" [letzter Zugriff: 14.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__71">DHd-Arbeitsgruppe (2016): "Digitales Publizieren", in: DHd-Arbeitsgruppe (eds.): Working Paper "Digitales Publizieren" [letzter Zugriff: 14.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3845">Heller, Lambert / The, Ronald / Bartling, Sönke (2014): „Dynamic Publication Formats and Collaborative Authoring“, in: Bartling S., Friesike S. (eds): Opening Science. Cham: Springer 191–211. DOI: 10.1007/978-3-319-00026-8.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__775">Heller, Lambert / The, Ronald / Bartling, Sönke (2014): „Dynamic Publication Formats and Collaborative Authoring“, in: Bartling S., Friesike S. (eds): Opening Science. Cham: Springer 191–211. DOI: 10.1007/978-3-319-00026-8.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__144">Kohle, Hubertus (2017): “Digitales Publizieren” in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler Verlag 199–205.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__72">Kohle, Hubertus (2017): “Digitales Publizieren” in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler Verlag 199–205.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__289">Maciocci, Giuliano (2017): "Designing Progressive Enhancement Into The Academic Manuscript: Considering a design strategy to accommodate interactive research articles", in: Blogpost auf eLife Sciences. [letzter Zugriff: 14.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__74">Maciocci, Giuliano (2017): "Designing Progressive Enhancement Into The Academic Manuscript: Considering a design strategy to accommodate interactive research articles", in: Blogpost auf eLife Sciences. [letzter Zugriff: 14.10.2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

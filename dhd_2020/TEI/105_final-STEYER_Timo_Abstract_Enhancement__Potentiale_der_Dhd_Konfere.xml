@@ -132,78 +132,35 @@ Die bibliographischen Angaben in den Abstracts lagen jedoch in zu heterogenen Fo
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold"> Andorfer, Peter </hi> (2015): 
-  <hi rend="italic">Forschungsdaten in den (digitalen) Geisteswissenschaften. Versuch einer Konkretisierung,</hi> DARIAH-DE Working Papers, 14 
-  <ref target="urn:nbn:de:gbv:7-dariah-2015-7-2">urn:nbn:de:gbv:7-dariah-2015-7-2</ref>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5150">Andorfer, Peter (2015): Forschungsdaten in den (digitalen) Geisteswissenschaften. Versuch einer Konkretisierung, DARIAH-DE Working Papers, 14 urn:nbn:de:gbv:7-dariah-2015-7-2[letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Andorfer, Peter / Cremer, Fabian / Steyer, Timo </hi> (2019): DHd 2019 Book of Abstracts Hackathon, in: 
-  <hi rend="italic">DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts </hi>
-  <ptr target="https://doi.org/10.20375/0000-000B-D512-0"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5151">Andorfer, Peter / Cremer, Fabian / Steyer, Timo (2019): DHd 2019 Book of Abstracts Hackathon, in: DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Borgman, Christine L. </hi> (2010): The Digital Future is Now: A Call to Action for the Humanities, in: 
-  <hi rend="italic">Digital Humanities Quarterly</hi> 003, Nr. 4.
-</bibl>
+  <rs type="bibl" ref="#bibl__220">Borgman, Christine L. (2010): The Digital Future is Now: A Call to Action for the Humanities, in: Digital Humanities Quarterly 003, Nr. 4.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Cremer, Fabian </hi> (2018): Nun sag, wie hältst Du es mit dem Digitalen Publizieren, Digital Humanities?, in: 
-  <hi rend="italic">Blog. Digitale Redaktion (blog)</hi>
-  <ptr target="https://editorial.hypotheses.org/113"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__221">Cremer, Fabian (2018): Nun sag, wie hältst Du es mit dem Digitalen Publizieren, Digital Humanities?, in: Blog. Digitale Redaktion (blog) [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Gao, J. / Duke-Williams, O. / Mahony, S. / Ramdarshan Bold, M. / Nyhan, J. </hi> (2017):The Intellectual Structure of Digital Humanities: An Author Co-Citation Analysis, in: 
-  <hi rend="italic">Digital Humanities 2017</hi>
-  <ptr target="http://discovery.ucl.ac.uk/id/eprint/10052270"/> [letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5152">Gao, J. / Duke-Williams, O. / Mahony, S. / Ramdarshan Bold, M. / Nyhan, J. (2017):The Intellectual Structure of Digital Humanities: An Author Co-Citation Analysis, in: Digital Humanities 2017 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Hall, Mark </hi> (2019): DH is the Study of dead Dudes, in:
-  <hi rend="italic">Hd 2019: multimedial &amp; multimodal Konferenzabstracts</hi>: 111-113
-  <ptr target="https://doi.org/10.5281/zenodo.2600812"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5153">Hall, Mark (2019): DH is the Study of dead Dudes, in: Hd 2019: multimedial &amp; multimodal Konferenzabstracts: 111-113 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Hannesschläger, Vanessa / Andorfer, Peter </hi> (2018): 
-  <hi rend="italic">Menschen gendern? Datenmodellierung zur Erhebung von Geschlechterverteilung am Beispiel der TEI2016 Abstracts App</hi>
-  <ptr target="https://doi.org/10.5281/zenodo.1182576"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__222">Hannesschläger, Vanessa / Andorfer, Peter (2018): Menschen gendern? Datenmodellierung zur Erhebung von Geschlechterverteilung am Beispiel der TEI2016 Abstracts App [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Henny-Krahmer, Ulrike / Sahle, Patrick </hi> (2019): Einreichungen zur DHd 2018, in: 
-  <hi rend="italic">DHd-Blog</hi> (blog), 29. März 2019 
-  <ptr target="https://dhd-blog.org/?p=9001"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5154">Henny-Krahmer, Ulrike / Sahle, Patrick (2019): Einreichungen zur DHd 2018, in: DHd-Blog (blog), 29. März 2019 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Hoenen, Armin </hi> (2019): Einreichungen zur DHd 2019 II, in: 
-  <hi rend="italic">DHd-Blog</hi> (blog), 29. März 2019 
-  <ptr target="https://dhd-blog.org/?p=11418"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5155">Hoenen, Armin (2019): Einreichungen zur DHd 2019 II, in: DHd-Blog (blog), 29. März 2019 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Kaden, Ben / Kleineberg, Michael </hi> (2019): Zur Situation des digitalen geisteswissenschaftlichen Publizierens – Erfahrungen aus dem DFG-Projekt ‚Future Publications in den Humanities‘, in: 
-  <hi rend="italic">Bibliothek Forschung und Praxis</hi> 41, Nr. 1 (2017): 7–14 
-  <ptr target="https://doi.org/10.1515/bfp-2017-0009"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5156">Kaden, Ben / Kleineberg, Michael (2019): Zur Situation des digitalen geisteswissenschaftlichen Publizierens – Erfahrungen aus dem DFG-Projekt ‚Future Publications in den Humanities‘, in: Bibliothek Forschung und Praxis 41, Nr. 1 (2017): 7–14 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Kiefer, Katharina </hi> (2019): Einreichungen zur DHd 2019, in: 
-  <hi rend="italic">DHd-Blog</hi> (blog), 29. März 2019 
-  <ptr target="https://dhd-blog.org/?p=11358"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5157">Kiefer, Katharina (2019): Einreichungen zur DHd 2019, in: DHd-Blog (blog), 29. März 2019 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Nyhan, Julianne / Duke-Williams, Oliver </hi> (2014): Joint and Multi-Authored Publication Patterns in the Digital Humanities, in:
-  <hi rend="italic">Literary and Linguistic Computing</hi> 29, Nr. 3 (1. September 2014) 
-  <ptr target="https://doi.org/10.1093/llc/fqu018"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5158">Nyhan, Julianne / Duke-Williams, Oliver (2014): Joint and Multi-Authored Publication Patterns in the Digital Humanities, in: Literary and Linguistic Computing 29, Nr. 3 (1. September 2014) [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Sahle, Patrick (ed.) </hi> (2019): 
-  <hi rend="italic">DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts</hi>. Frankfurt am Main: Zenodo, 2019 
-  <ptr target="https://doi.org/10.5281/zenodo.2596095"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5159">Sahle, Patrick (ed.) (2019): DHd 2019 Digital Humanities: multimedial &amp; multimodal. Konferenzabstracts. Frankfurt am Main: Zenodo, 2019 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Stäcker, Thomas </hi> (2013): Wie schreibt man Digital Humanities richtig?, in: 
-  <hi rend="italic">Bibliotheksdienst</hi> 47, Nr. 1 
-  <ptr target="https://doi.org/10.1515/bd-2013-0005"/>[letzter Zugriff 30.08.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5160">Stäcker, Thomas (2013): Wie schreibt man Digital Humanities richtig?, in: Bibliotheksdienst 47, Nr. 1 [letzter Zugriff 30.08.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold"> Vogeler, Georg (ed.) </hi> (2018): 
-  <hi rend="italic">DHd 2018: Kritik der digitalen Vernunft. Konferenzabstracts</hi>. Köln, Universität zu Köln, 2018.
-</bibl>
+  <rs type="bibl" ref="#bibl__223">Vogeler, Georg (ed.) (2018): DHd 2018: Kritik der digitalen Vernunft. Konferenzabstracts. Köln, Universität zu Köln, 2018.</rs></bibl>
 </listBibl>
 </div>
 </back>

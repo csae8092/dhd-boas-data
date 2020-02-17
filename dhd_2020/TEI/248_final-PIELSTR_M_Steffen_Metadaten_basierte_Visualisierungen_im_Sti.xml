@@ -131,11 +131,7 @@ Beispiel mit dem Dateinamen
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Eder, Maciej / Rybicki, Jan / Kestemont, Mike</hi> (2016): „Stylometry with R: a package for computational text analysis“, in 
-  <hi rend="italic">R Journal</hi>, 
-  <hi rend="bold">8</hi>(1): 107-121, url: 
-  <ptr target="https://journal.r-project.org/archive/2016/RJ-2016-007/index.html"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__132">Eder, Maciej / Rybicki, Jan / Kestemont, Mike (2016): „Stylometry with R: a package for computational text analysis“, in R Journal, 8(1): 107-121, url:</rs></bibl>
 </listBibl>
 </div>
 </back>

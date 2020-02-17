@@ -118,12 +118,12 @@
 <div type="bibliogr">
 <listBibl>
 <head>Bibliographie</head>
-<bibl><hi rend="bold">[1] Berndt, Axel / Bohl, Benjamin W.</hi> (2018): Music Performance Markup: Formale Beschreibung musikalischer Interpretationen. In: Editio Bd. 32 (2018), Nr. 1, S. 185–204.</bibl>
-<bibl><hi rend="bold">[2] Burnard, Lou</hi>: ODD chaining for beginners, <ptr target="http://teic.github.io/PDF/howtoChain.pdf"/></bibl>
-<bibl><hi rend="bold">[3] Deutsches Textarchiv</hi>: Schema und Dokumentation der DTABf Schema, http://www.deutschestextarchiv.de/doku/basisformat/schema.html</bibl>
-<bibl><hi rend="bold">[4] Holmes, Martin</hi> 2018: Using ODD for HTML, in Proceedings of of the Text Encoding Initiative Conference and Members Meeting The Markup Conference, Tokyo, Japan, September 9–13 2018. Pages 240–241, <ptr target="https://tei2018.dhii.asia/AbstractsBook_TEI_0907.pdf"/></bibl>
-<bibl><hi rend="bold">[5] TEI Consortium</hi>: Roma ODD Editor, https://romabeta.tei-c.org</bibl>
-<bibl><hi rend="bold">[6] Viglianti, Raffaele</hi>: One Document Does-it-all (ODD): a language for documentation, schema generation, and customization from the Text Encoding Initiative, <ptr target="https://www.balisage.net/Proceedings/vol24/html/Viglianti01/BalisageVol24-Viglianti01.html"/></bibl>
+<bibl><rs type="bibl" ref="#bibl__5404">[1] Berndt, Axel / Bohl, Benjamin W. (2018): Music Performance Markup: Formale Beschreibung musikalischer Interpretationen. In: Editio Bd. 32 (2018), Nr. 1, S. 185–204.</rs></bibl>
+<bibl><rs type="bibl" ref="#bibl__5405">[2] Burnard, Lou: ODD chaining for beginners,</rs></bibl>
+<bibl><rs type="bibl" ref="#bibl__5406">[3] Deutsches Textarchiv: Schema und Dokumentation der DTABf Schema, http://www.deutschestextarchiv.de/doku/basisformat/schema.html</rs></bibl>
+<bibl><rs type="bibl" ref="#bibl__5407">[4] Holmes, Martin 2018: Using ODD for HTML, in Proceedings of of the Text Encoding Initiative Conference and Members Meeting The Markup Conference, Tokyo, Japan, September 9–13 2018. Pages 240–241,</rs></bibl>
+<bibl><rs type="bibl" ref="#bibl__5408">[5] TEI Consortium: Roma ODD Editor, https://romabeta.tei-c.org</rs></bibl>
+<bibl><rs type="bibl" ref="#bibl__5409">[6] Viglianti, Raffaele: One Document Does-it-all (ODD): a language for documentation, schema generation, and customization from the Text Encoding Initiative,</rs></bibl>
 </listBibl>
 </div>
 </back>

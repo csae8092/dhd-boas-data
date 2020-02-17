@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Über die Ungleichheit im Gleichen. Erkennung unterschiedlicher Reproduktionen desselben Objekts in kunsthistorischen Bildbeständen</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__stefanie-schneider-itg-uni-muenchen-de">
                     <persName>
                         <surname>Schneider</surname>
@@ -144,29 +145,29 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Aumueller, Martin / Bernhardsson, Erik / Faitfull, Alec (2018): 
-                        <rs type="bibl" ref="#bibl__3637">Aumueller, Martin / Bernhardsson, Erik / Faitfull, Alec (2018): ANN Benchmarks, (26.09.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1158">Aumueller, Martin / Bernhardsson, Erik / Faitfull, Alec (2018): ANN Benchmarks, (26.09.2018).</rs></bibl>
                     <bibl>Bergel, Giles / Franklin, Alexandra / Heaney, Michael / Arand-Jelovic, Relja / Zisserman, Andrew / Funke, Donata (2013): „Content-based Image Recognition on Printed Broadside Ballads. The Bodleian Libraries’ Imagematch Tool“, in: 
-                        <rs type="bibl" ref="#bibl__3638">Bergel, Giles / Franklin, Alexandra / Heaney, Michael / Arand-Jelovic, Relja / Zisserman, Andrew / Funke, Donata (2013): „Content-based Image Recognition on Printed Broadside Ballads. The Bodleian Libraries’ Imagematch Tool“, in: Proceedings of the IFLA World Library and Information Congress.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1159">Bergel, Giles / Franklin, Alexandra / Heaney, Michael / Arand-Jelovic, Relja / Zisserman, Andrew / Funke, Donata (2013): „Content-based Image Recognition on Printed Broadside Ballads. The Bodleian Libraries’ Imagematch Tool“, in: Proceedings of the IFLA World Library and Information Congress.</rs></bibl>
                     <bibl>Foo, Jun Jie / Zobel, Justin / Sinha, Ranjan (2007): „Clustering Near-duplicate Images in Large Collections“, in: 
-                        <rs type="bibl" ref="#bibl__3639">Foo, Jun Jie / Zobel, Justin / Sinha, Ranjan (2007): „Clustering Near-duplicate Images in Large Collections“, in: Proceedings of the ACM SIGMM International Workshop on Multimedia Information Retrieval 21–30.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1160">Foo, Jun Jie / Zobel, Justin / Sinha, Ranjan (2007): „Clustering Near-duplicate Images in Large Collections“, in: Proceedings of the ACM SIGMM International Workshop on Multimedia Information Retrieval 21–30.</rs></bibl>
                     <bibl>Hentschel, Christian / Wiradarma, Timur P. / Sack, Harald (2016): „An Approach to Large Scale Interactive Retrieval of Cultural Heritage“, in: 
-                        <rs type="bibl" ref="#bibl__3640">Hentschel, Christian / Wiradarma, Timur P. / Sack, Harald (2016): „An Approach to Large Scale Interactive Retrieval of Cultural Heritage“, in: Proceedings of the 23 th IEEE International Conference on Image Processing 3693–3697.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1161">Hentschel, Christian / Wiradarma, Timur P. / Sack, Harald (2016): „An Approach to Large Scale Interactive Retrieval of Cultural Heritage“, in: Proceedings of the 23 th IEEE International Conference on Image Processing 3693–3697.</rs></bibl>
                     <bibl>Ke, Yan / Sukthankar, Rahul (2004): „PCA-SIFT. A More Distinctive Representation for Local Image Descriptors“, in: 
-                        <rs type="bibl" ref="#bibl__3641">Ke, Yan / Sukthankar, Rahul (2004): „PCA-SIFT. A More Distinctive Representation for Local Image Descriptors“, in: Proceedings of the IEEE International Conference on Computer and Pattern Recognition 506–513.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1162">Ke, Yan / Sukthankar, Rahul (2004): „PCA-SIFT. A More Distinctive Representation for Local Image Descriptors“, in: Proceedings of the IEEE International Conference on Computer and Pattern Recognition 506–513.</rs></bibl>
                     <bibl>Ke, Yan / Sukthankar, Rahul / Huston, Larry (2004): „An Efficient Parts-based Near-duplicate and Sub-image Retrieval System“, in: 
-                        <rs type="bibl" ref="#bibl__3642">Ke, Yan / Sukthankar, Rahul / Huston, Larry (2004): „An Efficient Parts-based Near-duplicate and Sub-image Retrieval System“, in: Proceedings of the 12 th ACM International Conference on Multimedia 869–876.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1163">Ke, Yan / Sukthankar, Rahul / Huston, Larry (2004): „An Efficient Parts-based Near-duplicate and Sub-image Retrieval System“, in: Proceedings of the 12 th ACM International Conference on Multimedia 869–876.</rs></bibl>
                     <bibl>Lowe, David G. (1999): „Object Recognition from Local Scale-invariant Features“, in: 
-                        <rs type="bibl" ref="#bibl__3643">Lowe, David G. (1999): „Object Recognition from Local Scale-invariant Features“, in: Proceedings of the 7 th IEEE International Conference on Computer Vision 1150–1157.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1164">Lowe, David G. (1999): „Object Recognition from Local Scale-invariant Features“, in: Proceedings of the 7 th IEEE International Conference on Computer Vision 1150–1157.</rs></bibl>
                     <bibl>Lowe, David G. (2004): „Distinctive Image Features from Scale-invariant Keypoints“, in: 
-                        <rs type="bibl" ref="#bibl__3644">Lowe, David G. (2004): „Distinctive Image Features from Scale-invariant Keypoints“, in: International Journal of Computer Vision 60 (2): 91–110.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1165">Lowe, David G. (2004): „Distinctive Image Features from Scale-invariant Keypoints“, in: International Journal of Computer Vision 60 (2): 91–110.</rs></bibl>
                     <bibl>Malkov, Yury A. / Yashunin, Dmitry A. (2016): 
-                        <rs type="bibl" ref="#bibl__3645">Malkov, Yury A. / Yashunin, Dmitry A. (2016): Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1166">Malkov, Yury A. / Yashunin, Dmitry A. (2016): Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs.</rs></bibl>
                     <bibl>Monroy, Antonio / Bell, Peter / Ommer, Björn (2014): „Morphological Analysis for Investigating Artistic Images“, in: 
-                        <rs type="bibl" ref="#bibl__3646">Monroy, Antonio / Bell, Peter / Ommer, Björn (2014): „Morphological Analysis for Investigating Artistic Images“, in: Image and Vision Computing 32 (6): 414–423.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1167">Monroy, Antonio / Bell, Peter / Ommer, Björn (2014): „Morphological Analysis for Investigating Artistic Images“, in: Image and Vision Computing 32 (6): 414–423.</rs></bibl>
                     <bibl>Qamra, Arun / Meng, Yan / Chang, Edward Y. (2005): „Enhanced Perceptual Distance Functions and Indexing for Image Replica Recognition“, in: 
-                        <rs type="bibl" ref="#bibl__3647">Qamra, Arun / Meng, Yan / Chang, Edward Y. (2005): „Enhanced Perceptual Distance Functions and Indexing for Image Replica Recognition“, in: IEEE Transactions on Pattern Analysis and Machine Intelligence 27 (3): 379–391.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1168">Qamra, Arun / Meng, Yan / Chang, Edward Y. (2005): „Enhanced Perceptual Distance Functions and Indexing for Image Replica Recognition“, in: IEEE Transactions on Pattern Analysis and Machine Intelligence 27 (3): 379–391.</rs></bibl>
                     <bibl>Zuiderveld, Karel (1994): „Contrast Limited Adaptive Histogram Equalization“, in: 
-                        <rs type="bibl" ref="#bibl__3648">Zuiderveld, Karel (1994): „Contrast Limited Adaptive Histogram Equalization“, in: Academic Press 474–485.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1169">Zuiderveld, Karel (1994): „Contrast Limited Adaptive Histogram Equalization“, in: Academic Press 474–485.</rs></bibl>
                 </listBibl>
             </div>
         </back>

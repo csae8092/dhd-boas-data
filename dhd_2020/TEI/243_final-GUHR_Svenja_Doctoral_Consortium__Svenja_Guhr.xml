@@ -130,79 +130,29 @@ Bestandteil meiner Forschung einnehmen. </p>
     <listBibl>
       <head>Bibliographie</head>
       <bibl style="text-align:left;">
-	<hi rend="bold">Baker, Paul</hi>
-	(2010): 
-	<hi rend="italic">Sociolinguistics and corpus linguistics</hi>
-	<hi rend="color(222222)">. Edinburgh: Edinburgh University Press.</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5103">Baker, Paul (2010): Sociolinguistics and corpus linguistics . Edinburgh: Edinburgh University Press.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Brunner, Annelen / Engelberg, Stefan / Tu, Ngoc Duyen Tanja / Jannidis, Fotis / Weimer, Lukas</hi>
-	(2019): Redewiedergabe-Projekt. Mannheim / Würzburg: Leibniz-Institut für Deutsche Sprache, Universität Würzburg https://github.com/redewiedergabe/corpus
-	<hi style="font-size:10pt">[letzter Zugriff 05. Januar 2020].</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5104">Brunner, Annelen / Engelberg, Stefan / Tu, Ngoc Duyen Tanja / Jannidis, Fotis / Weimer, Lukas (2019): Redewiedergabe-Projekt. Mannheim / Würzburg: Leibniz-Institut für Deutsche Sprache, Universität Würzburg https://github.com/redewiedergabe/corpus [letzter Zugriff 05. Januar 2020].</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Caldas-Coulthard, Carmen Rosa</hi>
-	(1992): „Reporting Speech in Narrative Discourse: Stylistic and ideological implications“, in: 
-	<hi rend="italic">Revista Ilha do Desterro</hi>
-	<hi rend="color(222222)">27: 67–82 https://doaj.org/article/346291b81422492392f7c48c0635f7a2</hi>
-	<hi style="font-size:10pt">[letzter Zugriff 05. Januar 2020].</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5105">Caldas-Coulthard, Carmen Rosa (1992): „Reporting Speech in Narrative Discourse: Stylistic and ideological implications“, in: Revista Ilha do Desterro 27: 67–82 https://doaj.org/article/346291b81422492392f7c48c0635f7a2 [letzter Zugriff 05. Januar 2020].</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Catling, Jo</hi>
-	(ed.) (2000): 
-	<hi rend="italic">A History of Women’s Writing in Germany, Austria and Switzerland.</hi> Cambridge: Cambridge University Press.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5106">Catling, Jo (ed.) (2000): A History of Women’s Writing in Germany, Austria and Switzerland. Cambridge: Cambridge University Press.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Genette, Gérard</hi>
-	(1969): 
-	<hi rend="italic">Figures. Essais.</hi>
-	Paris: Editions du Seuil.
-      </bibl>
+	<rs type="bibl" ref="#bibl__0">Genette, Gérard (1969): Figures. Essais. Paris: Editions du Seuil.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Gür-Şeker, Derya</hi>
-	(2014): „Zur Verwendung von Korpora in der Diskurslinguistik“, in: 
-	<hi rend="italic">Diskursforschung. Ein interdisziplinäres Handbuch.</hi>
-	<hi rend="italic">DiskursNetz</hi>
-	<hi rend="color(222222)">1: 583–603. Bielefeld: Transcript Verlag.</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5107">Gür-Şeker, Derya (2014): „Zur Verwendung von Korpora in der Diskurslinguistik“, in: Diskursforschung. Ein interdisziplinäres Handbuch. DiskursNetz 1: 583–603. Bielefeld: Transcript Verlag.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Howe, Patricia</hi>
-	(2000): „Women’s writing 1830-1890“, in: Catling, Jo (ed.): 
-	<hi rend="italic">A History of Women’s Writing in Germany, Austria and Switzerland.</hi>
-	Cambridge: Cambridge University Press, 87–103. 
-      </bibl>
+	<rs type="bibl" ref="#bibl__5108">Howe, Patricia (2000): „Women’s writing 1830-1890“, in: Catling, Jo (ed.): A History of Women’s Writing in Germany, Austria and Switzerland. Cambridge: Cambridge University Press, 87–103.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Hunt, Sally</hi>
-	(2017): „Boast and bellow, giggle or chatter: gender and verbs of speech in children’s fiction“, in: 
-	<hi rend="italic">9th International Corpus Linguistics Conference,</hi>
-	<hi rend="color(222222)"> Birmingham: University of Birmingham https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper306.pdf</hi>
-	<hi style="font-size:10pt">[letzter Zugriff 05. Januar 2020].</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5109">Hunt, Sally (2017): „Boast and bellow, giggle or chatter: gender and verbs of speech in children’s fiction“, in: 9th International Corpus Linguistics Conference, Birmingham: University of Birmingham https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper306.pdf [letzter Zugriff 05. Januar 2020].</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold" xml:space="preserve">Kuzmičová, Anežka</hi>
-	(2013): „Outer vs. Inner Reverberations: Verbal Auditory
-	Imagery and Meaning-Making in Literary Narrative“, 
-	<hi rend="italic">Journal of Literary Theory</hi>
-	<hi rend="color(222222)">7: 111–134 https://philpapers.org/archive/KUZOVI.pdf</hi>
-	<hi style="font-size:10pt">[letzter Zugriff 05. Januar 2020].</hi>
-      </bibl>
+	<rs type="bibl" ref="#bibl__5110">Kuzmičová, Anežka (2013): „Outer vs. Inner Reverberations: Verbal Auditory Imagery and Meaning-Making in Literary Narrative“, Journal of Literary Theory 7: 111–134 https://philpapers.org/archive/KUZOVI.pdf [letzter Zugriff 05. Januar 2020].</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold" xml:space="preserve">Mildorf, Jarmila  / Kinzel, Till</hi>
-	(2016): „Audionarratology: Prolegomena to a Research Paradigm Exploring Sound and Narrative“, in: 
-	<hi rend="italic">Audionarratology. Interfaces of Sound and Narrative.</hi>
-	Berlin / Boston: De Gruyter.
-      </bibl>
+	<rs type="bibl" ref="#bibl__1">Mildorf, Jarmila / Kinzel, Till (2016): „Audionarratology: Prolegomena to a Research Paradigm Exploring Sound and Narrative“, in: Audionarratology. Interfaces of Sound and Narrative. Berlin / Boston: De Gruyter.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Richards, Anna</hi>
-	(2004): 
-	<hi rend="italic">The Wasting Heroine in German Fiction by Women 1770-1914,</hi>
-	Oxford: Oxford University Press. 
-      </bibl>
+	<rs type="bibl" ref="#bibl__5111">Richards, Anna (2004): The Wasting Heroine in German Fiction by Women 1770-1914, Oxford: Oxford University Press.</rs></bibl>
       <bibl style="text-align:left;">
-	<hi rend="bold">Schmid, Wolf</hi> (2014): 
-	<hi rend="italic">Elemente der Narratologie.</hi>
-	Berlin: De Gruyter.
-      </bibl>
+	<rs type="bibl" ref="#bibl__5112">Schmid, Wolf (2014): Elemente der Narratologie. Berlin: De Gruyter.</rs></bibl>
     </listBibl>
   </div>
 </back>

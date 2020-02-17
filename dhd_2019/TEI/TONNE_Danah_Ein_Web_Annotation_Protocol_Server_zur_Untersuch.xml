@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Web Annotation Protocol Server zur Untersuchung vormoderner Wissensbestände</title><title type="conf_year">2019</title><author ref="#person__danah-tonne-kit-edu">
+                <title>Ein Web Annotation Protocol Server zur Untersuchung vormoderner Wissensbestände</title><title type="conf_year">2019</title>
+                <author ref="#person__danah-tonne-kit-edu">
                     <persName>
                         <surname>Tonne</surname>
                         <forename>Danah</forename>
@@ -221,33 +222,33 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3768">Borek, Luise / Perkins, Jody / Schöch, Christof / Dombrowski, Quinn (2016): „TaDiRAH: A Case Study in pragmatic classification“ in: DHQ: Digital Humanities Quarterly 10/1.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__797">Borek, Luise / Perkins, Jody / Schöch, Christof / Dombrowski, Quinn (2016): „TaDiRAH: A Case Study in pragmatic classification“ in: DHQ: Digital Humanities Quarterly 10/1.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3769">Ciccarese, Paolo / Young, Benjamin / Sanderson, Robert (2017): „Web Annotation Vocabulary. W3C Recommendation“ https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/ [letzter Zugriff 19.12.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__798">Ciccarese, Paolo / Young, Benjamin / Sanderson, Robert (2017): „Web Annotation Vocabulary. W3C Recommendation“ https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/ [letzter Zugriff 19.12.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3770">Glück, Helmut (2002): Deutsch als Fremdsprache in Europa vom Mittelalter bis zur Barockzeit. Berlin/New York: De Gruyter.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__799">Glück, Helmut (2002): Deutsch als Fremdsprache in Europa vom Mittelalter bis zur Barockzeit. Berlin/New York: De Gruyter.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3771">Linked Data Platform (LDP) 1.0: https://www.w3.org/TR/ldp/ [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__800">Linked Data Platform (LDP) 1.0: https://www.w3.org/TR/ldp/ [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3772">Montanari, Elio (1984): La sezione linguistica del Peri Hermeneias di Aristotele. Florenz.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__801">Montanari, Elio (1984): La sezione linguistica del Peri Hermeneias di Aristotele. Florenz.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3773">PAGE XML-Schema: https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__802">PAGE XML-Schema: https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3774">Reinsch, Diether Roderich (2001): „Fragmente einer Organon-Handschrift des zehnten Jahrhunderts aus dem Katharinenkloster auf dem Berg Sinai“ in: Philologus 151: 151-177.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__803">Reinsch, Diether Roderich (2001): „Fragmente einer Organon-Handschrift des zehnten Jahrhunderts aus dem Katharinenkloster auf dem Berg Sinai“ in: Philologus 151: 151-177.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3775">Sanderson, Robert (2017): „Web Annotation Protocol. W3C Recommendation“ https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/ [letzter Zugriff 08.11.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__804">Sanderson, Robert (2017): „Web Annotation Protocol. W3C Recommendation“ https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/ [letzter Zugriff 08.11.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3776">Sonderforschungsbereich 980 „Episteme in Bewegung“: http://www.sfb-episteme.de/ [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__805">Sonderforschungsbereich 980 „Episteme in Bewegung“: http://www.sfb-episteme.de/ [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3777">SPARQL: https://www.w3.org/TR/sparql11-query/ [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__806">SPARQL: https://www.w3.org/TR/sparql11-query/ [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3778">SVG: https://www.w3.org/TR/SVG11/ [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__807">SVG: https://www.w3.org/TR/SVG11/ [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3779">TDB2: https://jena.apache.org/documentation/tdb2/ [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__808">TDB2: https://jena.apache.org/documentation/tdb2/ [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3780">XML Forms Data Format Specification: https://web.archive.org/web/20160408204348/https://partners.adobe.com/public/developer/en/xml/XFDF_Spec_3.0.pdf [letzter Zugriff 05.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__809">XML Forms Data Format Specification: https://web.archive.org/web/20160408204348/https://partners.adobe.com/public/developer/en/xml/XFDF_Spec_3.0.pdf [letzter Zugriff 05.10.2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3781">Young, Benjamin / Ciccarese, Paolo / Sanderson, Robert (2017): „Web Annotation Data Model. W3C Recommendation“ https://www.w3.org/TR/2017/REC-annotation-model-20170223/ [letzter Zugriff 08.11.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__810">Young, Benjamin / Ciccarese, Paolo / Sanderson, Robert (2017): „Web Annotation Data Model. W3C Recommendation“ https://www.w3.org/TR/2017/REC-annotation-model-20170223/ [letzter Zugriff 08.11.2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

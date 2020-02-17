@@ -111,13 +111,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__42">Blei, David M. (2012): „Probabilistic Topic Models“, in Communication of the ACM 55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__104">Blei, David M. (2012): „Probabilistic Topic Models“, in Communication of the ACM 55, Nr. 4 (2012): 77–84. doi:10.1145/2133806.2133826.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__9">McCallum, Andrew K. (2002): MALLET : A Machine Learning for Language Toolkit. http://mallet.cs.umass.edu .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__93">McCallum, Andrew K. (2002): MALLET : A Machine Learning for Language Toolkit. http://mallet.cs.umass.edu .</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__169">Rehurek, Radim/ Sojka, Petr (2010): "Software framework for topic modelling with large corpora." In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__210">Rehurek, Radim/ Sojka, Petr (2010): "Software framework for topic modelling with large corpora." In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__170">Steyvers, Mark/ Griffiths, Tom (2006): „Probabilistic Topic Models“, in Latent Semantic Analysis: A Road to Meaning, herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__106">Steyvers, Mark/ Griffiths, Tom (2006): „Probabilistic Topic Models“, in Latent Semantic Analysis: A Road to Meaning, herausgegeben von T. Landauer, D. McNamara, S. Dennis, und W. Kintsch. Laurence Erlbaum.</rs></bibl>
                 </listBibl>
             </div>
       </back>

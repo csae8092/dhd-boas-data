@@ -229,70 +229,27 @@ Das Korpus ist eine private Textsammlung, die leider nicht veröffentlicht werde
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Aletras, N. / Stevenson, M.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2013). Evaluating topic coherence using distributional semantics. In </hi>
-<hi rend="italic" style="font-size:12pt">Proceedings of the 10th International Conference on Computational Semantics (IWCS 2013) – Long Papers</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (pp. 13-22).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4460">Aletras, N. / Stevenson, M. (2013). Evaluating topic coherence using distributional semantics. In Proceedings of the 10th International Conference on Computational Semantics (IWCS 2013) – Long Papers (pp. 13-22).</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Arun, R. / Suresh, V.,  / Veni Madhavan, C. E. /  Narasimha Murthy, M. N.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2010). On Finding the Natural Number of Topics with Latent Dirichlet Allocation: Some Observations. In M. J. Zaki, J. X. Yu, B. Ravindran, &amp; V. Pudi (Hrsg.), Advances in Knowledge Discovery and Data Mining (Bd. 6118, S. 391–402). </hi>
-<ref target="https://doi.org/10.1007/978-3-642-13657-3_43">
-<hi style="font-size:12pt">https://doi.org/10.1007/978-3-642-13657-3_43</hi>
-</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4461">Arun, R. / Suresh, V., / Veni Madhavan, C. E. / Narasimha Murthy, M. N. (2010). On Finding the Natural Number of Topics with Latent Dirichlet Allocation: Some Observations. In M. J. Zaki, J. X. Yu, B. Ravindran, &amp; V. Pudi (Hrsg.), Advances in Knowledge Discovery and Data Mining (Bd. 6118, S. 391–402). https://doi.org/10.1007/978-3-642-13657-3_43</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Cao, J. / Xia, T. / Li, J. / Zhang, Y. / Tang, S.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2009). A density-based method for adaptive LDA model selection. Neurocomputing, 72(7–9), 1775–1781. </hi>
-<ref target="https://doi.org/10.1016/j.neucom.2008.06.011">
-<hi style="font-size:12pt">https://doi.org/10.1016/j.neucom.2008.06.011</hi>
-</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4462">Cao, J. / Xia, T. / Li, J. / Zhang, Y. / Tang, S. (2009). A density-based method for adaptive LDA model selection. Neurocomputing, 72(7–9), 1775–1781. https://doi.org/10.1016/j.neucom.2008.06.011</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Deveaud, R. / SanJuan, E. / Bellot, P.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2014). Accurate and effective latent concept modeling for ad hoc information retrieval. Document Numérique, 17(1), 61–84. </hi>
-<ref target="https://doi.org/10.3166/dn.17.1.61-84">
-<hi style="font-size:12pt">https://doi.org/10.3166/dn.17.1.61-84</hi>
-</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4463">Deveaud, R. / SanJuan, E. / Bellot, P. (2014). Accurate and effective latent concept modeling for ad hoc information retrieval. Document Numérique, 17(1), 61–84. https://doi.org/10.3166/dn.17.1.61-84</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Griffiths, T. L. / Steyvers, M.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2004). Finding scientific topics. Proceedings of the National Academy of Sciences, 101(Supplement 1), 5228–5235. </hi>
-<ref target="https://doi.org/10.1073/pnas.0307752101">
-<hi style="font-size:12pt">https://doi.org/10.1073/pnas.0307752101</hi>
-</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4464">Griffiths, T. L. / Steyvers, M. (2004). Finding scientific topics. Proceedings of the National Academy of Sciences, 101(Supplement 1), 5228–5235. https://doi.org/10.1073/pnas.0307752101</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Jockers, M. L.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2013). Macroanalysis: Digital methods and literary history. University of Illinois Press.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__105">Jockers, M. L. (2013). Macroanalysis: Digital methods and literary history. University of Illinois Press.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Jurafsky, D. / Martin, J. H.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2009): </hi>
-<hi rend="italic" style="font-size:12pt">Speech and language processing. An introduction to natural language processing, computational linguistics, and speech recognition. 2nd ed</hi>
-<hi style="font-size:12pt">. Upper Saddle River, N.J., London: Pearson Prentice Hall (Prentice Hall series in artificial intelligence).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4465">Jurafsky, D. / Martin, J. H. (2009): Speech and language processing. An introduction to natural language processing, computational linguistics, and speech recognition. 2nd ed . Upper Saddle River, N.J., London: Pearson Prentice Hall (Prentice Hall series in artificial intelligence).</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">McCallum, A. K.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2002). MALLET: A Machine Learning for Language Toolkit. http://mallet.cs.umass.edu (13.12.2019).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__93">McCallum, A. K. (2002). MALLET: A Machine Learning for Language Toolkit. http://mallet.cs.umass.edu (13.12.2019).</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:12pt">Murphy, K. P.</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (2012). </hi>
-<hi rend="italic" style="font-size:12pt">Machine learning: a probabilistic perspective</hi>
-<hi style="font-size:12pt">. MIT press.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4466">Murphy, K. P. (2012). Machine learning: a probabilistic perspective . MIT press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" style="font-size:12pt" xml:space="preserve">Wallach, H. M. / Murray, I. / Salakhutdinov, R. / Mimno, D. </hi>
-<hi style="font-size:12pt" xml:space="preserve">(2009, Juni): Evaluation methods for topic models. In: </hi>
-<hi rend="italic" style="font-size:12pt">Proceedings of the 26th Annual International Conference on Machine Learning</hi>
-<hi style="font-size:12pt" xml:space="preserve"> (pp. 1105-1112),  ACM.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4467">Wallach, H. M. / Murray, I. / Salakhutdinov, R. / Mimno, D. (2009, Juni): Evaluation methods for topic models. In: Proceedings of the 26th Annual International Conference on Machine Learning (pp. 1105-1112), ACM.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold">TREC-AP-Korpus:</hi>
-  <ref target="http://www.daviddlewis.com/resources/testcollections/trecap/">http://www.daviddlewis.com/resources/testcollections/trecap/</ref>
-  <hi style="font-size:12pt">(14.12.2019)</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__4468">TREC-AP-Korpus: http://www.daviddlewis.com/resources/testcollections/trecap/ (14.12.2019)</rs></bibl>
 </listBibl>
 </div>
 </back>

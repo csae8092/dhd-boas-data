@@ -224,10 +224,10 @@
               <div type="bibliogr">
                 <listBibl>
                   <head>Bibliographie</head>
-                  <bibl><rs type="bibl" ref="#bibl__231">DARIAH-DE. Digital Research Infrasructure for the Arts and Humanities. Göttingen https://de.dariah.eu/.</rs></bibl>
+                  <bibl><rs type="bibl" ref="#bibl__240">DARIAH-DE. Digital Research Infrasructure for the Arts and Humanities. Göttingen https://de.dariah.eu/.</rs></bibl>
                   <bibl>
-                    <rs type="bibl" ref="#bibl__2028">Neuroth, Heike / Rapp, Andrea / Söring, Sibylle (eds.) (2015): TextGrid: Von der Community — für die Community. Eine Virtuelle Forschungsumgebung für die Geisteswissenschaften. Glückstadt: Hülsbusch.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__232">TextGrid Konsortium (2006–2014) TextGrid Virtuelle Forschungsumgebung für die Geisteswissenschaften. Göttingen: TextGrid Konsortium textgrid.de.</rs></bibl>
+                    <rs type="bibl" ref="#bibl__140">Neuroth, Heike / Rapp, Andrea / Söring, Sibylle (eds.) (2015): TextGrid: Von der Community — für die Community. Eine Virtuelle Forschungsumgebung für die Geisteswissenschaften. Glückstadt: Hülsbusch.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__252">TextGrid Konsortium (2006–2014) TextGrid Virtuelle Forschungsumgebung für die Geisteswissenschaften. Göttingen: TextGrid Konsortium textgrid.de.</rs></bibl>
                   </listBibl>
                 </div>
               </back>

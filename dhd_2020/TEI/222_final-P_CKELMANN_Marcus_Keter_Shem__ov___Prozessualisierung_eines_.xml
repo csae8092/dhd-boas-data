@@ -148,55 +148,21 @@ transkribierten Textfassungen – in UTF-8 codierte Textdateien – konnten bere
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Abrams, Daniel</hi> (2013): 
-<hi rend="italic">"Kabbalistic Manuscripts and Textual Theory:
-Methodologies of Textual Scholarship and Editorial Practice in the
-Study of Jewish Mysticism"</hi>, Jerusalem / Los Angeles: Cherub Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4477">Abrams, Daniel (2013): "Kabbalistic Manuscripts and Textual Theory: Methodologies of Textual Scholarship and Editorial Practice in the Study of Jewish Mysticism", Jerusalem / Los Angeles: Cherub Press.</rs></bibl>
 <bibl>
-<hi rend="bold">Bremer, </hi>
-<hi rend="bold">Thomas /</hi>
-<hi rend="bold"> Molitor, </hi>
-<hi rend="bold">Paul / </hi>
-<hi rend="bold">Pöckelmann, </hi>
-<hi rend="bold">Marcus / </hi>
-<hi rend="bold">Ritter, </hi>
-<hi rend="bold">Jörg</hi>
-<hi rend="bold"> / Schütz, </hi>
-<hi rend="bold">Susanne</hi> (2015):
-"Zum Einsatz digitaler Methoden bei der Erstellung und Nutzung genetischer Editionen gedruckter Texte mit verschiedenen Fassungen – Das Fallbeispiel der Histoire philosphique des deux Indes von Guillaume Thomas Raynal" in: 
-<hi rend="italic">Editio, Internationales Jahrbuch für Editionswissenschaften</hi>, Hrsg. R. v. Nutt-Kofoth, B. Plachta und W. Woesler, Band 29, Heft 1, S. 29–51, de Gruyter.
-</bibl>
+<rs type="bibl" ref="#bibl__319">Bremer, Thomas / Molitor, Paul / Pöckelmann, Marcus / Ritter, Jörg / Schütz, Susanne (2015): "Zum Einsatz digitaler Methoden bei der Erstellung und Nutzung genetischer Editionen gedruckter Texte mit verschiedenen Fassungen – Das Fallbeispiel der Histoire philosphique des deux Indes von Guillaume Thomas Raynal" in: Editio, Internationales Jahrbuch für Editionswissenschaften, Hrsg. R. v. Nutt-Kofoth, B. Plachta und W. Woesler, Band 29, Heft 1, S. 29–51, de Gruyter.</rs></bibl>
 <bibl>
-<hi rend="bold">Gründler, Beatrice / Pöckelmann, Marcus</hi> (2018): 
-"Adjusting LERA For The Comparison Of Arabic Manuscripts Of Kalīla
-wa-Dimna", in: <hi rend="italic">Book of Abstracts of the
-29. International Annual Conference of Digital Humanities, DH2018,</hi>
-Mexico City, pp. 467–468.
-</bibl>
+<rs type="bibl" ref="#bibl__4478">Gründler, Beatrice / Pöckelmann, Marcus (2018): "Adjusting LERA For The Comparison Of Arabic Manuscripts Of Kalīla wa-Dimna", in: Book of Abstracts of the 29. International Annual Conference of Digital Humanities, DH2018, Mexico City, pp. 467–468.</rs></bibl>
 <bibl>
-<hi rend="bold">Idel, Moshe</hi> (2007): 
-"Ashkenazi Esotericism and Kabbalah in Barcelona", in:
-<hi rend="italic">Hispania Judaica Bulletin</hi> 5, S. 69–113.
-</bibl>
+<rs type="bibl" ref="#bibl__4479">Idel, Moshe (2007): "Ashkenazi Esotericism and Kabbalah in Barcelona", in: Hispania Judaica Bulletin 5, S. 69–113.</rs></bibl>
 <bibl>
-  <hi rend="bold">Jellinek, Adolph</hi> (1988):
-  "Kleine Schriften zur Geschichte der Kabbala",  Hildesheim: Olms, S. 29–48.
-</bibl>
+  <rs type="bibl" ref="#bibl__4480">Jellinek, Adolph (1988): "Kleine Schriften zur Geschichte der Kabbala", Hildesheim: Olms, S. 29–48.</rs></bibl>
 <bibl>
-<hi rend="bold">Oron, Michal</hi> (2013/14): 
-"Ha-Sifrut ha-parshanit le-<space quantity="0" unit="chars"/><hi rend="math">ʿ</hi>eser Sefirot", in: Yoram Ben-Na‘eh et. al. (Hg.), <space quantity="0" unit="chars"/><hi rend="math">ʾ</hi>Asupa le-Yosef, FS Joseph Hacker, Jerusalem: Shazar, S. 212–229 (Hebr.).
-</bibl>
+<rs type="bibl" ref="#bibl__4481">Oron, Michal (2013/14): "Ha-Sifrut ha-parshanit le-ʿeser Sefirot", in: Yoram Ben-Na‘eh et. al. (Hg.), ʾAsupa le-Yosef, FS Joseph Hacker, Jerusalem: Shazar, S. 212–229 (Hebr.).</rs></bibl>
 <bibl>
-<hi rend="bold">Roeder</hi>
-<hi rend="bold">, Torsten</hi> (2019): 
-"Genesis and Variance: From Letter to Literature", in:
-<hi rend="italic">Book of Abstracts of the 19th Annual Conference and Members’ Meeting of the Text Encoding Initiative Consortium(TEI)</hi>, Graz, pp. 92–93.
-</bibl>
+<rs type="bibl" ref="#bibl__4482">Roeder , Torsten (2019): "Genesis and Variance: From Letter to Literature", in: Book of Abstracts of the 19th Annual Conference and Members’ Meeting of the Text Encoding Initiative Consortium(TEI), Graz, pp. 92–93.</rs></bibl>
 <bibl>
-<hi rend="bold">Scholem, Gershom</hi> (1933): 
-"Index to the Commentaries on the Ten Sefirot", Qiryat Sefer 10, S. 498–515 (Hebr.).
-</bibl>
+<rs type="bibl" ref="#bibl__4483">Scholem, Gershom (1933): "Index to the Commentaries on the Ten Sefirot", Qiryat Sefer 10, S. 498–515 (Hebr.).</rs></bibl>
 </listBibl>
 </div>
 </back>

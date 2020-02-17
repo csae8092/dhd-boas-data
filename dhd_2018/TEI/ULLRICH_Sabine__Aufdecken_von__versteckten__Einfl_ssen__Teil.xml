@@ -135,25 +135,25 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1713">Abdalgader, Khaled / Skabar, Andrew(2010): “Short-text similarity measurement using word sense disambiguation and synonym expansion.”, in: Australasian Joint Conference on Articial Intelligence, Springer 435-444.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3619">Abdalgader, Khaled / Skabar, Andrew(2010): “Short-text similarity measurement using word sense disambiguation and synonym expansion.”, in: Australasian Joint Conference on Articial Intelligence, Springer 435-444.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1714">Biesenbach, Hans (2014): Anspielungen und Zitate im Werk Ludwig Wittgensteins, Sofia University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3620">Biesenbach, Hans (2014): Anspielungen und Zitate im Werk Ludwig Wittgensteins, Sofia University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1715">Ekbal, Asif / Saha, Sriparna / Choudhary, Gaurav (2012): “Plagiarism detection in text using vector space model.”, in: Hybrid Intelligent Systems (HIS), 2012 12th International Conference on, pages 366-371. IEEE.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3621">Ekbal, Asif / Saha, Sriparna / Choudhary, Gaurav (2012): “Plagiarism detection in text using vector space model.”, in: Hybrid Intelligent Systems (HIS), 2012 12th International Conference on, pages 366-371. IEEE.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__211">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind, L. (2014): Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST). DATeH. Madrid.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__176">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind, L. (2014): Wittgenstein‘s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST). DATeH. Madrid.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1716">C.K. Kent / N. Salim (2010): „Features based text similarity detection.“, in: Journal of Computing, 2 (1).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3622">C.K. Kent / N. Salim (2010): „Features based text similarity detection.“, in: Journal of Computing, 2 (1).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1717">Pichler, Alois / Krüger, Heinz W. / Smith, D. / Bruvik, Tone / Lindebjerg, Anne / Olstad, Vemund (Hrsg.) (2009): Wittgenstein Source Bergen Facsimile (BTE). Wittgenstein Source Bergen.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3623">Pichler, Alois / Krüger, Heinz W. / Smith, D. / Bruvik, Tone / Lindebjerg, Anne / Olstad, Vemund (Hrsg.) (2009): Wittgenstein Source Bergen Facsimile (BTE). Wittgenstein Source Bergen.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1718">Sadowski, Caitlin / Levin, Greg (2007): Simhash: Hash-based similarity detection.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3624">Sadowski, Caitlin / Levin, Greg (2007): Simhash: Hash-based similarity detection.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1719">Tomita, Junji / Nakawatase, Hidekazu / Ishii, Megumi (2004): „Calculating similarity between texts using graph-based text representation model”, in: Proceedings of the thirteenth ACM international conference on Information and knowledge management, pages 248-249. ACM.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3625">Tomita, Junji / Nakawatase, Hidekazu / Ishii, Megumi (2004): „Calculating similarity between texts using graph-based text representation model”, in: Proceedings of the thirteenth ACM international conference on Information and knowledge management, pages 248-249. ACM.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1720">Ullrich, Sabine (2017): Evaluation of Existing Plagiarism Research for the Optimisation of NLP-based Similarity Detection using Ludwig Wittgenstein's Remarks, Bachelor thesis, Ludwig-Maximilians-Universität München.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3626">Ullrich, Sabine (2017): Evaluation of Existing Plagiarism Research for the Optimisation of NLP-based Similarity Detection using Ludwig Wittgenstein's Remarks, Bachelor thesis, Ludwig-Maximilians-Universität München.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1721">Wittgenstein, Ludwig / Nedo, Michael (Hrsg.) (1996): Wiener Ausgabe. Band 1-5.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__3627">Wittgenstein, Ludwig / Nedo, Michael (Hrsg.) (1996): Wiener Ausgabe. Band 1-5.</rs></bibl>
                 </listBibl>
             </div>
       </back>

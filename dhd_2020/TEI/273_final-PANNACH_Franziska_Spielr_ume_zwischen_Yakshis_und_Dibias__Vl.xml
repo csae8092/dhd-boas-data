@@ -153,47 +153,25 @@ zu beschreiben. Seit seiner ersten Veröffentlichung im Jahr 1928 wurde der Ansa
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Azuonye, Chukwuma</hi> (1990): „Morphology of the Igbo folktale: Ethnographic, historiographic and aesthetic implications“, in: 
-  <hi rend="italic">Folklore</hi>, 101(1): 36-46.
-</bibl>
+  <rs type="bibl" ref="#bibl__5446">Azuonye, Chukwuma (1990): „Morphology of the Igbo folktale: Ethnographic, historiographic and aesthetic implications“, in: Folklore, 101(1): 36-46.</rs></bibl>
 <bibl>
-  <hi rend="bold">Declerck, Thierry / Kostová, Antónia / Lisa Schäfer </hi>(2017): „Towards a linked data access to folktales classified by Thompson’s motifs and Aarne-Thompson-Uther’s types“, in: 
-  <hi rend="italic">Proceedings of Digital Humanities 2017</hi>. ADHO, 8 2017.
-</bibl>
+  <rs type="bibl" ref="#bibl__5447">Declerck, Thierry / Kostová, Antónia / Lisa Schäfer (2017): „Towards a linked data access to folktales classified by Thompson’s motifs and Aarne-Thompson-Uther’s types“, in: Proceedings of Digital Humanities 2017. ADHO, 8 2017.</rs></bibl>
 <bibl>
-  <hi rend="bold">Harun, Harryizman / Jamaludin, Zulikha </hi>(2016): „Structural Classification as Preservation Means of Malaysian Folktales“, in: 
-  <hi rend="italic">Proceedings of the International Soft Science Conference (ISSC’16)</hi>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5448">Harun, Harryizman / Jamaludin, Zulikha (2016): „Structural Classification as Preservation Means of Malaysian Folktales“, in: Proceedings of the International Soft Science Conference (ISSC’16).</rs></bibl>
 <bibl>
-  <hi rend="bold">Koleva, Nikolina</hi> (2011): 
-  <hi rend="italic">Ontology-based iterative detection of characters and their recognition in folktales</hi>, Bachelorarbeit, Universität des Saarlands.
-</bibl>
+  <rs type="bibl" ref="#bibl__5449">Koleva, Nikolina (2011): Ontology-based iterative detection of characters and their recognition in folktales, Bachelorarbeit, Universität des Saarlands.</rs></bibl>
 <bibl>
-  <hi rend="bold">Noy, Natalya / McGuinness, Deborah L.</hi> (2001): „Ontology development 101: A guide to creating your first ontology.“ 
-  <hi rend="italic">KSL-01-05</hi>, Knowledge Systems Laboratory, Stanford University.
-</bibl>
+  <rs type="bibl" ref="#bibl__5450">Noy, Natalya / McGuinness, Deborah L. (2001): „Ontology development 101: A guide to creating your first ontology.“ KSL-01-05, Knowledge Systems Laboratory, Stanford University.</rs></bibl>
 <bibl>
-  <hi rend="bold">Okodo, Ikechukwu</hi> (2012): „Obaraedo: Conformity to Proppian morphology.“ 
-  <hi rend="italic">AFRREV IJAH: An International Journal of Arts and Humanities</hi>, 1(2): 100-111.
-</bibl>
+  <rs type="bibl" ref="#bibl__5451">Okodo, Ikechukwu (2012): „Obaraedo: Conformity to Proppian morphology.“ AFRREV IJAH: An International Journal of Arts and Humanities, 1(2): 100-111.</rs></bibl>
 <bibl>
-  <hi rend="bold">Peinado, Federico / Gervás, Pablo / Díaz-Agudo, Belén </hi>(2004): „A description logic ontology for fairy tale generation“, in: 
-  <hi rend="italic">Proceedings of the Workshop on Language Resources for Linguistic Creativity</hi>, LREC, 4: 56-61.
-</bibl>
+  <rs type="bibl" ref="#bibl__5452">Peinado, Federico / Gervás, Pablo / Díaz-Agudo, Belén (2004): „A description logic ontology for fairy tale generation“, in: Proceedings of the Workshop on Language Resources for Linguistic Creativity, LREC, 4: 56-61.</rs></bibl>
 <bibl>
-  <hi rend="bold">Propp, Vladimir</hi> (1968): 
-  <hi rend="italic">Morphology of the Folktale</hi>, volume 10. Austin: University of Texas Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__5453">Propp, Vladimir (1968): Morphology of the Folktale, volume 10. Austin: University of Texas Press.</rs></bibl>
 <bibl>
-  <hi rend="bold">Reuster-Jahn, Uta</hi> (2002): „Gute und schlechte Ausgänge in europäischen Märchen und in den Volkserzählungen der Mwera in Tansania“, in: 
-  <hi rend="italic">Märchenspiegel</hi>, 13(2): 17-18.
-</bibl>
+  <rs type="bibl" ref="#bibl__5454">Reuster-Jahn, Uta (2002): „Gute und schlechte Ausgänge in europäischen Märchen und in den Volkserzählungen der Mwera in Tansania“, in: Märchenspiegel, 13(2): 17-18.</rs></bibl>
 <bibl>
-  <hi rend="bold">Tudorache, Tania / Vendetti, Jennifer / Noy, Natalya </hi>(2008): „Web-protege: A lightweight OWL ontology editor for the web“, in: 
-  <hi rend="italic">Proceedings of the Fifth OWLED Workshop on OWL:
-  Experiences and Directions, collocated with the 7th International
-  Semantic Web Conference (ISWC-2008)</hi>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5455">Tudorache, Tania / Vendetti, Jennifer / Noy, Natalya (2008): „Web-protege: A lightweight OWL ontology editor for the web“, in: Proceedings of the Fifth OWLED Workshop on OWL: Experiences and Directions, collocated with the 7th International Semantic Web Conference (ISWC-2008).</rs></bibl>
 </listBibl>
 </div>
 </back>

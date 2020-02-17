@@ -136,19 +136,19 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__828">Bernstein, Abraham / Hendler, James / Noy, Natalya (2016): “A New Look at the Semantic Web.” in: Communications of the ACM. 59:9. 35-37.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2933">Bernstein, Abraham / Hendler, James / Noy, Natalya (2016): “A New Look at the Semantic Web.” in: Communications of the ACM. 59:9. 35-37.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__829">Fowler, Martin (2011): Domain-Specific Languages. Addison-Wesley: Upper Saddle River, New Jersey.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2934">Fowler, Martin (2011): Domain-Specific Languages. Addison-Wesley: Upper Saddle River, New Jersey.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__830">Gutknecht, Jürg (1985): “Concepts of the Text Editor Lara.” in: Communications of the ACM. 28:9. 942-960.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2935">Gutknecht, Jürg (1985): “Concepts of the Text Editor Lara.” in: Communications of the ACM. 28:9. 942-960.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__831">Parr, Terence (2013): The Definitive ANTLR 4 Reference. Pragmatic Bookshelf: Dallas Texas.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2936">Parr, Terence (2013): The Definitive ANTLR 4 Reference. Pragmatic Bookshelf: Dallas Texas.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__832">Wirth, Niklaus (19864): Compilerbau. Teubner: Stuttgart.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2937">Wirth, Niklaus (19864): Compilerbau. Teubner: Stuttgart.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__833">Wirth, Niklaus (20005): Algorithmen und Datenstrukturen. Teubner: Stuttgart.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2938">Wirth, Niklaus (20005): Algorithmen und Datenstrukturen. Teubner: Stuttgart.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__834">Wirth, Niklaus / Gutknecht, Jürg (1992): Project Oberon: Design of an Operating System and Compiler. Addison-Wesley Longman: Amsterdam.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2939">Wirth, Niklaus / Gutknecht, Jürg (1992): Project Oberon: Design of an Operating System and Compiler. Addison-Wesley Longman: Amsterdam.</rs></bibl>
                 </listBibl>
             </div>
       </back>

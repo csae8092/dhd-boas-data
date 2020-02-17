@@ -201,47 +201,25 @@ Eine Alternative zu Transkribus ist die Open Source Software Kraken, die ebenfal
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Ares Oliveira, Sofia / Seguin, Benoît / Kaplan, Frédéric </hi> (2018): dhSegment: A generic deep-learning approach for document segmentation. In: 
-<hi rend="italic">Frontiers in Handwriting Recognition (ICFHR), 2018, 16th International Conference.</hi> 7–12.
-</bibl>
+<rs type="bibl" ref="#bibl__4770">Ares Oliveira, Sofia / Seguin, Benoît / Kaplan, Frédéric (2018): dhSegment: A generic deep-learning approach for document segmentation. In: Frontiers in Handwriting Recognition (ICFHR), 2018, 16th International Conference. 7–12.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Hodel, Tobias </hi> (2018): Konsequenzen automatischer Texterkennung – Ein Aufriss zur Texterkennung mit Machine Learning. In: Vogeler, Georg (Hg.). 
-<hi rend="italic">DHd 2018. Kritik der digitalen Vernunft Konferenzabstracts. Universität zu Köln 26. Februar bis 2. März 2018</hi> Köln, 249–251. http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf.
-</bibl>
+<rs type="bibl" ref="#bibl__4771">Hodel, Tobias (2018): Konsequenzen automatischer Texterkennung – Ein Aufriss zur Texterkennung mit Machine Learning. In: Vogeler, Georg (Hg.). DHd 2018. Kritik der digitalen Vernunft Konferenzabstracts. Universität zu Köln 26. Februar bis 2. März 2018 Köln, 249–251. http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf.</rs></bibl>
 <bibl>
-<hi rend="bold">Leifert, Gundram u. a. </hi> (2016): Cells in Multidimensional Recurrent Neural Networks. 
-<hi rend="italic">Journal of Machine Learning. Res.</hi> 17/97:1–97:37.
-</bibl>
+<rs type="bibl" ref="#bibl__4772">Leifert, Gundram u. a. (2016): Cells in Multidimensional Recurrent Neural Networks. Journal of Machine Learning. Res. 17/97:1–97:37.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Muehlberger, Guenter u. a. </hi> (2019): Super Transforming scholarship in the archives through handwritten text recognition: Transkribus as a case study. 
-<hi rend="italic">Journal of Documentation 75/5 </hi>, 954-976. 
-<ref target="https://doi.org/10.1108/JD-07-2018-0114">https://doi.org/10.1108/JD-07-2018-0114</ref>
-</bibl>
+<rs type="bibl" ref="#bibl__4773">Muehlberger, Guenter u. a. (2019): Super Transforming scholarship in the archives through handwritten text recognition: Transkribus as a case study. Journal of Documentation 75/5 , 954-976. https://doi.org/10.1108/JD-07-2018-0114</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Neudecker, Clemens u. a. </hi> (2019): OCR-D: An end-to-end open source OCR framework for historical documents. 
-<hi rend="italic">EuropeanaTech Insight</hi> 13.
-</bibl>
+<rs type="bibl" ref="#bibl__4774">Neudecker, Clemens u. a. (2019): OCR-D: An end-to-end open source OCR framework for historical documents. EuropeanaTech Insight 13.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">READ: Transkribus</hi>
-<hi style="font-family:Helvetica">. https://read.transkribus.eu/transkribus/ [12.9.2019].</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4775">READ: Transkribus . https://read.transkribus.eu/transkribus/ [12.9.2019].</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold">Quirós, Lorenzo </hi> (2017): 
-<hi rend="italic">P2PaLA: page to PAGE layout analysis tookit.</hi> https://github.com/lquirosd/P2PaLA.
-</bibl>
+  <rs type="bibl" ref="#bibl__4776">Quirós, Lorenzo (2017): P2PaLA: page to PAGE layout analysis tookit. https://github.com/lquirosd/P2PaLA.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Sahle, Patrick </hi> (2013): Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 2: Befunde, Theorie und Methodik. 
-<hi rend="italic">Schriften des IDE 8</hi> Bd. 2, Norderstedt: BoD. http://kups.ub.uni-koeln.de/5352/ [25.7.2014].
-</bibl>
+<rs type="bibl" ref="#bibl__16">Sahle, Patrick (2013): Digitale Editionsformen. Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Teil 2: Befunde, Theorie und Methodik. Schriften des IDE 8 Bd. 2, Norderstedt: BoD. http://kups.ub.uni-koeln.de/5352/ [25.7.2014].</rs></bibl>
 <bibl style="text-align:left; ">
- <hi rend="bold">Sánchez, J.A. u. a. </hi> (2013): TranScriptorium: a European Project on Handwritten Text Recognition. In: Marinai, Simone / Marriott, Kim (Hg.).
-<hi rend="italic">ACM Symposium on Document Engineering DOCENG.</hi> ACM, 227–228.
-</bibl>
+ <rs type="bibl" ref="#bibl__4777">Sánchez, J.A. u. a. (2013): TranScriptorium: a European Project on Handwritten Text Recognition. In: Marinai, Simone / Marriott, Kim (Hg.). ACM Symposium on Document Engineering DOCENG. ACM, 227–228.</rs></bibl>
 <bibl style="text-align:left; ">
-   <hi rend="bold">Schöch, Christoph </hi> (2017): Quantitative Analyse, in: Jannidis, Fotis / Kohle, Hubertus, Rehbein, Malte (Hg.). 
-                        <hi rend="italic">Digital Humanities: Eine Einführung</hi>. J.B. Metzler, Stuttgart, 279–298. 
-                        <ref target="https://doi.org/10.1007/978-3-476-05446-3_20">https://doi.org/10.1007/978-3-476-05446-3_20</ref>
-</bibl>
+   <rs type="bibl" ref="#bibl__4778">Schöch, Christoph (2017): Quantitative Analyse, in: Jannidis, Fotis / Kohle, Hubertus, Rehbein, Malte (Hg.). Digital Humanities: Eine Einführung. J.B. Metzler, Stuttgart, 279–298. https://doi.org/10.1007/978-3-476-05446-3_20</rs></bibl>
 </listBibl>
 </div>
 </back>

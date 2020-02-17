@@ -210,60 +210,29 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Bruschke, Jonas / Wacker, Markus</hi> (2016): “Simplifying Documentation of Digital Reconstruction Processes. Introducing an Interactive Documentation System”, in: Münster, Sander / Pfarr-Harfst, Mieke / Kuroczyński, Piotr / Ioannides, Marinos (Hrsg.): 
-  <hi rend="italic">3D Research Challenges in Cultural Heritage II. How to Manage Data and Knowledge Related to Interpretative Digital 3D Reconstructions of Cultural Heritage.</hi> Lecture Notes in Computer Science, Bd. 10025. Cham: Springer 256-271.
-</bibl>
+  <rs type="bibl" ref="#bibl__10">Bruschke, Jonas / Wacker, Markus (2016): “Simplifying Documentation of Digital Reconstruction Processes. Introducing an Interactive Documentation System”, in: Münster, Sander / Pfarr-Harfst, Mieke / Kuroczyński, Piotr / Ioannides, Marinos (Hrsg.): 3D Research Challenges in Cultural Heritage II. How to Manage Data and Knowledge Related to Interpretative Digital 3D Reconstructions of Cultural Heritage. Lecture Notes in Computer Science, Bd. 10025. Cham: Springer 256-271.</rs></bibl>
 <bibl>
-<hi rend="bold">Clados, Christiane</hi> (2019): “The Golden Ones”, in: 
-                        <hi rend="italic" xml:space="preserve">Amerindian Socio-Cosmologies between the Andes, Amazonia and Mesoamerica. Toward an anthropological understanding of the Isthmo-Colombian Area, </hi>Hrsg. Ernst Halbmayer. Routledge Verlag (im Druck). 
-                    </bibl>
+<rs type="bibl" ref="#bibl__5513">Clados, Christiane (2019): “The Golden Ones”, in: Amerindian Socio-Cosmologies between the Andes, Amazonia and Mesoamerica. Toward an anthropological understanding of the Isthmo-Colombian Area, Hrsg. Ernst Halbmayer. Routledge Verlag (im Druck).</rs></bibl>
 <bibl>
-<hi rend="bold">Denard, Hugh</hi> (Hrsg., 2009): 
-                        <hi rend="italic">London Charter. For the Computer-based Visualisation of Cultural Heritage. Draft 2.1. 7 February 2009</hi>. London 
-                        <ref target="http://www.londoncharter.org/">
-<hi rend="underline">http://www.londoncharter.org/</hi>
-</ref> [letzter Zugriff 20.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5514">Denard, Hugh (Hrsg., 2009): London Charter. For the Computer-based Visualisation of Cultural Heritage. Draft 2.1. 7 February 2009. London http://www.londoncharter.org/ [letzter Zugriff 20.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Dewitz, Leyla / Kröber, Cindy / Messemer, Heike / Maiwald, Ferdinand / Münster, Sander / Bruschke, Jonas / Niebling, Florian</hi> (2019): “Historical Photos and Visualizations: Potential for Research”, in: 
-                        <hi rend="italic">27th CIPA International Symposium “Documenting the past for a better future”</hi> 405-412 (= Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., Bd. XLII-2W15)
-                    </bibl>
+<rs type="bibl" ref="#bibl__5515">Dewitz, Leyla / Kröber, Cindy / Messemer, Heike / Maiwald, Ferdinand / Münster, Sander / Bruschke, Jonas / Niebling, Florian (2019): “Historical Photos and Visualizations: Potential for Research”, in: 27th CIPA International Symposium “Documenting the past for a better future” 405-412 (= Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., Bd. XLII-2W15)</rs></bibl>
 <bibl>
-<hi rend="bold">Forte, Maurizio / Siliotti Alberto</hi> (Hrsg., 1997): 
-                        <hi rend="italic">Virtual Archaeology. Re-creating Ancient Worlds</hi>. New York: Harry N. Abrams Inc.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5516">Forte, Maurizio / Siliotti Alberto (Hrsg., 1997): Virtual Archaeology. Re-creating Ancient Worlds. New York: Harry N. Abrams Inc.</rs></bibl>
 <bibl>
-<hi rend="bold">Grellert, Marc</hi> (2007): 
-                        <hi rend="italic">Immaterielle Zeugnisse. Synagogen in Deutschland. Potentiale digitaler Technologien für das Erinnern zerstörter Architektur</hi>, Bielefeld: transcript.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5517">Grellert, Marc (2007): Immaterielle Zeugnisse. Synagogen in Deutschland. Potentiale digitaler Technologien für das Erinnern zerstörter Architektur, Bielefeld: transcript.</rs></bibl>
 <bibl>
-<hi rend="bold">Grellert, Marc / Svenshon, Helge</hi> (2010): „Rekonstruktion ohne Befund?“, in: 
-                        <hi rend="italic">Befund und Rekonstruktion. Mitteilungen der Deutschen Gesellschaft für Archäologie des Mittelalters und der Neuzeit</hi> 22: 189-198.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5518">Grellert, Marc / Svenshon, Helge (2010): „Rekonstruktion ohne Befund?“, in: Befund und Rekonstruktion. Mitteilungen der Deutschen Gesellschaft für Archäologie des Mittelalters und der Neuzeit 22: 189-198.</rs></bibl>
 <bibl>
-<hi rend="bold">Lerm, Matthias</hi> (2001): 
-                        <hi rend="italic">Abschied vom alten Dresden. Verluste historischer Bausubstanz nach 1945</hi>. Rostock: Hirnstorff.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5519">Lerm, Matthias (2001): Abschied vom alten Dresden. Verluste historischer Bausubstanz nach 1945. Rostock: Hirnstorff.</rs></bibl>
 <bibl>
-<hi rend="bold">o.A.</hi> (2011): 
-                        <hi rend="italic">Principles of Seville. International Principles of Virtual Archaeology</hi>. o.O. 
-                        <ref target="http://smartheritage.com/wp-content/uploads/2015/03/FINAL-DRAFT.pdf">
-<hi rend="underline">http://smartheritage.com/wp-content/uploads/2015/03/FINAL-DRAFT.pdf</hi>
-</ref> [letzter Zugriff 20.09.2019).
-                    </bibl>
+<rs type="bibl" ref="#bibl__5520">o.A. (2011): Principles of Seville. International Principles of Virtual Archaeology. o.O. http://smartheritage.com/wp-content/uploads/2015/03/FINAL-DRAFT.pdf [letzter Zugriff 20.09.2019).</rs></bibl>
 <bibl>
-<hi rend="bold">Pfarr, Mieke</hi> (2010): 
-                        <hi rend="italic">Dokumentationssystem für Digitale Rekonstruktionen am Beispiel der Grabanlage Zhaoling, Provinz Shaanxi, China</hi>, Dissertation, Technische Universität Darmstadt.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5521">Pfarr, Mieke (2010): Dokumentationssystem für Digitale Rekonstruktionen am Beispiel der Grabanlage Zhaoling, Provinz Shaanxi, China, Dissertation, Technische Universität Darmstadt.</rs></bibl>
 <bibl>
-<hi rend="bold">Pfarr-Harfst / Grellert, Marc</hi> (2016): „The Reconstruction – Argumentation Method: Proposal for a Minimum Standard of Documentation in the Context of Virtual Reconstructions“, in: 
-                        <hi rend="italic">Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation, and Protection. 6th International Conference, EuroMed 2016</hi>, 
-                        <hi rend="italic">(Proceedings Part 1)</hi> 39-49.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5522">Pfarr-Harfst / Grellert, Marc (2016): „The Reconstruction – Argumentation Method: Proposal for a Minimum Standard of Documentation in the Context of Virtual Reconstructions“, in: Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation, and Protection. 6th International Conference, EuroMed 2016, (Proceedings Part 1) 39-49.</rs></bibl>
 <bibl>
-<hi rend="bold">Schreier, Dietmar / Lauffer, Manfred</hi> (2014): „Die Sophienkirche“, in: Landeshauptstadt Dresden, die Oberbürgermeisterin (Hrsg.): 
-                        <hi rend="italic">Verlorene Kirchen. Dresdens zerstörte Gotteshäuser. Eine Dokumentation seit 1938</hi> (2. Auflage). Dresden: 8-13.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5523">Schreier, Dietmar / Lauffer, Manfred (2014): „Die Sophienkirche“, in: Landeshauptstadt Dresden, die Oberbürgermeisterin (Hrsg.): Verlorene Kirchen. Dresdens zerstörte Gotteshäuser. Eine Dokumentation seit 1938 (2. Auflage). Dresden: 8-13.</rs></bibl>
 </listBibl>
 </div>
 </back>

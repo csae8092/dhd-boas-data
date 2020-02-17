@@ -302,52 +302,19 @@
 <listBibl>
   <head>Bibliographie</head>
   <bibl>
-    <hi rend="bold">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik</hi>
-    <hi style="font-family:Open Sans" xml:space="preserve"> (2015): </hi>
-    „Collaborative Text Annotation Meets Machine Learning: heureCLÉA, a Digital Heuristic of Narrative”, in: 
-    <hi rend="italic">DHCommons Journal</hi> 1. 
-  </bibl>
+    <rs type="bibl" ref="#bibl__317">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik (2015): „Collaborative Text Annotation Meets Machine Learning: heureCLÉA, a Digital Heuristic of Narrative”, in: DHCommons Journal 1.</rs></bibl>
   <bibl>
-    <hi rend="bold">Gius, Evelyn</hi>
-    <hi style="font-family:Open Sans" xml:space="preserve"> (im Erscheinen): </hi>
-    „Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma?”, in:  Jannidis, Fotis / Winko, Simone / Rapp, Andrea / Meister, Jan Christoph / Stäcker, Thomas (eds.): 
-    <hi rend="italic">Digitale Literaturwissenschaft. DFG-Symposium Villa Vigoni, 2017</hi>. Berlin, New York: de Gruyter.
-</bibl>
+    <rs type="bibl" ref="#bibl__155">Gius, Evelyn (im Erscheinen): „Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma?”, in: Jannidis, Fotis / Winko, Simone / Rapp, Andrea / Meister, Jan Christoph / Stäcker, Thomas (eds.): Digitale Literaturwissenschaft. DFG-Symposium Villa Vigoni, 2017. Berlin, New York: de Gruyter.</rs></bibl>
 <bibl>
-  <hi rend="bold">Gius, Evelyn / Jacke, Janina</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> (2017): </hi>
-  „The Hermeneutic Profit of Annotation: On Preventing and Fostering Disagreement in Literary Analysis”, in: 
-  <hi rend="italic">International Journal of Humanities and Arts Computing</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> 11 (2): 233–254.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__372">Gius, Evelyn / Jacke, Janina (2017): „The Hermeneutic Profit of Annotation: On Preventing and Fostering Disagreement in Literary Analysis”, in: International Journal of Humanities and Arts Computing 11 (2): 233–254.</rs></bibl>
 <bibl>
-  <hi rend="bold">Jacke, Janina</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> (2018): </hi>
-  „Manuelle Annotation", in: <hi rend="italic">forTEXT. Literatur digital erforschen</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve">. </hi>
-  <ref target="http://fortext.net/routinen/methoden/manuelle-annotation">http://fortext.net/routinen/methoden/manuelle-annotation</ref>
-  <hi style="font-family:Open Sans" xml:space="preserve"> (letzter Zugriff 20. Dezember 2018).</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__412">Jacke, Janina (2018): „Manuelle Annotation", in: forTEXT. Literatur digital erforschen . http://fortext.net/routinen/methoden/manuelle-annotation (letzter Zugriff 20. Dezember 2018).</rs></bibl>
 <bibl>
-<hi rend="bold">Moulin, Claudine</hi>
-<hi style="font-family:Open Sans" xml:space="preserve"> (2010): „Am Rande der Blätter. Gebrauchsspuren, Glossen und Annotationen in Handschriften und Büchern aus kulturhistorischer Perspektive", in: </hi>
-<hi rend="italic" style="font-family:Open Sans">Autorenbibliotheken, Quarto. Zeitschrift des Schweizerischen Literaturarchivs</hi>
-<hi style="font-family:Open Sans" xml:space="preserve"> 30 (31): 19–26.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4901">Moulin, Claudine (2010): „Am Rande der Blätter. Gebrauchsspuren, Glossen und Annotationen in Handschriften und Büchern aus kulturhistorischer Perspektive", in: Autorenbibliotheken, Quarto. Zeitschrift des Schweizerischen Literaturarchivs 30 (31): 19–26.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-family:Open Sans">Piez, Wendell</hi>
-<hi style="font-family:Open Sans" xml:space="preserve"> (2010): „Towards Hermeneutic Markup. An Architectural Outline". </hi>
-<hi rend="italic" style="font-family:Open Sans">Digital Humanities Conference</hi>
-<hi style="font-family:Open Sans" xml:space="preserve"> 2010, London </hi>
-<ref target="http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-743.html">http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-743.html</ref>
-<hi style="font-family:Open Sans" xml:space="preserve"> (letzter Zugriff 20. Dezember 2018).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4902">Piez, Wendell (2010): „Towards Hermeneutic Markup. An Architectural Outline". Digital Humanities Conference 2010, London http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-743.html (letzter Zugriff 20. Dezember 2018).</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-family:Open Sans">Wilkinson, Leland</hi>
-<hi style="font-family:Open Sans" xml:space="preserve"> (2005): </hi>
-<hi rend="italic" style="font-family:Open Sans">The grammar of graphics</hi>
-<hi style="font-family:Open Sans">. 2. Aufl. New York: Springer.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__237">Wilkinson, Leland (2005): The grammar of graphics . 2. Aufl. New York: Springer.</rs></bibl>
 </listBibl>
 </div>
 </back>

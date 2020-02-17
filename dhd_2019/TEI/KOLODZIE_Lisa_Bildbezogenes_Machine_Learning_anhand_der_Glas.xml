@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bildbezogenes Machine Learning anhand der Glasmalereien des Corpus Vitrearum Medii Aevi</title><title type="conf_year">2019</title><author ref="#person__lisa-kolodzie-adwmainz-de">
+                <title>Bildbezogenes Machine Learning anhand der Glasmalereien des Corpus Vitrearum Medii Aevi</title><title type="conf_year">2019</title>
+                <author ref="#person__lisa-kolodzie-adwmainz-de">
                     <persName>
                         <surname>Kolodzie</surname>
                         <forename>Lisa</forename>
@@ -86,21 +87,21 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3346">Binding, Günther / Speer, Andreas [Hrsg.] (1994): Mittelalterliches Kunsterleben nach Quellen des 11. Bis 13. Jahrhunderts. Stuttgart- Bad Cannstatt : Frommann-Holzboog.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__456">Binding, Günther / Speer, Andreas [Hrsg.] (1994): Mittelalterliches Kunsterleben nach Quellen des 11. Bis 13. Jahrhunderts. Stuttgart- Bad Cannstatt : Frommann-Holzboog.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3347">Bühler, Peter [u.a.] (2018): Digitale Farbe. Farbgestaltung – Colormanagement – Farbverarbeitung. Berlin, Heidelberg : Springer Berlin Heidelberg.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__457">Bühler, Peter [u.a.] (2018): Digitale Farbe. Farbgestaltung – Colormanagement – Farbverarbeitung. Berlin, Heidelberg : Springer Berlin Heidelberg.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3348">Frodl-Kraft, Eva (1970): Die Glasmalerei. Entwicklung, Technik, Eigenart. Wien [u.a.] : Schroll.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__458">Frodl-Kraft, Eva (1970): Die Glasmalerei. Entwicklung, Technik, Eigenart. Wien [u.a.] : Schroll.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3349">Géron, Aurélien (2017): Hands-On Machine Learning with Scikit-Learn &amp; TensorFlow. Beijing; Boston; Farnham; Sebastopol; Tokyo : O'Reilly</rs></bibl>
+                        <rs type="bibl" ref="#bibl__459">Géron, Aurélien (2017): Hands-On Machine Learning with Scikit-Learn &amp; TensorFlow. Beijing; Boston; Farnham; Sebastopol; Tokyo : O'Reilly</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3350">Kurz, Susanne (2016): Digital Humanities. Grundlagen und Technologien für die Praxis. Wiesbaden : Springer Vieweg.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__460">Kurz, Susanne (2016): Digital Humanities. Grundlagen und Technologien für die Praxis. Wiesbaden : Springer Vieweg.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3351">Michler, Jürgen (1984): Die Elisabethkirche zu Marburg in ihrer ursprünglichen Farbigkeit. Marburg : Elwert.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__461">Michler, Jürgen (1984): Die Elisabethkirche zu Marburg in ihrer ursprünglichen Farbigkeit. Marburg : Elwert.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3352">Open Source for Science (2018): TensorFlow-Course. https://github.com/osforscience/TensorFlow-Course [letzter Zugriff: 12.01.2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__462">Open Source for Science (2018): TensorFlow-Course. https://github.com/osforscience/TensorFlow-Course [letzter Zugriff: 12.01.2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3353">Pause, Johannes / Walkowski, Niels-Oliver (2017): Dead and Beautiful: The Analysis of Colors by Means of Contrasts in Neo-Zombie Movies. In: Digital Humanities 2017. Conference Abstracts. https://dh2017.adho.org/abstracts/095/095.pdf [letzter Zugriff: 12.01.2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__6">Pause, Johannes / Walkowski, Niels-Oliver (2017): Dead and Beautiful: The Analysis of Colors by Means of Contrasts in Neo-Zombie Movies. In: Digital Humanities 2017. Conference Abstracts. https://dh2017.adho.org/abstracts/095/095.pdf [letzter Zugriff: 12.01.2019].</rs></bibl>
                 </listBibl>
             </div>
         </back>

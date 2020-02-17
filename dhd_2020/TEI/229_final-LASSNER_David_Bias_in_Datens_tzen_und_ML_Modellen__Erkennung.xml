@@ -284,47 +284,33 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Bode, Katherine</hi> (Forthcoming 2020): Why You Can’t Model Away Bias, Modern Language Quarterly 81.1. preprint: katherinebode.files.wordpress.com/2019/08/mlq2019_preprintbode_why.pdf [letzter Zugriff 27. September 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4815">Bode, Katherine (Forthcoming 2020): Why You Can’t Model Away Bias, Modern Language Quarterly 81.1. preprint: katherinebode.files.wordpress.com/2019/08/mlq2019_preprintbode_why.pdf [letzter Zugriff 27. September 2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Bolukbasi, Tolga / Kai-Wei Chang / James Y Zou / Venkatesh Saligrama /  Adam T Kalai</hi> (2016): Man is to computer programmer as woman is to homemaker? debiasing word embeddings. Conference of NIPS.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4816">Bolukbasi, Tolga / Kai-Wei Chang / James Y Zou / Venkatesh Saligrama / Adam T Kalai (2016): Man is to computer programmer as woman is to homemaker? debiasing word embeddings. Conference of NIPS.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Buolamwini, Joy / Timnit Gebru</hi> (2018): Gender shades: Intersectional accuracy disparities in commercial gender classification. Conference on fairness, accountability and transparency.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4817">Buolamwini, Joy / Timnit Gebru (2018): Gender shades: Intersectional accuracy disparities in commercial gender classification. Conference on fairness, accountability and transparency.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Caliskan, Aylin / Joanna J. Bryson  /  Arvind Narayanan.</hi> (2017): Semantics derived automatically from language corpora contain human-like biases. Science 356.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4818">Caliskan, Aylin / Joanna J. Bryson / Arvind Narayanan. (2017): Semantics derived automatically from language corpora contain human-like biases. Science 356.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Davidson, Thomas / Debasmita Bhattacharya  / Ingmar Weber</hi> (2019): Racial Bias in Hate Speech and Abusive Language Detection Datasets. arXiv preprint arXiv:1905.12516. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__4819">Davidson, Thomas / Debasmita Bhattacharya / Ingmar Weber (2019): Racial Bias in Hate Speech and Abusive Language Detection Datasets. arXiv preprint arXiv:1905.12516.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Garg, Nikhil /  Londa Schiebinger / Dan Jurafsky  /  James Zou</hi> (2018): Word embeddings quantify 100 years of gender and ethnic stereotypes. Proceedings of the National Academy of Sciences.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4820">Garg, Nikhil / Londa Schiebinger / Dan Jurafsky / James Zou (2018): Word embeddings quantify 100 years of gender and ethnic stereotypes. Proceedings of the National Academy of Sciences.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Gonen, H.  /  Yoav Goldberg </hi>(2019): Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them. Conference of the NAACL.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4821">Gonen, H. / Yoav Goldberg (2019): Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them. Conference of the NAACL.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">May, Chandler /  Alex Wang / Shikha Bordia / Samuel R. Bowman  /  Rachel Rudinger</hi> (2019): On Measuring Social Biases in Sentence Encoders. Conference of the NAACL.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4822">May, Chandler / Alex Wang / Shikha Bordia / Samuel R. Bowman / Rachel Rudinger (2019): On Measuring Social Biases in Sentence Encoders. Conference of the NAACL.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Mikolov, T. / Chen, K. /  Corrado, G.  /  Dean, J.</hi> (2013): Efficient estimation of word representations in vector space. In ICLR.
-                    </bibl>
+<rs type="bibl" ref="#bibl__45">Mikolov, T. / Chen, K. / Corrado, G. / Dean, J. (2013): Efficient estimation of word representations in vector space. In ICLR.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Sap, Maarten / Dallas Card / Saadia Gabriel / Yejin Choi  /  Noah A. Smith</hi> (2019): The Risk of Racial Bias in Hate Speech Detection. Conference of the ACL.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4823">Sap, Maarten / Dallas Card / Saadia Gabriel / Yejin Choi / Noah A. Smith (2019): The Risk of Racial Bias in Hate Speech Detection. Conference of the ACL.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Swinger, Nathaniel / Maria De-Arteaga /  Neil Heffernan IV / Mark Leiserson  /  Adam Kalai</hi> (2019): What are the biases in my word embedding?. Conference on Artificial Intelligence, Ethics, and Society (AIES).
-                    </bibl>
+<rs type="bibl" ref="#bibl__4824">Swinger, Nathaniel / Maria De-Arteaga / Neil Heffernan IV / Mark Leiserson / Adam Kalai (2019): What are the biases in my word embedding?. Conference on Artificial Intelligence, Ethics, and Society (AIES).</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Underwood, Ted</hi> (2019). Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__415">Underwood, Ted (2019). Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Zhang, B. H. /  Lemoine, B. / Mitchell, M.</hi> (2018): Mitigating unwanted biases with adversarial learning. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4825">Zhang, B. H. / Lemoine, B. / Mitchell, M. (2018): Mitigating unwanted biases with adversarial learning. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Zhao, J. / Wang, T. / Yatskar, M. / Ordonez, V. /  Chang, K. W.</hi> (2018): Gender bias in coreference resolution: Evaluation and debiasing methods. arXiv preprint arXiv:1804.06876.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4826">Zhao, J. / Wang, T. / Yatskar, M. / Ordonez, V. / Chang, K. W. (2018): Gender bias in coreference resolution: Evaluation and debiasing methods. arXiv preprint arXiv:1804.06876.</rs></bibl>
 </listBibl>
 </div>
 </back>

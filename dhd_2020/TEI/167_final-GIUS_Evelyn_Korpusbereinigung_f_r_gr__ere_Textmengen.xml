@@ -178,41 +178,23 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Bär, Daniel / Zesch, Torsten / Gurevych, Iryna </hi> (2012): Text reuse detection using a composition of text similarity measures. 
-  <hi rend="italic">Proceedings of COLING 2012</hi>, S. 167–184.
-</bibl>
+  <rs type="bibl" ref="#bibl__4614">Bär, Daniel / Zesch, Torsten / Gurevych, Iryna (2012): Text reuse detection using a composition of text similarity measures. Proceedings of COLING 2012, S. 167–184.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Gaidys, Uta / Gius, Evelyn / Jarchow, Margarete / Koch, Gertraud / Menzel, Wolfgang / Orth, Dominik / Zinsmeister, Heike </hi> (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In 
-  <hi rend="italic">Hamburger Journal für Kulturanthropologie</hi> 7. S. 119–123.
-</bibl>
+  <rs type="bibl" ref="#bibl__89">Gaidys, Uta / Gius, Evelyn / Jarchow, Margarete / Koch, Gertraud / Menzel, Wolfgang / Orth, Dominik / Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In Hamburger Journal für Kulturanthropologie 7. S. 119–123.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Gius, Evelyn / Krüger, Katharina / Sökefeld, Carla </hi> (2019): Korpuserstellung als literaturwissenschaftliche Aufgabe. In 
-  <hi rend="italic">DHd2019 Book of Abstracts</hi>.
-</bibl>
+  <rs type="bibl" ref="#bibl__4615">Gius, Evelyn / Krüger, Katharina / Sökefeld, Carla (2019): Korpuserstellung als literaturwissenschaftliche Aufgabe. In DHd2019 Book of Abstracts.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Herrmann, Berenike / Lauer, Gerhard</hi> (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In 
-  <hi rend="italic">DHd 2017 Digitale Nachhaltigkeit Book of Abstracts</hi>. S. 107–111.
-</bibl>
+  <rs type="bibl" ref="#bibl__156">Herrmann, Berenike / Lauer, Gerhard (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In DHd 2017 Digitale Nachhaltigkeit Book of Abstracts. S. 107–111.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Kuhn, T. S.</hi> (1970). 
-  <hi rend="italic">The Structure of scientific revolutions</hi>. 2nd ed., enlarged. Chicago: Chicago Univ. Press.
-</bibl>
+  <rs type="bibl" ref="#bibl__4616">Kuhn, T. S. (1970). The Structure of scientific revolutions. 2nd ed., enlarged. Chicago: Chicago Univ. Press.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Lauer, Gerhard / Herrmann, Berenike </hi> (2018): Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. 
-  <hi rend="italic">Osnabrücker Beiträge zur Sprachtheorie</hi> 92. 7–35
-</bibl>
+  <rs type="bibl" ref="#bibl__4617">Lauer, Gerhard / Herrmann, Berenike (2018): Korpusliteraturwissenschaft. Zur Konzeption und Praxis am Beispiel eines Korpus zur literarischen Moderne. Osnabrücker Beiträge zur Sprachtheorie 92. 7–35</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Levenshtein, Vladimir </hi> (1965): Binary codes capable of correcting deletions, insertions, and reversals. Englische Übersetzung in: 
-  <hi rend="italic">Soviet Physics Doklady</hi>, Bd. 10, Nr. 8, S. 707–710, 1966.
-</bibl>
+  <rs type="bibl" ref="#bibl__158">Levenshtein, Vladimir (1965): Binary codes capable of correcting deletions, insertions, and reversals. Englische Übersetzung in: Soviet Physics Doklady, Bd. 10, Nr. 8, S. 707–710, 1966.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Schöch, Christof </hi> (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (Hrsg.): 
-  <hi rend="italic">Digital Humanities: eine Einführung.</hi> Stuttgart: J. B. Metzler Verlag. S. 223–233.
-</bibl>
+  <rs type="bibl" ref="#bibl__161">Schöch, Christof (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (Hrsg.): Digital Humanities: eine Einführung. Stuttgart: J. B. Metzler Verlag. S. 223–233.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Tateishi, Kenji / Kusui, Dai </hi> (2008): Fast Duplicated Documents Detection using Multi-level Prefix-filter. 
-  <hi rend="italic">Proceedings of the Third International Joint Conference on Natural Language Processing</hi>, Bd. II.
-</bibl>
+  <rs type="bibl" ref="#bibl__4618">Tateishi, Kenji / Kusui, Dai (2008): Fast Duplicated Documents Detection using Multi-level Prefix-filter. Proceedings of the Third International Joint Conference on Natural Language Processing, Bd. II.</rs></bibl>
 </listBibl>
 </div>
 </back>

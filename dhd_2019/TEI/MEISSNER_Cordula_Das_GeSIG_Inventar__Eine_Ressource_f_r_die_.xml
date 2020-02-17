@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das GeSIG-Inventar: Eine Ressource für die Erforschung und Vermittlung der Wissenschaftssprache der Geisteswissenschaften</title><title type="conf_year">2019</title><author ref="#person__cordula-meissner-uni-leipzig-de">
+                <title>Das GeSIG-Inventar: Eine Ressource für die Erforschung und Vermittlung der Wissenschaftssprache der Geisteswissenschaften</title><title type="conf_year">2019</title>
+                <author ref="#person__cordula-meissner-uni-leipzig-de">
                     <persName>
                         <surname>Meißner</surname>
                         <forename>Cordula</forename>
@@ -154,45 +155,45 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2997">Ehlich, Konrad (1995): „Die Lehre der deutschen Wissenschaftssprache: sprachliche Strukturen, didaktische Desiderate“. In: Kretzenbacher, Heinz / Weinrich, Harald (Hrsg.): Linguistik der Wissenschaftssprache [= Akademie der Wissenschaften zu Berlin. Forschungsberichte 10]. Berlin/New York: De Gruyter 325–351.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__652">Ehlich, Konrad (1995): „Die Lehre der deutschen Wissenschaftssprache: sprachliche Strukturen, didaktische Desiderate“. In: Kretzenbacher, Heinz / Weinrich, Harald (Hrsg.): Linguistik der Wissenschaftssprache [= Akademie der Wissenschaften zu Berlin. Forschungsberichte 10]. Berlin/New York: De Gruyter 325–351.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2998">Ehlich, Konrad (1993): „Deutsch als fremde Wissenschaftssprache“. In: Wierlacher, Alois (Hrsg.): Grenzen und Grenzerfahrungen [= Jahrbuch Deutsch als Fremdsprache 19]. München: iudicium 13−42.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__653">Ehlich, Konrad (1993): „Deutsch als fremde Wissenschaftssprache“. In: Wierlacher, Alois (Hrsg.): Grenzen und Grenzerfahrungen [= Jahrbuch Deutsch als Fremdsprache 19]. München: iudicium 13−42.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2999">Ehlich, Konrad (2007): Pragmatik und Sprachtheorie [= Sprache und sprachliches Handeln 1]. Berlin/New York: De Gruyter.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__654">Ehlich, Konrad (2007): Pragmatik und Sprachtheorie [= Sprache und sprachliches Handeln 1]. Berlin/New York: De Gruyter.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3000">GeSIG-Inventar: http://GeSIG-Inventar.ESV.info (20.12.2018)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__655">GeSIG-Inventar: http://GeSIG-Inventar.ESV.info (20.12.2018)</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3001">Hagner, Michael (2013): „Die Mathematik der Geisteswissenschaften ist die Vielfalt der Wissenschaftssprachen“. In: Goethe-Institut / Deutscher Akademischer Austauschdienst (DAAD) / Institut für Deutsche Sprache (IDS) (Hrsg.): Deutsch in den Wissenschaften. Beiträge zu Status und Perspektiven der Wissenschaftssprache Deutsch. München: Klett-Langenscheidt 136−141.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__656">Hagner, Michael (2013): „Die Mathematik der Geisteswissenschaften ist die Vielfalt der Wissenschaftssprachen“. In: Goethe-Institut / Deutscher Akademischer Austauschdienst (DAAD) / Institut für Deutsche Sprache (IDS) (Hrsg.): Deutsch in den Wissenschaften. Beiträge zu Status und Perspektiven der Wissenschaftssprache Deutsch. München: Klett-Langenscheidt 136−141.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__247">Kretzenbacher, Heinz (2010): „Fach- und Wissenschaftssprachen in den Geistes- und Sozialwissenschaften“. In: Krumm, Hans-Jürgen / Fandrych, Christian / Hufeisen, Britta / Riemer, Claudia (Hrsg.): Deutsch als Fremd- und Zweitsprache. Ein internationales Handbuch [= Handbücher zur Sprach- und Kommunikationswissenschaft 35.1]. Berlin/New York: De Gruyter 493−501.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__48">Kretzenbacher, Heinz (2010): „Fach- und Wissenschaftssprachen in den Geistes- und Sozialwissenschaften“. In: Krumm, Hans-Jürgen / Fandrych, Christian / Hufeisen, Britta / Riemer, Claudia (Hrsg.): Deutsch als Fremd- und Zweitsprache. Ein internationales Handbuch [= Handbücher zur Sprach- und Kommunikationswissenschaft 35.1]. Berlin/New York: De Gruyter 493−501.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3002">Meißner, Cordula / Wallner, Franziska (2019): Das gemeinsame sprachliche Inventar der Geisteswissenschaften. Lexikalische Grundlagen für die wissenschaftspropädeutische Sprachvermittlung. Berlin: Erich Schmidt Verlag.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__657">Meißner, Cordula / Wallner, Franziska (2019): Das gemeinsame sprachliche Inventar der Geisteswissenschaften. Lexikalische Grundlagen für die wissenschaftspropädeutische Sprachvermittlung. Berlin: Erich Schmidt Verlag.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3003">Meißner, Cordula / Wallner, Franziska (2018a): Allgemein-wissenschaftssprachlicher Wortschatz in der Sekundarstufe I? Zu Vagheit, Polysemie und pragmatischer Differenziertheit von Verben in Schulbuchtexten. In: Hövelbrinks, Britta / Fuchs, Isabell / Maak, Diana / Duan, Tinghui / Lütke, Beate (Hrsg.): Der - Die - DaZ - Forschungsbefunde zu Sprachgebrauch und Spracherwerb von Deutsch als Zweitsprache. Berlin/New York: de Gruyter 133–147.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__658">Meißner, Cordula / Wallner, Franziska (2018a): Allgemein-wissenschaftssprachlicher Wortschatz in der Sekundarstufe I? Zu Vagheit, Polysemie und pragmatischer Differenziertheit von Verben in Schulbuchtexten. In: Hövelbrinks, Britta / Fuchs, Isabell / Maak, Diana / Duan, Tinghui / Lütke, Beate (Hrsg.): Der - Die - DaZ - Forschungsbefunde zu Sprachgebrauch und Spracherwerb von Deutsch als Zweitsprache. Berlin/New York: de Gruyter 133–147.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3004">Meißner, Cordula / Wallner, Franziska (2018b): „Zur Rolle des allgemein-wissenschaftssprachlichen Wortschatzes für die Wissenschaftspropädeutik im Übergangsbereich Sekundarstufe II – Hochschule“. In: InfoDaF 45 (4): 1–22.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__659">Meißner, Cordula / Wallner, Franziska (2018b): „Zur Rolle des allgemein-wissenschaftssprachlichen Wortschatzes für die Wissenschaftspropädeutik im Übergangsbereich Sekundarstufe II – Hochschule“. In: InfoDaF 45 (4): 1–22.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3005">Meißner, Cordula / Wallner, Franziska (2016): „Persuasives Handeln im wissenschaftlichen Diskurs und seine lexikografische Darstellung: das Beispiel der Kollokation Bild zeichnen“. In: Studia Linguistica 35: 235–252.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__660">Meißner, Cordula / Wallner, Franziska (2016): „Persuasives Handeln im wissenschaftlichen Diskurs und seine lexikografische Darstellung: das Beispiel der Kollokation Bild zeichnen“. In: Studia Linguistica 35: 235–252.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__248">Schepping, Heinz (1976): „Bemerkungen zur Didaktik der Fachsprache im Bereich des Deutschen als Fremdsprache“. In: Rall, Dietrich / Schepping, Heinz / Schleyer, Walter (Hrsg.): Didaktik der Fachsprache. Beiträge zu einer Arbeitstagung an der RWTH Aachen vom 30. September bis 4. Oktober 1974 [= DAAD Forum: Studien, Berichte, Materialien 8]. Bonn-Bad Godesberg: Deutscher Akademischer Austauschdienst 13−34.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__49">Schepping, Heinz (1976): „Bemerkungen zur Didaktik der Fachsprache im Bereich des Deutschen als Fremdsprache“. In: Rall, Dietrich / Schepping, Heinz / Schleyer, Walter (Hrsg.): Didaktik der Fachsprache. Beiträge zu einer Arbeitstagung an der RWTH Aachen vom 30. September bis 4. Oktober 1974 [= DAAD Forum: Studien, Berichte, Materialien 8]. Bonn-Bad Godesberg: Deutscher Akademischer Austauschdienst 13−34.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__159">Schiller, Anne / Teufel, Simone / Stöckert, Christine / Thielen, Christine (1999): Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset), unter: www.sfs.uni-tuebingen.de​/​resources/​stts-1999.pdf (27.09.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__5">Schiller, Anne / Teufel, Simone / Stöckert, Christine / Thielen, Christine (1999): Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset), unter: www.sfs.uni-tuebingen.de​/​resources/​stts-1999.pdf (27.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3006">Schmid, Helmut (1995): Improvements In Part-of-Speech Tagging With An Application To German, unter: www.cis.uni-muenchen.de​/~​schmid/​tools/​TreeTagger/​data/​tree-tagger2.pdf (27.09.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__661">Schmid, Helmut (1995): Improvements In Part-of-Speech Tagging With An Application To German, unter: www.cis.uni-muenchen.de​/~​schmid/​tools/​TreeTagger/​data/​tree-tagger2.pdf (27.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__249">Statistisches Bundesamt (2013): Studierende an Hochschulen – Fächersystematik. unter: https://www.destatis.de/DE/Methoden/Klassifikationen/BildungKultur/ StudentenPruefungsstatistik.pdf (16.10.2014).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__52">Statistisches Bundesamt (2013): Studierende an Hochschulen – Fächersystematik. unter: https://www.destatis.de/DE/Methoden/Klassifikationen/BildungKultur/ StudentenPruefungsstatistik.pdf (16.10.2014).</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3007">Steinhoff, Torsten (2007): Wissenschaftliche Textkompetenz. Sprachgebrauch und Schreibentwicklung in wissenschaftlichen Texten von Studenten und Experten [= Reihe Germanistische Linguistik 280]. Tübingen: Niemeyer.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__662">Steinhoff, Torsten (2007): Wissenschaftliche Textkompetenz. Sprachgebrauch und Schreibentwicklung in wissenschaftlichen Texten von Studenten und Experten [= Reihe Germanistische Linguistik 280]. Tübingen: Niemeyer.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3008">Townsend, Dianna / Kiernan, Darl (2015): „Selecting Academic Vocabulary Words Worth Learning“. In: The Reading Teacher 69/1: 113−118.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__663">Townsend, Dianna / Kiernan, Darl (2015): „Selecting Academic Vocabulary Words Worth Learning“. In: The Reading Teacher 69/1: 113−118.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3009">Weigel, Sigrid (2013): „Erkenntnispotenzial und ideologische Erbschaften – zur deutschen Wissenschaftssprache in den Geisteswissenschaften und ihrer Geschichte“. In: Goethe-Institut / Deutscher Akademischer Austauschdienst (DAAD) / Institut für Deutsche Sprache (IDS) (Hrsg.): Deutsch in den Wissenschaften. Beiträge zu Status und Perspektiven der Wissenschaftssprache Deutsch. München: Klett-Langenscheidt 57−67.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__664">Weigel, Sigrid (2013): „Erkenntnispotenzial und ideologische Erbschaften – zur deutschen Wissenschaftssprache in den Geisteswissenschaften und ihrer Geschichte“. In: Goethe-Institut / Deutscher Akademischer Austauschdienst (DAAD) / Institut für Deutsche Sprache (IDS) (Hrsg.): Deutsch in den Wissenschaften. Beiträge zu Status und Perspektiven der Wissenschaftssprache Deutsch. München: Klett-Langenscheidt 57−67.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__250">Wissenschaftsrat (2010): Empfehlungen zur vergleichenden Forschungsbewertung in den Geisteswissenschaften, unter: www.wissenschaftsrat.de​/​download/​archiv/​10039-10.pdf (27.09.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__53">Wissenschaftsrat (2010): Empfehlungen zur vergleichenden Forschungsbewertung in den Geisteswissenschaften, unter: www.wissenschaftsrat.de​/​download/​archiv/​10039-10.pdf (27.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3010">Words and Phrases Tool: https://www.wordandphrase.info/ (20.12.2018)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__665">Words and Phrases Tool: https://www.wordandphrase.info/ (20.12.2018)</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3011">74_KUGE_5 = Schröder, Petra (2012): Max Rupp (1908 - 2002): Wege zur Abstraktion. Dissertation. Köln: Universität zu Köln, unter: http://d-nb.info/1038452473/34 (20.12.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__666">74_KUGE_5 = Schröder, Petra (2012): Max Rupp (1908 - 2002): Wege zur Abstraktion. Dissertation. Köln: Universität zu Köln, unter: http://d-nb.info/1038452473/34 (20.12.2018).</rs></bibl>
                 </listBibl>
             </div>
         </back>

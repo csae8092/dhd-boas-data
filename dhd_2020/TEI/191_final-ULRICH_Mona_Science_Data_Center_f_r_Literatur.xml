@@ -184,37 +184,21 @@
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<anchor xml:id="id_docs-internal-guid-fa715eff-7fff-b769-b2df-37a08185886b"/>
-	<hi rend="bold">Block, Friedrich W. </hi> (2004): 
-	<hi rend="italic">p0es1s. Ästhetik digitaler Poesie = The aesthetics of digital poetry</hi>. Erscheint anlässlich der Ausstellung "p0es1s. Digitale Poesie" im Kulturforum Potsdamer Platz, Berlin, 13. Februar bis 4. April 2004. Ostfildern: Hatje Cantz.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4903">Block, Friedrich W. (2004): p0es1s. Ästhetik digitaler Poesie = The aesthetics of digital poetry. Erscheint anlässlich der Ausstellung "p0es1s. Digitale Poesie" im Kulturforum Potsdamer Platz, Berlin, 13. Februar bis 4. April 2004. Ostfildern: Hatje Cantz.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gould, Amanda Starling </hi> (2012): „A Bibliographic Overview of Electronic Literature“. In: 
-	<hi rend="italic">Electronic Literature Directory</hi>  o.V.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4904">Gould, Amanda Starling (2012): „A Bibliographic Overview of Electronic Literature“. In: Electronic Literature Directory o.V.</rs></bibl>
       <bibl>
-	<hi rend="bold">Hinrichs, Erhard W., Marie Hinrichs und Thomas	Zastrow </hi> (2010): 
-	<hi rend="italic">WebLicht: Web-Based LRT Services for German</hi>, Proceedings of the ACL 2010 System Demonstrations, S. 25–29.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4905">Hinrichs, Erhard W., Marie Hinrichs und Thomas Zastrow (2010): WebLicht: Web-Based LRT Services for German, Proceedings of the ACL 2010 System Demonstrations, S. 25–29.</rs></bibl>
       <bibl>
-	<hi rend="bold">Kramski, Heinz Werner, Ulrich von Bülow</hi>
-	(2011):
-	<hi rend="italic">„Es füllt sich der Speicher mit köstlicher Habe“ – Erfahrungen mit digitalen Archivmaterialien im Deutschen Literaturarchiv Marbach</hi>, in: Caroline Y. Robertson von Trotha. Robert Hauser (Hg.), Neues Erbe : Aspekte, Perspektiven und Konsequenzen der digitalen Überlieferung, Karlsruhe: KIT Scientific Publishing, S. 141-162.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4906">Kramski, Heinz Werner, Ulrich von Bülow (2011): „Es füllt sich der Speicher mit köstlicher Habe“ – Erfahrungen mit digitalen Archivmaterialien im Deutschen Literaturarchiv Marbach, in: Caroline Y. Robertson von Trotha. Robert Hauser (Hg.), Neues Erbe : Aspekte, Perspektiven und Konsequenzen der digitalen Überlieferung, Karlsruhe: KIT Scientific Publishing, S. 141-162.</rs></bibl>
       <bibl>
-	<hi rend="bold">Rettberg, Scott</hi> (2019): <hi rend="italic">Electronic literature</hi>. Cambridge, UK: Polity Press.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4907">Rettberg, Scott (2019): Electronic literature. Cambridge, UK: Polity Press.</rs></bibl>
       <bibl>
-	<hi rend="bold">Seiça, Álvaro</hi> (2015): 
-	<hi rend="italic">Um Feixe Luminoso: Uma Leitura da Coleção de Literatura Electrônica Portuguesa</hi>. Florianópolis: Universidade Federal de Santa Catarina.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4908">Seiça, Álvaro (2015): Um Feixe Luminoso: Uma Leitura da Coleção de Literatura Electrônica Portuguesa. Florianópolis: Universidade Federal de Santa Catarina.</rs></bibl>
       <bibl>
-	<hi rend="bold">Suter, Beat</hi> (2012): 
-	<hi rend="italic">Von Theo Lutz zur Netzliteratur. Die Entwicklung der deutschsprachigen elektronischen Literatur</hi>, &lt;https://netzliteratur.net/suter/Geschichte_der_deutschsprachigen_Netzliteratur.pdf&gt;, Zugriff am 31.12.2019.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4909">Suter, Beat (2012): Von Theo Lutz zur Netzliteratur. Die Entwicklung der deutschsprachigen elektronischen Literatur, &lt;https://netzliteratur.net/suter/Geschichte_der_deutschsprachigen_Netzliteratur.pdf&gt;, Zugriff am 31.12.2019.</rs></bibl>
       <bibl>
-	<hi rend="bold">Tomaszek, Patricia</hi> (2011): German Net Literature: In the Exile of Invisibility, &lt;<ptr target="http://elmcip.net/critical-writing/german-net-literature-exile-invisibility"/>&gt;, Zugriff am 19.9.2019.
-</bibl>
+	<rs type="bibl" ref="#bibl__4910">Tomaszek, Patricia (2011): German Net Literature: In the Exile of Invisibility, &lt;&gt;, Zugriff am 19.9.2019.</rs></bibl>
 </listBibl>
 </div>
 </back>

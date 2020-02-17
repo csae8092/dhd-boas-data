@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title><title type="conf_year">2019</title><author ref="#person__nina-seemann-upb-de">
+                <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title><title type="conf_year">2019</title>
+                <author ref="#person__nina-seemann-upb-de">
                     <persName>
                         <surname>Seemann</surname>
                         <forename>Nina</forename>
@@ -139,9 +140,9 @@
                     <bibl style="text-align:left; ">
                         <rs type="bibl" ref="#bibl__114">Bollmann, Marcel / Petran, Florian / Dipper, Stefanie / Krasselt, Julia (2014): “CorA: A web-based Annotation Tool for Historical and other non-standard Language Data”, in: Proceedings of the 8th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) 86—90.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3484">Traugott, Elizabeth / Trousdale, Graeme (2013): Constructionalization and Constructional Change. Oxford: Oxford University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__937">Traugott, Elizabeth / Trousdale, Graeme (2013): Constructionalization and Constructional Change. Oxford: Oxford University Press.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3485">Yimam, Seid Muhie / Biemann, Chris / de Castilho, Richard / Gurevych, Iryna (2014): “Automatic Annotation Suggestions and Custom Annotation Layers in WebAnno“, in: Proceedings of 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations 91—96.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__938">Yimam, Seid Muhie / Biemann, Chris / de Castilho, Richard / Gurevych, Iryna (2014): “Automatic Annotation Suggestions and Custom Annotation Layers in WebAnno“, in: Proceedings of 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations 91—96.</rs></bibl>
                 </listBibl>
             </div>
         </back>

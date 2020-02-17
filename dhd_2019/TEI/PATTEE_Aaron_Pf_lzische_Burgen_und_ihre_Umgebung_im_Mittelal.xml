@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pfälzische Burgen und ihre Umgebung im Mittelalter, modelliert anhand von Neo4j, QGIS und 3D Modellen</title><title type="conf_year">2019</title><author ref="#person__aaron-pattee-iwr-uni-heidelberg-de">
+                <title>Pfälzische Burgen und ihre Umgebung im Mittelalter, modelliert anhand von Neo4j, QGIS und 3D Modellen</title><title type="conf_year">2019</title>
+                <author ref="#person__aaron-pattee-iwr-uni-heidelberg-de">
                     <persName>
                         <surname>Pattee</surname>
                         <forename>Aaron</forename>
@@ -146,17 +147,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3395">Bihrer, Andreas (2011): “Research on the Ecclesiastical Princes in the Later Middle Ages—State-of-the-Art and Perspectives” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 49-70.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__735">Bihrer, Andreas (2011): “Research on the Ecclesiastical Princes in the Later Middle Ages—State-of-the-Art and Perspectives” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 49-70.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3396">Herzog, Irmela (2017): “Reconstructing Pre-Industrial Long Distance Roads in a Hilly Region in Germany, Based on Historical and Archaeological Data” in Studies in Digital Heritage, 1(2), 642-660.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__736">Herzog, Irmela (2017): “Reconstructing Pre-Industrial Long Distance Roads in a Hilly Region in Germany, Based on Historical and Archaeological Data” in Studies in Digital Heritage, 1(2), 642-660.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3397">Liddiard, Robert (2011): “English Castle Building” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 199-225.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__737">Liddiard, Robert (2011): “English Castle Building” in: Huthwelker, Thorsten / Peltzer, Jörg / Wenhöner, Maximilian (eds.): Princely Rank in Medieval Europe—Trodden Paths and Promising Avenues. Ostfildern: Thorbecke 199-225.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3398">Pattee, Aaron (2016): „Integrative Recording Methods of Historic Architecture—Burg Hohenecken from Southwest Germany“ Master’s Thesis, University of Nebraska-Lincoln.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__738">Pattee, Aaron (2016): „Integrative Recording Methods of Historic Architecture—Burg Hohenecken from Southwest Germany“ Master’s Thesis, University of Nebraska-Lincoln.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3399">Spieß, Karl-Heinz (1975): “Vom reichsministerilen Inwärtseigen zur eigenständigen Herrschaft—Untersuchungen zur Besitzgeschichte der Herrschaft Hohenecken vom 13. bis zum 17. Jahrhundert” in: JbGKL 12/13: 84-106.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__739">Spieß, Karl-Heinz (1975): “Vom reichsministerilen Inwärtseigen zur eigenständigen Herrschaft—Untersuchungen zur Besitzgeschichte der Herrschaft Hohenecken vom 13. bis zum 17. Jahrhundert” in: JbGKL 12/13: 84-106.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3400">Untermann, Matthias (2007): „Abbild, Symbol, Repräsentation—Funktionen mittelalterlicher Architektur?“ in Wagener, O., Dinzelbacher, P., (Eds.), Symbole der Macht? Aspekte mittelalterlicher und frühneuzeitlicher Architektur: Beihefte zur Mediaevistik—Monographen, Editionen, Sammelbände .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__740">Untermann, Matthias (2007): „Abbild, Symbol, Repräsentation—Funktionen mittelalterlicher Architektur?“ in Wagener, O., Dinzelbacher, P., (Eds.), Symbole der Macht? Aspekte mittelalterlicher und frühneuzeitlicher Architektur: Beihefte zur Mediaevistik—Monographen, Editionen, Sammelbände .</rs></bibl>
                 </listBibl>
             </div>
         </back>

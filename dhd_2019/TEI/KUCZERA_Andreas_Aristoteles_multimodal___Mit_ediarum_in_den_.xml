@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Aristoteles multimodal – Mit ediarum in den Graphen</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__andreas-kuczera-adwmainz-de">
                     <persName>
                         <surname>Kuczera</surname>
@@ -240,13 +241,13 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>Fechner 2017 = Martin 
-                        <rs type="bibl" ref="#bibl__3703">Fechner 2017 = Martin Fechner, “ediarum: eine digitale Arbeitsumgebung für Editionsvorhaben”, Folien zum Workshop »ediarum« im Rahmen des Workshops der Akademienunion am 20. Oktober 2017 in Mainz, URL: .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1147">Fechner 2017 = Martin Fechner, “ediarum: eine digitale Arbeitsumgebung für Editionsvorhaben”, Folien zum Workshop »ediarum« im Rahmen des Workshops der Akademienunion am 20. Oktober 2017 in Mainz, URL: .</rs></bibl>
                     <bibl>Fechner 2018 = Martin Fechner, Eine nachhaltige Präsentationsschicht für digitale Editionen, in: DHd 2018 - Kritik der digitalen Vernunft. Konferenzabstrakts, hg. v. Georg Vogeler, Köln 2018, URL: 
-                        <rs type="bibl" ref="#bibl__3704">Fechner 2018 = Martin Fechner, Eine nachhaltige Präsentationsschicht für digitale Editionen, in: DHd 2018 - Kritik der digitalen Vernunft. Konferenzabstrakts, hg. v. Georg Vogeler, Köln 2018, URL:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1148">Fechner 2018 = Martin Fechner, Eine nachhaltige Präsentationsschicht für digitale Editionen, in: DHd 2018 - Kritik der digitalen Vernunft. Konferenzabstrakts, hg. v. Georg Vogeler, Köln 2018, URL:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3705">Kuczera 2017 = Andreas Kuczera, Graphentechnologien in den Digitalen Geisteswissenschaften, in: ABI Technik 2017; 37(3): 179–196 ( ). URL:</rs></bibl>
+                        <rs type="bibl" ref="#bibl__66">Kuczera 2017 = Andreas Kuczera, Graphentechnologien in den Digitalen Geisteswissenschaften, in: ABI Technik 2017; 37(3): 179–196 ( ). URL:</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3706">Kuczera 2018 = Andreas Kuczera, Graphentechnologien in den digitalen Geisteswissenschaften. Modellierung – Import – Exploration (Online-Publikation unter https://kuczera.github.io/Graphentechnologien/ ). (2018)</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1149">Kuczera 2018 = Andreas Kuczera, Graphentechnologien in den digitalen Geisteswissenschaften. Modellierung – Import – Exploration (Online-Publikation unter https://kuczera.github.io/Graphentechnologien/ ). (2018)</rs></bibl>
                 </listBibl>
             </div>
         </back>

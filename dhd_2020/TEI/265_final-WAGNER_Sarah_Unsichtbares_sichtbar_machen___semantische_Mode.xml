@@ -148,22 +148,13 @@ Im Zuge der Entwicklung eines auf die Bedürfnisse des Projekts zugeschnittenen 
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold" xml:space="preserve">Büttner, Nils </hi>(2014): 
-  <hi rend="italic" xml:space="preserve">Einführung in die frühneuzeitliche Ikonographie. </hi>Darmstadt: Wissenschaftliche Buchgesellschaft.
-</bibl>
+  <rs type="bibl" ref="#bibl__4709">Büttner, Nils (2014): Einführung in die frühneuzeitliche Ikonographie. Darmstadt: Wissenschaftliche Buchgesellschaft.</rs></bibl>
 <bibl>
-  <hi rend="bold">Doerr, Martin / Lampe, Karl-Heinz / Krause, Siegfried </hi> (2011):
-  <hi rend="italic">Definition des CIDOC Conceptual Reference Model Version 5.0.1</hi>.; autor. durch die CIDOC CRM Special Interest Group (SIG) (= Beiträge zur Museologie 1). Berlin: ICOM Deutschland.
-</bibl>
+  <rs type="bibl" ref="#bibl__4710">Doerr, Martin / Lampe, Karl-Heinz / Krause, Siegfried (2011): Definition des CIDOC Conceptual Reference Model Version 5.0.1.; autor. durch die CIDOC CRM Special Interest Group (SIG) (= Beiträge zur Museologie 1). Berlin: ICOM Deutschland.</rs></bibl>
 <bibl>
-  <hi rend="bold">Dolezel, Eva </hi> (2019): 
-  <hi rend="italic" xml:space="preserve">Der Traum vom Museum. </hi>Die Kunstkammer im Berliner Schloss um 1800 – eine museumsgeschichtliche Verortung. Berlin: Gebr. Mann.
-</bibl>
+  <rs type="bibl" ref="#bibl__4711">Dolezel, Eva (2019): Der Traum vom Museum. Die Kunstkammer im Berliner Schloss um 1800 – eine museumsgeschichtliche Verortung. Berlin: Gebr. Mann.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold">Hohmann, Georg / Fichtner, Mark</hi> (2015): „Chancen und Herausforderungen in der praktischen Anwendung von Ontologien für das Kulturerbe" in: Robertson – von Trotta, Caroline Y. / Schneider, Ralf Y. (eds.): 
-  <hi rend="italic">Digitales Kulturerbe</hi>. 
-  <hi rend="italic">Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis</hi> (= Kulturelle Überlieferung – digital 2). Karlsruhe: KIT Scientific Publishing 115-128.
-</bibl>
+  <rs type="bibl" ref="#bibl__283">Hohmann, Georg / Fichtner, Mark (2015): „Chancen und Herausforderungen in der praktischen Anwendung von Ontologien für das Kulturerbe" in: Robertson – von Trotta, Caroline Y. / Schneider, Ralf Y. (eds.): Digitales Kulturerbe. Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis (= Kulturelle Überlieferung – digital 2). Karlsruhe: KIT Scientific Publishing 115-128.</rs></bibl>
 </listBibl>
 </div>
 </back>

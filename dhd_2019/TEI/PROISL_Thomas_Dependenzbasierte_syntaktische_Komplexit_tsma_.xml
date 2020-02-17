@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Dependenzbasierte syntaktische Komplexitätsmaße</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__thomas-proisl-fau-de">
                     <persName>
                         <surname>Proisl</surname>
@@ -192,27 +193,27 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3021">Best, Karl-Heinz (2005): „Satzlänge“, in: Köhler, Reinhard / Altmann, Gabriel / Piotrowski, Rajmund G.: Quantitative Linguistik / Quantitative Linguistics. Berlin: de Gruyter-Mouton 298–304.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1127">Best, Karl-Heinz (2005): „Satzlänge“, in: Köhler, Reinhard / Altmann, Gabriel / Piotrowski, Rajmund G.: Quantitative Linguistik / Quantitative Linguistics. Berlin: de Gruyter-Mouton 298–304.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3022">Flesch , Rudolf (1948): „A New Readability Yardstick“, in: Journal of Applied Psychology 32 Nr. 3: 221–233. 10.1037/h0057532[letzter Zugriff am 8. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1128">Flesch , Rudolf (1948): „A New Readability Yardstick“, in: Journal of Applied Psychology 32 Nr. 3: 221–233. 10.1037/h0057532[letzter Zugriff am 8. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3023">Freeman, Linton C. (1978): „Centrality in Social Networks. Conceptual Clarification“, in: Social Networks 1, Nr. 3: 215–239. 10.1016/0378-8733(78)90021-7 [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1129">Freeman, Linton C. (1978): „Centrality in Social Networks. Conceptual Clarification“, in: Social Networks 1, Nr. 3: 215–239. 10.1016/0378-8733(78)90021-7 [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3024">Jannidis, Fotis / Pernes, Stefan / Pielström, Steffen / Reger, Isabella / Reimers, Nils / Vitt, Thorsten (2016): „DARIAH-DKPro-Wrapper Output Format (DOF) Specification“, in: DARIAH-DE Working Papers 20. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1130">Jannidis, Fotis / Pernes, Stefan / Pielström, Steffen / Reger, Isabella / Reimers, Nils / Vitt, Thorsten (2016): „DARIAH-DKPro-Wrapper Output Format (DOF) Specification“, in: DARIAH-DE Working Papers 20. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3025">Liu, Haitao (2008): „Dependency Distance as a Metric of Language Comprehension Difficulty“, in: Journal of Cognitive Science 9, Nr. 2: 159–191. http://cogsci.snu.ac.kr/jcs/issue/vol9/no2/JCS_Vol_09_+No_2+p.+159+- +191+Dependency+Distance+as+a+Metric+of+Language+Comprehension+Difficulty.pdf [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1131">Liu, Haitao (2008): „Dependency Distance as a Metric of Language Comprehension Difficulty“, in: Journal of Cognitive Science 9, Nr. 2: 159–191. http://cogsci.snu.ac.kr/jcs/issue/vol9/no2/JCS_Vol_09_+No_2+p.+159+- +191+Dependency+Distance+as+a+Metric+of+Language+Comprehension+Difficulty.pdf [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__273">Nast, Mirjam (2017): „Perry Rhodan“ lesen. Zur Serialität der Lektürepraktiken einer Heftromanserie. Bielefeld: transcript.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1132">Nast, Mirjam (2017): „Perry Rhodan“ lesen. Zur Serialität der Lektürepraktiken einer Heftromanserie. Bielefeld: transcript.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3026">Nivre, Joakim / de Marneffe, Marie-Catherine / Ginter, Filip / Goldberg, Yoav / Hajic, Jan / Manning, Christopher D. / McDonald, Ryan / Petrov, Slav / Pyysalo, Sampo / Silveira, Natalia / Tsarfaty, Reut / Zeman, Daniel (2016): „Universal Dependencies v1: A Multilingual Treebank Collection“, in: Calzolari, Nicoletta / Choukri, Khalid / Declerck, Thierry / Goggi, Sara / Grobelnik, Marko / Maegaard, Bente / Mariani, Joseph / Mazo, Hélène / Moreno, Asunción / Odijk, Jan / Piperidis, Stelios (eds.): Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16). Portorož: European Language Resources Association 1659–1666. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1133">Nivre, Joakim / de Marneffe, Marie-Catherine / Ginter, Filip / Goldberg, Yoav / Hajic, Jan / Manning, Christopher D. / McDonald, Ryan / Petrov, Slav / Pyysalo, Sampo / Silveira, Natalia / Tsarfaty, Reut / Zeman, Daniel (2016): „Universal Dependencies v1: A Multilingual Treebank Collection“, in: Calzolari, Nicoletta / Choukri, Khalid / Declerck, Thierry / Goggi, Sara / Grobelnik, Marko / Maegaard, Bente / Mariani, Joseph / Mazo, Hélène / Moreno, Asunción / Odijk, Jan / Piperidis, Stelios (eds.): Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16). Portorož: European Language Resources Association 1659–1666. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3027">Oya, Masanori (2011): „Syntactic Dependency Distance as Sentence Complexity Measure“, in: Proceedings of the 16th International Conference of Pan-Pacific Association of Applied Linguistics. 313–316. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1134">Oya, Masanori (2011): „Syntactic Dependency Distance as Sentence Complexity Measure“, in: Proceedings of the 16th International Conference of Pan-Pacific Association of Applied Linguistics. 313–316. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3028">Sherman, Lucius Adelno (1893): Analytics of literature, a manual for the objective study of English prose and poetry. Boston: Ginn. [letzter Zugriff am 8. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1135">Sherman, Lucius Adelno (1893): Analytics of literature, a manual for the objective study of English prose and poetry. Boston: Ginn. [letzter Zugriff am 8. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3029">Straka, Milan / Straková, Jana (2017): „Tokenizing, POS Tagging, Lemmatizing and Parsing UD 2.0 with UDPipe“, in: Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. Vancouver: Association for Computational Linguistics 88–99. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1136">Straka, Milan / Straková, Jana (2017): „Tokenizing, POS Tagging, Lemmatizing and Parsing UD 2.0 with UDPipe“, in: Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. Vancouver: Association for Computational Linguistics 88–99. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3030">Vajjala Balakrishna, Sowmya (2015): Analyzing Text Complexity and Text Simplification: Connecting Linguistics, Processing and Educational Applications. Dissertation, Eberhard-Karls-Universität Tübingen. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1137">Vajjala Balakrishna, Sowmya (2015): Analyzing Text Complexity and Text Simplification: Connecting Linguistics, Processing and Educational Applications. Dissertation, Eberhard-Karls-Universität Tübingen. [letzter Zugriff am 15. Oktober 2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

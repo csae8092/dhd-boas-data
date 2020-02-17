@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Usability-Testing für Softwarewerkzeuge in den Digital Humanities am Beispiel von Bildrepositorien</title><title type="conf_year">2019</title><author ref="#person__leyla-dewitz-tu-dresden-de">
+                <title>Usability-Testing für Softwarewerkzeuge in den Digital Humanities am Beispiel von Bildrepositorien</title><title type="conf_year">2019</title>
+                <author ref="#person__leyla-dewitz-tu-dresden-de">
                     <persName>
                         <surname>Dewitz</surname>
                         <forename>Leyla</forename>

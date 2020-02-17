@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mapping the Moralized Geography of 'Paradise Lost': Prototypenbildung am Beispiel einer geo-kritischen Erschließung von Miltons Werk</title><title type="conf_year">2019</title><author ref="#person__m-schaeben-uni-koeln-de">
+                <title>Mapping the Moralized Geography of 'Paradise Lost': Prototypenbildung am Beispiel einer geo-kritischen Erschließung von Miltons Werk</title><title type="conf_year">2019</title>
+                <author ref="#person__m-schaeben-uni-koeln-de">
                     <persName>
                         <surname>Schaeben</surname>
                         <forename>Marcel</forename>
@@ -114,15 +115,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3994">Bodenhamer, David J. (2016): “Making the Invisible Visible: Place, Spatial Stories and Deep Maps”, in: Cooper, David / Donaldson, Christopher / Murrieta-Flores, Patricia (eds.): Literary Mapping in the Digital Age . London / New York: Routledge 207-220.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__643">Bodenhamer, David J. (2016): “Making the Invisible Visible: Place, Spatial Stories and Deep Maps”, in: Cooper, David / Donaldson, Christopher / Murrieta-Flores, Patricia (eds.): Literary Mapping in the Digital Age . London / New York: Routledge 207-220.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3995">Cooper, David / Gregory, Ian N. (2011): “Mapping the English Lake District: A Literary GIS”, in: Transactions of the Institute of British Geographers 36 (1): 89-108.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__644">Cooper, David / Gregory, Ian N. (2011): “Mapping the English Lake District: A Literary GIS”, in: Transactions of the Institute of British Geographers 36 (1): 89-108.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__276">Galey, Alan / Ruecker, Stan (2010): “How a Prototype Argues”, in: Literary and Linguistic Computing 25 (4): 405-24.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__47">Galey, Alan / Ruecker, Stan (2010): “How a Prototype Argues”, in: Literary and Linguistic Computing 25 (4): 405-24.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3996">Hess-Lüttich, Ernest W. B . (2017): „Spatial Turn: On the Concept of Space in Cultural Geography and Literary Theory“, in: Meta-Carto-Semiotics 5 (1): 27-37 http://ojs.meta-carto-semiotics.org/index.php/mcs/article/view/21 [letzter Zugriff 15. Oktober 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__645">Hess-Lüttich, Ernest W. B . (2017): „Spatial Turn: On the Concept of Space in Cultural Geography and Literary Theory“, in: Meta-Carto-Semiotics 5 (1): 27-37 http://ojs.meta-carto-semiotics.org/index.php/mcs/article/view/21 [letzter Zugriff 15. Oktober 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3997">Piatti, Barbara (2016): “Mapping Fiction: The Theories, Tools and Potentials of Literary Cartography”, in: Cooper, David / Donaldson, Christopher / Murrieta-Flores, Patricia (eds.): Literary Mapping in the Digital Age . London / New York: Routledge 106-119.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__646">Piatti, Barbara (2016): “Mapping Fiction: The Theories, Tools and Potentials of Literary Cartography”, in: Cooper, David / Donaldson, Christopher / Murrieta-Flores, Patricia (eds.): Literary Mapping in the Digital Age . London / New York: Routledge 106-119.</rs></bibl>
                 </listBibl>
             </div>
         </back>

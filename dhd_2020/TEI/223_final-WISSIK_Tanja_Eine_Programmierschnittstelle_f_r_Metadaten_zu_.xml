@@ -96,16 +96,11 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Wissik, Tanja / Edmond, Jennifer /Fischer, Frank / de Jong, Franciska / Stefania Scagliola, Stefania / Andrea Scharnhorst, Andrea / Schmeer, Hendrik / Walter Scholger, Walter / Wessels, Leon</hi> (im Erscheinen): Teaching Digital Humanities Around the World: An Infrastructural Approach to a Community-Driven DH Course Registry.
-</bibl>
+<rs type="bibl" ref="#bibl__5559">Wissik, Tanja / Edmond, Jennifer /Fischer, Frank / de Jong, Franciska / Stefania Scagliola, Stefania / Andrea Scharnhorst, Andrea / Schmeer, Hendrik / Walter Scholger, Walter / Wessels, Leon (im Erscheinen): Teaching Digital Humanities Around the World: An Infrastructural Approach to a Community-Driven DH Course Registry.</rs></bibl>
 <bibl>
-<hi rend="bold">Toma Tasovac, Toma / Adrien Barbaresi, Adrien /
-Thibault Clèrice, Thibault / Jennifer Edmond, Jennifer / Ermolaev,
-Natlia et al. </hi> (2016): APIs in Digital Humanities: The Infrastructural Turn. Digital Humanities 2016, Jul 2016, Cracovie, Poland. pp.93-96, 2016, Digital Humanities 2016 Conference Abstracts.
-</bibl>
+<rs type="bibl" ref="#bibl__5560">Toma Tasovac, Toma / Adrien Barbaresi, Adrien / Thibault Clèrice, Thibault / Jennifer Edmond, Jennifer / Ermolaev, Natlia et al. (2016): APIs in Digital Humanities: The Infrastructural Turn. Digital Humanities 2016, Jul 2016, Cracovie, Poland. pp.93-96, 2016, Digital Humanities 2016 Conference Abstracts.</rs></bibl>
 <bibl>
-<hi rend="bold">Cooper, Doug </hi> (2010): When Nice People Won’t Share: Shy Data, Web APIs, and Beyond, Second International Conference on Global Interoperability for Language Resources (ICGL 2010).
-</bibl>
+<rs type="bibl" ref="#bibl__5561">Cooper, Doug (2010): When Nice People Won’t Share: Shy Data, Web APIs, and Beyond, Second International Conference on Global Interoperability for Language Resources (ICGL 2010).</rs></bibl>
 </listBibl>
 </div>
 </back>

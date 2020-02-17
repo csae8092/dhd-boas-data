@@ -149,63 +149,33 @@ beginnen<ref n="1" target="ftn1"/>, welches die hermeneutische Aneignung durch d
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold"> Bauer, Matthias / Ernst, Christoph </hi>
-	(2010): Diagrammatik. Einführung in ein kultur- und
-	medienwissenschaftliches Forschungsfeld. Bielefeld:
-	transcript.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4650">Bauer, Matthias / Ernst, Christoph (2010): Diagrammatik. Einführung in ein kultur- und medienwissenschaftliches Forschungsfeld. Bielefeld: transcript.</rs></bibl>
       <bibl>
-	<hi rend="bold"> Ciula, Arianna / Eide, Øyvind </hi> (2017): „Modelling in digital humanities: Sings in context“ in: Digital Scholarship in the Humanities 32 (suppl_1) i33-i46 
-        <ref target="https://doi.org/10.1093/llc/fqw045">https://doi.org/10.1093/llc/fqw045</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__385">Ciula, Arianna / Eide, Øyvind (2017): „Modelling in digital humanities: Sings in context“ in: Digital Scholarship in the Humanities 32 (suppl_1) i33-i46 https://doi.org/10.1093/llc/fqw045</rs></bibl>
       <bibl>
-	<hi rend="bold"> GAMS: </hi> Geisteswissenschaftliches Asset
-	Management System, 
-        <ref target="http://gams.uni-graz.at/">http://gams.uni-graz.at/</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__375">GAMS: Geisteswissenschaftliches Asset Management System, http://gams.uni-graz.at/</rs></bibl>
       <bibl>
-	<hi rend="bold"> GEOSPARQL – A Geographic Query Language for
-	RDF DATA </hi> (2012). Version 1.0 (eds.) OGC 
-        <ref target="https://www.opengeospatial.org/standards/geosparql">https://www.opengeospatial.org/standards/geosparql</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__4651">GEOSPARQL – A Geographic Query Language for RDF DATA (2012). Version 1.0 (eds.) OGC https://www.opengeospatial.org/standards/geosparql</rs></bibl>
       <bibl>
-	<hi rend="bold"> GML: Geographic Markup Language </hi> (2012) – Extended schemas and encoding rules. Version 3.3.0 (eds.) OGC 
-        <ref target="https://www.opengeospatial.org/standards/gml">https://www.opengeospatial.org/standards/gml</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__4652">GML: Geographic Markup Language (2012) – Extended schemas and encoding rules. Version 3.3.0 (eds.) OGC https://www.opengeospatial.org/standards/gml</rs></bibl>
       <bibl>
-	<hi rend="bold"> LIDO – Lightweight Information Describing
-	Objects </hi> (2010). Version 1.0 (eds.) Coburn, Erin et al. 
-        <ref target="http://www.lido-schema.org/schema/v1.0/lido-v1.0-specification.pdf">http://www.lido-schema.org/schema/v1.0/lido-v1.0-specification.pdf</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__4653">LIDO – Lightweight Information Describing Objects (2010). Version 1.0 (eds.) Coburn, Erin et al. http://www.lido-schema.org/schema/v1.0/lido-v1.0-specification.pdf</rs></bibl>
       <bibl>
-	<hi rend="bold"> Kralemann, B. / Lattmann, C. </hi> (2013):
-	„Models as icons: modeling models in the semiotic framework of Peirce’s theory of signs“ in: <hi rend="italic"> Synthese</hi> 190, 3397-3420.
-      </bibl>
+	<rs type="bibl" ref="#bibl__386">Kralemann, B. / Lattmann, C. (2013): „Models as icons: modeling models in the semiotic framework of Peirce’s theory of signs“ in: Synthese 190, 3397-3420.</rs></bibl>
       <bibl>
-	<hi rend="bold"> QGIS: </hi>
-        <ref target="https://www.qgis.org/de/site/">https://www.qgis.org/de/site/</ref>
-      </bibl>
+	<rs type="bibl" ref="#bibl__4654">QGIS: https://www.qgis.org/de/site/</rs></bibl>
       <bibl>
-	<hi rend="bold"> Rau, Susanne</hi> (2013): Räume, Wahrnehmungen, Nutzungen. Frankfurt/New York: Campus.</bibl>
+	<rs type="bibl" ref="#bibl__4655">Rau, Susanne (2013): Räume, Wahrnehmungen, Nutzungen. Frankfurt/New York: Campus.</rs></bibl>
 	<bibl>
-	  <hi rend="bold"> RDF – Resource Description Framework </hi> (2014) (eds.) W3C 
-          <ref target="https://www.w3.org/RDF/">https://www.w3.org/RDF/</ref>
-	</bibl>
+	  <rs type="bibl" ref="#bibl__4656">RDF – Resource Description Framework (2014) (eds.) W3C https://www.w3.org/RDF/</rs></bibl>
 	<bibl>
-	<hi rend="bold"> Scheuermann, Leif </hi> (2014): “Thoughts on a Web Based Co-productive Spatio-Temporal Information System” in: Rau, Susanne / Schönherr, Ekkehard (eds.): Mapping Spatial Relations, Their Perceptions and Danymics. Cham / Heidelberg / New York: Springer 17-23.</bibl>
+	<rs type="bibl" ref="#bibl__4657">Scheuermann, Leif (2014): “Thoughts on a Web Based Co-productive Spatio-Temporal Information System” in: Rau, Susanne / Schönherr, Ekkehard (eds.): Mapping Spatial Relations, Their Perceptions and Danymics. Cham / Heidelberg / New York: Springer 17-23.</rs></bibl>
 	<bibl>
-	  <hi rend="bold"> SOLR: Apache Solr. (eds.) </hi> Apache Software Foundation 
-          <ref target="https://lucene.apache.org/solr/">https://lucene.apache.org/solr/</ref>
-	</bibl>
+	  <rs type="bibl" ref="#bibl__4658">SOLR: Apache Solr. (eds.) Apache Software Foundation https://lucene.apache.org/solr/</rs></bibl>
 	<bibl>
-  <hi rend="bold"> SPARQL 1.1 Query Language </hi> (2013) (eds.) W3C 
-  <ref target="https://www.w3.org/TR/sparql11-query/">https://www.w3.org/TR/sparql11-query/</ref>
-	</bibl>
+  <rs type="bibl" ref="#bibl__4659">SPARQL 1.1 Query Language (2013) (eds.) W3C https://www.w3.org/TR/sparql11-query/</rs></bibl>
 	<bibl>
-	  <hi rend="bold"> TEI P5: Guidelines for Electronic Text
-	  Encoding and Interchange </hi> (2019). Version 3.6.0 (eds.) the TEI Consortium 
-          <ref target="https://tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf">https://tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf</ref>
-	</bibl>
+	  <rs type="bibl" ref="#bibl__4660">TEI P5: Guidelines for Electronic Text Encoding and Interchange (2019). Version 3.6.0 (eds.) the TEI Consortium https://tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf</rs></bibl>
     </listBibl>
   </div>
 </back>

@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Text Mining mit Open Semantic (Desktop) Search – eine digitalen Such- und Annotationsumgebung für informationsgetriebene Fragestellungen in den Geisteswissenschaften.</title><title type="conf_year">2019</title><author ref="#person__jwettla-gwdg-de">
+                <title>Text Mining mit Open Semantic (Desktop) Search – eine digitalen Such- und Annotationsumgebung für informationsgetriebene Fragestellungen in den Geisteswissenschaften.</title><title type="conf_year">2019</title>
+                <author ref="#person__jwettla-gwdg-de">
                     <persName>
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
@@ -85,7 +86,7 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.<rs type="bibl" ref="#bibl__3668">Das ist eine leere dhc Datei.</rs></bibl>
+                    <bibl style="text-align:left; ">Das ist eine leere dhc Datei.<rs type="bibl" ref="#bibl__1212">Das ist eine leere dhc Datei.</rs></bibl>
                 </listBibl>
             </div>
         </back>

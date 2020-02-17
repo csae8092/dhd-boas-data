@@ -183,72 +183,41 @@
     <listBibl>
       <head>Bibliographie</head>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Alam, Ian </hi> (2002): “An Exploratory Investigation of User Involvement in New Service Development.” Journal of the Academy of Marketing Science 30, no. 3 (June 1, 2002): 250.
-	<ptr target="https://doi.org/10.1177/0092070302303006"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4691">Alam, Ian (2002): “An Exploratory Investigation of User Involvement in New Service Development.” Journal of the Academy of Marketing Science 30, no. 3 (June 1, 2002): 250. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold">Calabretta, Giulia / Gerda Gemser /  Ingo Karpen</hi> (2016):
-	<hi rend="italic">Strategic Design: Eight Essential Practices Every Strategic Designer Must Master</hi>. Amsterdam: BIS.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4692">Calabretta, Giulia / Gerda Gemser / Ingo Karpen (2016): Strategic Design: Eight Essential Practices Every Strategic Designer Must Master. Amsterdam: BIS.</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Cremer, Fabian / Torsten Roeder / Sibylle Söring</hi> (2019): „Digital Humanities ‚from Scratch‘“, Juni. <ptr target="https://doi.org/10.5281/zenodo.3244179"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4693">Cremer, Fabian / Torsten Roeder / Sibylle Söring (2019): „Digital Humanities ‚from Scratch‘“, Juni. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Cross, Nigel / Design Research Society, Hrsg </hi> (1972): 
-	<hi rend="italic">Design participation: proceedings of the Design Research Society’s conference, Manchester, September 1971</hi>. London: Academy Editions.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4694">Cross, Nigel / Design Research Society, Hrsg (1972): Design participation: proceedings of the Design Research Society’s conference, Manchester, September 1971. London: Academy Editions.</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> International Association for Public Participation</hi> (2018): „IAP2 Spectrum of Public Participation“.
-	<ptr target="https://cdn.ymaws.com/www.iap2.org/resource/resmgr/pillars/Spectrum_8.5x11_Print.pdf"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4695">International Association for Public Participation (2018): „IAP2 Spectrum of Public Participation“. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Klein, Julia Elisabeth</hi> (2012): „Virtuelle Forschungsumgebungen als Entwicklungsfeld für Bibliotheken am Beispiel des ‚Deutschen Textarchivs‘“. Master’s Thesis, Humboldt-Universität zu Berlin, Philosophische Fakultät I.
-	<ptr target="https://doi.org/10.18452/14175"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4696">Klein, Julia Elisabeth (2012): „Virtuelle Forschungsumgebungen als Entwicklungsfeld für Bibliotheken am Beispiel des ‚Deutschen Textarchivs‘“. Master’s Thesis, Humboldt-Universität zu Berlin, Philosophische Fakultät I. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Kristensson, Per / Peter R. Magnusson /  Jonas Matthing</hi> (2002): “Users as a Hidden Resource for Creativity: Findings from an Experimental Study on User Involvement.” Creativity and Innovation Management 11, no. 1: 55–61.
-	<ptr target="https://doi.org/10.1111/1467-8691.00236"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4697">Kristensson, Per / Peter R. Magnusson / Jonas Matthing (2002): “Users as a Hidden Resource for Creativity: Findings from an Experimental Study on User Involvement.” Creativity and Innovation Management 11, no. 1: 55–61. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Kommission Zukunft der Informationsinfrastruktur</hi> (2011): „Gesamtkonzept für die Informationsinfrastruktur in Deutschland“, 254.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4698">Kommission Zukunft der Informationsinfrastruktur (2011): „Gesamtkonzept für die Informationsinfrastruktur in Deutschland“, 254.</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Kujala, Sari</hi> (2003): „User Involvement: A Review of the Benefits and Challenges“. 
-	<hi rend="italic">Behaviour &amp; Information Technology</hi> 22 (1): 1–16. <ptr target="https://doi.org/10.1080/01449290301782"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4699">Kujala, Sari (2003): „User Involvement: A Review of the Benefits and Challenges“. Behaviour &amp; Information Technology 22 (1): 1–16. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Mitchell, Val / Tracy Ros /  Andrew May /  Ruth Sims /  Christopher Parker</hi> (2016): „Empirical Investigation of the Impact of Using Co-Design Methods When Generating Proposals for Sustainable Travel Solutions“. 
-	<hi rend="italic">CoDesign</hi> 12 (4): 205–20. <ptr target="https://doi.org/10.1080/15710882.2015.1091894"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4700">Mitchell, Val / Tracy Ros / Andrew May / Ruth Sims / Christopher Parker (2016): „Empirical Investigation of the Impact of Using Co-Design Methods When Generating Proposals for Sustainable Travel Solutions“. CoDesign 12 (4): 205–20. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Muller, Michael J. /  Allison Druin</hi>: “Participatory Design: The Third Space in HCI,” n.d., 70.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4701">Muller, Michael J. / Allison Druin: “Participatory Design: The Third Space in HCI,” n.d., 70.</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold">UX Magazine </hi> (2017): “Participatory Design in Practice | UX Magazine”.
-	<ptr target="https://uxmag.com/articles/participatory-design-in-practice"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4702">UX Magazine (2017): “Participatory Design in Practice | UX Magazine”. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Sanders, Elizabeth B.-N. /  Pieter Jan Stappers</hi> (2008): „Co-Creation and the New Landscapes of Design“. 
-	<hi rend="italic">CoDesign</hi> 4 (1): 5–18. <ptr target="https://doi.org/10.1080/15710880701875068"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4703">Sanders, Elizabeth B.-N. / Pieter Jan Stappers (2008): „Co-Creation and the New Landscapes of Design“. CoDesign 4 (1): 5–18. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold">Sleeswijk Visser, Froukje /  Pieter Jan Stappers /  Remko van der Lugt /  Elizabeth B.-N. Sanders</hi> (2005): “Contextmapping: Experiences from Practice.” CoDesign 1, no. 2 (April 2005): 119–49.
-	<ptr targe="https://doi.org/10.1080/15710880500135987"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4704">Sleeswijk Visser, Froukje / Pieter Jan Stappers / Remko van der Lugt / Elizabeth B.-N. Sanders (2005): “Contextmapping: Experiences from Practice.” CoDesign 1, no. 2 (April 2005): 119–49. .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Steen, Marc /  Menno Manchot /  Nicole De Koning</hi> (2011): „Benefits of Co-design in Service Design Projects“. 
-	<hi rend="italic">International Journal of Design</hi> 5 (3). <ptr target="http://www.ijdesign.org/index.php/IJDesign/article/view/890/346"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4705">Steen, Marc / Menno Manchot / Nicole De Koning (2011): „Benefits of Co-design in Service Design Projects“. International Journal of Design 5 (3). .</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Stickdorn, Marc / Markus Hormess / Adam Lawrence /  Jakob Schneider, Hrsg.</hi> (2018): 
-	<hi rend="italic">This Is Service Design Doing: Applying Service Design Thinking in the Real World; a Practitioners` Handbook</hi>. First edition. Sebastapol, CA: O’Reilly.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4706">Stickdorn, Marc / Markus Hormess / Adam Lawrence / Jakob Schneider, Hrsg. (2018): This Is Service Design Doing: Applying Service Design Thinking in the Real World; a Practitioners` Handbook. First edition. Sebastapol, CA: O’Reilly.</rs></bibl>
       <bibl rend="Bibliography">
-	<hi rend="bold"> Tomitsch, Martin /  Cara Wrigley / Madeleine Borthwick / Naseem Ahmadpour / Jessica Frawley / A. Baki Kocaballi / Claudia Núñez-Pacheco / Karla Straker /  Lian Loke </hi>  (2018): 
-	<hi rend="italic" style="font-family:Calibri Light;font-size:10pt">Design. Think. Make. Break. Repeat: A Handbook of Methods</hi>. Amsterdam: BIS Publishers B.V.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4707">Tomitsch, Martin / Cara Wrigley / Madeleine Borthwick / Naseem Ahmadpour / Jessica Frawley / A. Baki Kocaballi / Claudia Núñez-Pacheco / Karla Straker / Lian Loke (2018): Design. Think. Make. Break. Repeat: A Handbook of Methods. Amsterdam: BIS Publishers B.V.</rs></bibl>
        <bibl rend="Bibliography">
-      <hi rend="bold"> Woods, Leana / Elizabeth Cummings / Jed Duff /  Kim Walker</hi> (2017): “Design Thinking for MHealth Application Co-Design to Support Heart Failure Self-Management.” In Context Sensitive Health Informatics: Redesigning Healthcare Work. IOS Press.</bibl>
+      <rs type="bibl" ref="#bibl__4708">Woods, Leana / Elizabeth Cummings / Jed Duff / Kim Walker (2017): “Design Thinking for MHealth Application Co-Design to Support Heart Failure Self-Management.” In Context Sensitive Health Informatics: Redesigning Healthcare Work. IOS Press.</rs></bibl>
     </listBibl>
   </div>
 </back>

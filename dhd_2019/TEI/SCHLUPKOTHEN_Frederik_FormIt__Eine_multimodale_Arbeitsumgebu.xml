@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title><title type="conf_year">2019</title><author ref="#person__schlupko-uni-wuppertal-de">
+                <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title><title type="conf_year">2019</title>
+                <author ref="#person__schlupko-uni-wuppertal-de">
                     <persName>
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
@@ -120,35 +121,35 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3849">Barwise, Jon / Perry, John (1983): Situations and Attitudes. Cambridge: Bradford Book, MIT Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1506">Barwise, Jon / Perry, John (1983): Situations and Attitudes. Cambridge: Bradford Book, MIT Press.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3850">Bauer Lucca, Eva (2001): Versteckte Spuren: eine intertextuelle Annäherung an Thomas Manns Roman “Doktor Faustus”. Wiesbaden: Deutscher Universitätsverlag.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1507">Bauer Lucca, Eva (2001): Versteckte Spuren: eine intertextuelle Annäherung an Thomas Manns Roman “Doktor Faustus”. Wiesbaden: Deutscher Universitätsverlag.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3851">Buß, Angelika (2006): Intertextualität als Herausforderung für den Literaturunterricht. Am Beispiel von Patrick Süßkinds Das Parfum. Frankfurt a. M. u.a.: Peter Lang.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1508">Buß, Angelika (2006): Intertextualität als Herausforderung für den Literaturunterricht. Am Beispiel von Patrick Süßkinds Das Parfum. Frankfurt a. M. u.a.: Peter Lang.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3852">Devlin, Keith J. (1990): Logic and Information. Cambridge: Cambridge University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1509">Devlin, Keith J. (1990): Logic and Information. Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__185">Genette, Gérard (1993): Palimpseste. Die Literatur auf zweiter Stufe. Frankfurt a. M.: Suhrkamp.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__224">Genette, Gérard (1993): Palimpseste. Die Literatur auf zweiter Stufe. Frankfurt a. M.: Suhrkamp.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3853">Heilmann, Iris (1998): Günter Grass und John Irving. Eine transatlantische Intertextualitätsstudie. Frankfurt a. M. u.a.: Peter Lang.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1510">Heilmann, Iris (1998): Günter Grass und John Irving. Eine transatlantische Intertextualitätsstudie. Frankfurt a. M. u.a.: Peter Lang.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3854">Huber, Martin / Krämer, Sybille (2018): “Dimensionen digitaler Geisteswissenschaften”, in: Huber, Martin / Krämer Sybille (eds.): Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften; 3) DOI: 10.17175/sb003_013.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1511">Huber, Martin / Krämer, Sybille (2018): “Dimensionen digitaler Geisteswissenschaften”, in: Huber, Martin / Krämer Sybille (eds.): Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften; 3) DOI: 10.17175/sb003_013.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3855">Kocher, Ursula (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): Ästhetische Erfahrung und Edition. Tübingen: Max Niemeyer, 175–185.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1512">Kocher, Ursula (2007): “Im Gewirr der Fäden: Intertextualitätstheorie und Edition”, in: Falk, Rainer / Mattenklott, Gert (eds.): Ästhetische Erfahrung und Edition. Tübingen: Max Niemeyer, 175–185.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__186">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth (2009): “Ontology-based situation awareness”, in: Information Fusion 10, 1. St. Louis, MO, USA: Elsevier, 83–98.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__225">Kokar, Mieczyslaw M. / Matheus, Christopher J. / Baclawski, Kenneth (2009): “Ontology-based situation awareness”, in: Information Fusion 10, 1. St. Louis, MO, USA: Elsevier, 83–98.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3856">Maler, Eve / Walsh, Norman / Orchard, David / DeRose, Steven (2010): „XML Linking Language (XLink) Version 1.1“. W3C Recommendation. https://www.w3.org/TR/2010/REC-xlink11-20100506/.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1513">Maler, Eve / Walsh, Norman / Orchard, David / DeRose, Steven (2010): „XML Linking Language (XLink) Version 1.1“. W3C Recommendation. https://www.w3.org/TR/2010/REC-xlink11-20100506/.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3857">Nantke, Julia / Schlupkothen, Frederik (2018): “Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web”, in: Konferenzabstracts DHd 2018 Kritik der digitalen Vernunft http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf, 345–349.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1514">Nantke, Julia / Schlupkothen, Frederik (2018): “Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web”, in: Konferenzabstracts DHd 2018 Kritik der digitalen Vernunft http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf, 345–349.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3858">Schulte-Middelich, Bernd (1985): “Funktionen intertextueller Textkonstitution”, in: Ulrich Broich, Manfred Pfister (eds.): Intertextualität. Formen, Funktionen, anglistische Fallstudien. Tübingen: Niemeyer, 197–242.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1515">Schulte-Middelich, Bernd (1985): “Funktionen intertextueller Textkonstitution”, in: Ulrich Broich, Manfred Pfister (eds.): Intertextualität. Formen, Funktionen, anglistische Fallstudien. Tübingen: Niemeyer, 197–242.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3859">Seaborne, Andy / Harris, Steven (2013): “SPARQL 1.1 Query Language. W3C Recommendation”. https://www.w3.org/TR/2013/REC-sparql11-query-20130321/.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1516">Seaborne, Andy / Harris, Steven (2013): “SPARQL 1.1 Query Language. W3C Recommendation”. https://www.w3.org/TR/2013/REC-sparql11-query-20130321/.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3860">Spoerhase, Carlos (2015): “Das ‚Laboratorium‘ der Philologie? Das philologische Seminar als Raum der Vermittlung von Praxiswissen (circa 1850–1900)”, in: Andrea Albrecht, Lutz Danneberg, Olav Krämer und Carlos Spoerhase (eds.): Theorien, Methoden und Praktiken des Interpretierens. Berlin/München/Boston: De Gruyter, 53–80.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1517">Spoerhase, Carlos (2015): “Das ‚Laboratorium‘ der Philologie? Das philologische Seminar als Raum der Vermittlung von Praxiswissen (circa 1850–1900)”, in: Andrea Albrecht, Lutz Danneberg, Olav Krämer und Carlos Spoerhase (eds.): Theorien, Methoden und Praktiken des Interpretierens. Berlin/München/Boston: De Gruyter, 53–80.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3861">Verweyen, Theodor / Wittig, Gunther (2010): Einfache Formen der Intertextualität: Theoretische Überlegungen und historische Untersuchungen. Paderborn: mentis.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1518">Verweyen, Theodor / Wittig, Gunther (2010): Einfache Formen der Intertextualität: Theoretische Überlegungen und historische Untersuchungen. Paderborn: mentis.</rs></bibl>
                 </listBibl>
             </div>
         </back>

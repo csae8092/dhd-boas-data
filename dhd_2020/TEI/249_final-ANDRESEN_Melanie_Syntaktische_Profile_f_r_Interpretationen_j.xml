@@ -567,82 +567,41 @@ und Objektrelationen
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Adelmann, Benedikt / Franken, Lina</hi> (2020): Thematic web crawling and scraping as a way to form focussed web archives, in: 
-                        <hi rend="italic">Engaging with Web Archives Conference Book of Abstracts</hi>. To be published at  
-                        <ref target="https://ewaconference.com/">https://ewaconference.com/</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5524">Adelmann, Benedikt / Franken, Lina (2020): Thematic web crawling and scraping as a way to form focussed web archives, in: Engaging with Web Archives Conference Book of Abstracts. To be published at https://ewaconference.com/.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Andresen, Melanie</hi> (2018): Sprachliche Variation in der Germanistik: eine n-Gramm-basierte Stilanalyse, in: 
-                        <hi rend="italic">Book of Abstracts of DHd 2018</hi>. Köln, Deutschland, 311–15.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5525">Andresen, Melanie (2018): Sprachliche Variation in der Germanistik: eine n-Gramm-basierte Stilanalyse, in: Book of Abstracts of DHd 2018. Köln, Deutschland, 311–15.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Andresen, Melanie / Zinsmeister, Heike</hi> (2017): The benefit of syntactic vs. linear n-grams for linguistic description, in: 
-                        <hi rend="italic">Proceedings of the 4th International Conference on Dependency Linguistics (Depling 2017).</hi> Pisa, Italy, 4–14 http://aclweb.org/anthology/W17-6503.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5526">Andresen, Melanie / Zinsmeister, Heike (2017): The benefit of syntactic vs. linear n-grams for linguistic description, in: Proceedings of the 4th International Conference on Dependency Linguistics (Depling 2017). Pisa, Italy, 4–14 http://aclweb.org/anthology/W17-6503.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">van Atteveldt, Wouter / Kleinnijenhuis, Jan / Ruigrok, Nel</hi> (2008): Parsing, Semantic Networks, and Political Authority Using Syntactic Analysis to Extract Semantic Relations from Dutch Newspaper Articles, in: 
-                        <hi rend="italic">Political Analysis</hi>, 16(4): 428–46 doi:10.1093/pan/mpn006.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5527">van Atteveldt, Wouter / Kleinnijenhuis, Jan / Ruigrok, Nel (2008): Parsing, Semantic Networks, and Political Authority Using Syntactic Analysis to Extract Semantic Relations from Dutch Newspaper Articles, in: Political Analysis, 16(4): 428–46 doi:10.1093/pan/mpn006.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Blessing, Andre / Sonntag, Jonathan / Kliche, Fritz / Heid, Ulrich / Kuhn, Jonas / Stede, Manfred</hi> (2013): Towards a Tool for Interactive Concept Building for Large Scale Analysis in the Humanities, in: 
-                        <hi rend="italic">Proceedings of the 7th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</hi>. 55–64 https://www.aclweb.org/anthology/W13-2708.
-                    </bibl>
+<rs type="bibl" ref="#bibl__269">Blessing, Andre / Sonntag, Jonathan / Kliche, Fritz / Heid, Ulrich / Kuhn, Jonas / Stede, Manfred (2013): Towards a Tool for Interactive Concept Building for Large Scale Analysis in the Humanities, in: Proceedings of the 7th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities. 55–64 https://www.aclweb.org/anthology/W13-2708.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" xml:space="preserve">Bohnet, Bernd </hi>(2010): Very High Accuracy and Fast Dependency Parsing is not a Contradiction, in: 
-                        <hi rend="italic">Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010).</hi> Beijing, China, 89–97. https://www.aclweb.org/anthology/C10-1011
-                    </bibl>
+<rs type="bibl" ref="#bibl__390">Bohnet, Bernd (2010): Very High Accuracy and Fast Dependency Parsing is not a Contradiction, in: Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010). Beijing, China, 89–97. https://www.aclweb.org/anthology/C10-1011</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Dunning, Ted</hi> (1993): Accurate Methods for the Statistics of Surprise and Coincidence, in: 
-                        <hi rend="italic">Computational Linguistics</hi>, 19(1): 61–74. https://www.aclweb.org/anthology/J93-1003
-                    </bibl>
+<rs type="bibl" ref="#bibl__5528">Dunning, Ted (1993): Accurate Methods for the Statistics of Surprise and Coincidence, in: Computational Linguistics, 19(1): 61–74. https://www.aclweb.org/anthology/J93-1003</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Evert, Stefan</hi> (2008): Corpora and collocations, in: Lüdeling, Anke / Kytö, Merja (Hg.), 
-                        <hi rend="italic">Corpus linguistics: an International Handbook</hi>, Vol. 2. (Handbücher zur Sprach- und Kommunikationswissenschaft 29). Berlin, Boston: De Gruyter, 1212–1248.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5529">Evert, Stefan (2008): Corpora and collocations, in: Lüdeling, Anke / Kytö, Merja (Hg.), Corpus linguistics: an International Handbook, Vol. 2. (Handbücher zur Sprach- und Kommunikationswissenschaft 29). Berlin, Boston: De Gruyter, 1212–1248.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Foth, Kilian A. / Köhn, Arne / Beuck, Niels / Menzel, Wolfgang</hi> (2014): Because Size Does Matter: The Hamburg Dependency Treebank, in: 
-                        <hi rend="italic">Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14)</hi>, 2326–2333. Reykjavik, Iceland. 
-                        <ref target="http://www.lrec-conf.org/proceedings/lrec2014/pdf/860_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2014/pdf/860_Paper.pdf</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5530">Foth, Kilian A. / Köhn, Arne / Beuck, Niels / Menzel, Wolfgang (2014): Because Size Does Matter: The Hamburg Dependency Treebank, in: Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC’14), 2326–2333. Reykjavik, Iceland. http://www.lrec-conf.org/proceedings/lrec2014/pdf/860_Paper.pdf.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Gaidys, Uta / Gius, Evelyn / Jarchow, Margarete / Koch, Gertraud / Menzel, Wolfgang / Orth, Dominik / Zinsmeister, Heike</hi> (2017): hermA: Automated modelling of hermeneutic processes, in: 
-                        <hi rend="italic">Hamburger Journal für Kulturanthropologie</hi>(7): 119–23.
-                    </bibl>
+<rs type="bibl" ref="#bibl__89">Gaidys, Uta / Gius, Evelyn / Jarchow, Margarete / Koch, Gertraud / Menzel, Wolfgang / Orth, Dominik / Zinsmeister, Heike (2017): hermA: Automated modelling of hermeneutic processes, in: Hamburger Journal für Kulturanthropologie(7): 119–23.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Geyken, Alexander</hi> (2011): Statistische Wortprofile zur schnellen Analyse der Syntagmatik in Textkorpora, in: Abel, Andrea / Zanin, Renata (Hg.), 
-                        <hi rend="italic">Korpora in Lehre und Forschung</hi>. Bozen: Bolzano Univ. Press, 129–54.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5531">Geyken, Alexander (2011): Statistische Wortprofile zur schnellen Analyse der Syntagmatik in Textkorpora, in: Abel, Andrea / Zanin, Renata (Hg.), Korpora in Lehre und Forschung. Bozen: Bolzano Univ. Press, 129–54.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Googasian, Victoria / Heuser, Ryan J.</hi> (2019): Digital Animal Studies: Modeling Anthropomorphism in Animal Writing, 1870-1930, in: 
-                        <hi rend="italic">Book of Abstracts of DH 2019</hi> https://dev.clariah.nl/files/dh2019/boa/0458.html.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5532">Googasian, Victoria / Heuser, Ryan J. (2019): Digital Animal Studies: Modeling Anthropomorphism in Animal Writing, 1870-1930, in: Book of Abstracts of DH 2019 https://dev.clariah.nl/files/dh2019/boa/0458.html.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kilgarriff, Adam / Baisa, Vít / Bušta, Jan / Jakubíček, Miloš / Kovář, Vojtěch / Michelfeit, Jan, Rychlý / Pavel. / Suchomel, Vít</hi> (2014): The Sketch Engine: ten years on, in: 
-                        <hi rend="italic">Lexicography</hi>, 1(1): 7–36 doi:10.1007/s40607-014-0009-9.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5533">Kilgarriff, Adam / Baisa, Vít / Bušta, Jan / Jakubíček, Miloš / Kovář, Vojtěch / Michelfeit, Jan, Rychlý / Pavel. / Suchomel, Vít (2014): The Sketch Engine: ten years on, in: Lexicography, 1(1): 7–36 doi:10.1007/s40607-014-0009-9.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kilgarriff, Adam / Rychlý, Pavel / Smrz, Pavel / Tugwell, David</hi> (2004): The Sketch Engine: in: 
-                        <hi rend="italic">Proceedings of the 11th EURALEX International Congress</hi>. 105–15 https://euralex.org/publications/the-sketch-engine/.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5534">Kilgarriff, Adam / Rychlý, Pavel / Smrz, Pavel / Tugwell, David (2004): The Sketch Engine: in: Proceedings of the 11th EURALEX International Congress. 105–15 https://euralex.org/publications/the-sketch-engine/.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kleinnijenhuis, Jan / van Atteveldt, Wouter</hi> (2014): Positions of Parties and Political Cleavages between Parties in Texts, in: Kaal, Bertie / Maks, Isa / van Elfrinkhof, Annemarie (Hg.), 
-                        <hi rend="italic">Discourse Approaches to Politics, Society and Culture</hi>, Vol. 55. Amsterdam: Benjamins, 1–20 doi:10.1075/dapsac.55.01kle. 
-                    </bibl>
+<rs type="bibl" ref="#bibl__5535">Kleinnijenhuis, Jan / van Atteveldt, Wouter (2014): Positions of Parties and Political Cleavages between Parties in Texts, in: Kaal, Bertie / Maks, Isa / van Elfrinkhof, Annemarie (Hg.), Discourse Approaches to Politics, Society and Culture, Vol. 55. Amsterdam: Benjamins, 1–20 doi:10.1075/dapsac.55.01kle.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Koch, Gertraud / Franken, Lina</hi> (im Druck): Automatisierungspotenziale in der qualitativen Diskursanalyse. Das Prinzip des Filterns, in: Schilling, Samuel / Klimczak, Peter (Hg.): 
-                        <hi rend="italic">Die Gesellschaft im Spiegellabyrinth sozialer Medien.</hi> Wiesbaden.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5536">Koch, Gertraud / Franken, Lina (im Druck): Automatisierungspotenziale in der qualitativen Diskursanalyse. Das Prinzip des Filterns, in: Schilling, Samuel / Klimczak, Peter (Hg.): Die Gesellschaft im Spiegellabyrinth sozialer Medien. Wiesbaden.</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold">Sinclair, Stéfan / Rockwell, Geoffrey</hi> (2016):
-  Voyant Tools. Web.
-  <ptr target="http://voyant-tools.org/"/>. 
-</bibl>
+  <rs type="bibl" ref="#bibl__430">Sinclair, Stéfan / Rockwell, Geoffrey (2016): Voyant Tools. Web. .</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold">Wüest, Bruno / Clematide, Simon / Bünzli, Alexandra / Laupper, Daniel</hi> (2011): Semi-Automatic Core Sentence Analysis: Improving Content Analysis for Electoral Campaign Research, in: 
-  <hi rend="italic">International Relations Online Working
-  Paper</hi>(1).
-  <ref target="https://www.sowi.uni-stuttgart.de/dokumente/forschung/irowp/IROWP_Series_2011_1_Wueest_Clematide_Buenzli_Laupper_Content_Analysis.pdf">https://www.sowi.uni-stuttgart.de/dokumente/forschung/irowp/IROWP_Series_2011_1_Wueest_Clematide_Buenzli_Laupper_Content_Analysis.pdf</ref>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5537">Wüest, Bruno / Clematide, Simon / Bünzli, Alexandra / Laupper, Daniel (2011): Semi-Automatic Core Sentence Analysis: Improving Content Analysis for Electoral Campaign Research, in: International Relations Online Working Paper(1). https://www.sowi.uni-stuttgart.de/dokumente/forschung/irowp/IROWP_Series_2011_1_Wueest_Clematide_Buenzli_Laupper_Content_Analysis.pdf.</rs></bibl>
 </listBibl>
 </div>
 </back>

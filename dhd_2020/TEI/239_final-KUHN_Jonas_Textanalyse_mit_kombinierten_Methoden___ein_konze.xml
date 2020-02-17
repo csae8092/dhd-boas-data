@@ -194,194 +194,57 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Allison, Sarah / Heuser, Ryan / Jockers, Matthew / Moretti, Franco / Witmore, Michael</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2011): "Quantitative Formalism: An Experiment", in: </hi>
-<hi rend="italic" style="font-size:10pt">Pamphlets of the Stanford Literary Lab</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 1.. http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf [Letzter Zugriff: 05.01.2020]</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4729">Allison, Sarah / Heuser, Ryan / Jockers, Matthew / Moretti, Franco / Witmore, Michael (2011): "Quantitative Formalism: An Experiment", in: Pamphlets of the Stanford Literary Lab 1.. http://litlab.stanford.edu/LiteraryLabPamphlet1.pdf [Letzter Zugriff: 05.01.2020]</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2015): "Collaborative Text Annotation Meets Machine Learning: heureCLÉA, a Digital Heuristic of Narrative", in: </hi>
-<hi rend="italic" style="font-size:10pt">DHCommons Journal</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 1 10.5281/zenodo.3240591</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__317">Bögel, Thomas / Gertz, Michael / Gius, Evelyn / Jacke, Janina / Meister, Jan Christoph / Petris, Marco / Strötgen, Jannik (2015): "Collaborative Text Annotation Meets Machine Learning: heureCLÉA, a Digital Heuristic of Narrative", in: DHCommons Journal 1 10.5281/zenodo.3240591</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Butt, Miriam / Hautli-Janisz, Annette / Lyding, Verena</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2020): </hi>
-<hi rend="italic" style="font-size:10pt">LingVis: Visual Analytics for Linguistics</hi>
-<hi style="font-size:10pt">. CSLI lecture notes. Stanford: CSLI Publications.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4730">Butt, Miriam / Hautli-Janisz, Annette / Lyding, Verena (2020): LingVis: Visual Analytics for Linguistics . CSLI lecture notes. Stanford: CSLI Publications.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Danneberg, Lutz / Albrecht, Andrea </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2017): "Beobachtungen zu den Voraussetzungen des hypothetisch-deduktiven und des hypothetisch-induktiven Argumentierens im Rahmen einer hermeneutischen Konzeption der Textinterpretation", in: </hi>
-<hi rend="italic" style="font-size:10pt">Journal of Literary Theory</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 10(1): 1–37.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4731">Danneberg, Lutz / Albrecht, Andrea (2017): "Beobachtungen zu den Voraussetzungen des hypothetisch-deduktiven und des hypothetisch-induktiven Argumentierens im Rahmen einer hermeneutischen Konzeption der Textinterpretation", in: Journal of Literary Theory 10(1): 1–37.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Deck, Klaus-Georg</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2018): "Digital Humanities – Eine Herausforderung an die Informatik und an die Geisteswissenschaften", in: Huber, Martin / Krämer, Sybille (eds.): </hi>
-<hi rend="italic" style="font-size:10pt">Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden.</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3). PDF Format ohne Paginierung. 10.17175/sb003_002.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__407">Deck, Klaus-Georg (2018): "Digital Humanities – Eine Herausforderung an die Informatik und an die Geisteswissenschaften", in: Huber, Martin / Krämer, Sybille (eds.): Wie Digitalität die Geisteswissenschaften verändert: Neue Forschungsgegenstände und Methoden. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 3). PDF Format ohne Paginierung. 10.17175/sb003_002.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">El-Assady, Mennatallah / Jentner, Wolfgang / Sperrle, Fabian / Sevastjanova, Rita / Hautli-Janisz, Annette / Butt, Miriam / Keim, Daniel A.</hi>
-<hi rend="color(2E414F)" style="font-size:10pt" xml:space="preserve"> (2019):</hi>
-<hi style="font-size:10pt" xml:space="preserve"> "</hi>
-<hi rend="color(2E414F)" style="font-size:10pt">lingvis.io - A Linguistic Visual Analytics Framework</hi>
-<hi style="font-size:10pt">"</hi>
-<hi rend="color(2E414F)" style="font-size:10pt" xml:space="preserve">, in: </hi>
-<hi rend="italic" style="font-size:10pt">Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations</hi>
-<hi rend="color(2E414F)" style="font-size:10pt" xml:space="preserve"> 13-18.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4732">El-Assady, Mennatallah / Jentner, Wolfgang / Sperrle, Fabian / Sevastjanova, Rita / Hautli-Janisz, Annette / Butt, Miriam / Keim, Daniel A. (2019): " lingvis.io - A Linguistic Visual Analytics Framework " , in: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations 13-18.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">El Khatib, Randa / Wrisley, David J. / Elbassuoni, Shady / Jaber, Mohamad / El Zini, Julia</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2019): "Prototyping Across the Disciplines"</hi>
-<hi rend="color(2E414F)" style="font-size:10.5pt">,</hi>
-<hi style="font-size:10pt" xml:space="preserve"> in: </hi>
-<hi rend="italic" style="font-size:10pt">Digital Studies/le Champ Numérique</hi>
-<hi style="font-size:10pt">, 8(1), 10 10.16995/dscn.282</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4733">El Khatib, Randa / Wrisley, David J. / Elbassuoni, Shady / Jaber, Mohamad / El Zini, Julia (2019): "Prototyping Across the Disciplines" , in: Digital Studies/le Champ Numérique , 8(1), 10 10.16995/dscn.282</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Gius, Evelyn / Jacke, Janina</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2017): „The Hermeneutic Profit of Annotation. On preventing and fostering disagreement in literary text analysis”, in: </hi>
-<hi rend="italic" style="font-size:10pt">International Journal of Humanities and Arts Computing</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 11(2): 233–254.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__372">Gius, Evelyn / Jacke, Janina (2017): „The Hermeneutic Profit of Annotation. On preventing and fostering disagreement in literary text analysis”, in: International Journal of Humanities and Arts Computing 11(2): 233–254.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Ihde, Don </hi>
-<hi style="font-size:10pt" xml:space="preserve">(1998): </hi>
-<hi rend="italic" style="font-size:10pt">Expanding Hermeneutics: Visualism in Science</hi>
-<hi style="font-size:10pt">, Evanston, Ill.: Northwestern University Press.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4734">Ihde, Don (1998): Expanding Hermeneutics: Visualism in Science , Evanston, Ill.: Northwestern University Press.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Jänicke, Stefan </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2016): </hi>
-<hi rend="italic" style="font-size:10pt">Close and Distant Reading Visualizations for the Comparative Analysis of Digital Humanities Data</hi>
-<hi style="font-size:10pt" xml:space="preserve">. Dissertation, Universität Leipzig. </hi>
-<ref target="http://www.informatik.uni-leipzig.de/~stjaenicke/dissertation.pdf">http://www.informatik.uni-leipzig.de/~stjaenicke/dissertation.pdf</ref>
-<hi style="font-size:10pt" xml:space="preserve"> [Letzter Zugriff: 05.01.2020]</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__408">Jänicke, Stefan (2016): Close and Distant Reading Visualizations for the Comparative Analysis of Digital Humanities Data . Dissertation, Universität Leipzig. http://www.informatik.uni-leipzig.de/~stjaenicke/dissertation.pdf [Letzter Zugriff: 05.01.2020]</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Heyer, Gerhard / Niekler, Andreas / Wiedemann, Gregor</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2014): "Brauchen die Digital Humanities eine eigene Methodologie? Überlegungen zur systematischen Nutzung von Text Mining Verfahren in einem politikwissenschaftlichen Projekt", in: </hi>
-<hi rend="italic" style="font-size:10pt">1. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2014)</hi>
-<ref target="http://asv.informatik.uni-leipzig.de/publication/file/255/Heyer-Brauchen_die_Digital_Humanities_eine_eigene_Methodologie__berlegungen-1451050.pdf">http://asv.informatik.uni-leipzig.de/publication/file/255/Heyer-Brauchen_die_Digital_Humanities_eine_eigene_Methodologie__berlegungen-1451050.pdf</ref>
-<hi style="font-size:10pt" xml:space="preserve"> [Letzter Zugriff: 05.01.2020]</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4735">Heyer, Gerhard / Niekler, Andreas / Wiedemann, Gregor (2014): "Brauchen die Digital Humanities eine eigene Methodologie? Überlegungen zur systematischen Nutzung von Text Mining Verfahren in einem politikwissenschaftlichen Projekt", in: 1. Jahrestagung der Digital Humanities im deutschsprachigen Raum (DHd 2014) http://asv.informatik.uni-leipzig.de/publication/file/255/Heyer-Brauchen_die_Digital_Humanities_eine_eigene_Methodologie__berlegungen-1451050.pdf [Letzter Zugriff: 05.01.2020]</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Hovy, Eduard / Lavid, Julia</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2010): "Towards a ‘science’ of corpus annotation: a new methodological challenge for corpus linguistics", in: International Journal of Translation</hi>
-<hi rend="italic" style="font-size:10pt" xml:space="preserve">, </hi>
-<hi style="font-size:10pt">22(1): 13–36.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4736">Hovy, Eduard / Lavid, Julia (2010): "Towards a ‘science’ of corpus annotation: a new methodological challenge for corpus linguistics", in: International Journal of Translation , 22(1): 13–36.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Kuhn, Jonas </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2019): "Computational text analysis within the humanities: How to combine working practices from the contributing fields?", in: </hi>
-<hi rend="italic" style="font-size:10pt">Language Resources &amp; Evaluation</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 53: 565–602 </hi>
-<ref target="https://doi.org/10.1007/s10579-019-09459-3">
-<hi rend="underline color(1155CC)" style="font-size:10pt">https://doi.org/10.1007/s10579-019-09459-3</hi>
-</ref>
-<hi style="font-size:10pt">.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4737">Kuhn, Jonas (2019): "Computational text analysis within the humanities: How to combine working practices from the contributing fields?", in: Language Resources &amp; Evaluation 53: 565–602 https://doi.org/10.1007/s10579-019-09459-3 .</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Kuhn, Jonas / Reiter, Nils </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2015): "A plea for a method-driven agenda in the Digital Humanities“, in: </hi>
-<hi rend="italic" style="font-size:10pt" xml:space="preserve">Proceedings of Digital Humanities 2015, Sydney, Australia, </hi>
-<hi style="font-size:10pt">(</hi>
-<hi rend="italic" style="font-size:10pt">June 2015</hi>
-<hi style="font-size:10pt">).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__315">Kuhn, Jonas / Reiter, Nils (2015): "A plea for a method-driven agenda in the Digital Humanities“, in: Proceedings of Digital Humanities 2015, Sydney, Australia, ( June 2015 ).</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Kuhn, Jonas / Pichler, Axel / Reiter, Nils</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (eds.) (erscheint): </hi>
-<hi rend="italic" style="font-size:10pt" xml:space="preserve">Reflektierte algorithmische Textanalyse: Interdisziplinäre(s) Arbeiten in der CRETA-Werkstatt. </hi>
-<hi style="font-size:10pt">Berlin: de Gruyter.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4738">Kuhn, Jonas / Pichler, Axel / Reiter, Nils (eds.) (erscheint): Reflektierte algorithmische Textanalyse: Interdisziplinäre(s) Arbeiten in der CRETA-Werkstatt. Berlin: de Gruyter.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Krautter, Benjamin / Pagel, Janis / Reiter, Nils / Willand, Marcus </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2018): "Titelhelden und Protagonisten – Interpretierbare Figurenklassifikation in deutschsprachigen Dramen", in: LitLab Pamphlets 7. </hi>
-<ref target="https://www.digitalhumanitiescooperation.de/wp-content/uploads/2018/12/p07_krautter_et_al.pdf">
-<hi rend="underline color(1155CC)" style="font-size:10pt">https://www.digitalhumanitiescooperation.de/wp-content/uploads/2018/12/p07_krautter_et_al.pdf</hi>
-</ref>
-<hi style="font-size:10pt" xml:space="preserve"> [Letzter Zugriff: 05.01.2020].</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__146">Krautter, Benjamin / Pagel, Janis / Reiter, Nils / Willand, Marcus (2018): "Titelhelden und Protagonisten – Interpretierbare Figurenklassifikation in deutschsprachigen Dramen", in: LitLab Pamphlets 7. https://www.digitalhumanitiescooperation.de/wp-content/uploads/2018/12/p07_krautter_et_al.pdf [Letzter Zugriff: 05.01.2020].</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Krautter, Benjamin / Pagel, Janis</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2019): "Klassifikation von Titelfiguren in deutschsprachigen Dramen und Evaluation am Beispiel von Lessings ‘Emilia Galotti’," in: </hi>
-<hi rend="italic" style="font-size:10pt">Konferenzabstracts DHd 2019 Digital Humanities: multimedial &amp; multimodal, Frankfurt am Main, März 2019</hi>
-<hi style="font-size:10pt">.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4739">Krautter, Benjamin / Pagel, Janis (2019): "Klassifikation von Titelfiguren in deutschsprachigen Dramen und Evaluation am Beispiel von Lessings ‘Emilia Galotti’," in: Konferenzabstracts DHd 2019 Digital Humanities: multimedial &amp; multimodal, Frankfurt am Main, März 2019 .</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Pagel, Janis / Reiter, Nils / Rösiger, Ina / Schulz, Sarah</hi>
-<hi rend="color(272727)" style="font-size:10pt" xml:space="preserve"> (2018)</hi>
-<hi rend="color(272727) background(white)" style="font-size:10pt" xml:space="preserve">: </hi>
-<hi style="font-size:10pt">"</hi>
-<hi rend="color(272727)" style="font-size:10pt">A Unified Annotation Workflow for Diverse Goals</hi>
-<hi style="font-size:10pt">"</hi>
-<hi rend="color(272727)" style="font-size:10pt">, in:</hi>
-<hi rend="color(272727) background(white)" style="font-size:10pt" xml:space="preserve"> Kübler, </hi>
-<hi rend="color(272727)" style="font-size:10pt">Sandra / Zinsmeister, Heike (eds.)</hi>
-<hi rend="color(272727) background(white)" style="font-size:10pt" xml:space="preserve">: </hi>
-<hi rend="italic" style="font-size:10pt">Proceedings of the Workshop on Annotation in Digital Humanities, co-located with ESSLLI 2018</hi>
-<hi rend="color(272727) background(white)" style="font-size:10pt">.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4740">Pagel, Janis / Reiter, Nils / Rösiger, Ina / Schulz, Sarah (2018) : " A Unified Annotation Workflow for Diverse Goals " , in: Kübler, Sandra / Zinsmeister, Heike (eds.) : Proceedings of the Workshop on Annotation in Digital Humanities, co-located with ESSLLI 2018 .</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Pustejovsky, James / Stubbs, Amber </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2012). </hi>
-<hi rend="italic" style="font-size:10pt">Natural language annotation for machine</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__324">Pustejovsky, James / Stubbs, Amber (2012). Natural language annotation for machine</rs></bibl>
 <bibl rend="normal">
-<hi rend="italic" style="font-size:10pt">learning</hi>
-<hi style="font-size:10pt">. Sebastopol: O'Reilly Media.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4741">learning . Sebastopol: O'Reilly Media.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Ramsay, Stephen / Rockwell, Geoffrey</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2012): "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities", in: Gold, Matthew K. (ed.): </hi>
-<hi rend="italic" style="font-size:10pt">Debates in the digital humanities.</hi>
-<hi style="font-size:10pt" xml:space="preserve"> Minneapolis and London: University of Minnesota Press, 2012: 75–84 10.5749/minnesota/9780816677948.003.0010.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4742">Ramsay, Stephen / Rockwell, Geoffrey (2012): "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities", in: Gold, Matthew K. (ed.): Debates in the digital humanities. Minneapolis and London: University of Minnesota Press, 2012: 75–84 10.5749/minnesota/9780816677948.003.0010.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Reiche, Ruth / Becker, Rainer / Bender, Michael / Munson, Matt / Schmunk, Stefan / Schöch, Christof</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2014): </hi>
-<hi rend="italic" style="font-size:10pt">Verfahren der Digital Humanities in den Geistes- und Kulturwissenschaften</hi>
-<hi style="font-size:10pt" xml:space="preserve">. </hi>
-<hi rend="background(white)" style="font-size:10pt">DARIAH-DE Working Papers. Göttingen: DARIAH-DE, 2014.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4743">Reiche, Ruth / Becker, Rainer / Bender, Michael / Munson, Matt / Schmunk, Stefan / Schöch, Christof (2014): Verfahren der Digital Humanities in den Geistes- und Kulturwissenschaften . DARIAH-DE Working Papers. Göttingen: DARIAH-DE, 2014.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Romele, Alberto / Severo, Marta / Furia, Paolo </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2018): "Digital Hermeneutics: From Interpreting with Machines to Interpretational Machines", in: </hi>
-<hi rend="italic" style="font-size:10pt">AI &amp; Society: Knowledge, Culture and Communication</hi>
-<hi style="font-size:10pt" xml:space="preserve">, Springer, in press. </hi>
-<ref target="https://hal.archives-ouvertes.fr/hal-01824173">
-<hi rend="underline color(1155CC)" style="font-size:10pt">https://hal.archives-ouvertes.fr/hal-01824173</hi>
-</ref>
-<hi style="font-size:10pt" xml:space="preserve"> [Letzter Zugriff: 05.01.2020]</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4744">Romele, Alberto / Severo, Marta / Furia, Paolo (2018): "Digital Hermeneutics: From Interpreting with Machines to Interpretational Machines", in: AI &amp; Society: Knowledge, Culture and Communication , Springer, in press. https://hal.archives-ouvertes.fr/hal-01824173 [Letzter Zugriff: 05.01.2020]</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Sacha, Dominik / Stoffel, Andreas / Stoffel, Florian / Kwon, Bum Chul / Ellis, Geoffrey / Keim</hi>
-<hi style="font-size:10pt" xml:space="preserve">, </hi>
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Daniel A. </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2014): "Knowledge Generation Model for Visual Analytics",  in: </hi>
-<hi rend="italic" style="font-size:10pt">IEEE Transactions on Visualization and Computer Graphics</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 20 (12) 1604–1613. 10.1109/TVCG.2014.2346481.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4745">Sacha, Dominik / Stoffel, Andreas / Stoffel, Florian / Kwon, Bum Chul / Ellis, Geoffrey / Keim , Daniel A. (2014): "Knowledge Generation Model for Visual Analytics", in: IEEE Transactions on Visualization and Computer Graphics 20 (12) 1604–1613. 10.1109/TVCG.2014.2346481.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Schaal, Gary S. / Kath, Roxana / Dumm, Sebastian</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2016): "New Visual Hermeneutics", in: </hi>
-<hi rend="italic" style="font-size:10pt">Cybernetics &amp; Human Knowing</hi>
-<hi style="font-size:10pt" xml:space="preserve"> 23: 51–76.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4746">Schaal, Gary S. / Kath, Roxana / Dumm, Sebastian (2016): "New Visual Hermeneutics", in: Cybernetics &amp; Human Knowing 23: 51–76.</rs></bibl>
 <bibl rend="normal">
-<hi rend="bold" style="font-size:10pt">Stefanowitsch, Anatol</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2018): </hi>
-<hi rend="italic" style="font-size:10pt" xml:space="preserve">Corpus Linguistics: A Guide to the Methodology </hi>
-<hi style="font-size:10pt" xml:space="preserve">(Textbooks in Language Sciences 8). Open Review Version. Berlin: Language Science Press. </hi>
-<ref target="http://www.langsci-press.org">
-<hi rend="underline color(1155CC)" style="font-size:10pt">www.langsci-press.org</hi>
-</ref>
-<hi style="font-size:10pt">. [Letzter Zugriff: 05.01.2020]</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4747">Stefanowitsch, Anatol (2018): Corpus Linguistics: A Guide to the Methodology (Textbooks in Language Sciences 8). Open Review Version. Berlin: Language Science Press. www.langsci-press.org . [Letzter Zugriff: 05.01.2020]</rs></bibl>
 </listBibl>
 </div>
 </back>

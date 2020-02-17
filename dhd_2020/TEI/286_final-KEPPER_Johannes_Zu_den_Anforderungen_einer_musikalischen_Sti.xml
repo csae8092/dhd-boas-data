@@ -187,29 +187,17 @@ vergleichbare Benutzeroberfläche und erlaubt es u.a., die extrahierten Features
   <listBibl>
     <head>Bibliographie</head>
     <bibl>
-      <hi rend="bold">Backer, Eric / van Kranenburg, Peter</hi> (2005): "On musical stylometry – a pattern recognition approach", in: 
-      <hi rend="italic">Pattern Recognition Letters</hi> 26, 299–309.
-    </bibl>
+      <rs type="bibl" ref="#bibl__4403">Backer, Eric / van Kranenburg, Peter (2005): "On musical stylometry – a pattern recognition approach", in: Pattern Recognition Letters 26, 299–309.</rs></bibl>
     <bibl>
-      <hi rend="bold">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten</hi> (2017):
-      "Understanding and explaining Delta measures for authorship attribution", in: 
-      <hi rend="italic">Digital Scholarship in the Humanities</hi> 32, ii4–ii16. 
-      <ptr target="https://doi.org/10.1093/llc/fqx023"/>
-    </bibl>
+      <rs type="bibl" ref="#bibl__347">Evert, Stefan / Proisl, Thomas / Jannidis, Fotis / Reger, Isabella / Pielström, Steffen / Schöch, Christof / Vitt, Thorsten (2017): "Understanding and explaining Delta measures for authorship attribution", in: Digital Scholarship in the Humanities 32, ii4–ii16.</rs></bibl>
     <bibl>
-      <hi rend="bold">Horstmann, Jan</hi> (2018): "Stilometrie", in: 
-      <hi rend="italic">forTEXT. Literatur digital erforschen</hi>. URL: https://fortext.net/routinen/methoden/stilometrie.
-    </bibl>
+      <rs type="bibl" ref="#bibl__4404">Horstmann, Jan (2018): "Stilometrie", in: forTEXT. Literatur digital erforschen. URL: https://fortext.net/routinen/methoden/stilometrie.</rs></bibl>
     <bibl>
-      <hi rend="bold">McKay, Cory</hi> (2010): "Automatic music classification with jMIR" (PhD). McGill University, Montréal.
-    </bibl>
+      <rs type="bibl" ref="#bibl__4405">McKay, Cory (2010): "Automatic music classification with jMIR" (PhD). McGill University, Montréal.</rs></bibl>
     <bibl>
-      <hi rend="bold">Kempfert, Katherine C. / Wong, Samuel W. K.</hi> (2019): "Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets", arXiv:1809.05075 [stat].
-    </bibl>
+      <rs type="bibl" ref="#bibl__4406">Kempfert, Katherine C. / Wong, Samuel W. K. (2019): "Where Does Haydn End and Mozart Begin? Composer Classification of String Quartets", arXiv:1809.05075 [stat].</rs></bibl>
     <bibl>
-      <hi rend="bold">Pascall, Robert</hi> (2001): "Style", in: 
-      <hi rend="italic">The New Grove Dictionary of Music and Musicians</hi>. Oxford. 24, 638–642.
-    </bibl>
+      <rs type="bibl" ref="#bibl__4407">Pascall, Robert (2001): "Style", in: The New Grove Dictionary of Music and Musicians. Oxford. 24, 638–642.</rs></bibl>
   </listBibl>
 </div>
 </back>

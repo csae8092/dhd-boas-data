@@ -97,46 +97,21 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Aubry, Sara</hi> (2010): 
-  <hi rend="italic">Introducing Web Archives as a New Library Service: the Experience of the National Library of France</hi>, in:
-  <hi rend="italic">LIBER Quarterly</hi>, 20(2), S. 179–199. DOI: <ref target="http://doi.org/10.18352/lq.7987"/>
-  <ptr target="http://doi.org/10.18352/lq.7987"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__5343">Aubry, Sara (2010): Introducing Web Archives as a New Library Service: the Experience of the National Library of France, in: LIBER Quarterly, 20(2), S. 179–199. DOI:</rs></bibl>
 <bibl>
-  <hi rend="bold">Brügger, Niels</hi> (2012): <hi rend="italic">Historical Network Analysis of the Web</hi>in: Social Science Computer Review 31 (3), 306–321.DOI: <ptr target="https://doi.org/10.1177/0894439312454267"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__5344">Brügger, Niels (2012): Historical Network Analysis of the Webin: Social Science Computer Review 31 (3), 306–321.DOI:</rs></bibl>
 <bibl>
-  <hi rend="bold">Eckl, Markus / Rehbein, Malte</hi> (2018): Methoden der Digital Humanities in Anwendung für den Aufbau und die Nutzung von Webarchiven. Konferenz zur Bewahrung digitalen kulturellen Erbes. Deutsche Nationalbibliothek. Frankfurt am Main.
-  <ref target="https://www.dnb.de/SharedDocs/Downloads/DE/Kulturell/konferenzeDigKultErbe2018_MarkusEckl.html?nn=56454"/>
-  <ptr target="https://www.dnb.de/SharedDocs/Downloads/DE/Kulturell/konferenzeDigKultErbe2018_MarkusEckl.html?nn=56454"/>
-  (letzter Zugriff 12. September 2019).
-</bibl>
+  <rs type="bibl" ref="#bibl__5345">Eckl, Markus / Rehbein, Malte (2018): Methoden der Digital Humanities in Anwendung für den Aufbau und die Nutzung von Webarchiven. Konferenz zur Bewahrung digitalen kulturellen Erbes. Deutsche Nationalbibliothek. Frankfurt am Main. (letzter Zugriff 12. September 2019).</rs></bibl>
 <bibl>
-  <hi rend="bold">Holzmann, Helge / Goel, Vinay / Anand, Avishek</hi>
-  (2016): <hi rend="italic">ArchiveSpark</hi>in: Nabil R. Adam / Boots
-  Cassel / Yelena Yesha / Richard Furuta / Michele C. Weigle (Hg.):
-  JCDL'16. Proceedings of the 16th ACM/IEEE-CS Joint Conference on
-  Digital Libraries : June 19-23, 2016, Newark, NJ, USA. DOI: <ptr target="https://doi.org/10.1145/2910896.2910902"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__5346">Holzmann, Helge / Goel, Vinay / Anand, Avishek (2016): ArchiveSparkin: Nabil R. Adam / Boots Cassel / Yelena Yesha / Richard Furuta / Michele C. Weigle (Hg.): JCDL'16. Proceedings of the 16th ACM/IEEE-CS Joint Conference on Digital Libraries : June 19-23, 2016, Newark, NJ, USA. DOI:</rs></bibl>
 <bibl>
-  <hi rend="bold">Lin, Jimmy / Milligan, Ian / Wiebe, Jeremy / Zhou,
-  Alice</hi> (2017): <hi rend="italic">Warcbase</hi> in: Journal of Cultural Heritage 10 (4), 1–30.
-</bibl>
+  <rs type="bibl" ref="#bibl__5347">Lin, Jimmy / Milligan, Ian / Wiebe, Jeremy / Zhou, Alice (2017): Warcbase in: Journal of Cultural Heritage 10 (4), 1–30.</rs></bibl>
 <bibl>
-<hi rend="bold">Roberts, Molly E., / Stewart, Brandon M. / Tingley,
-Dustin</hi> (2019): stm: An R Package for Structural Topic Models. 
-<hi rend="italic">Journal of Statistical Software</hi>,<hi rend="bold">91</hi> (2), 1–40. DOI: <ref target="https://doi.org/10.18637/jss.v091.i02"/>
-<ref target="https://doi.org/10.18637/jss.v091.i02">
-<hi rend="color(#1155cc)underline">10.18637/jss.v091.i02</hi></ref>. 
-</bibl>
+<rs type="bibl" ref="#bibl__5348">Roberts, Molly E., / Stewart, Brandon M. / Tingley, Dustin (2019): stm: An R Package for Structural Topic Models. Journal of Statistical Software,91 (2), 1–40. DOI: 10.18637/jss.v091.i02.</rs></bibl>
 <bibl>
-<hi rend="bold">Rogers, Richard</hi> (2019): „Periodizing Web Archiving: Biographical, Event-Based, National and Autobiographical Traditions“ in: Brügger, Niels / Milligan Ian (Hg.): 
-<hi rend="italic">The SAGA Handbook of Web History</hi>. London: SAGE.
-</bibl>
+<rs type="bibl" ref="#bibl__5349">Rogers, Richard (2019): „Periodizing Web Archiving: Biographical, Event-Based, National and Autobiographical Traditions“ in: Brügger, Niels / Milligan Ian (Hg.): The SAGA Handbook of Web History. London: SAGE.</rs></bibl>
 <bibl>
-<hi rend="bold">Weber, Matthew S. / Napoli, Philip M.</hi> (2018): <hi rend="italic">Journalism History, Web Archives, and New Methods for Understanding the Evolution of Digital Journalism</hi>
-in: Digital Journalism, 6:9, 1186-1205. DOI: <ptr target="https://doi.org/10.1080/21670811.2018.1510293"/>
-</bibl>
+<rs type="bibl" ref="#bibl__5350">Weber, Matthew S. / Napoli, Philip M. (2018): Journalism History, Web Archives, and New Methods for Understanding the Evolution of Digital Journalism in: Digital Journalism, 6:9, 1186-1205. DOI:</rs></bibl>
 </listBibl>
 </div>
 </back>

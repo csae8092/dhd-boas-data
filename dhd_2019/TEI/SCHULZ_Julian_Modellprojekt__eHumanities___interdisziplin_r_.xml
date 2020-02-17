@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title><title type="conf_year">2019</title><author ref="#person__julian-schulz-lmu-de">
+                <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title><title type="conf_year">2019</title>
+                <author ref="#person__julian-schulz-lmu-de">
                     <persName>
                         <surname>Schulz</surname>
                         <forename>Julian</forename>
@@ -120,15 +121,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__271">DHd-AG Datenzentren (2017): „ Geisteswissenschaftliche Datenzentren im deutschsprachigen Raum. Grundsatzpapier zur Sicherung der langfristigen Verfügbarkeit von Forschungsdaten“ https://doi.org/10.5281/zenodo.1134760.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__128">DHd-AG Datenzentren (2017): „ Geisteswissenschaftliche Datenzentren im deutschsprachigen Raum. Grundsatzpapier zur Sicherung der langfristigen Verfügbarkeit von Forschungsdaten“ https://doi.org/10.5281/zenodo.1134760.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2994">DHd-AG Datenzentren (2018): „ Vorschlag der AG Datenzentren im DHd zur Bildung und Strukturierung eines NFDI-Konsortiums für die Geisteswissenschaften“ https://dhd-ag-datenzentren.github.io/nfdi-vorschlag.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1050">DHd-AG Datenzentren (2018): „ Vorschlag der AG Datenzentren im DHd zur Bildung und Strukturierung eines NFDI-Konsortiums für die Geisteswissenschaften“ https://dhd-ag-datenzentren.github.io/nfdi-vorschlag.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2995">Krefeld, Thomas / Lücke, Stephan (2017): „ Nachhaltigkeit – aus der Sicht virtueller Forschungsumgebungen“. Korpus im Text. Version 7 (10.03.2017, 12:27) http://www.kit.gwi.uni-muenchen.de/?p=5773&amp;v=7.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1051">Krefeld, Thomas / Lücke, Stephan (2017): „ Nachhaltigkeit – aus der Sicht virtueller Forschungsumgebungen“. Korpus im Text. Version 7 (10.03.2017, 12:27) http://www.kit.gwi.uni-muenchen.de/?p=5773&amp;v=7.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__8">Rat für Informationsinfrastrukturen (2016): „ Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland“. Göttingen, 160 S. http://www.rfii.de/?p=1998.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__129">Rat für Informationsinfrastrukturen (2016): „ Leistung aus Vielfalt. Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland“. Göttingen, 160 S. http://www.rfii.de/?p=1998.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__2996">Rat für Informationsinfrastrukturen (2018): „ In der Breite und forschungsnah: Handlungsfähige Konsortien. Dritter Diskussionsimpuls zur Ausgestaltung einer Nationalen Forschungsdateninfrastruktur (NFDI) für die Wissenschaft in Deutschland“. Göttingen, 6 S. http://www.rfii.de/?p=3509.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1052">Rat für Informationsinfrastrukturen (2018): „ In der Breite und forschungsnah: Handlungsfähige Konsortien. Dritter Diskussionsimpuls zur Ausgestaltung einer Nationalen Forschungsdateninfrastruktur (NFDI) für die Wissenschaft in Deutschland“. Göttingen, 6 S. http://www.rfii.de/?p=3509.</rs></bibl>
                 </listBibl>
             </div>
         </back>

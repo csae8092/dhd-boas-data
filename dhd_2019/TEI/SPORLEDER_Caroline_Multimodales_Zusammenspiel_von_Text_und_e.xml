@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Multimodales Zusammenspiel von Text und erlebter Stimme – Analyse der Lautstärkesignale in direkter Rede</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__svenjasimone-guhr-stud-uni-goettingen-de">
                     <persName>
                         <surname>Guhr</surname>
@@ -127,33 +128,33 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3503">Anz, Thomas (2016 2 ): Literatur des Expressionismus, Springer-Verlag GmbH Deutschland.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__434">Anz, Thomas (2016 2 ): Literatur des Expressionismus, Springer-Verlag GmbH Deutschland.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3504">Bakhtin, Mikhail (1981): „Forms of Time and of the Chronotope in the Novel.“ in: The Dialogic Imagination, Texas: University of Texas Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__435">Bakhtin, Mikhail (1981): „Forms of Time and of the Chronotope in the Novel.“ in: The Dialogic Imagination, Texas: University of Texas Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3505">Chapman, Raymond (1984): The Treatment of Sounds in Language and Literature, Basil Oxford: Blackwell Publisher Limited.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__436">Chapman, Raymond (1984): The Treatment of Sounds in Language and Literature, Basil Oxford: Blackwell Publisher Limited.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3506">Dahl, Alva (2014): The separation of voices in a literary utterance: a dialogical approach to discourse presentation, viewpoint, focalization – and punctuation, Online Proceedings of the Annual Conference of the Poetics and Linguistics Association (PALA).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__437">Dahl, Alva (2014): The separation of voices in a literary utterance: a dialogical approach to discourse presentation, viewpoint, focalization – and punctuation, Online Proceedings of the Annual Conference of the Poetics and Linguistics Association (PALA).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3507">Delazari, Ivan (2016): Voicing the Split Narrator: Readers’ Chores in Toni Morrison’s “Recitatif”, in: Mildorf, Jarmila / Kinzel, Till (2016): Audionarratology. Interfaces of Sound and Narrative, De Gruyter.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__438">Delazari, Ivan (2016): Voicing the Split Narrator: Readers’ Chores in Toni Morrison’s “Recitatif”, in: Mildorf, Jarmila / Kinzel, Till (2016): Audionarratology. Interfaces of Sound and Narrative, De Gruyter.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3508">Genette, Gérard (1969): Figures. Essais, Paris: Editions du Seuil.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__0">Genette, Gérard (1969): Figures. Essais, Paris: Editions du Seuil.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3509">Katsma, Holst (2014): Loudness in the Novel, Stanford, US: Standford Literary Lab.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__439">Katsma, Holst (2014): Loudness in the Novel, Stanford, US: Standford Literary Lab.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3510">Kuzmičová , Anežka (2013): Outer vs. Inner Reverberations: Verbal Auditory Imagery and Meaning-Making in Literary Narrative, Journal of Literary Theory 7 (1-2): 111-134, https://philpapers.org/archive/KUZOVI.pdf (04.01.2019).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__440">Kuzmičová , Anežka (2013): Outer vs. Inner Reverberations: Verbal Auditory Imagery and Meaning-Making in Literary Narrative, Journal of Literary Theory 7 (1-2): 111-134, https://philpapers.org/archive/KUZOVI.pdf (04.01.2019).</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3511">LimeSurvey (2018): LimeSurvey Manual, https://manual.limesurvey.org/LimeSurvey_Manual.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__441">LimeSurvey (2018): LimeSurvey Manual, https://manual.limesurvey.org/LimeSurvey_Manual.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3512">Mildorf, Jarmila / Kinzel, Till (2016) : Audionarratology: Prolegomena to a Research Paradigm Exploring Sound and Narrative, in: Mildorf, Jarmila / Kinzel, Till (2016): Audionarratology. Interfaces of Sound and Narrative, De Gruyter.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1">Mildorf, Jarmila / Kinzel, Till (2016) : Audionarratology: Prolegomena to a Research Paradigm Exploring Sound and Narrative, in: Mildorf, Jarmila / Kinzel, Till (2016): Audionarratology. Interfaces of Sound and Narrative, De Gruyter.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3513">Nord , Christiane (1997): Alice abroad: Dealing with descriptions and transcriptions of paralanguage in literary translation , in: Poyatos , Fernando (1997): Nonverbal Communication and Translation: New Perspectives and Challenges in Literature, Interpretation and the Media, Amsterdam/Philadelphia: John Benjamins Publishing Company, 107-130.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__442">Nord , Christiane (1997): Alice abroad: Dealing with descriptions and transcriptions of paralanguage in literary translation , in: Poyatos , Fernando (1997): Nonverbal Communication and Translation: New Perspectives and Challenges in Literature, Interpretation and the Media, Amsterdam/Philadelphia: John Benjamins Publishing Company, 107-130.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3514">Scarry, Elaine (2001): Dreaming by the Book, Princeton: Princeton UP.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__443">Scarry, Elaine (2001): Dreaming by the Book, Princeton: Princeton UP.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__147">Schmid, Helmut (1994): „Probabilistic Part-of-Speech Tagging Using Decision Trees.“ in: Proceedings of International Conference on New Methods in Language Processing, Manchester, UK.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__2">Schmid, Helmut (1994): „Probabilistic Part-of-Speech Tagging Using Decision Trees.“ in: Proceedings of International Conference on New Methods in Language Processing, Manchester, UK.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3515">Winkler, Edeltraud (1987): Syntaktische und semantische Eigenschaften von Verba Dicendi, Akademie der Wissenschaften, DDR.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__444">Winkler, Edeltraud (1987): Syntaktische und semantische Eigenschaften von Verba Dicendi, Akademie der Wissenschaften, DDR.</rs></bibl>
                 </listBibl>
             </div>
         </back>

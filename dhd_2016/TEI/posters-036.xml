@@ -114,8 +114,8 @@
         <listBibl>
           <head>Bibliographie</head>
           <bibl>
-            <rs type="bibl" ref="#bibl__2067">Dokumentation: DARIAH-DKPro-Wrapper v0.4.3 (2016): User guide DARIAH-DKPro-Wrapper v0.4.3 DARIAH2 - Cluster 5, Use Case 1 Team. Universität Würzburg, TU Darmstadt - DARIAH-DE https://rawgit.com/DARIAH-DE/DARIAH-DKPro-Wrapper/master/doc/user-guide.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
-              <bibl><rs type="bibl" ref="#bibl__2068">CoNLL-2009 Format (2008-*): CoNLL-2009 Shared Task. Syntactic and Semantic Dependencies in Multiple Languages. Institute of Formal and Applied Linguistics, Charles University in Prague, Czech Republic, Faculty of Mathematics and Physics https://ufal.mff.cuni.cz/conll2009-st/task-description.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
+            <rs type="bibl" ref="#bibl__2405">Dokumentation: DARIAH-DKPro-Wrapper v0.4.3 (2016): User guide DARIAH-DKPro-Wrapper v0.4.3 DARIAH2 - Cluster 5, Use Case 1 Team. Universität Würzburg, TU Darmstadt - DARIAH-DE https://rawgit.com/DARIAH-DE/DARIAH-DKPro-Wrapper/master/doc/user-guide.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2406">CoNLL-2009 Format (2008-*): CoNLL-2009 Shared Task. Syntactic and Semantic Dependencies in Multiple Languages. Institute of Formal and Applied Linguistics, Charles University in Prague, Czech Republic, Faculty of Mathematics and Physics https://ufal.mff.cuni.cz/conll2009-st/task-description.html [letzter Zugriff 08. Januar 2016].</rs></bibl>
               </listBibl>
             </div>
 

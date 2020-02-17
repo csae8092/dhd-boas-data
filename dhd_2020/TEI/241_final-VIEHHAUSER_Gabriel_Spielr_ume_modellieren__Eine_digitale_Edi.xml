@@ -254,86 +254,33 @@ Wie weit diese Spielräume geöffnet werden können, hat sich freilich auch in d
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold">Agamben, Giorgio</hi>
-	(2016): 
-	<hi rend="italic">Pulcinella ovvero Divertimento per li Regazzi. </hi>
-	Nuova edizione. Rom: Nottetempo.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4779">Agamben, Giorgio (2016): Pulcinella ovvero Divertimento per li Regazzi. Nuova edizione. Rom: Nottetempo.</rs></bibl>
       <bibl>
-	<hi rend="bold">Andrews Tara L. / Macé Caroline</hi>
-	(2013): “Beyond the tree of texts: Building an empirical model of scribal variation through graph analysis of texts and stemmata”, in: 
-	<hi rend="italic">Literary and Linguistic Computing</hi> 28 (4): 504–521.
-      </bibl>
+	<rs type="bibl" ref="#bibl__320">Andrews Tara L. / Macé Caroline (2013): “Beyond the tree of texts: Building an empirical model of scribal variation through graph analysis of texts and stemmata”, in: Literary and Linguistic Computing 28 (4): 504–521.</rs></bibl>
       <bibl>
-	<hi rend="bold">Efer, Thomas </hi>
-	(2017): 
-	<hi rend="italic">Graphdatenbanken für die textorientierten
-	e-Humanities</hi>. Dissertationsschrift, Universität Leipzig.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4780">Efer, Thomas (2017): Graphdatenbanken für die textorientierten e-Humanities. Dissertationsschrift, Universität Leipzig.</rs></bibl>
       <bibl>
-	<hi rend="bold">Eide, Øyvind / Ore, Christian-Emil Smith </hi>
-	(2018): “Ontologies and data modeling”, in: Flanders, Julia / Jannidis, Fotis (eds.): 
-	<hi rend="italic">The Shape of Data in Digital Humanities</hi>. Modeling Texts and Text-based Resources. London: Routledge 178-196.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4781">Eide, Øyvind / Ore, Christian-Emil Smith (2018): “Ontologies and data modeling”, in: Flanders, Julia / Jannidis, Fotis (eds.): The Shape of Data in Digital Humanities. Modeling Texts and Text-based Resources. London: Routledge 178-196.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gealt, Adelheid M.</hi>
-	(ed.) (1986): 
-	<hi rend="italic">Domenico Tiepolo. The Punchinello Drawings</hi>. New York: George Braziller.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4782">Gealt, Adelheid M. (ed.) (1986): Domenico Tiepolo. The Punchinello Drawings. New York: George Braziller.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gottdang, Andrea </hi>
-	(2015): „Das Spiel vom Leben und Sterben des Punchinello: Giandomenico Tiepolos Divertimento per li Regazzi“, in: Robert Fajen (ed.): 
-	<hi rend="italic">Amüsement und Risiko. </hi>
-	Dimensionen des Spiels in der spanischen und italienischen Aufklärung. Halle an der Saale: Mitteldeutscher Verlag 60–101.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4783">Gottdang, Andrea (2015): „Das Spiel vom Leben und Sterben des Punchinello: Giandomenico Tiepolos Divertimento per li Regazzi“, in: Robert Fajen (ed.): Amüsement und Risiko. Dimensionen des Spiels in der spanischen und italienischen Aufklärung. Halle an der Saale: Mitteldeutscher Verlag 60–101.</rs></bibl>
       <bibl>
-	<hi rend="bold">Kailus, Angela / Stein, Regine</hi>
-	(2018) „Besser vernetzt: Über den Mehrwert von Standards und
-	Normdaten zur Bilderschließung“, in: Kuroczyński, Piotr /
-	Bell, Peter / Dieckmann, Lisa (eds.): 
-	<hi rend="italic">Computing Art Reader.</hi>
-	Einführung in die digitale Kunstgeschichte. Heidelberg:
-	<ptr target="arthistoricum.net"/> 119-139
-      </bibl>
+	<rs type="bibl" ref="#bibl__4784">Kailus, Angela / Stein, Regine (2018) „Besser vernetzt: Über den Mehrwert von Standards und Normdaten zur Bilderschließung“, in: Kuroczyński, Piotr / Bell, Peter / Dieckmann, Lisa (eds.): Computing Art Reader. Einführung in die digitale Kunstgeschichte. Heidelberg: 119-139</rs></bibl>
       <bibl>
-	<hi rend="bold">Kuczera, Andreas</hi>
-	(2016): “Digital Editions Beyond Xml – Graph-Based Digital Editions”, in: Preiser-Kappeller, Johannes / Düring, Marten / Jatowt, Adam (eds.): 
-	<hi rend="italic">Proceedings of the 3</hi><hi rend="superscript">rd</hi>
-	<hi rend="italic"> Histoinformatics Workshop on Computational History (Histoinformatics 2016)</hi>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4785">Kuczera, Andreas (2016): “Digital Editions Beyond Xml – Graph-Based Digital Editions”, in: Preiser-Kappeller, Johannes / Düring, Marten / Jatowt, Adam (eds.): Proceedings of the 3rd Histoinformatics Workshop on Computational History (Histoinformatics 2016).</rs></bibl>
       <bibl>
-	<hi rend="bold">Kuczera, Andreas </hi>
-	(2017): „Graphentechnologien in den Digitalen Geisteswissenschaften“, in: 
-	<hi rend="italic">ABI Technik</hi> 37 (3): 179–196.
-      </bibl>
+	<rs type="bibl" ref="#bibl__66">Kuczera, Andreas (2017): „Graphentechnologien in den Digitalen Geisteswissenschaften“, in: ABI Technik 37 (3): 179–196.</rs></bibl>
       <bibl>
-	<hi rend="bold">Le Boeuf, Patrick / Doerr, Martin / Ore, Christian Emil / Stead, Stephen et al.</hi>
-	(2019): “Definition of the CIDOC Conceptual Reference Model”,
-	Version 6.2.6 May 2019,
-	<ptr target="http://www.cidoc-crm.org/sites/default/files/CIDOC%20CRM_v6.2.6_Definition_esIP.pdf"/> [letzter Zugriff 27.9.2019].
-      </bibl>
+	<rs type="bibl" ref="#bibl__4786">Le Boeuf, Patrick / Doerr, Martin / Ore, Christian Emil / Stead, Stephen et al. (2019): “Definition of the CIDOC Conceptual Reference Model”, Version 6.2.6 May 2019, [letzter Zugriff 27.9.2019].</rs></bibl>
       <bibl>
-	<hi rend="bold">Pierazzo, Elena </hi>
-	(2018): “How subjective is your model?”, in: Flanders, Julia / Jannidis, Fotis (eds.): 
-	<hi rend="italic">The Shape of Data in Digital Humanities</hi>. Modeling Texts and Text-based Resources. London: Routledge 117-132.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4787">Pierazzo, Elena (2018): “How subjective is your model?”, in: Flanders, Julia / Jannidis, Fotis (eds.): The Shape of Data in Digital Humanities. Modeling Texts and Text-based Resources. London: Routledge 117-132.</rs></bibl>
       <bibl>
-	<hi rend="bold">Sahle, Patrick </hi>
-	(2013): 
-	<hi rend="italic">Digitale Editionsformen,</hi> Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Norderstedt: Books on Demand.
-      </bibl>
+	<rs type="bibl" ref="#bibl__16">Sahle, Patrick (2013): Digitale Editionsformen, Zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Norderstedt: Books on Demand.</rs></bibl>
       <bibl>
-	<hi rend="bold">Tumanov, Rostislav </hi>
-	(2019): „Groteskes Korpus. Theatrale, narrative und referenzielle Aspekte des 
-	<hi rend="italic">Divertimento per li Regazzi</hi>
-	von Giovanni Domenico Tiepolo“, in: 
-	<hi rend="italic">Wallraf-Richartz-Jahrbuch</hi> 80, 205-239.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4788">Tumanov, Rostislav (2019): „Groteskes Korpus. Theatrale, narrative und referenzielle Aspekte des Divertimento per li Regazzi von Giovanni Domenico Tiepolo“, in: Wallraf-Richartz-Jahrbuch 80, 205-239.</rs></bibl>
       <bibl>
-	<hi rend="bold">Vetrocq, Marcia </hi>
-	(1979): “Domenico Tiepolo and the Figure of Punchinello”, in: Gealt, Adelheid M. (eds.): 
-	<hi rend="italic">Domenico Tiepolo’s Punchinello drawings</hi>. Bloomington: Indiana University Art Museum.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4789">Vetrocq, Marcia (1979): “Domenico Tiepolo and the Figure of Punchinello”, in: Gealt, Adelheid M. (eds.): Domenico Tiepolo’s Punchinello drawings. Bloomington: Indiana University Art Museum.</rs></bibl>
     </listBibl>
   </div>
 </back>

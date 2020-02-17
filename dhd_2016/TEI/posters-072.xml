@@ -161,8 +161,8 @@
                   <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                      <rs type="bibl" ref="#bibl__1945">Bonner, J. K. "Kirk" / Cipolla, Gaetano (2001): Introduction to Sicilian Grammar. Brooklyn, NY: Legas.</rs></bibl>
-                      <bibl><rs type="bibl" ref="#bibl__1946">Tamburini, Fabio / Melandri, Matias (2012): „AnIta: A Powerful Morphological Analyser for Italian“, in: Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC’12), Istanbul, Turkey 941-947.</rs></bibl>
+                      <rs type="bibl" ref="#bibl__1823">Bonner, J. K. "Kirk" / Cipolla, Gaetano (2001): Introduction to Sicilian Grammar. Brooklyn, NY: Legas.</rs></bibl>
+                      <bibl><rs type="bibl" ref="#bibl__1824">Tamburini, Fabio / Melandri, Matias (2012): „AnIta: A Powerful Morphological Analyser for Italian“, in: Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC’12), Istanbul, Turkey 941-947.</rs></bibl>
                     </listBibl>
                   </div>
                 </back>

@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Scalable Viewing in den Filmwissenschaften</title><title type="conf_year">2019</title><author ref="#person__burghardt-informatik-uni-leipzig-de">
+                <title>Scalable Viewing in den Filmwissenschaften</title><title type="conf_year">2019</title>
+                <author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
@@ -154,37 +155,37 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3783">Barbieri, M., Mekenkamp, G., Ceccarelli, M., &amp; Nesvadba, J. (2001): „The color browser: a content driven linear video browsing tool“, in: Multimedia and Expo Conference. IEEE 627–630.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1420">Barbieri, M., Mekenkamp, G., Ceccarelli, M., &amp; Nesvadba, J. (2001): „The color browser: a content driven linear video browsing tool“, in: Multimedia and Expo Conference. IEEE 627–630.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3784">Burghardt, M., Kao, M. &amp; Walkowski, N.-O. (2018): „Scalable MovieBarcodes – An Exploratory Interface for the Analysis of Movies“. 3rd IEEE VIS Workshop on Visualization for the Digital Humanities, Berlin.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1421">Burghardt, M., Kao, M. &amp; Walkowski, N.-O. (2018): „Scalable MovieBarcodes – An Exploratory Interface for the Analysis of Movies“. 3rd IEEE VIS Workshop on Visualization for the Digital Humanities, Berlin.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__56">Burghardt, M., Kao, M. &amp; Wolff, C. (2016): „Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis“, in: Book of Abstracts of the International Digital Humanities Conference (DH). Krakow.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__211">Burghardt, M., Kao, M. &amp; Wolff, C. (2016): „Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis“, in: Book of Abstracts of the International Digital Humanities Conference (DH). Krakow.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3785">Ferguson, K. L. (2019): „Digital Surrealism: Visualizing Walt Disney Animation Studios“, in: Digital Humanities Quarterly. 11(1) http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1422">Ferguson, K. L. (2019): „Digital Surrealism: Visualizing Walt Disney Animation Studios“, in: Digital Humanities Quarterly. 11(1) http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html .</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3786">Hohman, F., Soni, S., Stewart, I., &amp; Stasko, J. (2017): „A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue“, in: Proceedings of the 2nd Workshop on Visualization for the Digital Humanities (VIS4DH), Phoenix, Arizona.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1423">Hohman, F., Soni, S., Stewart, I., &amp; Stasko, J. (2017): „A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue“, in: Proceedings of the 2nd Workshop on Visualization for the Digital Humanities (VIS4DH), Phoenix, Arizona.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3787">Hoyt, E., Ponot, K., &amp; Roy, C. (2014): „Visualizing and Analyzing the Hollywood Screenplay with ScripThreads“, in: Digital Humanities Quarterly. 8(4) http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1424">Hoyt, E., Ponot, K., &amp; Roy, C. (2014): „Visualizing and Analyzing the Hollywood Screenplay with ScripThreads“, in: Digital Humanities Quarterly. 8(4) http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html .</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3788">Keim D., Andrienko G., Fekete JD., Görg C., Kohlhammer J. &amp; Melançon G. (2008): „Visual Analytics: Definition, Process, and Challenges“, in: Kerren A., Stasko J.T., Fekete JD., North C. (Hrsg.) Information Visualization. Lecture Notes in Computer Science. 4950: 154-175.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1425">Keim D., Andrienko G., Fekete JD., Görg C., Kohlhammer J. &amp; Melançon G. (2008): „Visual Analytics: Definition, Process, and Challenges“, in: Kerren A., Stasko J.T., Fekete JD., North C. (Hrsg.) Information Visualization. Lecture Notes in Computer Science. 4950: 154-175.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3789">Kuckartz, U. (2014): Mixed Methods. Methodologie, Forschungsdesigns und Analyseverfahren. Wiesbaden: Springer VS</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1426">Kuckartz, U. (2014): Mixed Methods. Methodologie, Forschungsdesigns und Analyseverfahren. Wiesbaden: Springer VS</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3790">Kurzhals, K., John, M., Heimerl, F., Kuznecov, P., &amp; Weiskopf, D. (2016): „Visual Movie Analytics“, in: IEEE Transactions on Multimedia. 18(11): 2149-2160.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1427">Kurzhals, K., John, M., Heimerl, F., Kuznecov, P., &amp; Weiskopf, D. (2016): „Visual Movie Analytics“, in: IEEE Transactions on Multimedia. 18(11): 2149-2160.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3791">Manovich, L. (2013): „Visualizing Vertov“, in: Russian Journal of Communication. 5(1): 44-55 doi: 10.1080/19409419.2013.775546 .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1428">Manovich, L. (2013): „Visualizing Vertov“, in: Russian Journal of Communication. 5(1): 44-55 doi: 10.1080/19409419.2013.775546 .</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__71">Moretti, F. (2013): Distant Reading. London, New York: Verso.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__110">Moretti, F. (2013): Distant Reading. London, New York: Verso.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3792">Gosvig Olesen, C., Masson, E., Van Gorp, J., Fossati, G. &amp; Noordegraaf, J. (2016): „Data-Driven Research for Film History: Exploring the Jean Desmet Collection“, in: The Moving Image. 16(1): 82–105.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1429">Gosvig Olesen, C., Masson, E., Van Gorp, J., Fossati, G. &amp; Noordegraaf, J. (2016): „Data-Driven Research for Film History: Exploring the Jean Desmet Collection“, in: The Moving Image. 16(1): 82–105.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3793">Pause, J. &amp; Walkowski, N.-O. (2018): „Everything is Illuminated. Zur Numerischen Analyse von Farbigkeit in Filmen“, in: Zeitschrift für digitale Geisteswissenschaften. Wolfenbüttel doi:10.17175/2018_003</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1430">Pause, J. &amp; Walkowski, N.-O. (2018): „Everything is Illuminated. Zur Numerischen Analyse von Farbigkeit in Filmen“, in: Zeitschrift für digitale Geisteswissenschaften. Wolfenbüttel doi:10.17175/2018_003</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3794">Schoeffmann, K., Hudelist, M. A., &amp; Huber, J. (2015): „Video interaction tools: A survey of recent work“, in: ACM Computing Surveys (CSUR) 48(1): 1–34.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1431">Schoeffmann, K., Hudelist, M. A., &amp; Huber, J. (2015): „Video interaction tools: A survey of recent work“, in: ACM Computing Surveys (CSUR) 48(1): 1–34.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3795">Shneiderman, B. (1996): „The eyes have it: A task by data type taxonomy for information visualizations“, in: Proceedings of the IEEE Symposium on Visual Languages. 336-343.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1432">Shneiderman, B. (1996): „The eyes have it: A task by data type taxonomy for information visualizations“, in: Proceedings of the IEEE Symposium on Visual Languages. 336-343.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__280">Weitin, T. (2017): „Scalable Reading“, in: Zeitschrift für Literaturwissenschaft und Linguistik. 1-6 doi: 10.1007/s41244-017-0048-4 .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__212">Weitin, T. (2017): „Scalable Reading“, in: Zeitschrift für Literaturwissenschaft und Linguistik. 1-6 doi: 10.1007/s41244-017-0048-4 .</rs></bibl>
                 </listBibl>
             </div>
         </back>

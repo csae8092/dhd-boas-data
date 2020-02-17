@@ -175,13 +175,13 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__597">Blackwell, Christopher / Smith, Neel (2014): "The Canonical Text Service (CTS)" [letzter Zugriff 18. September 2017].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__598">Bohnet, Bernd / Nivre, Joakim (2012): "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing" in: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning: 1455-1465.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__599">Crane, Gregory (1991): "Generating and parsing classical greek" in: Literary and Linguistic Computing 6(4):243–245.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__600">Kath, Roxana / Keilholz, Franz / Klinker, Fabian / Pöckelmann, Marcus / Rücker, Michaela / Švitek, Mihael / Wöckener-Gade, Eva / Yu, Xiaozhou (2017): "Paraphrasenerkennung im Projekt Digital Plato" in: Tagungsband der 4. Jahrestagung der Digital Humanities im deutschsprachigen Raum: 266-270.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__601">Kusner, Matt J. / Sun, Yu / Kolkin, Nicholas I. / Weinberger, Kilian Q. (2015): "From Word Embeddings To Document Distances" in: Proceedings of the 32. International Conference on Machine Learning: 957–966.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__54">Mikolov, Tomas / Sutskever, Ilya / Chen, Kai / Corrado, Greg S. / Dean, Jeff (2013): "Distributed representations of words and phrases and their compositionality" in: Advances in Neural Information Processing Systems 26: 3111–3119.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__602">Pöckelmann, Marcus / Ritter, Jörg / Wöckener-Gade, Eva / Schubert, Charlotte (2017): "Paraphrasensuche mittels word2vec und der Word Mover’s Distance im Altgriechischen"in: Digital Classics Online, Band 3, Ausgabe 3, S. 24-36.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3206">Blackwell, Christopher / Smith, Neel (2014): "The Canonical Text Service (CTS)" [letzter Zugriff 18. September 2017].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3207">Bohnet, Bernd / Nivre, Joakim (2012): "A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing" in: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning: 1455-1465.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3208">Crane, Gregory (1991): "Generating and parsing classical greek" in: Literary and Linguistic Computing 6(4):243–245.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3209">Kath, Roxana / Keilholz, Franz / Klinker, Fabian / Pöckelmann, Marcus / Rücker, Michaela / Švitek, Mihael / Wöckener-Gade, Eva / Yu, Xiaozhou (2017): "Paraphrasenerkennung im Projekt Digital Plato" in: Tagungsband der 4. Jahrestagung der Digital Humanities im deutschsprachigen Raum: 266-270.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__345">Kusner, Matt J. / Sun, Yu / Kolkin, Nicholas I. / Weinberger, Kilian Q. (2015): "From Word Embeddings To Document Distances" in: Proceedings of the 32. International Conference on Machine Learning: 957–966.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__30">Mikolov, Tomas / Sutskever, Ilya / Chen, Kai / Corrado, Greg S. / Dean, Jeff (2013): "Distributed representations of words and phrases and their compositionality" in: Advances in Neural Information Processing Systems 26: 3111–3119.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3210">Pöckelmann, Marcus / Ritter, Jörg / Wöckener-Gade, Eva / Schubert, Charlotte (2017): "Paraphrasensuche mittels word2vec und der Word Mover’s Distance im Altgriechischen"in: Digital Classics Online, Band 3, Ausgabe 3, S. 24-36.</rs></bibl>
                 </listBibl>
             </div>
       </back>

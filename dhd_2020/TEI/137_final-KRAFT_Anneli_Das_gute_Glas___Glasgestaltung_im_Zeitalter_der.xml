@@ -120,69 +120,29 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left;">
-  <hi rend="bold" xml:space="preserve">Görz, Günther </hi>(2011): „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung. In: Kunstgeschichte.”, in: 
-  <hi rend="italic" xml:space="preserve">Open Peer Reviewed Journal</hi>, 2011 
-  <ref target="http://www.kunstgeschichte-ejournal.net/167/1/Goerz.pdf">http://www.kunstgeschichte-ejournal.net/167/1/Goerz.pdf</ref>
-  [letzter Zugriff am: 26.02.2015].
-</bibl>
+  <rs type="bibl" ref="#bibl__282">Görz, Günther (2011): „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung. In: Kunstgeschichte.”, in: Open Peer Reviewed Journal, 2011 http://www.kunstgeschichte-ejournal.net/167/1/Goerz.pdf [letzter Zugriff am: 26.02.2015].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold" xml:space="preserve">Jacobi, Hanna </hi>(2014): „Alfred Hitchcock: ‚Suspicion’ - das wichtigste Milchglas des Kinos”, Radiobeitrag am 03.05.2014 
-  <ref target="http://detektor.fm/kultur/alfred-hitchcock-suspicion">http://detektor.fm/kultur/alfred-hitchcock-suspicion</ref>
-  [letzter Zugriff am: 13.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5312">Jacobi, Hanna (2014): „Alfred Hitchcock: ‚Suspicion’ - das wichtigste Milchglas des Kinos”, Radiobeitrag am 03.05.2014 http://detektor.fm/kultur/alfred-hitchcock-suspicion [letzter Zugriff am: 13.09.2019].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold" xml:space="preserve">Fichtner, Mark / Hohmann, Georg
-  </hi>(2005): „Chancen und Herausforderungen in der praktischen
-  Anwendung von Ontologien für das Kulturerbe” in:
-  Digitales Kulturerbe : Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis: 116.
-</bibl>
+  <rs type="bibl" ref="#bibl__5313">Fichtner, Mark / Hohmann, Georg (2005): „Chancen und Herausforderungen in der praktischen Anwendung von Ontologien für das Kulturerbe” in: Digitales Kulturerbe : Bewahrung und Zugänglichkeit in der wissenschaftlichen Praxis: 116.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">„Repositorien | Bewahren und Nachnutzen | Themen”</hi>
-  <ref target="https://www.forschungsdaten.info/themen/bewahren-und-nachnutzen/repositorien/">https://www.forschungsdaten.info/themen/bewahren-und-nachnutzen/repositorien/</ref>
-  [letzter Zugriff: 18.10.2016]. 
-</bibl>
+  <rs type="bibl" ref="#bibl__5314">„Repositorien | Bewahren und Nachnutzen | Themen” https://www.forschungsdaten.info/themen/bewahren-und-nachnutzen/repositorien/ [letzter Zugriff: 18.10.2016].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Sahle, Patrick</hi> (2011): „Was sind die digitalen
-  Geisteswissenschaften?“: 4. in: Sahle, Patrick: Digitale
-  Geisteswissenschaften.
-  <ref target="http://dig-hum.de/sites/dig-hum.de/files/cceh_broschuereweb.pdf">http://dig-hum.de/sites/dig-hum.de/files/cceh_broschuereweb.pdf"</ref>
-  [letzter Zugriff: 06.03.2015)].
-</bibl>
+  <rs type="bibl" ref="#bibl__5315">Sahle, Patrick (2011): „Was sind die digitalen Geisteswissenschaften?“: 4. in: Sahle, Patrick: Digitale Geisteswissenschaften. http://dig-hum.de/sites/dig-hum.de/files/cceh_broschuereweb.pdf" [letzter Zugriff: 06.03.2015)].</rs></bibl>
 <bibl rend="No Spacing" style="text-align:left;">
-  <hi rend="bold">SPECTRUM</hi>
-  The UK Museum Documentation Standard.
-  <ref target="http://museumswesen.smwk.sachsen.de/download/spectrum-de-3-1_21-1-2013.pdf">http://museumswesen.smwk.sachsen.de/download/spectrum-de-3-1_21-1-2013.pdf</ref>
-  [letzter Zugriff: 05.07.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5316">SPECTRUM The UK Museum Documentation Standard. http://museumswesen.smwk.sachsen.de/download/spectrum-de-3-1_21-1-2013.pdf [letzter Zugriff: 05.07.2019].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">„Was sind Repositorien”</hi>
-  <ref target="https://open-access.net/informationen-zu-open-access/repositorien/">https://open-access.net/informationen-zu-open-access/repositorien/</ref>
-  [letzter Zugriff: 18.10.2016].
-</bibl>
+  <rs type="bibl" ref="#bibl__5317">„Was sind Repositorien” https://open-access.net/informationen-zu-open-access/repositorien/ [letzter Zugriff: 18.10.2016].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Weller, Kathrin</hi> (2013): „Ontologien”, in:
-  Kuhlen, Rainer / Semar, Wolfgang / Strauch, Dietmar: Grundlagen der praktischen Information und Dokumentation. Handbuch zur Einführung in die Informationswissenschaft und-praxis: 207, S. 209.
-</bibl>
+  <rs type="bibl" ref="#bibl__5318">Weller, Kathrin (2013): „Ontologien”, in: Kuhlen, Rainer / Semar, Wolfgang / Strauch, Dietmar: Grundlagen der praktischen Information und Dokumentation. Handbuch zur Einführung in die Informationswissenschaft und-praxis: 207, S. 209.</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">„What is the CIDOC CRM”</hi>
-  <ref target="http://www.cidoc-crm.org">http://www.cidoc-crm.org</ref> [letzter Zugriff: 13.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5319">„What is the CIDOC CRM” http://www.cidoc-crm.org [letzter Zugriff: 13.09.2019].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">„What is WissKI?”</hi>
-  <ref target="http://wiss-ki.eu/what_is_wisski">http://wiss-ki.eu/what_is_wisski</ref>.
-  [letzter Zugriff: 07.07.2017].
-</bibl>
+  <rs type="bibl" ref="#bibl__5320">„What is WissKI?” http://wiss-ki.eu/what_is_wisski. [letzter Zugriff: 07.07.2017].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">„WissKI – Wissenschaftliche Kommunikations-Infrastruktur”</hi>
-  <ref target="http://www.gnm.de/forschung/archiv-forschungsprojekte/wisski/">http://www.gnm.de/forschung/archiv-forschungsprojekte/wisski/</ref> [letzter Zugriff: 07.07.2017].
-</bibl>
+  <rs type="bibl" ref="#bibl__5321">„WissKI – Wissenschaftliche Kommunikations-Infrastruktur” http://www.gnm.de/forschung/archiv-forschungsprojekte/wisski/ [letzter Zugriff: 07.07.2017].</rs></bibl>
 <bibl style="text-align:left;">
-  <hi rend="bold">Abbildungsnachweis:</hi> Filmstill aus dem Film
-  „Suspicion“ von
-  A. Hitchcock.
-  <ref target="https://3.bp.blogspot.com/-y-WDR3et970/VU6WDMemTbI/AAAAAAAAMJU/fHcl4mAGpZY/s1600/cary%2Bgrant%2Bglass%2Bmilk%2Bsuspicion%2Bhitchcock.jpg">https://3.bp.blogspot.com/-y-WDR3et970/VU6WDMemTbI/AAAAAAAAMJU/fHcl4mAGpZY/s1600/cary%2Bgrant%2Bglass%2Bmilk%2Bsuspicion%2Bhitchcock.jpg</ref>
-  [heruntergeladen am: 13.09.2018].
-</bibl>
+  <rs type="bibl" ref="#bibl__5322">Abbildungsnachweis: Filmstill aus dem Film „Suspicion“ von A. Hitchcock. https://3.bp.blogspot.com/-y-WDR3et970/VU6WDMemTbI/AAAAAAAAMJU/fHcl4mAGpZY/s1600/cary%2Bgrant%2Bglass%2Bmilk%2Bsuspicion%2Bhitchcock.jpg [heruntergeladen am: 13.09.2018].</rs></bibl>
 </listBibl>
 </div>
 </back>

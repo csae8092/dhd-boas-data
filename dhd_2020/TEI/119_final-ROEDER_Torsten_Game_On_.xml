@@ -151,105 +151,43 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">64er</hi> (1984–1996): 
-  <hi rend="italic">64er – Das Magazin für Computerfans</hi>, Haar (bei München): Markt+Technik Verlag. (ZDB: 
-  <ref target="https://zdb-katalog.de/title.xhtml?idn=010441638">50387-3</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__4490">64er (1984–1996): 64er – Das Magazin für Computerfans, Haar (bei München): Markt+Technik Verlag. (ZDB: 50387-3)</rs></bibl>
 <bibl>
-  <hi rend="bold">C64 Wiki</hi> (2019a): “Magic Disk 64”, Website: 
-  <hi rend="italic">C64 Wiki</hi>, 17. März 2019, 21:11 Uhr. URL: 
-  <ptr target="https://www.c64-wiki.de/wiki/Magic_Disk_64"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__403">C64 Wiki (2019a): “Magic Disk 64”, Website: C64 Wiki, 17. März 2019, 21:11 Uhr. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">C64 Wiki</hi> (2019b): “Game On”, Website: 
-  <hi rend="italic">C64 Wiki</hi>, 28. März 2019, 21:28 Uhr. URL: 
-  <ptr target="https://www.c64-wiki.de/wiki/Game_On"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__403">C64 Wiki (2019b): “Game On”, Website: C64 Wiki, 28. März 2019, 21:28 Uhr. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">C64 Wiki</hi> (2019c): “Katakis”, Website: 
-  <hi rend="italic">C64 Wiki</hi>, 29. August 2019, 18:25 Uhr. URL: 
-  <ptr target="https://www.c64-wiki.de/wiki/Katakis"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4491">C64 Wiki (2019c): “Katakis”, Website: C64 Wiki, 29. August 2019, 18:25 Uhr. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">C64 Wiki</hi> (2019d): “Ghostbusters”, Website: 
-  <hi rend="italic">C64 Wiki</hi>, 4. September 2019, 10:45 Uhr. URL: 
-  <ptr target="https://www.c64-wiki.de/wiki/Ghostbusters"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4492">C64 Wiki (2019d): “Ghostbusters”, Website: C64 Wiki, 4. September 2019, 10:45 Uhr. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">Game On</hi> (1988–1995): 
-  <hi rend="italic">Game On. Das C64-Spielemagazin auf Diskette</hi>, Nürnberg: CP Computer Publications, 1988–1995. (ZDB: 
-  <ref target="https://zdb-katalog.de/title.xhtml?idn=017868521">1276125-4</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__4493">Game On (1988–1995): Game On. Das C64-Spielemagazin auf Diskette, Nürnberg: CP Computer Publications, 1988–1995. (ZDB: 1276125-4)</rs></bibl>
 <bibl>
-  <hi rend="bold">HVSC</hi> (2019): 
-  <hi rend="italic">The High Voltage SID Collection. Commodore 64 music for the masses</hi>, URL: 
-  <ptr target="https://www.hvsc.c64.org/"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4494">HVSC (2019): The High Voltage SID Collection. Commodore 64 music for the masses, URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">Internet Archive</hi> (2013): “64’er Magazine”, Website: 
-  <hi rend="italic">archive.org</hi>, 9. Januar 2013. URL: 
-  <ptr target="https://archive.org/details/64er_magazine"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4495">Internet Archive (2013): “64’er Magazine”, Website: archive.org, 9. Januar 2013. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">Magic Disk 64</hi> (1987–1993): 
-  <hi rend="italic">Magic Disk 64. Das C64-Magazin auf Diskette</hi>, Nürnberg: CP Computer Publications. (ZDB: 
-  <ref target="https://zdb-katalog.de/title.xhtml?idn=017867436">1275979-X</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__4496">Magic Disk 64 (1987–1993): Magic Disk 64. Das C64-Magazin auf Diskette, Nürnberg: CP Computer Publications. (ZDB: 1275979-X)</rs></bibl>
 <bibl>
-  <hi rend="bold">Magic Disk 64</hi> (1987a): “3.1 Software” [Autor: Alexander Wiederhold?], 
-  <hi rend="italic">Magic Disk 64</hi> 12/1987. (Textversion abrufbar auf: 
-  <ref target="http://magicdisk.untergrund.net/md/MD8712/MD8712-SOFTWARE-3.1.html">magicdisk.untergrund.net</ref>,
-  zuletzt geändert: 15. August 2008, 12:08 Uhr, archiviert unter: 
-  <ref target="https://web.archive.org/save/http://magicdisk.untergrund.net/md/MD8712/MD8712-SOFTWARE-3.1.html">Internet Archive Wayback Machine</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__404">Magic Disk 64 (1987a): “3.1 Software” [Autor: Alexander Wiederhold?], Magic Disk 64 12/1987. (Textversion abrufbar auf: magicdisk.untergrund.net, zuletzt geändert: 15. August 2008, 12:08 Uhr, archiviert unter: Internet Archive Wayback Machine)</rs></bibl>
 <bibl>
-  <hi rend="bold">Magic Disk 64</hi> (1987b): “Intern” (= Rubrik 8.1), 
-  <hi rend="italic">Magic Disk 64</hi> 12/1987. (Textversion abrufbar auf: 
-  <ref target="http://magicdisk.untergrund.net/md/MD8712/MD8712-INTERN-8.1.html">magicdisk.untergrund.net</ref>, zuletzt geändert: 15. August 2008, 12:08 Uhr, archiviert unter: 
-  <ref target="https://web.archive.org/web/20190907140927/http://magicdisk.untergrund.net/md/MD8712/MD8712-INTERN-8.1.html">Internet Archive Wayback Machine</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__404">Magic Disk 64 (1987b): “Intern” (= Rubrik 8.1), Magic Disk 64 12/1987. (Textversion abrufbar auf: magicdisk.untergrund.net, zuletzt geändert: 15. August 2008, 12:08 Uhr, archiviert unter: Internet Archive Wayback Machine)</rs></bibl>
 <bibl>
-  <hi rend="bold">Magic Disk 64</hi> (1993): “Game-Test: First Samurai” [Autor: Florian Brich?], 
-  <hi rend="italic">Magic Disk 64</hi> (02/1993). (Textversion abrufbar auf: 
-  <ref target="http://magicdisk.untergrund.net/md/MD9302/MD9302-GAME-TEST-FIRST_SAMURAI.html">magicdisk.untergrund.net</ref>,
-  zuletzt geändert: 15. August 2008, 12:03 Uhr, archiviert unter: 
-  <ref target="https://web.archive.org/web/20190907140457/http://magicdisk.untergrund.net/md/MD9302/MD9302-GAME-TEST-FIRST_SAMURAI.html">Internet Archive Wayback Machine</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__404">Magic Disk 64 (1993): “Game-Test: First Samurai” [Autor: Florian Brich?], Magic Disk 64 (02/1993). (Textversion abrufbar auf: magicdisk.untergrund.net, zuletzt geändert: 15. August 2008, 12:03 Uhr, archiviert unter: Internet Archive Wayback Machine)</rs></bibl>
 <bibl>
-  <hi rend="bold">Steve Morrow</hi> (2019):  “C64 Sprites Defined”, Website: 
-  <hi rend="italic">C64 Brain</hi>, 4. Februar 2019. URL: 
-  <ptr target="https://www.c64brain.com/graphics/c64-sprites-defined/"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4497">Steve Morrow (2019): “C64 Sprites Defined”, Website: C64 Brain, 4. Februar 2019. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">National Semiconductor Corporation</hi> (1989): Mass Storage Handbook, Section 5: Floppy Disk Controller. Santa Clara: National Semiconductor. (archiviert unter: 
-  <ref target="https://archive.org/details/bitsavers_nationaldaageHandbook1989MassStorageHandbook05_7620763/page/n29">Internet Archive</ref>)
-</bibl>
+  <rs type="bibl" ref="#bibl__4498">National Semiconductor Corporation (1989): Mass Storage Handbook, Section 5: Floppy Disk Controller. Santa Clara: National Semiconductor. (archiviert unter: Internet Archive)</rs></bibl>
 <bibl>
-  <anchor xml:id="id_docs-internal-guid-497ff2b5-7fff-3451-2edf-46fa9dbc6725"/>
-  <hi rend="bold">Philip „Pepto“ Timmermann:</hi> (2017): “Calculating the color palette of the VIC II”, Februar 2017. URL: 
-  <ptr target="https://www.pepto.de/projects/colorvic/"/>; siehe auch die Fassung von 2001: “Commodore VIC-II Color Analysis (Preview)”. URL: 
-  <ptr target="http://unusedino.de/ec64/technical/misc/vic656x/colors/"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4499">Philip „Pepto“ Timmermann: (2017): “Calculating the color palette of the VIC II”, Februar 2017. URL: ; siehe auch die Fassung von 2001: “Commodore VIC-II Color Analysis (Preview)”. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">Klaus Rettinghaus</hi> (2018): “Sidology. Zur Geschichte und Technik des C64-Soundchips”, in: 
-  <hi rend="italic">Digitale Spiele</hi>. DOI: 
-  <ref target="https://doi.org/10.14361/9783839440025-018">10.14361/9783839440025-018</ref>
-</bibl>
+  <rs type="bibl" ref="#bibl__4500">Klaus Rettinghaus (2018): “Sidology. Zur Geschichte und Technik des C64-Soundchips”, in: Digitale Spiele. DOI: 10.14361/9783839440025-018</rs></bibl>
 <bibl>
-  <hi rend="bold">Wikipedia</hi> (2018): “Game On”, Website: 
-  <hi rend="italic">Wikipedia. Die freie Enzyklopädie</hi>, 2. Dezember 2018, 18:35 Uhr. URL: 
-  <ptr target="https://de.wikipedia.org/wiki/Game_On"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4501">Wikipedia (2018): “Game On”, Website: Wikipedia. Die freie Enzyklopädie, 2. Dezember 2018, 18:35 Uhr. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">Wikipedia</hi> (2019): “Magic Disk 64”, Website: 
-  <hi rend="italic">Wikipedia. Die freie Enzyklopädie</hi>, 9. Mai 2019, 21:06 Uhr. URL: 
-  <ptr target="https://de.wikipedia.org/wiki/Magic_Disk_64"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4502">Wikipedia (2019): “Magic Disk 64”, Website: Wikipedia. Die freie Enzyklopädie, 9. Mai 2019, 21:06 Uhr. URL:</rs></bibl>
 <bibl>
-  <hi rend="bold">www.c64.at</hi> (o. D.): “Diskmag-Archiv”, Website: 
-  <hi rend="italic">www.c64.at. Das Verzeichnis von deutschsprachigen Magazinen für den C64</hi>, ohne Datum. URL: 
-  <ptr target="http://www.c64.at/pages/diskmag-archiv.php"/>
-</bibl>
+  <rs type="bibl" ref="#bibl__4503">www.c64.at (o. D.): “Diskmag-Archiv”, Website: www.c64.at. Das Verzeichnis von deutschsprachigen Magazinen für den C64, ohne Datum. URL:</rs></bibl>
 </listBibl>
 </div>
 </back>

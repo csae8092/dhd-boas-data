@@ -98,53 +98,51 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left;">
-  <hi rend="bold"> Arnold, T. / Tilton, L. </hi> (2019a): Distant viewing: Analyzing large visual corpora. Digital Scholarship in the Humanities.</bibl>
+  <rs type="bibl" ref="#bibl__4856">Arnold, T. / Tilton, L. (2019a): Distant viewing: Analyzing large visual corpora. Digital Scholarship in the Humanities.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Arnold, T. / Tilton, L. </hi> (2019b): Depth in Deep Learning: Knowledgeable, Layered, and Impenetrable.</bibl>
+  <rs type="bibl" ref="#bibl__4857">Arnold, T. / Tilton, L. (2019b): Depth in Deep Learning: Knowledgeable, Layered, and Impenetrable.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Bell, P. / Impett, L. </hi> (2019): Ikonographie und Interaktion. Computergestützte Analyse von Posen in Bildern der Heilsgeschichte. Das Mittelalter 24, 31–53.</bibl>
+  <rs type="bibl" ref="#bibl__4858">Bell, P. / Impett, L. (2019): Ikonographie und Interaktion. Computergestützte Analyse von Posen in Bildern der Heilsgeschichte. Das Mittelalter 24, 31–53.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Deng, J. / Dong, W. / Socher, R. / Li, L. / Li, K. / Fei-Fei, L.</hi> (2009): Imagenet: A large-scale hierarchical image database, in: Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference, 248–255.</bibl>
+  <rs type="bibl" ref="#bibl__4859">Deng, J. / Dong, W. / Socher, R. / Li, L. / Li, K. / Fei-Fei, L. (2009): Imagenet: A large-scale hierarchical image database, in: Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference, 248–255.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Doshi-Velez, F. / Kim, B. </hi> (2017): Towards a rigorous science of interpretable machine learning. arXiv preprint arXiv:1702.08608.</bibl>
+  <rs type="bibl" ref="#bibl__4860">Doshi-Velez, F. / Kim, B. (2017): Towards a rigorous science of interpretable machine learning. arXiv preprint arXiv:1702.08608.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Friedler, S.A / Scheidegger, C. / Venkatasubramanian, S. / Choudhary, S., Hamilton, E.P. / Roth, D.</hi> (2019): A comparative study of fairness-enhancing interventions in machine learning, in: ACM Conference on Fairness, Accountability, and Transparency (FAT*).</bibl>
+  <rs type="bibl" ref="#bibl__4861">Friedler, S.A / Scheidegger, C. / Venkatasubramanian, S. / Choudhary, S., Hamilton, E.P. / Roth, D. (2019): A comparative study of fairness-enhancing interventions in machine learning, in: ACM Conference on Fairness, Accountability, and Transparency (FAT*).</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Geirhos, R. / Rubisch, P. / Michaelis, C. / Bethge, M. / Wichmann, F.A. / Brendel, W. </hi> (2019): ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. arXiv preprint arXiv:1811.12231.</bibl>
+  <rs type="bibl" ref="#bibl__405">Geirhos, R. / Rubisch, P. / Michaelis, C. / Bethge, M. / Wichmann, F.A. / Brendel, W. (2019): ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. arXiv preprint arXiv:1811.12231.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Gilpin, L.H. / Bau, D. / Yuan, B.Z. / Bajwa, A. / Specter, M. / Kagal, L. </hi> (2018): Explaining explanations: An overview of interpretability of machine learning, in: 2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA). IEEE: 80–89.</bibl>
+  <rs type="bibl" ref="#bibl__4862">Gilpin, L.H. / Bau, D. / Yuan, B.Z. / Bajwa, A. / Specter, M. / Kagal, L. (2018): Explaining explanations: An overview of interpretability of machine learning, in: 2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA). IEEE: 80–89.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Goodfellow, I. / Pouget-Abadie, J. / Mirza, M. / Xu, B. / Warde-Farley, D. / Ozair, S. / Courville, A. / Bengio, Y. </hi> (2014): Generative adversarial nets, in: Advances in Neural Information Processing Systems: 2672–2680.</bibl>
+  <rs type="bibl" ref="#bibl__4863">Goodfellow, I. / Pouget-Abadie, J. / Mirza, M. / Xu, B. / Warde-Farley, D. / Ozair, S. / Courville, A. / Bengio, Y. (2014): Generative adversarial nets, in: Advances in Neural Information Processing Systems: 2672–2680.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Hohman, F.M. / Kahng, M. / Pienta, R. / Chau, D.H. </hi> (2018): Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers. IEEE Transactions on Visualization and Computer Graphics.</bibl>
+  <rs type="bibl" ref="#bibl__4864">Hohman, F.M. / Kahng, M. / Pienta, R. / Chau, D.H. (2018): Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers. IEEE Transactions on Visualization and Computer Graphics.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Hohman, F. / Park, H. / Robinson, C. / Chau, D.H.</hi> (2019): Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations. arXiv preprint arXiv:1904.02323.</bibl>
+  <rs type="bibl" ref="#bibl__4865">Hohman, F. / Park, H. / Robinson, C. / Chau, D.H. (2019): Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations. arXiv preprint arXiv:1904.02323.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Ilyas, A. / Santurkar, S. / Tsipras, D. / Engstrom, L. / Tran, B. / Madry, A.</hi> (2019): Adversarial examples are not bugs, they are features. arXiv preprint arXiv:1905.02175.</bibl>
+  <rs type="bibl" ref="#bibl__4866">Ilyas, A. / Santurkar, S. / Tsipras, D. / Engstrom, L. / Tran, B. / Madry, A. (2019): Adversarial examples are not bugs, they are features. arXiv preprint arXiv:1905.02175.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Krizhevsky, A. / Sutskever, I. / Hinton, G.E. </hi> (2012): Imagenet Classification with Deep Convolutional Neural Networks, in: Advances in Neural Information Processing Systems: 1097–1105.</bibl>
+  <rs type="bibl" ref="#bibl__333">Krizhevsky, A. / Sutskever, I. / Hinton, G.E. (2012): Imagenet Classification with Deep Convolutional Neural Networks, in: Advances in Neural Information Processing Systems: 1097–1105.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> LeCun, Y. / Boser, B. / Denker, J.S. / Henderson, D. / Howard, R.E. / Hubbard, W. / Jackel, L.D.</hi> (1989): Backpropagation applied to handwritten zip code recognition. Neural computation 1: 541–551.</bibl>
+  <rs type="bibl" ref="#bibl__101">LeCun, Y. / Boser, B. / Denker, J.S. / Henderson, D. / Howard, R.E. / Hubbard, W. / Jackel, L.D. (1989): Backpropagation applied to handwritten zip code recognition. Neural computation 1: 541–551.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Lin, T.-Y. / Maire, M. / Belongie, S. / Hays, J., Perona, P. / Ramanan, D. / Dollár, P. / Zitnick, C.L. </hi> (2014): Microsoft COCO: Common objects in context, in: European Conference on Computer Vision. Springer: 740–755.</bibl>
+  <rs type="bibl" ref="#bibl__331">Lin, T.-Y. / Maire, M. / Belongie, S. / Hays, J., Perona, P. / Ramanan, D. / Dollár, P. / Zitnick, C.L. (2014): Microsoft COCO: Common objects in context, in: European Conference on Computer Vision. Springer: 740–755.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Lipton, Z.C.</hi> (2016): The mythos of model interpretability, in: 2016 ICML Workshop on Human Interpretability in Machine Learning (WHI 2016), New York, NY.</bibl>
+  <rs type="bibl" ref="#bibl__4867">Lipton, Z.C. (2016): The mythos of model interpretability, in: 2016 ICML Workshop on Human Interpretability in Machine Learning (WHI 2016), New York, NY.</rs></bibl>
   <bibl style="text-align:left;">
-  <hi rend="bold"> Mittelstadt, B. / Russel, C. / Wachter, S.</hi> (2019): Explaining Explanations in AI, in: ACM Conference on Fairness, Accountability, and Transparency (FAT*).</bibl>
+  <rs type="bibl" ref="#bibl__4868">Mittelstadt, B. / Russel, C. / Wachter, S. (2019): Explaining Explanations in AI, in: ACM Conference on Fairness, Accountability, and Transparency (FAT*).</rs></bibl>
   <bibl style="text-align:left;">
-    <hi rend="bold"> Olah, C. / Mordvintsev, A. / Schubert, L.</hi> (2017): Feature visualization. Distill.
-    <ref target="https://doi.org/10.23915/distill.00007"> <hi rend="underline color(1155CC)">https://doi.org/10.23915/distill.00007</hi> </ref> [letzter Zugriff 26 September 2019] </bibl>
+    <rs type="bibl" ref="#bibl__4869">Olah, C. / Mordvintsev, A. / Schubert, L. (2017): Feature visualization. Distill. https://doi.org/10.23915/distill.00007 [letzter Zugriff 26 September 2019]</rs></bibl>
   <bibl style="text-align:left;">
-     <hi rend="bold"> Olah, C., Satyanarayan, A., Johnson, I., Carter, S., Schubert, L., Ye, K., Mordvintsev, A.</hi> (2018). The building blocks of interpretability. Distill.
-                        <ref target="https://doi.org/10.23915/distill.00010"> <hi rend="underline color(1155CC)">https://doi.org/10.23915/distill.00010</hi> </ref> [letzter Zugriff 26 September 2019] </bibl>
+     <rs type="bibl" ref="#bibl__4870">Olah, C., Satyanarayan, A., Johnson, I., Carter, S., Schubert, L., Ye, K., Mordvintsev, A. (2018). The building blocks of interpretability. Distill. https://doi.org/10.23915/distill.00010 [letzter Zugriff 26 September 2019]</rs></bibl>
   <bibl style="text-align:left;">
-    <hi rend="bold"> Russakovsky, O. / Deng, J. / Su, H. / Krause, J. / Satheesh, S. / Ma, S. / Huang, Z. / Karpathy, A. / Khosla, A. / Bernstein, M. et al.</hi> (2015): Imagenet large scale visual recognition challenge. International Journal of Computer Vision 115: 211–252.</bibl>
+    <rs type="bibl" ref="#bibl__4871">Russakovsky, O. / Deng, J. / Su, H. / Krause, J. / Satheesh, S. / Ma, S. / Huang, Z. / Karpathy, A. / Khosla, A. / Bernstein, M. et al. (2015): Imagenet large scale visual recognition challenge. International Journal of Computer Vision 115: 211–252.</rs></bibl>
     <bibl style="text-align:left;">
-    <hi rend="bold"> Selbst, A.D. / Barocas, S.</hi> (2018): The intuitive appeal of explainable machines. Fordham Law Review 87.</bibl>
+    <rs type="bibl" ref="#bibl__4872">Selbst, A.D. / Barocas, S. (2018): The intuitive appeal of explainable machines. Fordham Law Review 87.</rs></bibl>
     <bibl style="text-align:left;">
-    <hi rend="bold"> Suresh, H. / Guttag, J.V.</hi> (2019): A Framework for Understanding Unintended Consequences of Machine Learning. arXiv preprint arXiv:1901.10002.</bibl>
+    <rs type="bibl" ref="#bibl__4873">Suresh, H. / Guttag, J.V. (2019): A Framework for Understanding Unintended Consequences of Machine Learning. arXiv preprint arXiv:1901.10002.</rs></bibl>
     <bibl style="text-align:left;">
-    <hi rend="bold"> Underwood, T.</hi> (2019): Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press.</bibl>
+    <rs type="bibl" ref="#bibl__415">Underwood, T. (2019): Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press.</rs></bibl>
 </listBibl>
 </div>
 </back>

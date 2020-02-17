@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title><title type="conf_year">2019</title><author ref="#person__adelmann-informatik-uni-hamburg-de">
+                <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title><title type="conf_year">2019</title>
+                <author ref="#person__adelmann-informatik-uni-hamburg-de">
                     <persName>
                         <surname>Adelmann</surname>
                         <forename>Benedikt</forename>
@@ -180,28 +181,28 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">Bindi, Remo, Calzolari, Nicoletta; Monachini, Monica; Pirelli, Vito; Zampolli, Antonio (1994): Corpora and Computational Lexica: Integration of Different Methodologies of Lexical Knowledge Acquisition. In: 
-                        <rs type="bibl" ref="#bibl__3179">Bindi, Remo, Calzolari, Nicoletta; Monachini, Monica; Pirelli, Vito; Zampolli, Antonio (1994): Corpora and Computational Lexica: Integration of Different Methodologies of Lexical Knowledge Acquisition. In: Literary and Linguistic Computing 9, S. 29–46.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1232">Bindi, Remo, Calzolari, Nicoletta; Monachini, Monica; Pirelli, Vito; Zampolli, Antonio (1994): Corpora and Computational Lexica: Integration of Different Methodologies of Lexical Knowledge Acquisition. In: Literary and Linguistic Computing 9, S. 29–46.</rs></bibl>
                     <bibl style="text-align:left; ">Fellbaum, Christiane (Hg.) (1998): 
-                        <rs type="bibl" ref="#bibl__277">Fellbaum, Christiane (Hg.) (1998): WordNet: an electronic lexical database. Cambridge, Mass: MIT Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__175">Fellbaum, Christiane (Hg.) (1998): WordNet: an electronic lexical database. Cambridge, Mass: MIT Press.</rs></bibl>
                     <bibl style="text-align:left; ">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike (2017): 
-                        <rs type="bibl" ref="#bibl__272">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__89">Gaidys, Uta; Gius, Evelyn; Jarchow, Margarete; Koch, Gertraud; Menzel, Wolfgang; Orth, Dominik; Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.</rs></bibl>
                     <bibl style="text-align:left; ">Hamp, Birgit; Helmut Feldweg (1997): GermaNet – a Lexical-Semantic Net for German
-                        <rs type="bibl" ref="#bibl__221">Hamp, Birgit; Helmut Feldweg (1997): GermaNet – a Lexical-Semantic Net for German . In: Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications, Madrid, 1997.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__178">Hamp, Birgit; Helmut Feldweg (1997): GermaNet – a Lexical-Semantic Net for German . In: Proceedings of the ACL workshop Automatic Information Extraction and Building of Lexical Semantic Resources for NLP Applications, Madrid, 1997.</rs></bibl>
                     <bibl style="text-align:left; ">Henrich, Verena; Hinrichs, Erhard (2010): GernEdiT – The GermaNet Editing Tool. In: 
-                        <rs type="bibl" ref="#bibl__222">Henrich, Verena; Hinrichs, Erhard (2010): GernEdiT – The GermaNet Editing Tool. In: Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010), Valletta, Malta, S. 2228–2235.</rs></bibl>
-                    <bibl style="text-align:left; ">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.<rs type="bibl" ref="#bibl__3180">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__179">Henrich, Verena; Hinrichs, Erhard (2010): GernEdiT – The GermaNet Editing Tool. In: Proceedings of the Seventh Conference on International Language Resources and Evaluation (LREC 2010), Valletta, Malta, S. 2228–2235.</rs></bibl>
+                    <bibl style="text-align:left; ">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.<rs type="bibl" ref="#bibl__1233">Heuser, Ryan; Le-Khac, Long (2011): Learning to Read Data: Bringing out the Humanistic in the Digital Humanities. In: Victorian Studies 54, S. 79–86.</rs></bibl>
                     <bibl style="text-align:left; ">Lehrer, Adrienne (1974): 
-                        <rs type="bibl" ref="#bibl__3181">Lehrer, Adrienne (1974): Semantic fields and lexical structure. Amsterdam: North-Holland Publ. Co. [u.a.].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1234">Lehrer, Adrienne (1974): Semantic fields and lexical structure. Amsterdam: North-Holland Publ. Co. [u.a.].</rs></bibl>
                     <bibl style="text-align:left; ">Meister, Jan Christoph; Petris, Marco; Gius, Evelyn; Jacke, Janina (2016): CATMA 5.0 [Software für Textannotation und -analyse]: 
-                        <rs type="bibl" ref="#bibl__3182">Meister, Jan Christoph; Petris, Marco; Gius, Evelyn; Jacke, Janina (2016): CATMA 5.0 [Software für Textannotation und -analyse]: http://www.catma.de (Zugriff: 24.09.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1235">Meister, Jan Christoph; Petris, Marco; Gius, Evelyn; Jacke, Janina (2016): CATMA 5.0 [Software für Textannotation und -analyse]: http://www.catma.de (Zugriff: 24.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013): Efficient Estimation of Word Representations in Vector Space
-                        <rs type="bibl" ref="#bibl__130">Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013): Efficient Estimation of Word Representations in Vector Space . ArXiv: https://arxiv.org/abs/1301.3781 (Zugriff: 25.09.2018).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__45">Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013): Efficient Estimation of Word Representations in Vector Space . ArXiv: https://arxiv.org/abs/1301.3781 (Zugriff: 25.09.2018).</rs></bibl>
                     <bibl style="text-align:left; ">Řehůřek, Radim; Sojka, Petr (2010): Software Framework for Topic Modelling with Large Corpora
-                        <rs type="bibl" ref="#bibl__3183">Řehůřek, Radim; Sojka, Petr (2010): Software Framework for Topic Modelling with Large Corpora . In: Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, Valletta, Malta, S. 45–50.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__184">Řehůřek, Radim; Sojka, Petr (2010): Software Framework for Topic Modelling with Large Corpora . In: Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, Valletta, Malta, S. 45–50.</rs></bibl>
                     <bibl style="text-align:left; ">Trier, Jost (1973): 
-                        <rs type="bibl" ref="#bibl__3184">Trier, Jost (1973): Über Wort- und Begriffsfelder. Darmstadt: Wissenschaftliche Buchgesellschaft. [Zuerst in: Trier, Jost (1931): Der deutsche Wortschatz im Sinnbezirk des Verstandes. Heidelberg, S. 1 - 26 und 310 - 322])</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1236">Trier, Jost (1973): Über Wort- und Begriffsfelder. Darmstadt: Wissenschaftliche Buchgesellschaft. [Zuerst in: Trier, Jost (1931): Der deutsche Wortschatz im Sinnbezirk des Verstandes. Heidelberg, S. 1 - 26 und 310 - 322])</rs></bibl>
                     <bibl style="text-align:left; ">Vassilyev, Leonid M. (1974): The Theory of Semantic Fields: A Survey. In: 
-                        <rs type="bibl" ref="#bibl__3185">Vassilyev, Leonid M. (1974): The Theory of Semantic Fields: A Survey. In: Linguistics 12, S. 79–94.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1237">Vassilyev, Leonid M. (1974): The Theory of Semantic Fields: A Survey. In: Linguistics 12, S. 79–94.</rs></bibl>
                 </listBibl>
             </div>
         </back>

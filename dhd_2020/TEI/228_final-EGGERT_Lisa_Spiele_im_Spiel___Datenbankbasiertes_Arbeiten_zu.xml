@@ -131,40 +131,27 @@
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold">Fiehler, Reinhard</hi> (2016): Gesprochene Sprache. In: Wöllstein, A. und P. Eisenberg (Hrsg.): Duden - die Grammatik. Berlin: Dudenverlag 1181-1260.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4598">Fiehler, Reinhard (2016): Gesprochene Sprache. In: Wöllstein, A. und P. Eisenberg (Hrsg.): Duden - die Grammatik. Berlin: Dudenverlag 1181-1260.</rs></bibl>
       <bibl>
-	<hi rend="bold">Gryphius, Andreas</hi> (1991): Dramen. Hrsg. v. Eberhard Mannack. Frankfurt/M.: Bibliothek deutscher Klassiker.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4599">Gryphius, Andreas (1991): Dramen. Hrsg. v. Eberhard Mannack. Frankfurt/M.: Bibliothek deutscher Klassiker.</rs></bibl>
       <bibl>
-	<hi rend="bold" xml:space="preserve">Hennig, Mathilde </hi>(2006): Grammatik der gesprochenen Sprache in Theorie und Praxis. Kassel: Kassel Univ. Press.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4600">Hennig, Mathilde (2006): Grammatik der gesprochenen Sprache in Theorie und Praxis. Kassel: Kassel Univ. Press.</rs></bibl>
       <bibl>
-	<hi rend="bold">Heudecker, Sylvia / Wesche, Jörg</hi> (2009): Rhetorik und Stilistik der deutschsprachigen Länder in der Zeit des Barock. In: Fix, U., A. Gardt und J. Knape (Hrsg.): Rhetorik und Stilistik. Bd. 1. Berlin: de Gruyter 97-112.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4601">Heudecker, Sylvia / Wesche, Jörg (2009): Rhetorik und Stilistik der deutschsprachigen Länder in der Zeit des Barock. In: Fix, U., A. Gardt und J. Knape (Hrsg.): Rhetorik und Stilistik. Bd. 1. Berlin: de Gruyter 97-112.</rs></bibl>
       <bibl>
-	<hi rend="bold">Jannidis, Fotis</hi> (2010a): Digital Editions on the Net. Perspectives for Scholarly Editing in a Digital World. In: Schäfer, J. und P. Gendolla (Hrsg.): Beyond the Screen. Bielefeld: transcript 543-560.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4602">Jannidis, Fotis (2010a): Digital Editions on the Net. Perspectives for Scholarly Editing in a Digital World. In: Schäfer, J. und P. Gendolla (Hrsg.): Beyond the Screen. Bielefeld: transcript 543-560.</rs></bibl>
       <bibl>
-	<hi rend="bold">Jannidis, Fotis</hi> (2010b): Methoden der computergestützten Textanalyse. In: Nünning, V. (Hrsg.): Methoden der literatur- und kulturwissenschaftlichen Textanalyse. Stuttgart: Metzler 109-132.
-      </bibl>
+	<rs type="bibl" ref="#bibl__279">Jannidis, Fotis (2010b): Methoden der computergestützten Textanalyse. In: Nünning, V. (Hrsg.): Methoden der literatur- und kulturwissenschaftlichen Textanalyse. Stuttgart: Metzler 109-132.</rs></bibl>
       <bibl>
-	<hi rend="bold">Jannidis, Fotis / Smith, Kathleen</hi> (2013): The Specification of User Requirements in the Design of Virtual Research Environments for the Arts and Humanities: Programming for the Future? In: Lossau, N. und H. Neuroth (Hrsg.): Evolution der Informationsinfrastruktur. Glückstadt: Verlag Werner Hülsbusch 71-84.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4603">Jannidis, Fotis / Smith, Kathleen (2013): The Specification of User Requirements in the Design of Virtual Research Environments for the Arts and Humanities: Programming for the Future? In: Lossau, N. und H. Neuroth (Hrsg.): Evolution der Informationsinfrastruktur. Glückstadt: Verlag Werner Hülsbusch 71-84.</rs></bibl>
       <bibl>
-	<hi rend="bold" xml:space="preserve">Krause, Thomas / Zeldes, Amir </hi>(2016): 
-	<hi rend="italic">ANNIS3: A new architecture for generic corpus query and visualization.</hi> in: Digital Scholarship in the Humanities 2016 (31)). 
-	<ref target="http://dsh.oxfordjournals.org/content/31/1/118">http://dsh.oxfordjournals.org/content/31/1/118</ref> [zuletzt abgerufen am 14.06.2018]
-      </bibl>
+	<rs type="bibl" ref="#bibl__354">Krause, Thomas / Zeldes, Amir (2016): ANNIS3: A new architecture for generic corpus query and visualization. in: Digital Scholarship in the Humanities 2016 (31)). http://dsh.oxfordjournals.org/content/31/1/118 [zuletzt abgerufen am 14.06.2018]</rs></bibl>
       <bibl>
-	<hi rend="bold">Pfister, Manfred</hi> (2001): Das Drama. Theorie und Analyse. München: Fink.
-      </bibl>
+	<rs type="bibl" ref="#bibl__150">Pfister, Manfred (2001): Das Drama. Theorie und Analyse. München: Fink.</rs></bibl>
       <bibl>
-	<hi rend="bold">Schwitalla, Johannes</hi> (2012): Gesprochenes Deutsch. Berlin: E. Schmidt.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4604">Schwitalla, Johannes (2012): Gesprochenes Deutsch. Berlin: E. Schmidt.</rs></bibl>
       <bibl>
-	<hi rend="bold">Wesche, Jörg</hi> (2004): Literarische Diversität: Abweichungen, Lizenzen und Spielräume in der deutschen Poesie und Poetik der Barockzeit. Tübingen: Niemeyer.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4605">Wesche, Jörg (2004): Literarische Diversität: Abweichungen, Lizenzen und Spielräume in der deutschen Poesie und Poetik der Barockzeit. Tübingen: Niemeyer.</rs></bibl>
     </listBibl>
   </div>
 </back>

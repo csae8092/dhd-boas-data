@@ -271,86 +271,35 @@ zentrale Begriffe (
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Abercrombie, Gavin / Batista-Navarro, Riza T.</hi> (2018): "Identifying opinion-topics and polarity of parliamentary debate motions", in: 
-                        <hi rend="italic">WASSA 2018 – Proceedings of the 9th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ EMNLP 2018</hi> 280-285.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4581">Abercrombie, Gavin / Batista-Navarro, Riza T. (2018): "Identifying opinion-topics and polarity of parliamentary debate motions", in: WASSA 2018 – Proceedings of the 9th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis @ EMNLP 2018 280-285.</rs></bibl>
 <bibl>
-<hi rend="bold">Barbaresi, Adrien</hi> (2018): "A corpus of German political speeches from the 21st century", in: 
-                        <hi rend="italic">LREC 2018 – Proceedings of the 11</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic">International Conference on Language Resources and Evaluation</hi> 792-797.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4582">Barbaresi, Adrien (2018): "A corpus of German political speeches from the 21st century", in: LREC 2018 – Proceedings of the 11 th International Conference on Language Resources and Evaluation 792-797.</rs></bibl>
 <bibl>
-<hi rend="bold">Blätte, Andreas</hi> (2018): "Zum Verwechseln ähnlich? Eine Klassifikationsanalyse parlamentarischen Diskursverhaltens auf Basis des PolMine-Plenarprotokollkorpus", in: 
-                        <hi rend="italic">Computational Social Science. Die Analyse von Big Data, Nomos</hi> 139-162.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4583">Blätte, Andreas (2018): "Zum Verwechseln ähnlich? Eine Klassifikationsanalyse parlamentarischen Diskursverhaltens auf Basis des PolMine-Plenarprotokollkorpus", in: Computational Social Science. Die Analyse von Big Data, Nomos 139-162.</rs></bibl>
 <bibl>
-<hi rend="bold">Blätte, Andreas / Blessing, André</hi> (2018): "The GermaParl corpus of parliamentary protocols", in: 
-                        <hi rend="italic">LREC 2018 – Proceedings of the 11</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic">International Conference on Language Resources and Evaluation</hi> 810-816.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4584">Blätte, Andreas / Blessing, André (2018): "The GermaParl corpus of parliamentary protocols", in: LREC 2018 – Proceedings of the 11 th International Conference on Language Resources and Evaluation 810-816.</rs></bibl>
 <bibl>
-<hi rend="bold">Buechel, Sven / Hahn, Udo</hi> (2016): "Emotion analysis as a regression problem: dimensional models and their implications on emotion representation and metrical evaluation", in: 
-                        <hi rend="italic">ECAI 2016 – Proceedings of the 22</hi>
-<hi rend="italic superscript">nd</hi>
-<hi rend="italic" xml:space="preserve"> European Conference on Artificial Intelligence</hi> 1114-1122.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4585">Buechel, Sven / Hahn, Udo (2016): "Emotion analysis as a regression problem: dimensional models and their implications on emotion representation and metrical evaluation", in: ECAI 2016 – Proceedings of the 22 nd European Conference on Artificial Intelligence 1114-1122.</rs></bibl>
 <bibl>
-<hi rend="bold">Buechel, Sven / Hellrich, Johannes / Hahn, Udo</hi> (2017): "The course of emotion in three centuries of German text: a methodological framework", in: 
-                        <hi rend="italic">dh 2017 – Digital Humanities 2017: Conference Abstracts of the 2017 Conference of the Alliance of Digital Humanities Organizations (ADHO)</hi>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__367">Buechel, Sven / Hellrich, Johannes / Hahn, Udo (2017): "The course of emotion in three centuries of German text: a methodological framework", in: dh 2017 – Digital Humanities 2017: Conference Abstracts of the 2017 Conference of the Alliance of Digital Humanities Organizations (ADHO).</rs></bibl>
 <bibl>
-<hi rend="bold">Green, Nathan / Larasati, Septina (2018):</hi> "The first 100 days: a corpus of political agendas on Twitter", in: 
-                        <hi rend="italic">LREC 2018 – Proceedings of the 11</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic">International Conference on Language Resources and Evaluation</hi> 2785-2789.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4586">Green, Nathan / Larasati, Septina (2018): "The first 100 days: a corpus of political agendas on Twitter", in: LREC 2018 – Proceedings of the 11 th International Conference on Language Resources and Evaluation 2785-2789.</rs></bibl>
 <bibl>
-<hi rend="bold">Hellrich, Johannes / Buechel, Sven / Hahn, Udo</hi> (2019): "Modeling word emotion in historical language: quantity beats supposed stability in seed word selection", in: 
-                        <hi rend="italic">LaTeCH-CLfL 2019 – Proceedings of the 3</hi>
-<hi rend="italic superscript">rd</hi>
-<hi rend="italic">Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL-HLT 2019</hi> 1-11.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4587">Hellrich, Johannes / Buechel, Sven / Hahn, Udo (2019): "Modeling word emotion in historical language: quantity beats supposed stability in seed word selection", in: LaTeCH-CLfL 2019 – Proceedings of the 3 rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature @ NAACL-HLT 2019 1-11.</rs></bibl>
 <bibl>
-<hi rend="bold">Lietz, Haiko / Wagner, Claudia / Bleier, Arnim / Strohmaier, Markus</hi> (2014): "When politicians talk: assessing online conversational practices of political parties on Twitter", in: 
-                        <hi rend="italic">ICWSM 2014 – Proceedings of the 8</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic">International AAAI Conference on Weblogs and Social Media</hi> 285-294.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4588">Lietz, Haiko / Wagner, Claudia / Bleier, Arnim / Strohmaier, Markus (2014): "When politicians talk: assessing online conversational practices of political parties on Twitter", in: ICWSM 2014 – Proceedings of the 8 th International AAAI Conference on Weblogs and Social Media 285-294.</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Nay, John J. </hi>(2016): "gov2vec: learning distributed representations of institutions and their legal text", in: 
-                        <hi rend="italic">NLP + CSS 2016 – Proceedings of the [1</hi>
-<hi rend="italic superscript">st</hi>
-<hi rend="italic">] Workshop on Natural Language Processing and Computational Social Science @ EMNLP 2016</hi> 49-54.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4589">Nay, John J. (2016): "gov2vec: learning distributed representations of institutions and their legal text", in: NLP + CSS 2016 – Proceedings of the [1 st ] Workshop on Natural Language Processing and Computational Social Science @ EMNLP 2016 49-54.</rs></bibl>
 <bibl>
-<hi rend="bold">Nguyen, Viet-An / Boyd-Graber, Jordan / Resnik, Philip / Miler, Kristina</hi> (2015): "Tea Party in the House: a hierarchical ideal point topic model and its application to Republican legislators in the 112
-                        <hi rend="superscript">th</hi> Congress", in: 
-                        <hi rend="italic">ACL-IJCNLP 2015 – Proceedings of the 53</hi>
-<hi rend="italic superscript">rd</hi>
-<hi rend="italic">Annual Meeting of the Association for Computational Linguistics &amp; 7</hi>
-<hi rend="italic superscript">th</hi>
-<hi rend="italic">International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing</hi> 1438-1448.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4590">Nguyen, Viet-An / Boyd-Graber, Jordan / Resnik, Philip / Miler, Kristina (2015): "Tea Party in the House: a hierarchical ideal point topic model and its application to Republican legislators in the 112 th Congress", in: ACL-IJCNLP 2015 – Proceedings of the 53 rd Annual Meeting of the Association for Computational Linguistics &amp; 7 th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing 1438-1448.</rs></bibl>
 <bibl>
-<hi rend="bold">Rheault, Ludovic / Beelen, Kaspar / Cochrane, Christopher / Hirst, Graeme</hi> (2016): "Measuring emotion in parliamentary debates with automated textual analysis", in: 
-                        <hi rend="italic">PLoS ONE</hi>, 11, e0168843.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4591">Rheault, Ludovic / Beelen, Kaspar / Cochrane, Christopher / Hirst, Graeme (2016): "Measuring emotion in parliamentary debates with automated textual analysis", in: PLoS ONE, 11, e0168843.</rs></bibl>
 <bibl>
-<hi rend="bold">Sylwester, Karolina / Purver, Matthew</hi> (2015): "Twitter language use reflects psychological differences between Democrats and Republicans", in: 
-                        <hi rend="italic">PLoS ONE</hi>, 10, e0137422.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4592">Sylwester, Karolina / Purver, Matthew (2015): "Twitter language use reflects psychological differences between Democrats and Republicans", in: PLoS ONE, 10, e0137422.</rs></bibl>
 <bibl>
-<hi rend="bold">van der Zwaan, Janneke M. / Marx, Maarten / Kamps, Jaap</hi> (2016): "Validating cross-perspective topic modeling for extracting political parties' positions from parliamentary proceedings", in: 
-                        <hi rend="italic">ECAI 2016 – Proceedings of the 22</hi>
-<hi rend="italic superscript">nd</hi>
-<hi rend="italic">European Conference on Artificial Intelligence</hi> 28-36.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4593">van der Zwaan, Janneke M. / Marx, Maarten / Kamps, Jaap (2016): "Validating cross-perspective topic modeling for extracting political parties' positions from parliamentary proceedings", in: ECAI 2016 – Proceedings of the 22 nd European Conference on Artificial Intelligence 28-36.</rs></bibl>
 <bibl>
-<hi rend="bold">Zirn, Cäcilia</hi> (2014): "Analyzing positions and topics in political discussions of the German Bundestag", in: 
-                        <hi rend="italic">Proceedings of the Student Research Workshop @ ACL 2014</hi> 26-33.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4594">Zirn, Cäcilia (2014): "Analyzing positions and topics in political discussions of the German Bundestag", in: Proceedings of the Student Research Workshop @ ACL 2014 26-33.</rs></bibl>
 </listBibl>
 </div>
 </back>

@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>„Medialization follows function!“ Multimodaler Hypertext als Publikationsmedium (nicht nur) für die Geschichtswissenschaft</title><title type="conf_year">2019</title><author ref="#person__christian-wachter-stud-uni-goettingen-de">
+                <title>„Medialization follows function!“ Multimodaler Hypertext als Publikationsmedium (nicht nur) für die Geschichtswissenschaft</title><title type="conf_year">2019</title>
+                <author ref="#person__christian-wachter-stud-uni-goettingen-de">
                     <persName>
                         <surname>Wachter</surname>
                         <forename>Christian</forename>
@@ -106,49 +107,49 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4016">The Alliance for Networking Visual Culture: Scalar https://scalar.me/anvc/scalar/ [letzter Zugriff 29. Dezember 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1592">The Alliance for Networking Visual Culture: Scalar https://scalar.me/anvc/scalar/ [letzter Zugriff 29. Dezember 2018].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4017">Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (2004): "Einleitung. Die Medialität der Geschichte und die Historizität der Medien", in: Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (eds.): Die Medien der Geschichte. Historizität und Medialität in interdisziplinärer Perspektive (= Historische Kulturwissenschaft 4). Konstanz: UVK Verlagsgesellschaft 9-45.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1593">Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (2004): "Einleitung. Die Medialität der Geschichte und die Historizität der Medien", in: Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (eds.): Die Medien der Geschichte. Historizität und Medialität in interdisziplinärer Perspektive (= Historische Kulturwissenschaft 4). Konstanz: UVK Verlagsgesellschaft 9-45.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4018">Große, Franziska (2011): Bild-Linguistik. Grundbegriffe und Methoden der linguistischen Bildanalyse in Text- und Diskursumgebungen (= Germanistische Arbeiten zu Sprache und Kulturgeschichte 50). Frankfurt a.M. / Berlin / Bern / Brüssel / New York / Oxford / Wien: Peter Lang.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1594">Große, Franziska (2011): Bild-Linguistik. Grundbegriffe und Methoden der linguistischen Bildanalyse in Text- und Diskursumgebungen (= Germanistische Arbeiten zu Sprache und Kulturgeschichte 50). Frankfurt a.M. / Berlin / Bern / Brüssel / New York / Oxford / Wien: Peter Lang.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4019">Haas, Stefan (2004): "Designing Knowledge. Theoretische und pragmatische Perspektiven der medialen Bedingungen der Erkenntnisformulierung und ‑vermittlung in den Kultur‑ und Sozialwissenschaften", in: Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (eds.): Die Medien der Geschichte. Historizität und Medialität in interdisziplinärer Perspektive (= Historische Kulturwissenschaft 4). Konstanz: UVK Verlagsgesellschaft 211-236.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1595">Haas, Stefan (2004): "Designing Knowledge. Theoretische und pragmatische Perspektiven der medialen Bedingungen der Erkenntnisformulierung und ‑vermittlung in den Kultur‑ und Sozialwissenschaften", in: Crivellari, Fabio / Kirchmann, Kay / Sandl, Marcus / Schlögl, Rudolf (eds.): Die Medien der Geschichte. Historizität und Medialität in interdisziplinärer Perspektive (= Historische Kulturwissenschaft 4). Konstanz: UVK Verlagsgesellschaft 211-236.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__4020">Haas, Stefan (2006): "Vom Schreiben in Bildern. Visualität, Narrativität und digitale Medien in den historischen Wissenschaften", in: zeitenblicke 5, vol. 3: http://www.zeitenblicke.de/2006/3/Haas*index_html [letzter Zugriff 5. November 2013].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1596">Haas, Stefan (2006): "Vom Schreiben in Bildern. Visualität, Narrativität und digitale Medien in den historischen Wissenschaften", in: zeitenblicke 5, vol. 3: http://www.zeitenblicke.de/2006/3/Haas*index_html [letzter Zugriff 5. November 2013].</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4021">Krameritsch, Jakob (2007): Geschichte(n) im Netzwerk. Hypertext und dessen Potenziale für die Produktion, Repräsentation und Rezeption der historischen Erzählung. Münster / München: Waxmann.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1597">Krameritsch, Jakob (2007): Geschichte(n) im Netzwerk. Hypertext und dessen Potenziale für die Produktion, Repräsentation und Rezeption der historischen Erzählung. Münster / München: Waxmann.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4022">Krameritsch, Jakob (2009): "Die fünf Typen des historischen Erzählens – im Zeitalter digitaler Medien", in: Zeithistorische Forschungen / Studies in Contemporary History 6, vol. 3: 413-432.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1598">Krameritsch, Jakob (2009): "Die fünf Typen des historischen Erzählens – im Zeitalter digitaler Medien", in: Zeithistorische Forschungen / Studies in Contemporary History 6, vol. 3: 413-432.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4023">Kress, Gunther / van Leeuwen, Theo (2001): Multimodal Discourse. The Modes and Media of Contemporary Communication. London / New York: Arnold / Oxford University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1599">Kress, Gunther / van Leeuwen, Theo (2001): Multimodal Discourse. The Modes and Media of Contemporary Communication. London / New York: Arnold / Oxford University Press.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4024">Krippendorff, Klaus (2006): The Semantic Turn. A New Foundation for Design. Boca Raton / London / New York: Taylor &amp; Francis.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1600">Krippendorff, Klaus (2006): The Semantic Turn. A New Foundation for Design. Boca Raton / London / New York: Taylor &amp; Francis.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4025">Rüsen, Jörn (2013): Historik. Theorie der Geschichtswissenschaft. Köln / Weimar / Wien: Böhlau.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1601">Rüsen, Jörn (2013): Historik. Theorie der Geschichtswissenschaft. Köln / Weimar / Wien: Böhlau.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4026">Schnell, Ralf (2000): Medienästhetik. Zu Geschichte und Theorie audiovisueller Wahrnehmungsformen. Stuttgart: J.B. Metzler.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1602">Schnell, Ralf (2000): Medienästhetik. Zu Geschichte und Theorie audiovisueller Wahrnehmungsformen. Stuttgart: J.B. Metzler.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4027">Schnell, Ralf (2001): "Medienästhetik", in: Schanze, Helmut (ed.): Handbuch der Mediengeschichte. Stuttgart: Kröner 72-95.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1603">Schnell, Ralf (2001): "Medienästhetik", in: Schanze, Helmut (ed.): Handbuch der Mediengeschichte. Stuttgart: Kröner 72-95.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4028">Staley, David J. (2014): Computers, Visualization, and History. How New Technology Will Transform Our Understanding of the Past. Armonk / London: M.E. Sharpe.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1604">Staley, David J. (2014): Computers, Visualization, and History. How New Technology Will Transform Our Understanding of the Past. Armonk / London: M.E. Sharpe.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4029">Stöckl, Hartmut (2011): "Sprache-Bild-Texte lesen. Bausteine zur Methodik einer Grundkompetenz", in: Diekmannshenke, Hajo / Klemm, Michael / Stöckl, Hartmut (eds.): Bildlinguistik. Theorien – Methoden – Fallbeispiele (= Philologische Studien und Quellen 228). Berlin: Erich Schmidt Verlag 45-70.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1605">Stöckl, Hartmut (2011): "Sprache-Bild-Texte lesen. Bausteine zur Methodik einer Grundkompetenz", in: Diekmannshenke, Hajo / Klemm, Michael / Stöckl, Hartmut (eds.): Bildlinguistik. Theorien – Methoden – Fallbeispiele (= Philologische Studien und Quellen 228). Berlin: Erich Schmidt Verlag 45-70.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4030">Stopka, Katja (2018): "Geschichte und Literatur", in: Busse, Laura / Enderle, Wilfried / Hohls, Rüdiger / Meyer, Thomas / Prellwitz, Jens / Schuhmann, Annette (eds.): Clio-Guide. Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften (= Historisches Forum 23 / Veröffentlichungen von Clio-online 2). Berlin: Clio-online und Humboldt-Universität zu Berlin E.5-1-E.5-19.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1606">Stopka, Katja (2018): "Geschichte und Literatur", in: Busse, Laura / Enderle, Wilfried / Hohls, Rüdiger / Meyer, Thomas / Prellwitz, Jens / Schuhmann, Annette (eds.): Clio-Guide. Ein Handbuch zu digitalen Ressourcen für die Geschichtswissenschaften (= Historisches Forum 23 / Veröffentlichungen von Clio-online 2). Berlin: Clio-online und Humboldt-Universität zu Berlin E.5-1-E.5-19.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4031">Storrer, Angelika (2000): "Was ist 'hyper' am Hypertext?", in: Kallmeyer, Werner (ed.): Sprache und neue Medien (= Institut für deutsche Sprache. Jahrbuch 1999). Berlin: De Gruyter 222-249.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1607">Storrer, Angelika (2000): "Was ist 'hyper' am Hypertext?", in: Kallmeyer, Werner (ed.): Sprache und neue Medien (= Institut für deutsche Sprache. Jahrbuch 1999). Berlin: De Gruyter 222-249.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4032">Storrer, Angelika (2004): "Kohärenz in Hypertexten", in: Zeitschrift für germanistische Linguistik 31, vol. 2: 274-292.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1608">Storrer, Angelika (2004): "Kohärenz in Hypertexten", in: Zeitschrift für germanistische Linguistik 31, vol. 2: 274-292.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4033">Sullivan, Louis H. (1896): "The Tall Office Building Artistically Considered", in: Lippincott’s Magazine 57: 403-409.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1609">Sullivan, Louis H. (1896): "The Tall Office Building Artistically Considered", in: Lippincott’s Magazine 57: 403-409.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4034">Weber, Stefan (2010): "Konstruktivistische Medientheorien", in: Weber, Stefan (ed.): Theorien der Medien. Von der Kulturkritik bis zum Konstruktivismus (= UTB 2424). Konstanz: UVK Verlagsgesellschaft 170-188.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1610">Weber, Stefan (2010): "Konstruktivistische Medientheorien", in: Weber, Stefan (ed.): Theorien der Medien. Von der Kulturkritik bis zum Konstruktivismus (= UTB 2424). Konstanz: UVK Verlagsgesellschaft 170-188.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__4035">Winko, Simone (2005): "Hyper – Text – Literatur. Digitale Literatur als Herausforderung an die Literaturwissenschaft", in: Segeberg, Harro / Winko, Simone (eds.): Digitalität und Literalität. Zur Zukunft der Literatur. München: W. Fink 137-157.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1611">Winko, Simone (2005): "Hyper – Text – Literatur. Digitale Literatur als Herausforderung an die Literaturwissenschaft", in: Segeberg, Harro / Winko, Simone (eds.): Digitalität und Literalität. Zur Zukunft der Literatur. München: W. Fink 137-157.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__269">Winko, Simone (2008): "Lost in hypertext? Autorkonzepte und neue Medien", in: Jannidis, Fotis / Lauer, Gerhard / Martinez, Matias / Winko, Simone (eds.): Rückkehr des Autors. Zur Erneuerung eines umstrittenen Begriffs (= Studien und Texte zur Sozialgeschichte der Literatur 71). Tübingen: Max Niemeyer Verlag 511-533.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__238">Winko, Simone (2008): "Lost in hypertext? Autorkonzepte und neue Medien", in: Jannidis, Fotis / Lauer, Gerhard / Martinez, Matias / Winko, Simone (eds.): Rückkehr des Autors. Zur Erneuerung eines umstrittenen Begriffs (= Studien und Texte zur Sozialgeschichte der Literatur 71). Tübingen: Max Niemeyer Verlag 511-533.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__4036">Zitterbarth, Walter (1991): "Der Erlanger Konstruktivismus in seiner Beziehung zum konstruktiven Realismus", in: Peschl, Markus F. (ed.): Formen des Konstruktivismus in der Diskussion. Materialien zu den "Acht Vorlesungen über den Konstruktiven Realismus" (= Cognitive Science 2). Wien: Wiener Universitätsverlag 73-87.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1612">Zitterbarth, Walter (1991): "Der Erlanger Konstruktivismus in seiner Beziehung zum konstruktiven Realismus", in: Peschl, Markus F. (ed.): Formen des Konstruktivismus in der Diskussion. Materialien zu den "Acht Vorlesungen über den Konstruktiven Realismus" (= Cognitive Science 2). Wien: Wiener Universitätsverlag 73-87.</rs></bibl>
                 </listBibl>
             </div>
         </back>

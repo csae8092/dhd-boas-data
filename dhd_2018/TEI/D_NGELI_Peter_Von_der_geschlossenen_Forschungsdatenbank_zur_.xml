@@ -161,15 +161,15 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__35">Boschung, Urs et al. (eds.): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777 (Studia Halleriana VII), Basel: Schwabe 2006.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__469">Dumont, Stefan et al.: correspSearch, URL: http://correspsearch.net (14.1.2018).</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__36">Flückiger, Daniel / Stuber, Martin: Vom System zum Akteur. Personenorientierte Datenbanken für Archiv und Forschung, in: Kirchhofer, André et al. (eds.), Nachhaltige Geschichte. Festschrift für Christian Pfister, Zürich: Chronos 2009, S. 253-269.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__37">Sonntag, Otto (ed.): The Albrecht von Haller-Gerlach Adolph von Münchhausen Correspondence, Digitale Edition, Bern 2018 (in Vorbereitung).</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__470">Steinke, Hubert: Archive databases as advanced research tools: the Haller Project, in: Monti, Maria Teresa (ed.), Antonio Vallisneri. L'edizione del testo scientifico d'età moderna, Firenze: Olschki 2003, S. 191–204.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__38">Steinke, Hubert / Profos, Claudia: Bibliographia Halleriana: Verzeichnis der Schriften von und über Albrecht von Haller (Studia Halleriana VIII), Basel: Schwabe 2004.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__471">Stuber, Martin: Findmittel und Forschungsinstrument zugleich. Die Datenbank des Berner Haller-Projekts, in: Arbido 14, 1999, S. 5-10.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__39">Stuber, Martin / Hächler, Stefan / Lienhard, Luc (eds.): Hallers Netz. Ein europäischer Gelehrtenbriefwechsel zur Zeit der Aufklärung, Schwabe: Basel 2005.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__472">Vogeler, Georg et al.: prosopogrAPhI, URL: https://github.com/GVogeler/prosopogrAPhI (14.1.2018).</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3186">Boschung, Urs et al. (eds.): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777 (Studia Halleriana VII), Basel: Schwabe 2006.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3187">Dumont, Stefan et al.: correspSearch, URL: http://correspsearch.net (14.1.2018).</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__97">Flückiger, Daniel / Stuber, Martin: Vom System zum Akteur. Personenorientierte Datenbanken für Archiv und Forschung, in: Kirchhofer, André et al. (eds.), Nachhaltige Geschichte. Festschrift für Christian Pfister, Zürich: Chronos 2009, S. 253-269.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__98">Sonntag, Otto (ed.): The Albrecht von Haller-Gerlach Adolph von Münchhausen Correspondence, Digitale Edition, Bern 2018 (in Vorbereitung).</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3188">Steinke, Hubert: Archive databases as advanced research tools: the Haller Project, in: Monti, Maria Teresa (ed.), Antonio Vallisneri. L'edizione del testo scientifico d'età moderna, Firenze: Olschki 2003, S. 191–204.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__99">Steinke, Hubert / Profos, Claudia: Bibliographia Halleriana: Verzeichnis der Schriften von und über Albrecht von Haller (Studia Halleriana VIII), Basel: Schwabe 2004.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3189">Stuber, Martin: Findmittel und Forschungsinstrument zugleich. Die Datenbank des Berner Haller-Projekts, in: Arbido 14, 1999, S. 5-10.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3190">Stuber, Martin / Hächler, Stefan / Lienhard, Luc (eds.): Hallers Netz. Ein europäischer Gelehrtenbriefwechsel zur Zeit der Aufklärung, Schwabe: Basel 2005.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__3191">Vogeler, Georg et al.: prosopogrAPhI, URL: https://github.com/GVogeler/prosopogrAPhI (14.1.2018).</rs></bibl>
                 </listBibl>
             </div>
       </back>

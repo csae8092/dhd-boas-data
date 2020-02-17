@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der TextImager als Front- und Backend für das verteilte NLP von Big Digital Humanities Data</title><title type="conf_year">2019</title><author ref="#person__hemati-em-uni-frankfurt-de">
+                <title>Der TextImager als Front- und Backend für das verteilte NLP von Big Digital Humanities Data</title><title type="conf_year">2019</title>
+                <author ref="#person__hemati-em-uni-frankfurt-de">
                     <persName>
                         <surname>Hemati</surname>
                         <forename>Wahed</forename>
@@ -116,17 +117,17 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3323">de Castilho, Richard Eckart / Gurevych Iryna, (2014): “A broad-coverage collection of portable NLP components for building shareable analysis pipelines”, in: Proceedings of the Workshop on Open Infrastructures and Analysis Frameworks for HLT 1–11.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1398">de Castilho, Richard Eckart / Gurevych Iryna, (2014): “A broad-coverage collection of portable NLP components for building shareable analysis pipelines”, in: Proceedings of the Workshop on Open Infrastructures and Analysis Frameworks for HLT 1–11.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__283">Ferrucci, David / Lally, Adam (2004). “UIMA: an architectural approach to unstructured information processing in the corporate research environment.”, in: Natural Language Engineering 10(3-4) 327–348.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__85">Ferrucci, David / Lally, Adam (2004). “UIMA: an architectural approach to unstructured information processing in the corporate research environment.”, in: Natural Language Engineering 10(3-4) 327–348.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3324">Gleim, Rüdiger / Mehler, Alexander / Ernst, Alexandra (2012): „SOA implementation of the ehumanities desktop”, in: Proceedings of the Workshop on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1399">Gleim, Rüdiger / Mehler, Alexander / Ernst, Alexandra (2012): „SOA implementation of the ehumanities desktop”, in: Proceedings of the Workshop on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3325">Hemati, Wahed / Uslu, Tolga / Mehler, Alexander (2016): “Textimager: a distributed uima-based system for nlp”, in: Proceedings of the COLING 2016 System Demonstrations. FederatedConference on Computer Science and Information Systems.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1400">Hemati, Wahed / Uslu, Tolga / Mehler, Alexander (2016): “Textimager: a distributed uima-based system for nlp”, in: Proceedings of the COLING 2016 System Demonstrations. FederatedConference on Computer Science and Information Systems.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__284">Manning, Christopher / Surdenu, Mihai / Bauer, John / Finkel, Jenny / Bethard, Steven / McClosky, David (2014): “The stanford CoreNLP natural language processing toolkit”, in: Proceedings of 52nd annual meeting of the association for computational linguistics: system demonstrations 55–60.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__127">Manning, Christopher / Surdenu, Mihai / Bauer, John / Finkel, Jenny / Bethard, Steven / McClosky, David (2014): “The stanford CoreNLP natural language processing toolkit”, in: Proceedings of 52nd annual meeting of the association for computational linguistics: system demonstrations 55–60.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3326">OpenNLP (2010): “Apache OpenNLP”, in: http://opennlp.apache.org [letzter Zugriff 05. Oktober 2018]</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1401">OpenNLP (2010): “Apache OpenNLP”, in: http://opennlp.apache.org [letzter Zugriff 05. Oktober 2018]</rs></bibl>
                 </listBibl>
             </div>
         </back>

@@ -226,15 +226,15 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1350">Kreuzer, Helmut (Hg.) (2006): Deutschsprachige Literaturkritik 1870-1914. Eine Dokumentation. Unter Mitarbeit von Doris Rosenstein. 4 Bde. Frankfurt am Main: Lang.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__4199">Kreuzer, Helmut (Hg.) (2006): Deutschsprachige Literaturkritik 1870-1914. Eine Dokumentation. Unter Mitarbeit von Doris Rosenstein. 4 Bde. Frankfurt am Main: Lang.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__73">Liu, Bing (2015). Sentiment Analysis: Mining Opinions, Sentiments, and Emotions. Cambridge University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__368">Liu, Bing (2015). Sentiment Analysis: Mining Opinions, Sentiments, and Emotions. Cambridge University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1351">Mellmann, Katja / Willand, Marcus (2013): Historische Rezeptionsanalyse. Zur Empirisierung von Textbedeutungen. In: P. Ajouri, K. Mellmann &amp; C. Rauen (Hg.): Empirie in der Literaturwissenschaft. Münster: Mentis, S. 263–281.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__4200">Mellmann, Katja / Willand, Marcus (2013): Historische Rezeptionsanalyse. Zur Empirisierung von Textbedeutungen. In: P. Ajouri, K. Mellmann &amp; C. Rauen (Hg.): Empirie in der Literaturwissenschaft. Münster: Mentis, S. 263–281.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__76">Remus, Robert / Quasthoff, Uwe / Heyer, Gerhard (2010): SentiWS - a Publicly Available German-Language Resource for Sentiment Analysis. In: Proceedings of the 7th International Language Ressources and Evaluation, pp. 1168-1171.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__370">Remus, Robert / Quasthoff, Uwe / Heyer, Gerhard (2010): SentiWS - a Publicly Available German-Language Resource for Sentiment Analysis. In: Proceedings of the 7th International Language Ressources and Evaluation, pp. 1168-1171.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__1352">van Bellen, Maurits (2010): Sentiment Analysis on historical book reviews with a Bayesian Classifier. Bachelor-Arbeit. University of Amsterdam.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__4201">van Bellen, Maurits (2010): Sentiment Analysis on historical book reviews with a Bayesian Classifier. Bachelor-Arbeit. University of Amsterdam.</rs></bibl>
                 </listBibl>
             </div>
       </back>

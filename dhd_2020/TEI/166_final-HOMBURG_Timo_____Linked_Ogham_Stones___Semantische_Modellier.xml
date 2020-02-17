@@ -329,69 +329,33 @@ Mit einem größeren Korpus werden die Analysen noch bessere Ergebnisse hervorbr
     <listBibl>
       <head>Bibliographie</head>
       <bibl>
-	<hi rend="bold">Brickley, Dan/ Libby, Miller </hi> (2007): "FOAF vocabulary specification 0.91.".
-      </bibl>
+	<rs type="bibl" ref="#bibl__4310">Brickley, Dan/ Libby, Miller (2007): "FOAF vocabulary specification 0.91.".</rs></bibl>
       <bibl>
-	<hi rend="bold">Chiarcos, Christian / Sukhareva, Maria </hi> (2015): Olia–ontologies of linguistic annotation." 
-	in:   <hi rend="italic">Semantic Web</hi>  6, no. 4: 379-386.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4311">Chiarcos, Christian / Sukhareva, Maria (2015): Olia–ontologies of linguistic annotation." in: Semantic Web 6, no. 4: 379-386.</rs></bibl>
       <bibl>
-	<hi rend="bold">Ferguson, Samuel </hi> (1864): 
-	Account of Ogham Inscriptions in the Cave at Rathcroghan, County of Roscommon. in:
-	<hi rend="italic">Proceedings of the Royal Irish Academy
-	(1836-1869)</hi> 9: 160-170.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4312">Ferguson, Samuel (1864): Account of Ogham Inscriptions in the Cave at Rathcroghan, County of Roscommon. in: Proceedings of the Royal Irish Academy (1836-1869) 9: 160-170.</rs></bibl>
       <bibl>
-	<hi rend="bold">Forsyth, Katherine Stuart</hi>  (1997): 
-	<hi rend="italic">"The ogham inscriptions of Scotland: An edited corpus."</hi>: 2160-2160.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4313">Forsyth, Katherine Stuart (1997): "The ogham inscriptions of Scotland: An edited corpus.": 2160-2160.</rs></bibl>
       <bibl>
-	<hi rend="bold">Graves, Charles / Limerick, C.</hi> (1876): "The ogham alphabet." 
-	<hi rend="italic">Hermathena</hi> 2, no. 4: 443-472.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4314">Graves, Charles / Limerick, C. (1876): "The ogham alphabet." Hermathena 2, no. 4: 443-472.</rs></bibl>
       <bibl>
-	<hi rend="bold">Homburg, T.</hi> (2019): 
-	<hi rend="italic">"PaleoCodage - A machine-readable way to describe cuneiform characters paleographically"</hi>.
-	DH2019 Book Of Abstracts - Short Papers.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4315">Homburg, T. (2019): "PaleoCodage - A machine-readable way to describe cuneiform characters paleographically". DH2019 Book Of Abstracts - Short Papers.</rs></bibl>
       <bibl>
-	<hi rend="bold">Homburg, Timo/ Thiery Florian</hi>  (2019): “OGI Ogham oghamextractor”.
-	<ptr target="https://github.com/ogi-ogham/oghamextractor"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4316">Homburg, Timo/ Thiery Florian (2019): “OGI Ogham oghamextractor”. .</rs></bibl>
       <bibl>
-	<hi rend="bold">Macalister, R. A. S. </hi>  (1945):
-	<hi rend="italic">"Corpus Inscriptionum Insularum
-	Celticarum Vol. I."</hi>, Dublin: Stationery Office.
-      </bibl>
+	<rs type="bibl" ref="#bibl__395">Macalister, R. A. S. (1945): "Corpus Inscriptionum Insularum Celticarum Vol. I.", Dublin: Stationery Office.</rs></bibl>
       <bibl>
-	<hi rend="bold">Macalister, R. A. S.</hi> (1949): 
-	<hi rend="italic">"Corpus Inscriptionum Insularum Celticarum Vol. II.</hi>, Dublin: Stationery Office.
-      </bibl>
+	<rs type="bibl" ref="#bibl__395">Macalister, R. A. S. (1949): "Corpus Inscriptionum Insularum Celticarum Vol. II., Dublin: Stationery Office.</rs></bibl>
       <bibl>
-	<hi rend="bold">MacNeill, Eoin</hi> (1929): 
-	<hi rend="italic">"Archaisms in the ogham inscriptions."
-	Proceedings of the Royal Irish Academy. Section C:
-	Archaeology, Celtic Studies, History, Linguistics,
-	Literature</hi> 39: 33-53.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4317">MacNeill, Eoin (1929): "Archaisms in the ogham inscriptions." Proceedings of the Royal Irish Academy. Section C: Archaeology, Celtic Studies, History, Linguistics, Literature 39: 33-53.</rs></bibl>
       <bibl>
-	<hi rend="bold">McCrae, John / Montial-Ponsoda, Elena /
-	Cimiano, Philipp</hi> (2012):
-	"Integrating WordNet and Wiktionary with lemon." in <hi rend="italic">Linked Data in Linguistics</hi>, pp. 25-34. Springer, Berlin, Heidelberg.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4318">McCrae, John / Montial-Ponsoda, Elena / Cimiano, Philipp (2012): "Integrating WordNet and Wiktionary with lemon." in Linked Data in Linguistics, pp. 25-34. Springer, Berlin, Heidelberg.</rs></bibl>
       <bibl>
-	<hi rend="bold">Thiery, Florian / Trognitz, Martina </hi> (2019a): “SPARQL Unicorn Github Repository”, <ptr target="https://github.com/sparqlunicorn"/>.
-      </bibl>
+	<rs type="bibl" ref="#bibl__4319">Thiery, Florian / Trognitz, Martina (2019a): “SPARQL Unicorn Github Repository”, .</rs></bibl>
       <bibl>
-	<hi rend="bold">Thiery, Florian / Trognitz, Martina </hi> (2019b): 
-	Wikidata: A SPARQL(ing) Unicorn?”, CAA: Computer Applications
-	&amp; Quantiative Methods in Archaeology - Book of Abstracts,
-	Bournemouth .
-      </bibl>
+	<rs type="bibl" ref="#bibl__4320">Thiery, Florian / Trognitz, Martina (2019b): Wikidata: A SPARQL(ing) Unicorn?”, CAA: Computer Applications &amp; Quantiative Methods in Archaeology - Book of Abstracts, Bournemouth .</rs></bibl>
       <bibl>
-	<hi rend="bold">Vrandečić, Denny / Markus Krötzsch. </hi>
-	(2014): "Wikidata: a free collaborative knowledge base." .
-      </bibl>
+	<rs type="bibl" ref="#bibl__343">Vrandečić, Denny / Markus Krötzsch. (2014): "Wikidata: a free collaborative knowledge base." .</rs></bibl>
     </listBibl>
   </div>
 </back>

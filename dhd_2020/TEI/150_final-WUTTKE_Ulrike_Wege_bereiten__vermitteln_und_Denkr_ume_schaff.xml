@@ -125,105 +125,47 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Anne, Kirk M. et al.</hi> (2017): 
-                        <hi rend="italic">Building Capacity for Digital Humanities: A Framework for Institutional Planning</hi>. ECAR Working Group Paper, 
-                        <ptr target="https://library.educause.edu/-/media/files/library/2017/5/ewg1702.pdf"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__171">Anne, Kirk M. et al. (2017): Building Capacity for Digital Humanities: A Framework for Institutional Planning. ECAR Working Group Paper, [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Borgman, Christine L.</hi> (2015): 
-                        <hi rend="italic">Big Data, Little Data, No Data: Scholarship in the Networked World</hi>. Cambridge (Mass.), London: MIT Press.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5181">Borgman, Christine L. (2015): Big Data, Little Data, No Data: Scholarship in the Networked World. Cambridge (Mass.), London: MIT Press.</rs></bibl>
 <bibl>
-<hi rend="bold">Burghardt, Manuel / Wolff, Christian</hi> (2015): "Zentren für Digital Humanities in Deutschland", in: 
-                        <hi rend="italic">Information – Wissenschaft &amp; Praxis</hi> 66(5–6): 312–326, DOI: 10.1515/iwp-2015-0056 
-                        <ptr target="https://www.degruyter.com/downloadpdf/j/iwp.2015.66.issue-5-6/iwp-2015-0056/iwp-2015-0056.xml"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5182">Burghardt, Manuel / Wolff, Christian (2015): "Zentren für Digital Humanities in Deutschland", in: Information – Wissenschaft &amp; Praxis 66(5–6): 312–326, DOI: 10.1515/iwp-2015-0056 [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">DFG</hi> (o.J.): GEPRIS Detailseite Projekt Symposienreihe 'Digitalität in den Geisteswissenschafteften'. Titel der Webseite: DFG – Deutsche Forschungsgemeinschaft 
-                        <ptr target="https://gepris.dfg.de/gepris/projekt/287972711"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5183">DFG (o.J.): GEPRIS Detailseite Projekt Symposienreihe 'Digitalität in den Geisteswissenschafteften'. Titel der Webseite: DFG – Deutsche Forschungsgemeinschaft [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Edmond, Jennifer</hi> (2016): "Collaboration and Infrastructure" in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.), 
-                        <hi rend="italic">A New Companion to Digital Humanities</hi>, Chichester (West Sussex): Wiley Blackwell 54–65.
-                    </bibl>
+<rs type="bibl" ref="#bibl__172">Edmond, Jennifer (2016): "Collaboration and Infrastructure" in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.), A New Companion to Digital Humanities, Chichester (West Sussex): Wiley Blackwell 54–65.</rs></bibl>
 <bibl>
-<hi rend="bold">Harrower, Natalie</hi> (ed.) (2015): 
-                        <hi rend="italic">Going Digital: Creating Change in the Humanities</hi>. ALLEA E-Humanities Working Group Report 
-                        <ptr target="http://dri.ie/sites/default/files/files/Going-Digital-digital-version.pdf"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5184">Harrower, Natalie (ed.) (2015): Going Digital: Creating Change in the Humanities. ALLEA E-Humanities Working Group Report [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">HRK</hi> (2014): 
-                        <hi rend="italic">Management von Forschungsdaten: Eine zentrale strategische Herausforderung für Hochschulleitungen</hi>
-			<ref target="https://www.hrk.de/fileadmin/_migrated/content_uploads/HRK_Empfehlung_Forschungsdaten_13052014_01.pdf">https://www.hrk.de/fileadmin/_migrated/content_uploads/HRK_Empfehlung_Forschungsdaten_13052014_01.pdf</ref>
-			[letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5185">HRK (2014): Management von Forschungsdaten: Eine zentrale strategische Herausforderung für Hochschulleitungen https://www.hrk.de/fileadmin/_migrated/content_uploads/HRK_Empfehlung_Forschungsdaten_13052014_01.pdf [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Hügi, Jasmin / Schneider, René</hi> (2013): 
-                        <hi rend="italic">Digitale Forschungsinfrastrukturen für die Geistes- und Geschichtswissenschaften</hi>, Genf 
-                        <ptr target="https://doc.rero.ch/record/31535/files/Schneider_Digitale_Forschungsinfrastrukturen.pdf"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5186">Hügi, Jasmin / Schneider, René (2013): Digitale Forschungsinfrastrukturen für die Geistes- und Geschichtswissenschaften, Genf [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Lewis, Vivian / Spiro, Lisa / Wang, Xuemao / Cawthorne, Jon E.</hi> (2015): 
-                        <hi rend="italic">Building Expertise to Support Digital Scholarship: A Global Perspective</hi>. CLIR Publication, Bd. 168, Washington D.C. 
-                        <ptr target="http://www.clir.org/pubs/reports/pub168/pub168"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5187">Lewis, Vivian / Spiro, Lisa / Wang, Xuemao / Cawthorne, Jon E. (2015): Building Expertise to Support Digital Scholarship: A Global Perspective. CLIR Publication, Bd. 168, Washington D.C. [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Maron, Nancy L. / Pickle, Sarah</hi> (2014): 
-                        <hi rend="italic">Sustaining the Digital Humanities: Host Institution Support beyond the Start-up Phase</hi>
-<ptr target="https://doi.org/10.18665/sr.22548"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5188">Maron, Nancy L. / Pickle, Sarah (2014): Sustaining the Digital Humanities: Host Institution Support beyond the Start-up Phase [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Mortiz, Carolyn / Smart, Rachel / Retteen, Aaron / Hunter, Matthew / Stanley, Sarah / Soper, Devin / Vandegriff, Micah</hi> (2017): "De-Centering and Recentering Digital Scholarship: A Manifesto" in: 
-                        <hi rend="italic">Journal of New Librarianship</hi> 2(2): 101–109 
-                        <ptr target="https://doi.org/10.21173/newlibs/3/2"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5189">Mortiz, Carolyn / Smart, Rachel / Retteen, Aaron / Hunter, Matthew / Stanley, Sarah / Soper, Devin / Vandegriff, Micah (2017): "De-Centering and Recentering Digital Scholarship: A Manifesto" in: Journal of New Librarianship 2(2): 101–109 [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Posner, Miriam</hi> (2016): "Here and There: Creating DH Community" in: Gold, Matthew K. / Klein, Lauren F. (eds.): 
-                        <hi rend="italic">Debates in the Digital Humanities</hi>, Minneapolis: University of Minnesota Press 
-                        <ptr target="https://dhdebates.gc.cuny.edu/read/untitled/section/c6b8f952-acfd-48b6-82bb-71580c54cad2#ch22"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5190">Posner, Miriam (2016): "Here and There: Creating DH Community" in: Gold, Matthew K. / Klein, Lauren F. (eds.): Debates in the Digital Humanities, Minneapolis: University of Minnesota Press [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Prescott, Andrew</hi> (2016): "Beyond the Digital Humanities Center: The Administrative Landscapes of the Digital Humanities" in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): 
-                        <hi rend="italic">A New Companion to Digital Humanities</hi>, Chichester (West Sussex): Wiley Blackwell 461–475.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5191">Prescott, Andrew (2016): "Beyond the Digital Humanities Center: The Administrative Landscapes of the Digital Humanities" in: Schreibman, Susan / Siemens, Ray / Unsworth, John (eds.): A New Companion to Digital Humanities, Chichester (West Sussex): Wiley Blackwell 461–475.</rs></bibl>
 <bibl>
-<hi rend="bold">Rehbein, Malte / Sahle, Patrick</hi> (2013): "Digital Humanities lehren und lernen: Modelle, Strategien, Erwartungen" in: Neuroth, Heike / Lossau, Norbert/ Rapp, Andrea (eds.): 
-                        <hi rend="italic">Evolution der Informationsinfrastruktur: Kooperation zwischen Bibliothek und Wissenschaft</hi>, Glückstadt: Verlag Werner Hülsbusch 209–228.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5192">Rehbein, Malte / Sahle, Patrick (2013): "Digital Humanities lehren und lernen: Modelle, Strategien, Erwartungen" in: Neuroth, Heike / Lossau, Norbert/ Rapp, Andrea (eds.): Evolution der Informationsinfrastruktur: Kooperation zwischen Bibliothek und Wissenschaft, Glückstadt: Verlag Werner Hülsbusch 209–228.</rs></bibl>
 <bibl>
-  <hi rend="bold">RfII</hi> (2016): 
-  <hi rend="italic">Leistung aus Vielfalt: Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland</hi>, Göttingen 
-  <ref target="http://www.rfii.de/?wpdmdl=1998">www.rfii.de/?wpdmdl=1998</ref> [letzter Zugriff 15.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__414">RfII (2016): Leistung aus Vielfalt: Empfehlungen zu Strukturen, Prozessen und Finanzierung des Forschungsdatenmanagements in Deutschland, Göttingen www.rfii.de/?wpdmdl=1998 [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Roeder, Torsten / Söring, Sibylle / Dogunke, Swantje / Elwert, Frederik / Wübbena, Thorsten / Lordick, Harald / Cremer, Fabian / Klammt, Anne</hi>
-  (2019): "Digital Humanities "from Scratch": Ein Panel-Bericht zur DHd 2019 #DHfromScratch #dhd2019", Blogbeitrag DHd-Blog, 03.07.2019 
-  <ptr target="https://dhd-blog.org/?p=11804"/> [letzter Zugriff 15.09.2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5193">Roeder, Torsten / Söring, Sibylle / Dogunke, Swantje / Elwert, Frederik / Wübbena, Thorsten / Lordick, Harald / Cremer, Fabian / Klammt, Anne (2019): "Digital Humanities "from Scratch": Ein Panel-Bericht zur DHd 2019 #DHfromScratch #dhd2019", Blogbeitrag DHd-Blog, 03.07.2019 [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Sahle, Patrick</hi> (2015): "Digital Humanities? Gibt’s doch gar nicht!" in: 
-                        <hi rend="italic">Zeitschrift für digitale Geisteswissenschaften</hi>
-<hi rend="italic"> </hi>Sonderband 1 
-                        <ptr target="http://dx.doi.org/10.17175/sb001_004"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5194">Sahle, Patrick (2015): "Digital Humanities? Gibt’s doch gar nicht!" in: Zeitschrift für digitale Geisteswissenschaften Sonderband 1 [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Thaller, Manfred</hi> (2017): „Geschichte der Digital Humanities“ in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte(eds.): 
-                        <hi rend="italic">Digital Humanities: Eine Einführung</hi>, Stuttgart: J. B. Metzler 3–12.
-                    </bibl>
+<rs type="bibl" ref="#bibl__426">Thaller, Manfred (2017): „Geschichte der Digital Humanities“ in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte(eds.): Digital Humanities: Eine Einführung, Stuttgart: J. B. Metzler 3–12.</rs></bibl>
 <bibl>
-<hi rend="bold">Underwood, Ted</hi> (2019): "Dear Humanists: Fear Not the Digital Revolution" in: 
-                        <hi rend="italic">The Chronicle of Higher Education</hi>, 27. März 2019 
-                        <ptr target="https://www.chronicle.com/article/Dear-Humanists-Fear-Not-the/245987/"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5195">Underwood, Ted (2019): "Dear Humanists: Fear Not the Digital Revolution" in: The Chronicle of Higher Education, 27. März 2019 [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Wissenschaftsrat</hi> (2011): 
-                        <hi rend="italic">Empfehlungen zu Forschungsinfrastrukturen in den Geistes- und Sozialwissenschaften</hi> (Drs. 10465-11). 8. Januar 2011 h
-                        <ptr target="ttp://www.wissenschaftsrat.de/download/archiv/10465-11.pdf"/> [letzter Zugriff 15.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5196">Wissenschaftsrat (2011): Empfehlungen zu Forschungsinfrastrukturen in den Geistes- und Sozialwissenschaften (Drs. 10465-11). 8. Januar 2011 h [letzter Zugriff 15.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Wuttke, Ulrike</hi> (2019), 
-                        <hi rend="italic">Infrastrukturelle Erfolgsfaktoren für einen Digital Humanities-Schwerpunkt an deutschen Universitäten</hi>, Masterarbeit TH Köln URN: urn:nbn:de:hbz:79pbc-opus-13968.
-                    </bibl>
+<rs type="bibl" ref="#bibl__396">Wuttke, Ulrike (2019), Infrastrukturelle Erfolgsfaktoren für einen Digital Humanities-Schwerpunkt an deutschen Universitäten, Masterarbeit TH Köln URN: urn:nbn:de:hbz:79pbc-opus-13968.</rs></bibl>
 </listBibl>
 </div>
 </back>

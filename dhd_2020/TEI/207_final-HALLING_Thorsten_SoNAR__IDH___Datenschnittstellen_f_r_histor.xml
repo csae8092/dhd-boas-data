@@ -165,72 +165,47 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Auer, Sören</hi> (2018): Towards an Open Research Knowledge Graph. Zenodo. (http://doi.org/10.5281/zenodo.1157185)
-</bibl>
+  <rs type="bibl" ref="#bibl__4383">Auer, Sören (2018): Towards an Open Research Knowledge Graph. Zenodo. (http://doi.org/10.5281/zenodo.1157185)</rs></bibl>
 <bibl>
-  <hi rend="bold">Bauerfeld, Daniel / Clemens, Lukas</hi> (2014): Gesellschaftliche Umbrüche und religiöse Netzwerke. In: Bauerfeld, Daniel/Clemens, Lukas (Hg.) (2014): Gesellschaftliche Umbrüche und religiöse Netzwerke. Analysen von der Antike bis zur Gegenwart. Bielefeld, 2014
-</bibl>
+  <rs type="bibl" ref="#bibl__4384">Bauerfeld, Daniel / Clemens, Lukas (2014): Gesellschaftliche Umbrüche und religiöse Netzwerke. In: Bauerfeld, Daniel/Clemens, Lukas (Hg.) (2014): Gesellschaftliche Umbrüche und religiöse Netzwerke. Analysen von der Antike bis zur Gegenwart. Bielefeld, 2014</rs></bibl>
 <bibl>
-  <hi rend="bold">Boschung, Urs et al.</hi> (Hg.)(2002): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777. Basel, 2002 (Studia Halleriana ; VII/1)
-</bibl>
+  <rs type="bibl" ref="#bibl__96">Boschung, Urs et al. (Hg.)(2002): Repertorium zu Albrecht von Hallers Korrespondenz 1724-1777. Basel, 2002 (Studia Halleriana ; VII/1)</rs></bibl>
 <bibl>
-<hi rend="bold">Dauser, Regina</hi> (2008): Informationskultur und Beziehungswissen. Das Korrespondenznetz Hans Fuggers. Tübingen.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4385">Dauser, Regina (2008): Informationskultur und Beziehungswissen. Das Korrespondenznetz Hans Fuggers. Tübingen.</rs></bibl>
 		    <bibl>
-<hi rend="bold">Düring, Marten et al.</hi> (Hg.)(2016): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4386">Düring, Marten et al. (Hg.)(2016): Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen. Münster.</rs></bibl>
 <bibl>
-<hi rend="bold">Elias, Norbert</hi> (1970): Was ist Soziologie? (Gesammelte Schriften in 19 Bänden, 5. Berlin. 2009)
-                    </bibl>
+<rs type="bibl" ref="#bibl__4387">Elias, Norbert (1970): Was ist Soziologie? (Gesammelte Schriften in 19 Bänden, 5. Berlin. 2009)</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Fangerau, Heiner </hi>(2010): Spinning the Scientific Web. Jacques Loeb (1859-1924) und sein Programm einer internationalen biomedizinischen Grundlagenforschung. Berlin.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4388">Fangerau, Heiner (2010): Spinning the Scientific Web. Jacques Loeb (1859-1924) und sein Programm einer internationalen biomedizinischen Grundlagenforschung. Berlin.</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Fangerau, Heiner </hi>(2013): Evolution of knowledge from a network perspective. Recognition as a selective factor in the history of science. In: Fangerau, Heiner et al. (Hg.): Classification and Evolution in Biology, Linguistics and the History of Science. Concepts, Methods, Visualization. Stuttgart, 11-32
-                    </bibl>
+<rs type="bibl" ref="#bibl__4389">Fangerau, Heiner (2013): Evolution of knowledge from a network perspective. Recognition as a selective factor in the history of science. In: Fangerau, Heiner et al. (Hg.): Classification and Evolution in Biology, Linguistics and the History of Science. Concepts, Methods, Visualization. Stuttgart, 11-32</rs></bibl>
 <bibl>
-<hi rend="bold">Haustein, Stefanie / Tunger, Dirk</hi> (2013): Sziento- und bibliometrische Verfahren. In: Grundlagen der Praktischen Information und Dokumentation. Berlin, 479-492
-                    </bibl>
+<rs type="bibl" ref="#bibl__4390">Haustein, Stefanie / Tunger, Dirk (2013): Sziento- und bibliometrische Verfahren. In: Grundlagen der Praktischen Information und Dokumentation. Berlin, 479-492</rs></bibl>
 <bibl>
-<hi rend="bold">Hirsch, Jorge E.</hi> (2005): An index to quantify an individuals scientific research output. In: Proceedings of the National Academy of Science of the United States of America. 102, 46. 16569-16572
-                    </bibl>
+<rs type="bibl" ref="#bibl__4391">Hirsch, Jorge E. (2005): An index to quantify an individuals scientific research output. In: Proceedings of the National Academy of Science of the United States of America. 102, 46. 16569-16572</rs></bibl>
 <bibl>
-<hi rend="bold" xml:space="preserve">Isenberg, Petra et
-al. </hi>(2008): Grounded Evaluation of information
-visualizations. In: ACM DL. BELIV '08 Proceedings of the 2008 Workshop
-on Beyond time and errors: novel evaluation methods for Information
-Visualization, 56–63.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4392">Isenberg, Petra et al. (2008): Grounded Evaluation of information visualizations. In: ACM DL. BELIV '08 Proceedings of the 2008 Workshop on Beyond time and errors: novel evaluation methods for Information Visualization, 56–63.</rs></bibl>
 <bibl>
-<hi rend="bold">Jansen, Dorothea / Wald, Andreas</hi> (2007): Netzwerktheorien. In: Benz, Arthur et al. (Hg.): Handbuch Governance. Theoretische Grundlagen und empirische Anwendungsfelder. Wiesbaden, 188-199
-                    </bibl>
+<rs type="bibl" ref="#bibl__4393">Jansen, Dorothea / Wald, Andreas (2007): Netzwerktheorien. In: Benz, Arthur et al. (Hg.): Handbuch Governance. Theoretische Grundlagen und empirische Anwendungsfelder. Wiesbaden, 188-199</rs></bibl>
 <bibl>
-<hi rend="bold">Kadushin, Charles</hi> (2012): Understanding Social Networks. Theories, Concepts, and Findings. Oxford.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4394">Kadushin, Charles (2012): Understanding Social Networks. Theories, Concepts, and Findings. Oxford.</rs></bibl>
 <bibl>
-<hi rend="bold">Kromrey, Helmut</hi> (2002): Empirische Sozialforschung. Opladen, 2002
-                    </bibl>
+<rs type="bibl" ref="#bibl__4395">Kromrey, Helmut (2002): Empirische Sozialforschung. Opladen, 2002</rs></bibl>
 <bibl>
-<hi rend="bold">Lin, Nan</hi> (2001/2011): Social Capital. A Theory of Social Structure and Action. Cambridge.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4396">Lin, Nan (2001/2011): Social Capital. A Theory of Social Structure and Action. Cambridge.</rs></bibl>
 <bibl>
-<hi rend="bold">Luhmann, Niklas</hi> (1987): Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt am Main.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4397">Luhmann, Niklas (1987): Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt am Main.</rs></bibl>
 <bibl>
-<hi rend="bold">Moretti, Franco</hi> (2009): Abstrakte Kurven, Karten, Stammbäume. Abstrakte Modelle für die Literaturgeschichte. Frankfurt am Main.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4398">Moretti, Franco (2009): Abstrakte Kurven, Karten, Stammbäume. Abstrakte Modelle für die Literaturgeschichte. Frankfurt am Main.</rs></bibl>
 <bibl>
-<hi rend="bold">Munzer, Tamara</hi> (2009): A Nested Model for Visualization Design and Validation. In: IEEE Transactions on Visualization and Computer Graphics (TVCG). 15, 6. 921-928
-                    </bibl>
+<rs type="bibl" ref="#bibl__4399">Munzer, Tamara (2009): A Nested Model for Visualization Design and Validation. In: IEEE Transactions on Visualization and Computer Graphics (TVCG). 15, 6. 921-928</rs></bibl>
 <bibl>
-<hi rend="bold">Mücke, Marion / Schnalke, Thomas</hi> (2009): Briefnetz Leopoldina. Die Korrespondenz der Deutschen Akademie der Naturforscher um 1750. Berlin, 2009
-                    </bibl>
+<rs type="bibl" ref="#bibl__4400">Mücke, Marion / Schnalke, Thomas (2009): Briefnetz Leopoldina. Die Korrespondenz der Deutschen Akademie der Naturforscher um 1750. Berlin, 2009</rs></bibl>
 <bibl>
-<hi rend="bold">Umstätter, Walter</hi> (2004): Szientometrische Verfahren. In: Grundlagen der Information und Dokumentation. Berlin, 237-243
-                    </bibl>
+<rs type="bibl" ref="#bibl__4401">Umstätter, Walter (2004): Szientometrische Verfahren. In: Grundlagen der Information und Dokumentation. Berlin, 237-243</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Tunger, Dirk</hi> (2009): Bibliometrische Verfahren und Methoden als Beitrag zu Trendbeobachtung und Trenderkennung in den Naturwissenschaften. Jülich.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4402">Tunger, Dirk (2009): Bibliometrische Verfahren und Methoden als Beitrag zu Trendbeobachtung und Trenderkennung in den Naturwissenschaften. Jülich.</rs></bibl>
 </listBibl>
 </div>
 </back>

@@ -109,97 +109,51 @@ Die Herausforderung ambiger bzw. unterspezifizierter Einheiten für linguistisch
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Barteld Fabian / Ihden, Sarah / Schröder, Ingrid / Zinsmeister, Heike</hi> (2014): “Annotating descriptively incomplete language phenomena”, in: 
-                        <hi rend="italic">Proceedings of LAW VIII – The 8th Linguistic Annotation Workshop</hi> 99–104 http://www.aclweb.org/anthology/W14-4915 [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5323">Barteld Fabian / Ihden, Sarah / Schröder, Ingrid / Zinsmeister, Heike (2014): “Annotating descriptively incomplete language phenomena”, in: Proceedings of LAW VIII – The 8th Linguistic Annotation Workshop 99–104 http://www.aclweb.org/anthology/W14-4915 [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Barteld, Fabian / Dreessen, Katharina / Ihden, Sarah / Schröder, Ingrid</hi> (2017): „Das Referenzkorpus Mittelniederdeutsch / Niederrheinisch (1200–1650) – Korpusdesign, Korpuserstellung und Korpusnutzung“ in: Becker, Anja / Hausmann, Albrecht (eds.): 
-                        <hi rend="italic">Mittelniederdeutsche Literatur. Mitteilungen des deutschen Germanistenverbandes</hi> 64/3: 226–241.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5324">Barteld, Fabian / Dreessen, Katharina / Ihden, Sarah / Schröder, Ingrid (2017): „Das Referenzkorpus Mittelniederdeutsch / Niederrheinisch (1200–1650) – Korpusdesign, Korpuserstellung und Korpusnutzung“ in: Becker, Anja / Hausmann, Albrecht (eds.): Mittelniederdeutsche Literatur. Mitteilungen des deutschen Germanistenverbandes 64/3: 226–241.</rs></bibl>
 <bibl>
-<hi rend="bold">Barteld, Fabian / Ihden, Sarah / Dreessen, Katharina / Schröder, Ingrid</hi> (2018): “HiNTS: A Tagset for Middle Low German”, in: 
-                        <hi rend="italic">Proceedings of the Eleventh International Conference on Language Resources and Evaluation (</hi>
-<hi rend="caps">
-<hi rend="italic">LREC</hi>
-</hi>
-<hi rend="italic" xml:space="preserve"> 2018)</hi> 3940–3945 http://www.lrec-conf.org/proceedings/lrec2018/summaries/870.html [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5325">Barteld, Fabian / Ihden, Sarah / Dreessen, Katharina / Schröder, Ingrid (2018): “HiNTS: A Tagset for Middle Low German”, in: Proceedings of the Eleventh International Conference on Language Resources and Evaluation ( LREC 2018) 3940–3945 http://www.lrec-conf.org/proceedings/lrec2018/summaries/870.html [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Bunt, Harry</hi> (2007): “Semantic underspecification. Which technique for what purpose?” in: Bunt, Harry / Muskens, Reinhard (eds.): 
-                        <hi rend="italic">Computing Meaning</hi> Bd. 3 (= Studies in Linguistics and Philosophy 83). Dordrecht: Springer 55–85.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5326">Bunt, Harry (2007): “Semantic underspecification. Which technique for what purpose?” in: Bunt, Harry / Muskens, Reinhard (eds.): Computing Meaning Bd. 3 (= Studies in Linguistics and Philosophy 83). Dordrecht: Springer 55–85.</rs></bibl>
 <bibl>
-<hi rend="bold">Colliander, Elof</hi> (1912): 
-                        <hi rend="italic">Mittelniederdeutsches Elementarbuch</hi> (Photokopie der Druckfahnen des nicht zur Veröffentlichung gelangten Werkes, das mit § 365 abbricht). Heidelberg: Winter.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5327">Colliander, Elof (1912): Mittelniederdeutsches Elementarbuch (Photokopie der Druckfahnen des nicht zur Veröffentlichung gelangten Werkes, das mit § 365 abbricht). Heidelberg: Winter.</rs></bibl>
 <bibl>
-<hi rend="bold">Dipper, Stefanie / Donhauser, Karin / Klein, Thomas / Linde, Sonja / Müller, Stefan / Wegera, Klaus-Peter</hi> (2013): „HiTS: ein Tagset für historische Sprachstufen des Deutschen“, in: 
-                        <hi rend="italic">Journal for Language Technology and Computational Linguistics</hi>, Special Issue, 28(1): 85–137 https://jlcl.org/content/2-allissues/9-Heft1-2013/5Dipper.pdf [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5328">Dipper, Stefanie / Donhauser, Karin / Klein, Thomas / Linde, Sonja / Müller, Stefan / Wegera, Klaus-Peter (2013): „HiTS: ein Tagset für historische Sprachstufen des Deutschen“, in: Journal for Language Technology and Computational Linguistics, Special Issue, 28(1): 85–137 https://jlcl.org/content/2-allissues/9-Heft1-2013/5Dipper.pdf [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Dürscheid, Christa / Elspaß, Stephan /Ziegler, Arne</hi> (2018): 
-                        <hi rend="italic">Variantengrammatik des Standarddeutschen</hi>. Ein Online-Nachschlagewerk http://mediawiki.ids-mannheim.de/VarGra/index.php/Start [letzter Zugriff 09. Dezember 2019]
-                    </bibl>
+<rs type="bibl" ref="#bibl__5329">Dürscheid, Christa / Elspaß, Stephan /Ziegler, Arne (2018): Variantengrammatik des Standarddeutschen. Ein Online-Nachschlagewerk http://mediawiki.ids-mannheim.de/VarGra/index.php/Start [letzter Zugriff 09. Dezember 2019]</rs></bibl>
 <bibl>
-<hi rend="bold">Herbers, Birgit</hi> (2014): „Prozessualität und Variabilität in der Grammatikographie des Mittelhochdeutschen“ in: Ágel, Vilmos / Gardt, Andreas (eds.): 
-                        <hi rend="italic">Paradigmen der aktuellen Sprachgeschichtsforschung</hi> (= Jahrbuch für germanistische Sprachgeschichte 5). Berlin, Boston: de Gruyter 135–149.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5330">Herbers, Birgit (2014): „Prozessualität und Variabilität in der Grammatikographie des Mittelhochdeutschen“ in: Ágel, Vilmos / Gardt, Andreas (eds.): Paradigmen der aktuellen Sprachgeschichtsforschung (= Jahrbuch für germanistische Sprachgeschichte 5). Berlin, Boston: de Gruyter 135–149.</rs></bibl>
 <bibl>
-<hi rend="bold">IDS</hi> (o.J.): Korpusgrammatik – grammatische Variation im standardsprachlichen und standardnahen Deutsch: http://www1.ids-mannheim.de/gra/projekte/korpusgrammatik.html?L=0 [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5331">IDS (o.J.): Korpusgrammatik – grammatische Variation im standardsprachlichen und standardnahen Deutsch: http://www1.ids-mannheim.de/gra/projekte/korpusgrammatik.html?L=0 [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Klein, Thomas / Solms, Hans-Joachim / Wegera, Klaus-Peter</hi> (2009): 
-                        <hi rend="italic">Mittelhochdeutsche Grammatik</hi>. Teil III: Wortbildung. Tübingen: Niemeyer.
-                    </bibl>
+<rs type="bibl" ref="#bibl__431">Klein, Thomas / Solms, Hans-Joachim / Wegera, Klaus-Peter (2009): Mittelhochdeutsche Grammatik. Teil III: Wortbildung. Tübingen: Niemeyer.</rs></bibl>
 <bibl>
-<hi rend="bold">Klein, Thomas / Solms, Hans-Joachim / Wegera, Klaus-Peter</hi> (2018): 
-                        <hi rend="italic">Mittelhochdeutsche Grammatik</hi>. Teil II: Flexionsmorphologie. Berlin, Boston: de Gruyter.
-                    </bibl>
+<rs type="bibl" ref="#bibl__431">Klein, Thomas / Solms, Hans-Joachim / Wegera, Klaus-Peter (2018): Mittelhochdeutsche Grammatik. Teil II: Flexionsmorphologie. Berlin, Boston: de Gruyter.</rs></bibl>
 <bibl>
-<hi rend="bold">Kleymann, Verena / Nagel, Norbert / Peters, Robert</hi> (2015): „Die digitale Lemmaliste für das Mittelniederdeutsche im DFG-Projekt ‚Referenzkorpus Mittelniederdeutsch / Niederrheinisch (1200–1650)‘“, in: 
-                        <hi rend="italic">Korrespondenzblatt des Vereins für niederdeutsche Sprachforschung</hi> 122/2: 95–100.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5332">Kleymann, Verena / Nagel, Norbert / Peters, Robert (2015): „Die digitale Lemmaliste für das Mittelniederdeutsche im DFG-Projekt ‚Referenzkorpus Mittelniederdeutsch / Niederrheinisch (1200–1650)‘“, in: Korrespondenzblatt des Vereins für niederdeutsche Sprachforschung 122/2: 95–100.</rs></bibl>
 <bibl>
-<hi rend="bold">Kountz, Manuel / Heid, Ulrich / Eckart, Kerstin</hi> (2007): “A LAF/GrAF based Encoding Scheme for underspecified Representations of syntactic Annotations”, in: 
-                        <hi rend="italic">Proceedings of the International Conference on Language Resources and Evaluation 2008</hi> 2262–2269 http://www.lrec-conf.org/proceedings/lrec2008/pdf/569_paper.pdf [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5333">Kountz, Manuel / Heid, Ulrich / Eckart, Kerstin (2007): “A LAF/GrAF based Encoding Scheme for underspecified Representations of syntactic Annotations”, in: Proceedings of the International Conference on Language Resources and Evaluation 2008 2262–2269 http://www.lrec-conf.org/proceedings/lrec2008/pdf/569_paper.pdf [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Lasch, Agathe</hi> (1914 / 
-                        <hi rend="superscript">2</hi>1974 / Nachdruck 2011): 
-                        <hi rend="italic">Mittelniederdeutsche Grammatik</hi> (= Sammlung kurzer Grammatiken germanischer Dialekte. A. Hauptreihe 9). Tübingen: Niemeyer.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5334">Lasch, Agathe (1914 / 21974 / Nachdruck 2011): Mittelniederdeutsche Grammatik (= Sammlung kurzer Grammatiken germanischer Dialekte. A. Hauptreihe 9). Tübingen: Niemeyer.</rs></bibl>
 <bibl>
-<hi rend="bold">Lasch, Agathe / Borchling, Conrad</hi> (1956ff.): 
-                        <hi rend="italic">Mittelniederdeutsches Handwörterbuch</hi>. Fortgef. von Gerhard Cordes und Dieter Möhn. Hg. von Ingrid Schröder. Neumünster / Kiel / Hamburg: Wachholtz.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5335">Lasch, Agathe / Borchling, Conrad (1956ff.): Mittelniederdeutsches Handwörterbuch. Fortgef. von Gerhard Cordes und Dieter Möhn. Hg. von Ingrid Schröder. Neumünster / Kiel / Hamburg: Wachholtz.</rs></bibl>
 <bibl>
-<hi rend="bold">Leech, Geoffrey / Garside, Roger / Bryant, Michael</hi> (1994): „CLAWS4: The tagging of the British National Corpus”, in: Proceedings of the 15th International Conference on Computational Linguistics (COLING) 1: 622–628.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5336">Leech, Geoffrey / Garside, Roger / Bryant, Michael (1994): „CLAWS4: The tagging of the British National Corpus”, in: Proceedings of the 15th International Conference on Computational Linguistics (COLING) 1: 622–628.</rs></bibl>
 <bibl>
-<hi rend="bold">Lübben, August</hi> (1882): 
-                        <hi rend="italic">Mittelniederdeutsche Grammatik</hi>. Nebst Chrestomathie und Glossar. Leipzig: Weigel.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5337">Lübben, August (1882): Mittelniederdeutsche Grammatik. Nebst Chrestomathie und Glossar. Leipzig: Weigel.</rs></bibl>
 <bibl>
-<hi rend="bold">Pauly, Dennis / Senyuk, Ulyana / Demske, Ulrike</hi> (2012): “Strukturelle Mehrdeutigkeit in frühneuhochdeutschen Texten, in: JLCL 27(2): 65–82 https://jlcl.org/content/2-allissues/10-Heft2-2012/5Pauly.pdf [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5338">Pauly, Dennis / Senyuk, Ulyana / Demske, Ulrike (2012): “Strukturelle Mehrdeutigkeit in frühneuhochdeutschen Texten, in: JLCL 27(2): 65–82 https://jlcl.org/content/2-allissues/10-Heft2-2012/5Pauly.pdf [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Peters, Robert / Nagel, Norbert</hi> (2014): „Das digitale ‚Referenzkorpus Mittelniederdeutsch / Niederrheinisch (ReN)‘“ in: Ágel, Vilmos / Gardt, Andreas (eds.): 
-                        <hi rend="italic">Paradigmen der aktuellen Sprachgeschichtsforschung</hi> (= Jahrbuch für germanistische Sprachgeschichte 5). Berlin, Boston: de Gruyter 165–175.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5339">Peters, Robert / Nagel, Norbert (2014): „Das digitale ‚Referenzkorpus Mittelniederdeutsch / Niederrheinisch (ReN)‘“ in: Ágel, Vilmos / Gardt, Andreas (eds.): Paradigmen der aktuellen Sprachgeschichtsforschung (= Jahrbuch für germanistische Sprachgeschichte 5). Berlin, Boston: de Gruyter 165–175.</rs></bibl>
 <bibl>
-<hi rend="bold">ReN-Team (2019)</hi>: Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200–1650). Archiviert im Hamburger Zentrum für Sprachkorpora. Version 1.0. Publikationsdatum 14.08.2019. http://hdl.handle.net/11022/0000-0007-D829-8 [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5340">ReN-Team (2019): Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200–1650). Archiviert im Hamburger Zentrum für Sprachkorpora. Version 1.0. Publikationsdatum 14.08.2019. http://hdl.handle.net/11022/0000-0007-D829-8 [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Sarauw, Christian</hi> (1921): 
-                        <hi rend="italic">Niederdeutsche Forschungen</hi>. Bd. 1: Vergleichende Lautlehre der niederdeutschen Mundarten im Stammlande (= Historisk-filologiske Meddelelser 5.1). Kopenhagen: Høst.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5341">Sarauw, Christian (1921): Niederdeutsche Forschungen. Bd. 1: Vergleichende Lautlehre der niederdeutschen Mundarten im Stammlande (= Historisk-filologiske Meddelelser 5.1). Kopenhagen: Høst.</rs></bibl>
 <bibl>
-<hi rend="bold">Sarauw, Christian</hi> (1924): 
-                        <hi rend="italic">Niederdeutsche Forschungen</hi>. Bd. 2: Die Flexionen der mittelniederdeutschen Sprache (= Historisk-filologiske Meddelelser 10.1). Kopenhagen: Høst.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5342">Sarauw, Christian (1924): Niederdeutsche Forschungen. Bd. 2: Die Flexionen der mittelniederdeutschen Sprache (= Historisk-filologiske Meddelelser 10.1). Kopenhagen: Høst.</rs></bibl>
 <bibl>
-<hi rend="bold">Schiller, Anne / Teufel, Simone / Stöckert, Christine / Thielen, Christine</hi> (1999): „Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)“ <ptr target="http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf"/> [letzter Zugriff 09. Dezember 2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5">Schiller, Anne / Teufel, Simone / Stöckert, Christine / Thielen, Christine (1999): „Guidelines für das Tagging deutscher Textcorpora mit STTS (Kleines und großes Tagset)“ [letzter Zugriff 09. Dezember 2019].</rs></bibl>
 </listBibl>
 </div>
 </back>

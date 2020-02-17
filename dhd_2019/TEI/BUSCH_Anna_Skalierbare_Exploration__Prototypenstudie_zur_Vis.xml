@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title><title type="conf_year">2019</title><author ref="#person__annabusch-uni-potsdam-de">
+                <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title><title type="conf_year">2019</title>
+                <author ref="#person__annabusch-uni-potsdam-de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Anna</forename>
@@ -173,49 +174,49 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__25">Dörk, Marian / Carpendale, Sheelagh / Williamson, Carey (2011): “The Information Flaneur: A Fresh Look at Information Seeking”, in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1215-1224.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__226">Dörk, Marian / Carpendale, Sheelagh / Williamson, Carey (2011): “The Information Flaneur: A Fresh Look at Information Seeking”, in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1215-1224.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__148">Dörk, Marian / Pietsch, Christopher / Credico, Gabriel (2017): “ One view is not enough: High-level visualizations of a large cultural collection ”, in: Information Design Journal, 23:1, 39-47. http://mariandoerk.de/papers/idj2017.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1519">Dörk, Marian / Pietsch, Christopher / Credico, Gabriel (2017): “ One view is not enough: High-level visualizations of a large cultural collection ”, in: Information Design Journal, 23:1, 39-47. http://mariandoerk.de/papers/idj2017.pdf</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3247">Efimova, Svetlana (2018): Das Schriftsteller-Notizbuch als Denkmedium in der russischen und deutschen Literatur. Paderborn: Wilhelm Fink.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1520">Efimova, Svetlana (2018): Das Schriftsteller-Notizbuch als Denkmedium in der russischen und deutschen Literatur. Paderborn: Wilhelm Fink.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__279">Gfrereis, Heike / Strittmatter, Ellen (eds.) (2013): Zettelkästen. Maschinen der Phantasie. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__35">Gfrereis, Heike / Strittmatter, Ellen (eds.) (2013): Zettelkästen. Maschinen der Phantasie. Ausstellungskatalog. Deutsche Schillergesellschaft. Marbach a.N.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__184">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian (2017): “ Past Visions and Reconciling Views: Visualizing Time, Texture and Themes in Cultural Collections ”, in: Digital Humanities Quarterly 11.2. http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__227">Glinka, Katrin / Pietsch, Christopher / Dörk, Marian (2017): “ Past Visions and Reconciling Views: Visualizing Time, Texture and Themes in Cultural Collections ”, in: Digital Humanities Quarterly 11.2. http://www.digitalhumanities.org/dhq/vol/11/2/000290/000290.html</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3248">Haber, Peter (2010): “Autorenbibliotheken im digitalen Zeitalter”, in: Quatro. Zeitschrift des Schweizerischen Literaturarchivs 30/31, 39-43.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1521">Haber, Peter (2010): “Autorenbibliotheken im digitalen Zeitalter”, in: Quatro. Zeitschrift des Schweizerischen Literaturarchivs 30/31, 39-43.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3249">Höppner, Stefan / Jessen, Caroline / Münkner, Jörn (eds.) (2018) : Autorschaft und Bibliothek. Sammlungsstrategien und Schreibverfahren. Mit einem Vorwort von Reinhard Laube. Göttingen: Wallstein.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1522">Höppner, Stefan / Jessen, Caroline / Münkner, Jörn (eds.) (2018) : Autorschaft und Bibliothek. Sammlungsstrategien und Schreibverfahren. Mit einem Vorwort von Reinhard Laube. Göttingen: Wallstein.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3250">Hoffmann, Christoph (2008): “Wie lesen? Das Notizbuch als Bühne der Forschung” in: Birgit Griesecke (ed.): Werkstätten des Möglichen 1930-1936: L. Fleck, E. Husserl, R. Musil, L. Wittgenstein, Würzburg: 45-57.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1523">Hoffmann, Christoph (2008): “Wie lesen? Das Notizbuch als Bühne der Forschung” in: Birgit Griesecke (ed.): Werkstätten des Möglichen 1930-1936: L. Fleck, E. Husserl, R. Musil, L. Wittgenstein, Würzburg: 45-57.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3251">Knoche, Michael (ed.) (2015): Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1524">Knoche, Michael (ed.) (2015): Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3252">Krajewski, Markus (2011): Paper Machines. About cards &amp; catalogs, 1548-1929. Cambridge: MIT Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1525">Krajewski, Markus (2011): Paper Machines. About cards &amp; catalogs, 1548-1929. Cambridge: MIT Press.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__193">Kreiseler, Sarah / Brüggemann, Viktoria / Dörk, Marian (2017): “Tracing exploratory modes in digital collections of museum web sites using reverse information architecture”, in: First Monday 22.4.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__228">Kreiseler, Sarah / Brüggemann, Viktoria / Dörk, Marian (2017): “Tracing exploratory modes in digital collections of museum web sites using reverse information architecture”, in: First Monday 22.4.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__71">Moretti, Franco (2013): Distant Reading. London: Verso.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__110">Moretti, Franco (2013): Distant Reading. London: Verso.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3253">Perlin, Ken / Fox, David (1993): “Pad: an alternative approach to the computer interface”, in: SIGGRAPH '93: Proceedings of the 20th annual conference on Computer graphics and interactive techniques, 57-64.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1526">Perlin, Ken / Fox, David (1993): “Pad: an alternative approach to the computer interface”, in: SIGGRAPH '93: Proceedings of the 20th annual conference on Computer graphics and interactive techniques, 57-64.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3254">Rasch, Wolfgang (2005): “Zeitungstiger, Bücherfresser. Die Bibliothek Theodor Fontanes als Fragment und Aufgabe betrachtet”, in: Ute Schneider (ed.): Imprimatur. Ein Jahrbuch für Bücherfreunde. N.F. [Bd.] XIX. Wiesbaden: Harrassowitz 103-144.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1527">Rasch, Wolfgang (2005): “Zeitungstiger, Bücherfresser. Die Bibliothek Theodor Fontanes als Fragment und Aufgabe betrachtet”, in: Ute Schneider (ed.): Imprimatur. Ein Jahrbuch für Bücherfreunde. N.F. [Bd.] XIX. Wiesbaden: Harrassowitz 103-144.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3255">Rohmann, Ivonne (2015): “Aspekte der Erschließung und Rekonstruktion nachgelassener Privatbibliotheken am Beispiel der Büchersammlungen Herders, Wielands, Schillers und Goethes”, in: Michael Knoche (ed.), Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz 17-59.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1528">Rohmann, Ivonne (2015): “Aspekte der Erschließung und Rekonstruktion nachgelassener Privatbibliotheken am Beispiel der Büchersammlungen Herders, Wielands, Schillers und Goethes”, in: Michael Knoche (ed.), Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz 17-59.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__43">Schmidt, Johannes (2016): “Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine”, in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill 289-311.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__36">Schmidt, Johannes (2016): “Niklas Luhmann´s Card Index: Thinking Tool, Communication Partner, Publication Machine”, in: Alberto Cevolini (ed.): Forgetting Machines. Knowledge Management Evolution in Early Modern Europe. Leiden: Brill 289-311.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3256">Shneiderman, Ben (1996): “The eyes have it: A task by data type taxonomy for information visualizations”, in: Visual Languages, 1996. Proceedings., IEEE Symposium. IEEE, 336-343.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1529">Shneiderman, Ben (1996): “The eyes have it: A task by data type taxonomy for information visualizations”, in: Visual Languages, 1996. Proceedings., IEEE Symposium. IEEE, 336-343.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3257">Thud, Alice / Hinrichs, Uta / Carpendale, Sheelagh (2012): “The bohemian bookshelf”, in: P roceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1461-1470.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1530">Thud, Alice / Hinrichs, Uta / Carpendale, Sheelagh (2012): “The bohemian bookshelf”, in: P roceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1461-1470.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__280">Weitin, Thomas (2017): “Scalable Reading”, in: Zeitschrift für Literaturwissenschaft und Linguistik 47.1: 1-6. https://doi.org/10.1007/s41244-017-0048-4</rs></bibl>
+                        <rs type="bibl" ref="#bibl__212">Weitin, Thomas (2017): “Scalable Reading”, in: Zeitschrift für Literaturwissenschaft und Linguistik 47.1: 1-6. https://doi.org/10.1007/s41244-017-0048-4</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__3258">Wieland, Magnus (2015): “Materialität des Lesens. Zur Topographie von Annotationsspuren in Autorenbibliotheken”, in: Knoche, Michael (ed.) Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz 147-173.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1531">Wieland, Magnus (2015): “Materialität des Lesens. Zur Topographie von Annotationsspuren in Autorenbibliotheken”, in: Knoche, Michael (ed.) Autorenbibliotheken. Erschließung, Rekonstruktion, Wissensordnung. Wiesbaden: Harrassowitz 147-173.</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__27">Windhager, Florian / Federico, Paolo / Schreder, Günther / Glinka, Katrin / Dörk, Marian / Miksch, Silvia/ Mayr, Eva (2018): “ Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges ”, in: TVCG: IEEE Transactions on Visualization and Computer Graphics. http://mariandoerk.de/papers/tvcg2018.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__84">Windhager, Florian / Federico, Paolo / Schreder, Günther / Glinka, Katrin / Dörk, Marian / Miksch, Silvia/ Mayr, Eva (2018): “ Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges ”, in: TVCG: IEEE Transactions on Visualization and Computer Graphics. http://mariandoerk.de/papers/tvcg2018.pdf</rs></bibl>
                     <bibl style="text-align:left;">
-                        <rs type="bibl" ref="#bibl__26">Whitelaw, Mitchell (2015): “ Generous Interfaces for Digital Cultural Collections ”, in: Digital Humanities Quarterly, 9.1. http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__82">Whitelaw, Mitchell (2015): “ Generous Interfaces for Digital Cultural Collections ”, in: Digital Humanities Quarterly, 9.1. http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html</rs></bibl>
                 </listBibl>
             </div>
         </back>

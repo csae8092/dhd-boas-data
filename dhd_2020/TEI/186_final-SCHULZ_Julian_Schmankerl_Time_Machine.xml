@@ -229,39 +229,19 @@
   <listBibl>
     <head>Bibliographie</head>
     <bibl>
-      <hi rend="bold"> Bergmann, Claudia </hi> (2019): „Kultur-Hackathon Coding da Vinci Süd. Sterbende Jesuiten, visualisierte Theaterdaten und Wirtshausgeschichte zum Nachkochen“, auf: 
-      <hi rend="italic">Wikimedia Blog</hi> vom 27.05.2019, URL: 
-      <ref target="https://blog.wikimedia.de/2019/05/27/kultur-hackathon-coding-da-vinci-sued-sterbende-jesuiten-visualisierte-theaterdaten-und-wirtshausgeschichte-zum-nachkochen/">https://blog.wikimedia.de/2019/05/27/kultur-hackathon-coding-da-vinci-sued-sterbende-jesuiten-visualisierte-theaterdaten-und-wirtshausgeschichte-zum-nachkochen/</ref>.
-    </bibl>
+      <rs type="bibl" ref="#bibl__5113">Bergmann, Claudia (2019): „Kultur-Hackathon Coding da Vinci Süd. Sterbende Jesuiten, visualisierte Theaterdaten und Wirtshausgeschichte zum Nachkochen“, auf: Wikimedia Blog vom 27.05.2019, URL: https://blog.wikimedia.de/2019/05/27/kultur-hackathon-coding-da-vinci-sued-sterbende-jesuiten-visualisierte-theaterdaten-und-wirtshausgeschichte-zum-nachkochen/.</rs></bibl>
     <bibl>
-      <hi rend="bold"> Deck, Klaus-Georg </hi> (2018): „Digital Humanities. Eine Herausforderung an die Informatik und an die Geisteswissenschaften“, in: Huber, Martin / Krämer, Sybille (Hrsg.): 
-      <hi rend="italic">Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden</hi>. Sonderband der Zeitschrift für digitale Geisteswissenschaften 3. DOI: 
-      <ref target="http://dx.doi.org/10.17175/sb003_002">10.17175/sb003_002</ref>.
-    </bibl>
+      <rs type="bibl" ref="#bibl__407">Deck, Klaus-Georg (2018): „Digital Humanities. Eine Herausforderung an die Informatik und an die Geisteswissenschaften“, in: Huber, Martin / Krämer, Sybille (Hrsg.): Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden. Sonderband der Zeitschrift für digitale Geisteswissenschaften 3. DOI: 10.17175/sb003_002.</rs></bibl>
     <bibl>
-      <hi rend="bold"> Guyton, Patrick</hi> (2019): „Zeitreise durchs kulinarische München“, in: 
-      <hi rend="italic">Der Tagesspiegel</hi>  vom 26.07.2019, URL: 
-      <ref target="https://www.tagesspiegel.de/gesellschaft/panorama/historische-speisekarten-zeitreise-durchs-kulinarische-muenchen/24843382.html">https://www.tagesspiegel.de/gesellschaft/panorama/historische-speisekarten-zeitreise-durchs-kulinarische-muenchen/24843382.html</ref>.
-    </bibl>
+      <rs type="bibl" ref="#bibl__5114">Guyton, Patrick (2019): „Zeitreise durchs kulinarische München“, in: Der Tagesspiegel vom 26.07.2019, URL: https://www.tagesspiegel.de/gesellschaft/panorama/historische-speisekarten-zeitreise-durchs-kulinarische-muenchen/24843382.html.</rs></bibl>
     <bibl>
-      <hi rend="bold"> Klinke, Harald</hi> (2018): „Datenanalyse in der Digitalen Kunstgeschichte. Neue Methoden in Forschung und Lehre und der Einsatz des DHVLab in der Lehre“, in: Ders. (Hrsg.): 
-      <hi rend="italic">#DigiCampus. Digitale Forschung und Lehre in den Geisteswissenschaften</hi>. München: Universitätsbibliothek der Ludwig-Maximilians-Universität, 19–34, DOI: 
-      <ref target="https://doi.org/10.5282/ubm/epub.42415">https://doi.org/10.5282/ubm/epub.42415</ref>.
-    </bibl>
+      <rs type="bibl" ref="#bibl__137">Klinke, Harald (2018): „Datenanalyse in der Digitalen Kunstgeschichte. Neue Methoden in Forschung und Lehre und der Einsatz des DHVLab in der Lehre“, in: Ders. (Hrsg.): #DigiCampus. Digitale Forschung und Lehre in den Geisteswissenschaften. München: Universitätsbibliothek der Ludwig-Maximilians-Universität, 19–34, DOI: https://doi.org/10.5282/ubm/epub.42415.</rs></bibl>
     <bibl>
-      <hi rend="bold"> Kotteder, Franz</hi> (2019): „Hat’s geschmeckt?“, in: 
-      <hi rend="italic">Süddeutsche Zeitung</hi>  vom 09.07.2019, URL:
-      <ref target="http://sz.de/1.4516782">http://sz.de/1.4516782</ref>.
-    </bibl>
+      <rs type="bibl" ref="#bibl__5115">Kotteder, Franz (2019): „Hat’s geschmeckt?“, in: Süddeutsche Zeitung vom 09.07.2019, URL: http://sz.de/1.4516782.</rs></bibl>
     <bibl>
-      <hi rend="bold"> Lehr, Andrea</hi> (2019): „Hochkarätig. CDV Süd
-      punktet mit Projekten auf hohem Niveau“. 
-      <hi rend="italic">Pressemitteilung</hi> vom 21.05.2019, URL: 
-      <ref target="https://codingdavinci.de/news/2019/05/21/cdvs-preisverleihung_2.html">https://codingdavinci.de/news/2019/05/21/cdvs-preisverleihung_2.html</ref>.
-    </bibl>
+      <rs type="bibl" ref="#bibl__5116">Lehr, Andrea (2019): „Hochkarätig. CDV Süd punktet mit Projekten auf hohem Niveau“. Pressemitteilung vom 21.05.2019, URL: https://codingdavinci.de/news/2019/05/21/cdvs-preisverleihung_2.html.</rs></bibl>
     <bibl>
-      <hi rend="bold"> Roth, Tobias / Rauchhaus, Moritz (Hrsg.) </hi> (2018): <hi rend="italic">Wohl bekam’s! In hundert Menus durch die Weltgeschichte</hi>. Berlin: Verlag Das Kulturelle Gedächtnis.
-</bibl>
+      <rs type="bibl" ref="#bibl__5117">Roth, Tobias / Rauchhaus, Moritz (Hrsg.) (2018): Wohl bekam’s! In hundert Menus durch die Weltgeschichte. Berlin: Verlag Das Kulturelle Gedächtnis.</rs></bibl>
 </listBibl>
 </div>
 </back>

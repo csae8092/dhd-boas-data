@@ -113,38 +113,17 @@ Publizierens blicken und dabei folgende Aspekte thematisieren:</p>
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold" style="font-size:10pt" xml:space="preserve">Amsen, Eva </hi>
-<hi style="font-size:10pt" xml:space="preserve">(2014): “What is post-publication peer review?”, in: Blogpost auf F1000 Research Blog. </hi>
-<ref target="https://blog.f1000.com/2014/07/08/what-is-post-publication-peer-review/">https://blog.f1000.com/2014/07/08/what-is-post-publication-peer-review/</ref>
-<hi style="font-size:10pt">[letzter Zugriff: 14.10.2018].</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__69">Amsen, Eva (2014): “What is post-publication peer review?”, in: Blogpost auf F1000 Research Blog. https://blog.f1000.com/2014/07/08/what-is-post-publication-peer-review/ [letzter Zugriff: 14.10.2018].</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">Degkwitz, Andreas</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2015): “Enhanced Publications Exploit the Potential of Digital Media”, in: Evolving Genres of ETDs for Knowledge Discovery. Proceedings of ETD 2015 18th International Symposium on Electronic Theses and Dissertations 51–59.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__70">Degkwitz, Andreas (2015): “Enhanced Publications Exploit the Potential of Digital Media”, in: Evolving Genres of ETDs for Knowledge Discovery. Proceedings of ETD 2015 18th International Symposium on Electronic Theses and Dissertations 51–59.</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">DHd-Arbeitsgruppe</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2016): "Digitales Publizieren", in: DHd-Arbeitsgruppe (eds.): Working Paper "Digitales Publizieren"</hi>
-<ref target="http://diglib.hab.de/ejournals/ed000008/startx.htm">http://diglib.hab.de/ejournals/ed000008/startx.htm</ref>
-<hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff: 26.09.2019].</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__71">DHd-Arbeitsgruppe (2016): "Digitales Publizieren", in: DHd-Arbeitsgruppe (eds.): Working Paper "Digitales Publizieren" http://diglib.hab.de/ejournals/ed000008/startx.htm [letzter Zugriff: 26.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold" style="font-size:10pt">Kohle, Hubertus</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2017): “Digitales Publizieren” in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler Verlag 199–205.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__72">Kohle, Hubertus (2017): “Digitales Publizieren” in: Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (eds.): Digital Humanities. Eine Einführung. Stuttgart: Metzler Verlag 199–205.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold" style="font-size:10pt">Maciocci, Giuliano</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2017): "Designing Progressive Enhancement Into The Academic Manuscript: Considering a design strategy to accommodate interactive research articles", in: Blogpost auf eLife Sciences. </hi>
-<ref target="https://elifesciences.org/labs/e5737fd5/designing-progressive-enhancement-into-the-academic-manuscript">https://elifesciences.org/labs/e5737fd5/designing-progressive-enhancement-into-the-academic-manuscript</ref>
-<hi style="font-size:10pt" xml:space="preserve"> [letzter Zugriff: 14.10.2018].</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__74">Maciocci, Giuliano (2017): "Designing Progressive Enhancement Into The Academic Manuscript: Considering a design strategy to accommodate interactive research articles", in: Blogpost auf eLife Sciences. https://elifesciences.org/labs/e5737fd5/designing-progressive-enhancement-into-the-academic-manuscript [letzter Zugriff: 14.10.2018].</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold" style="font-size:10pt">Ross-Hellauer, Tony</hi>
-  <hi style="font-size:10pt" xml:space="preserve"> (2017): “What is open peer review? A systematic review“, </hi>
-  <hi style="font-size:10pt">in: Blogpost auf F1000 Research Blog</hi>
-  <ref target="https://f1000research.com/articles/6-588/v2">https://f1000research.com/articles/6-588/v2</ref>
-<hi style="font-size:10pt">. [letzter Zugriff 26.09.2019].</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__4680">Ross-Hellauer, Tony (2017): “What is open peer review? A systematic review“, in: Blogpost auf F1000 Research Blog https://f1000research.com/articles/6-588/v2 . [letzter Zugriff 26.09.2019].</rs></bibl>
 </listBibl>
 </div>
 </back>

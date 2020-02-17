@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Korpuserstellung als literaturwissenschaftliche Aufgabe</title><title type="conf_year">2019</title><author ref="#person__evelyn-gius-uni-hamburg-de">
+                <title>Korpuserstellung als literaturwissenschaftliche Aufgabe</title><title type="conf_year">2019</title>
+                <author ref="#person__evelyn-gius-uni-hamburg-de">
                     <persName>
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
@@ -301,26 +302,26 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left;">Farrar, Danielle Marie (2016): The Corpus of Revenge Tragedy (CoRT): Toward Interdisciplining Early Modern Digital Humanities and Genre Analysis. In: 
-                        <rs type="bibl" ref="#bibl__3012">Farrar, Danielle Marie (2016): The Corpus of Revenge Tragedy (CoRT): Toward Interdisciplining Early Modern Digital Humanities and Genre Analysis. In: DH 2016 - Conference Abstracts. S. 789–790.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1143">Farrar, Danielle Marie (2016): The Corpus of Revenge Tragedy (CoRT): Toward Interdisciplining Early Modern Digital Humanities and Genre Analysis. In: DH 2016 - Conference Abstracts. S. 789–790.</rs></bibl>
                     <bibl style="text-align:left;">Gaidys, Uta/Gius, Evelyn/Jarchow, Margarete/Koch, Gertraud/Menzel, Wolfgang/Orth, Dominik/Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: 
-                        <rs type="bibl" ref="#bibl__272">Gaidys, Uta/Gius, Evelyn/Jarchow, Margarete/Koch, Gertraud/Menzel, Wolfgang/Orth, Dominik/Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__89">Gaidys, Uta/Gius, Evelyn/Jarchow, Margarete/Koch, Gertraud/Menzel, Wolfgang/Orth, Dominik/Zinsmeister, Heike (2017): Project Description. HermA: Automated Modelling of Hermeneutic Processes. In: Hamburger Journal für Kulturanthropologie 7 (2017), S. 119–123.</rs></bibl>
                     <bibl style="text-align:left;">Gius, Evelyn (in Vorbereitung): Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma? In: Jannidis, Fotis (Hg.): 
-                        <rs type="bibl" ref="#bibl__3013">Gius, Evelyn (in Vorbereitung): Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma? In: Jannidis, Fotis (Hg.): Digitale Literaturwissenschaft. Metzler.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__155">Gius, Evelyn (in Vorbereitung): Digitale Hermeneutik: Computergestütztes close reading als literaturwissenschaftliches Forschungsparadigma? In: Jannidis, Fotis (Hg.): Digitale Literaturwissenschaft. Metzler.</rs></bibl>
                     <bibl style="text-align:left;">Herrmann, Berenike/Lauer, Gerhard (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In: 
-                        <rs type="bibl" ref="#bibl__3014">Herrmann, Berenike/Lauer, Gerhard (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 107–111.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__156">Herrmann, Berenike/Lauer, Gerhard (2017): Das „Was-bisher-geschah“ von KOLIMO. Ein Update zum Korpus der literarischen Moderne. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 107–111.</rs></bibl>
                     <bibl style="text-align:left;">Herrmann, Berenike/Lauer, Gerhard (2016a): Aufbau und Annotation des Kafka/Referenzkorpus. In: 
-                        <rs type="bibl" ref="#bibl__3015">Herrmann, Berenike/Lauer, Gerhard (2016a): Aufbau und Annotation des Kafka/Referenzkorpus. In: DHd 2016 Modellierung - Vernetzung - Visualisierung Konferenzabstracts. S. 158–159.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__157">Herrmann, Berenike/Lauer, Gerhard (2016a): Aufbau und Annotation des Kafka/Referenzkorpus. In: DHd 2016 Modellierung - Vernetzung - Visualisierung Konferenzabstracts. S. 158–159.</rs></bibl>
                     <bibl style="text-align:left;">Herrmann, Berenike/Lauer, Gerhard (2016b): KARREK: Building and Annotating a Kafka/Reference Corpus. In: 
-                        <rs type="bibl" ref="#bibl__3016">Herrmann, Berenike/Lauer, Gerhard (2016b): KARREK: Building and Annotating a Kafka/Reference Corpus. In: DH 2016 - Conference Abstracts. S. 552–553.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1144">Herrmann, Berenike/Lauer, Gerhard (2016b): KARREK: Building and Annotating a Kafka/Reference Corpus. In: DH 2016 - Conference Abstracts. S. 552–553.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__224">Levenshtein, Vladimir (1966): Binary codes capable of correcting deletions, insertions, and reversals. In: ​ Soviet Physics Doklady . Vol. 10, No. 8, S. 707–710.</rs></bibl>
-                    <bibl style="text-align:left;">Pernes, Stefan/Keller, Lennart/Peterek, Christoph (2017): Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 92–94.<rs type="bibl" ref="#bibl__3017">Pernes, Stefan/Keller, Lennart/Peterek, Christoph (2017): Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 92–94.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__158">Levenshtein, Vladimir (1966): Binary codes capable of correcting deletions, insertions, and reversals. In: ​ Soviet Physics Doklady . Vol. 10, No. 8, S. 707–710.</rs></bibl>
+                    <bibl style="text-align:left;">Pernes, Stefan/Keller, Lennart/Peterek, Christoph (2017): Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 92–94.<rs type="bibl" ref="#bibl__1145">Pernes, Stefan/Keller, Lennart/Peterek, Christoph (2017): Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In: DHd 2017 Digitale Nachhaltigkeit Konferenzabstracts. S. 92–94.</rs></bibl>
                     <bibl style="text-align:left;">Trilcke, Peer/Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: 
-                        <rs type="bibl" ref="#bibl__3018">Trilcke, Peer/Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: Zeitschrift für digitale Geisteswissenschaften, Sonderband 3 “Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden”.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__159">Trilcke, Peer/Fischer, Frank (2018): Literaturwissenschaft als Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen. In: Zeitschrift für digitale Geisteswissenschaften, Sonderband 3 “Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden”.</rs></bibl>
                     <bibl style="text-align:left;">Schöch, Christof (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis/Kohle, Hubertus/Rehbein, Malte (Hg.): 
-                        <rs type="bibl" ref="#bibl__3019">Schöch, Christof (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis/Kohle, Hubertus/Rehbein, Malte (Hg.): Digital Humanities: eine Einführung. Stuttgart: J.B. Metzler Verlag. S. 223–233.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__161">Schöch, Christof (2017): Aufbau von Datensammlungen. In: Jannidis, Fotis/Kohle, Hubertus/Rehbein, Malte (Hg.): Digital Humanities: eine Einführung. Stuttgart: J.B. Metzler Verlag. S. 223–233.</rs></bibl>
                     <bibl style="text-align:left;">Schruhl, Friederike (2018): Objektumgangsnormen in der Literaturwissenschaft. In: 
-                        <rs type="bibl" ref="#bibl__3020">Schruhl, Friederike (2018): Objektumgangsnormen in der Literaturwissenschaft. In: Zeitschrift für digitale Geisteswissenschaften, Sonderband 3 “Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden”.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1146">Schruhl, Friederike (2018): Objektumgangsnormen in der Literaturwissenschaft. In: Zeitschrift für digitale Geisteswissenschaften, Sonderband 3 “Wie Digitalität die Geisteswissenschaften verändert. Neue Forschungsgegenstände und Methoden”.</rs></bibl>
                 </listBibl>
             </div>
         </back>

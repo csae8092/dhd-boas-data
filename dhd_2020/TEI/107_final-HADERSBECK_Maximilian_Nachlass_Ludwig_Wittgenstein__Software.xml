@@ -298,81 +298,29 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Babl, Florian </hi>(2019): 
-                        <hi rend="italic">Entwicklung eines Rankingverfahrens der Suchtreffer für die FinderApp WiTTFind im Nachlass Ludwig Wittgensteins</hi>. Bachelor‘s thesis. LMU.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5142">Babl, Florian (2019): Entwicklung eines Rankingverfahrens der Suchtreffer für die FinderApp WiTTFind im Nachlass Ludwig Wittgensteins. Bachelor‘s thesis. LMU.</rs></bibl>
 <bibl>
-<hi rend="bold">Landes, </hi>
-<hi rend="bold">Florian</hi> (2019): 
-                        <hi rend="italic">Optical Character Recognition (OCR) – Optische Zeichenerkennung (OZE). Ein Werkzeug zur Verknüpfung von digitaler Edition und Faksimile? Semiautomatische Ermittlung von Bildkoordinaten für WiTTFind</hi>, Bachelorarbeit, LMU.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5143">Landes, Florian (2019): Optical Character Recognition (OCR) – Optische Zeichenerkennung (OZE). Ein Werkzeug zur Verknüpfung von digitaler Edition und Faksimile? Semiautomatische Ermittlung von Bildkoordinaten für WiTTFind, Bachelorarbeit, LMU.</rs></bibl>
 <bibl>
-<hi rend="bold">Lindinger, Matthias</hi> (2013): 
-                        <hi rend="italic">Highlighting von Treffern des Suchmaschinentools </hi>
-<hi rend="italic">WiTTFind im zugehörigen Faksimile.</hi> Bachelor‘s thesis, LMU.
-</bibl>
+<rs type="bibl" ref="#bibl__5144">Lindinger, Matthias (2013): Highlighting von Treffern des Suchmaschinentools WiTTFind im zugehörigen Faksimile. Bachelor‘s thesis, LMU.</rs></bibl>
 <bibl>
-<hi rend="bold">Lindinger, </hi>
-<hi rend="bold">Matthias</hi> (2015): 
-                        <hi rend="italic">Entwicklung eines WEB-basierten Faksimileviewers mit Highlighting von Suchmaschinen-Treffern und Anzeige der zugehörigen Texte in unterschiedlichen Editionsformaten</hi>. Master's thesis, LMU.
-                    </bibl>
+<rs type="bibl" ref="#bibl__180">Lindinger, Matthias (2015): Entwicklung eines WEB-basierten Faksimileviewers mit Highlighting von Suchmaschinen-Treffern und Anzeige der zugehörigen Texte in unterschiedlichen Editionsformaten. Master's thesis, LMU.</rs></bibl>
 <bibl>
-<hi rend="bold">Pichler, Alois</hi> (2017): 
-                        <hi rend="italic">Wittgenstein Archives at the University of Bergen (WAB): Open Access to Wittgenstein's Nachlass. XML based Interactive Dynamic Presentation (IDP) of WAB's Nachlass transcriptions.</hi> 16. Mai 2017. http://wab.uib.no/transform/wab.php?modus=opsjoner [letzter Zugriff 20.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5145">Pichler, Alois (2017): Wittgenstein Archives at the University of Bergen (WAB): Open Access to Wittgenstein's Nachlass. XML based Interactive Dynamic Presentation (IDP) of WAB's Nachlass transcriptions. 16. Mai 2017. http://wab.uib.no/transform/wab.php?modus=opsjoner [letzter Zugriff 20.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Hadersbeck, </hi>
-<hi rend="bold">Maximilian / </hi>
-<hi rend="bold">Pichler, </hi>
-<hi rend="bold">Alois / </hi>
-<hi rend="bold">Fink, </hi>
-<hi rend="bold">Florian /</hi>
-<hi rend="bold"> Gjesdal, </hi>
-<hi rend="bold">Øyvind L.</hi> (2014): „Wittgenstein's Nachlass: WiTTFind and Wittgenstein advanced search tools (WAST)“
-                        <hi rend="italic">,</hi> in: 
-                        <hi rend="italic">Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage</hi>, 91-96. ACM.
-                    </bibl>
+<rs type="bibl" ref="#bibl__176">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Øyvind L. (2014): „Wittgenstein's Nachlass: WiTTFind and Wittgenstein advanced search tools (WAST)“ , in: Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage, 91-96. ACM.</rs></bibl>
 <bibl>
-<hi rend="bold">Hadersbeck , </hi>
-<hi rend="bold">Maximilian /</hi>
-<hi rend="bold"> Pichler, </hi>
-<hi rend="bold"> Alois /</hi>
-<hi rend="bold"> Bruder, Daniel / Schweter, Stefan</hi> (2016): 
-                        <hi rend="italic">New (re)search </hi>
-<hi rend="italic">possibilities for Wittgenstein's Nachlass II: Advanced Search, Navigation and Feedback with the FinderApp WiTTFind</hi>. http://wab.uib.no/alois/Hadersbeck_Pichler%20Kirchberg2016.pdf [letzter Zugriff 20.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__5146">Hadersbeck , Maximilian / Pichler, Alois / Bruder, Daniel / Schweter, Stefan (2016): New (re)search possibilities for Wittgenstein's Nachlass II: Advanced Search, Navigation and Feedback with the FinderApp WiTTFind. http://wab.uib.no/alois/Hadersbeck_Pichler%20Kirchberg2016.pdf [letzter Zugriff 20.09.2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Röhrer, </hi>
-<hi rend="bold">Ines / </hi>
-<hi rend="bold">Ullrich, </hi>
-<hi rend="bold">Sabine / </hi>
-<hi rend="bold">Hadersbeck, </hi>
-<hi rend="bold">Maximilian </hi>(2019): 
-                        <hi rend="italic">Weltkulturerbe international digital: Erweiterung der Wittgenstein Advanced Search Tools durch Semantisierung und neuronale maschinelle Übersetzung</hi>. multimedial multimodal. Abstracts zur Jahrestagung des Verbandes Digital Humanities im deutschsprachigen Raum, 25. - 29.03.2019 an den Universitäten zu Mainz und Frankfurt.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5147">Röhrer, Ines / Ullrich, Sabine / Hadersbeck, Maximilian (2019): Weltkulturerbe international digital: Erweiterung der Wittgenstein Advanced Search Tools durch Semantisierung und neuronale maschinelle Übersetzung. multimedial multimodal. Abstracts zur Jahrestagung des Verbandes Digital Humanities im deutschsprachigen Raum, 25. - 29.03.2019 an den Universitäten zu Mainz und Frankfurt.</rs></bibl>
 <bibl>
-<hi rend="bold">Röhrer, </hi>
-<hi rend="bold">Ines </hi>(2017): 
-                        <hi rend="italic">Musik und Ludwig Wittgenstein: Semantische Suche in seinem Nachlass.</hi> Bachelor‘s thesis, LMU.
-                    </bibl>
+<rs type="bibl" ref="#bibl__181">Röhrer, Ines (2017): Musik und Ludwig Wittgenstein: Semantische Suche in seinem Nachlass. Bachelor‘s thesis, LMU.</rs></bibl>
 <bibl>
-<hi rend="bold">Schmidt, </hi>
-<hi rend="bold">Alfred </hi>(2018): „Ludwig Wittgenstein’s Nachlass in the UNESCO Memory of the World register.“, in: 
-                        <hi rend="italic">Nordic Wittgenstein Review </hi>7(2):209–213.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5148">Schmidt, Alfred (2018): „Ludwig Wittgenstein’s Nachlass in the UNESCO Memory of the World register.“, in: Nordic Wittgenstein Review 7(2):209–213.</rs></bibl>
 <bibl>
-<hi rend="bold">Ullrich, </hi>
-<hi rend="bold">Sabine /</hi>
-<hi rend="bold"> Bruder, </hi>
-<hi rend="bold">Daniel /</hi>
-<hi rend="bold"> Hadersbeck, </hi>
-<hi rend="bold">Maximilian </hi>(2018): Aufdecken von „versteckten" Einflüssen: Teil-Automatisierte Textgenetische Prozesse mit Methoden der Computerlinguistik und des Machine Learning. Kritik der digitalen Vernunft. Abstracts zur Jahrestagung des Verbandes Digital Humanities im deutschsprachigen Raum, 26.02.-02.03. 2018 an der Universi
-                        <anchor xml:id="id__GoBack"/>tät zu Köln, veranstaltet vom Cologne Center for eHumanities (CceH).
-                    </bibl>
+<rs type="bibl" ref="#bibl__182">Ullrich, Sabine / Bruder, Daniel / Hadersbeck, Maximilian (2018): Aufdecken von „versteckten" Einflüssen: Teil-Automatisierte Textgenetische Prozesse mit Methoden der Computerlinguistik und des Machine Learning. Kritik der digitalen Vernunft. Abstracts zur Jahrestagung des Verbandes Digital Humanities im deutschsprachigen Raum, 26.02.-02.03. 2018 an der Universi tät zu Köln, veranstaltet vom Cologne Center for eHumanities (CceH).</rs></bibl>
 <bibl>
-<hi rend="bold">Ullrich, Sabine </hi>(2019):
-                        <hi rend="italic"> Boosting Performance of a Similarity Detection System using State of the Art Clustering Algorithms</hi>. Master‘s thesis. LMU.
-                    </bibl>
+<rs type="bibl" ref="#bibl__5149">Ullrich, Sabine (2019): Boosting Performance of a Similarity Detection System using State of the Art Clustering Algorithms. Master‘s thesis. LMU.</rs></bibl>
 </listBibl>
 </div>
 </back>

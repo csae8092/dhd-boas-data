@@ -134,17 +134,11 @@ EXIF<ref n="3" target="ftn3"/> und XMP<ref n="4" target="ftn4"/> Daten direkt im
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Deutsche Forschungsgemeinschaft </hi> (2016): DFG-Praxisregeln „Digitalisierung“ [12/16]: 
-  <ref target="https://www.dfg.de/formulare/12_151/12_151_de.pdf">https://www.dfg.de/formulare/12_151/12_151_de.pdf</ref> [letzter Zugriff 16.12.2019]
-</bibl>
+  <rs type="bibl" ref="#bibl__4985">Deutsche Forschungsgemeinschaft (2016): DFG-Praxisregeln „Digitalisierung“ [12/16]: https://www.dfg.de/formulare/12_151/12_151_de.pdf [letzter Zugriff 16.12.2019]</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> ETH-Bibliothek DigiCenter</hi> (2016): Best Practices Digitalisierung, Version 1.1: 
-  <ref target="https://www.library.ethz.ch/de/ms/DigiCenter/Best-Practices-Digitalisierung">https://www.library.ethz.ch/de/ms/DigiCenter/Best-Practices-Digitalisierung</ref> [letzter Zugriff 16.12.2019]
-</bibl>
+  <rs type="bibl" ref="#bibl__4986">ETH-Bibliothek DigiCenter (2016): Best Practices Digitalisierung, Version 1.1: https://www.library.ethz.ch/de/ms/DigiCenter/Best-Practices-Digitalisierung [letzter Zugriff 16.12.2019]</rs></bibl>
 <bibl style="text-align:left; ">
-  <hi rend="bold"> Wendel, Klaus </hi> (2013): „Checkliste“ zur Bewertung von Angeboten zur Digitalisierung von Kulturgut, Version 1.1: 
-  <ref target="https://www.digis-berlin.de/wp-content/uploads/2016/07/Checkliste_Digitalisierung_v1.1.pdf">https://www.digis-berlin.de/wp-content/uploads/2016/07/Checkliste_Digitalisierung_v1.1.pdf</ref> [letzter Zugriff 16.12.2019]
-</bibl>
+  <rs type="bibl" ref="#bibl__4987">Wendel, Klaus (2013): „Checkliste“ zur Bewertung von Angeboten zur Digitalisierung von Kulturgut, Version 1.1: https://www.digis-berlin.de/wp-content/uploads/2016/07/Checkliste_Digitalisierung_v1.1.pdf [letzter Zugriff 16.12.2019]</rs></bibl>
 </listBibl>
 </div>
 </back>

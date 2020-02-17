@@ -307,106 +307,41 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Bourdieu, Pierre</hi> (1985): 
-  <hi rend="italic" xml:space="preserve">Sozialer Raum und "Klassen". Zwei Vorlesungen</hi>. Frankfurt a. M.: Suhrkamp.
-</bibl>
+  <rs type="bibl" ref="#bibl__5503">Bourdieu, Pierre (1985): Sozialer Raum und "Klassen". Zwei Vorlesungen. Frankfurt a. M.: Suhrkamp.</rs></bibl>
 <bibl>
-  <hi rend="bold">Elias, Norbert</hi> (2002): 
-  "Etablierte und Außenseiter",  in:
-  Hammer, Heike / Blomert, Reinhard (eds.): 
-  <hi rend="italic">Gesammelte Schriften</hi>. Band 4. Frankfurt a. M.: Suhrkamp.
-</bibl>
+  <rs type="bibl" ref="#bibl__5504">Elias, Norbert (2002): "Etablierte und Außenseiter", in: Hammer, Heike / Blomert, Reinhard (eds.): Gesammelte Schriften. Band 4. Frankfurt a. M.: Suhrkamp.</rs></bibl>
 <bibl>
-  <hi rend="bold">Fischer, Frank / Trilcke, Peer / Kittel, Christopher / Skorinkin, Daniil</hi> (2018): 
-  "To Catch a Protagonist: Quantitative Dominance Relations in German-Language Drama (1730–1930)", in: 
-  <hi rend="italic">DH 2018 Conference Abstracts</hi>, Mexico-City: 193–201 
-  <ref target="https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf">https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf</ref> [letzter Zugriff 18. Dezember 2019.
-</bibl>
+  <rs type="bibl" ref="#bibl__144">Fischer, Frank / Trilcke, Peer / Kittel, Christopher / Skorinkin, Daniil (2018): "To Catch a Protagonist: Quantitative Dominance Relations in German-Language Drama (1730–1930)", in: DH 2018 Conference Abstracts, Mexico-City: 193–201 https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf [letzter Zugriff 18. Dezember 2019.</rs></bibl>
 <bibl>
-  <hi rend="bold">Fischer, Frank / Börner, Ingo / Göbel, Mathias /
-  Hechtl, Angelika / Kittel, Christopher / Milling, Carsten / Trilcke,
-  Peer </hi> (2019): 
-  <hi rend="italic"> "Programmable Corpora. Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor"</hi>, in: 
-  <hi rend="italic">DHd 2019 Conference Abstracts, Köln:</hi> 194–197, 
-  DOI: 
-  <ref target="https://doi.org/10.5281/zenodo.2596094">10.5281/zenodo.2596094</ref> [letzter Zugriff 18. Dezember 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__410">Fischer, Frank / Börner, Ingo / Göbel, Mathias / Hechtl, Angelika / Kittel, Christopher / Milling, Carsten / Trilcke, Peer (2019): "Programmable Corpora. Die digitale Literaturwissenschaft zwischen Forschung und Infrastruktur am Beispiel von DraCor", in: DHd 2019 Conference Abstracts, Köln: 194–197, DOI: 10.5281/zenodo.2596094 [letzter Zugriff 18. Dezember 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Hollmer, Heide / Meier, Albert</hi> (eds.) (2001):
-  <hi rend="italic" xml:space="preserve"> Dramenlexikon des 18. Jahrhunderts</hi>. München: C. H. Beck.
-</bibl>
+  <rs type="bibl" ref="#bibl__336">Hollmer, Heide / Meier, Albert (eds.) (2001): Dramenlexikon des 18. Jahrhunderts. München: C. H. Beck.</rs></bibl>
 <bibl>
-  <hi rend="bold">Karsdorp, Folgert / Kestemont, Mike / Schöch, Christof / Bosch, Antal van den</hi> (2015): 
-  <hi rend="italic" style="font-size:10pt">"The Love Equation:
-  Computational Modeling of Romantic Relationships in French Classical
-  Drama"</hi>, in:
-  Mark A. Finlayson, Ben Miller, Antonio Lieto, und Remi Ronfard, (eds.), 
-  <hi rend="italic">6th Workshop on Computational Models of Narrative (CMN 2015)</hi>: 98–107 DOI: 10.4230/OASIcs.CMN.2015.98. 
-</bibl>
+  <rs type="bibl" ref="#bibl__5505">Karsdorp, Folgert / Kestemont, Mike / Schöch, Christof / Bosch, Antal van den (2015): "The Love Equation: Computational Modeling of Romantic Relationships in French Classical Drama", in: Mark A. Finlayson, Ben Miller, Antonio Lieto, und Remi Ronfard, (eds.), 6th Workshop on Computational Models of Narrative (CMN 2015): 98–107 DOI: 10.4230/OASIcs.CMN.2015.98.</rs></bibl>
 <bibl>
-  <hi rend="bold">Krautter, Benjamin / Pagel, Janis</hi> (2019): 
-  "Klassifikation von Titelfiguren in deutschsprachigen Dramen und Evaluation am Beispiel von Lessings <hi rend="italic">Emilia Galotti</hi>", in: 
-  <hi rend="italic">DHd 2019 Conference Abstracts,</hi> Köln:
-  DOI: 10.18419/opus-10365 [letzter Zugriff 18. Dezember 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5506">Krautter, Benjamin / Pagel, Janis (2019): "Klassifikation von Titelfiguren in deutschsprachigen Dramen und Evaluation am Beispiel von Lessings Emilia Galotti", in: DHd 2019 Conference Abstracts, Köln: DOI: 10.18419/opus-10365 [letzter Zugriff 18. Dezember 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Marcus, Solomon</hi> (1973 [1970]): 
-  <hi rend="italic">Mathematische Poetik</hi>. Frankfurt a.M.: Athenäum.
-</bibl>
+  <rs type="bibl" ref="#bibl__5507">Marcus, Solomon (1973 [1970]): Mathematische Poetik. Frankfurt a.M.: Athenäum.</rs></bibl>
 <bibl>
-  <hi rend="bold">Moretti, Franco</hi> (2011): 
-  <hi rend="italic" style="font-size:10pt">"Network Theory, Plot Analysis"</hi>, in: 
-  <hi rend="italic">Pamphlets of the Stanford Literary Lab 2</hi>: 2–11 
-  <ref target="https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf">https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf</ref> [letzter Zugriff 18. Dezember 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__147">Moretti, Franco (2011): "Network Theory, Plot Analysis", in: Pamphlets of the Stanford Literary Lab 2: 2–11 https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf [letzter Zugriff 18. Dezember 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Naumann, Karin</hi> (2007): 
-  <hi rend="italic" style="font-size:10pt">"Manual for the annotation of in-document referential relations"</hi>, in: 
-  <hi rend="italic">Technical report</hi>, Seminar für Sprachwissenschaft, Abt. Computerlinguistik Universität Tübingen.
-</bibl>
+  <rs type="bibl" ref="#bibl__5508">Naumann, Karin (2007): "Manual for the annotation of in-document referential relations", in: Technical report, Seminar für Sprachwissenschaft, Abt. Computerlinguistik Universität Tübingen.</rs></bibl>
 <bibl>
-  <hi rend="bold">Nalisnick, Eric T. / Baird, Henry S</hi>. (2013): 
-  <hi rend="italic" style="font-size:10pt">"Character-to-character sentiment analysis in Shakespeare’s plays"</hi>, in: 
-  <hi rend="italic">Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics</hi>: 479–483 
-  <ref target="http://www.aclweb.org/anthology/P13-2085">http://www.aclweb.org/anthology/P13-2085</ref> [letzter Zugriff 18. Dezember 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__369">Nalisnick, Eric T. / Baird, Henry S. (2013): "Character-to-character sentiment analysis in Shakespeare’s plays", in: Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics: 479–483 http://www.aclweb.org/anthology/P13-2085 [letzter Zugriff 18. Dezember 2019].</rs></bibl>
 <bibl>
-<hi rend="bold">Pfister, Manfred</hi> (2001): 
-<hi rend="italic">Das Drama. Theorie und Analyse</hi>. München: W. Fink.
-</bibl>
+<rs type="bibl" ref="#bibl__150">Pfister, Manfred (2001): Das Drama. Theorie und Analyse. München: W. Fink.</rs></bibl>
 <bibl>
-  <hi rend="bold">Piper, Andrew / Algee-Hewitt, Mark / Sinha, Koustuv / Ruths, Derek / Vala, Hardik</hi> (2017): 
-  <hi rend="italic" style="font-size:10pt">"Studying Literary Characters and Character Networks"</hi>, in: 
-  <hi rend="italic">DH 2017 Conference Abstracts</hi>, Montréal: 
-  <ref target="https://dh2017.adho.org/abstracts/103/103.pdf">https://dh2017.adho.org/abstracts/103/103.pdf</ref> [letzter Zugriff 18. Dezember 2019].
-</bibl>
+  <rs type="bibl" ref="#bibl__5509">Piper, Andrew / Algee-Hewitt, Mark / Sinha, Koustuv / Ruths, Derek / Vala, Hardik (2017): "Studying Literary Characters and Character Networks", in: DH 2017 Conference Abstracts, Montréal: https://dh2017.adho.org/abstracts/103/103.pdf [letzter Zugriff 18. Dezember 2019].</rs></bibl>
 <bibl>
-  <hi rend="bold">Sørensen, Bengt Algot</hi> (1984): 
-  <hi rend="italic">Herrschaft und Zärtlichkeit der Patriarchalismus und das Drama im 18. Jahrhundert</hi>. München: C. H. Beck.
-</bibl>
+  <rs type="bibl" ref="#bibl__5510">Sørensen, Bengt Algot (1984): Herrschaft und Zärtlichkeit der Patriarchalismus und das Drama im 18. Jahrhundert. München: C. H. Beck.</rs></bibl>
 <bibl>
-  <hi rend="bold">Schopenhauer, Arthur</hi> (1977): 
-  <hi rend="italic">Die Welt als Wille und Vorstellung</hi>, in: Hübscher, Arthur (eds.), Zürich.
-</bibl>
+  <rs type="bibl" ref="#bibl__5511">Schopenhauer, Arthur (1977): Die Welt als Wille und Vorstellung, in: Hübscher, Arthur (eds.), Zürich.</rs></bibl>
 <bibl>
-  <hi rend="bold">Trilcke, Peer / Fischer, Frank / Kampkaspar, Dario</hi> (2015): 
-  <hi rend="italic" style="font-size:10pt">"Digital Network Analysis
-  of Dramatic Texts, </hi> in: 
-  <hi rend="italic">DH 2015 Conference Abstracts</hi>, Sydney.
-</bibl>
+  <rs type="bibl" ref="#bibl__217">Trilcke, Peer / Fischer, Frank / Kampkaspar, Dario (2015): "Digital Network Analysis of Dramatic Texts, in: DH 2015 Conference Abstracts, Sydney.</rs></bibl>
 <bibl>
-  <hi rend="bold">Vogel, Juliane</hi> (2012): 
-  <hi rend="italic" style="font-size:10pt">"Aus dem Takt: Auftrittsstrukturen in Schillers Don Carlos"</hi>, in: 
-  <hi rend="italic">Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte</hi> 86/4: 532–546.
-</bibl>
+  <rs type="bibl" ref="#bibl__433">Vogel, Juliane (2012): "Aus dem Takt: Auftrittsstrukturen in Schillers Don Carlos", in: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte 86/4: 532–546.</rs></bibl>
 <bibl>
-  <hi rend="bold">Willand, Marcus / Reiter, Nils</hi> (2017): 
-  <hi rend="italic" style="font-size:10pt">"Geschlecht und
-  Gattung. Digitale Analysen von Kleists Familie Schroffenstein"</hi>,
-  in:
-  Allerkamp, Ana / Blamberger, Günter / Breuer, Ingo / Gribnitz, Barbara / Lund, Hannah Lotte / Roussel, Martin (eds.): 
-  <hi rend="italic">Kleist-Jahrbuch</hi>. Stuttgart: J. B. Metzler 177–195. 
-</bibl>
+  <rs type="bibl" ref="#bibl__5512">Willand, Marcus / Reiter, Nils (2017): "Geschlecht und Gattung. Digitale Analysen von Kleists Familie Schroffenstein", in: Allerkamp, Ana / Blamberger, Günter / Breuer, Ingo / Gribnitz, Barbara / Lund, Hannah Lotte / Roussel, Martin (eds.): Kleist-Jahrbuch. Stuttgart: J. B. Metzler 177–195.</rs></bibl>
 </listBibl>
 </div>
 </back>

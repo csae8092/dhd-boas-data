@@ -145,10 +145,10 @@
           <div type="bibliogr">
             <listBibl>
               <head>Bibliographie</head>
-              <bibl><rs type="bibl" ref="#bibl__2256">Balck, Sandra / Büttner, Stephan / Ducks, Denise / Lehfeld, Ann-Sophie / Schneider, Eva / Vietze, Evelyn (2015): "Mit den Informationswissenschaften von Daten zu Erkenntnissen (Poster)", in: Tagung der Digital Humanities im deutschsprachigen Raum (DHd 2015), Graz.</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2257">DARIAH-DE (2015): "Forschungsdaten in DARIAH-DE" https://de.dariah.eu/forschungsdaten [letzter Zugriff 14. Oktober 2015].</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2258">Neuschäfer, Markus (2015): Handbuch Digital Humanities. Public Beta http://dhd-blog.org/?p=5566 [letzter Zugriff 14.Oktober 2015].</rs></bibl>
-                <bibl><rs type="bibl" ref="#bibl__2259">Open Science Lab der TIB (2015): http://blogs.tib.eu/wp/opensciencelab/ [letzter Zugriff 14. Oktober 2015].</rs></bibl>
+              <bibl><rs type="bibl" ref="#bibl__2559">Balck, Sandra / Büttner, Stephan / Ducks, Denise / Lehfeld, Ann-Sophie / Schneider, Eva / Vietze, Evelyn (2015): "Mit den Informationswissenschaften von Daten zu Erkenntnissen (Poster)", in: Tagung der Digital Humanities im deutschsprachigen Raum (DHd 2015), Graz.</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2560">DARIAH-DE (2015): "Forschungsdaten in DARIAH-DE" https://de.dariah.eu/forschungsdaten [letzter Zugriff 14. Oktober 2015].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2561">Neuschäfer, Markus (2015): Handbuch Digital Humanities. Public Beta http://dhd-blog.org/?p=5566 [letzter Zugriff 14.Oktober 2015].</rs></bibl>
+                <bibl><rs type="bibl" ref="#bibl__2562">Open Science Lab der TIB (2015): http://blogs.tib.eu/wp/opensciencelab/ [letzter Zugriff 14. Oktober 2015].</rs></bibl>
               </listBibl>
             </div>
           </back>

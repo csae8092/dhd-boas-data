@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Herausforderungen des Digital Storytelling am Beispiel des VRlabs des Deutschen Museums</title><title type="conf_year">2019</title><author ref="#person__g-hohmann-deutsches-museum-de">
+                <title>Herausforderungen des Digital Storytelling am Beispiel des VRlabs des Deutschen Museums</title><title type="conf_year">2019</title>
+                <author ref="#person__g-hohmann-deutsches-museum-de">
                     <persName>
                         <surname>Hohmann</surname>
                         <forename>Georg</forename>
@@ -153,14 +154,14 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">CORDIS (2018): 
-                        <rs type="bibl" ref="#bibl__3031">CORDIS (2018): 3D-COFORM. https://cordis.europa.eu/project/rcn/89256_de.html [letzter Zugriff 14. Oktober 2018]</rs></bibl>
-                    <bibl style="text-align:left; ">Freeman, A. / Adams Becker, S. / Cummins, M. / McKelroy, E. / Giesinger, C. / Yuhnke, B. (2016): NMC Horizon Report 2016. Museum Edition. Austin: 42-43<rs type="bibl" ref="#bibl__3032">Freeman, A. / Adams Becker, S. / Cummins, M. / McKelroy, E. / Giesinger, C. / Yuhnke, B. (2016): NMC Horizon Report 2016. Museum Edition. Austin: 42-43</rs></bibl>
+                        <rs type="bibl" ref="#bibl__969">CORDIS (2018): 3D-COFORM. https://cordis.europa.eu/project/rcn/89256_de.html [letzter Zugriff 14. Oktober 2018]</rs></bibl>
+                    <bibl style="text-align:left; ">Freeman, A. / Adams Becker, S. / Cummins, M. / McKelroy, E. / Giesinger, C. / Yuhnke, B. (2016): NMC Horizon Report 2016. Museum Edition. Austin: 42-43<rs type="bibl" ref="#bibl__970">Freeman, A. / Adams Becker, S. / Cummins, M. / McKelroy, E. / Giesinger, C. / Yuhnke, B. (2016): NMC Horizon Report 2016. Museum Edition. Austin: 42-43</rs></bibl>
                     <bibl style="text-align:left; ">Hohmann, Georg (2014): „Deutsches Museum Digital“ in: Deutscher Museumsbund (Hrsg.): 
-                        <rs type="bibl" ref="#bibl__3033">Hohmann, Georg (2014): „Deutsches Museum Digital“ in: Deutscher Museumsbund (Hrsg.): Museumskunde 79: 24-28.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__971">Hohmann, Georg (2014): „Deutsches Museum Digital“ in: Deutscher Museumsbund (Hrsg.): Museumskunde 79: 24-28.</rs></bibl>
                     <bibl style="text-align:left; ">Kommunikationsraum (2018): 
-                        <rs type="bibl" ref="#bibl__3034">Kommunikationsraum (2018): Welche Möglichkeiten bieten Virtual Reality und Augmented Reality für das Museum der Zukunft? https://www.kommunikationsraum.net/ausstellungenmuseen/welche-moeglichkeiten-bieten-virtual-reality-und-augmented-reality-fuer-das-museum-der-zukunft/ [letzter Zugriff 14. Oktober 2018</rs></bibl>
+                        <rs type="bibl" ref="#bibl__972">Kommunikationsraum (2018): Welche Möglichkeiten bieten Virtual Reality und Augmented Reality für das Museum der Zukunft? https://www.kommunikationsraum.net/ausstellungenmuseen/welche-moeglichkeiten-bieten-virtual-reality-und-augmented-reality-fuer-das-museum-der-zukunft/ [letzter Zugriff 14. Oktober 2018</rs></bibl>
                     <bibl style="text-align:left; ">Museum4punkt0 (2018): 
-                        <rs type="bibl" ref="#bibl__3035">Museum4punkt0 (2018): Über uns. http://www.museum4punkt0.de/ueber-uns/ [letzter Zugriff 14. Oktober 2018]]</rs></bibl>
+                        <rs type="bibl" ref="#bibl__973">Museum4punkt0 (2018): Über uns. http://www.museum4punkt0.de/ueber-uns/ [letzter Zugriff 14. Oktober 2018]]</rs></bibl>
                 </listBibl>
             </div>
         </back>

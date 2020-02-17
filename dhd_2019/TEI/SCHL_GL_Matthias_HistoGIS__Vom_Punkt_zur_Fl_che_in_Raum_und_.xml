@@ -4,7 +4,8 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">HistoGIS: Vom Punkt zur Fläche in Raum und Zeit</title>
-                    <title type="sub"/><title type="conf_year">2019</title></title>
+                    <title type="sub"/><title type="conf_year">2019</title>
+                </title>
                 <author ref="#person__matthias-schloegl-oeaw-ac-at">
                     <persName>
                         <surname>Schlögl</surname>
@@ -107,8 +108,8 @@
             <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl>Kamzelak, Roland S. (2018) “Von der Raupe zum Schmetterling oder Wie fliegen lernen – Editionsphilologie zwischen Infrastruktur und Semantic Web.” In: Kamzelak, Roland S / Steyer, Timo (eds.): Digitale Metamorphose: Digital Humanities und Editionswissenschaft. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2). text/html Format. DOI: 10.17175/sb002_004 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__3136">Kamzelak, Roland S. (2018) “Von der Raupe zum Schmetterling oder Wie fliegen lernen – Editionsphilologie zwischen Infrastruktur und Semantic Web.” In: Kamzelak, Roland S / Steyer, Timo (eds.): Digitale Metamorphose: Digital Humanities und Editionswissenschaft. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2). text/html Format. DOI: 10.17175/sb002_004 [letzter Zugriff 28. September 2018]</rs></bibl>
-                    <bibl>Nüssli, Marc-Antoine / Nüssli, Christos (2017): “A formal model for historical atlases and historical knowledge”, http://www.academia.edu/35853762 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__3137">Nüssli, Marc-Antoine / Nüssli, Christos (2017): “A formal model for historical atlases and historical knowledge”, http://www.academia.edu/35853762 [letzter Zugriff 28. September 2018]</rs></bibl>
+                    <bibl>Kamzelak, Roland S. (2018) “Von der Raupe zum Schmetterling oder Wie fliegen lernen – Editionsphilologie zwischen Infrastruktur und Semantic Web.” In: Kamzelak, Roland S / Steyer, Timo (eds.): Digitale Metamorphose: Digital Humanities und Editionswissenschaft. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2). text/html Format. DOI: 10.17175/sb002_004 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__1455">Kamzelak, Roland S. (2018) “Von der Raupe zum Schmetterling oder Wie fliegen lernen – Editionsphilologie zwischen Infrastruktur und Semantic Web.” In: Kamzelak, Roland S / Steyer, Timo (eds.): Digitale Metamorphose: Digital Humanities und Editionswissenschaft. (= Sonderband der Zeitschrift für digitale Geisteswissenschaften, 2). text/html Format. DOI: 10.17175/sb002_004 [letzter Zugriff 28. September 2018]</rs></bibl>
+                    <bibl>Nüssli, Marc-Antoine / Nüssli, Christos (2017): “A formal model for historical atlases and historical knowledge”, http://www.academia.edu/35853762 [letzter Zugriff 28. September 2018]<rs type="bibl" ref="#bibl__1456">Nüssli, Marc-Antoine / Nüssli, Christos (2017): “A formal model for historical atlases and historical knowledge”, http://www.academia.edu/35853762 [letzter Zugriff 28. September 2018]</rs></bibl>
                 </listBibl>
             </div>
         </back>

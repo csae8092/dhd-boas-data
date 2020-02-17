@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Interaktion im öffentlichen Raum: Von der qualitativen Rekonstruktion ihrer multimodalen Gestalt zur automatischen Detektion mit Hilfe von 3-D-Sensoren</title><title type="conf_year">2019</title><author ref="#person__s-mukhametov-gmail-com">
+                <title>Interaktion im öffentlichen Raum: Von der qualitativen Rekonstruktion ihrer multimodalen Gestalt zur automatischen Detektion mit Hilfe von 3-D-Sensoren</title><title type="conf_year">2019</title>
+                <author ref="#person__s-mukhametov-gmail-com">
                     <persName>
                         <surname>Mukhametov</surname>
                         <forename>Sergey</forename>
@@ -102,31 +103,31 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3334">Ciolek, T. Matthew / Kendon, Adam (1980): “Environment and the Spatial Arrangement of Conversational Encounters”, in: Sociological Inquiry 50 (3-4), 237–271.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1082">Ciolek, T. Matthew / Kendon, Adam (1980): “Environment and the Spatial Arrangement of Conversational Encounters”, in: Sociological Inquiry 50 (3-4), 237–271.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3335">Ge, Weina / Collins, Robert T. / Ruback, R. Barry (2012): “Vision-based analysis of small groups in pedestrian crowds”, in: IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI). 34(5)1003–1016. PMID: 21844622 https://ieeexplore.ieee.org/document/5989835 [letzter Zugriff 02. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1083">Ge, Weina / Collins, Robert T. / Ruback, R. Barry (2012): “Vision-based analysis of small groups in pedestrian crowds”, in: IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI). 34(5)1003–1016. PMID: 21844622 https://ieeexplore.ieee.org/document/5989835 [letzter Zugriff 02. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3336">Goffman, Erving (1963): “Behavior in public places. Notes on the social organization of gatherings”. New York, NY: Free Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1084">Goffman, Erving (1963): “Behavior in public places. Notes on the social organization of gatherings”. New York, NY: Free Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3337">Goffman, Erving (1971): “Relations in public. Microstudies of the public order”. New York: Basic Books.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1085">Goffman, Erving (1971): “Relations in public. Microstudies of the public order”. New York: Basic Books.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3338">Goodwin, Charles (1986): “Gesture as a Resource for the Organization of Mutual Orientation”, in: Semiotica 62 (1-2) 29–49.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1086">Goodwin, Charles (1986): “Gesture as a Resource for the Organization of Mutual Orientation”, in: Semiotica 62 (1-2) 29–49.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3339">Hausendorf, Heiko (2010): “Interaktion im Raum. Interaktionstheoretische Bemerkungen zu einem vernachlässigten Aspekt von Anwesenheit“, in: Deppermann, Arnulf / Linke, Angelika (eds.): Sprache intermedial. Stimme und Schrift, Bild und Ton . Jahrbuch 2009 des Instituts für deutsche Sprache. Berlin: de Gruyter (Jahrbuch des Instituts für deutsche Sprache, 2009) 163–197.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1087">Hausendorf, Heiko (2010): “Interaktion im Raum. Interaktionstheoretische Bemerkungen zu einem vernachlässigten Aspekt von Anwesenheit“, in: Deppermann, Arnulf / Linke, Angelika (eds.): Sprache intermedial. Stimme und Schrift, Bild und Ton . Jahrbuch 2009 des Instituts für deutsche Sprache. Berlin: de Gruyter (Jahrbuch des Instituts für deutsche Sprache, 2009) 163–197.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3340">Hausendorf, Heiko / Kesselheim, Wolfgang (2016): “Die Lesbarkeit des Textes und die Benutzbarkeit der Architektur. Text- und interaktionslinguistische Überlegungen zur Raumanalyse”, in: Hausendorf, Heiko / Schmitt, Reinhold, Kesselheim, Wolfgang (eds.): Interaktionsarchitektur, Sozialtopographie und Interaktionsraum . Tübingen: Narr Francke Attempto (Studien zur deutschen Sprache 72) 55–85.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1088">Hausendorf, Heiko / Kesselheim, Wolfgang (2016): “Die Lesbarkeit des Textes und die Benutzbarkeit der Architektur. Text- und interaktionslinguistische Überlegungen zur Raumanalyse”, in: Hausendorf, Heiko / Schmitt, Reinhold, Kesselheim, Wolfgang (eds.): Interaktionsarchitektur, Sozialtopographie und Interaktionsraum . Tübingen: Narr Francke Attempto (Studien zur deutschen Sprache 72) 55–85.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3341">Heath, Christian (1986): “Body movement and speech in medical interaction”. Cambridge: Cambridge University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1089">Heath, Christian (1986): “Body movement and speech in medical interaction”. Cambridge: Cambridge University Press.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3342">Hung, Hayley / Kröse, Ben (2011): “Detecting F-formations as Dominant Sets”, in: International Conference on Multimodal Interfaces (ICMI) 231–238. homepage.tudelft.nl/3e2t5/HungKrose_ICMI2011.pdf [letzter Zugriff 02. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1090">Hung, Hayley / Kröse, Ben (2011): “Detecting F-formations as Dominant Sets”, in: International Conference on Multimodal Interfaces (ICMI) 231–238. homepage.tudelft.nl/3e2t5/HungKrose_ICMI2011.pdf [letzter Zugriff 02. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3343">Mondada, Lorenza (2009): “Emergent focused interactions in public places. A systematic analysis of the multimodal achievement of a common interactional space”, in Journal of Pragmatics (41) 1977–1997. DOI: 10.1016/j.pragma.2008.09.019.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1091">Mondada, Lorenza (2009): “Emergent focused interactions in public places. A systematic analysis of the multimodal achievement of a common interactional space”, in Journal of Pragmatics (41) 1977–1997. DOI: 10.1016/j.pragma.2008.09.019.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3344">Qin, Zhen / Shelton, Christian R. (2012) “Improving Multi-target Tracking via Social Grouping”, in: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 1972–1978. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6247899 [letzter Zugriff 02. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1092">Qin, Zhen / Shelton, Christian R. (2012) “Improving Multi-target Tracking via Social Grouping”, in: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 1972–1978. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6247899 [letzter Zugriff 02. Januar 2019].</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__286">Nevile, Maurice / Haddington, Pentti / Heinemann, Trine / Rauniomaa, Mirka (eds.) (2014): “Interacting with objects. Language, materiality, and social activity”. Amsterdam: Benjamins.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__118">Nevile, Maurice / Haddington, Pentti / Heinemann, Trine / Rauniomaa, Mirka (eds.) (2014): “Interacting with objects. Language, materiality, and social activity”. Amsterdam: Benjamins.</rs></bibl>
                     <bibl>
-                        <rs type="bibl" ref="#bibl__3345">Setti, Francesco / Hung, Hayley / Cristani, Marco (2013): “Group detection in still images by F-formation modeling: A comparative study”, in: International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS) 1–4. https://ieeexplore.ieee.org/document/6616147 [letzter Zugriff 02. Januar 2019].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1093">Setti, Francesco / Hung, Hayley / Cristani, Marco (2013): “Group detection in still images by F-formation modeling: A comparative study”, in: International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS) 1–4. https://ieeexplore.ieee.org/document/6616147 [letzter Zugriff 02. Januar 2019].</rs></bibl>
                 </listBibl>
             </div>
         </back>

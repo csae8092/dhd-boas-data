@@ -162,11 +162,9 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Dumont, Stefan / Fechner, Martin</hi> (2012): „Digitale Arbeitsumgebung für das Editionvorhaben ‚Schleiermacher in Berlin 1808–1834‘“ http://digiversity.net/2012/digitale-arbeitsumgebung-fur-das-editionsvorhaben-schleiermacher-in-berlin-1808-1834 [letzter Zugriff 25.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4891">Dumont, Stefan / Fechner, Martin (2012): „Digitale Arbeitsumgebung für das Editionvorhaben ‚Schleiermacher in Berlin 1808–1834‘“ http://digiversity.net/2012/digitale-arbeitsumgebung-fur-das-editionsvorhaben-schleiermacher-in-berlin-1808-1834 [letzter Zugriff 25.09.2019].</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Dumont Stefan / Fechner Martin</hi> (2015): „Bridging the Gap: Greater Usability for TEI encoding, in: Journal of the Text Encoding Initiative 8“ http://jtei.revues.org/1242 [letzter Zugriff 25.09.2019].
-                    </bibl>
+<rs type="bibl" ref="#bibl__4892">Dumont Stefan / Fechner Martin (2015): „Bridging the Gap: Greater Usability for TEI encoding, in: Journal of the Text Encoding Initiative 8“ http://jtei.revues.org/1242 [letzter Zugriff 25.09.2019].</rs></bibl>
 </listBibl>
     <p> <lb/> <lb/> <lb/>  <lb/> </p>
 

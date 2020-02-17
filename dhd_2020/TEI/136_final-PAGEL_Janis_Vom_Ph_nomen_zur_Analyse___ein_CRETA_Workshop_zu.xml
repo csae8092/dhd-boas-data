@@ -309,40 +309,31 @@ Voraussetzung für eine angemessene Interpretation zu bedenken.</p>
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-  <hi rend="bold">Blessing, André / Echelmeyer, Nora / John, Markus / Reiter, Nils </hi>(2017): „An end-to-end environment for research question-driven entity extraction and network analysis“ in 
-  <hi rend="italic">Proceedings of the Joint SIGHUM Workshop on
-  Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</hi>, Vancouver.
-</bibl>
+  <rs type="bibl" ref="#bibl__388">Blessing, André / Echelmeyer, Nora / John, Markus / Reiter, Nils (2017): „An end-to-end environment for research question-driven entity extraction and network analysis“ in Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, Vancouver.</rs></bibl>
 <bibl>
-  <hi rend="bold"> Julia Flanders / Fotis Jannidis</hi> (2015):
-  Knowledge Organization and Data Modeling in the Humanities, <ref target="urn:nbn:de:bvb:20-opus-111270">urn:nbn:de:bvb:20-opus-111270</ref>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5435">Julia Flanders / Fotis Jannidis (2015): Knowledge Organization and Data Modeling in the Humanities, urn:nbn:de:bvb:20-opus-111270.</rs></bibl>
 <bibl>
-<hi rend="bold"> Gérard Genette</hi> (1988 [1983]: Narrative Discourse Revisited. (Translated by Jane E. Lewin), Ithaca. </bibl>
+<rs type="bibl" ref="#bibl__5436">Gérard Genette (1988 [1983]: Narrative Discourse Revisited. (Translated by Jane E. Lewin), Ithaca.</rs></bibl>
 <bibl>
-<hi rend="bold"> Marie-Laure Ryan</hi> (1991): Possible Worlds, Artificial Intelligence and Narrative Theory, Bloomington, Indianapolis.</bibl>
+<rs type="bibl" ref="#bibl__218">Marie-Laure Ryan (1991): Possible Worlds, Artificial Intelligence and Narrative Theory, Bloomington, Indianapolis.</rs></bibl>
 <bibl>
-<hi rend="bold"> Evelyn Gius / Janina Jacke</hi> (2017): The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis, in: International Journal of Humanities and Arts Computing 11, S. 233–254.</bibl>
+<rs type="bibl" ref="#bibl__5437">Evelyn Gius / Janina Jacke (2017): The Hermeneutic Profit of Annotation. On Preventing and Fostering Disagreement in Literary Analysis, in: International Journal of Humanities and Arts Computing 11, S. 233–254.</rs></bibl>
 <bibl>
-<hi rend="bold"> Janina Jacke</hi> (2014): Is There a Context-Free Way of Understanding Texts? The Case of Structuralist Narratology, in: Journal of Literary Theory 8, S. 118–39.</bibl>
+<rs type="bibl" ref="#bibl__5438">Janina Jacke (2014): Is There a Context-Free Way of Understanding Texts? The Case of Structuralist Narratology, in: Journal of Literary Theory 8, S. 118–39.</rs></bibl>
 <bibl>
-<hi rend="bold"> Fotis Jannids</hi> (2010): Methoden der computergestützten Textanalyse, in: Methoden der literatur- und kulturwissenschaftlichen Textanalyse. Ansätze – Grundlagen – Modellanalysen, hg. v. Vera Nünning, Ansgar Nünning und Irina Bauder-Begerow, Stuttgart, Weimar, S. 109–132.</bibl>
+<rs type="bibl" ref="#bibl__5439">Fotis Jannids (2010): Methoden der computergestützten Textanalyse, in: Methoden der literatur- und kulturwissenschaftlichen Textanalyse. Ansätze – Grundlagen – Modellanalysen, hg. v. Vera Nünning, Ansgar Nünning und Irina Bauder-Begerow, Stuttgart, Weimar, S. 109–132.</rs></bibl>
 <bibl>
-<hi rend="bold"> Franco Moretti</hi> (2013): “Operationalizing”: or, the function of measurement in modern literary theory, in: Literary Lab 6, S. 1–13.</bibl>
+<rs type="bibl" ref="#bibl__5440">Franco Moretti (2013): “Operationalizing”: or, the function of measurement in modern literary theory, in: Literary Lab 6, S. 1–13.</rs></bibl>
 <bibl>
-<hi rend="bold"> Janis Pagel / Nils Reiter / Ina Rösiger / Sarah
-Schulz</hi> (2018): A Unified Text Annotation Workflow for Diverse Goals, in: Proceedings of the Workshop for Annotation in Digital Humanities (annDH), hg. v. Sandra Kübler und Heike Zinsmeister, Sofia, Bulgaria, August 2018, S. 31–36.</bibl>
+<rs type="bibl" ref="#bibl__5441">Janis Pagel / Nils Reiter / Ina Rösiger / Sarah Schulz (2018): A Unified Text Annotation Workflow for Diverse Goals, in: Proceedings of the Workshop for Annotation in Digital Humanities (annDH), hg. v. Sandra Kübler und Heike Zinsmeister, Sofia, Bulgaria, August 2018, S. 31–36.</rs></bibl>
 <bibl>
-<hi rend="bold"> Nils Reiter / Evelyn Gius / Marcus Willand
-(Hrsg.)</hi> (2019): A Shared Task for the Digital Humanities. Special issue of Cultural Analytics. November 2019.</bibl>
+<rs type="bibl" ref="#bibl__5442">Nils Reiter / Evelyn Gius / Marcus Willand (Hrsg.) (2019): A Shared Task for the Digital Humanities. Special issue of Cultural Analytics. November 2019.</rs></bibl>
 <bibl>
-<hi rend="bold"> Nils Reiter / Marcus Willand</hi> (2018): Poetologischer Anspruch und dramatische Wirklichkeit: Indirekte Operationalisierung in der digitalen Dramenanalyse, in: Quantitative Ansätze in den Literatur- und Geisteswissenschaften: Systematische und historische Perspektiven, hg. v. Toni Bernhart, Marcus Willand, Sandra Richter und Andrea Albrecht, Stuttgart, S. 45–76.</bibl>
+<rs type="bibl" ref="#bibl__5443">Nils Reiter / Marcus Willand (2018): Poetologischer Anspruch und dramatische Wirklichkeit: Indirekte Operationalisierung in der digitalen Dramenanalyse, in: Quantitative Ansätze in den Literatur- und Geisteswissenschaften: Systematische und historische Perspektiven, hg. v. Toni Bernhart, Marcus Willand, Sandra Richter und Andrea Albrecht, Stuttgart, S. 45–76.</rs></bibl>
 <bibl>
-<hi rend="bold"> Nils Reiter /   André Blessing / Nora Echelmeyer /
-Gerhard Kremer / Steffen Koch / Sandra Murr / Maximilian Overbeck /
-Axel Pichler</hi> (2017): CUTE: CRETA Unshared Task zu Entitätenreferenzen, in: DHd 2017 Bern, Conference Abstracts, S. 19–22.</bibl>
+<rs type="bibl" ref="#bibl__5444">Nils Reiter / André Blessing / Nora Echelmeyer / Gerhard Kremer / Steffen Koch / Sandra Murr / Maximilian Overbeck / Axel Pichler (2017): CUTE: CRETA Unshared Task zu Entitätenreferenzen, in: DHd 2017 Bern, Conference Abstracts, S. 19–22.</rs></bibl>
 <bibl>
-<hi rend="bold"> Graham Alexander Sack</hi> (2011): Simulating Plot: Towards a Generative Model of Narrative Structure, in: Papers from the AAAI Fall Symposium (FS-11-03).</bibl>
+<rs type="bibl" ref="#bibl__5445">Graham Alexander Sack (2011): Simulating Plot: Towards a Generative Model of Narrative Structure, in: Papers from the AAAI Fall Symposium (FS-11-03).</rs></bibl>
 </listBibl>
 </div>
 </back>

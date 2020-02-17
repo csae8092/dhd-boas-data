@@ -153,64 +153,33 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl style="text-align:left; ">
-<hi rend="bold">Estill, Laura</hi> (2016): “Encoding the Edge: Manuscript Marginalia and the TEI.” 
-                        <hi rend="italic">Digital Literary Studies</hi> 1, no. 1. https://journals.psu.edu/dls/article/view/59715/59912.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4939">Estill, Laura (2016): “Encoding the Edge: Manuscript Marginalia and the TEI.” Digital Literary Studies 1, no. 1. https://journals.psu.edu/dls/article/view/59715/59912.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kuczera, Andreas</hi> (2016a): “Graphbasierte Digitale Editionen.” Blog. 
-                        <hi rend="italic">Mittelalter.</hi> Interdisziplinäre Forschung Und Rezeptionsgeschichte (blog), April 19, 2016. https://mittelalter.hypotheses.org/7994.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4940">Kuczera, Andreas (2016a): “Graphbasierte Digitale Editionen.” Blog. Mittelalter. Interdisziplinäre Forschung Und Rezeptionsgeschichte (blog), April 19, 2016. https://mittelalter.hypotheses.org/7994.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Kuczera, Andreas</hi> (2016b): “Digital Editions beyond XML – Graph-Based Digital Editions.”, in: 
-                        <hi rend="italic">Proceedings of the 3rd HistoInformatics Workshop on Computational History</hi> (HistoInformatics 2016), edited by Marten Düring, Adam Jatowt, Johannes Preiser-Kappeller, and Antal van Den Bosch. Krakow, 2016. http://ceur-ws.org/Vol-1632/paper_5.pdf.
-                    </bibl>
+<rs type="bibl" ref="#bibl__191">Kuczera, Andreas (2016b): “Digital Editions beyond XML – Graph-Based Digital Editions.”, in: Proceedings of the 3rd HistoInformatics Workshop on Computational History (HistoInformatics 2016), edited by Marten Düring, Adam Jatowt, Johannes Preiser-Kappeller, and Antal van Den Bosch. Krakow, 2016. http://ceur-ws.org/Vol-1632/paper_5.pdf.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Liedtke, Clemens</hi> (2019): 'How am I supposed to read this?' Challenges and Opportunities of Medieval Western Masorah as a Digital Scholarly Edition", in: J. Leipziger/H. Liss/K. J. Petzold (eds.), 
-                        <hi rend="italic">Philology and Aesthetics:</hi> Figurative Masorah in Western European Manuscripts (Judentum und Umwelt), Frankfurt am Main et al.: Peter Lang (in Vorbereitung)
-                    </bibl>
+<rs type="bibl" ref="#bibl__4941">Liedtke, Clemens (2019): 'How am I supposed to read this?' Challenges and Opportunities of Medieval Western Masorah as a Digital Scholarly Edition", in: J. Leipziger/H. Liss/K. J. Petzold (eds.), Philology and Aesthetics: Figurative Masorah in Western European Manuscripts (Judentum und Umwelt), Frankfurt am Main et al.: Peter Lang (in Vorbereitung)</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Liss, Hanna / Petzold, Kay Joe</hi> (2016): “Die Erforschung der westeuropäischen Bibeltexttradition als Aufgabe der Jüdischen Studien. Ein halbes Jahrhundert Forschung und Lehre über das Judentum in Deutschland.“, in: 
-                        <hi rend="italic">Orchidee oder Mimose.</hi> Versuch einer Standortbestimmung der Jüdischen Studien, edited by Andreas Lehnardt and Guiseppe Veltri. Berlin et al, 2016.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4942">Liss, Hanna / Petzold, Kay Joe (2016): “Die Erforschung der westeuropäischen Bibeltexttradition als Aufgabe der Jüdischen Studien. Ein halbes Jahrhundert Forschung und Lehre über das Judentum in Deutschland.“, in: Orchidee oder Mimose. Versuch einer Standortbestimmung der Jüdischen Studien, edited by Andreas Lehnardt and Guiseppe Veltri. Berlin et al, 2016.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Owens, Trevor</hi> (2011): “Defining Data for Humanists: Text, Artifact, Information or Evidence?” 
-                        <hi rend="italic">Journal of Digital Humanities</hi> 1, no. 1. http://journalofdigitalhumanities.org/1-1/defining-data-forhumanists-by-trevor-owens/.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4943">Owens, Trevor (2011): “Defining Data for Humanists: Text, Artifact, Information or Evidence?” Journal of Digital Humanities 1, no. 1. http://journalofdigitalhumanities.org/1-1/defining-data-forhumanists-by-trevor-owens/.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Pierazzo, Elena</hi> (2017): “Facsimile and Document-Centric Editing.”, in: 
-                        <hi rend="italic">Creating a Digital Scholarly Edition with the Text Encoding Initiative</hi>, edited by Marjorie Burghart. https://www.digitalmanuscripts.eu/wp-content/uploads/sites/6/2017/09/05-Digital-Facsimiles-EP.pdf.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4944">Pierazzo, Elena (2017): “Facsimile and Document-Centric Editing.”, in: Creating a Digital Scholarly Edition with the Text Encoding Initiative, edited by Marjorie Burghart. https://www.digitalmanuscripts.eu/wp-content/uploads/sites/6/2017/09/05-Digital-Facsimiles-EP.pdf.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Pousttchi, Key</hi> (2017): “Digitale Transformation.”, in: 
-                        <hi rend="italic">Enzyklopädie der Wirtschaftsinformatik.</hi> http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/Informatik--Grundlagen/digitalisierung/digitale-transformation/digitale-transformation/?searchterm=digitale%20transformation.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4945">Pousttchi, Key (2017): “Digitale Transformation.”, in: Enzyklopädie der Wirtschaftsinformatik. http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/Informatik--Grundlagen/digitalisierung/digitale-transformation/digitale-transformation/?searchterm=digitale%20transformation.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Schmidt, Desmond</hi> (2008): “What’s a Multi-Version Document?” 
-                        <hi rend="italic">Multi-Version Documents</hi> (blog), May 3. http://multiversiondocs.blogspot.com/2008/03/whats-multi-version-document.html.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4946">Schmidt, Desmond (2008): “What’s a Multi-Version Document?” Multi-Version Documents (blog), May 3. http://multiversiondocs.blogspot.com/2008/03/whats-multi-version-document.html.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Schmidt, Desmond / Colomb, Robert</hi> (2009): “A Data Structure for Representing Multi-Version Texts Online.” 
-                        <hi rend="italic">International Journal of Human-Computer Studies</hi> 67, no. 6 (June 2009): 497–514. https://doi.org/10.1016/j.ijhcs.2009.02.001.
-                    </bibl>
+<rs type="bibl" ref="#bibl__378">Schmidt, Desmond / Colomb, Robert (2009): “A Data Structure for Representing Multi-Version Texts Online.” International Journal of Human-Computer Studies 67, no. 6 (June 2009): 497–514. https://doi.org/10.1016/j.ijhcs.2009.02.001.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Schmidt, Desmond</hi> (2009): “‘Merging Multi-Version Texts: A Generic Solution to the Overlap Problem.’ Presented at Balisage: The Markup Conference 2009, Montréal, Canada, August 11 - 14, 2009,” Proceedings of Balisage: The Markup Conference 2009, 2 (2009). 
-                        <ref target="https://doi.org/10.4242/BalisageVol3.Schmidt01">https://doi.org/10.4242/BalisageVol3.Schmidt01</ref>.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4947">Schmidt, Desmond (2009): “‘Merging Multi-Version Texts: A Generic Solution to the Overlap Problem.’ Presented at Balisage: The Markup Conference 2009, Montréal, Canada, August 11 - 14, 2009,” Proceedings of Balisage: The Markup Conference 2009, 2 (2009). https://doi.org/10.4242/BalisageVol3.Schmidt01.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Wilkinson, M. / Dumontier, M. / Aalbersberg, I. </hi>
-<hi rend="italic bold">et al.</hi>
-<hi rend="bold"> </hi>(2016): “The FAIR Guiding Principles for scientific data management and stewardship.” 
-                        <hi rend="italic">Sci Data</hi> 3
-                        <hi rend="bold">, </hi>160018. doi:10.1038/sdata.2016.18
-                    </bibl>
+<rs type="bibl" ref="#bibl__4948">Wilkinson, M. / Dumontier, M. / Aalbersberg, I. et al. (2016): “The FAIR Guiding Principles for scientific data management and stewardship.” Sci Data 3 , 160018. doi:10.1038/sdata.2016.18</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Zaagsma, Gerben</hi> (2018): “#DHJewish – Jewish Studies in the Digital Age.” 
-                        <hi rend="italic">Medaon.</hi> Magazin für Jüdisches Leben in Forschung und Bildung, no. 12: 1–11.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4949">Zaagsma, Gerben (2018): “#DHJewish – Jewish Studies in the Digital Age.” Medaon. Magazin für Jüdisches Leben in Forschung und Bildung, no. 12: 1–11.</rs></bibl>
 <bibl style="text-align:left; ">
-<hi rend="bold">Zundert, Joris J. van / Andrews, Tara L.</hi> (2016): “Apparatus vs. Graph: New Models and Interfaces for Text.”, in: 
-                        <hi rend="italic">Interface Critique</hi>, edited by Florian Hadler and Joachim Haupt, 139:183–206. Berlin: Kulturverlag Kadmos.
-                    </bibl>
+<rs type="bibl" ref="#bibl__4950">Zundert, Joris J. van / Andrews, Tara L. (2016): “Apparatus vs. Graph: New Models and Interfaces for Text.”, in: Interface Critique, edited by Florian Hadler and Joachim Haupt, 139:183–206. Berlin: Kulturverlag Kadmos.</rs></bibl>
 </listBibl>
 </div>
 </back>

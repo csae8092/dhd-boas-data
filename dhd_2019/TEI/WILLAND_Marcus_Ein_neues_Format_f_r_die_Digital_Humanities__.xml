@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein neues Format für die Digital Humanities: Shared Tasks. Zur Annotation narrativer Ebenen</title><title type="conf_year">2019</title><author ref="#person__marcus-willand-gs-uni-heidelberg-de">
+                <title>Ein neues Format für die Digital Humanities: Shared Tasks. Zur Annotation narrativer Ebenen</title><title type="conf_year">2019</title>
+                <author ref="#person__marcus-willand-gs-uni-heidelberg-de">
                     <persName>
                         <surname>Willand</surname>
                         <forename>Marcus</forename>
@@ -208,23 +209,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3593">Genette, Gérard (1972): Narrative Discourse. An Essay in Method. Ithaca 1980. (Franz. Figures III. Paris 1972).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1471">Genette, Gérard (1972): Narrative Discourse. An Essay in Method. Ithaca 1980. (Franz. Figures III. Paris 1972).</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3594">Gius, Evelyn, / Nils Reiter / Marcus Willand (2016ff.): Shared Tasks in the Digital Humanities. Systematic Analysis of Narrative Texts through Annotation, Projektwebsite und -dokumentation https://sharedtasksinthedh.github.io/ [letzter Zugriff 28 September 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1472">Gius, Evelyn, / Nils Reiter / Marcus Willand (2016ff.): Shared Tasks in the Digital Humanities. Systematic Analysis of Narrative Texts through Annotation, Projektwebsite und -dokumentation https://sharedtasksinthedh.github.io/ [letzter Zugriff 28 September 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3595">Gius, Evelyn, / Reiter, Nils / Strötgen, Jannik / Willand, Marcus (2018): SANTA: Systematische Analyse Narrativer Texte durch Annotation. DHd2018, Köln.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1473">Gius, Evelyn, / Reiter, Nils / Strötgen, Jannik / Willand, Marcus (2018): SANTA: Systematische Analyse Narrativer Texte durch Annotation. DHd2018, Köln.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3596">Mani, Inderjeet (2013): Computational Narratology. Peter Hühn, John Pier, Wolf Schmid und Jörg Schönert (Hrsg.). The living handbook of narratology. Hamburg: Hamburg University Press http://www.lhn.uni-hamburg.de/article/computational-narratology [letzter Zugriff 28 September 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1474">Mani, Inderjeet (2013): Computational Narratology. Peter Hühn, John Pier, Wolf Schmid und Jörg Schönert (Hrsg.). The living handbook of narratology. Hamburg: Hamburg University Press http://www.lhn.uni-hamburg.de/article/computational-narratology [letzter Zugriff 28 September 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3597">Pier, John (2014): Narrative Levels (revised version; uploaded 23 April 2014). Peter Hühn, John Pier, Wolf Schmid und Jörg Schönert (Hrsg.). The living handbook of narratology. Hamburg University Press. h ttp://www.lhn.uni-hamburg.de/article/narrative-levels-revised-version-uploaded-23-april-2014 [letzter Zugriff 28 September 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1475">Pier, John (2014): Narrative Levels (revised version; uploaded 23 April 2014). Peter Hühn, John Pier, Wolf Schmid und Jörg Schönert (Hrsg.). The living handbook of narratology. Hamburg University Press. h ttp://www.lhn.uni-hamburg.de/article/narrative-levels-revised-version-uploaded-23-april-2014 [letzter Zugriff 28 September 2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__216">Reiter, Nils / Gius, Evelyn, / Strötgen, Jannik / Willand, Marcus (2017): A Shared Task for a Shared Goal - Systematic Annotation of Literary Texts. DH2017, Montreal.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1476">Reiter, Nils / Gius, Evelyn, / Strötgen, Jannik / Willand, Marcus (2017): A Shared Task for a Shared Goal - Systematic Annotation of Literary Texts. DH2017, Montreal.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__268">Ryan, Marie-Laure (1991): Possible Worlds, Artificial Intelligence, and Narrative Theory. Bloomington: Indiana University Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__218">Ryan, Marie-Laure (1991): Possible Worlds, Artificial Intelligence, and Narrative Theory. Bloomington: Indiana University Press.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3598">Mathet, Yann / Widlöcher, Antoine / Métivier, Jean-Philippe (2015): The unified and holistic method gamma (γ) for inter-annotator agreement measure and alignment. Computational Linguistics, 41(3):437–479.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1477">Mathet, Yann / Widlöcher, Antoine / Métivier, Jean-Philippe (2015): The unified and holistic method gamma (γ) for inter-annotator agreement measure and alignment. Computational Linguistics, 41(3):437–479.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3599">Zeman, Daniel et al. (2017): Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. CoNLL http://www.aclweb.org/anthology/K17-3001 [letzter Zugriff 28 September 2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1478">Zeman, Daniel et al. (2017): Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies. CoNLL http://www.aclweb.org/anthology/K17-3001 [letzter Zugriff 28 September 2018].</rs></bibl>
                 </listBibl>
             </div>
         </back>

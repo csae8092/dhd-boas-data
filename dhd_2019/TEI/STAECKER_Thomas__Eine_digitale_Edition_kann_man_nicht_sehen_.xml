@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>“Eine digitale Edition kann man nicht sehen” - Gedanken zu Struktur und Persistenz digitaler Editionen</title><title type="conf_year">2019</title><author ref="#person__thomas-staecker-ulb-tu-darmstadt-de">
+                <title>“Eine digitale Edition kann man nicht sehen” - Gedanken zu Struktur und Persistenz digitaler Editionen</title><title type="conf_year">2019</title>
+                <author ref="#person__thomas-staecker-ulb-tu-darmstadt-de">
                     <persName>
                         <surname>Staecker</surname>
                         <forename>Thomas</forename>
@@ -89,61 +90,61 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">(Andrews/Zundert 2018) 
-                        <rs type="bibl" ref="#bibl__3430">(Andrews/Zundert 2018) Andrews, Tara L. / Zundert, Joris J. van (2018): “What Are You Trying to Say? The Interface as an Integral Element of Argument”, in: Digital Scholarly Editions as Interfaces.herausgegeben von / edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1315">(Andrews/Zundert 2018) Andrews, Tara L. / Zundert, Joris J. van (2018): “What Are You Trying to Say? The Interface as an Integral Element of Argument”, in: Digital Scholarly Editions as Interfaces.herausgegeben von / edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider.</rs></bibl>
                     <bibl style="text-align:left; ">Norderstedt 3-33.
-                        <rs type="bibl" ref="#bibl__3431">Norderstedt 3-33. urn:nbn:de:hbz:38-91064</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1316">Norderstedt 3-33. urn:nbn:de:hbz:38-91064</rs></bibl>
                     <bibl style="text-align:left; ">(Apollon et. al 2014) 
-                        <rs type="bibl" ref="#bibl__3432">(Apollon et. al 2014) Apollon, Daniel, Claire Bélisle, und Philippe Régnier [eds] (2014). “Digital critical editions. Topics in the digital humanities”. Urbana: University of Illinois Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1317">(Apollon et. al 2014) Apollon, Daniel, Claire Bélisle, und Philippe Régnier [eds] (2014). “Digital critical editions. Topics in the digital humanities”. Urbana: University of Illinois Press.</rs></bibl>
                     <bibl style="text-align:left; ">(Boot/Zundert 2011) 
-                        <rs type="bibl" ref="#bibl__3433">(Boot/Zundert 2011) Boot, Peter/ Zundert, Joris van (2011): „The Digital Edition 2.0 and The Digital Library: Services, not Ressources“, in: Digitale Edition und Forschungsbibliothek. (Beiträge der Fachtagung im Philosophicum der Universität Mainz am 13. und 14. Januar 2011). Harrassowitz 2011: 141–52 (Bibliothek und Wissenschaft, 44) http://hdl.handle.net/20.500.11755/c9e80904-8def-438e-a82b-80d4107b36ed</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1318">(Boot/Zundert 2011) Boot, Peter/ Zundert, Joris van (2011): „The Digital Edition 2.0 and The Digital Library: Services, not Ressources“, in: Digitale Edition und Forschungsbibliothek. (Beiträge der Fachtagung im Philosophicum der Universität Mainz am 13. und 14. Januar 2011). Harrassowitz 2011: 141–52 (Bibliothek und Wissenschaft, 44) http://hdl.handle.net/20.500.11755/c9e80904-8def-438e-a82b-80d4107b36ed</rs></bibl>
                     <bibl style="text-align:left; ">(Ciotti/Tomasi 2016) 
-                        <rs type="bibl" ref="#bibl__3434">(Ciotti/Tomasi 2016) Ciotti, Fabio/Tomasi, Francesca (2016): “Formal Ontologies, Linked Data, and TEI Semantics”, in: Journal of the Text Encoding Initiative. 10.4000/jtei.1480</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1319">(Ciotti/Tomasi 2016) Ciotti, Fabio/Tomasi, Francesca (2016): “Formal Ontologies, Linked Data, and TEI Semantics”, in: Journal of the Text Encoding Initiative. 10.4000/jtei.1480</rs></bibl>
                     <bibl style="text-align:left; ">(Cummings 2017) 
-                        <rs type="bibl" ref="#bibl__3435">(Cummings 2017) Cummings, James (2017): Slides zum Vortrag gehalten auf der DH2017: https://slides.com/jamescummings/teimyths . Erscheint in Kürze in DSH.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1320">(Cummings 2017) Cummings, James (2017): Slides zum Vortrag gehalten auf der DH2017: https://slides.com/jamescummings/teimyths . Erscheint in Kürze in DSH.</rs></bibl>
                     <bibl style="text-align:left; ">(Dekker/Birnbaum 2017) 
-                        <rs type="bibl" ref="#bibl__3436">(Dekker/Birnbaum 2017) Dekker, Ronald/ David J. Birnbaum (2017): “It's more than just overlap: Text As Graph.” Presented at Balisage: The Markup Conference 2017, Washington, DC, August 1 - 4, 2017, in Proceedings of Balisage: The Markup Conference 2017. Balisage Series on Markup Technologies, vol. 19. https://doi.org/10.4242/BalisageVol19.Dekker01</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1321">(Dekker/Birnbaum 2017) Dekker, Ronald/ David J. Birnbaum (2017): “It's more than just overlap: Text As Graph.” Presented at Balisage: The Markup Conference 2017, Washington, DC, August 1 - 4, 2017, in Proceedings of Balisage: The Markup Conference 2017. Balisage Series on Markup Technologies, vol. 19. https://doi.org/10.4242/BalisageVol19.Dekker01</rs></bibl>
                     <bibl style="text-align:left; ">(Dekker et al. 2018) 
-                        <rs type="bibl" ref="#bibl__3437">(Dekker et al. 2018) Dekker, Ronald/ Elli Bleeker/ Bram Buitendijk, Astrid Kulsdom and David J. Birnbaum (2018): “TAGML: A markup language of many dimensions.” Presented at Balisage: The Markup Conference 2018, Washington, DC, July 31 - August 3, 2018, in Proceedings of Balisage: The Markup Conference 2018. Balisage Series on Markup Technologies, vol. 21. https://doi.org/10.4242/BalisageVol21.HaentjensDekker01</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1322">(Dekker et al. 2018) Dekker, Ronald/ Elli Bleeker/ Bram Buitendijk, Astrid Kulsdom and David J. Birnbaum (2018): “TAGML: A markup language of many dimensions.” Presented at Balisage: The Markup Conference 2018, Washington, DC, July 31 - August 3, 2018, in Proceedings of Balisage: The Markup Conference 2018. Balisage Series on Markup Technologies, vol. 21. https://doi.org/10.4242/BalisageVol21.HaentjensDekker01</rs></bibl>
                     <bibl style="text-align:left; ">(DeRose et al. 1990) 
-                        <rs type="bibl" ref="#bibl__3438">(DeRose et al. 1990) DeRose, Steven J./ Durand, David G./ Mylonas, Elli / Renear, Allen H.: „What Is Text, Really?“, in: Journal of Computing in Higher Education 1, Nr. 2 (Dezember 1990) 3–26. https://doi.org/10.1007/BF02941632 .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1323">(DeRose et al. 1990) DeRose, Steven J./ Durand, David G./ Mylonas, Elli / Renear, Allen H.: „What Is Text, Really?“, in: Journal of Computing in Higher Education 1, Nr. 2 (Dezember 1990) 3–26. https://doi.org/10.1007/BF02941632 .</rs></bibl>
                     <bibl style="text-align:left; ">(DeRose 2004) 
-                        <rs type="bibl" ref="#bibl__3439">(DeRose 2004) DeRose, Steven J. (2004): “Markup overlap: a review and a horse”, in: Proceedings of Extreme Markup Languages. http://xml.coverpages.org/DeRoseEML2004.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1324">(DeRose 2004) DeRose, Steven J. (2004): “Markup overlap: a review and a horse”, in: Proceedings of Extreme Markup Languages. http://xml.coverpages.org/DeRoseEML2004.pdf</rs></bibl>
                     <bibl style="text-align:left; ">(DFG 2015) 
-                        <rs type="bibl" ref="#bibl__3440">(DFG 2015) Deutsche Forschungsgemeinschaft (2015): “Förderkriterien für wissenschaftliche Editionen in der Literaturwissenschaft”. Merkblatt der DFG. 2015. http://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/foerderkriterien_editionen_literaturwissenschaft.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1325">(DFG 2015) Deutsche Forschungsgemeinschaft (2015): “Förderkriterien für wissenschaftliche Editionen in der Literaturwissenschaft”. Merkblatt der DFG. 2015. http://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/foerderkriterien_editionen_literaturwissenschaft.pdf</rs></bibl>
                     <bibl style="text-align:left; ">(Driscoll/Pierazzo 2016) 
-                        <rs type="bibl" ref="#bibl__3441">(Driscoll/Pierazzo 2016) Driscoll, Matthew James/ Elena Pierazzo [eds] (2016): “Digital scholarly editing: Theories and practices”. Cambridge, UK. https://www.openbookpublishers.com/reader/483 .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1326">(Driscoll/Pierazzo 2016) Driscoll, Matthew James/ Elena Pierazzo [eds] (2016): “Digital scholarly editing: Theories and practices”. Cambridge, UK. https://www.openbookpublishers.com/reader/483 .</rs></bibl>
                     <bibl style="text-align:left; ">(Gabler 2010) 
-                        <rs type="bibl" ref="#bibl__168">(Gabler 2010) Gabler, Hans Walter (2010). „Theorizing the Digital Scholarly Edition“, in: Literature Compass 7, Nr. 2 (Februar 2010) 43–56. https://doi.org/10.1111/j.1741-4113.2009.00675.x .</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1327">(Gabler 2010) Gabler, Hans Walter (2010). „Theorizing the Digital Scholarly Edition“, in: Literature Compass 7, Nr. 2 (Februar 2010) 43–56. https://doi.org/10.1111/j.1741-4113.2009.00675.x .</rs></bibl>
                     <bibl style="text-align:left; ">(HTML 5) 
-                        <rs type="bibl" ref="#bibl__3442">(HTML 5) W3C (2017): “HTML 5.2 Recommendation (14 December 2017):” §9: XML Syntax. https://www.w3.org/TR/html52/xhtml.html#xhtml</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1328">(HTML 5) W3C (2017): “HTML 5.2 Recommendation (14 December 2017):” §9: XML Syntax. https://www.w3.org/TR/html52/xhtml.html#xhtml</rs></bibl>
                     <bibl style="text-align:left; ">(Kuczera 2016) 
-                        <rs type="bibl" ref="#bibl__3443">(Kuczera 2016) Kuczera, Andreas (2016). „Digital Editions beyond XML – Graph-based Digital Editions.“ In: Proceedings of the 3rd HistoInformatics Workshop on Computational History (HistoInformatics 2016). ceur-ws.org/Vol-1632/paper_5.pdf</rs></bibl>
+                        <rs type="bibl" ref="#bibl__191">(Kuczera 2016) Kuczera, Andreas (2016). „Digital Editions beyond XML – Graph-based Digital Editions.“ In: Proceedings of the 3rd HistoInformatics Workshop on Computational History (HistoInformatics 2016). ceur-ws.org/Vol-1632/paper_5.pdf</rs></bibl>
                     <bibl style="text-align:left; ">(McCarty 2005) 
-                        <rs type="bibl" ref="#bibl__3444">(McCarty 2005) McCarty, Willard (2005): “Humanities computing”. Basingstoke, Hampshire [u.a.].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1329">(McCarty 2005) McCarty, Willard (2005): “Humanities computing”. Basingstoke, Hampshire [u.a.].</rs></bibl>
                     <bibl style="text-align:left; ">(McGann 2014) 
-                        <rs type="bibl" ref="#bibl__3445">(McGann 2014) McGann, Jerome J. (2014): A new republic of letters: memory and scholarship in the age of digital reproduction. Cambridge, Mass. [u.a.]: Harvard Univ. Press.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1330">(McGann 2014) McGann, Jerome J. (2014): A new republic of letters: memory and scholarship in the age of digital reproduction. Cambridge, Mass. [u.a.]: Harvard Univ. Press.</rs></bibl>
                     <bibl style="text-align:left; ">(Piez 2012) 
-                        <rs type="bibl" ref="#bibl__3446">(Piez 2012) Piez, Wendell (2012:. “Luminescent: parsing LMNL by XSLT upconversion.” Presented at Balisage: The Markup Conference 2012, Montréal, Canada, August 7 - 10, in Proceedings of Balisage: The Markup Conference 2012. Balisage Series on Markup Technologies, vol. 8. https://doi.org/10.4242/BalisageVol8.Piez01</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1331">(Piez 2012) Piez, Wendell (2012:. “Luminescent: parsing LMNL by XSLT upconversion.” Presented at Balisage: The Markup Conference 2012, Montréal, Canada, August 7 - 10, in Proceedings of Balisage: The Markup Conference 2012. Balisage Series on Markup Technologies, vol. 8. https://doi.org/10.4242/BalisageVol8.Piez01</rs></bibl>
                     <bibl style="text-align:left; ">(Renear et al. 1993)  
-                        <rs type="bibl" ref="#bibl__3447">(Renear et al. 1993) Renear, Allen/ Mylonas, Elli/ Durand, David (1993): Refining our Notion of What Text Really Is: The Problem of Overlapping Hierarchies. Final version, January 6. http://cds.library.brown.edu/resources/stg/monographs/ohco.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1332">(Renear et al. 1993) Renear, Allen/ Mylonas, Elli/ Durand, David (1993): Refining our Notion of What Text Really Is: The Problem of Overlapping Hierarchies. Final version, January 6. http://cds.library.brown.edu/resources/stg/monographs/ohco.html</rs></bibl>
                     <bibl style="text-align:left; ">(Robinson 2003) 
-                        <rs type="bibl" ref="#bibl__3448">(Robinson 2003) Robinson, Peter (2003): “WHERE WE ARE WITH ELECTRONIC SCHOLARLY EDITIONS, AND WHERE WE WANT TO BE”, in: Jahrbuch für Computerphilologie. http://computerphilologie.uni-muenchen.de/jg03/robinson.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1333">(Robinson 2003) Robinson, Peter (2003): “WHERE WE ARE WITH ELECTRONIC SCHOLARLY EDITIONS, AND WHERE WE WANT TO BE”, in: Jahrbuch für Computerphilologie. http://computerphilologie.uni-muenchen.de/jg03/robinson.html</rs></bibl>
                     <bibl style="text-align:left; ">(Sahle 2013) 
-                        <rs type="bibl" ref="#bibl__101">(Sahle 2013) Sahle, Patrick (2013): Digitale Editionsformen : zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Schriften des Instituts für Dokumentologie und Editorik. Bd. 1-3. Norderstedt.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__17">(Sahle 2013) Sahle, Patrick (2013): Digitale Editionsformen : zum Umgang mit der Überlieferung unter den Bedingungen des Medienwandels. Schriften des Instituts für Dokumentologie und Editorik. Bd. 1-3. Norderstedt.</rs></bibl>
                     <bibl style="text-align:left; ">(Scheuermann 2016) 
-                        <rs type="bibl" ref="#bibl__3449">(Scheuermann 2016) Scheuermann, Leif (2016): “Die Abgrenzung der digitalen Geisteswissenschaften”, in: Digital Classics Online vol. 2. https://journals.ub.uni-heidelberg.de/index.php/dco/article/viewFile/22746/21865</rs></bibl>
+                        <rs type="bibl" ref="#bibl__193">(Scheuermann 2016) Scheuermann, Leif (2016): “Die Abgrenzung der digitalen Geisteswissenschaften”, in: Digital Classics Online vol. 2. https://journals.ub.uni-heidelberg.de/index.php/dco/article/viewFile/22746/21865</rs></bibl>
                     <bibl style="text-align:left; ">(Shillingsburg 2006) 
-                        <rs type="bibl" ref="#bibl__3450">(Shillingsburg 2006) Shillingsburg, Peter L. (2006): “From Gutenberg to Google: electronic representations of literary texts”, Cambridge.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1334">(Shillingsburg 2006) Shillingsburg, Peter L. (2006): “From Gutenberg to Google: electronic representations of literary texts”, Cambridge.</rs></bibl>
                     <bibl style="text-align:left; ">(Speerberg-McQueen 2007) 
-                        <rs type="bibl" ref="#bibl__3451">(Speerberg-McQueen 2007) Speerberg-McQueen, C. M. (2007): Representation of overlapping structures: Proceedings of the 2007 Extreme Markup Languages conference. http://conferences.idealliance.org/extreme/html/2007/SperbergMcQueen01/EML2007SperbergMcQueen01.html#id96245</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1335">(Speerberg-McQueen 2007) Speerberg-McQueen, C. M. (2007): Representation of overlapping structures: Proceedings of the 2007 Extreme Markup Languages conference. http://conferences.idealliance.org/extreme/html/2007/SperbergMcQueen01/EML2007SperbergMcQueen01.html#id96245</rs></bibl>
                     <bibl style="text-align:left; ">(Stäcker 2018) 
-                        <rs type="bibl" ref="#bibl__3452">(Stäcker 2018) Stäcker, Thomas (2018):„‚Von Alexandria lernen‘.Die Forschungsbibliothek als Ort digitaler Philologie“. In Frauen – Bücher – Höfe: Wissen und Sammeln vor 1800 Women – Books – Courts: Knowledge and Collecting before 1800. Essays in honor of Jill Bepler. Hrsg. von Volker Bauer, Elizabeth Harding, Gerhild Scholz Williams und Mara R. Wade. Wiesbaden: Harrassowitz 93–103. http://nbn-resolving.de/urn:nbn:de:tuda-tuprints-75938</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1336">(Stäcker 2018) Stäcker, Thomas (2018):„‚Von Alexandria lernen‘.Die Forschungsbibliothek als Ort digitaler Philologie“. In Frauen – Bücher – Höfe: Wissen und Sammeln vor 1800 Women – Books – Courts: Knowledge and Collecting before 1800. Essays in honor of Jill Bepler. Hrsg. von Volker Bauer, Elizabeth Harding, Gerhild Scholz Williams und Mara R. Wade. Wiesbaden: Harrassowitz 93–103. http://nbn-resolving.de/urn:nbn:de:tuda-tuprints-75938</rs></bibl>
                     <bibl style="text-align:left; ">(Stäcker 2019) 
-                        <rs type="bibl" ref="#bibl__3453">(Stäcker 2019) Stäcker, Thomas (2019): “Literaturwissenschaft und Bibliothek – eine Beziehung im digitalen Wandel”, in: Digitale Literaturwissenschaft. Metzler/Springer (im Druck, voraussichtl. 2019).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1337">(Stäcker 2019) Stäcker, Thomas (2019): “Literaturwissenschaft und Bibliothek – eine Beziehung im digitalen Wandel”, in: Digitale Literaturwissenschaft. Metzler/Springer (im Druck, voraussichtl. 2019).</rs></bibl>
                     <bibl style="text-align:left; ">(TEI Guidelines)
-                        <rs type="bibl" ref="#bibl__3454">(TEI Guidelines) TEI Guidelines: “Chapter 20: Non-hierarchical Structures.” http://www.tei-c.org/release/doc/tei-p5-doc/en/html/NH.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1338">(TEI Guidelines) TEI Guidelines: “Chapter 20: Non-hierarchical Structures.” http://www.tei-c.org/release/doc/tei-p5-doc/en/html/NH.html</rs></bibl>
                     <bibl style="text-align:left; ">(Turska/Cummings/Rahtz 2016). 
-                        <rs type="bibl" ref="#bibl__3455">(Turska/Cummings/Rahtz 2016). Turska, Magdalena/ Cummings, James/ Rahtz, Sebastian (2016): “Challenging the Myth of Presentation in Digital Editions”, in: Journal of the Text Encoding Initiative 9 (2016-2017). http://journals.openedition.org/jtei/1453</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1339">(Turska/Cummings/Rahtz 2016). Turska, Magdalena/ Cummings, James/ Rahtz, Sebastian (2016): “Challenging the Myth of Presentation in Digital Editions”, in: Journal of the Text Encoding Initiative 9 (2016-2017). http://journals.openedition.org/jtei/1453</rs></bibl>
                 </listBibl>
             </div>
         </back>

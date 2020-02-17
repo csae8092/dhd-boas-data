@@ -190,64 +190,27 @@
 <listBibl>
 <head>Bibliographie</head>
 <bibl>
-<hi rend="bold">Calvo-Zaragoza, Jorge / Castellanos, Francisco / Vigliensoni, Gabriel / Fujinaga, Ichiro</hi>
-<hi style="font-size:10pt">(2018): "Deep neural networks for document processing of music score images", in:</hi>
-<hi rend="italic" style="font-size:10pt">Applied Sciences 8: 654.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4847">Calvo-Zaragoza, Jorge / Castellanos, Francisco / Vigliensoni, Gabriel / Fujinaga, Ichiro (2018): "Deep neural networks for document processing of music score images", in: Applied Sciences 8: 654.</rs></bibl>
 <bibl>
-<hi rend="bold">Chammas, Edgard / Mokbel, Chafic / Likforman-Sulem, Laurence</hi>
-<hi style="font-size:10pt">(2018): "Handwriting Recognition of Historical Documents with Few Labeled Data", in:</hi>
-<hi rend="italic" style="font-size:10pt">13th IAPR International Workshop on Document Analysis Systems (DAS), Vienna:. 43-48.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4848">Chammas, Edgard / Mokbel, Chafic / Likforman-Sulem, Laurence (2018): "Handwriting Recognition of Historical Documents with Few Labeled Data", in: 13th IAPR International Workshop on Document Analysis Systems (DAS), Vienna:. 43-48.</rs></bibl>
 <bibl>
-<hi rend="bold">Eipert, Tim / Herrmann, Felix / Wick, Christoph / Puppe, Frank / Haug, Andreas</hi>
-<hi style="font-size:10pt">(2019): "Editor Support for Digital Editions of Medieval Monophonic Music", in:</hi>
-<hi rend="italic" style="font-size:10pt">Proceedings of the 2</hi>
-<hi rend="italic superscript" style="font-size:10pt">nd</hi>
-<hi rend="italic" style="font-size:10pt" xml:space="preserve"> International Workshop on Reading Music Systems (submitted to).</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4849">Eipert, Tim / Herrmann, Felix / Wick, Christoph / Puppe, Frank / Haug, Andreas (2019): "Editor Support for Digital Editions of Medieval Monophonic Music", in: Proceedings of the 2 nd International Workshop on Reading Music Systems (submitted to).</rs></bibl>
 <bibl>
-<hi rend="bold">Fischer, Andreas / Baechler Michael / Garz, Angelika / Liwicki, Marcus / Ingold, Rolf</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2014): “A Combined System for Text Line Extraction and Handwriting Recognition in Historical Documents", in: 11th IAPR International Workshop on Document Analysis Systems, Tours, 2014: 71-75.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4850">Fischer, Andreas / Baechler Michael / Garz, Angelika / Liwicki, Marcus / Ingold, Rolf (2014): “A Combined System for Text Line Extraction and Handwriting Recognition in Historical Documents", in: 11th IAPR International Workshop on Document Analysis Systems, Tours, 2014: 71-75.</rs></bibl>
 <bibl>
-<hi rend="bold">Fujinaga, Ichiro / Hankinson, Andrew / Cumming, Julie E.</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2014): "Introduction to SIMSSA (single interface for music score searching and analysis)", in:</hi>
-<hi rend="italic" style="font-size:10pt">Proceedings of the 1st International Workshop on Digital Libraries for Musicology: 1-3.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4851">Fujinaga, Ichiro / Hankinson, Andrew / Cumming, Julie E. (2014): "Introduction to SIMSSA (single interface for music score searching and analysis)", in: Proceedings of the 1st International Workshop on Digital Libraries for Musicology: 1-3.</rs></bibl>
 <bibl>
-<hi rend="bold">Saleh, Zeyad / Zhang, Ké / Calvo-Zaragoza, Jorge / Vigliensoni, Gabriel / Fujinaga, Ichiro</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2017): "Pixel. js: Web-based pixel classification correction platform for ground truth creation.", in:</hi>
-<hi rend="italic" style="font-size:10pt">14th IAPR International Conference on Document Analysis and Recognition (ICDAR): 39-40.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__416">Saleh, Zeyad / Zhang, Ké / Calvo-Zaragoza, Jorge / Vigliensoni, Gabriel / Fujinaga, Ichiro (2017): "Pixel. js: Web-based pixel classification correction platform for ground truth creation.", in: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR): 39-40.</rs></bibl>
 <bibl>
-<hi rend="bold">Regimbal, Juliette / McLennan, Zoé / Vigliensoni, Gabriel / Tran, Andrew / Fujinaga, Ichiro </hi>
-<hi style="font-size:10pt">(2019): "Neon2: A verovio-based square-notation editor", in:</hi>
-<hi rend="italic" style="font-size:10pt" xml:space="preserve"> Music Encoding Conference 2019.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4852">Regimbal, Juliette / McLennan, Zoé / Vigliensoni, Gabriel / Tran, Andrew / Fujinaga, Ichiro (2019): "Neon2: A verovio-based square-notation editor", in: Music Encoding Conference 2019.</rs></bibl>
 <bibl>
-<hi rend="bold">Saleh, Zeyad / Zhang, Ké / Calvo-Zaragoza, Jorge / Vigliensoni, Gabriel / Fujinaga, Ichiro</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2017): "Pixel.js: Web-based pixel classification correction platform for ground truth creation.", in:</hi>
-<hi rend="italic" style="font-size:10pt">14th IAPR International Conference on Document Analysis and Recognition (ICDAR): 39-40.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__416">Saleh, Zeyad / Zhang, Ké / Calvo-Zaragoza, Jorge / Vigliensoni, Gabriel / Fujinaga, Ichiro (2017): "Pixel.js: Web-based pixel classification correction platform for ground truth creation.", in: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR): 39-40.</rs></bibl>
 <bibl>
-<hi rend="bold">Vigliensoni, Gabriel / Daigle, Alex / Lui, Eric / Calvo-Zaragoza, Jorge / Regimbal, Juliette / Nguyen, Minh Anh / Baxter, Noah / McLennan, Zoe / Fujinaga, Ichiro</hi>
-<hi style="font-size:10pt" xml:space="preserve"> (2019): "</hi>O
-                        <hi style="font-size:10pt">vercoming the challenges of optical music recognition of early music with machine learning", in:</hi>
-<hi rend="italic" style="font-size:10pt">DH2019</hi>
-<hi style="font-size:10pt">.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4853">Vigliensoni, Gabriel / Daigle, Alex / Lui, Eric / Calvo-Zaragoza, Jorge / Regimbal, Juliette / Nguyen, Minh Anh / Baxter, Noah / McLennan, Zoe / Fujinaga, Ichiro (2019): "O vercoming the challenges of optical music recognition of early music with machine learning", in: DH2019 .</rs></bibl>
 <bibl>
-<hi rend="bold">Wick, Christoph / Hartelt, Alexander / Puppe, Frank</hi>
-<hi style="font-size:10pt">(2019): "Staff, Symbol and Melody Detection of Medieval Manuscripts written in Square Notation using Deep Fully Convolutional Networks", in:</hi>
-<hi rend="italic" style="font-size:10pt">Applied Sciences 9</hi>
-<hi style="font-size:10pt">.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4854">Wick, Christoph / Hartelt, Alexander / Puppe, Frank (2019): "Staff, Symbol and Melody Detection of Medieval Manuscripts written in Square Notation using Deep Fully Convolutional Networks", in: Applied Sciences 9 .</rs></bibl>
 <bibl>
-<hi rend="bold">Wick, Christoph / Reul, Christian / Puppe, Frank</hi>
-<hi style="font-size:10pt">(2018): "Comparison of OCR Accuracy on Early Printed Books using the Open Source Engines Calamari and OCRopus", in:</hi>
-<hi rend="italic" style="font-size:10pt">JLCL: Special Issue on Automatic Text and Layout Recognition: 79-96.</hi>
-</bibl>
+<rs type="bibl" ref="#bibl__4855">Wick, Christoph / Reul, Christian / Puppe, Frank (2018): "Comparison of OCR Accuracy on Early Printed Books using the Open Source Engines Calamari and OCRopus", in: JLCL: Special Issue on Automatic Text and Layout Recognition: 79-96.</rs></bibl>
 </listBibl>
 </div>
 </back>

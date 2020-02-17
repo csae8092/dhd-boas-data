@@ -153,10 +153,10 @@
          <div type="bibliogr">
                 <listBibl>
                     <head>Bibliographie</head>
-                    <bibl><rs type="bibl" ref="#bibl__61">Görz, Günther : „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung” in: Kunstgeschichte, Open Peer Reviewed Journal, urn:nbn:de:bvb:355-kuge-167-7 [letzter Zugriff 10.01.2018].</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__62">Hohmann, Georg (2011): „Die Anwendung von Ontologien zur Wissensrepräsentation und -kommunikation im Bereich des Kulturellen Erbes” in: Schomburg, Silke u.a. (eds.): Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland. Köln: Hochschulbibliothekszentrum NRW 33-39.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__63">Hohmann, Georg / Schiemann, Bernhard (2013): „An Ontology-Based Communication System for Cultural Heritage. Approach and Progress of the WissKI Project” in: Hans Bock u.a. (eds.): Scientific Computing and Cultural Heritage. Berlin: Springer 127-135.</rs></bibl>
-                    <bibl><rs type="bibl" ref="#bibl__65">Wissenschaftsrat (2011): Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastrukturen. Berlin ) [letzter Zugriff 10.01.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__282">Görz, Günther : „WissKI: Semantische Annotation, Wissensverarbeitung und Wissenschaftskommunikation in einer virtuellen Forschungsumgebung” in: Kunstgeschichte, Open Peer Reviewed Journal, urn:nbn:de:bvb:355-kuge-167-7 [letzter Zugriff 10.01.2018].</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__352">Hohmann, Georg (2011): „Die Anwendung von Ontologien zur Wissensrepräsentation und -kommunikation im Bereich des Kulturellen Erbes” in: Schomburg, Silke u.a. (eds.): Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland. Köln: Hochschulbibliothekszentrum NRW 33-39.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__353">Hohmann, Georg / Schiemann, Bernhard (2013): „An Ontology-Based Communication System for Cultural Heritage. Approach and Progress of the WissKI Project” in: Hans Bock u.a. (eds.): Scientific Computing and Cultural Heritage. Berlin: Springer 127-135.</rs></bibl>
+                    <bibl><rs type="bibl" ref="#bibl__366">Wissenschaftsrat (2011): Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastrukturen. Berlin ) [letzter Zugriff 10.01.2018].</rs></bibl>
                 </listBibl>
             </div>
       </back>

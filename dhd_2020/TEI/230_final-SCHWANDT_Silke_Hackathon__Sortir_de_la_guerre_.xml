@@ -206,29 +206,15 @@
 <listBibl>
   <head>Bibliographie</head>
   <bibl>
-    <hi rend="bold">Büttner, Stephan, ed. </hi> (2019): 
-    <hi rend="italic">Die Digitale Transformation in Institutionen Des Kulturellen Gedächtnisses: Antworten Aus Der Informationswissenschaft</hi>. Berlin: Simon Verlag für Bibliothekswissen.
-  </bibl>
+    <rs type="bibl" ref="#bibl__4681">Büttner, Stephan, ed. (2019): Die Digitale Transformation in Institutionen Des Kulturellen Gedächtnisses: Antworten Aus Der Informationswissenschaft. Berlin: Simon Verlag für Bibliothekswissen.</rs></bibl>
   <bibl>
-    <hi rend="bold">Knoll, Nico</hi> (2017): “„HackHPI“: How to Organize a Hackathon.” In 
-    <hi rend="italic">Veranstaltungen 4.0</hi>. Edited by Thorsten Knoll, 155–69. Wiesbaden: Springer Fachmedien Wiesbaden.
-  </bibl>
+    <rs type="bibl" ref="#bibl__4682">Knoll, Nico (2017): “„HackHPI“: How to Organize a Hackathon.” In Veranstaltungen 4.0. Edited by Thorsten Knoll, 155–69. Wiesbaden: Springer Fachmedien Wiesbaden.</rs></bibl>
   <bibl>
-    <hi rend="bold">Meyer, Francine / Monika Taddicken </hi> (2019): “Hackdays Als Alternatives Lehrformat? Eine Empirische Betrachtung Eines Beispiellehrformats in Bezug Auf Mediale Und Technologische Bildung.” In 
-    <hi rend="italic">Teaching Trends 2018: Die Präsenzhochschule Und Die Digitale Transformation</hi>. Edited by Susanne Robra-Bissantz et al. 1. Auflage. Digitale Medien in der Hochschullehre 7. Münster: Waxmann.
-  </bibl>
+    <rs type="bibl" ref="#bibl__4683">Meyer, Francine / Monika Taddicken (2019): “Hackdays Als Alternatives Lehrformat? Eine Empirische Betrachtung Eines Beispiellehrformats in Bezug Auf Mediale Und Technologische Bildung.” In Teaching Trends 2018: Die Präsenzhochschule Und Die Digitale Transformation. Edited by Susanne Robra-Bissantz et al. 1. Auflage. Digitale Medien in der Hochschullehre 7. Münster: Waxmann.</rs></bibl>
   <bibl>
-    <hi rend="bold">Schön, Sandra / Veronika Hornung-Prahauser,
-    Patricia Schedifka, and Markus Alsleben, eds. </hi> (2017):
-    <hi rend="italic">Innovation Durch Exploration: Innovationsanstöße Zum Internet Der Dinge (Internet of Things, IoT) Durch Offenes Explorieren Und Experimentieren in Technologielaboren, Kreativ- Und Innovationsräumen</hi>. Salzburg: Books ON DEMAND, 2017.
-  </bibl>
+    <rs type="bibl" ref="#bibl__4684">Schön, Sandra / Veronika Hornung-Prahauser, Patricia Schedifka, and Markus Alsleben, eds. (2017): Innovation Durch Exploration: Innovationsanstöße Zum Internet Der Dinge (Internet of Things, IoT) Durch Offenes Explorieren Und Experimentieren in Technologielaboren, Kreativ- Und Innovationsräumen. Salzburg: Books ON DEMAND, 2017.</rs></bibl>
   <bibl>
-    <hi rend="bold">Trilcke, Peer / Frank Fischer </hi> (2018): “Literaturwissenschaft Als Hackathon: Zur Praxeologie Der Digital Literary Studies Und Ihren Epistemischen Dingen.” In 
-    <hi rend="italic">Wie Digitalität Die Geisteswissenschaften
-    Verändert: Neue Forschungsgegenstände Und Methoden</hi>. Edited by
-    Martin Huber and Sibylle Krämer. Sonderband der Zeitschrift für
-    digitale Geisteswissenschaften 3. DOI: <ref target="http://www.zfdg.de/sb003_003">http://www.zfdg.de/sb003_003.</ref>
-  </bibl>
+    <rs type="bibl" ref="#bibl__160">Trilcke, Peer / Frank Fischer (2018): “Literaturwissenschaft Als Hackathon: Zur Praxeologie Der Digital Literary Studies Und Ihren Epistemischen Dingen.” In Wie Digitalität Die Geisteswissenschaften Verändert: Neue Forschungsgegenstände Und Methoden. Edited by Martin Huber and Sibylle Krämer. Sonderband der Zeitschrift für digitale Geisteswissenschaften 3. DOI: http://www.zfdg.de/sb003_003.</rs></bibl>
 </listBibl>
 </div>
 </back>

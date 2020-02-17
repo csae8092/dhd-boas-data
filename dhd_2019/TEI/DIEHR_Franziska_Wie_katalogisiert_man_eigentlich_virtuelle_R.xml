@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wie katalogisiert man eigentlich virtuelle Realität? Überlegungen zur Dokumentation und Vernetzung musealer Objekte und digitaler Vermittlungsformate</title><title type="conf_year">2019</title><author ref="#person__f-diehr-smb-spk-berlin-de">
+                <title>Wie katalogisiert man eigentlich virtuelle Realität? Überlegungen zur Dokumentation und Vernetzung musealer Objekte und digitaler Vermittlungsformate</title><title type="conf_year">2019</title>
+                <author ref="#person__f-diehr-smb-spk-berlin-de">
                     <persName>
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
@@ -118,23 +119,23 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3970">Bauer, Nadja (2018): „Audiences first, digital second “, in: museum4punkt0 Blog August 2018 http://www.museum4punkt0.de/blogpost/audiences_first_digital_second/ [letzter Zugriff: 12.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__706">Bauer, Nadja (2018): „Audiences first, digital second “, in: museum4punkt0 Blog August 2018 http://www.museum4punkt0.de/blogpost/audiences_first_digital_second/ [letzter Zugriff: 12.10.2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3971">Cameron, Fiona (2003): „Digital Futures I: Museum Collections, Digital Technologies, and the Cultural Construction of Knowledge “, in: Curator: the Museum Journal 46 (3) 325–40.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__707">Cameron, Fiona (2003): „Digital Futures I: Museum Collections, Digital Technologies, and the Cultural Construction of Knowledge “, in: Curator: the Museum Journal 46 (3) 325–40.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3972">Cameron, Fiona / Robinson, Helena (2007): „Digital Knowledgescapes: Cultural, Theoretical, Practical, and Usage Issues Facing Museum Collection Databases in a Digital Epoch “, in: Cameron, Fiona / Kenderdine, Sarah (eds.): Theorizing Digital Cultural Heritage: A Critical Discourse. MIT Press 165–191.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__708">Cameron, Fiona / Robinson, Helena (2007): „Digital Knowledgescapes: Cultural, Theoretical, Practical, and Usage Issues Facing Museum Collection Databases in a Digital Epoch “, in: Cameron, Fiona / Kenderdine, Sarah (eds.): Theorizing Digital Cultural Heritage: A Critical Discourse. MIT Press 165–191.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3973">Glinka, Katrin (2018a): „Ein Verbund ist mehr als die Summe seiner Teilprojekte “, in: museum4punkt0 Blog Juli 2018 http://www.museum4punkt0.de/blogpost/ein-verbund-ist-mehr-als-die-summe-seiner-teilprojekte/ [letzter Zugriff: 12.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__709">Glinka, Katrin (2018a): „Ein Verbund ist mehr als die Summe seiner Teilprojekte “, in: museum4punkt0 Blog Juli 2018 http://www.museum4punkt0.de/blogpost/ein-verbund-ist-mehr-als-die-summe-seiner-teilprojekte/ [letzter Zugriff: 12.10.2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3974">Glinka, Katrin (2018b): „The Process Is Part of the Solution: Insights from the German Collaborative Project museum4punkt0”, in: Museum International, Volume 70, Special Issue: Museums in a Digital World. International Council of Museums (ICOM) and Blackwell Publishing 90–103 10.1111/muse.12195.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__710">Glinka, Katrin (2018b): „The Process Is Part of the Solution: Insights from the German Collaborative Project museum4punkt0”, in: Museum International, Volume 70, Special Issue: Museums in a Digital World. International Council of Museums (ICOM) and Blackwell Publishing 90–103 10.1111/muse.12195.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3975">ICOM - Internationaler Museumsrat (2010): Ethische Richtlinien für Museen von ICOM. ICOM Deutschland (eds.).</rs></bibl>
+                        <rs type="bibl" ref="#bibl__711">ICOM - Internationaler Museumsrat (2010): Ethische Richtlinien für Museen von ICOM. ICOM Deutschland (eds.).</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3976">Navarro, Cristina / Fuhrmann, Dietmar (2018): „Ideen auf dem multiperspektivischen Prüfstein: Ein fruchtbarer Workshop “, in: museum4punkt0 Blog Juli 2018 http://www.museum4punkt0.de/blogpost/ideen-auf-dem-multiperspektivischen-pruefstein-ein-fruchtbarer-workshop/ [letzter Zugriff: 12.10.2018].</rs></bibl>
+                        <rs type="bibl" ref="#bibl__712">Navarro, Cristina / Fuhrmann, Dietmar (2018): „Ideen auf dem multiperspektivischen Prüfstein: Ein fruchtbarer Workshop “, in: museum4punkt0 Blog Juli 2018 http://www.museum4punkt0.de/blogpost/ideen-auf-dem-multiperspektivischen-pruefstein-ein-fruchtbarer-workshop/ [letzter Zugriff: 12.10.2018].</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3977">Srinivasan, Ramesh / Boast, Robin / Furner, Jonathan / Becvar, Katherine M. (2009): „Digital Museums and Diverse Cultural Knowledges: Moving Past the Traditional Catalog “, in: The Information Society 25:4 265–278 10.1080/01972240903028714.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__713">Srinivasan, Ramesh / Boast, Robin / Furner, Jonathan / Becvar, Katherine M. (2009): „Digital Museums and Diverse Cultural Knowledges: Moving Past the Traditional Catalog “, in: The Information Society 25:4 265–278 10.1080/01972240903028714.</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__3978">Wallace, Amanda (2001): „Collections Management and Inclusion “, in: Dodd, J. / Sandell, R.: Including Museums: Perspectives on Museums, Galleries and Social Inclusion. Leicester: University of Leicester, Department of Museum Studies 80–83.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__714">Wallace, Amanda (2001): „Collections Management and Inclusion “, in: Dodd, J. / Sandell, R.: Including Museums: Perspectives on Museums, Galleries and Social Inclusion. Leicester: University of Leicester, Department of Museum Studies 80–83.</rs></bibl>
                 </listBibl>
             </div>
         </back>

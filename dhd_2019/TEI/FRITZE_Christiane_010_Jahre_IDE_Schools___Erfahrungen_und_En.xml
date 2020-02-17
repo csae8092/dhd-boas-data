@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>010 Jahre IDE-Schools – Erfahrungen und Entwicklungen in der außeruniversitären DH-Ausbildung</title><title type="conf_year">2019</title><author ref="#person__christiane-fritze-onb-ac-at">
+                <title>010 Jahre IDE-Schools – Erfahrungen und Entwicklungen in der außeruniversitären DH-Ausbildung</title><title type="conf_year">2019</title>
+                <author ref="#person__christiane-fritze-onb-ac-at">
                     <persName>
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
@@ -213,21 +214,21 @@
                 <listBibl>
                     <head>Bibliographie</head>
                     <bibl style="text-align:left; ">Digital Humanities als Beruf. Fortschritte auf dem Weg zu einem Curriculum. Akten der DHd-Arbeitsgruppe 
-                        <rs type="bibl" ref="#bibl__2966">Digital Humanities als Beruf. Fortschritte auf dem Weg zu einem Curriculum. Akten der DHd-Arbeitsgruppe " Referenzcurriculum Digital Humanities " . Graz 2015.</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1448">Digital Humanities als Beruf. Fortschritte auf dem Weg zu einem Curriculum. Akten der DHd-Arbeitsgruppe " Referenzcurriculum Digital Humanities " . Graz 2015.</rs></bibl>
                     <bibl style="text-align:left; ">Digital Humanities Course Registry. Dariah/Clarin 2014-2018. 
-                        <rs type="bibl" ref="#bibl__2967">Digital Humanities Course Registry. Dariah/Clarin 2014-2018. https://registries.clarin-dariah.eu/courses/</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1449">Digital Humanities Course Registry. Dariah/Clarin 2014-2018. https://registries.clarin-dariah.eu/courses/</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2968">Fritze, Christiane / Rehbein, Malte (2012): " Hands-On Teaching Digital Humanities: A Didactic Analysis of a Summer School Course on Digital Editing " , in: Hirsch, Brett D. (ed.) Digital Humanities Pedagogy: Practices, Principles and Politics [Online]. Cambridge: Open Book Publishers. http://books.openedition.org/obp/1617</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1450">Fritze, Christiane / Rehbein, Malte (2012): " Hands-On Teaching Digital Humanities: A Didactic Analysis of a Summer School Course on Digital Editing " , in: Hirsch, Brett D. (ed.) Digital Humanities Pedagogy: Practices, Principles and Politics [Online]. Cambridge: Open Book Publishers. http://books.openedition.org/obp/1617</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2969">Henny, Ulrike (2012): " Digitale Editionen – Methoden und Technologien für Fortgeschrittene " [Tagungsbericht zur IDE-School, Chemnitz 2012], in: H-Soz-Kult, 11.12.2012, www.hsozkult.de/conferencereport/id/tagungsberichte-4540</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1451">Henny, Ulrike (2012): " Digitale Editionen – Methoden und Technologien für Fortgeschrittene " [Tagungsbericht zur IDE-School, Chemnitz 2012], in: H-Soz-Kult, 11.12.2012, www.hsozkult.de/conferencereport/id/tagungsberichte-4540</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2970">Locke, Brandon T. (2017): " Digital Humanities Pedagogy as Essential Liberal Education: A Framework for Curriculum Development " , in: DHQ 11.3 (2017). http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1452">Locke, Brandon T. (2017): " Digital Humanities Pedagogy as Essential Liberal Education: A Framework for Curriculum Development " , in: DHQ 11.3 (2017). http://www.digitalhumanities.org/dhq/vol/11/3/000303/000303.html</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2971">Neuber, Frederike (2015): " Spring in Graz – Sunshine and X-technologies " [Bericht zur IDE-School Graz 2015], in : DiXiT Blog 26.4.2015. https://dixit.hypotheses.org/633</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1453">Neuber, Frederike (2015): " Spring in Graz – Sunshine and X-technologies " [Bericht zur IDE-School Graz 2015], in : DiXiT Blog 26.4.2015. https://dixit.hypotheses.org/633</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2972">Sahle, Patrick (2008): "Digitale Editionen – Methodische und technische Grundfertigkeiten" [Tagungsbericht zur IDE-School, Köln 2008], in: H-Soz-Kult, 21.11.2008, www.hsozkult.de/conferencereport/id/tagungsberichte-2353</rs></bibl>
+                        <rs type="bibl" ref="#bibl__1454">Sahle, Patrick (2008): "Digitale Editionen – Methodische und technische Grundfertigkeiten" [Tagungsbericht zur IDE-School, Köln 2008], in: H-Soz-Kult, 21.11.2008, www.hsozkult.de/conferencereport/id/tagungsberichte-2353</rs></bibl>
                     <bibl style="text-align:left; ">
-                        <rs type="bibl" ref="#bibl__2973">Sahle, Patrick (2013): DH studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum der Digital Humanities. (= DARIAH-DE Working Papers Nr. 1). Göttingen: GOEDOC. http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2013-1-5</rs></bibl>
+                        <rs type="bibl" ref="#bibl__216">Sahle, Patrick (2013): DH studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum der Digital Humanities. (= DARIAH-DE Working Papers Nr. 1). Göttingen: GOEDOC. http://nbn-resolving.de/urn.nbn.de.gbv:7-dariah-2013-1-5</rs></bibl>
                 </listBibl>
             </div>
         </back>

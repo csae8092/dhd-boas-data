@@ -216,161 +216,65 @@ Während in den Digital Humanities bereits erste korpusbasierte Analysen von Fig
 <listBibl>
 <head>Bibliographie</head>
 <bibl rend="normal">
-  <hi rend="bold">Argyle, Michael </hi> (1996): <hi rend="italic" style="font-family:Open Sans">Körpersprache und Kommunikation.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Paderborn: Junfermann.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5202">Argyle, Michael (1996): Körpersprache und Kommunikation. Paderborn: Junfermann.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Barbin, Herculine / Foucault, Michel</hi>  (1998): <hi rend="italic" style="font-family:Open Sans">Über Hermaphroditismus</hi>
-  <hi style="font-family:Open Sans">. Frankfurt am Main: Suhrkamp.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5203">Barbin, Herculine / Foucault, Michel (1998): Über Hermaphroditismus . Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Beauvoir, Simone </hi> (1949): 
-  <hi rend="italic" style="font-family:Open Sans">Das andere Geschlecht.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Reinbek: Rowohlt.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5204">Beauvoir, Simone (1949): Das andere Geschlecht. Reinbek: Rowohlt.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Bourdieu, Pierre </hi> (2005): 
-  <hi rend="italic" style="font-family:Open Sans">Die männliche Herrschaft.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Frankfurt am Main: Suhrkamp.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5205">Bourdieu, Pierre (2005): Die männliche Herrschaft. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Borod, Joan C.</hi> (2000): 
-  <hi rend="italic" style="font-family:Open Sans">The Neuropsychology of Emotion</hi>
-  <hi style="font-family:Open Sans">. New York: Oxford University Press.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5206">Borod, Joan C. (2000): The Neuropsychology of Emotion . New York: Oxford University Press.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold" xml:space="preserve">Butler, Judith</hi> (1990): 
-  <hi rend="italic" style="font-family:Open Sans">Das Unbehagen der Geschlechter.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Frankfurt am Main: Suhrkamp.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5207">Butler, Judith (1990): Das Unbehagen der Geschlechter. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Connell, Raewyn</hi> (1999): 
-  <hi rend="italic" style="font-family:Open Sans">Der gemachte Mann. Konstruktion und Krise von Männlichkeiten.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Wiesbaden: Springer. </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5208">Connell, Raewyn (1999): Der gemachte Mann. Konstruktion und Krise von Männlichkeiten. Wiesbaden: Springer.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Darwin, Charles</hi> (1884): 
-  <hi rend="italic" style="font-family:Open Sans">Der Ausdruck der Gemüthsbewegungen bei dem Menschen und den Thieren.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Stuttgart: Schweizerbart.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5209">Darwin, Charles (1884): Der Ausdruck der Gemüthsbewegungen bei dem Menschen und den Thieren. Stuttgart: Schweizerbart.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Ekman, Paul</hi> (1999): 
-  <hi rend="italic" style="font-family:Open Sans">Basic Emotions.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> In: Dalgleisch, Tim und Michael J. Power (Hrsg.): </hi>
-  <hi rend="italic" style="font-family:Open Sans">Handbook of Cognition and Emotion</hi>
-  <hi style="font-family:Open Sans">. Chichester: John Wiley &amp; Sons, 45–60.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5210">Ekman, Paul (1999): Basic Emotions. In: Dalgleisch, Tim und Michael J. Power (Hrsg.): Handbook of Cognition and Emotion . Chichester: John Wiley &amp; Sons, 45–60.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Erhart, Walter</hi> (2001): 
-  <hi rend="italic" style="font-family:Open Sans">Familienmänner. Über den literarischen Ursprung moderner Männlichkeit.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> München: Wilhelm Fink. </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5211">Erhart, Walter (2001): Familienmänner. Über den literarischen Ursprung moderner Männlichkeit. München: Wilhelm Fink.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher</hi> (2005): Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling. In: 
-  <hi rend="italic" style="font-family:Open Sans">Proceedings of the 43nd Annual Meeting of the Association for Computational Linguistics (ACL 2005)</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve">, Seiten 363-370. </hi>
-  <ref target="http://nlp.stanford.edu/~manning/papers/gibbscrf3.pdf">http://nlp.stanford.edu/~manning/papers/gibbscrf3.pdf</ref>
-  <hi style="font-family:Open Sans" xml:space="preserve"> [zuletzt geprüft: Dezember 21, 2019]  </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__26">Finkel, Jenny Rose / Grenager, Trond / Manning, Christopher (2005): Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling. In: Proceedings of the 43nd Annual Meeting of the Association for Computational Linguistics (ACL 2005) , Seiten 363-370. http://nlp.stanford.edu/~manning/papers/gibbscrf3.pdf [zuletzt geprüft: Dezember 21, 2019]</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Flüh, Marie </hi> (2020): “Emotionsinformationen analysieren: 3. Erste Ergebnisse – Gemüth und Selbstsucht (1787) von Margarethe von Wolff.” In: 
-  <hi rend="italic" style="font-family:Open Sans;font-size:11.5pt">m*w</hi>
-  <hi style="font-family:Open Sans;font-size:11.5pt" xml:space="preserve">, Januar 4, 2020, </hi>
-  <ref target="https://msternchenw.de/?p=249">https://msternchenw.de/?p=249</ref>
-  <hi style="font-family:Open Sans;font-size:11.5pt">, [zuletzt geprüft: Januar 4, 2020].</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5212">Flüh, Marie (2020): “Emotionsinformationen analysieren: 3. Erste Ergebnisse – Gemüth und Selbstsucht (1787) von Margarethe von Wolff.” In: m*w , Januar 4, 2020, https://msternchenw.de/?p=249 , [zuletzt geprüft: Januar 4, 2020].</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Foucault, Michel </hi> (2005): 
-  <hi rend="italic" style="font-family:Open Sans">Die Heterotopien. Der utopische Körper.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Frankfurt am Main: Suhrkamp.  </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5213">Foucault, Michel (2005): Die Heterotopien. Der utopische Körper. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Foucault, Michel</hi> (2008): 
-  <hi rend="italic" style="font-family:Open Sans">Die Ordnung der Dinge.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> In: Michel Foucault. Die Hauptwerke. Frankfurt am Main: Suhrkamp. </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5214">Foucault, Michel (2008): Die Ordnung der Dinge. In: Michel Foucault. Die Hauptwerke. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Heydebrand, Renate von / Simone Winko</hi> (1996): 
-  <hi rend="italic" style="font-family:Open Sans">Einführung in die Wertung von Literatur</hi>
-  <hi style="font-family:Open Sans">. Paderborn/München/Wien u. a.: Ferdinand Schöningh.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5215">Heydebrand, Renate von / Simone Winko (1996): Einführung in die Wertung von Literatur . Paderborn/München/Wien u. a.: Ferdinand Schöningh.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Irigaray, Luce</hi> (1980): 
-  <hi rend="italic" style="font-family:Open Sans">Speculum. Spiegel des anderen Geschlechts.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Frankfurt am Main: Suhrkamp.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5216">Irigaray, Luce (1980): Speculum. Spiegel des anderen Geschlechts. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Izard, Carroll, E. </hi> (1992): “Basic emotion, relations among emotions, and emotion-cognition relations”. In: 
-  <hi rend="italic" style="font-family:Open Sans" xml:space="preserve">Psychological Review </hi>
-  <hi style="font-family:Open Sans">99 (3), 561–565</hi>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5217">Izard, Carroll, E. (1992): “Basic emotion, relations among emotions, and emotion-cognition relations”. In: Psychological Review 99 (3), 561–565.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Luhmann, Niklas</hi> (2008): 
-  <hi rend="italic" style="font-family:Open Sans">Schriften zur Kultur und Literatur.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Frankfurt am Main: Suhrkamp.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5218">Luhmann, Niklas (2008): Schriften zur Kultur und Literatur. Frankfurt am Main: Suhrkamp.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold"> Meister, Jan Christoph / Horstmann, Jan / Petris, Marco / Jacke, Janina / Bruck, Christian / Schumacher, Mareike  /  Flüh, Marie</hi> (2019):
-  CATMA 6.0.0 (Version 6.0.0). Zenodo. DOI: <ptr target="10.5281/zenodo.3523228"/>.
-</bibl>
+  <rs type="bibl" ref="#bibl__5219">Meister, Jan Christoph / Horstmann, Jan / Petris, Marco / Jacke, Janina / Bruck, Christian / Schumacher, Mareike / Flüh, Marie (2019): CATMA 6.0.0 (Version 6.0.0). Zenodo. DOI: .</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Moretti, Franco</hi> (2013): 
-  <hi rend="italic" style="font-family:Open Sans">Operationalizing: or the function of measurement in modern literary theory.</hi>
-  <ref target="https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf">https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf</ref>
-  <hi style="font-family:Open Sans" xml:space="preserve"> [zuletzt geprüft: August 8, 2019]. </hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5220">Moretti, Franco (2013): Operationalizing: or the function of measurement in modern literary theory. https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf [zuletzt geprüft: August 8, 2019].</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Oatley, Keith /  P.N.  Johnson-Laird </hi> (1987): “Towards a cognitive theory of emotions”. In: 
-  <hi rend="italic" style="font-family:Open Sans">Cognition and Emotion</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> 1, 1987, 29–50.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5221">Oatley, Keith / P.N. Johnson-Laird (1987): “Towards a cognitive theory of emotions”. In: Cognition and Emotion 1, 1987, 29–50.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Plutchik, Robert </hi> (1984): “Emotions. A general psycho-evolutionary theory”. In: Klaus Scherer und Paul Ekman (Hrsg.): 
-  <hi rend="italic" style="font-family:Open Sans">Approaches to emotion.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Hillsdale: Erlbaum, 197–200.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5222">Plutchik, Robert (1984): “Emotions. A general psycho-evolutionary theory”. In: Klaus Scherer und Paul Ekman (Hrsg.): Approaches to emotion. Hillsdale: Erlbaum, 197–200.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Schumacher, Mareike </hi> (2020 [1)]: "Named Entity Recognition und Reverse Engineering". In: 
-  <hi rend="italic" style="font-family:Open Sans">Lebe lieber literarisch</hi>, Januar 2, 2020, 
-  <ref target="http://lebelieberliterarisch.de/named-entity-recognition-und-reverse-engineering">http://lebelieberliterarisch.de/named-entity-recognition-und-reverse-engineering/</ref>, [zuletzt geprüft: Januar 3, 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5223">Schumacher, Mareike (2020 [1)]: "Named Entity Recognition und Reverse Engineering". In: Lebe lieber literarisch, Januar 2, 2020, http://lebelieberliterarisch.de/named-entity-recognition-und-reverse-engineering/, [zuletzt geprüft: Januar 3, 2020].</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Schumacher, Mareike </hi> (2020 [2)]: “Automatische Erkennung von Figuren-Gender – das erste Modell.” In: 
-  <hi rend="italic" style="font-family:Open Sans">m*w</hi>
-  <hi style="font-family:Open Sans">, Januar 3, 2020,</hi>
-  <ref target="https://msternchenw.de/?p=158">https://msternchenw.de/automatische-erkennung-von-figuren-gender-das-erste-modell</ref>, [zuletzt geprüft: Januar 3, 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5224">Schumacher, Mareike (2020 [2)]: “Automatische Erkennung von Figuren-Gender – das erste Modell.” In: m*w , Januar 3, 2020, https://msternchenw.de/automatische-erkennung-von-figuren-gender-das-erste-modell, [zuletzt geprüft: Januar 3, 2020].</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Schumacher, Mareike </hi> (2020 [3)]: "Genderstereotype in der Literatur - erste Analysen". In: 
-  <hi rend="italic" style="font-family:Open Sans">Lebe lieber literarisch</hi>
-  <hi style="font-family:Open Sans">, Januar 7, 2020,</hi>
-  <ref target="http://lebelieberliterarisch.de/genderstereotype-in-der-literatur-erste-analysen/">http://lebelieberliterarisch.de/genderstereotype-in-der-literatur-erste-analysen/</ref>, [zuletzt geprüft: Januar 7, 2020].
-</bibl>
+  <rs type="bibl" ref="#bibl__5225">Schumacher, Mareike (2020 [3)]: "Genderstereotype in der Literatur - erste Analysen". In: Lebe lieber literarisch , Januar 7, 2020, http://lebelieberliterarisch.de/genderstereotype-in-der-literatur-erste-analysen/, [zuletzt geprüft: Januar 7, 2020].</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Schwarz-Friesel, Monika</hi> (2017): “Das Emotionspotenzial literarischer Texte.” In: Betten, Anne, Ulla Fix und  Berbeli Wanning (Hrsg): 
-  <hi rend="italic" style="font-family:Open Sans">Handbuch Sprache in der Literatur</hi>
-  <hi style="font-family:Open Sans">. Berlin, Boston: De Gruyter, 351-370.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5226">Schwarz-Friesel, Monika (2017): “Das Emotionspotenzial literarischer Texte.” In: Betten, Anne, Ulla Fix und Berbeli Wanning (Hrsg): Handbuch Sprache in der Literatur . Berlin, Boston: De Gruyter, 351-370.</rs></bibl>
 <bibl rend="normal">
-  <hi style="bold">Simmel, Georg </hi> (1986): “Das Relative und das Absolute im Geschlechter-Problem.” In: 
-  <hi rend="italic" style="font-family:Open Sans">Philosophische Kultur. Über das Abenteuer, die Geschlechter und die Krise der Moderne.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Berlin: Klaus Wagenbach, S. 64–93.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5227">Simmel, Georg (1986): “Das Relative und das Absolute im Geschlechter-Problem.” In: Philosophische Kultur. Über das Abenteuer, die Geschlechter und die Krise der Moderne. Berlin: Klaus Wagenbach, S. 64–93.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Stephan, Inge</hi> (2003): “Im toten Winkel. Die Neuentdeckung des ‚ersten Geschlechts’ durch men’s studies und Männlichkeitsforschung.” In: dies., Claudia Benthien (Hrsg.): Männlichkeit als Maskerade. Kulturelle Inszenierung vom Mittelalter bis zur Gegenwart. In: Stephan, Inge, Sigrid Weigel: 
-  <hi rend="italic" style="font-family:Open Sans" xml:space="preserve">Literatur – Kultur – Geschlecht. Studien zur Literatur- und Kulturgeschichte. </hi>
-  <hi style="font-family:Open Sans">Kleine Reihe, Band 18. Köln/Weimar/Wien: Böhlau Verlag, 11–35.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5228">Stephan, Inge (2003): “Im toten Winkel. Die Neuentdeckung des ‚ersten Geschlechts’ durch men’s studies und Männlichkeitsforschung.” In: dies., Claudia Benthien (Hrsg.): Männlichkeit als Maskerade. Kulturelle Inszenierung vom Mittelalter bis zur Gegenwart. In: Stephan, Inge, Sigrid Weigel: Literatur – Kultur – Geschlecht. Studien zur Literatur- und Kulturgeschichte. Kleine Reihe, Band 18. Köln/Weimar/Wien: Böhlau Verlag, 11–35.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Underwood, Ted</hi> (2019): 
-  <hi rend="italic" style="font-family:Open Sans">Distant Horizons.</hi>
-  <hi style="font-family:Open Sans" xml:space="preserve"> Chicago: The University of Chicago Press.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5229">Underwood, Ted (2019): Distant Horizons. Chicago: The University of Chicago Press.</rs></bibl>
 <bibl rend="normal">
-  <hi rend="bold">Weitin, Thomas / Katharina Herget</hi> (2017): “Falkentopics. Über einige Probleme beim Topic Modeling literarischer Texte.” In: Hartmut Bleumer, Rita Franceschini, Staphan Habscheid, Constanze Spieß und Niels Weber  (Hrsg.): 
-  <hi rend="italic" style="font-family:Open Sans">Scalable Reading</hi>
-  <hi style="font-family:Open Sans">. Zeitschrift für Literaturwissenschaft und Linguistik. 1/2017 (47), 1–20.</hi>
-</bibl>
+  <rs type="bibl" ref="#bibl__5230">Weitin, Thomas / Katharina Herget (2017): “Falkentopics. Über einige Probleme beim Topic Modeling literarischer Texte.” In: Hartmut Bleumer, Rita Franceschini, Staphan Habscheid, Constanze Spieß und Niels Weber (Hrsg.): Scalable Reading . Zeitschrift für Literaturwissenschaft und Linguistik. 1/2017 (47), 1–20.</rs></bibl>
 </listBibl>
 </div>
 </back>

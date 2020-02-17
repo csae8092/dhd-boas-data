@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Visuelle Möglichkeiten der Textkollation anhand des Beispiels eines Vergleiches von Erich Kästners "Fabian" und "Der Gang vor die Hunde" </title><title type="conf_year">2016</title>
-        <author ref="#person__stange-fh-potsdam-de">
+        <title>Visuelle Möglichkeiten der Textkollation anhand des Beispiels eines Vergleiches von Erich Kästners "Fabian" und "Der Gang vor die Hunde" </title><title type="conf_year">2016</title><author ref="#person__stange-fh-potsdam-de">
           <name>
             <surname>Stange</surname>
             <forename>Jan-Erik</forename>
           </name>
-          <affiliation ref="#org__54">Fachhochschule Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__91">Fachhochschule Potsdam, Deutschland</affiliation>
           <email>stange@fh-potsdam.de</email>
         </author>
       </titleStmt>

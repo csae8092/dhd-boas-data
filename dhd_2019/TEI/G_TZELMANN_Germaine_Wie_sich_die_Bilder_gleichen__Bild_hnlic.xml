@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wie sich die Bilder gleichen. Bildähnlichkeitssuche in Drucken des 16. Jahrhunderts</title><title type="conf_year">2019</title>
-                <author ref="#person__germaine-goetzelmann-kit-edu">
+                <title>Wie sich die Bilder gleichen. Bildähnlichkeitssuche in Drucken des 16. Jahrhunderts</title><title type="conf_year">2019</title><author ref="#person__germaine-goetzelmann-kit-edu">
                     <persName>
                         <surname>Götzelmann</surname>
                         <forename>Germaine</forename>
                     </persName>
-                    <affiliation ref="#org__301">Karlsruher Institut für Technologie, Deutschland</affiliation>
+                    <affiliation ref="#org__62">Karlsruher Institut für Technologie, Deutschland</affiliation>
                     <email>germaine.goetzelmann@kit.edu</email>
                 </author>
             </titleStmt>

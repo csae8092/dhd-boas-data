@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TInCAP – ein interdisziplinäres Korpus zu Ambiguitäts-phänomenen</title><title type="conf_year">2016</title>
-        <author ref="#person__jutta-hartmann-uni-tuebingen-de">
+        <title>TInCAP – ein interdisziplinäres Korpus zu Ambiguitäts-phänomenen</title><title type="conf_year">2016</title><author ref="#person__jutta-hartmann-uni-tuebingen-de">
           <name>
             <surname>Hartmann</surname>
             <forename>Jutta</forename>
           </name>
-          <affiliation ref="#org__51">Universität Tübingen, Deutschland/ Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland/ Universität Stuttgart, Deutschland</affiliation>
           <email>jutta.hartmann@uni-tuebingen.de</email>
         </author>
         <author ref="#person__corinna-sauter-uni-tuebingen-de">
@@ -16,7 +15,7 @@
             <surname>Sauter</surname>
             <forename>Corinna</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland</affiliation>
           <email>corinna.sauter@uni-tuebingen.de</email>
         </author>
         <author ref="#person__gesa-schole-uni-tuebingen-de">
@@ -24,7 +23,7 @@
             <surname>Schole</surname>
             <forename>Gesa</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland</affiliation>
           <email>gesa.schole@uni-tuebingen.de</email>
         </author>
         <author ref="#person__wiltrud-wagner-uni-tuebingen-de">
@@ -32,7 +31,7 @@
             <surname>Wagner</surname>
             <forename>Wiltrud</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland</affiliation>
           <email>wiltrud.wagner@uni-tuebingen.de</email>
         </author>
         <author ref="#person__peter-gietz-daasi-de">
@@ -40,7 +39,7 @@
             <surname>Gietz</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__270">DAASI International</affiliation>
+          <affiliation ref="#org__314">DAASI International</affiliation>
           <email>peter.gietz@daasi.de</email>
         </author>
         <author ref="#person__susanne-winkler-uni-tuebingen-de">
@@ -48,7 +47,7 @@
             <surname>Winkler</surname>
             <forename>Susanne</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland</affiliation>
           <email>susanne.winkler@uni-tuebingen.de</email>
         </author>
       </titleStmt>

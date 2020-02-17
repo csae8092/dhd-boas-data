@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Geowissenschaftliche Analyse von großen Mengen historischer Texte: Die Visualisierung geographischer Verhältnisse in deutschen Familienzeitschriften </title><title type="conf_year">2016</title>
-        <author ref="#person__pmcisaac-umich-edu">
+        <title>Die Geowissenschaftliche Analyse von großen Mengen historischer Texte: Die Visualisierung geographischer Verhältnisse in deutschen Familienzeitschriften </title><title type="conf_year">2016</title><author ref="#person__pmcisaac-umich-edu">
           <name>
             <surname>McIsaac</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__265">Literature, Sciences and the Arts, Universitaet von Michigan, USA</affiliation>
+          <affiliation ref="#org__284">Literature, Sciences and the Arts, Universitaet von Michigan, USA</affiliation>
           <email>pmcisaac@umich.edu</email>
         </author>
         <author ref="#person__sugih-umich-edu">
@@ -16,7 +15,7 @@
             <surname>Jamin</surname>
             <forename>Sugih</forename>
           </name>
-          <affiliation ref="#org__266">Electrical Engineering and Computer Science, Universitaet von Michigan, USA</affiliation>
+          <affiliation ref="#org__285">Electrical Engineering and Computer Science, Universitaet von Michigan, USA</affiliation>
           <email>sugih@umich.edu</email>
         </author>
 
@@ -25,7 +24,7 @@
             <surname>Ibanez</surname>
             <forename>Ines</forename>
           </name>
-          <affiliation ref="#org__267">School of Natural Resources, Universitaet von Michigan, USA</affiliation>
+          <affiliation ref="#org__286">School of Natural Resources, Universitaet von Michigan, USA</affiliation>
           <email>iibanez@umich.edu</email>
         </author>
         <author ref="#person__oskarsinger-gmail-com">
@@ -33,7 +32,7 @@
             <surname>Singer</surname>
             <forename>Oskar</forename>
           </name>
-          <affiliation ref="#org__266">Electrical Engineering and Computer Science, Universitaet von Michigan, USA</affiliation>
+          <affiliation ref="#org__285">Electrical Engineering and Computer Science, Universitaet von Michigan, USA</affiliation>
           <email>oskarsinger@gmail.com</email>
         </author>
         <author ref="#person__benrbray-umich-edu">
@@ -41,7 +40,7 @@
             <surname>Bray</surname>
             <forename>Benjamin</forename>
           </name>
-          <affiliation ref="#org__265">Literature, Sciences and the Arts, Universitaet von Michigan, USA</affiliation>
+          <affiliation ref="#org__284">Literature, Sciences and the Arts, Universitaet von Michigan, USA</affiliation>
           <email>benrbray@umich.edu</email>
         </author>
       </titleStmt>

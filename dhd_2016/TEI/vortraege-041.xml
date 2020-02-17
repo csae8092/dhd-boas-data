@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>DiaCollo: diachronen Kollokationen auf der Spur</title><title type="conf_year">2016</title>
-        <author ref="#person__jurish-bbaw-de">
+        <title>DiaCollo: diachronen Kollokationen auf der Spur</title><title type="conf_year">2016</title><author ref="#person__jurish-bbaw-de">
           <name>
             <surname>Jurish</surname>
             <forename>Bryan</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburg Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburg Akademie der Wissenschaften, Deutschland</affiliation>
           <email>jurish@bbaw.de</email>
         </author>
         <author ref="#person__geyken-bbaw-de">
@@ -16,7 +15,7 @@
             <surname>Geyken</surname>
             <forename>Alexander</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburg Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburg Akademie der Wissenschaften, Deutschland</affiliation>
           <email>geyken@bbaw.de</email>
         </author>
         <author ref="#person__werneke-zzf-pdm-de">
@@ -24,7 +23,7 @@
             <surname>Werneke</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__372">Zentrum für Zeithistorische Forschung, Deutschland</affiliation>
+          <affiliation ref="#org__321">Zentrum für Zeithistorische Forschung, Deutschland</affiliation>
           <email>werneke@zzf-pdm.de</email>
         </author>
       </titleStmt>

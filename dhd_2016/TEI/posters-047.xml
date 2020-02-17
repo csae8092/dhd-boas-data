@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Big Babylonian Pictures. Kohärenztechniken zur konsistenten Vernetzung von Visualisierungen zu mentalen Modellen</title><title type="conf_year">2016</title>
-        <author ref="#person__florian-windhager-donau-uni-ac-at">
+        <title>Big Babylonian Pictures. Kohärenztechniken zur konsistenten Vernetzung von Visualisierungen zu mentalen Modellen</title><title type="conf_year">2016</title><author ref="#person__florian-windhager-donau-uni-ac-at">
           <name>
             <surname>Windhager</surname>
             <forename>Florian</forename>
           </name>
-          <affiliation ref="#org__297">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
+          <affiliation ref="#org__343">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
           <email>florian.windhager@donau-uni.ac.at</email>
         </author>
 
@@ -17,7 +16,7 @@
             <surname>Schreder</surname>
             <forename>Günther</forename>
           </name>
-          <affiliation ref="#org__297">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
+          <affiliation ref="#org__343">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
           <email>guenther.schreder@donau-uni.ac.at</email>
         </author>
         <author ref="#person__michael-smuc-donau-uni-ac-at">
@@ -25,7 +24,7 @@
             <surname>Smuc</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__297">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
+          <affiliation ref="#org__343">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
           <email>michael.smuc@donau-uni.ac.at</email>
         </author>
         <author ref="#person__eva-mayr-donau-uni-ac-at">
@@ -33,7 +32,7 @@
             <surname>Mayr</surname>
             <forename>Eva</forename>
           </name>
-          <affiliation ref="#org__297">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
+          <affiliation ref="#org__343">Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich</affiliation>
           <email>eva.mayr@donau-uni.ac.at</email>
         </author>
       </titleStmt>

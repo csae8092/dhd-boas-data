@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CLARIN-D: Ressourcen gesprochener Sprache und Webservices des Bayerischen Archivs für Sprachsignale</title><title type="conf_year">2016</title>
-        <author ref="#person__draxler-phonetik-uni-muenchen-de">
+        <title>CLARIN-D: Ressourcen gesprochener Sprache und Webservices des Bayerischen Archivs für Sprachsignale</title><title type="conf_year">2016</title><author ref="#person__draxler-phonetik-uni-muenchen-de">
           <name>
             <surname>Draxler</surname>
             <forename>Christoph</forename>
           </name>
-          <affiliation ref="#org__359">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
+          <affiliation ref="#org__278">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
           <email>draxler@phonetik.uni-muenchen.de</email>
         </author>
         <author ref="#person__schiel-phonetik-uni-muenchen-de">
@@ -16,7 +15,7 @@
             <surname>Schiel</surname>
             <forename>Florian</forename>
           </name>
-          <affiliation ref="#org__359">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
+          <affiliation ref="#org__278">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
           <email>schiel@phonetik.uni-muenchen.de</email>
         </author>
         <author ref="#person__reichelu-phonetik-uni-muenchen-de">
@@ -24,7 +23,7 @@
             <surname>Reichel</surname>
             <forename>Uwe</forename>
           </name>
-          <affiliation ref="#org__359">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
+          <affiliation ref="#org__278">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
           <email>reichelu@phonetik.uni-muenchen.de</email>
         </author>
         <author ref="#person__kisler-phonetik-uni-muenchen-de">
@@ -32,7 +31,7 @@
             <surname>Kisler</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__359">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
+          <affiliation ref="#org__278">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland</affiliation>
           <email>kisler@phonetik.uni-muenchen.de</email>
         </author>
       </titleStmt>

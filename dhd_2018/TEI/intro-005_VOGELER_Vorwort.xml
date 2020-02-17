@@ -2,8 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vorwort</title><title type="conf_year">2018</title>
-                <author ref="#person__georg-vogeler-uni-graz-at">
+                <title>Vorwort</title><title type="conf_year">2018</title><author ref="#person__georg-vogeler-uni-graz-at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wikidata: Nutzungsmöglichkeiten und Anwendungsbeispiele für den Bereich Digital Cultural Heritage</title><title type="conf_year">2018</title>
-                <author ref="#person__clmb-inf-fu-berlin-de">
+                <title>Wikidata: Nutzungsmöglichkeiten und Anwendungsbeispiele für den Bereich Digital Cultural Heritage</title><title type="conf_year">2018</title><author ref="#person__clmb-inf-fu-berlin-de">
                     <persName>
                         <surname>Müller-Birn</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
                     <email>clmb@inf.fu-berlin.de</email>
                 </author>
                 <author ref="#person__georg-schelbert-hu-berlin-de">
@@ -16,7 +15,7 @@
                         <surname>Schelbert</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin</affiliation>
                     <email>georg.schelbert@hu-berlin.de</email>
                 </author>
                 <author ref="#person__raspe-biblhertz-it">
@@ -24,7 +23,7 @@
                         <surname>Raspe</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__39">Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
+                    <affiliation ref="#org__410">Max-Planck-Institut für Kunstgeschichte Rom</affiliation>
                     <email>raspe@biblhertz.it</email>
                 </author>
                 <author ref="#person__wuebbena-kunst-uni-frankfurt-de">
@@ -32,7 +31,7 @@
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe-Universität Frankfurt</affiliation>
+                    <affiliation ref="#org__46">Goethe-Universität Frankfurt</affiliation>
                     <email>wuebbena@kunst.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

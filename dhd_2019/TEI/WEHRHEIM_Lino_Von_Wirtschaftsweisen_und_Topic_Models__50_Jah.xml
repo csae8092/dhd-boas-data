@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Von Wirtschaftsweisen und Topic Models: 50 Jahre ökonomische Expertise aus einer Text Mining Perspektive</title><title type="conf_year">2019</title>
-                <author ref="#person__lino-wehrheim-ur-de">
+                <title>Von Wirtschaftsweisen und Topic Models: 50 Jahre ökonomische Expertise aus einer Text Mining Perspektive</title><title type="conf_year">2019</title><author ref="#person__lino-wehrheim-ur-de">
                     <persName>
                         <surname>Wehrheim</surname>
                         <forename>Lino</forename>
                     </persName>
-                    <affiliation ref="#org__18">Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Regensburg, Deutschland</affiliation>
                     <email>lino.wehrheim@ur.de</email>
                 </author>
             </titleStmt>

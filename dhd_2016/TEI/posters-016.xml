@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Biblissima - Semantic Web Application für Handschriften, Inkunabeln und historische Sammlungen - Zwischenbericht</title><title type="conf_year">2016</title>
-        <author ref="#person__stefanie-gehrke9-gmail-com">
+        <title>Biblissima - Semantic Web Application für Handschriften, Inkunabeln und historische Sammlungen - Zwischenbericht</title><title type="conf_year">2016</title><author ref="#person__stefanie-gehrke9-gmail-com">
           <name>
             <surname>Gehrke</surname>
             <forename>Stefanie</forename>
           </name>
-          <affiliation ref="#org__234">Campus Condorcet, Frankreich</affiliation>
+          <affiliation ref="#org__322">Campus Condorcet, Frankreich</affiliation>
           <email>stefanie.gehrke9@gmail.com</email>
         </author>
         <author ref="#person__pauline-charbonnier-biblissima-condorcet-fr">
@@ -16,7 +15,7 @@
             <surname>Charbonnier</surname>
             <forename>Pauline</forename>
           </name>
-          <affiliation ref="#org__234">Campus Condorcet, Frankreich</affiliation>
+          <affiliation ref="#org__322">Campus Condorcet, Frankreich</affiliation>
           <email>pauline.charbonnier@biblissima-condorcet.fr</email>
         </author>
         <author ref="#person__eduard-frunzeanu-biblissima-condorcet-fr">
@@ -24,7 +23,7 @@
             <surname>Eduard</surname>
             <forename>Frunzeanu</forename>
           </name>
-          <affiliation ref="#org__234">Campus Condorcet, Frankreich</affiliation>
+          <affiliation ref="#org__322">Campus Condorcet, Frankreich</affiliation>
           <email>eduard.frunzeanu@biblissima-condorcet.fr</email>
         </author>
       </titleStmt>

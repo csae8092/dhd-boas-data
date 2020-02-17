@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Geisteswissenschaft-liche Fachdatenrepositorien im Semantic Web. Modellierung, Vernetzung, Visualisierung.</title><title type="conf_year">2016</title>
-        <author ref="#person__torsten-schrade-adwmainz-de">
+        <title>Geisteswissenschaft-liche Fachdatenrepositorien im Semantic Web. Modellierung, Vernetzung, Visualisierung.</title><title type="conf_year">2016</title><author ref="#person__torsten-schrade-adwmainz-de">
           <name>
             <surname>Schrade</surname>
             <forename>Torsten</forename>
           </name>
-          <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+          <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
           <email>Torsten.Schrade@adwmainz.de</email>
         </author>
       </titleStmt>

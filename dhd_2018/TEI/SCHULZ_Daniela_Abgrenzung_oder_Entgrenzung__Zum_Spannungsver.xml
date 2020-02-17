@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Abgrenzung oder Entgrenzung? Zum Spannungsverhältnis zwischen Historischen Hilfswissenschaften und Digital Humanities</title><title type="conf_year">2018</title>
-                <author ref="#person__dschulz-uni-wuppertal-de">
+                <title>Abgrenzung oder Entgrenzung? Zum Spannungsverhältnis zwischen Historischen Hilfswissenschaften und Digital Humanities</title><title type="conf_year">2018</title><author ref="#person__dschulz-uni-wuppertal-de">
                     <persName>
                         <surname>Schulz</surname>
                         <forename>Daniela</forename>
                     </persName>
-                    <affiliation ref="#org__67">Bergische Universität Wuppertal</affiliation>
+                    <affiliation ref="#org__79">Bergische Universität Wuppertal</affiliation>
                     <email>dschulz@uni-wuppertal.de</email>
                 </author>
                 <author ref="#person__georg-vogeler-uni-graz-at">
@@ -16,7 +15,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
             </titleStmt>

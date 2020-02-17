@@ -3,13 +3,12 @@
         <fileDesc>
             <titleStmt>
                 <title>Nutzerunterstützung und neueste Entwicklungen in Forschungsdatenreposi-
-                    torien für audiovisuelle (Sprach-)Daten</title><title type="conf_year">2018</title>
-                <author ref="#person__jonathan-blumtritt-uni-koeln-de">
+                    torien für audiovisuelle (Sprach-)Daten</title><title type="conf_year">2018</title><author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__f-rau-uni-koeln-de">
@@ -17,7 +16,7 @@
                         <surname>Rau</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>f.rau@uni-koeln.de</email>
                 </author>
             </titleStmt>

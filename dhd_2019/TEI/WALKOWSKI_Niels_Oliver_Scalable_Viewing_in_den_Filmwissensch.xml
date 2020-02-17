@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Scalable Viewing in den Filmwissenschaften</title><title type="conf_year">2019</title>
-                <author ref="#person__burghardt-informatik-uni-leipzig-de">
+                <title>Scalable Viewing in den Filmwissenschaften</title><title type="conf_year">2019</title><author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
                 <author ref="#person__johannes-pause-uni-lu">
@@ -16,7 +15,7 @@
                         <surname>Pause</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__94">Universität Luxemburg</affiliation>
+                    <affiliation ref="#org__177">Universität Luxemburg</affiliation>
                     <email>johannes.pause@uni.lu</email>
                 </author>
                 <author ref="#person__walkowski-nowalkowski-de">
@@ -24,7 +23,7 @@
                         <surname>Walkowski</surname>
                         <forename>Niels-Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__438">unabhängiger Wissenschaftler</affiliation>
+                    <affiliation ref="#org__178">unabhängiger Wissenschaftler</affiliation>
                     <email>walkowski@nowalkowski.de</email>
                 </author>
             </titleStmt>

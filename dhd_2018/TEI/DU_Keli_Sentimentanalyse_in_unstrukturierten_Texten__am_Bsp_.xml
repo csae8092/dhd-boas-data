@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sentimentanalyse in unstrukturierten Texten (am Bsp. literaturgeschichtlicher Rezeptionsanalyse)</title><title type="conf_year">2018</title>
-                <author ref="#person__katja-mellmann-phil-uni-goettingen-de">
+                <title>Sentimentanalyse in unstrukturierten Texten (am Bsp. literaturgeschichtlicher Rezeptionsanalyse)</title><title type="conf_year">2018</title><author ref="#person__katja-mellmann-phil-uni-goettingen-de">
                     <persName>
                         <surname>Mellmann</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>katja.mellmann@phil.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__keli-du-stud-mail-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
                         <surname>Du</surname>
                         <forename>Keli</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>keli.du@stud-mail.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

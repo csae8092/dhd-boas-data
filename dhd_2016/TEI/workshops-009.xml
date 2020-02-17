@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TextGrid und DARIAH-DE: Forschungsumgebung und Infrastruktur für die Geisteswissenschaften</title><title type="conf_year">2016</title>
-        <author ref="#person__vanscheidt-linglit-tu-darmstadt-de">
+        <title>TextGrid und DARIAH-DE: Forschungsumgebung und Infrastruktur für die Geisteswissenschaften</title><title type="conf_year">2016</title><author ref="#person__vanscheidt-linglit-tu-darmstadt-de">
           <name>
             <surname>Vanscheidt</surname>
             <forename>Philipp</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>vanscheidt@linglit.tu-darmstadt.de</email>
         </author>
         <author ref="#person__rapp-linglit-tu-darmstadt-de">
@@ -16,7 +15,7 @@
             <surname>Rapp</surname>
             <forename>Andrea</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>rapp@linglit.tu-darmstadt.de</email>
         </author>
         <author ref="#person__oschmid-linglit-tu-darmstadt-de">
@@ -24,7 +23,7 @@
             <surname>Schmid</surname>
             <forename>Oliver</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>oschmid@linglit.tu-darmstadt.de</email>
         </author>
         <author ref="#person__schmunk-sub-uni-goettingen-de">
@@ -32,7 +31,7 @@
             <surname>Schmunk</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staat- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staat- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
           <email>schmunk@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__kol-steinheim-institut-org">
@@ -40,7 +39,7 @@
             <surname>Kollatz</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__75">Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte Essen, Deutschland</affiliation>
+          <affiliation ref="#org__89">Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte Essen, Deutschland</affiliation>
           <email>kol@steinheim-institut.org</email>
         </author>
       </titleStmt>

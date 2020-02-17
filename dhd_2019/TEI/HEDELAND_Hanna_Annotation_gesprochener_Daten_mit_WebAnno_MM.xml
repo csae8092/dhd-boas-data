@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Annotation gesprochener Daten mit WebAnno-MM</title><title type="conf_year">2019</title>
-                <author ref="#person__hanna-hedeland-uni-hamburg-de">
+                <title>Annotation gesprochener Daten mit WebAnno-MM</title><title type="conf_year">2019</title><author ref="#person__hanna-hedeland-uni-hamburg-de">
                     <persName>
                         <surname>Hedeland</surname>
                         <forename>Hanna</forename>
                     </persName>
-                    <affiliation ref="#org__448">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__114">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>hanna.hedeland@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__remus-informatik-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Remus</surname>
                         <forename>Steffen</forename>
                     </persName>
-                    <affiliation ref="#org__468">Language Technology Group, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__115">Language Technology Group, Universität Hamburg, Deutschland</affiliation>
                     <email>remus@informatik.uni-hamburg.de</email>
                 </author>
                 <author ref="#person__anne-ferger-uni-hamburg-de">
@@ -24,7 +23,7 @@
                         <surname>Ferger</surname>
                         <forename>Anne</forename>
                     </persName>
-                    <affiliation ref="#org__448">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__114">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>anne.ferger@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__kristin-buehrig-uni-hamburg-de">
@@ -32,7 +31,7 @@
                         <surname>Bührig</surname>
                         <forename>Kristin</forename>
                     </persName>
-                    <affiliation ref="#org__448">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__114">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>kristin.buehrig@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__biemann-informatik-uni-hamburg-de">
@@ -40,7 +39,7 @@
                         <surname>Biemann</surname>
                         <forename>Chris</forename>
                     </persName>
-                    <affiliation ref="#org__468">Language Technology Group, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__115">Language Technology Group, Universität Hamburg, Deutschland</affiliation>
                     <email>biemann@informatik.uni-hamburg.de</email>
                 </author>
             </titleStmt>

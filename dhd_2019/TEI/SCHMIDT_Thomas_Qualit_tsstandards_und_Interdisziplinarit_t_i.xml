@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Qualitätsstandards und Interdisziplinarität in der Kuration audiovisueller (Sprach-)Daten</title>
-                    <title type="sub">Dieser Beitrag ist leer</title><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub">Dieser Beitrag ist leer</title><title type="conf_year">2019</title></title>
                 <author ref="#person__thomas-schmidt-ids-mannheim-de">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>thomas.schmidt@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__jonathan-blumtritt-uni-koeln-de">
@@ -19,7 +18,7 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__hanna-hedeland-uni-hamburg-de">
@@ -27,7 +26,7 @@
                         <surname>Hedeland</surname>
                         <forename>Hanna</forename>
                     </persName>
-                    <affiliation ref="#org__448">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__114">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>hanna.hedeland@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__gorisch-ids-mannheim-de">
@@ -35,7 +34,7 @@
                         <surname>Gorisch</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>gorisch@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__f-rau-uni-koeln-de">
@@ -43,7 +42,7 @@
                         <surname>Rau</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities, Universität zu Köln, Deutschland</affiliation>
                     <email>f.rau@uni-koeln.de</email>
                 </author>
                 <author ref="#person__kai-woerner-uni-hamburg-de">
@@ -51,7 +50,7 @@
                         <surname>Wörner</surname>
                         <forename>Kai</forename>
                     </persName>
-                    <affiliation ref="#org__448">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__114">Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland</affiliation>
                     <email>kai.woerner@uni-hamburg.de</email>
                 </author>
             </titleStmt>

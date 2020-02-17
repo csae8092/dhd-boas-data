@@ -2,14 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>explore.bread.AT! Die österreichische Brotkultur dialektal </title><title type="conf_year">2016</title>
-        <author ref="#person__melanie-siemund-oeaw-ac-at">
+        <title>explore.bread.AT! Die österreichische Brotkultur dialektal </title><title type="conf_year">2016</title><author ref="#person__melanie-siemund-oeaw-ac-at">
           <name>
             <surname>Siemund</surname>
             <forename>Melanie</forename>
           </name>
 
-          <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+          <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
           <email>melanie.siemund@oeaw.ac.at</email>
         </author>
       </titleStmt>

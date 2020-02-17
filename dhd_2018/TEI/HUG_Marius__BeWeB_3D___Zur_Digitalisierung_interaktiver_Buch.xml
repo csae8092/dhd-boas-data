@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> BeWeB-3D – Zur Digitalisierung interaktiver Buchobjekte</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__marius-hug-googlemail-com">
                     <persName>
                         <surname>Hug</surname>
                         <forename>Marius</forename>
                     </persName>
-                    <affiliation ref="#org__47">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__82">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>marius.hug@googlemail.com</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Editionsphilologie zwischen Bibliothek, Archiv und Fachwissenschaft: Der standardisierte Open-Source-Workflow der digitalen Edition der Korrespondenz August Wilhelm Schlegels</title><title type="conf_year">2016</title>
-        <author ref="#person__claudia-bamberg-staff-uni-marburg-de">
+        <title>Editionsphilologie zwischen Bibliothek, Archiv und Fachwissenschaft: Der standardisierte Open-Source-Workflow der digitalen Edition der Korrespondenz August Wilhelm Schlegels</title><title type="conf_year">2016</title><author ref="#person__claudia-bamberg-staff-uni-marburg-de">
           <name>
             <surname>Bamberg</surname>
             <forename>Claudia</forename>
           </name>
-          <affiliation ref="#org__85">Philipps-Universität Marburg, Deutschland</affiliation>
+          <affiliation ref="#org__90">Philipps-Universität Marburg, Deutschland</affiliation>
           <email>claudia.bamberg@staff.uni-marburg.de</email>
         </author>
         <author ref="#person__jochen-strobel-staff-uni-marburg-de">
@@ -16,7 +15,7 @@
             <surname>Jochen</surname>
             <forename>Strobel</forename>
           </name>
-          <affiliation ref="#org__85">Philipps-Universität Marburg, Deutschland</affiliation>
+          <affiliation ref="#org__90">Philipps-Universität Marburg, Deutschland</affiliation>
           <email>jochen.strobel@staff.uni-marburg.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Suche und Visualisierung von Annotationen historischer Korpora mit ANNIS. Kritik der korpuslinguistischen Analysemethoden in einem erweiterten Nutzungskontext</title><title type="conf_year">2018</title>
-                <author ref="#person__carolin-odebrecht-hu-berlin-de">
+                <title>Suche und Visualisierung von Annotationen historischer Korpora mit ANNIS. Kritik der korpuslinguistischen Analysemethoden in einem erweiterten Nutzungskontext</title><title type="conf_year">2018</title><author ref="#person__carolin-odebrecht-hu-berlin-de">
                     <persName>
                         <surname>Odebrecht</surname>
                         <forename>Carolin</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>carolin.odebrecht@hu-berlin.de</email>
                 </author>
                 <author ref="#person__krauseto-hu-berlin-de">
@@ -16,7 +15,7 @@
                         <surname>Krause</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>krauseto@hu-berlin.de</email>
                 </author>
                 <author ref="#person__rolf-guescini-cms-hu-berlin-de">
@@ -24,7 +23,7 @@
                         <surname>Guescini</surname>
                         <forename>Rolf</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>rolf.guescini@cms.hu-berlin.de</email>
                 </author>
                 <author ref="#person__frank-kuehnlenz-cms-hu-berlin-de">
@@ -32,7 +31,7 @@
                         <surname>Kühnlenz</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>frank.kuehnlenz@cms.hu-berlin.de</email>
                 </author>
                 <author ref="#person__anke-luedeling-hu-berlin-de">
@@ -40,7 +39,7 @@
                         <surname>Lüdeling</surname>
                         <forename>Anke</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>anke.luedeling@hu-berlin.de</email>
                 </author>
                 <author ref="#person__malte-dreyer-cms-hu-berlin-de">
@@ -48,7 +47,7 @@
                         <surname>Dreyer</surname>
                         <forename>Malte</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>malte.dreyer@cms.hu-berlin.de</email>
                 </author>
             </titleStmt>

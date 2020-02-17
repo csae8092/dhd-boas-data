@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> Digital Humanities in Bewegung: Ansätze für die computergestützte Filmanalyse </title><title type="conf_year">2016</title>
-        <author ref="#person__manuel-burghardt-ur-de">
+        <title> Digital Humanities in Bewegung: Ansätze für die computergestützte Filmanalyse </title><title type="conf_year">2016</title><author ref="#person__manuel-burghardt-ur-de">
           <name>
             <surname>Burghardt</surname>
             <forename>Manuel</forename>
           </name>
-          <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+          <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
           <email>manuel.burghardt@ur.de</email>
         </author>
         <author ref="#person__christian-wolff-ur-de">
@@ -16,7 +15,7 @@
             <surname>Wolff</surname>
             <forename>Christian</forename>
           </name>
-          <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+          <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
           <email>christian.wolff@ur.de</email>
         </author>
       </titleStmt>

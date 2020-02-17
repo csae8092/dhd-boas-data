@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation.</title><title type="conf_year">2018</title>
-                <author ref="#person__torsten-schrade-adwmainz-de">
+                <title>Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation.</title><title type="conf_year">2018</title><author ref="#person__torsten-schrade-adwmainz-de">
                     <persName>
                         <surname>Schrade</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>Torsten.Schrade@adwmainz.de</email>
                 </author>
                 <author ref="#person__czmiel-bbaw-de">
@@ -16,7 +15,7 @@
                         <surname>Czmiel</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>czmiel@bbaw.de</email>
                 </author>
                 <author ref="#person__stephan-druskat-hu-berlin-de">
@@ -24,7 +23,7 @@
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
             </titleStmt>

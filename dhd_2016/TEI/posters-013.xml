@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>„Bis zum Sankt(-|\s)?[Nn]immerleins(-|\s)?[Tt]ag“ – Der Datumserkenner „PDR-Dates“</title><title type="conf_year">2016</title>
-        <author ref="#person__fechner-bbaw-de">
+        <title>„Bis zum Sankt(-|\s)?[Nn]immerleins(-|\s)?[Tt]ag“ – Der Datumserkenner „PDR-Dates“</title><title type="conf_year">2016</title><author ref="#person__fechner-bbaw-de">
           <name>
             <surname>Fechner</surname>
             <forename>Martin</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>fechner@bbaw.de</email>
         </author>
         <author ref="#person__fkoerner-bbaw-de">
@@ -16,7 +15,7 @@
             <surname>Körner</surname>
             <forename>Fabian</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>fkoerner@bbaw.de</email>
         </author>
       </titleStmt>

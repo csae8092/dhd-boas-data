@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aus erster Hand – 3000 Jahre Kursivschrift der Pharaonenzeit digital analysiert</title><title type="conf_year">2018</title>
-                <author ref="#person__gerhards-uni-mainz-de">
+                <title>Aus erster Hand – 3000 Jahre Kursivschrift der Pharaonenzeit digital analysiert</title><title type="conf_year">2018</title><author ref="#person__gerhards-uni-mainz-de">
                     <persName>
                         <surname>Gerhards</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation ref="#org__70 #org__40">Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__41 #org__36">Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>gerhards@uni-mainz.de</email>
                 </author>
                 <author ref="#person__sguelden-uni-mainz-de">
@@ -16,7 +15,7 @@
                         <surname>Gülden</surname>
                         <forename>Svenja A.</forename>
                     </persName>
-                    <affiliation ref="#org__70 #org__15 #org__40">Johannes Gutenberg-Universität Mainz, Deutschland; Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__41 #org__12 #org__36">Johannes Gutenberg-Universität Mainz, Deutschland; Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>sguelden@uni-mainz.de</email>
                 </author>
                 <author ref="#person__tokonrad-uni-mainz-de">
@@ -24,7 +23,7 @@
                         <surname>Konrad</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation ref="#org__70 #org__15 #org__40">Johannes Gutenberg-Universität Mainz, Deutschland; Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__41 #org__12 #org__36">Johannes Gutenberg-Universität Mainz, Deutschland; Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>tokonrad@uni-mainz.de</email>
                 </author>
                 <author ref="#person__michael-leuk-adwmainz-de">
@@ -32,7 +31,7 @@
                         <surname>Leuk</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>michael.leuk@adwmainz.de</email>
                 </author>
                 <author ref="#person__verhoeve-uni-mainz-de">
@@ -40,7 +39,7 @@
                         <surname>Verhoeven-van Elsbergen</surname>
                         <forename>Ursula</forename>
                     </persName>
-                    <affiliation ref="#org__70 #org__40">Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__41 #org__36">Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>verhoeve@uni-mainz.de</email>
                 </author>
                 <author ref="#person__rapp-linglit-tu-darmstadt-de">
@@ -48,7 +47,7 @@
                         <surname>Rapp</surname>
                         <forename>Andrea</forename>
                     </persName>
-                    <affiliation ref="#org__15 #org__40">Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__12 #org__36">Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
                     <email>rapp@linglit.tu-darmstadt.de</email>
                 </author>
             </titleStmt>

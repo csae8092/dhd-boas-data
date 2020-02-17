@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Entwicklung und Nutzung interdisziplinärer Repositorien für historische textbasierte Korpora </title><title type="conf_year">2016</title>
-        <author ref="#person__carolin-odebrecht-hu-berlin-de">
+        <title>Entwicklung und Nutzung interdisziplinärer Repositorien für historische textbasierte Korpora </title><title type="conf_year">2016</title><author ref="#person__carolin-odebrecht-hu-berlin-de">
           <name>
             <surname>Odebrecht</surname>
             <forename>Carolin</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
           <email>carolin.odebrecht@hu-berlin.de</email>
         </author>
         <author ref="#person__anke-lueding-hu-berlin-de">
@@ -16,7 +15,7 @@
             <surname>Lüdeling</surname>
             <forename>Anke</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
           <email>anke.lueding@hu-berlin.de</email>
         </author>
         <author ref="#person__malte-dreyer-cms-hu-berlin-de">
@@ -24,7 +23,7 @@
             <surname>Dreyer</surname>
             <forename>Malte</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
           <email>malte.dreyer@cms.hu-berlin.de</email>
         </author>
         <author ref="#person__dennis-zielke-cms-hu-berlin-de">
@@ -32,7 +31,7 @@
             <surname>Zielke</surname>
             <forename>Dennis</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
           <email>dennis.zielke@cms.hu-berlin.de</email>
         </author>
       </titleStmt>

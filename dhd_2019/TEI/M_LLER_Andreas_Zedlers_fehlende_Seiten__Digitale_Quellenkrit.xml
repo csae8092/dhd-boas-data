@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Zedlers fehlende Seiten: Digitale Quellenkritik und Analoge Erkenntnisse</title><title type="conf_year">2019</title>
-                <author ref="#person__andreas-mueller-geschichte-uni-halle-de">
+                <title>Zedlers fehlende Seiten: Digitale Quellenkritik und Analoge Erkenntnisse</title><title type="conf_year">2019</title><author ref="#person__andreas-mueller-geschichte-uni-halle-de">
                     <persName>
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__72">MLU Halle/Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__58">MLU Halle/Wittenberg, Deutschland</affiliation>
                     <email>andreas.mueller@geschichte.uni-halle.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Pattern Mining in Keilschriftzeichnungen</title><title type="conf_year">2016</title>
-        <author ref="#person__bg-bartek-gmail-com">
+        <title>Pattern Mining in Keilschriftzeichnungen</title><title type="conf_year">2016</title><author ref="#person__bg-bartek-gmail-com">
           <name>
             <surname>Bogacz</surname>
             <forename>Bartosz</forename>
           </name>
-          <affiliation ref="#org__21">Universität Heidelberg, Deutschland</affiliation>
+          <affiliation ref="#org__20">Universität Heidelberg, Deutschland</affiliation>
           <email>bg.bartek@gmail.com</email>
         </author>
         <author ref="#person__hubert-mara-iwr-uni-heidelberg-de">
@@ -16,7 +15,7 @@
             <surname>Mara</surname>
             <forename>Hubert</forename>
           </name>
-          <affiliation ref="#org__21">Universität Heidelberg, Deutschland</affiliation>
+          <affiliation ref="#org__20">Universität Heidelberg, Deutschland</affiliation>
           <email>hubert.mara@iwr.uni-heidelberg.de</email>
         </author>
       </titleStmt>

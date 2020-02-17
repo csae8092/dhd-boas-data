@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Latin Text Archive (LTA) – Digitale Historische Semantik von der Projektentwicklung an der Universität zur Institutionalisierung an der Akademie</title><title type="conf_year">2019</title>
-                <author ref="#person__geelhaar-em-uni-frankfurt-de">
+                <title>Das Latin Text Archive (LTA) – Digitale Historische Semantik von der Projektentwicklung an der Universität zur Institutionalisierung an der Akademie</title><title type="conf_year">2019</title><author ref="#person__geelhaar-em-uni-frankfurt-de">
                     <persName>
                         <surname>Geelhaar</surname>
                         <forename>Tim</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt am Main, Deutschland</affiliation>
+                    <affiliation ref="#org__45">Goethe Universität Frankfurt am Main, Deutschland</affiliation>
                     <email>geelhaar@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

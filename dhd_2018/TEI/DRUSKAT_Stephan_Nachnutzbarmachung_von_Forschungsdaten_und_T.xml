@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Nachnutzbarmachung von Forschungsdaten und Tools am Beispiel altäthiopischer Korpora</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__stephan-druskat-hu-berlin-de">
                     <persName>
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
                 <author ref="#person__fsha060-uni-hamburg-de">
@@ -19,7 +18,7 @@
                         <surname>Vertan</surname>
                         <forename>Cristina</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>fsha060@uni-hamburg.de</email>
                 </author>
             </titleStmt>

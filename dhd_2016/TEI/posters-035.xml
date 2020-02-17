@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Little Data on Big Map (Operative Verbildlichung von lokal existierten Daten der linguistischen Feldforschung)</title><title type="conf_year">2016</title>
-        <author ref="#person__pourtskhvanidze-em-uni-frankfurt-de">
+        <title>Little Data on Big Map (Operative Verbildlichung von lokal existierten Daten der linguistischen Feldforschung)</title><title type="conf_year">2016</title><author ref="#person__pourtskhvanidze-em-uni-frankfurt-de">
           <name>
             <surname>Pourtskhvanidze</surname>
             <forename>Zakharia</forename>
           </name>
-          <affiliation ref="#org__9">Goethe-Universität Frankfurt, Deutschland</affiliation>
+          <affiliation ref="#org__46">Goethe-Universität Frankfurt, Deutschland</affiliation>
           <email>pourtskhvanidze@em.uni-frankfurt.de</email>
         </author>
       </titleStmt>

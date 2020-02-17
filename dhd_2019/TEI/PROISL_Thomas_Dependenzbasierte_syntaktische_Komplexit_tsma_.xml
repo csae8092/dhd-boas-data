@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Dependenzbasierte syntaktische Komplexitätsmaße</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__thomas-proisl-fau-de">
                     <persName>
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
                 <author ref="#person__leonard-konle-uni-wuerzburg-de">
@@ -19,7 +18,7 @@
                         <surname>Konle</surname>
                         <forename>Leonard</forename>
                     </persName>
-                    <affiliation ref="#org__36">Julius-Maximilians-Universität Würzburg</affiliation>
+                    <affiliation ref="#org__70">Julius-Maximilians-Universität Würzburg</affiliation>
                     <email>leonard.konle@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__stefan-evert-fau-de">
@@ -27,7 +26,7 @@
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>stefan.evert@fau.de</email>
                 </author>
                 <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
@@ -35,7 +34,7 @@
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation ref="#org__36">Julius-Maximilians-Universität Würzburg</affiliation>
+                    <affiliation ref="#org__70">Julius-Maximilians-Universität Würzburg</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

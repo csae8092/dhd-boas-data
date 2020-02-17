@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Vom Bild zum Text und wieder zurück</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__simon-donig-uni-passau-de">
                     <persName>
                         <surname>Donig</surname>
                         <forename>Simon</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>simon.donig@uni-passau.de</email>
                 </author>
                 <author ref="#person__maria-christoforaki-uni-passau-de">
@@ -19,7 +18,7 @@
                         <surname>Christoforaki</surname>
                         <forename>Maria</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>maria.christoforaki@uni-passau.de</email>
                 </author>
                 <author ref="#person__bernhard-bermeitinger-uni-passau-de">
@@ -27,7 +26,7 @@
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>bernhard.bermeitinger@uni-passau.de</email>
                 </author>
                 <author ref="#person__siegfried-handschuh-unisg-ch">
@@ -35,7 +34,7 @@
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
                     </persName>
-                    <affiliation ref="#org__381">Universität St. Gallen, Schweiz</affiliation>
+                    <affiliation ref="#org__103">Universität St. Gallen, Schweiz</affiliation>
                     <email>siegfried.handschuh@unisg.ch</email>
                 </author>
             </titleStmt>

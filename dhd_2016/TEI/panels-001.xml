@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Rolle des Zeigens</title><title type="conf_year">2016</title>
-        <author ref="#person__kepper-edirom-de">
+        <title>Die Rolle des Zeigens</title><title type="conf_year">2016</title><author ref="#person__kepper-edirom-de">
           <name>
             <surname>Kepper</surname>
             <forename>Johannes</forename>
           </name>
-          <affiliation ref="#org__289">Musikwissenschaftliches Seminar Detmold / Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__239">Musikwissenschaftliches Seminar Detmold / Paderborn, Deutschland</affiliation>
           <email>kepper@edirom.de</email>
         </author>
       </titleStmt>

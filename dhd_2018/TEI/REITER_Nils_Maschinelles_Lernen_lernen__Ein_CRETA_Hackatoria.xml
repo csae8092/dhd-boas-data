@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title><title type="conf_year">2018</title>
-                <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
+                <title>Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse</title><title type="conf_year">2018</title><author ref="#person__nils-reiter-ims-uni-stuttgart-de">
                     <persName>
                         <surname>Reiter</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__17">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>nils.reiter@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__nora-ketschik-ilw-uni-stuttgart-de">
@@ -16,7 +15,7 @@
                         <surname>Ketschik</surname>
                         <forename>Nora</forename>
                     </persName>
-                    <affiliation ref="#org__31">Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__30">Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland</affiliation>
                     <email>nora.ketschik@ilw.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__gerhard-kremer-ims-uni-stuttgart-de">
@@ -24,7 +23,7 @@
                         <surname>Kremer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__17">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>gerhard.kremer@ims.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__sarah-schulz-ims-uni-stuttgart-de">
@@ -32,7 +31,7 @@
                         <surname>Schulz</surname>
                         <forename>Sarah</forename>
                     </persName>
-                    <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__17">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
                     <email>sarah.schulz@ims.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

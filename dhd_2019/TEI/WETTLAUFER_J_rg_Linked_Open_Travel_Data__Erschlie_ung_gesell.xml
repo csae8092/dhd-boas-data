@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Linked Open Travel Data: Erschließung gesellschaftspolitischer Veränderungen im Osmanischen Reich im 19. Jahrh. durch ein multimediales Online-Portal</title><title type="conf_year">2019</title>
-                <author ref="#person__jwettla-gwdg-de">
+                <title>Linked Open Travel Data: Erschließung gesellschaftspolitischer Veränderungen im Osmanischen Reich im 19. Jahrh. durch ein multimediales Online-Portal</title><title type="conf_year">2019</title><author ref="#person__jwettla-gwdg-de">
                     <persName>
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>jwettla@gwdg.de</email>
                 </author>
                 <author ref="#person__dkilinc-uni-goettingen-de">
@@ -16,7 +15,7 @@
                         <surname>Kilincoglu</surname>
                         <forename>Deniz</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>dkilinc@uni-goettingen.de</email>
                 </author>
             </titleStmt>

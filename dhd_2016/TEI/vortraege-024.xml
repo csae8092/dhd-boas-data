@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Zu virtuellen Forschungsumgebun-gen, einer genuin digitalen Hermeneutik sowie deren Visualisierung</title><title type="conf_year">2016</title>
-        <author ref="#person__leif-scheuermann-uni-graz-at">
+        <title>Zu virtuellen Forschungsumgebun-gen, einer genuin digitalen Hermeneutik sowie deren Visualisierung</title><title type="conf_year">2016</title><author ref="#person__leif-scheuermann-uni-graz-at">
           <name>
             <surname>Scheuermann</surname>
             <forename>Leif</forename>
           </name>
-          <affiliation ref="#org__12">Karl-Franzens Universität Graz, Österreich</affiliation>
+          <affiliation ref="#org__259">Karl-Franzens Universität Graz, Österreich</affiliation>
           <email>Leif.scheuermann@uni-graz.at</email>
         </author>
       </titleStmt>

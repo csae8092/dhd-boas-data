@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kollaboratives Schreiben gestern, heute und morgen: Nutzen und Grenzen eines Visualisierungs- und Analysemodels aus der digitalen Literaturforschung</title><title type="conf_year">2016</title>
-        <author ref="#person__heiko-zimmermann-uni-trier-de">
+        <title>Kollaboratives Schreiben gestern, heute und morgen: Nutzen und Grenzen eines Visualisierungs- und Analysemodels aus der digitalen Literaturforschung</title><title type="conf_year">2016</title><author ref="#person__heiko-zimmermann-uni-trier-de">
           <name>
             <surname>Zimmermann</surname>
             <forename>Heiko</forename>
           </name>
-          <affiliation ref="#org__59">Universität Trier, Deutschland</affiliation>
+          <affiliation ref="#org__25">Universität Trier, Deutschland</affiliation>
           <email>heiko.zimmermann@uni-trier.de</email>
         </author>
       </titleStmt>

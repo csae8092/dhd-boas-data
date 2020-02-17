@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>histoGraph: Graphbasierte Exploration und Crowdbasierte Indexierung </title><title type="conf_year">2016</title>
-        <author ref="#person__lars-wieneke-cvce-eu">
+        <title>histoGraph: Graphbasierte Exploration und Crowdbasierte Indexierung </title><title type="conf_year">2016</title><author ref="#person__lars-wieneke-cvce-eu">
           <name>
             <surname>Wieneke</surname>
             <forename>Lars</forename>
           </name>
-          <affiliation ref="#org__325">CVCE Luxembourg, Luxemburg</affiliation>
+          <affiliation ref="#org__369">CVCE Luxembourg, Luxemburg</affiliation>
           <email>lars.wieneke@cvce.eu</email>
         </author>
         <author ref="#person__marten-duering-cvce-eu">
@@ -16,7 +15,7 @@
             <surname>Düring</surname>
             <forename>Marten</forename>
           </name>
-          <affiliation ref="#org__325">CVCE Luxembourg, Luxemburg</affiliation>
+          <affiliation ref="#org__369">CVCE Luxembourg, Luxemburg</affiliation>
           <email>marten.duering@cvce.eu</email>
         </author>
         <author ref="#person__daniele-guido-cvce-eu">
@@ -24,7 +23,7 @@
             <surname>Guido</surname>
             <forename>Daniele</forename>
           </name>
-          <affiliation ref="#org__325">CVCE Luxembourg, Luxemburg</affiliation>
+          <affiliation ref="#org__369">CVCE Luxembourg, Luxemburg</affiliation>
           <email>daniele.guido@cvce.eu</email>
         </author>
       </titleStmt>

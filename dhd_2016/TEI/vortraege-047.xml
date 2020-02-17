@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>A Visual Approach to the History of Swiss Federal Law</title><title type="conf_year">2016</title>
-        <author ref="#person__andre-ourednik-bar-admin-ch">
+        <title>A Visual Approach to the History of Swiss Federal Law</title><title type="conf_year">2016</title><author ref="#person__andre-ourednik-bar-admin-ch">
           <name>
             <surname>Ourednik</surname>
             <forename>André</forename>
           </name>
-          <affiliation ref="#org__337">Schweizer Bundesarchiv</affiliation>
+          <affiliation ref="#org__270">Schweizer Bundesarchiv</affiliation>
           <email>Andre.Ourednik@bar.admin.ch</email>
         </author>
         <author ref="#person__stefan-nellen-bar-admin-ch">
@@ -16,7 +15,7 @@
             <surname>Nellen</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__337">Schweizer Bundesarchiv</affiliation>
+          <affiliation ref="#org__270">Schweizer Bundesarchiv</affiliation>
           <email>Stefan.Nellen@bar.admin.ch</email>
         </author>
         <author ref="#person__peter-fleer-bar-admin-ch">
@@ -24,7 +23,7 @@
             <surname>Fleer</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__337">Schweizer Bundesarchiv</affiliation>
+          <affiliation ref="#org__270">Schweizer Bundesarchiv</affiliation>
           <email>Peter.Fleer@bar.admin.ch</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wissenschaftliche Rezeption digitaler 3D-Rekonstruktionen von historischer Architektur</title><title type="conf_year">2019</title>
-                <author ref="#person__heike-messemer-uni-wuerzburg-de">
+                <title>Wissenschaftliche Rezeption digitaler 3D-Rekonstruktionen von historischer Architektur</title><title type="conf_year">2019</title><author ref="#person__heike-messemer-uni-wuerzburg-de">
                     <persName>
                         <surname>Messemer</surname>
                         <forename>Heike</forename>
                     </persName>
-                    <affiliation ref="#org__36">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__70">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>heike.messemer@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

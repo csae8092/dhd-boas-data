@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title><title type="conf_year">2019</title>
-                <author ref="#person__nina-seemann-upb-de">
+                <title>UPB-Annotate: Ein maßgeschneidertes Toolkit für historische Texte</title><title type="conf_year">2019</title><author ref="#person__nina-seemann-upb-de">
                     <persName>
                         <surname>Seemann</surname>
                         <forename>Nina</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>nina.seemann@upb.de</email>
                 </author>
                 <author ref="#person__mlmerten-mail-upb-de">
@@ -16,7 +15,7 @@
                         <surname>Merten</surname>
                         <forename>Marie-Luis</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>mlmerten@mail.upb.de</email>
                 </author>
             </titleStmt>

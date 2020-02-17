@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kritik der Digitalität (am Beispiel der digitalen Textwissenschaft)</title><title type="conf_year">2018</title>
-                <author ref="#person__juan-garces-slub-dresden-de">
+                <title>Kritik der Digitalität (am Beispiel der digitalen Textwissenschaft)</title><title type="conf_year">2018</title><author ref="#person__juan-garces-slub-dresden-de">
                     <persName>
                         <surname>Garcés</surname>
                         <forename>Juan</forename>
                     </persName>
-                    <affiliation ref="#org__24">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</affiliation>
+                    <affiliation ref="#org__43">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland</affiliation>
                     <email>juan.garces@slub-dresden.de</email>
                 </author>
                 <author ref="#person__johannes-braeuer-tu-dresden-de">
@@ -16,7 +15,7 @@
                         <surname>Bräuer</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__163">Technische Universität Dresden, Institut für Philosophie</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dresden, Institut für Philosophie</affiliation>
                     <email>johannes.braeuer@tu-dresden.de</email>
                 </author>
             </titleStmt>

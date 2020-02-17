@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wandel in der Wissenschaftskommunikation? Ergebnisse der Umfrage bei den Bloggenden von de.hypotheses.org</title><title type="conf_year">2019</title>
-                <author ref="#person__mkoenig-dhi-paris-fr">
+                <title>Wandel in der Wissenschaftskommunikation? Ergebnisse der Umfrage bei den Bloggenden von de.hypotheses.org</title><title type="conf_year">2019</title><author ref="#person__mkoenig-dhi-paris-fr">
                     <persName>
                         <surname>König</surname>
                         <forename>Mareike</forename>
                     </persName>
-                    <affiliation ref="#org__328">Deutsches Historisches Institut Paris, Frankreich</affiliation>
+                    <affiliation ref="#org__97">Deutsches Historisches Institut Paris, Frankreich</affiliation>
                     <email>mkoenig@dhi-paris.fr</email>
                 </author>
             </titleStmt>

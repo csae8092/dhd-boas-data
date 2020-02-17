@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Eine Fallstudie zur Annotation von Vagheit in Werken Dimitrie Cantemirs</title><title type="conf_year">2018</title>
-                <author ref="#person__cristina-vertan-uni-hamburg-de">
+                <title>Eine Fallstudie zur Annotation von Vagheit in Werken Dimitrie Cantemirs</title><title type="conf_year">2018</title><author ref="#person__cristina-vertan-uni-hamburg-de">
                     <persName>
                         <surname>Vertan</surname>
                         <forename>Cristina</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>cristina.vertan@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__vhahn-informatik-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>von Hahn</surname>
                         <forename>Walther</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>vhahn@informatik.uni-hamburg.de</email>
                 </author>
             </titleStmt>

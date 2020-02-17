@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Computergestützte Film- und Videoanalyse</title><title type="conf_year">2018</title>
-                <author ref="#person__manuel-burghardt-ur-de">
+                <title>Computergestützte Film- und Videoanalyse</title><title type="conf_year">2018</title><author ref="#person__manuel-burghardt-ur-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation ref="#org__18">Universität Regensburg</affiliation>
+                    <affiliation ref="#org__11">Universität Regensburg</affiliation>
                     <email>manuel.burghardt@ur.de</email>
                 </author>
                 <author ref="#person__adelheidh-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>Heftberger</surname>
                         <forename>Adelheid</forename>
                     </persName>
-                    <affiliation ref="#org__93">Brandenburgisches Zentrum für Medienwissenschaften, Potsdam</affiliation>
+                    <affiliation ref="#org__396">Brandenburgisches Zentrum für Medienwissenschaften, Potsdam</affiliation>
                     <email>adelheidh@gmail.com</email>
                 </author>
                 <author ref="#person__clmb-inf-fu-berlin-de">
@@ -24,7 +23,7 @@
                         <surname>Müller-Birn</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation ref="#org__37">Freie Universität Berlin</affiliation>
+                    <affiliation ref="#org__7">Freie Universität Berlin</affiliation>
                     <email>clmb@inf.fu-berlin.de</email>
                 </author>
                 <author ref="#person__johannes-pause-hotmail-de">
@@ -32,7 +31,7 @@
                         <surname>Pause</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__94">Universität Luxemburg</affiliation>
+                    <affiliation ref="#org__177">Universität Luxemburg</affiliation>
                     <email>johannes.pause@hotmail.de</email>
                 </author>
                 <author ref="#person__walkowski-nowalkowski-de">
@@ -40,7 +39,7 @@
                         <surname>Walkowski</surname>
                         <forename>Niels-Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>walkowski@nowalkowski.de</email>
                 </author>
                 <author ref="#person__matthias-zeppelzauer-fhstp-ac-at">
@@ -48,7 +47,7 @@
                         <surname>Zeppelzauer</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__95">Fachhochschule St. Pölten</affiliation>
+                    <affiliation ref="#org__398">Fachhochschule St. Pölten</affiliation>
                     <email>Matthias.Zeppelzauer@fhstp.ac.at</email>
                 </author>
             </titleStmt>

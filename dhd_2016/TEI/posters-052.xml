@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Visualisierung mittelalterlicher Handschriften im Projekt eCodicology</title><title type="conf_year">2016</title>
-        <author ref="#person__buschh-uni-trier-de">
+        <title>Visualisierung mittelalterlicher Handschriften im Projekt eCodicology</title><title type="conf_year">2016</title><author ref="#person__buschh-uni-trier-de">
           <name>
             <surname>Busch</surname>
             <forename>Hannah</forename>
           </name>
-          <affiliation ref="#org__59">Universität Trier, Deutschland</affiliation>
+          <affiliation ref="#org__25">Universität Trier, Deutschland</affiliation>
           <email>buschh@uni-trier.de</email>
         </author>
         <author ref="#person__swati-chandna-kit-edu">
@@ -16,7 +15,7 @@
             <surname>Chandna</surname>
             <forename>Swati</forename>
           </name>
-          <affiliation ref="#org__301">Karlsruher Institut für Technologie, Deutschland</affiliation>
+          <affiliation ref="#org__62">Karlsruher Institut für Technologie, Deutschland</affiliation>
           <email>swati.chandna@kit.edu</email>
         </author>
         <author ref="#person__danah-tonne-kit-edu">
@@ -24,7 +23,7 @@
             <surname>Tonne</surname>
             <forename>Danah</forename>
           </name>
-          <affiliation ref="#org__301">Karlsruher Institut für Technologie, Deutschland</affiliation>
+          <affiliation ref="#org__62">Karlsruher Institut für Technologie, Deutschland</affiliation>
           <email>danah.tonne@kit.edu</email>
         </author>
         <author ref="#person__krause-linglit-tu-darmstadt-de">
@@ -32,7 +31,7 @@
             <surname>Celia</surname>
             <forename>Krause</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>krause@linglit.tu-darmstadt.de</email>
         </author>
         <author ref="#person__hegel-linglit-tu-darmstadt-de">
@@ -40,7 +39,7 @@
             <surname>Philipp</surname>
             <forename>Vanscheidt</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>hegel@linglit.tu-darmstadt.de</email>
         </author>
         <author ref="#person__oschmid-linglit-tu-darmstadt-de">
@@ -48,7 +47,7 @@
             <surname>Schmid</surname>
             <forename>Oliver</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>oschmid@linglit.tu-darmstadt.de</email>
         </author>
       </titleStmt>

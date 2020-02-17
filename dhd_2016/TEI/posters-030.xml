@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Datenressourcen der Arbeitsstelle des Deutschen Wörterbuchs (Neubearbeitung)</title><title type="conf_year">2016</title>
-        <author ref="#person__nmedera-gwdg-de">
+        <title>Datenressourcen der Arbeitsstelle des Deutschen Wörterbuchs (Neubearbeitung)</title><title type="conf_year">2016</title><author ref="#person__nmedera-gwdg-de">
           <name>
             <surname>Mederake</surname>
             <forename>Nathalie</forename>
           </name>
-          <affiliation ref="#org__207">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__200">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
           <email>nmedera@gwdg.de</email>
         </author>
         <author ref="#person__wiebke-blanck-gmx-net">
@@ -16,7 +15,7 @@
             <surname>Blanck</surname>
             <forename>Wiebke</forename>
           </name>
-          <affiliation ref="#org__207">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__200">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
           <email>Wiebke.Blanck@gmx.net</email>
         </author>
       </titleStmt>

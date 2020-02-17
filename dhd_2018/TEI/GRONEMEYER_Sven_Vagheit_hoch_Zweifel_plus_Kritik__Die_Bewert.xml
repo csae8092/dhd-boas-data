@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vagheit hoch Zweifel plus Kritik! Die Bewertung von Widersprüchen in einer digitalen Entzifferungsarbeit der Maya-Hieroglyphen</title><title type="conf_year">2018</title>
-                <author ref="#person__sgronemeyer-uni-bonn-de">
+                <title>Vagheit hoch Zweifel plus Kritik! Die Bewertung von Widersprüchen in einer digitalen Entzifferungsarbeit der Maya-Hieroglyphen</title><title type="conf_year">2018</title><author ref="#person__sgronemeyer-uni-bonn-de">
                     <persName>
                         <surname>Gronemeyer</surname>
                         <forename>Sven</forename>
                     </persName>
-                    <affiliation ref="#org__69 #org__177">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University Melbourne, Australien</affiliation>
+                    <affiliation ref="#org__498 #org__499">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University Melbourne, Australien</affiliation>
                     <email>sgronemeyer@uni-bonn.de</email>
                 </author>
                 <author ref="#person__diehr-sub-uni-goettingen-de">
@@ -16,7 +15,7 @@
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>diehr@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__cprager-uni-bonn-de">
@@ -24,7 +23,7 @@
                         <surname>Prager</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__498">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
                 <author ref="#person__katja-diederichs-uni-bonn-de">
@@ -32,7 +31,7 @@
                         <surname>Diederichs</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__498">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>katja.diederichs@uni-bonn.de</email>
                 </author>
                 <author ref="#person__ewagner-uni-bonn-de">
@@ -40,7 +39,7 @@
                         <surname>Wagner</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__498">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>ewagner@uni-bonn.de</email>
                 </author>
                 <author ref="#person__brodhun-sub-uni-goettingen-de">
@@ -48,7 +47,7 @@
                         <surname>Brodhun</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
                     <email>brodhun@sub.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__ngrube-uni-bonn-de">
@@ -56,7 +55,7 @@
                         <surname>Grube</surname>
                         <forename>Nikolai</forename>
                     </persName>
-                    <affiliation ref="#org__69">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+                    <affiliation ref="#org__498">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
                     <email>ngrube@uni-bonn.de</email>
                 </author>
             </titleStmt>

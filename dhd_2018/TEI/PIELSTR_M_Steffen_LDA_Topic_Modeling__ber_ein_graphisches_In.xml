@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">LDA Topic Modeling über ein graphisches Interface</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__severin-simmler-stud-mail-uni-wuerzburg-de">
                     <persName>
                         <surname>Simmler</surname>
                         <forename>Severin</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>severin.simmler@stud-mail.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__thorsten-vitt-uni-wuerzburg-de">
@@ -19,7 +18,7 @@
                         <surname>Vitt</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>thorsten.vitt@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__pielstroem-biozentrum-uni-wuerzburg-de">
@@ -27,7 +26,7 @@
                         <surname>Pielström</surname>
                         <forename>Steffen</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>pielstroem@biozentrum.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

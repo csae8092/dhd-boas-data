@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> Small Data: Wissensproduktion und -vermittlung bei digitalen Visualisierungen in der Kunstgeschichte </title><title type="conf_year">2016</title>
-        <author ref="#person__susanne-neubauer-fu-berlin-de">
+        <title> Small Data: Wissensproduktion und -vermittlung bei digitalen Visualisierungen in der Kunstgeschichte </title><title type="conf_year">2016</title><author ref="#person__susanne-neubauer-fu-berlin-de">
           <name>
             <surname>Neubauer</surname>
             <forename>Susanne</forename>
           </name>
-          <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
           <email>susanne.neubauer@fu-berlin.de</email>
         </author>
       </titleStmt>

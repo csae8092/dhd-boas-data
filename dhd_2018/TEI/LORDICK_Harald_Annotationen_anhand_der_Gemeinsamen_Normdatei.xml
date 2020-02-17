@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Annotationen anhand der Gemeinsamen Normdatei aus einer anwendungsorientierten Perspektive historischer Forschung</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__lor-steinheim-institut-org">
                     <persName>
                         <surname>Lordick</surname>
                         <forename>Harald</forename>
                     </persName>
-                    <affiliation ref="#org__181">Steinheim-Institut, Deutschland</affiliation>
+                    <affiliation ref="#org__81">Steinheim-Institut, Deutschland</affiliation>
                     <email>lor@steinheim-institut.org</email>
                 </author>
                 <author ref="#person__mac-steinheim-institut-org">
@@ -19,7 +18,7 @@
                         <surname>Mache</surname>
                         <forename>Beata</forename>
                     </persName>
-                    <affiliation ref="#org__182">SUB Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__228">SUB Göttingen, Deutschland</affiliation>
                     <email>mac@steinheim-institut.org</email>
                 </author>
             </titleStmt>

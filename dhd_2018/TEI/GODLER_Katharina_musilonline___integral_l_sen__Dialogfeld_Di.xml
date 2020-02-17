@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>musilonline - integral lösen. Dialogfeld Digitale Edition</title><title type="conf_year">2018</title>
-                <author ref="#person__anke-bosse-aau-at">
+                <title>musilonline - integral lösen. Dialogfeld Digitale Edition</title><title type="conf_year">2018</title><author ref="#person__anke-bosse-aau-at">
                     <persName>
                         <surname>Bosse</surname>
                         <forename>Anke</forename>
                     </persName>
-                    <affiliation ref="#org__81">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__392">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>anke.bosse@aau.at</email>
                 </author>
                 <author ref="#person__walter-fanta-aau-at">
@@ -16,7 +15,7 @@
                         <surname>Fanta</surname>
                         <forename>Walter</forename>
                     </persName>
-                    <affiliation ref="#org__81">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__392">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>walter.fanta@aau.at</email>
                 </author>
                 <author ref="#person__katharina-godler-aau-at">
@@ -24,7 +23,7 @@
                         <surname>Godler</surname>
                         <forename>Katharina</forename>
                     </persName>
-                    <affiliation ref="#org__81">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__392">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
                     <email>katharina.godler@aau.at</email>
                 </author>
                 <author ref="#person__bruening-em-uni-frankfurt-de">
@@ -32,7 +31,7 @@
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe-Universität Frankfurt / Freies Deutsches Hochstift</affiliation>
+                    <affiliation ref="#org__46">Goethe-Universität Frankfurt / Freies Deutsches Hochstift</affiliation>
                     <email>Bruening@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__artur-boelderl-aau-at">
@@ -40,7 +39,7 @@
                         <surname>Boelderl</surname>
                         <forename>Artur</forename>
                     </persName>
-                    <affiliation ref="#org__84">Institut für Germanistik, AAU Klagenfurt</affiliation>
+                    <affiliation ref="#org__395">Institut für Germanistik, AAU Klagenfurt</affiliation>
                     <email>artur.boelderl@aau.at</email>
                 </author>
             </titleStmt>

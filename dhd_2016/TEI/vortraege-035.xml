@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Operationalisierung von Forschungsfragen in CLARIN-D - Der Anwendungsfall Ernst Jünger</title><title type="conf_year">2016</title>
-        <author ref="#person__dgoldhahn-informatik-uni-leipzig-de">
+        <title>Operationalisierung von Forschungsfragen in CLARIN-D - Der Anwendungsfall Ernst Jünger</title><title type="conf_year">2016</title><author ref="#person__dgoldhahn-informatik-uni-leipzig-de">
           <name>
             <surname>Goldhahn</surname>
             <forename>Dirk</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>dgoldhahn@informatik.uni-leipzig.de</email>
         </author>
         <author ref="#person__teckart-informatik-uni-leipzig-de">
@@ -16,7 +15,7 @@
             <surname>Eckart</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>teckart@informatik.uni-leipzig.de</email>
         </author>
         <author ref="#person__heyer-informatik-uni-leipzig-de">
@@ -24,7 +23,7 @@
             <surname>Heyer</surname>
             <forename>Gerhard</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>heyer@informatik.uni-leipzig.de</email>
         </author>
       </titleStmt>

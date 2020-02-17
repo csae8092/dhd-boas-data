@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Museum Analytics: Ein Online-Tool zur vergleichenden Analyse musealer Datenbestände</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__stefanie-schneider-itg-uni-muenchen-de">
                     <persName>
                         <surname>Schneider</surname>
                         <forename>Stefanie</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>stefanie.schneider@itg.uni-muenchen.de</email>
                 </author>
                 <author ref="#person__hubertus-kohle-lmu-de">
@@ -19,7 +18,7 @@
                         <surname>Kohle</surname>
                         <forename>Hubertus</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>hubertus.kohle@lmu.de</email>
                 </author>
                 <author ref="#person__severin-jo-burg-gmail-com">
@@ -27,7 +26,7 @@
                         <surname>Burg</surname>
                         <forename>Severin</forename>
                     </persName>
-                    <affiliation ref="#org__413">Università di Bologna, Italien</affiliation>
+                    <affiliation ref="#org__138">Università di Bologna, Italien</affiliation>
                     <email>severin.jo.burg@gmail.com</email>
                 </author>
                 <author ref="#person__kuechenhoff-stat-uni-muenchen-de">
@@ -35,7 +34,7 @@
                         <surname>Küchenhoff</surname>
                         <forename>Helmut</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>kuechenhoff@stat.uni-muenchen.de</email>
                 </author>
             </titleStmt>

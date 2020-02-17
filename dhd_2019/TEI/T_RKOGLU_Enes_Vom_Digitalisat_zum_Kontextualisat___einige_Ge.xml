@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vom Digitalisat zum Kontextualisat – einige Gedanken zu digitalen Objekten</title><title type="conf_year">2019</title>
-                <author ref="#person__enes-tuerkoglu-uni-koeln-de">
+                <title>Vom Digitalisat zum Kontextualisat – einige Gedanken zu digitalen Objekten</title><title type="conf_year">2019</title><author ref="#person__enes-tuerkoglu-uni-koeln-de">
                     <persName>
                         <surname>Türkoglu</surname>
                         <forename>Enes</forename>
                     </persName>
-                    <affiliation ref="#org__2">Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der Universität zu Köln</affiliation>
+                    <affiliation ref="#org__199">Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der Universität zu Köln</affiliation>
                     <email>enes.tuerkoglu@uni-koeln.de</email>
                 </author>
             </titleStmt>

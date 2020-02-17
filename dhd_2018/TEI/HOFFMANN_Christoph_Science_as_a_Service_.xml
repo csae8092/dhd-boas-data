@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Science as a Service?</title>
-                    <title type="sub"> Chancen und Limits von serviceorientierten Softwarearchitekturen für die Digital Humanities</title><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"> Chancen und Limits von serviceorientierten Softwarearchitekturen für die Digital Humanities</title><title type="conf_year">2018</title></title>
                 <author ref="#person__christoph-hoffmann-oeaw-ac-at">
                     <persName>
                         <surname>Hoffmann</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>christoph.hoffmann@oeaw.ac.at</email>
                 </author>
             </titleStmt>

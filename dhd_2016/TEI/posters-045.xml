@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Briding the GAP: 100 Jahre Dialektlexikographie als Cloud Service. Der SADE Use Case im DARIAH Competence Centre</title><title type="conf_year">2016</title>
-        <author ref="#person__eveline-wandl-vogt-oeaw-ac-at">
+        <title>Briding the GAP: 100 Jahre Dialektlexikographie als Cloud Service. Der SADE Use Case im DARIAH Competence Centre</title><title type="conf_year">2016</title><author ref="#person__eveline-wandl-vogt-oeaw-ac-at">
           <name>
             <surname>Wandl-Vogt</surname>
             <forename>Eveline</forename>
           </name>
-          <affiliation ref="#org__295">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT</affiliation>
+          <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT</affiliation>
           <email>eveline.wandl-vogt@oeaw.ac.at</email>
         </author>
         <author ref="#person__roberto-barbera-ct-infn-it">
@@ -16,7 +15,7 @@
             <surname>Barbera</surname>
             <forename>Roberto</forename>
           </name>
-          <affiliation ref="#org__374">Institutio Nationale de Fisica Nucleare; IT</affiliation>
+          <affiliation ref="#org__262">Institutio Nationale de Fisica Nucleare; IT</affiliation>
           <email>roberto.barbera@ct.infn.it</email>
         </author>
         <author ref="#person__guiseppe-larocca-ct-infn-it">
@@ -24,7 +23,7 @@
             <surname>La Rocca</surname>
             <forename>Guiseppe</forename>
           </name>
-          <affiliation ref="#org__374">Institutio Nationale de Fisica Nucleare; IT</affiliation>
+          <affiliation ref="#org__262">Institutio Nationale de Fisica Nucleare; IT</affiliation>
           <email>guiseppe.larocca@ct.infn.it</email>
         </author>
         <author ref="#person__antonio-calanducci-ct-infn-it">
@@ -32,7 +31,7 @@
             <surname>Calanducci</surname>
             <forename>Antonio</forename>
           </name>
-          <affiliation ref="#org__374">Institutio Nationale de Fisica Nucleare; IT</affiliation>
+          <affiliation ref="#org__262">Institutio Nationale de Fisica Nucleare; IT</affiliation>
           <email>antonio.calanducci@ct.infn.it</email>
         </author>
         <author ref="#person__tkalman-gwdg-de">
@@ -40,7 +39,7 @@
             <surname>Kalman</surname>
             <forename>Tibor</forename>
           </name>
-          <affiliation ref="#org__377">Gesellschaft für wissenschaftliche Datenverarbeitung mgH Göttingen; DE</affiliation>
+          <affiliation ref="#org__265">Gesellschaft für wissenschaftliche Datenverarbeitung mgH Göttingen; DE</affiliation>
           <email>tkalman@gwdg.de</email>
         </author>
       </titleStmt>

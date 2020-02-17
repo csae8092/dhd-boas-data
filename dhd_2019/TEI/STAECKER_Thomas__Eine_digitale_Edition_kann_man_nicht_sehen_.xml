@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>“Eine digitale Edition kann man nicht sehen” - Gedanken zu Struktur und Persistenz digitaler Editionen</title><title type="conf_year">2019</title>
-                <author ref="#person__thomas-staecker-ulb-tu-darmstadt-de">
+                <title>“Eine digitale Edition kann man nicht sehen” - Gedanken zu Struktur und Persistenz digitaler Editionen</title><title type="conf_year">2019</title><author ref="#person__thomas-staecker-ulb-tu-darmstadt-de">
                     <persName>
                         <surname>Staecker</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__404">ULB Darmstadt, Deutschland</affiliation>
+                    <affiliation ref="#org__170">ULB Darmstadt, Deutschland</affiliation>
                     <email>thomas.staecker@ulb.tu-darmstadt.de</email>
                 </author>
             </titleStmt>

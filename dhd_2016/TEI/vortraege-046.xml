@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sprache als Netz: Diagnostik durch Visualisierung</title><title type="conf_year">2016</title>
-        <author ref="#person__meindl-em-uni-frankfurt-de">
+        <title>Sprache als Netz: Diagnostik durch Visualisierung</title><title type="conf_year">2016</title><author ref="#person__meindl-em-uni-frankfurt-de">
           <name>
             <surname>Meindl</surname>
             <forename>Claudia</forename>
           </name>
-          <affiliation ref="#org__9">Goethe-Universität Frankfurt am Main, Deutschland</affiliation>
+          <affiliation ref="#org__45">Goethe-Universität Frankfurt am Main, Deutschland</affiliation>
           <email>Meindl@em.uni-frankfurt.de</email>
         </author>
         <author ref="#person__rausch-rz-uni-frankfurt-de">
@@ -16,7 +15,7 @@
             <surname>Rausch</surname>
             <forename>Alexandre</forename>
           </name>
-          <affiliation ref="#org__9">Goethe-Universität Frankfurt am Main, Deutschland</affiliation>
+          <affiliation ref="#org__45">Goethe-Universität Frankfurt am Main, Deutschland</affiliation>
           <email>Rausch@rz.uni-frankfurt.de</email>
         </author>
       </titleStmt>

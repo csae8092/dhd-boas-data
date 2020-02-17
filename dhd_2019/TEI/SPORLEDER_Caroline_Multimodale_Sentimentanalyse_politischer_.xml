@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Multimodale Sentimentanalyse politischer Tweets</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__stefan-ziehe-stud-uni-goettingen-de">
                     <persName>
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>stefan.ziehe@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__csporled-gwdg-de">
@@ -19,7 +18,7 @@
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
-                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>csporled@gwdg.de</email>
                 </author>
             </titleStmt>

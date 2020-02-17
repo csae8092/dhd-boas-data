@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Netzwerkanalysen als Methode in der historischen Epistemologie</title><title type="conf_year">2016</title>
-        <author ref="#person__dwinter-mpiwg-berlin-mpg-de">
+        <title>Netzwerkanalysen als Methode in der historischen Epistemologie</title><title type="conf_year">2016</title><author ref="#person__dwinter-mpiwg-berlin-mpg-de">
           <name>
             <surname>Wintergrün</surname>
             <forename>Dirk</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
           <email>dwinter@mpiwg-berlin.mpg.de</email>
         </author>
         <author ref="#person__valleriani-mpiwg-berlin-mpg-de">
@@ -16,7 +15,7 @@
             <surname>Valleriani</surname>
             <forename>Matteo</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
           <email>valleriani@mpiwg-berlin.mpg.de</email>
         </author>
         <author ref="#person__rlalli-mpiwg-berlin-mpg-de">
@@ -24,7 +23,7 @@
             <surname>Lalli</surname>
             <forename>Roberto</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
           <email>rlalli@mpiwg-berlin.mpg.de</email>
         </author>
       </titleStmt>

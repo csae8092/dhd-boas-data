@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Booksprint-Projekt: Lehrbuch „Forschungsdaten-management“</title><title type="conf_year">2016</title>
-        <author ref="#person__st-buettner-fh-potsdam-de">
+        <title>Booksprint-Projekt: Lehrbuch „Forschungsdaten-management“</title><title type="conf_year">2016</title><author ref="#person__st-buettner-fh-potsdam-de">
           <name>
             <surname>Büttner</surname>
             <forename>Stephan</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>st.buettner@fh-potsdam.de</email>
         </author>
         <author ref="#person__martin-heger-fh-potsdam-de">
@@ -16,7 +15,7 @@
             <surname>Heger</surname>
             <forename>Martin</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>martin.heger@fh-potsdam.de</email>
         </author>
         <author ref="#person__marcus-heinrich-fh-potsdam-de">
@@ -24,7 +23,7 @@
             <surname>Heinrich</surname>
             <forename>Marcus</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>marcus.heinrich@fh-potsdam.de</email>
         </author>
         <author ref="#person__carolin-keller-fh-potsdam-de">
@@ -32,7 +31,7 @@
             <surname>Keller</surname>
             <forename>Carolin</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>carolin.keller@fh-potsdam.de</email>
         </author>
         <author ref="#person__anna-lehmann-fh-potsdam-de">
@@ -40,7 +39,7 @@
             <surname>Lehmann</surname>
             <forename>Anna</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>anna.lehmann@fh-potsdam.de</email>
         </author>
         <author ref="#person__michaela-meyer-fh-potsdam-de">
@@ -48,7 +47,7 @@
             <surname>Meyer</surname>
             <forename>Michaela</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>Michaela.meyer@fh-potsdam.de</email>
         </author>
       </titleStmt>

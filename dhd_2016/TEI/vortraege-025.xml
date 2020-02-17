@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Darstellung heterogenen und dynamischen Wissens mit CIDOC CRM und WissKI</title><title type="conf_year">2016</title>
-        <author ref="#person__martin-scholz-fau-de">
+        <title>Darstellung heterogenen und dynamischen Wissens mit CIDOC CRM und WissKI</title><title type="conf_year">2016</title><author ref="#person__martin-scholz-fau-de">
           <name>
             <surname>Scholz</surname>
             <forename>Martin</forename>
           </name>
-          <affiliation ref="#org__44">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__69">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>martin.scholz@fau.de</email>
         </author>
         <author ref="#person__guenther-goerz-fau-de">
@@ -16,7 +15,7 @@
             <surname>Goerz</surname>
             <forename>Guenther</forename>
           </name>
-          <affiliation ref="#org__44">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__69">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>guenther.goerz@fau.de</email>
         </author>
         <author ref="#person__s-wagner-gnm-de">
@@ -24,7 +23,7 @@
             <surname>Wagner</surname>
             <forename>Sarah</forename>
           </name>
-          <affiliation ref="#org__42">Germanisches Nationalmuseum Nürnberg</affiliation>
+          <affiliation ref="#org__39">Germanisches Nationalmuseum Nürnberg</affiliation>
           <email>s.wagner@gnm.de</email>
         </author>
         <author ref="#person__m-fichtner-wiss-ki-eu">
@@ -32,7 +31,7 @@
             <surname>Fichtner</surname>
             <forename>Mark</forename>
           </name>
-          <affiliation ref="#org__42">Germanisches Nationalmuseum Nürnberg</affiliation>
+          <affiliation ref="#org__39">Germanisches Nationalmuseum Nürnberg</affiliation>
           <email>m.fichtner@wiss-ki.eu</email>
         </author>
       </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Intervalle, Konflikte, Zyklen. Modellierung von Makrogenese in der Faustedition</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__thorsten-vitt-uni-wuerzburg-de">
                     <persName>
                         <surname>Vitt</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation ref="#org__36">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__70">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>thorsten.vitt@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__bruening-faustedition-de">
@@ -19,7 +18,7 @@
                         <surname>Brüning</surname>
                         <forename>Gerrit</forename>
                     </persName>
-                    <affiliation ref="#org__399">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
+                    <affiliation ref="#org__175">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
                     <email>bruening@faustedition.de</email>
                 </author>
                 <author ref="#person__dpravida-goethehaus-frankfurt-de">
@@ -27,7 +26,7 @@
                         <surname>Pravida</surname>
                         <forename>Dietmar</forename>
                     </persName>
-                    <affiliation ref="#org__399">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
+                    <affiliation ref="#org__175">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
                     <email>dpravida@goethehaus-frankfurt.de</email>
                 </author>
                 <author ref="#person__wissenbach-faustedition-de">
@@ -35,7 +34,7 @@
                         <surname>Wissenbach</surname>
                         <forename>Moritz</forename>
                     </persName>
-                    <affiliation ref="#org__36">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__70">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
                     <email>wissenbach@faustedition.de</email>
                 </author>
             </titleStmt>

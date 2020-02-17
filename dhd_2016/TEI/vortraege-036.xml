@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Judaica recherchieren – Unterstützung bei der Realisierung forschungsspezifischer Suchlösungen durch die generische Suche von DARIAH-DE</title><title type="conf_year">2016</title>
-        <author ref="#person__tobias-gradl-uni-bamberg-de">
+        <title>Judaica recherchieren – Unterstützung bei der Realisierung forschungsspezifischer Suchlösungen durch die generische Suche von DARIAH-DE</title><title type="conf_year">2016</title><author ref="#person__tobias-gradl-uni-bamberg-de">
           <name>
             <surname>Gradl</surname>
             <forename>Tobias</forename>
           </name>
-          <affiliation ref="#org__19">Universität Bamberg</affiliation>
+          <affiliation ref="#org__6">Universität Bamberg</affiliation>
           <email>tobias.gradl@uni-bamberg.de</email>
         </author>
         <author ref="#person__lor-steinheim-institut-org">
@@ -16,7 +15,7 @@
             <surname>Lordick</surname>
             <forename>Harald</forename>
           </name>
-          <affiliation ref="#org__75">Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte</affiliation>
+          <affiliation ref="#org__89">Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte</affiliation>
           <email>lor@steinheim-institut.org</email>
         </author>
         <author ref="#person__andreas-henrich-uni-bamberg-de">
@@ -24,7 +23,7 @@
             <surname>Henrich</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__19">Universität Bamberg</affiliation>
+          <affiliation ref="#org__6">Universität Bamberg</affiliation>
           <email>andreas.henrich@uni-bamberg.de</email>
         </author>
       </titleStmt>

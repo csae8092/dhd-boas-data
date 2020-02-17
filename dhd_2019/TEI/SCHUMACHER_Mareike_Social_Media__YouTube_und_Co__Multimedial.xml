@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT</title><title type="conf_year">2019</title>
-                <author ref="#person__mareike-schumacher-uni-hamburg-de">
+                <title>Social Media, YouTube und Co: Multimediale, multimodale und multicodierte Dissemination von Forschungsmethoden in forTEXT</title><title type="conf_year">2019</title><author ref="#person__mareike-schumacher-uni-hamburg-de">
                     <persName>
                         <surname>Schumacher</surname>
                         <forename>Mareike</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>mareike.schumacher@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-horstmann-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
             </titleStmt>

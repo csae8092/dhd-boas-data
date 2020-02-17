@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Embedded Humanities</title><title type="conf_year">2018</title>
-                <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
+                <title> Embedded Humanities</title><title type="conf_year">2018</title><author ref="#person__fotis-jannidis-uni-wuerzburg-de">
                     <persName>
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__mike-kestemont-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>Kestemont</surname>
                         <forename>Mike</forename>
                     </persName>
-                    <affiliation ref="#org__6">Universität Antwerpen, Belgien</affiliation>
+                    <affiliation ref="#org__435">Universität Antwerpen, Belgien</affiliation>
                     <email>mike.kestemont@gmail.com</email>
                 </author>
             </titleStmt>

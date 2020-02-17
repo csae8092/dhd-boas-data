@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Alternative Gattungstheorien: Das Prototypenmodell am Beispiel hispanoamerikanischer Romane</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__ulrike-henny-uni-wuerzburg-de">
                     <persName>
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__katrin-betz-uni-wuerzburg-de">
@@ -19,7 +18,7 @@
                         <surname>Betz</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>katrin.betz@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__schloer-informatik-uni-wuerzburg-de">
@@ -27,7 +26,7 @@
                         <surname>Schlör</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>schloer@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -35,7 +34,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

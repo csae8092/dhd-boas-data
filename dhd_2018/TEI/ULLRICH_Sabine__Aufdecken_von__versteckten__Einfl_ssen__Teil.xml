@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> Aufdecken von “versteckten” Einflüssen: Teil-Automatisierte Textgenetische Prozesse mit Methoden der Computerlinguistik und des Machine Learning</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__sabine-ullrich-campus-lmu-de">
                     <persName>
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>sabine.ullrich@campus.lmu.de</email>
                 </author>
                 <author ref="#person__dmb77-cam-ac-uk">
@@ -19,7 +18,7 @@
                         <surname>Bruder</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__13">Universität Cambridge, Vereinigtes Königreich</affiliation>
+                    <affiliation ref="#org__447">Universität Cambridge, Vereinigtes Königreich</affiliation>
                     <email>dmb77@cam.ac.uk</email>
                 </author>
                 <author ref="#person__maximilian-cis-uni-muenchen-de">
@@ -27,7 +26,7 @@
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>maximilian@cis.uni-muenchen.de</email>
                 </author>
             </titleStmt>

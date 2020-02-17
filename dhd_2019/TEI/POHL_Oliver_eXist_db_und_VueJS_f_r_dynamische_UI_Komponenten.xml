@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">eXist-db und VueJS für dynamische UI-Komponenten</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__opohl-bbaw-de">
                     <persName>
                         <surname>Pohl</surname>
                         <forename>Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>opohl@bbaw.de</email>
                 </author>
                 <author ref="#person__teodora-dogaru-bbaw-de">
@@ -19,7 +18,7 @@
                         <surname>Dogaru</surname>
                         <forename>Teodora</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>teodora.dogaru@bbaw.de</email>
                 </author>
                 <author ref="#person__jonas-mueller-laackman-bbaw-de">
@@ -27,7 +26,7 @@
                         <surname>Müller-Laackman</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>jonas.mueller-laackman@bbaw.de</email>
                 </author>
             </titleStmt>

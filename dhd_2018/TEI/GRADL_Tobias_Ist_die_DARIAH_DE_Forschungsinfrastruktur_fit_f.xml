@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Ist die DARIAH-DE Forschungsinfrastruktur fit für Daten der realen Welt? Bericht über einen Anwendungsfall mit archäologischen Daten und seine ersten Ergebnisse </title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__matteo-romanello-dainst-de">
                     <persName>
                         <surname>Romanello</surname>
                         <forename>Matteo</forename>
                     </persName>
-                    <affiliation ref="#org__46">Deutsches Archäologisches Institut, Deutschland</affiliation>
+                    <affiliation ref="#org__467">Deutsches Archäologisches Institut, Deutschland</affiliation>
                     <email>matteo.romanello@dainst.de</email>
                 </author>
                 <author ref="#person__tobias-gradl-uni-bamberg-de">
@@ -19,7 +18,7 @@
                         <surname>Gradl</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation ref="#org__19">Universität Bamberg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Bamberg, Deutschland</affiliation>
                     <email>tobias.gradl@uni-bamberg.de</email>
                 </author>
             </titleStmt>

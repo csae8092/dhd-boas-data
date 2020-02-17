@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas</title><title type="conf_year">2016</title>
-        <author ref="#person__glauer-gwdg-de">
+        <title>Kafkas Stil. Zur Psychostilistik der Tagebücher Kafkas</title><title type="conf_year">2016</title><author ref="#person__glauer-gwdg-de">
           <name>
             <surname>Lauer</surname>
             <forename>Gerhard</forename>
           </name>
-          <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
           <email>glauer@gwdg.de</email>
         </author>
         <author ref="#person__cosima-mattner-stud-uni-goettingen-de">
@@ -16,7 +15,7 @@
             <surname>Mattner</surname>
             <forename>Cosima</forename>
           </name>
-          <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
           <email>cosima.mattner@stud.uni-goettingen.de</email>
         </author>
         <author ref="#person__jb-herrmann-phil-uni-goettingen-de">
@@ -24,7 +23,7 @@
             <surname>Herrmann</surname>
             <forename>Berenike</forename>
           </name>
-          <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
           <email>jb.herrmann@phil.uni-goettingen.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Formate als Sackgassen: Handlungsempfeh-lungen</title><title type="conf_year">2016</title>
-        <author ref="#person__bohl-edirom-de">
+        <title>Formate als Sackgassen: Handlungsempfeh-lungen</title><title type="conf_year">2016</title><author ref="#person__bohl-edirom-de">
           <name>
             <surname>Bohl</surname>
             <forename>Benjamin W.</forename>
           </name>
-          <affiliation ref="#org__218">Zentrum für Musik- und Filminformatik, Hochschule Ostwestfalen-Lippe</affiliation>
+          <affiliation ref="#org__331">Zentrum für Musik- und Filminformatik, Hochschule Ostwestfalen-Lippe</affiliation>
           <email>bohl@edirom.de</email>
         </author>
         <author ref="#person__berndt-hfm-detmold-de">
@@ -16,7 +15,7 @@
             <surname>Berndt</surname>
             <forename>Axel, Dr.</forename>
           </name>
-          <affiliation ref="#org__218">Zentrum für Musik- und Filminformatik, Hochschule Ostwestfalen-Lippe</affiliation>
+          <affiliation ref="#org__331">Zentrum für Musik- und Filminformatik, Hochschule Ostwestfalen-Lippe</affiliation>
           <email>berndt@hfm-detmold.de</email>
         </author>
         <author ref="#person__bsenft-s-lab-uni-paderborn-de">
@@ -24,7 +23,7 @@
             <surname>Senft</surname>
             <forename>Björn</forename>
           </name>
-          <affiliation ref="#org__220">Software Quality Lab, Universität Paderborn</affiliation>
+          <affiliation ref="#org__333">Software Quality Lab, Universität Paderborn</affiliation>
           <email>bsenft@s-lab.uni-paderborn.de</email>
         </author>
       </titleStmt>

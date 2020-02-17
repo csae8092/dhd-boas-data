@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Vernetzung ist wichtig, Vernetzung ist gut - Aber wie vernetzt man richtig?</title><title type="conf_year">2016</title>
-        <author ref="#person__ppfeil-uni-leipzig-de">
+        <title>Vernetzung ist wichtig, Vernetzung ist gut - Aber wie vernetzt man richtig?</title><title type="conf_year">2016</title><author ref="#person__ppfeil-uni-leipzig-de">
           <name>
             <surname>Pfeil</surname>
             <forename>Patrick</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>ppfeil@uni-leipzig.de</email>
         </author>
         <author ref="#person__barbara-aehnlich-uni-jena-de">
@@ -16,7 +15,7 @@
             <surname>Aehnlich</surname>
             <forename>Barbara</forename>
           </name>
-          <affiliation ref="#org__45">Friedrich--Schiller-Universität Jena</affiliation>
+          <affiliation ref="#org__66">Friedrich--Schiller-Universität Jena</affiliation>
           <email>barbara.aehnlich@uni-jena.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nutzertests an kritischen Editionen - Print oder digital?</title><title type="conf_year">2018</title>
-                <author ref="#person__federico-caria-live-it">
+                <title>Nutzertests an kritischen Editionen - Print oder digital?</title><title type="conf_year">2018</title><author ref="#person__federico-caria-live-it">
                     <persName>
                         <surname>Caria</surname>
                         <forename>Federico</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>federico.caria@live.it</email>
                 </author>
                 <author ref="#person__bmathiak-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
             </titleStmt>

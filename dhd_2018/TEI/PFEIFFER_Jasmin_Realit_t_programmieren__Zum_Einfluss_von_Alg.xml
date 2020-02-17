@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Realität programmieren? Zum Einfluss von Algorithmen auf die Wirklichkeit</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__jasmin-pfeiffer-gmx-de">
                     <persName>
                         <surname>Pfeiffer</surname>
                         <forename>Jasmin</forename>
                     </persName>
-                    <affiliation ref="#org__8">FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__152">FAU Erlangen, Deutschland</affiliation>
                     <email>jasmin_pfeiffer@gmx.de</email>
                 </author>
             </titleStmt>

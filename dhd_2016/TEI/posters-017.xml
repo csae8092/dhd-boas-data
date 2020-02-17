@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>: aichinger</title><title type="conf_year">2016</title>
-        <author ref="#person__mathiasmueller-aon-at">
+        <title>: aichinger</title><title type="conf_year">2016</title><author ref="#person__mathiasmueller-aon-at">
           <name>
             <surname>Mueller</surname>
             <forename>Mathias</forename>
           </name>
-          <affiliation ref="#org__311">ÖAW, Österreich</affiliation>
+          <affiliation ref="#org__308">ÖAW, Österreich</affiliation>
           <email>mathiasmueller@aon.at</email>
         </author>
         <author ref="#person__dittricha-gmail-com">
@@ -16,7 +15,7 @@
             <surname>Dittrich</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__311">ÖAW, Österreich</affiliation>
+          <affiliation ref="#org__308">ÖAW, Österreich</affiliation>
           <email>dittricha@gmail.com</email>
         </author>
         <author ref="#person__gilbert-waltl-gmx-at">
@@ -24,7 +23,7 @@
             <surname>Waltl</surname>
             <forename>Gilbert</forename>
           </name>
-          <affiliation ref="#org__311">ÖAW, Österreich</affiliation>
+          <affiliation ref="#org__308">ÖAW, Österreich</affiliation>
           <email>Gilbert_Waltl@gmx.at</email>
         </author>
         <author ref="#person__marlene-software-multimedia-at">
@@ -32,7 +31,7 @@
             <surname>Csillag</surname>
             <forename>Marlene</forename>
           </name>
-          <affiliation ref="#org__311">ÖAW, Österreich</affiliation>
+          <affiliation ref="#org__308">ÖAW, Österreich</affiliation>
           <email>marlene@software-multimedia.at</email>
         </author>
         <author ref="#person__katharina-godler-oeaw-ac-at">
@@ -40,7 +39,7 @@
             <surname>Godler</surname>
             <forename>Katharina</forename>
           </name>
-          <affiliation ref="#org__311">ÖAW, Österreich</affiliation>
+          <affiliation ref="#org__308">ÖAW, Österreich</affiliation>
           <email>katharina.godler@oeaw.ac.at</email>
         </author>
         <author ref="#person__christine-ivanovic-univie-ac-at">
@@ -48,7 +47,7 @@
             <surname>Ivanovic</surname>
             <forename>Christine</forename>
           </name>
-          <affiliation ref="#org__311">ÖAW, Österreich</affiliation>
+          <affiliation ref="#org__308">ÖAW, Österreich</affiliation>
           <email>christine.ivanovic@univie.ac.at</email>
         </author>
       </titleStmt>

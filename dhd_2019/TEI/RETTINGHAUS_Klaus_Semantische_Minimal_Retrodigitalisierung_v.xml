@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Semantische Minimal-Retrodigitalisierung von Brief-Editionen</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__klaus-rettinghaus-gmail-com">
                     <persName>
                         <surname>Rettinghaus</surname>
                         <forename>Klaus</forename>
                     </persName>
-                    <affiliation ref="#org__41">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__42">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
                     <email>klaus.rettinghaus@gmail.com</email>
                 </author>
             </titleStmt>

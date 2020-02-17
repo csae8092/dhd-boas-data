@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digitale Methoden sind weder digital noch innovativ</title><title type="conf_year">2018</title>
-                <author ref="#person__michael-raunig-uni-graz-at">
+                <title>Digitale Methoden sind weder digital noch innovativ</title><title type="conf_year">2018</title><author ref="#person__michael-raunig-uni-graz-at">
                     <persName>
                         <surname>Raunig</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>michael.raunig@uni-graz.at</email>
                 </author>
                 <author ref="#person__elke-hoefler-uni-graz-at">
@@ -16,7 +15,7 @@
                         <surname>Höfler</surname>
                         <forename>Elke</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>elke.hoefler@uni-graz.at</email>
                 </author>
             </titleStmt>

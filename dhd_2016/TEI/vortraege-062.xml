@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Emosaic – Visualisierung von Emotionen in Texten durch Farbumwandlung zur Analyse und Exploration</title><title type="conf_year">2016</title>
-        <author ref="#person__martin-von-lupin-fh-potsdam-de">
+        <title>Emosaic – Visualisierung von Emotionen in Texten durch Farbumwandlung zur Analyse und Exploration</title><title type="conf_year">2016</title><author ref="#person__martin-von-lupin-fh-potsdam-de">
           <name>
             <surname>von Lupin</surname>
             <forename>Martin</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>martin.von.lupin@fh-potsdam.de</email>
         </author>
         <author ref="#person__philipp-geuder-fh-potsdam-de">
@@ -16,7 +15,7 @@
             <surname>Geuder</surname>
             <forename>Philipp</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>philipp.geuder@fh-potsdam.de</email>
         </author>
         <author ref="#person__marie-leidinger-fh-potsdam-de">
@@ -24,7 +23,7 @@
             <surname>Leidinger</surname>
             <forename>Marie-Claire</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>marie.leidinger@fh-potsdam.de</email>
         </author>
         <author ref="#person__schroeder-fh-potsdam-de">
@@ -32,7 +31,7 @@
             <surname>Schröder</surname>
             <forename>Tobias</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>schroeder@fh-potsdam.de</email>
         </author>
         <author ref="#person__doerk-fh-potsdam-de">
@@ -40,7 +39,7 @@
             <surname>Dörk</surname>
             <forename>Marian</forename>
           </name>
-          <affiliation ref="#org__303">FH Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__109">FH Potsdam, Deutschland</affiliation>
           <email>doerk@fh-potsdam.de</email>
         </author>
       </titleStmt>

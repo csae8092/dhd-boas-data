@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> Entwicklungsstand im Projekt 'Digital Plato'</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__roxana-kath-me-com">
                     <persName>
                         <surname>Kath</surname>
                         <forename>Roxana</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
                     <email>roxana.kath@me.com</email>
                 </author>
                 <author ref="#person__franz-keilholz-tu-dresden-de">
@@ -19,7 +18,7 @@
                         <surname>Keilholz</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation ref="#org__15">Technische Universität Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dresden, Deutschland</affiliation>
                     <email>franz.keilholz@tu-dresden.de</email>
                 </author>
                 <author ref="#person__marcus-poeckelmann-informatik-uni-halle-de">
@@ -27,7 +26,7 @@
                         <surname>Pöckelmann</surname>
                         <forename>Marcus</forename>
                     </persName>
-                    <affiliation ref="#org__7">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__65">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>marcus.poeckelmann@informatik.uni-halle.de</email>
                 </author>
                 <author ref="#person__mruecker1-me-com">
@@ -35,7 +34,7 @@
                         <surname>Rücker</surname>
                         <forename>Michaela</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
                     <email>mruecker1@me.com</email>
                 </author>
                 <author ref="#person__woeckener-gade-uni-leipzig-de">
@@ -43,7 +42,7 @@
                         <surname>Wöckener-Gade</surname>
                         <forename>Eva</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
                     <email>woeckener-gade@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__xiaozhou-yu-tu-dresden-de">
@@ -51,7 +50,7 @@
                         <surname>Yu</surname>
                         <forename>Xiaozhou</forename>
                     </persName>
-                    <affiliation ref="#org__15">Technische Universität Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__12">Technische Universität Dresden, Deutschland</affiliation>
                     <email>xiaozhou.yu@tu-dresden.de</email>
                 </author>
             </titleStmt>

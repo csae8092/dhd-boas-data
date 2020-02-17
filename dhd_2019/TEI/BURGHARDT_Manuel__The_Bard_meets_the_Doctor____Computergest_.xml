@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>“The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who</title><title type="conf_year">2019</title>
-                <author ref="#person__burghardt-informatik-uni-leipzig-de">
+                <title>“The Bard meets the Doctor” – Computergestützte Identifikation intertextueller Shakespearebezüge in der Science Fiction-Serie Dr. Who</title><title type="conf_year">2019</title><author ref="#person__burghardt-informatik-uni-leipzig-de">
                     <persName>
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
                     <email>burghardt@informatik.uni-leipzig.de</email>
                 </author>
                 <author ref="#person__selina-meyer-stud-uni-regensburg-de">
@@ -16,7 +15,7 @@
                         <surname>Meyer</surname>
                         <forename>Selina</forename>
                     </persName>
-                    <affiliation ref="#org__18">Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Regensburg, Deutschland</affiliation>
                     <email>Selina.Meyer@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__stephanie-schmidbauer-stud-uni-regensburg-de">
@@ -24,7 +23,7 @@
                         <surname>Schmidtbauer</surname>
                         <forename>Stephanie</forename>
                     </persName>
-                    <affiliation ref="#org__18">Universität Regensburg, Deutschland</affiliation>
+                    <affiliation ref="#org__11">Universität Regensburg, Deutschland</affiliation>
                     <email>Stephanie.Schmidbauer@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__johannes-molz-googlemail-com">
@@ -32,7 +31,7 @@
                         <surname>Molz</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>johannes.molz@googlemail.com</email>
                 </author>
             </titleStmt>

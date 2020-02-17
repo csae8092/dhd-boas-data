@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>„Alles ist Wechselwirkung“ – auch in den Digital Humanities: Von ‘D‘ nach ‘H‘ und zurück durch Humboldts Kosmos-Vorträge (1827/28)</title><title type="conf_year">2016</title>
-        <author ref="#person__christian-thomas-1-staff-hu-berlin-de">
+        <title>„Alles ist Wechselwirkung“ – auch in den Digital Humanities: Von ‘D‘ nach ‘H‘ und zurück durch Humboldts Kosmos-Vorträge (1827/28)</title><title type="conf_year">2016</title><author ref="#person__christian-thomas-1-staff-hu-berlin-de">
           <name>
             <surname>Thomas</surname>
             <forename>Christian</forename>
           </name>
-          <affiliation ref="#org__38 #org__43">Humboldt-Universität zu Berlin, Deutschland; Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__77 #org__47">Humboldt-Universität zu Berlin, Deutschland; Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>christian.thomas.1@staff.hu-berlin.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Jadescheibe oder Kreis – Reflexion über manuelle und automatisierte Erkennung von Schriftzeichen der vorspanischen Mayakultur</title><title type="conf_year">2019</title>
-                <author ref="#person__cprager-uni-bonn-de">
+                <title>Jadescheibe oder Kreis – Reflexion über manuelle und automatisierte Erkennung von Schriftzeichen der vorspanischen Mayakultur</title><title type="conf_year">2019</title><author ref="#person__cprager-uni-bonn-de">
                     <persName>
                         <surname>Prager</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__447">Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
+                    <affiliation ref="#org__169">Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
                     <email>cprager@uni-bonn.de</email>
                 </author>
                 <author ref="#person__hubert-mara-iwr-uni-heidelberg-de">
@@ -16,7 +15,7 @@
                         <surname>Mara</surname>
                         <forename>Hubert</forename>
                     </persName>
-                    <affiliation ref="#org__21">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__20">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>hubert.mara@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__bartosz-bogacz-iwr-uni-heidelberg-de">
@@ -24,7 +23,7 @@
                         <surname>Bogacz</surname>
                         <forename>Bartosz</forename>
                     </persName>
-                    <affiliation ref="#org__21">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__20">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>bartosz.bogacz@iwr.uni-heidelberg.de</email>
                 </author>
                 <author ref="#person__felix-feldmann-iwr-uni-heidelberg-de">
@@ -32,7 +31,7 @@
                         <surname>Feldmann</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation ref="#org__21">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
+                    <affiliation ref="#org__20">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg</affiliation>
                     <email>felix.feldmann@iwr.uni-heidelberg.de</email>
                 </author>
             </titleStmt>

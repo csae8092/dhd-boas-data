@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Das Notizbuch als Ideenspeicher und Forschungswerkzeug: Erkenntnisse aus einer digitalen Repräsentation</title><title type="conf_year">2019</title>
-                <author ref="#person__martina-scholger-uni-graz-at">
+                <title>Das Notizbuch als Ideenspeicher und Forschungswerkzeug: Erkenntnisse aus einer digitalen Repräsentation</title><title type="conf_year">2019</title><author ref="#person__martina-scholger-uni-graz-at">
                     <persName>
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>martina.scholger@uni-graz.at</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Graphdatenbanken für Historiker mit Perspektiven für die Historische Semantik</title><title type="conf_year">2016</title>
-        <author ref="#person__andreas-kuczera-geschichte-uni-giessen-de">
+        <title>Graphdatenbanken für Historiker mit Perspektiven für die Historische Semantik</title><title type="conf_year">2016</title><author ref="#person__andreas-kuczera-geschichte-uni-giessen-de">
           <name>
             <surname>Kuczera</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__329">Regesta Imperii Gießen/Mainz, Deutschland</affiliation>
+          <affiliation ref="#org__238">Regesta Imperii Gießen/Mainz, Deutschland</affiliation>
           <email>andreas.kuczera@geschichte.uni-giessen.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitales Publizieren in den Geisteswissenschaften – Abschlussbericht und Handlungsempfehlun-gen des DFG-Projektes Fu-PusH </title><title type="conf_year">2016</title>
-        <author ref="#person__michael-kleineberg-ub-hu-berlin-de">
+        <title>Digitales Publizieren in den Geisteswissenschaften – Abschlussbericht und Handlungsempfehlun-gen des DFG-Projektes Fu-PusH </title><title type="conf_year">2016</title><author ref="#person__michael-kleineberg-ub-hu-berlin-de">
           <name>
             <surname>Kleineberg</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
           <email>michael.kleineberg@ub.hu-berlin.de</email>
         </author>
         <author ref="#person__ben-kaden-ub-hu-berlin-de">
@@ -16,7 +15,7 @@
             <surname>Kaden</surname>
             <forename>Ben</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
           <email>ben.kaden@ub.hu-berlin.de</email>
         </author>
       </titleStmt>

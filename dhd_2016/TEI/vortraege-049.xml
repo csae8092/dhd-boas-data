@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Classification of Literary Subgenres</title><title type="conf_year">2016</title>
-        <author ref="#person__lena-hettinger-uni-wuerzburg-de">
+        <title>Classification of Literary Subgenres</title><title type="conf_year">2016</title><author ref="#person__lena-hettinger-uni-wuerzburg-de">
           <name>
             <surname>Hettinger</surname>
             <forename>Lena</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>lena.hettinger@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__isabella-reger-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
             <surname>Reger</surname>
             <forename>Isabella</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>isabella.reger@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
             <surname>Jannidis</surname>
             <forename>Fotis</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>fotis.jannidis@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -32,7 +31,7 @@
             <surname>Hotho</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>hotho@informatik.uni-wuerzburg.de</email>
         </author>
       </titleStmt>

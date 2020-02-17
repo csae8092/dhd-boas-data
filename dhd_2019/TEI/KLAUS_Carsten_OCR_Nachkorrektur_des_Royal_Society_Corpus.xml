@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">OCR Nachkorrektur des Royal Society Corpus</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__s8caklau-stud-uni-saarland-de">
                     <persName>
                         <surname>Klaus</surname>
                         <forename>Carsten</forename>
                     </persName>
-                    <affiliation ref="#org__52">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>s8caklau@stud.uni-saarland.de</email>
                 </author>
                 <author ref="#person__fankhauser-ids-mannheim-de">
@@ -19,7 +18,7 @@
                         <surname>Fankhauser</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>fankhauser@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__dklakow-lsv-uni-saarland-de">
@@ -27,7 +26,7 @@
                         <surname>Klakow</surname>
                         <forename>Dietrich</forename>
                     </persName>
-                    <affiliation ref="#org__52">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
+                    <affiliation ref="#org__16">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
                     <email>dklakow@lsv.uni-saarland.de</email>
                 </author>
             </titleStmt>

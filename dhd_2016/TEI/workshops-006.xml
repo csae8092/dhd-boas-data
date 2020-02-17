@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Crossmediales Publizieren mit TUSTEP – ein Workshop der International TUSTEP User Group</title><title type="conf_year">2016</title>
-        <author ref="#person__recker-uni-trier-de">
+        <title>Crossmediales Publizieren mit TUSTEP – ein Workshop der International TUSTEP User Group</title><title type="conf_year">2016</title><author ref="#person__recker-uni-trier-de">
           <name>
             <surname>Recker-Hamm</surname>
             <forename>Ute</forename>
           </name>
-          <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur Mainz</affiliation>
+          <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur Mainz</affiliation>
           <email>recker@uni-trier.de</email>
         </author>
         <author ref="#person__schneiderm-uni-trier-de">
@@ -16,7 +15,7 @@
             <surname>Schneider</surname>
             <forename>Matthias</forename>
           </name>
-          <affiliation ref="#org__59">Universität Trier, Trier Center for Digital Humanities</affiliation>
+          <affiliation ref="#org__27">Universität Trier, Trier Center for Digital Humanities</affiliation>
           <email>schneiderm@uni-trier.de</email>
         </author>
       </titleStmt>

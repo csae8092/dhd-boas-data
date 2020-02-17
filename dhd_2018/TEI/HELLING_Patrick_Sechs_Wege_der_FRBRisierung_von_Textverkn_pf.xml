@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sechs Wege der FRBRisierung von Textverknüpfungen</title><title type="conf_year">2018</title>
-                <author ref="#person__patrick-helling-uni-koeln-de">
+                <title>Sechs Wege der FRBRisierung von Textverknüpfungen</title><title type="conf_year">2018</title><author ref="#person__patrick-helling-uni-koeln-de">
                     <persName>
                         <surname>Helling</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>patrick.helling@uni-koeln.de</email>
                 </author>
                 <author ref="#person__mathiak-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>mathiak@gmail.com</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>"Kann man denn auch nicht lachend sehr ernsthaft sein?" – Zum Einsatz von Sentiment Analyse-Verfahren für die quantitative Untersuchung von Lessings Dramen</title><title type="conf_year">2018</title>
-                <author ref="#person__thomas-schmidt-sprachlit-uni-regensburg-de">
+                <title>"Kann man denn auch nicht lachend sehr ernsthaft sein?" – Zum Einsatz von Sentiment Analyse-Verfahren für die quantitative Untersuchung von Lessings Dramen</title><title type="conf_year">2018</title><author ref="#person__thomas-schmidt-sprachlit-uni-regensburg-de">
                     <persName>
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>thomas.schmidt@sprachlit.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__manuel-burghardt-ur-de">
@@ -16,7 +15,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>manuel.burghardt@ur.de</email>
                 </author>
                 <author ref="#person__katrin-dennerlein-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
                         <surname>Dennerlein</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__100">Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg</affiliation>
+                    <affiliation ref="#org__451">Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg</affiliation>
                     <email>katrin.dennerlein@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

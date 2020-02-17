@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kollaboratives Annotieren literarischer Texte</title><title type="conf_year">2016</title>
-        <author ref="#person__janina-jacke-uni-hamburg-de">
+        <title>Kollaboratives Annotieren literarischer Texte</title><title type="conf_year">2016</title><author ref="#person__janina-jacke-uni-hamburg-de">
           <name>
             <surname>Jacke</surname>
             <forename>Janina</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>janina.jacke@uni-hamburg.de</email>
         </author>
         <author ref="#person__evelyn-gius-uni-hamburg-de">
@@ -16,7 +15,7 @@
             <surname>Gius</surname>
             <forename>Evelyn</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>evelyn.gius@uni-hamburg.de</email>
         </author>
       </titleStmt>

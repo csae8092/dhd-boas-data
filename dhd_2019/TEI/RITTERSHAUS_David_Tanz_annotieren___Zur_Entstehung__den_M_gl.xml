@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tanz annotieren - Zur Entstehung, den Möglichkeiten und den Perspektiven digitaler Methoden in der Tanzwissenschaft</title><title type="conf_year">2019</title>
-                <author ref="#person__david-rittershaus-hs-mainz-de">
+                <title>Tanz annotieren - Zur Entstehung, den Möglichkeiten und den Perspektiven digitaler Methoden in der Tanzwissenschaft</title><title type="conf_year">2019</title><author ref="#person__david-rittershaus-hs-mainz-de">
                     <persName>
                         <surname>Rittershaus</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__71">Hochschule Mainz - University of Applied Sciences, Deutschland</affiliation>
+                    <affiliation ref="#org__37">Hochschule Mainz - University of Applied Sciences, Deutschland</affiliation>
                     <email>david.rittershaus@hs-mainz.de</email>
                 </author>
             </titleStmt>

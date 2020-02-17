@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Von den 'digital humanities' zu einer humanen Digitalisierung</title><title type="conf_year">2016</title>
-        <author ref="#person__zweig-cs-uni-kl-de">
+        <title>Von den 'digital humanities' zu einer humanen Digitalisierung</title><title type="conf_year">2016</title><author ref="#person__zweig-cs-uni-kl-de">
           <name>
             <surname>Zweig</surname>
             <forename>Katharina Anna</forename>
           </name>
-          <affiliation ref="#org__224">TU Kaiserslautern, Deutschland</affiliation>
+          <affiliation ref="#org__247">TU Kaiserslautern, Deutschland</affiliation>
           <email>zweig@cs.uni-kl.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wie katalogisiert man eigentlich virtuelle Realität? Überlegungen zur Dokumentation und Vernetzung musealer Objekte und digitaler Vermittlungsformate</title><title type="conf_year">2019</title>
-                <author ref="#person__f-diehr-smb-spk-berlin-de">
+                <title>Wie katalogisiert man eigentlich virtuelle Realität? Überlegungen zur Dokumentation und Vernetzung musealer Objekte und digitaler Vermittlungsformate</title><title type="conf_year">2019</title><author ref="#person__f-diehr-smb-spk-berlin-de">
                     <persName>
                         <surname>Diehr</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__64">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__57">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>f.diehr@smb.spk-berlin.de</email>
                 </author>
                 <author ref="#person__k-glinka-smb-spk-berlin-de">
@@ -16,7 +15,7 @@
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__64">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__57">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>k.glinka@smb.spk-berlin.de</email>
                 </author>
             </titleStmt>

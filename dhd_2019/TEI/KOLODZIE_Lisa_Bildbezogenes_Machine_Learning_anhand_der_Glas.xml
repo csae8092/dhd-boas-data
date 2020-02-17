@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bildbezogenes Machine Learning anhand der Glasmalereien des Corpus Vitrearum Medii Aevi</title><title type="conf_year">2019</title>
-                <author ref="#person__lisa-kolodzie-adwmainz-de">
+                <title>Bildbezogenes Machine Learning anhand der Glasmalereien des Corpus Vitrearum Medii Aevi</title><title type="conf_year">2019</title><author ref="#person__lisa-kolodzie-adwmainz-de">
                     <persName>
                         <surname>Kolodzie</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation ref="#org__40">Akademie der Wissenschaften und Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Akademie der Wissenschaften und Literatur | Mainz, Deutschland</affiliation>
                     <email>lisa.kolodzie@adwmainz.de</email>
                 </author>
             </titleStmt>

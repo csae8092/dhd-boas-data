@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">VAnnotatoR: Ein Werkzeug zur Annotation multimodaler Netzwerke in dreidimensionalen virtuellen Umgebungen</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__abrami-em-uni-frankfurt-de">
                     <persName>
                         <surname>Abrami</surname>
                         <forename>Giuseppe</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>abrami@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__s2717197-stud-uni-frankfurt-de">
@@ -19,7 +18,7 @@
                         <surname>Spiekermann</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>s2717197@stud.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__mehler-em-uni-frankfurt-de">
@@ -27,7 +26,7 @@
                         <surname>Mehler</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>mehler@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

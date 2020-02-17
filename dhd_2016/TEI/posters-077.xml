@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Dramenwerkbank - Automatische Sprachverarbeitung zur Analyse von Figurenrede</title><title type="conf_year">2016</title>
-        <author ref="#person__andre-blessing-ims-uni-stuttgart-de">
+        <title>Dramenwerkbank - Automatische Sprachverarbeitung zur Analyse von Figurenrede</title><title type="conf_year">2016</title><author ref="#person__andre-blessing-ims-uni-stuttgart-de">
           <name>
             <surname>Blessing</surname>
             <forename>Andre</forename>
           </name>
-          <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__17">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
           <email>andre.blessing@ims.uni-stuttgart.de</email>
         </author>
         <author ref="#person__peggy-bockwinkel-ilw-uni-stuttgart-de">
@@ -16,7 +15,7 @@
             <surname>Bockwinkel</surname>
             <forename>Peggy</forename>
           </name>
-          <affiliation ref="#org__31">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__30">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
           <email>peggy.bockwinkel@ilw.uni-stuttgart.de</email>
         </author>
         <author ref="#person__nils-reiter-ims-uni-stuttgart-de">
@@ -24,7 +23,7 @@
             <surname>Reiter</surname>
             <forename>Nils</forename>
           </name>
-          <affiliation ref="#org__30">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__17">Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland</affiliation>
           <email>nils.reiter@ims.uni-stuttgart.de</email>
         </author>
         <author ref="#person__marcus-willand-ilw-uni-stuttgart-de">
@@ -32,7 +31,7 @@
             <surname>Willand</surname>
             <forename>Marcus</forename>
           </name>
-          <affiliation ref="#org__31">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__30">Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland</affiliation>
           <email>Marcus.Willand@ilw.uni-stuttgart.de</email>
         </author>
       </titleStmt>

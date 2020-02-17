@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Quantitatives „close reading“? Vier mikroanalytische Methoden der digitalen Dramenanalyse im Vergleich.</title><title type="conf_year">2018</title>
-                <author ref="#person__benjamin-krautter-gmail-com">
+                <title>Quantitatives „close reading“? Vier mikroanalytische Methoden der digitalen Dramenanalyse im Vergleich.</title><title type="conf_year">2018</title><author ref="#person__benjamin-krautter-gmail-com">
                     <persName>
                         <surname>Krautter</surname>
                         <forename>Benjamin</forename>
                     </persName>
-                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
                     <email>Benjamin.Krautter@gmail.com</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Linked Biondo - Modelling Geographical Features in Renaissance Text and Maps</title><title type="conf_year">2019</title>
-                <author ref="#person__guenther-goerz-fau-de">
+                <title>Linked Biondo - Modelling Geographical Features in Renaissance Text and Maps</title><title type="conf_year">2019</title><author ref="#person__guenther-goerz-fau-de">
                     <persName>
                         <surname>Görz</surname>
                         <forename>Günther</forename>
                     </persName>
-                    <affiliation ref="#org__410 #org__8">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__52 #org__53">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>guenther.goerz@fau.de</email>
                 </author>
                 <author ref="#person__chiara-seidl0510-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>Seidl</surname>
                         <forename>Chiara</forename>
                     </persName>
-                    <affiliation ref="#org__410 #org__8">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__52 #org__53">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>chiara.seidl0510@gmail.com</email>
                 </author>
                 <author ref="#person__martin-thiering-campus-tu-berlin-de">
@@ -24,7 +23,7 @@
                         <surname>Thiering</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__410 #org__48">Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__52 #org__54">Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin, Deutschland</affiliation>
                     <email>martin.thiering@campus.tu-berlin.de</email>
                 </author>
             </titleStmt>

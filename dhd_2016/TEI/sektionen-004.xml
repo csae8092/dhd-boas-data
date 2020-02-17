@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mobile Anwendungen als multimodale Medien zur Vermittlung vormoderner Artefakte. Die ,Historisches Paderborn‘-App – ein interdisziplinäres Forschungs- und Lehrprojekt</title><title type="conf_year">2016</title>
-        <author ref="#person__markus-greulich-uni-paderborn-de">
+        <title>Mobile Anwendungen als multimodale Medien zur Vermittlung vormoderner Artefakte. Die ,Historisches Paderborn‘-App – ein interdisziplinäres Forschungs- und Lehrprojekt</title><title type="conf_year">2016</title><author ref="#person__markus-greulich-uni-paderborn-de">
           <name>
             <surname>Greulich</surname>
             <forename>Markus</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>markus.greulich@uni-paderborn.de</email>
         </author>
         <author ref="#person__oberthuer-uni-paderborn-de">
@@ -16,7 +15,7 @@
             <surname>Oberthür</surname>
             <forename>Simon</forename>
           </name>
-          <affiliation ref="#org__352">SICP – Software Innovation Campus Paderborn, Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__252">SICP – Software Innovation Campus Paderborn, Universität Paderborn, Deutschland</affiliation>
           <email>oberthuer@uni-paderborn.de</email>
         </author>
         <author ref="#person__karthaus-ieman-de">
@@ -24,7 +23,7 @@
             <surname>Karthaus</surname>
             <forename>Nicola</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>karthaus@ieman.de</email>
         </author>
         <author ref="#person__arianes-mail-uni-paderborn-de">
@@ -32,7 +31,7 @@
             <surname>Schmidt</surname>
             <forename>Ariane</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>arianes@mail.uni-paderborn.de</email>
         </author>
         <author ref="#person__nicole-m-wilk-upb-de">
@@ -40,7 +39,7 @@
             <surname>Wilk</surname>
             <forename>Nicole M.</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>nicole.m.wilk@upb.de</email>
         </author>
         <author ref="#person__kristina-stog-uni-paderborn-de">
@@ -48,7 +47,7 @@
             <surname>Stog</surname>
             <forename>Kristina</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>kristina.stog@uni-paderborn.de</email>
         </author>
         <author ref="#person__bjoern-senft-uni-paderborn-de">
@@ -56,7 +55,7 @@
             <surname>Senft</surname>
             <forename>Björn</forename>
           </name>
-          <affiliation ref="#org__352">SICP – Software Innovation Campus Paderborn, Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__252">SICP – Software Innovation Campus Paderborn, Universität Paderborn, Deutschland</affiliation>
           <email>bjoern.senft@uni-paderborn.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Von Drupal 8 zur virtuellen Forschungsumgebung - Der WissKI-Ansatz</title><title type="conf_year">2018</title>
-                <author ref="#person__m-fichtner-wiss-ki-eu">
+                <title>Von Drupal 8 zur virtuellen Forschungsumgebung - Der WissKI-Ansatz</title><title type="conf_year">2018</title><author ref="#person__m-fichtner-wiss-ki-eu">
                     <persName>
                         <surname>Fichtner</surname>
                         <forename>Mark</forename>
                     </persName>
-                    <affiliation ref="#org__42">Germanisches Nationalmuseum, Deutschland</affiliation>
+                    <affiliation ref="#org__449">Germanisches Nationalmuseum, Deutschland</affiliation>
                     <email>m.fichtner@wiss-ki.eu</email>
                 </author>
             </titleStmt>

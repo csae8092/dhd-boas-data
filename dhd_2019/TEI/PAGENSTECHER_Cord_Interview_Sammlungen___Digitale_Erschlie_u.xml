@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Interview-Sammlungen - Digitale Erschließung und Analyse</title><title type="conf_year">2019</title>
-                <author ref="#person__cord-pagenstecher-cedis-fu-berlin-de">
+                <title>Interview-Sammlungen - Digitale Erschließung und Analyse</title><title type="conf_year">2019</title><author ref="#person__cord-pagenstecher-cedis-fu-berlin-de">
                     <persName>
                         <surname>Pagenstecher</surname>
                         <forename>Cord</forename>
                     </persName>
-                    <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
                     <email>cord.pagenstecher@cedis.fu-berlin.de</email>
                 </author>
             </titleStmt>

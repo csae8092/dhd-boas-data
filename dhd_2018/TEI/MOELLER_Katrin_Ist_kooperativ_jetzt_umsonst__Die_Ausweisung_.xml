@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ist kooperativ jetzt umsonst? Die Ausweisung von Datenautorenschaft als neue Form wissenschaftlicher Reputation zur Förderung offener Forschungsdatenkulturen</title><title type="conf_year">2018</title>
-                <author ref="#person__katrin-moeller-geschichte-uni-halle-de">
+                <title>Ist kooperativ jetzt umsonst? Die Ausweisung von Datenautorenschaft als neue Form wissenschaftlicher Reputation zur Förderung offener Forschungsdatenkulturen</title><title type="conf_year">2018</title><author ref="#person__katrin-moeller-geschichte-uni-halle-de">
                     <persName>
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__7">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__65">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>katrin.moeller@geschichte.uni-halle.de</email>
                 </author>
             </titleStmt>

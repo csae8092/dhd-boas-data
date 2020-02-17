@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Korpuserstellung als literaturwissenschaftliche Aufgabe</title><title type="conf_year">2019</title>
-                <author ref="#person__evelyn-gius-uni-hamburg-de">
+                <title>Korpuserstellung als literaturwissenschaftliche Aufgabe</title><title type="conf_year">2019</title><author ref="#person__evelyn-gius-uni-hamburg-de">
                     <persName>
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__katharina-krueger-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Katharina</surname>
                         <forename>Krüger</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>katharina.krueger@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__carla-soekefeld-studium-uni-hamburg-de">
@@ -24,7 +23,7 @@
                         <surname>Carla</surname>
                         <forename>Sökefeld</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>carla.soekefeld@studium.uni-hamburg.de</email>
                 </author>
             </titleStmt>

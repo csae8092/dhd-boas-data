@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Digitale Differenz. Luhmanns Zettelkasten als physisch-historisches Objekt und als vernetzter Navigationsraum</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__mgoedel-uni-koeln-de">
                     <persName>
                         <surname>Goedel</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation ref="#org__2">Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__51">Cologne Center for eHumanities</affiliation>
                     <email>mgoedel@uni-koeln.de</email>
                 </author>
                 <author ref="#person__sebastian-zimmer-uni-koeln-de">
@@ -19,7 +18,7 @@
                         <surname>Zimmer</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation ref="#org__2">Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__51">Cologne Center for eHumanities</affiliation>
                     <email>sebastian.zimmer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__johannes-schmidt-uni-bielefeld-de">
@@ -27,7 +26,7 @@
                         <surname>Schmidt</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__92">Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</affiliation>
+                    <affiliation ref="#org__450">Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld</affiliation>
                     <email>johannes.schmidt@uni-bielefeld.de</email>
                 </author>
             </titleStmt>

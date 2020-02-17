@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEIHencer - Enhance your TEI-Documents</title><title type="conf_year">2018</title>
-                <author ref="#person__peter-andorfer-oeaw-ac-at">
+                <title>TEIHencer - Enhance your TEI-Documents</title><title type="conf_year">2018</title><author ref="#person__peter-andorfer-oeaw-ac-at">
                     <persName>
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__87">ACDH, Österreich</affiliation>
+                    <affiliation ref="#org__222">ACDH, Österreich</affiliation>
                     <email>peter.andorfer@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__stefan-karner-onb-ac-at">
@@ -16,7 +15,7 @@
                         <surname>Karner</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__88">Österreichische Nationalbibliothek</affiliation>
+                    <affiliation ref="#org__179">Österreichische Nationalbibliothek</affiliation>
                     <email>stefan.karner@onb.ac.at</email>
                 </author>
             </titleStmt>

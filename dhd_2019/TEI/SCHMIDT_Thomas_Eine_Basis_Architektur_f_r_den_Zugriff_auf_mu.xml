@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Eine Basis-Architektur für den Zugriff auf multimodale Korpora gesprochener Sprache</title><title type="conf_year">2019</title>
-                <author ref="#person__josip-batinic-ids-mannheim-de">
+                <title>Eine Basis-Architektur für den Zugriff auf multimodale Korpora gesprochener Sprache</title><title type="conf_year">2019</title><author ref="#person__josip-batinic-ids-mannheim-de">
                     <persName>
                         <surname>Batinic</surname>
                         <forename>Josip</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>josip.batinic@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__frick-ids-mannheim-de">
@@ -16,7 +15,7 @@
                         <surname>Frick</surname>
                         <forename>Elena</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>frick@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__gasch-ids-mannheim-de">
@@ -24,7 +23,7 @@
                         <surname>Gasch</surname>
                         <forename>Joachim</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>gasch@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__thomas-schmidt-ids-mannheim-de">
@@ -32,7 +31,7 @@
                         <surname>Schmidt</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
+                    <affiliation ref="#org__15">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
                     <email>thomas.schmidt@ids-mannheim.de</email>
                 </author>
             </titleStmt>

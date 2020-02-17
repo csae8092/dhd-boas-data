@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatische Übersetzung als Bestandteil eines philologischen B.A.-Curriculums mit DH-Schwerpunk</title><title type="conf_year">2019</title>
-                <author ref="#person__anne-baillot-univ-lemans-fr">
+                <title>Automatische Übersetzung als Bestandteil eines philologischen B.A.-Curriculums mit DH-Schwerpunk</title><title type="conf_year">2019</title><author ref="#person__anne-baillot-univ-lemans-fr">
                     <persName>
                         <surname>Baillot</surname>
                         <forename>Anne</forename>
                     </persName>
-                    <affiliation ref="#org__463">Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__35">Le Mans Université, Frankreich</affiliation>
                     <email>anne.baillot@univ-lemans.fr</email>
                 </author>
                 <author ref="#person__jane-wottawa-univ-lemans-fr">
@@ -16,7 +15,7 @@
                         <surname>Wottawa</surname>
                         <forename>Jane</forename>
                     </persName>
-                    <affiliation ref="#org__463">Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__35">Le Mans Université, Frankreich</affiliation>
                     <email>jane.wottawa@univ-lemans.fr</email>
                 </author>
                 <author ref="#person__loic-barrault-univ-lemans-fr">
@@ -24,7 +23,7 @@
                         <surname>Barrault</surname>
                         <forename>Loïc</forename>
                     </persName>
-                    <affiliation ref="#org__463">Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__35">Le Mans Université, Frankreich</affiliation>
                     <email>loic.barrault@univ-lemans.fr</email>
                 </author>
                 <author ref="#person__fethi-bougares-univ-lemans-fr">
@@ -32,7 +31,7 @@
                         <surname>Bougares</surname>
                         <forename>Fethi</forename>
                     </persName>
-                    <affiliation ref="#org__463">Le Mans Université, Frankreich</affiliation>
+                    <affiliation ref="#org__35">Le Mans Université, Frankreich</affiliation>
                     <email>fethi.bougares@univ-lemans.fr</email>
                 </author>
             </titleStmt>

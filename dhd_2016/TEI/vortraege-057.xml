@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ein Facebook der anderen Art: Digitalisierte Epigraphiken als Quelle der Kulturforschung </title><title type="conf_year">2016</title>
-        <author ref="#person__ostreiter-nuk-edu-tw">
+        <title>Ein Facebook der anderen Art: Digitalisierte Epigraphiken als Quelle der Kulturforschung </title><title type="conf_year">2016</title><author ref="#person__ostreiter-nuk-edu-tw">
           <name>
             <surname>Streiter</surname>
             <forename>Oliver</forename>
           </name>
-          <affiliation ref="#org__255">Staatliche Universität Kaohisung, Taiwan</affiliation>
+          <affiliation ref="#org__297">Staatliche Universität Kaohisung, Taiwan</affiliation>
           <email>ostreiter@nuk.edu.tw</email>
         </author>
       </titleStmt>

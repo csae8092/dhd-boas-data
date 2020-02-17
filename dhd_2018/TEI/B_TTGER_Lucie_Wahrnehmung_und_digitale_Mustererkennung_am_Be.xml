@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wahrnehmung und digitale Mustererkennung am Beispiel antiker Terrakottastatuetten</title><title type="conf_year">2018</title>
-                <author ref="#person__lucie-boettger-stud-uni-goettingen-de">
+                <title>Wahrnehmung und digitale Mustererkennung am Beispiel antiker Terrakottastatuetten</title><title type="conf_year">2018</title><author ref="#person__lucie-boettger-stud-uni-goettingen-de">
                     <persName>
                         <surname>Böttger</surname>
                         <forename>Lucie</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>Lucie.boettger@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__alexander-zeckey-stud-uni-goettingen-de">
@@ -16,7 +15,7 @@
                         <surname>Zeckey</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>alexander.zeckey@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__mlangne-gwdg-de">
@@ -24,7 +23,7 @@
                         <surname>Langner</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut</affiliation>
                     <email>mlangne@gwdg.de</email>
                 </author>
             </titleStmt>

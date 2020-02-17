@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Gattungserkennung über 500 Jahre</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__jose-calvo-morethanbooks-eu">
                     <persName>
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>jose.calvo@morethanbooks.eu</email>
                 </author>
             </titleStmt>

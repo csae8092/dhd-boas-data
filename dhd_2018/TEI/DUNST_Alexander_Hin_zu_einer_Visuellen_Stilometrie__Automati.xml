@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hin zu einer Visuellen Stilometrie: Automatische Genre- und Autorunterscheidung in graphischen Narrativen</title><title type="conf_year">2018</title>
-                <author ref="#person__alexander-dunst-gmail-com">
+                <title>Hin zu einer Visuellen Stilometrie: Automatische Genre- und Autorunterscheidung in graphischen Narrativen</title><title type="conf_year">2018</title><author ref="#person__alexander-dunst-gmail-com">
                     <persName>
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>alexander.dunst@gmail.com</email>
                 </author>
                 <author ref="#person__rst-upb-de">
@@ -16,7 +15,7 @@
                         <surname>Hartel</surname>
                         <forename>Rita</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>rst@upb.de</email>
                 </author>
             </titleStmt>

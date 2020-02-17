@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">DH is the Study of dead Dudes</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__mark-hall-informatik-uni-halle-de">
                     <persName>
                         <surname>Hall</surname>
                         <forename>Mark</forename>
                     </persName>
-                    <affiliation ref="#org__7">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__65">Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>mark.hall@informatik.uni-halle.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>"Kinder des Buchdrucks" im Digitalen Zeitalter. Ein romanistisches Digital Humanities Modul</title><title type="conf_year">2018</title>
-                <author ref="#person__elisabeth-burr-uni-leipzig-de">
+                <title>"Kinder des Buchdrucks" im Digitalen Zeitalter. Ein romanistisches Digital Humanities Modul</title><title type="conf_year">2018</title><author ref="#person__elisabeth-burr-uni-leipzig-de">
                     <persName>
                         <surname>Burr</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
                     <email>elisabeth.burr@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__uf28bope-studserv-uni-leipzig-de">
@@ -16,7 +15,7 @@
                         <surname>Fußbahn</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
                     <email>uf28bope@studserv.uni-leipzig.de</email>
                 </author>
             </titleStmt>

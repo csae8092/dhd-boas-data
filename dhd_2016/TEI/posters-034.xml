@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Der Lehrpraxis im Transfer-Facharbeitskreis "Digitale Geisteswissenschaften in Sachsen"</title><title type="conf_year">2016</title>
-        <author ref="#person__ppfeil-uni-leipzig-de">
+        <title>Der Lehrpraxis im Transfer-Facharbeitskreis "Digitale Geisteswissenschaften in Sachsen"</title><title type="conf_year">2016</title><author ref="#person__ppfeil-uni-leipzig-de">
           <name>
             <surname>Pfeil</surname>
             <forename>Patrick</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland, Alte Geschichte</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland, Alte Geschichte</affiliation>
           <email>ppfeil@uni-leipzig.de</email>
         </author>
         <author ref="#person__caroline-mehner-uni-leipzig-de">
@@ -16,7 +15,7 @@
             <surname>Mehner</surname>
             <forename>Caroline</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland, Hochschuldidaktisches Zentrum Sachsen, Lehrpraxis im Transfer</affiliation>
+          <affiliation ref="#org__25">Universität Leipzig, Deutschland, Hochschuldidaktisches Zentrum Sachsen, Lehrpraxis im Transfer</affiliation>
           <email>caroline.mehner@uni-leipzig.de</email>
         </author>
       </titleStmt>

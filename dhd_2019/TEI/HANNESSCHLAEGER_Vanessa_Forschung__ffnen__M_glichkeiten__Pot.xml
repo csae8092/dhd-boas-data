@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forschung öffnen: Möglichkeiten, Potentiale und Grenzen von Open Science am Beispiel der offenen Datenbank “Handke: in Zungen”</title><title type="conf_year">2019</title>
-                <author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
+                <title>Forschung öffnen: Möglichkeiten, Potentiale und Grenzen von Open Science am Beispiel der offenen Datenbank “Handke: in Zungen”</title><title type="conf_year">2019</title><author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
                     <persName>
                         <surname>Hannesschlaeger</surname>
                         <forename>Vanessa</forename>
                     </persName>
-                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>vanessa.hannesschlaeger@oeaw.ac.at</email>
                 </author>
             </titleStmt>

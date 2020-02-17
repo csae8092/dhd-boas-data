@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kuration und Exploration des Korpus "Diskurs in der Weimarer Republik"</title><title type="conf_year">2016</title>
-        <author ref="#person__fankhauser-ids-mannheim-de">
+        <title>Kuration und Exploration des Korpus "Diskurs in der Weimarer Republik"</title><title type="conf_year">2016</title><author ref="#person__fankhauser-ids-mannheim-de">
           <name>
             <surname>Fankhauser</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__33">IDS-Mannnheim, Deutschland</affiliation>
+          <affiliation ref="#org__300">IDS-Mannnheim, Deutschland</affiliation>
           <email>fankhauser@ids-mannheim.de</email>
         </author>
       </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">I like to PROV it! Ein Data Object Provenance Tool für die Digital Humanities</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__peter-muehleder-uni-leipzig-de">
                     <persName>
                         <surname>Mühleder</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__20">Universitätsbibliothek Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__159">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>peter.muehleder@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__tracy-hoffmann-uni-leipzig-de">
@@ -19,7 +18,7 @@
                         <surname>Hoffmann</surname>
                         <forename>Tracy</forename>
                     </persName>
-                    <affiliation ref="#org__20">Universitätsbibliothek Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__159">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>tracy.hoffmann@uni-leipzig.de</email>
                 </author>
                 <author ref="#person__raemisch-ub-uni-leipzig-de">
@@ -27,7 +26,7 @@
                         <surname>Rämisch</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation ref="#org__20">Universitätsbibliothek Leipzig, Deutschland</affiliation>
+                    <affiliation ref="#org__159">Universitätsbibliothek Leipzig, Deutschland</affiliation>
                     <email>raemisch@ub.uni-leipzig.de</email>
                 </author>
             </titleStmt>

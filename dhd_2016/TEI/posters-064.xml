@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Historische Begriffe der Erziehungswissen-schaft - Erzeugung einer Ontologie</title><title type="conf_year">2016</title>
-        <author ref="#person__l-mueller-dipf-de">
+        <title>Historische Begriffe der Erziehungswissen-schaft - Erzeugung einer Ontologie</title><title type="conf_year">2016</title><author ref="#person__l-mueller-dipf-de">
           <name>
             <surname>Müller</surname>
             <forename>Lars</forename>
           </name>
-          <affiliation ref="#org__346">DIPF, Deutschland</affiliation>
+          <affiliation ref="#org__251">DIPF, Deutschland</affiliation>
           <email>l.mueller@dipf.de</email>
         </author>
       </titleStmt>

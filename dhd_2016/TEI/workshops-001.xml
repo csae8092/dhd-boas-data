@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Komponisten-Datenbanken / -Portale: Entwicklungsmöglich-keiten, Austauschformate und Vernetzungspotential</title><title type="conf_year">2016</title>
-        <author ref="#person__blanken-bach-leipzig-de">
+        <title>Komponisten-Datenbanken / -Portale: Entwicklungsmöglich-keiten, Austauschformate und Vernetzungspotential</title><title type="conf_year">2016</title><author ref="#person__blanken-bach-leipzig-de">
           <name>
             <surname>Blanken</surname>
             <forename>Christine</forename>
           </name>
-          <affiliation ref="#org__205">Bach-Archiv Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__207">Bach-Archiv Leipzig, Deutschland</affiliation>
           <email>blanken@bach-leipzig.de</email>
         </author>
         <author ref="#person__rettinghaus-bach-leipzig-de">
@@ -16,7 +15,7 @@
             <surname>Rettinghaus</surname>
             <forename>Klaus</forename>
           </name>
-          <affiliation ref="#org__205">Bach-Archiv Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__207">Bach-Archiv Leipzig, Deutschland</affiliation>
           <email>rettinghaus@bach-leipzig.de</email>
         </author>
         <author ref="#person__christine-siegert-beethoven-haus-bonn-de">
@@ -24,7 +23,7 @@
             <surname>Siegert</surname>
             <forename>Christine</forename>
           </name>
-          <affiliation ref="#org__273">Beethoven-Haus Bonn, Deutschland</affiliation>
+          <affiliation ref="#org__209">Beethoven-Haus Bonn, Deutschland</affiliation>
           <email>Christine.Siegert@beethoven-haus-bonn.de</email>
         </author>
         <author ref="#person__dubowy-mozarteum-at">
@@ -32,7 +31,7 @@
             <surname>Dubowy</surname>
             <forename>Norbert</forename>
           </name>
-          <affiliation ref="#org__274">Mozarteum, Mozart-Institut, Digitale Mozart-Edition, Salzburg, Oesterreich</affiliation>
+          <affiliation ref="#org__210">Mozarteum, Mozart-Institut, Digitale Mozart-Edition, Salzburg, Oesterreich</affiliation>
           <email>dubowy@mozarteum.at</email>
         </author>
         <author ref="#person__tobias-schwinger-sbb-spk-berlin-de">
@@ -40,7 +39,7 @@
             <surname>Schwinger</surname>
             <forename>Tobias</forename>
           </name>
-          <affiliation ref="#org__275">Staatsbibliothek zu Berlin, KoFIM-Projekt, Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__211">Staatsbibliothek zu Berlin, KoFIM-Projekt, Berlin, Deutschland</affiliation>
           <email>Tobias.Schwinger@sbb.spk-berlin.de</email>
         </author>
         <author ref="#person__guenter-muehlberger-uibk-ac-at">
@@ -48,7 +47,7 @@
             <surname>Muehlberger</surname>
             <forename>Guenter</forename>
           </name>
-          <affiliation ref="#org__276">Universitaet Innsbruck, Institut fuer Germanistik, Innsbruck, Oesterreich</affiliation>
+          <affiliation ref="#org__212">Universitaet Innsbruck, Institut fuer Germanistik, Innsbruck, Oesterreich</affiliation>
           <email>guenter.muehlberger@uibk.ac.at</email>
         </author>
         <author ref="#person__vincent-christlein-fau-de">
@@ -56,7 +55,7 @@
             <surname>Christlein</surname>
             <forename>Vincent</forename>
           </name>
-          <affiliation ref="#org__76">Universitaet Erlangen-Nuernberg, Institut fuer Informatik, Erlangen, Deutschland</affiliation>
+          <affiliation ref="#org__213">Universitaet Erlangen-Nuernberg, Institut fuer Informatik, Erlangen, Deutschland</affiliation>
           <email>vincent.christlein@fau.de</email>
         </author>
         <author ref="#person__stadler-weber-gesamtausgabe-de">
@@ -64,7 +63,7 @@
             <surname>Stadler</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__277">Carl-Maria-von-Weber-Gesamtausgabe, Detmold, Deutschland</affiliation>
+          <affiliation ref="#org__214">Carl-Maria-von-Weber-Gesamtausgabe, Detmold, Deutschland</affiliation>
           <email>stadler@weber-gesamtausgabe.de</email>
         </author>
         <author ref="#person__maria-schildt-musik-uu-se">
@@ -72,7 +71,7 @@
             <surname>Schildt</surname>
             <forename>Maria</forename>
           </name>
-          <affiliation ref="#org__278">Uppsala Universitet, Department of Musicology, Dueben Collection Database Uppsala, Schweden</affiliation>
+          <affiliation ref="#org__215">Uppsala Universitet, Department of Musicology, Dueben Collection Database Uppsala, Schweden</affiliation>
           <email>maria.schildt@musik.uu.se</email>
         </author>
         <author ref="#person__barbara-wiermann-slub-dresden-de">
@@ -80,7 +79,7 @@
             <surname>Wiermann</surname>
             <forename>Barbara</forename>
           </name>
-          <affiliation ref="#org__24">Saechsische Landesbibliothek - Staats- und Universitaetsbibliothek Dresden, Musiksammlung, Dresden, Deutschland</affiliation>
+          <affiliation ref="#org__43">Saechsische Landesbibliothek - Staats- und Universitaetsbibliothek Dresden, Musiksammlung, Dresden, Deutschland</affiliation>
           <email>Barbara.Wiermann@slub-dresden.de</email>
         </author>
         <author ref="#person__f-schmidt-dnb-de">
@@ -88,7 +87,7 @@
             <surname>Schmidt</surname>
             <forename>Frieder</forename>
           </name>
-          <affiliation ref="#org__279">Deutsche Nationalbibliothek, Papierhistorische Sammlungen, Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__64">Deutsche Nationalbibliothek, Papierhistorische Sammlungen, Leipzig, Deutschland</affiliation>
           <email>F.Schmidt@dnb.de</email>
         </author>
         <author ref="#person__dietmar-schneider-startmail-com">
@@ -96,7 +95,7 @@
             <surname>Schneider</surname>
             <forename>Dietmar</forename>
           </name>
-          <affiliation ref="#org__280">Privatier, Nuernberg (common science)</affiliation>
+          <affiliation ref="#org__216">Privatier, Nuernberg (common science)</affiliation>
           <email>Dietmar.Schneider@Startmail.com</email>
         </author>
         <author ref="#person__hausmann-bach-leipzig-de">
@@ -104,7 +103,7 @@
             <surname>Hausmann</surname>
             <forename>Christiane</forename>
           </name>
-          <affiliation ref="#org__205">Bach-Archiv Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__207">Bach-Archiv Leipzig, Deutschland</affiliation>
           <email>hausmann@bach-leipzig.de</email>
         </author>
         <author ref="#person__morgenstern-mozarteum-at">
@@ -112,7 +111,7 @@
             <surname>Morgenstern</surname>
             <forename>Anja</forename>
           </name>
-          <affiliation ref="#org__274">Mozarteum, Mozart-Institut, Digitale Mozart-Edition, Salzburg, Oesterreich</affiliation>
+          <affiliation ref="#org__210">Mozarteum, Mozart-Institut, Digitale Mozart-Edition, Salzburg, Oesterreich</affiliation>
           <email>morgenstern@mozarteum.at</email>
         </author>
         <author ref="#person__wollny-bach-leipzig-de">
@@ -120,7 +119,7 @@
             <surname>Wollny</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__205">Bach-Archiv Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__207">Bach-Archiv Leipzig, Deutschland</affiliation>
           <email>wollny@bach-leipzig.de</email>
         </author>
         <author ref="#person__kupferschmidt-rz-uni-leipzig-de">
@@ -128,7 +127,7 @@
             <surname>Kupferschmidt</surname>
             <forename>Jens</forename>
           </name>
-          <affiliation ref="#org__17">Universitaet Leipzig, Rechenzentrum, Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__220">Universitaet Leipzig, Rechenzentrum, Leipzig, Deutschland</affiliation>
           <email>kupferschmidt@rz.uni-leipzig.de</email>
         </author>
         <author ref="#person__barwald-bach-leipzig-de">
@@ -136,7 +135,7 @@
             <surname>Bärwald</surname>
             <forename>Manuel</forename>
           </name>
-          <affiliation ref="#org__205">Bach-Archiv Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__207">Bach-Archiv Leipzig, Deutschland</affiliation>
           <email>barwald@bach-leipzig.de</email>
         </author>
       </titleStmt>

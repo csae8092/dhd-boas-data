@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Rolle von Mensch und Computer in den Digital Humanities</title><title type="conf_year">2016</title>
-        <author ref="#person__daniel-keim-uni-konstanz-de">
+        <title>Die Rolle von Mensch und Computer in den Digital Humanities</title><title type="conf_year">2016</title><author ref="#person__daniel-keim-uni-konstanz-de">
           <name>
             <surname>Keim</surname>
             <forename>Daniel A.</forename>
           </name>
-          <affiliation ref="#org__52">Universität Konstanz, Deutschland</affiliation>
+          <affiliation ref="#org__29">Universität Konstanz, Deutschland</affiliation>
           <email>Daniel.Keim@uni-konstanz.de</email>
         </author>
       </titleStmt>

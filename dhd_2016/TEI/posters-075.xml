@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Automatische Typenbestimmung in historischen Drucken</title><title type="conf_year">2016</title>
-        <author ref="#person__weichsel-uni-mainz-de">
+        <title>Automatische Typenbestimmung in historischen Drucken</title><title type="conf_year">2016</title><author ref="#person__weichsel-uni-mainz-de">
           <name>
             <surname>Weichselbaumer</surname>
             <forename>Nikolaus</forename>
           </name>
-          <affiliation ref="#org__70">Johannes Gutenberg Universität Mainz, Deutschland</affiliation>
+          <affiliation ref="#org__41">Johannes Gutenberg Universität Mainz, Deutschland</affiliation>
           <email>weichsel@uni-mainz.de</email>
         </author>
         <author ref="#person__vincent-christlein-fau-de">
@@ -16,7 +15,7 @@
             <surname>Christlein</surname>
             <forename>Vincent</forename>
           </name>
-          <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__69">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>vincent.christlein@fau.de</email>
         </author>
       </titleStmt>

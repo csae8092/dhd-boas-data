@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Semantisch angereicherte Präsentationsschichten für geisteswissenschaftliche Webanwendungen</title>
-                    <title type="sub">Methodenvergleich und Referenzimplementierung</title><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub">Methodenvergleich und Referenzimplementierung</title><title type="conf_year">2019</title></title>
                 <author ref="#person__patrick-toschka-adwmainz-de">
                     <persName>
                         <surname>Toschka</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
                     <email>patrick.toschka@adwmainz.de</email>
                 </author>
             </titleStmt>

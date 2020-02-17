@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Knowledge-Based Support for Scholarly Editing and Text Processing</title><title type="conf_year">2016</title>
-        <author ref="#person__info-janakittelmann-de">
+        <title>Knowledge-Based Support for Scholarly Editing and Text Processing</title><title type="conf_year">2016</title><author ref="#person__info-janakittelmann-de">
           <name>
             <surname>Kittelmann</surname>
             <forename>Jana</forename>
           </name>
-          <affiliation ref="#org__72">MLU Halle-Wittenberg, Deutschland</affiliation>
+          <affiliation ref="#org__58">MLU Halle-Wittenberg, Deutschland</affiliation>
           <email>info@janakittelmann.de</email>
         </author>
         <author ref="#person__info-christophwernhard-com">
@@ -16,7 +15,7 @@
             <surname>Wernhard</surname>
             <forename>Christoph</forename>
           </name>
-          <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
+          <affiliation ref="#org__148">TU Dresden, Deutschland</affiliation>
           <email>info@christophwernhard.com</email>
         </author>
       </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Der Sammlung gerecht werden: Kritisch-generative Methoden zur Konzeption experimenteller Visualisierungen</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__doerk-fh-potsdam-de">
                     <persName>
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
                     </persName>
-                    <affiliation ref="#org__54">Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__91">Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>doerk@fh-potsdam.de</email>
                 </author>
                 <author ref="#person__k-glinka-smb-spk-berlin-de">
@@ -19,7 +18,7 @@
                         <surname>Glinka</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__64">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
+                    <affiliation ref="#org__57">Stiftung Preußischer Kulturbesitz, Deutschland</affiliation>
                     <email>k.glinka@smb.spk-berlin.de</email>
                 </author>
             </titleStmt>

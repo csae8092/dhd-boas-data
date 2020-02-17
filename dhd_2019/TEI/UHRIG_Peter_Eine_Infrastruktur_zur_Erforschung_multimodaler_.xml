@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Eine Infrastruktur zur Erforschung multimodaler Kommunikation</title><title type="conf_year">2019</title>
-                <author ref="#person__peter-uhrig-uos-de">
+                <title>Eine Infrastruktur zur Erforschung multimodaler Kommunikation</title><title type="conf_year">2019</title><author ref="#person__peter-uhrig-uos-de">
                     <persName>
                         <surname>Uhrig</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__52">Universität Osnabrück, Deutschland</affiliation>
+                    <affiliation ref="#org__137">Universität Osnabrück, Deutschland</affiliation>
                     <email>peter.uhrig@uos.de</email>
                 </author>
             </titleStmt>

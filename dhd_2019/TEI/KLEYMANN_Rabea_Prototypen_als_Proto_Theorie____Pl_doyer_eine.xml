@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Prototypen als Proto-Theorie? – Plädoyer einer digitalen Theoriebildung</title><title type="conf_year">2019</title>
-                <author ref="#person__r-kleymann90-gmail-com">
+                <title>Prototypen als Proto-Theorie? – Plädoyer einer digitalen Theoriebildung</title><title type="conf_year">2019</title><author ref="#person__r-kleymann90-gmail-com">
                     <persName>
                         <surname>Kleymann</surname>
                         <forename>Rabea</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>r.kleymann90@gmail.com</email>
                 </author>
             </titleStmt>

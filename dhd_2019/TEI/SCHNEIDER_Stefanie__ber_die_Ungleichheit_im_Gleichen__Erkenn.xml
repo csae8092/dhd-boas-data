@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Über die Ungleichheit im Gleichen. Erkennung unterschiedlicher Reproduktionen desselben Objekts in kunsthistorischen Bildbeständen</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__stefanie-schneider-itg-uni-muenchen-de">
                     <persName>
                         <surname>Schneider</surname>
                         <forename>Stefanie</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>stefanie.schneider@itg.uni-muenchen.de</email>
                 </author>
             </titleStmt>

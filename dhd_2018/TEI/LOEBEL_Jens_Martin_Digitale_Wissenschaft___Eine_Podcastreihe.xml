@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digitale Wissenschaft – Eine Podcastreihe</title><title type="conf_year">2018</title>
-                <author ref="#person__loebel-bitgilde-de">
+                <title>Digitale Wissenschaft – Eine Podcastreihe</title><title type="conf_year">2018</title><author ref="#person__loebel-bitgilde-de">
                     <persName>
                         <surname>Loebel</surname>
                         <forename>Jens-Martin</forename>
                     </persName>
-                    <affiliation ref="#org__169">bitGilde IT Solutions UG, Deutschland</affiliation>
+                    <affiliation ref="#org__383">bitGilde IT Solutions UG, Deutschland</affiliation>
                     <email>loebel@bitgilde.de</email>
                 </author>
                 <author ref="#person__kontakt-carolinhahn-de">
@@ -16,7 +15,7 @@
                         <surname>Hahn</surname>
                         <forename>Carolin</forename>
                     </persName>
-                    <affiliation ref="#org__170">Beste Worte GmbH</affiliation>
+                    <affiliation ref="#org__384">Beste Worte GmbH</affiliation>
                     <email>kontakt@carolinhahn.de</email>
                 </author>
             </titleStmt>

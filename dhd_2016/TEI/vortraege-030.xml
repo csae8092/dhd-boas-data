@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Annotation und Distant Reading: Probleme, Synergien, Perspektiven</title><title type="conf_year">2016</title>
-        <author ref="#person__angelika-zirker-uni-tuebingen-de">
+        <title>Annotation und Distant Reading: Probleme, Synergien, Perspektiven</title><title type="conf_year">2016</title><author ref="#person__angelika-zirker-uni-tuebingen-de">
           <name>
             <surname>Zirker</surname>
             <forename>Angelika</forename>
           </name>
-          <affiliation ref="#org__65">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__86">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
           <email>angelika.zirker@uni-tuebingen.de</email>
         </author>
         <author ref="#person__m-bauer-uni-tuebingen-de">
@@ -16,7 +15,7 @@
             <surname>Bauer</surname>
             <forename>Matthias</forename>
           </name>
-          <affiliation ref="#org__65">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__86">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
           <email>m.bauer@uni-tuebingen.de</email>
         </author>
       </titleStmt>

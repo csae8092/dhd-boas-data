@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The 'Tiroler Soldaten-Zeitung' and its Authors. A Computer-Aided Search for Robert Musil</title><title type="conf_year">2018</title>
-                <author ref="#person__massimo-salgaro-univr-it">
+                <title>The 'Tiroler Soldaten-Zeitung' and its Authors. A Computer-Aided Search for Robert Musil</title><title type="conf_year">2018</title><author ref="#person__massimo-salgaro-univr-it">
                     <persName>
                         <surname>Salgaro</surname>
                         <forename>Massimo</forename>
                     </persName>
-                    <affiliation ref="#org__183">University of Verona, Italy</affiliation>
+                    <affiliation ref="#org__385">University of Verona, Italy</affiliation>
                     <email>massimo.salgaro@univr.it</email>
                 </author>
                 <author ref="#person__simone-rebora-univr-it">
@@ -16,7 +15,7 @@
                         <surname>Rebora</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation ref="#org__183">University of Verona, Italy</affiliation>
+                    <affiliation ref="#org__385">University of Verona, Italy</affiliation>
                     <email>simone.rebora@univr.it</email>
                 </author>
                 <author ref="#person__gerhard-lauer-unibas-ch">
@@ -24,7 +23,7 @@
                         <surname>Lauer</surname>
                         <forename>Gerhard</forename>
                     </persName>
-                    <affiliation ref="#org__185">University of Basel, Switzerland</affiliation>
+                    <affiliation ref="#org__387">University of Basel, Switzerland</affiliation>
                     <email>gerhard.lauer@unibas.ch</email>
                 </author>
                 <author ref="#person__berenike-herrmann-unibas-ch">
@@ -32,7 +31,7 @@
                         <surname>Herrmann</surname>
                         <forename>J. Berenike</forename>
                     </persName>
-                    <affiliation ref="#org__185">University of Basel, Switzerland</affiliation>
+                    <affiliation ref="#org__387">University of Basel, Switzerland</affiliation>
                     <email>berenike.herrmann@unibas.ch</email>
                 </author>
             </titleStmt>

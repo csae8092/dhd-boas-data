@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Entitäten im Fokus am Beispiel von Captivity Narratives</title><title type="conf_year">2018</title>
-                <author ref="#person__st150918-stud-uni-stuttgart-de">
+                <title>Entitäten im Fokus am Beispiel von Captivity Narratives</title><title type="conf_year">2018</title><author ref="#person__st150918-stud-uni-stuttgart-de">
                     <persName>
                         <surname>Kessler</surname>
                         <forename>Linda</forename>
                     </persName>
-                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
                     <email>st150918@stud.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__st151509-stud-uni-stuttgart-de">
@@ -16,7 +15,7 @@
                         <surname>Braun</surname>
                         <forename>Tamara</forename>
                     </persName>
-                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
                     <email>st151509@stud.uni-stuttgart.de</email>
                 </author>
                 <author ref="#person__st102459-stud-uni-stuttgart-de">
@@ -24,7 +23,7 @@
                         <surname>Preuß</surname>
                         <forename>Tanja</forename>
                     </persName>
-                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
                     <email>st102459@stud.uni-stuttgart.de</email>
                 </author>
             </titleStmt>

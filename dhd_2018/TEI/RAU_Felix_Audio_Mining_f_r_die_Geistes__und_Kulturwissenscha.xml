@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Audio Mining für die Geistes- und Kulturwissenschaften: Nutzungsszenarien und Herausforderungen</title><title type="conf_year">2018</title>
-                <author ref="#person__joachim-koehler-iais-fraunhofer-de">
+                <title>Audio Mining für die Geistes- und Kulturwissenschaften: Nutzungsszenarien und Herausforderungen</title><title type="conf_year">2018</title><author ref="#person__joachim-koehler-iais-fraunhofer-de">
                     <persName>
                         <surname>Köhler</surname>
                         <forename>Joachim</forename>
                     </persName>
-                    <affiliation ref="#org__203">Fraunhofer IAIS</affiliation>
+                    <affiliation ref="#org__468">Fraunhofer IAIS</affiliation>
                     <email>joachim.koehler@iais.fraunhofer.de</email>
                 </author>
                 <author ref="#person__almut-leh-fernuni-hagen-de">
@@ -16,7 +15,7 @@
                         <surname>Leh</surname>
                         <forename>Almut</forename>
                     </persName>
-                    <affiliation ref="#org__204">FernUniversität in Hagen</affiliation>
+                    <affiliation ref="#org__469">FernUniversität in Hagen</affiliation>
                     <email>almut.leh@fernuni-hagen.de</email>
                 </author>
                 <author ref="#person__sprachwissenschaft-uni-koeln-de">
@@ -24,7 +23,7 @@
                         <surname>Himmelmann</surname>
                         <forename>Nikolaus</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>sprachwissenschaft@uni-koeln.de</email>
                 </author>
                 <author ref="#person__f-rau-uni-koeln-de">
@@ -32,7 +31,7 @@
                         <surname>Rau</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>f.rau@uni-koeln.de</email>
                 </author>
             </titleStmt>

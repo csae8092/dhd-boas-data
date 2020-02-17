@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Erschließung digitaler Ressourcen und Forschungsdaten in den Digital Humanities: Der Digitale Wissensspeicher an der Berlin-Brandenburgischen Akademie der Wissenschaften </title><title type="conf_year">2016</title>
-        <author ref="#person__grabsch-bbaw-de">
+        <title>Erschließung digitaler Ressourcen und Forschungsdaten in den Digital Humanities: Der Digitale Wissensspeicher an der Berlin-Brandenburgischen Akademie der Wissenschaften </title><title type="conf_year">2016</title><author ref="#person__grabsch-bbaw-de">
           <name>
             <surname>Grabsch</surname>
             <forename>Sascha</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>grabsch@bbaw.de</email>
         </author>
         <author ref="#person__juergens-bbaw-de">
@@ -16,7 +15,7 @@
             <surname>Jürgens</surname>
             <forename>Marco</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>juergens@bbaw.de</email>
         </author>
       </titleStmt>

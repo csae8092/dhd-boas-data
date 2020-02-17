@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title><title type="conf_year">2019</title>
-                <author ref="#person__katja-metzmacher-uni-koeln-de">
+                <title>Umfrage zu Forschungsdaten in den Geistes- und Humanwissenschaften an der Universität zu Köln</title><title type="conf_year">2019</title><author ref="#person__katja-metzmacher-uni-koeln-de">
                     <persName>
                         <surname>Metzmacher</surname>
                         <forename>Katja</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>katja.metzmacher@uni-koeln.de</email>
                 </author>
                 <author ref="#person__patrick-helling-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Helling</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>patrick.helling@uni-koeln.de</email>
                 </author>
                 <author ref="#person__jonathan-blumtritt-uni-koeln-de">
@@ -24,7 +23,7 @@
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__bmathiak-uni-koeln-de">
@@ -32,7 +31,7 @@
                         <surname>Mathiak</surname>
                         <forename>Brigitte</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>bmathiak@uni-koeln.de</email>
                 </author>
             </titleStmt>

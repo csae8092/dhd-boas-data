@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Modelling the Scholarly Domain beyond Infrastructure </title><title type="conf_year">2016</title>
-        <author ref="#person__stefan-gradmann-kuleuven-be">
+        <title>Modelling the Scholarly Domain beyond Infrastructure </title><title type="conf_year">2016</title><author ref="#person__stefan-gradmann-kuleuven-be">
           <name>
             <surname>Gradmann</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__259">Katholieke Universiteit Leuven, Literary Studies Research Unit, Belgien</affiliation>
+          <affiliation ref="#org__340">Katholieke Universiteit Leuven, Literary Studies Research Unit, Belgien</affiliation>
           <email>stefan.gradmann@kuleuven.be</email>
         </author>
         <author ref="#person__hennicke-leibniz-gei-de">
@@ -16,7 +15,7 @@
             <surname>Hennicke</surname>
             <forename>Steffen</forename>
           </name>
-          <affiliation ref="#org__63">Georg-Eckert-Institut, Leibniz-Institut für internationale Schulbuchforschung, Deutschland</affiliation>
+          <affiliation ref="#org__83">Georg-Eckert-Institut, Leibniz-Institut für internationale Schulbuchforschung, Deutschland</affiliation>
           <email>hennicke@leibniz-gei.de</email>
         </author>
         <author ref="#person__gerold-tschumpel-student-hu-berlin-de">
@@ -24,7 +23,7 @@
             <surname>Tschumpel</surname>
             <forename>Gerold</forename>
           </name>
-          <affiliation ref="#org__260">Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Deutschland</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Deutschland</affiliation>
           <email>gerold.tschumpel@student.hu-berlin.de</email>
         </author>
         <author ref="#person__kristin-dill-univie-ac-at">
@@ -32,7 +31,7 @@
             <surname>Dill</surname>
             <forename>Kristin</forename>
           </name>
-          <affiliation ref="#org__10">Universität Wien, Institut für Germanistik, Österreich</affiliation>
+          <affiliation ref="#org__1">Universität Wien, Institut für Germanistik, Österreich</affiliation>
           <email>kristin.dill@univie.ac.at</email>
         </author>
         <author ref="#person__kthoden-mpiwg-berlin-mpg-de">
@@ -40,7 +39,7 @@
             <surname>Thoden</surname>
             <forename>Klaus</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Deutschland</affiliation>
           <email>kthoden@mpiwg-berlin.mpg.de</email>
         </author>
         <author ref="#person__alois-pichler-fof-uib-no">
@@ -48,7 +47,7 @@
             <surname>Pichler</surname>
             <forename>Alois</forename>
           </name>
-          <affiliation ref="#org__1">Universität Bergen, Philosophisches Institut, Norwegen</affiliation>
+          <affiliation ref="#org__341">Universität Bergen, Philosophisches Institut, Norwegen</affiliation>
           <email>alois.pichler@fof.uib.no</email>
         </author>
         <author ref="#person__christian-morbidoni-gmail-com">
@@ -56,7 +55,7 @@
             <surname>Morbindoni</surname>
             <forename>Christian</forename>
           </name>
-          <affiliation ref="#org__261">Semedia, Università Politecnica delle Marche, Ancona, Italien</affiliation>
+          <affiliation ref="#org__342">Semedia, Università Politecnica delle Marche, Ancona, Italien</affiliation>
           <email>christian.morbidoni@gmail.com</email>
         </author>
         <author ref="#person__jstiller-mpiwg-berlin-mpg-de">
@@ -64,7 +63,7 @@
             <surname>Stiller</surname>
             <forename>Juliane</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Deutschland</affiliation>
           <email>jstiller@mpiwg-berlin.mpg.de</email>
         </author>
       </titleStmt>

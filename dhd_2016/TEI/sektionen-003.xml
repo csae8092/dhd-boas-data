@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Arthistory’s Next Topmodel? Der Trend zur Ontologie</title><title type="conf_year">2016</title>
-        <author ref="#person__georg-schelbert-hu-berlin-de">
+        <title>Arthistory’s Next Topmodel? Der Trend zur Ontologie</title><title type="conf_year">2016</title><author ref="#person__georg-schelbert-hu-berlin-de">
           <name>
             <surname>Schelbert</surname>
             <forename>Georg</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin</affiliation>
           <email>georg.schelbert@hu-berlin.de</email>
         </author>
         <author ref="#person__g-hohmann-deutsches-museum-de">
@@ -16,7 +15,7 @@
             <surname>Hohmann</surname>
             <forename>Georg</forename>
           </name>
-          <affiliation ref="#org__262">Deutsches Museum, München</affiliation>
+          <affiliation ref="#org__305">Deutsches Museum, München</affiliation>
           <email>g.hohmann@deutsches-museum.de</email>
         </author>
         <author ref="#person__piotr-kuroczynski-herder-institut-de">
@@ -24,7 +23,7 @@
             <surname>Kuroczyński</surname>
             <forename>Piotr</forename>
           </name>
-          <affiliation ref="#org__74">Herder-Institut für historische Ostmitteleuropaforschung, Marburg</affiliation>
+          <affiliation ref="#org__88">Herder-Institut für historische Ostmitteleuropaforschung, Marburg</affiliation>
           <email>piotr.kuroczynski@herder-institut.de</email>
         </author>
         <author ref="#person__raspe-biblhertz-it">
@@ -32,7 +31,7 @@
             <surname>Raspe</surname>
             <forename>Martin</forename>
           </name>
-          <affiliation ref="#org__263">Bibliotheca Hertziana - Max-Planck-Institut für Kunstgeschichte, Rom</affiliation>
+          <affiliation ref="#org__306">Bibliotheca Hertziana - Max-Planck-Institut für Kunstgeschichte, Rom</affiliation>
           <email>raspe@biblhertz.it</email>
         </author>
       </titleStmt>

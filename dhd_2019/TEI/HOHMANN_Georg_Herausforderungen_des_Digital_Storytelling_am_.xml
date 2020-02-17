@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Herausforderungen des Digital Storytelling am Beispiel des VRlabs des Deutschen Museums</title><title type="conf_year">2019</title>
-                <author ref="#person__g-hohmann-deutsches-museum-de">
+                <title>Herausforderungen des Digital Storytelling am Beispiel des VRlabs des Deutschen Museums</title><title type="conf_year">2019</title><author ref="#person__g-hohmann-deutsches-museum-de">
                     <persName>
                         <surname>Hohmann</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__382">Deutsches Museum, Deutschland</affiliation>
+                    <affiliation ref="#org__132">Deutsches Museum, Deutschland</affiliation>
                     <email>g.hohmann@deutsches-museum.de</email>
                 </author>
                 <author ref="#person__a-geipel-deutsches-museum-de">
@@ -16,7 +15,7 @@
                         <surname>Geipel</surname>
                         <forename>Andrea</forename>
                     </persName>
-                    <affiliation ref="#org__382">Deutsches Museum, Deutschland</affiliation>
+                    <affiliation ref="#org__132">Deutsches Museum, Deutschland</affiliation>
                     <email>a.geipel@deutsches-museum.de</email>
                 </author>
                 <author ref="#person__c-henkensiefken-deutsches-museum-de">
@@ -24,7 +23,7 @@
                         <surname>Henkensiefken</surname>
                         <forename>Claus</forename>
                     </persName>
-                    <affiliation ref="#org__382">Deutsches Museum, Deutschland</affiliation>
+                    <affiliation ref="#org__132">Deutsches Museum, Deutschland</affiliation>
                     <email>c.henkensiefken@deutsches-museum.de</email>
                 </author>
             </titleStmt>

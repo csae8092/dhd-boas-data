@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Burrows Zeta: Varianten und Evaluation</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__schoech-uni-trier-de">
                     <persName>
                         <surname>Schöch</surname>
                         <forename>Christof</forename>
                     </persName>
-                    <affiliation ref="#org__59">Universität Trier, Deutschland</affiliation>
+                    <affiliation ref="#org__25">Universität Trier, Deutschland</affiliation>
                     <email>schoech@uni-trier.de</email>
                 </author>
                 <author ref="#person__zehe-informatik-uni-wuerzburg-de">
@@ -19,7 +18,7 @@
                         <surname>Zehe</surname>
                         <forename>Albin</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>zehe@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__jose-calvo-uni-wuerzburg-de">
@@ -27,7 +26,7 @@
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>jose.calvo@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -35,7 +34,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

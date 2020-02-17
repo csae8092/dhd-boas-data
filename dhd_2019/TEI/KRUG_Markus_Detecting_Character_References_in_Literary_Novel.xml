@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Detecting Character References in Literary Novels using a Two Stage Contextual Deep Learning approach</title><title type="conf_year">2019</title>
-                <author ref="#person__markus-krug-informatik-uni-wuerzburg-de">
+                <title>Detecting Character References in Literary Novels using a Two Stage Contextual Deep Learning approach</title><title type="conf_year">2019</title><author ref="#person__markus-krug-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Krug</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__419">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__98">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__sebastian-kempf-informatik-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
                         <surname>Kempf</surname>
                         <forename>Sebastian</forename>
                     </persName>
-                    <affiliation ref="#org__419">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__98">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>sebastian.kempf@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__david-schmidt-informatik-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
                         <surname>David</surname>
                         <forename>Schmidt</forename>
                     </persName>
-                    <affiliation ref="#org__419">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__98">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>david.schmidt@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__lukas-weimer-uni-wuerzburg-de">
@@ -32,7 +31,7 @@
                         <surname>Lukas</surname>
                         <forename>Weimer</forename>
                     </persName>
-                    <affiliation ref="#org__422">Chair of Literary Computing, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__101">Chair of Literary Computing, Universität Würzburg, Deutschland</affiliation>
                     <email>lukas.weimer@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__frank-puppe-informatik-uni-wuerzburg-de">
@@ -40,7 +39,7 @@
                         <surname>Frank</surname>
                         <forename>Puppe</forename>
                     </persName>
-                    <affiliation ref="#org__419">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__98">Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland</affiliation>
                     <email>frank.puppe@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">“Kann man da eben mal was eintragen und visualisieren?” Digitaler Praxistest für die DARIAH-DE-Infrastruktur</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__klaffki-hab-de">
                     <persName>
                         <surname>Klaffki</surname>
                         <forename>Lisa</forename>
                     </persName>
-                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>klaffki@hab.de</email>
                 </author>
                 <author ref="#person__steyer-hab-de">
@@ -19,7 +18,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation ref="#org__27 #org__28">Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__48 #org__50">Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
             </titleStmt>

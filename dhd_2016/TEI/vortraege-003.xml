@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Algorithmische Visualisierungen: Ausdruck von Routinen und Denkstilen in den Digital Humanities</title><title type="conf_year">2016</title>
-        <author ref="#person__bubenhofer-cl-uzh-ch">
+        <title>Algorithmische Visualisierungen: Ausdruck von Routinen und Denkstilen in den Digital Humanities</title><title type="conf_year">2016</title><author ref="#person__bubenhofer-cl-uzh-ch">
           <name>
             <surname>Bubenhofer</surname>
             <forename>Noah</forename>
           </name>
-          <affiliation ref="#org__97">Universität Zürich, Schweiz</affiliation>
+          <affiliation ref="#org__135">Universität Zürich, Schweiz</affiliation>
           <email>bubenhofer@cl.uzh.ch</email>
         </author>
       </titleStmt>

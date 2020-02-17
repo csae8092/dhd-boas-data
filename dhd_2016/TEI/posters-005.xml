@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitales Publizieren. Bedingungen – Optionen – Empfehlungen</title><title type="conf_year">2016</title>
-        <author ref="#person__staecker-hab-de">
+        <title>Digitales Publizieren. Bedingungen – Optionen – Empfehlungen</title><title type="conf_year">2016</title><author ref="#person__staecker-hab-de">
           <name>
             <surname>Stäcker</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel</affiliation>
+          <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel</affiliation>
           <email>staecker@hab.de</email>
         </author>
         <author ref="#person__baum-hab-de">
@@ -16,7 +15,7 @@
             <surname>Baum</surname>
             <forename>Constanze</forename>
           </name>
-          <affiliation ref="#org__29">MWW-Forschungsverbund / Herzog August Bibliothek Wolfenbüttel</affiliation>
+          <affiliation ref="#org__334">MWW-Forschungsverbund / Herzog August Bibliothek Wolfenbüttel</affiliation>
           <email>baum@hab.de</email>
         </author>
         <author ref="#person__steyer-hab-de">
@@ -24,7 +23,7 @@
             <surname>Steyer</surname>
             <forename>Timo</forename>
           </name>
-          <affiliation ref="#org__29">MWW-Forschungsverbund / Herzog August Bibliothek Wolfenbüttel</affiliation>
+          <affiliation ref="#org__334">MWW-Forschungsverbund / Herzog August Bibliothek Wolfenbüttel</affiliation>
           <email>steyer@hab.de</email>
         </author>
         <author ref="#person__michael-kleineberg-ub-hu-berlin-de">
@@ -32,7 +31,7 @@
             <surname>Kleineberg</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt Universität zu Berlin</affiliation>
+          <affiliation ref="#org__78">Humboldt Universität zu Berlin</affiliation>
           <email>michael.kleineberg@ub.hu-berlin.de</email>
         </author>
         <author ref="#person__anne-baillot-gmail-com">
@@ -40,7 +39,7 @@
             <surname>Baillot</surname>
             <forename>Anne</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt Universität zu Berlin</affiliation>
+          <affiliation ref="#org__78">Humboldt Universität zu Berlin</affiliation>
           <email>anne.baillot@gmail.com</email>
         </author>
         <author ref="#person__ben-kaden-ub-hu-berlin-de">
@@ -48,7 +47,7 @@
             <surname>Kaden</surname>
             <forename>Ben</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt Universität zu Berlin</affiliation>
+          <affiliation ref="#org__78">Humboldt Universität zu Berlin</affiliation>
           <email>ben.kaden@ub.hu-berlin.de</email>
         </author>
         <author ref="#person__echen-mpiwg-berlin-mpg-de">
@@ -56,7 +55,7 @@
             <surname>Chen</surname>
             <forename>Esther</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Instiut für Wissenschaftsgeschichte</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Instiut für Wissenschaftsgeschichte</affiliation>
           <email>echen@mpiwg-berlin.mpg.de</email>
         </author>
         <author ref="#person__walkowski-bbaw-de">
@@ -64,7 +63,7 @@
             <surname>Walkowski</surname>
             <forename>Nils-Oliver</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
           <email>walkowski@bbaw.de</email>
         </author>
         <author ref="#person__christian-schwaderer-uni-tuebingen-de">
@@ -72,7 +71,7 @@
             <surname>Schwaderer</surname>
             <forename>Christian</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen</affiliation>
           <email>christian.schwaderer@uni-tuebingen.de</email>
         </author>
         <author ref="#person__thomas-ernst-uni-due-de">
@@ -80,7 +79,7 @@
             <surname>Ernst</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__73">Universität Duisburg-Essen</affiliation>
+          <affiliation ref="#org__26">Universität Duisburg-Essen</affiliation>
           <email>thomas.ernst@uni-due.de</email>
         </author>
       </titleStmt>

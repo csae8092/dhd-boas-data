@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kritik der digitalen Vernunft</title><title type="conf_year">2018</title>
-                <author ref="#person__cmsmcq-blackmesatech-com">
+                <title>Kritik der digitalen Vernunft</title><title type="conf_year">2018</title><author ref="#person__cmsmcq-blackmesatech-com">
                     <persName>
                         <surname>Sperberg-McQueen</surname>
                         <forename>C. Michael</forename>
                     </persName>
-                    <affiliation ref="#org__86">Black Mesa Technologies LLC, New Mexico</affiliation>
+                    <affiliation ref="#org__524">Black Mesa Technologies LLC, New Mexico</affiliation>
                     <email>cmsmcq@blackmesatech.com</email>
                 </author>
             </titleStmt>

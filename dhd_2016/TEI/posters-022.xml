@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Annotation natürlichsprachlicher Texte aus Onlineforen zur Entwicklung domainspezifischer Ontologien </title><title type="conf_year">2016</title>
-        <author ref="#person__hastik-linglit-tu-darmstadt-de">
+        <title>Annotation natürlichsprachlicher Texte aus Onlineforen zur Entwicklung domainspezifischer Ontologien </title><title type="conf_year">2016</title><author ref="#person__hastik-linglit-tu-darmstadt-de">
           <name>
             <surname>Hastik</surname>
             <forename>Canan</forename>
           </name>
-          <affiliation ref="#org__254">TU Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__255">TU Darmstadt, Deutschland</affiliation>
           <email>hastik@linglit.tu-darmstadt.de</email>
         </author>
       </titleStmt>

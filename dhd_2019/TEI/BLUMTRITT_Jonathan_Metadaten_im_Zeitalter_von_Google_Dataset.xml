@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Metadaten im Zeitalter von Google Dataset Search</title><title type="conf_year">2019</title>
-                <author ref="#person__jonathan-blumtritt-uni-koeln-de">
+                <title>Metadaten im Zeitalter von Google Dataset Search</title><title type="conf_year">2019</title><author ref="#person__jonathan-blumtritt-uni-koeln-de">
                     <persName>
                         <surname>Blumtritt</surname>
                         <forename>Jonathan</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities, Universität zu Köln</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities, Universität zu Köln</affiliation>
                     <email>jonathan.blumtritt@uni-koeln.de</email>
                 </author>
                 <author ref="#person__frau-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Rau</surname>
                         <forename>Felix</forename>
                     </persName>
-                    <affiliation ref="#org__403">Institut für Linguistik, Universität zu Köln</affiliation>
+                    <affiliation ref="#org__131">Institut für Linguistik, Universität zu Köln</affiliation>
                     <email>frau@uni-koeln.de</email>
                 </author>
             </titleStmt>

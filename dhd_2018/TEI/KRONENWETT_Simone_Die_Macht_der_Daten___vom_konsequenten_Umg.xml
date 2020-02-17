@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Macht der Daten - vom konsequenten Umgang mit Forschungsdaten</title><title type="conf_year">2018</title>
-                <author ref="#person__agalffy-smail-uni-koeln-de">
+                <title>Die Macht der Daten - vom konsequenten Umgang mit Forschungsdaten</title><title type="conf_year">2018</title><author ref="#person__agalffy-smail-uni-koeln-de">
                     <persName>
                         <surname>Gálffy</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>agalffy@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__julian-kamphausen-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Kamphausen</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>julian.kamphausen@uni-koeln.de</email>
                 </author>
                 <author ref="#person__simone-kronenwett-uni-koeln-de">
@@ -24,7 +23,7 @@
                         <surname>Kronenwett</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>simone.kronenwett@uni-koeln.de</email>
                 </author>
                 <author ref="#person__jan-wieners-uni-koeln-de">
@@ -32,7 +31,7 @@
                         <surname>Wieners</surname>
                         <forename>Jan G.</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>jan.wieners@uni-koeln.de</email>
                 </author>
             </titleStmt>

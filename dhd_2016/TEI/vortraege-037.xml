@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Nutzung und Kombination von Daten aus strukturierten und unstrukturierten Quellen zur Identifikation transnationaler Lebensläufe</title><title type="conf_year">2016</title>
-        <author ref="#person__tobias-gradl-uni-bamberg-de">
+        <title>Nutzung und Kombination von Daten aus strukturierten und unstrukturierten Quellen zur Identifikation transnationaler Lebensläufe</title><title type="conf_year">2016</title><author ref="#person__tobias-gradl-uni-bamberg-de">
           <name>
             <surname>Gradl</surname>
             <forename>Tobias</forename>
           </name>
-          <affiliation ref="#org__19">Universität Bamberg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Bamberg, Deutschland</affiliation>
           <email>tobias.gradl@uni-bamberg.de</email>
         </author>
         <author ref="#person__andreas-henrich-uni-bamberg-de">
@@ -16,7 +15,7 @@
             <surname>Henrich</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__19">Universität Bamberg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Bamberg, Deutschland</affiliation>
           <email>andreas.henrich@uni-bamberg.de</email>
         </author>
       </titleStmt>

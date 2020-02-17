@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>DH-Projekte Österreichischer Literaturarchive: Ein Problembericht</title><title type="conf_year">2016</title>
-        <author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
+        <title>DH-Projekte Österreichischer Literaturarchive: Ein Problembericht</title><title type="conf_year">2016</title><author ref="#person__vanessa-hannesschlaeger-oeaw-ac-at">
           <name>
             <surname>Hannesschläger</surname>
             <forename>Vanessa</forename>
           </name>
-          <affiliation ref="#org__317">ACDH-OEAW Austrian Center for Digital Humanities, Österreich</affiliation>
+          <affiliation ref="#org__254">ACDH-OEAW Austrian Center for Digital Humanities, Österreich</affiliation>
           <email>vanessa.hannesschlaeger@oeaw.ac.at</email>
         </author>
       </titleStmt>

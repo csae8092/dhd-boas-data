@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Weltkulturerbe international digital: Erweiterung der Wittgenstein Advanced Search Tools durch Semantisierung und neuronale maschinelle Übersetzung</title><title type="conf_year">2019</title>
-                <author ref="#person__i-roehrer-campus-lmu-de">
+                <title>Weltkulturerbe international digital: Erweiterung der Wittgenstein Advanced Search Tools durch Semantisierung und neuronale maschinelle Übersetzung</title><title type="conf_year">2019</title><author ref="#person__i-roehrer-campus-lmu-de">
                     <persName>
                         <surname>Röhrer</surname>
                         <forename>Ines</forename>
                     </persName>
-                    <affiliation ref="#org__342">LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__163">LMU München, Deutschland</affiliation>
                     <email>i.roehrer@campus.lmu.de</email>
                 </author>
                 <author ref="#person__sabine-ullrich-campus-lmu-de">
@@ -16,7 +15,7 @@
                         <surname>Ullrich</surname>
                         <forename>Sabine</forename>
                     </persName>
-                    <affiliation ref="#org__342">LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__163">LMU München, Deutschland</affiliation>
                     <email>sabine.ullrich@campus.lmu.de</email>
                 </author>
                 <author ref="#person__maximilian-cis-uni-muenchen-de">
@@ -24,7 +23,7 @@
                         <surname>Hadersbeck</surname>
                         <forename>Maximilian</forename>
                     </persName>
-                    <affiliation ref="#org__342">LMU München, Deutschland</affiliation>
+                    <affiliation ref="#org__163">LMU München, Deutschland</affiliation>
                     <email>maximilian@cis.uni-muenchen.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>„Medialization follows function!“ Multimodaler Hypertext als Publikationsmedium (nicht nur) für die Geschichtswissenschaft</title><title type="conf_year">2019</title>
-                <author ref="#person__christian-wachter-stud-uni-goettingen-de">
+                <title>„Medialization follows function!“ Multimodaler Hypertext als Publikationsmedium (nicht nur) für die Geschichtswissenschaft</title><title type="conf_year">2019</title><author ref="#person__christian-wachter-stud-uni-goettingen-de">
                     <persName>
                         <surname>Wachter</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>christian.wachter@stud.uni-goettingen.de</email>
                 </author>
             </titleStmt>

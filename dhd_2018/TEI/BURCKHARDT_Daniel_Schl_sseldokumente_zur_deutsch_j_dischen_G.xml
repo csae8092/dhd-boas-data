@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Schlüsseldokumente zur deutsch-jüdischen Geschichte: Eine digitale Edition des Instituts für die Geschichte der deutschen Juden</title><title type="conf_year">2018</title>
-                <author ref="#person__burckhardtd-geschichte-hu-berlin-de">
+                <title>Schlüsseldokumente zur deutsch-jüdischen Geschichte: Eine digitale Edition des Instituts für die Geschichte der deutschen Juden</title><title type="conf_year">2018</title><author ref="#person__burckhardtd-geschichte-hu-berlin-de">
                     <persName>
                         <surname>Burckhardt</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__115">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
+                    <affiliation ref="#org__496">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
                     <email>burckhardtd@geschichte.hu-berlin.de</email>
                 </author>
                 <author ref="#person__anna-menny-igdj-hh-de">
@@ -16,7 +15,7 @@
                         <surname>Menny</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation ref="#org__115">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
+                    <affiliation ref="#org__496">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
                     <email>anna.menny@igdj-hh.de</email>
                 </author>
             </titleStmt>

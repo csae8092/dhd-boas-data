@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>User-Experience von Spracharchiven: Eine Neubewertung der Interaktion von Archiv und Nutzern.</title><title type="conf_year">2016</title>
-        <author ref="#person__f-rau-uni-koeln-de">
+        <title>User-Experience von Spracharchiven: Eine Neubewertung der Interaktion von Archiv und Nutzern.</title><title type="conf_year">2016</title><author ref="#person__f-rau-uni-koeln-de">
           <name>
             <surname>Rau</surname>
             <forename>Felix</forename>
           </name>
-          <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+          <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
           <email>f.rau@uni-koeln.de</email>
         </author>
         <author ref="#person__jonathan-blumtritt-uni-koeln-de">
@@ -16,7 +15,7 @@
             <surname>Blumtritt</surname>
             <forename>Jonathan</forename>
           </name>
-          <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+          <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
           <email>jonathan.blumtritt@uni-koeln.de</email>
         </author>
       </titleStmt>

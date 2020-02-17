@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Barcamp: Digitales Publizieren zwischen Experiment und Etablierung</title><title type="conf_year">2019</title>
-                <author ref="#person__steyer-hab-de">
+                <title>Barcamp: Digitales Publizieren zwischen Experiment und Etablierung</title><title type="conf_year">2019</title><author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation ref="#org__28 #org__27">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__50 #org__48">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
                 <author ref="#person__neumann-maxweberstiftung-de">
@@ -16,7 +15,7 @@
                         <surname>Neumann</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__58">Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__40">Max Weber Stiftung</affiliation>
                     <email>neumann@maxweberstiftung.de</email>
                 </author>
                 <author ref="#person__melanie-seltmann-univie-ac-at">
@@ -24,7 +23,7 @@
                         <surname>Seltmann</surname>
                         <forename>Melanie</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Wien</affiliation>
+                    <affiliation ref="#org__1">Universität Wien</affiliation>
                     <email>melanie.seltmann@univie.ac.at</email>
                 </author>
                 <author ref="#person__walter-scholger-uni-graz-at">
@@ -32,7 +31,7 @@
                         <surname>Walter</surname>
                         <forename>Scholger</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz</affiliation>
+                    <affiliation ref="#org__3">Universität Graz</affiliation>
                     <email>walter.scholger@uni-graz.at</email>
                 </author>
             </titleStmt>

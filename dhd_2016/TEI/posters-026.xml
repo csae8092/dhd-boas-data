@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digital Zusammenwachsen: Forschungsdaten-management im Forschungsverbund MWW</title><title type="conf_year">2016</title>
-        <author ref="#person__steyer-hab-de">
+        <title>Digital Zusammenwachsen: Forschungsdaten-management im Forschungsverbund MWW</title><title type="conf_year">2016</title><author ref="#person__steyer-hab-de">
           <name>
             <surname>Steyer</surname>
             <forename>Timo</forename>
           </name>
-          <affiliation ref="#org__77">Forschungsverbund MWW</affiliation>
+          <affiliation ref="#org__49">Forschungsverbund MWW</affiliation>
           <email>steyer@hab.de</email>
         </author>
         <author ref="#person__lydia-koglin-klassik-stiftung-de">
@@ -16,7 +15,7 @@
             <surname>Koglin</surname>
             <forename>Lydia</forename>
           </name>
-          <affiliation ref="#org__77">Forschungsverbund MWW</affiliation>
+          <affiliation ref="#org__49">Forschungsverbund MWW</affiliation>
           <email>lydia.koglin@klassik-stiftung.de</email>
         </author>
         <author ref="#person__fritz-dla-marbach-de">
@@ -24,7 +23,7 @@
             <surname>Fritz</surname>
             <forename>Steffen</forename>
           </name>
-          <affiliation ref="#org__77">Forschungsverbund MWW</affiliation>
+          <affiliation ref="#org__49">Forschungsverbund MWW</affiliation>
           <email>fritz@dla-marbach.de</email>
         </author>
       </titleStmt>

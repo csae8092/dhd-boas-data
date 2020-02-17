@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ontologisierung vom Thompson Motif‘s Index – Teilergebnisse eines Softwareprojektes zum Thema „Classification of Folktales“, bei Antónia Kostevá, Universität des Saarlandes</title><title type="conf_year">2016</title>
-        <author ref="#person__declerck-dfki-de">
+        <title>Ontologisierung vom Thompson Motif‘s Index – Teilergebnisse eines Softwareprojektes zum Thema „Classification of Folktales“, bei Antónia Kostevá, Universität des Saarlandes</title><title type="conf_year">2016</title><author ref="#person__declerck-dfki-de">
           <name>
             <surname>Declerck</surname>
             <forename>Thierry</forename>
           </name>
-          <affiliation ref="#org__119">DFKI GmbH, Deutschland</affiliation>
+          <affiliation ref="#org__283">DFKI GmbH, Deutschland</affiliation>
           <email>declerck@dfki.de</email>
         </author>
       </titleStmt>

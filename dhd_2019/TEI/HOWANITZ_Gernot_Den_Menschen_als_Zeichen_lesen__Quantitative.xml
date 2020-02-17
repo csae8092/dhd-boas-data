@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Den Menschen als Zeichen lesen. Quantitative Lesarten körperlicher Zeichenhaftigkeit in visuellen Medien</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__gernot-howanitz-uni-passau-de">
                     <persName>
                         <surname>Howanitz</surname>
                         <forename>Gernot</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>gernot.howanitz@uni-passau.de</email>
                 </author>
                 <author ref="#person__erik-radisch-uni-passau-de">
@@ -19,7 +18,7 @@
                         <surname>Radisch</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>erik.radisch@uni-passau.de</email>
                 </author>
                 <author ref="#person__jan-oliver-decker-uni-passau-de">
@@ -27,7 +26,7 @@
                         <surname>Decker</surname>
                         <forename>Jan-Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>Jan-Oliver.Decker@Uni-Passau.De</email>
                 </author>
                 <author ref="#person__malte-rehbein-uni-passau-de">
@@ -35,7 +34,7 @@
                         <surname>Rehbein</surname>
                         <forename>Malte</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>malte.rehbein@uni-passau.de</email>
                 </author>
             </titleStmt>

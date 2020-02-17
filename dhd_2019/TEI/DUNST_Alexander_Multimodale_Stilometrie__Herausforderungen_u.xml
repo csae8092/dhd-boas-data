@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Multimodale Stilometrie: Herausforderungen und Potenzial kombinatorischer Bild- und Textanalysen am Beispiel Comics</title><title type="conf_year">2019</title>
-                <author ref="#person__alexander-dunst-gmail-com">
+                <title>Multimodale Stilometrie: Herausforderungen und Potenzial kombinatorischer Bild- und Textanalysen am Beispiel Comics</title><title type="conf_year">2019</title><author ref="#person__alexander-dunst-gmail-com">
                     <persName>
                         <surname>Dunst</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>alexander.dunst@gmail.com</email>
                 </author>
                 <author ref="#person__rst-upb-de">
@@ -16,7 +15,7 @@
                         <surname>Hartel</surname>
                         <forename>Rita</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>rst@upb.de</email>
                 </author>
             </titleStmt>

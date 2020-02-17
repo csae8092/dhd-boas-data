@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Nachhaltigkeit technischer Lösungen für digitale Editionen. Eine kritische Evaluation bestehender Frameworks und Workflows von und für Praktiker_innen</title><title type="conf_year">2016</title>
-        <author ref="#person__peter-andorfer-oeaw-ac-at">
+        <title>Nachhaltigkeit technischer Lösungen für digitale Editionen. Eine kritische Evaluation bestehender Frameworks und Workflows von und für Praktiker_innen</title><title type="conf_year">2016</title><author ref="#person__peter-andorfer-oeaw-ac-at">
           <name>
             <surname>Andorfer</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__87">ACDH, Österreich</affiliation>
+          <affiliation ref="#org__222">ACDH, Österreich</affiliation>
           <email>peter.andorfer@oeaw.ac.at</email>
         </author>
         <author ref="#person__matej-durco-oeaw-ac-at">
@@ -16,7 +15,7 @@
             <surname>Durco</surname>
             <forename>Matej</forename>
           </name>
-          <affiliation ref="#org__87">ACDH, Österreich</affiliation>
+          <affiliation ref="#org__222">ACDH, Österreich</affiliation>
           <email>matej.durco@oeaw.ac.at</email>
         </author>
         <author ref="#person__staecker-hab-de">
@@ -24,7 +23,7 @@
             <surname>Stäcker</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__332">HAB, Deutschland</affiliation>
+          <affiliation ref="#org__224">HAB, Deutschland</affiliation>
           <email>staecker@hab.de</email>
         </author>
         <author ref="#person__thomas-bbaw-de">
@@ -32,7 +31,7 @@
             <surname>Thomas</surname>
             <forename>Christian</forename>
           </name>
-          <affiliation ref="#org__66">BBAW, Deutschland</affiliation>
+          <affiliation ref="#org__96">BBAW, Deutschland</affiliation>
           <email>thomas@bbaw.de</email>
         </author>
         <author ref="#person__hildenbr-uni-trier-de">
@@ -40,7 +39,7 @@
             <surname>Hildenbrandt</surname>
             <forename>Vera</forename>
           </name>
-          <affiliation ref="#org__333">TCDH, Deutschland</affiliation>
+          <affiliation ref="#org__226">TCDH, Deutschland</affiliation>
           <email>hildenbr@uni-trier.de</email>
         </author>
         <author ref="#person__hubert-stigler-uni-graz-at">
@@ -48,7 +47,7 @@
             <surname>Stigler</surname>
             <forename>Hubert</forename>
           </name>
-          <affiliation ref="#org__334">ZIM Uni Graz, Österreich</affiliation>
+          <affiliation ref="#org__227">ZIM Uni Graz, Österreich</affiliation>
           <email>hubert.stigler@uni-graz.at</email>
         </author>
         <author ref="#person__soering-sub-uni-goettingen-de">
@@ -56,7 +55,7 @@
             <surname>Söring</surname>
             <forename>Sibylle</forename>
           </name>
-          <affiliation ref="#org__182">SUB Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__228">SUB Göttingen, Deutschland</affiliation>
           <email>soering@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__lukas-rosenthaler-unibas-ch">
@@ -64,7 +63,7 @@
             <surname>Rosenthaler</surname>
             <forename>Lukas</forename>
           </name>
-          <affiliation ref="#org__336">DH Lab, Schweiz</affiliation>
+          <affiliation ref="#org__229">DH Lab, Schweiz</affiliation>
           <email>lukas.rosenthaler@unibas.ch</email>
         </author>
       </titleStmt>

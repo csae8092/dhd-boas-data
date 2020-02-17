@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wissenschaft ohne Geist: Herausforderungen der Digital Humanities am Beispiel der Korpuslinguistik</title><title type="conf_year">2018</title>
-                <author ref="#person__bubenhofer-cl-uzh-ch">
+                <title>Wissenschaft ohne Geist: Herausforderungen der Digital Humanities am Beispiel der Korpuslinguistik</title><title type="conf_year">2018</title><author ref="#person__bubenhofer-cl-uzh-ch">
                     <persName>
                         <surname>Bubenhofer</surname>
                         <forename>Noah</forename>
                     </persName>
-                    <affiliation ref="#org__97">Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__135">Universität Zürich, Schweiz</affiliation>
                     <email>bubenhofer@cl.uzh.ch</email>
                 </author>
             </titleStmt>

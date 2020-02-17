@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title><title type="conf_year">2019</title>
-                <author ref="#person__schlupko-uni-wuppertal-de">
+                <title>FormIt: Eine multimodale Arbeitsumgebung zur systematischen Erfassung literarischer Intertextualität</title><title type="conf_year">2019</title><author ref="#person__schlupko-uni-wuppertal-de">
                     <persName>
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
                     </persName>
-                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__79">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>schlupko@uni-wuppertal.de</email>
                 </author>
                 <author ref="#person__nantke-uni-wuppertal-de">
@@ -16,7 +15,7 @@
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__79">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>nantke@uni-wuppertal.de</email>
                 </author>
             </titleStmt>

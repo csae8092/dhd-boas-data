@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Korpusanalyse in der computergestützten Komparatistik </title><title type="conf_year">2016</title>
-        <author ref="#person__christine-ivanovicl-hotmail-com">
+        <title>Korpusanalyse in der computergestützten Komparatistik </title><title type="conf_year">2016</title><author ref="#person__christine-ivanovicl-hotmail-com">
           <name>
             <surname>Ivanovic</surname>
             <forename>Christine</forename>
           </name>
-          <affiliation ref="#org__10">Universität Wien, Österreich</affiliation>
+          <affiliation ref="#org__1">Universität Wien, Österreich</affiliation>
           <email>christine_ivanovicl@hotmail.com</email>
         </author>
         <author ref="#person__frank-geoinfo-tuwien-ac-at">
@@ -16,7 +15,7 @@
             <surname>Frank</surname>
             <forename>Andrew U.</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Wien</affiliation>
+          <affiliation ref="#org__12">Technische Universität Wien</affiliation>
           <email>frank@geoinfo.tuwien.ac.at</email>
         </author>
       </titleStmt>

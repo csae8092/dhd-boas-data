@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Modellathon „Digitale 3D-Rekonstruktion"</title><title type="conf_year">2019</title>
-                <author ref="#person__sander-muenster-tu-dresden-de">
+                <title>Modellathon „Digitale 3D-Rekonstruktion"</title><title type="conf_year">2019</title><author ref="#person__sander-muenster-tu-dresden-de">
                     <persName>
                         <surname>Münster</surname>
                         <forename>Sander</forename>
                     </persName>
-                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__148">TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
                 <author ref="#person__jonas-christen-zhdk-ch">
@@ -16,7 +15,7 @@
                         <surname>Christen</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation ref="#org__134">Zürcher Hochschule der Künste, Schweiz</affiliation>
+                    <affiliation ref="#org__149">Zürcher Hochschule der Künste, Schweiz</affiliation>
                     <email>jonas.christen@zhdk.ch</email>
                 </author>
             </titleStmt>

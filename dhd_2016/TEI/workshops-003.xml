@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>nodegoat Workshop: Einführung in die Nutzung einer multifunktionalen webbasierten Datenbankapplikation für Geisteswissenschaftler</title><title type="conf_year">2016</title>
-        <author ref="#person__geert-lab1100-com">
+        <title>nodegoat Workshop: Einführung in die Nutzung einer multifunktionalen webbasierten Datenbankapplikation für Geisteswissenschaftler</title><title type="conf_year">2016</title><author ref="#person__geert-lab1100-com">
           <name>
             <surname>Kessels</surname>
             <forename>Geert</forename>
           </name>
-          <affiliation ref="#org__320">LAB1100, Niederlande</affiliation>
+          <affiliation ref="#org__298">LAB1100, Niederlande</affiliation>
           <email>geert@lab1100.com</email>
         </author>
         <author ref="#person__pim-lab1100-com">
@@ -16,7 +15,7 @@
             <surname>van Bree</surname>
             <forename>Pim</forename>
           </name>
-          <affiliation ref="#org__320">LAB1100, Niederlande</affiliation>
+          <affiliation ref="#org__298">LAB1100, Niederlande</affiliation>
           <email>pim@lab1100.com</email>
         </author>
       </titleStmt>

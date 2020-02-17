@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transbiblionome Daten in der Literaturwissenschaft. Texttechnologische Erschließung und digitale Visualisierung intertextueller Beziehungen digitaler Korpora</title><title type="conf_year">2016</title>
-        <author ref="#person__wagner-lit-wiss-uni-siegen-de">
+        <title>Transbiblionome Daten in der Literaturwissenschaft. Texttechnologische Erschließung und digitale Visualisierung intertextueller Beziehungen digitaler Korpora</title><title type="conf_year">2016</title><author ref="#person__wagner-lit-wiss-uni-siegen-de">
           <name>
             <surname>Wagner</surname>
             <forename>Benno</forename>
           </name>
-          <affiliation ref="#org__324">Beijing Institute of Technology, China, Volksrepublik</affiliation>
+          <affiliation ref="#org__289">Beijing Institute of Technology, China, Volksrepublik</affiliation>
           <email>wagner@lit-wiss.uni-siegen.de</email>
         </author>
         <author ref="#person__mehler-em-uni-frankfurt-de">
@@ -16,7 +15,7 @@
             <surname>Mehler</surname>
             <forename>Alexander</forename>
           </name>
-          <affiliation ref="#org__9">Universität Frankfurt</affiliation>
+          <affiliation ref="#org__290">Universität Frankfurt</affiliation>
           <email>mehler@em.uni-frankfurt.de</email>
         </author>
         <author ref="#person__hanno-biber-oeaw-ac-at">
@@ -24,7 +23,7 @@
             <surname>Biber</surname>
             <forename>Hanno</forename>
           </name>
-          <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften</affiliation>
+          <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften</affiliation>
           <email>Hanno.Biber@oeaw.ac.at</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Aufbau einer Korpusinfrastruktur für die Beobachtung des Schreibgebrauchs</title><title type="conf_year">2016</title>
-        <author ref="#person__peter-fischer-ids-mannheim-de">
+        <title>Aufbau einer Korpusinfrastruktur für die Beobachtung des Schreibgebrauchs</title><title type="conf_year">2016</title><author ref="#person__peter-fischer-ids-mannheim-de">
           <name>
             <surname>Fischer</surname>
             <forename>Peter M.</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+          <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
           <email>peter.fischer@ids-mannheim.de</email>
         </author>
         <author ref="#person__diewald-ids-mannheim-de">
@@ -16,7 +15,7 @@
             <surname>Diewald</surname>
             <forename>Nils</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+          <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
           <email>diewald@ids-mannheim.de</email>
         </author>
         <author ref="#person__kupietz-ids-mannheim-de">
@@ -24,7 +23,7 @@
             <surname>Kupietz</surname>
             <forename>Marc</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+          <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
           <email>kupietz@ids-mannheim.de</email>
         </author>
         <author ref="#person__witt-ids-mannheim-de">
@@ -32,7 +31,7 @@
             <surname>Witt</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+          <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
           <email>witt@ids-mannheim.de</email>
         </author>
       </titleStmt>

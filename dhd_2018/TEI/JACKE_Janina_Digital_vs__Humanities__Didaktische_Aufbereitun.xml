@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digital vs. Humanities. Didaktische Aufbereitung digitaler Methoden für die klassischen Geisteswissenschaften im Projekt forTEXT</title><title type="conf_year">2018</title>
-                <author ref="#person__janina-jacke-uni-hamburg-de">
+                <title>Digital vs. Humanities. Didaktische Aufbereitung digitaler Methoden für die klassischen Geisteswissenschaften im Projekt forTEXT</title><title type="conf_year">2018</title><author ref="#person__janina-jacke-uni-hamburg-de">
                     <persName>
                         <surname>Jacke</surname>
                         <forename>Janina</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>janina.jacke@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-horstmann-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Horstmann</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>jan.horstmann@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__j-c-meister-uni-hamburg-de">
@@ -24,7 +23,7 @@
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>j-c-meister@uni-hamburg.de</email>
                 </author>
             </titleStmt>

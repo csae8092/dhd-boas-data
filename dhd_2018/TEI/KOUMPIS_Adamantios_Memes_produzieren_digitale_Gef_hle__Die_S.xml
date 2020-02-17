@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Memes produzieren digitale Gefühle: Die Simpsons deuten Trump-Mania(c)</title><title type="conf_year">2018</title>
-                <author ref="#person__haasgab-fim-uni-passau-de">
+                <title>Memes produzieren digitale Gefühle: Die Simpsons deuten Trump-Mania(c)</title><title type="conf_year">2018</title><author ref="#person__haasgab-fim-uni-passau-de">
                     <persName>
                         <surname>Haas</surname>
                         <forename>Gabriele</forename>
                     </persName>
-                    <affiliation ref="#org__14">University of Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__377">University of Passau, Deutschland</affiliation>
                     <email>haasgab@fim.uni-passau.de</email>
                 </author>
                 <author ref="#person__adamantios-koumpis-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>Koumpis</surname>
                         <forename>Adamantios</forename>
                     </persName>
-                    <affiliation ref="#org__14">University of Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__377">University of Passau, Deutschland</affiliation>
                     <email>adamantios.koumpis@gmail.com</email>
                 </author>
                 <author ref="#person__siegfried-handschuh-gmail-com">
@@ -24,7 +23,7 @@
                         <surname>Handschuh</surname>
                         <forename>Siegfried</forename>
                     </persName>
-                    <affiliation ref="#org__14">University of Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__377">University of Passau, Deutschland</affiliation>
                     <email>siegfried.handschuh@gmail.com</email>
                 </author>
             </titleStmt>

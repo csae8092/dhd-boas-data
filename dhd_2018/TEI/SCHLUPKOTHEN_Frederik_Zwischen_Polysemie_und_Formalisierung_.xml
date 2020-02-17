@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web</title><title type="conf_year">2018</title>
-                <author ref="#person__nantke-uni-wuppertal-de">
+                <title>Zwischen Polysemie und Formalisierung: Mehrstufige Modellierung komplexer intertextueller Relationen als Annäherung an ein ‚literarisches‘ Semantic Web</title><title type="conf_year">2018</title><author ref="#person__nantke-uni-wuppertal-de">
                     <persName>
                         <surname>Nantke</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__79">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>nantke@uni-wuppertal.de</email>
                 </author>
                 <author ref="#person__schlupko-uni-wuppertal-de">
@@ -16,7 +15,7 @@
                         <surname>Schlupkothen</surname>
                         <forename>Frederik</forename>
                     </persName>
-                    <affiliation ref="#org__67">Bergische Universität Wuppertal, Deutschland</affiliation>
+                    <affiliation ref="#org__79">Bergische Universität Wuppertal, Deutschland</affiliation>
                     <email>schlupko@uni-wuppertal.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Eine nachhaltige Präsentationsschicht für digitale Editionen </title><title type="conf_year">2018</title>
-                <author ref="#person__fechner-bbaw-de">
+                <title>Eine nachhaltige Präsentationsschicht für digitale Editionen </title><title type="conf_year">2018</title><author ref="#person__fechner-bbaw-de">
                     <persName>
                         <surname>Fechner</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>fechner@bbaw.de</email>
                 </author>
             </titleStmt>

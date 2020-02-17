@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>neonion - Kollaboratives Annotieren zur Erschließung von textuellen Quellen </title><title type="conf_year">2016</title>
-        <author ref="#person__clmb-inf-fu-berlin-de">
+        <title>neonion - Kollaboratives Annotieren zur Erschließung von textuellen Quellen </title><title type="conf_year">2016</title><author ref="#person__clmb-inf-fu-berlin-de">
           <name>
             <surname>Müller-Birn</surname>
             <forename>Claudia</forename>
           </name>
-          <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
           <email>clmb@inf.fu-berlin.de</email>
         </author>
         <author ref="#person__andre-breitenfeld-fu-berlin-de">
@@ -16,7 +15,7 @@
             <surname>Breitenfeld</surname>
             <forename>Andre</forename>
           </name>
-          <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
           <email>andre.breitenfeld@fu-berlin.de</email>
         </author>
       </titleStmt>

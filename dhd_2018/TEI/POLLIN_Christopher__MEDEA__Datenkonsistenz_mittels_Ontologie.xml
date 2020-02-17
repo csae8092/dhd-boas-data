@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> MEDEA: Datenkonsistenz mittels Ontologie</title><title type="conf_year">2018</title>
-                <author ref="#person__christopher-pollin-uni-graz-at">
+                <title> MEDEA: Datenkonsistenz mittels Ontologie</title><title type="conf_year">2018</title><author ref="#person__christopher-pollin-uni-graz-at">
                     <persName>
                         <surname>Pollin</surname>
                         <forename>Christopher</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>christopher.pollin@uni-graz.at</email>
                 </author>
                 <author ref="#person__georg-vogeler-uni-graz-at">
@@ -16,7 +15,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
             </titleStmt>

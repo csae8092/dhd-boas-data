@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>DISCO: Diachronic Spanish Sonnet Corpus</title><title type="conf_year">2018</title>
-                <author ref="#person__pablo-ruiz-linhd-uned-es">
+                <title>DISCO: Diachronic Spanish Sonnet Corpus</title><title type="conf_year">2018</title><author ref="#person__pablo-ruiz-linhd-uned-es">
                     <persName>
                         <surname>Ruiz Fabo</surname>
                         <forename>Pablo</forename>
                     </persName>
-                    <affiliation ref="#org__140">UNED, Spanien</affiliation>
+                    <affiliation ref="#org__445">UNED, Spanien</affiliation>
                     <email>pablo.ruiz@linhd.uned.es</email>
                 </author>
                 <author ref="#person__cimartinez-flog-uned-es">
@@ -16,7 +15,7 @@
                         <surname>Martínez Cantón</surname>
                         <forename>Clara</forename>
                     </persName>
-                    <affiliation ref="#org__140">UNED, Spanien</affiliation>
+                    <affiliation ref="#org__445">UNED, Spanien</affiliation>
                     <email>cimartinez@flog.uned.es</email>
                 </author>
                 <author ref="#person__jose-calvo-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
                         <surname>Calvo Tello</surname>
                         <forename>José</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg</affiliation>
+                    <affiliation ref="#org__24">Universität Würzburg</affiliation>
                     <email>jose.calvo@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

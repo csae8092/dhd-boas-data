@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Wissenschaftliches Bloggen bei de.hypotheses.org</title><title type="conf_year">2016</title>
-        <author ref="#person__mkoenig-dhi-paris-fr">
+        <title>Wissenschaftliches Bloggen bei de.hypotheses.org</title><title type="conf_year">2016</title><author ref="#person__mkoenig-dhi-paris-fr">
           <name>
             <surname>König</surname>
             <forename>Mareike</forename>
           </name>
-          <affiliation ref="#org__328">Deutsches Historisches Institut Paris, Frankreich</affiliation>
+          <affiliation ref="#org__97">Deutsches Historisches Institut Paris, Frankreich</affiliation>
           <email>mkoenig@dhi-paris.fr</email>
         </author>
         <author ref="#person__anne-baillot-gmail-com">
@@ -16,7 +15,7 @@
             <surname>Baillot</surname>
             <forename>Anne</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt Universität Berlin</affiliation>
+          <affiliation ref="#org__78">Humboldt Universität Berlin</affiliation>
           <email>anne.baillot@gmail.com</email>
         </author>
       </titleStmt>

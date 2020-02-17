@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Topic, Genre, Text</title><title type="conf_year">2016</title>
-        <author ref="#person__christof-schoech-uni-wuerzburg-de">
+        <title>Topic, Genre, Text</title><title type="conf_year">2016</title><author ref="#person__christof-schoech-uni-wuerzburg-de">
           <name>
             <surname>Schöch</surname>
             <forename>Christof</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>christof.schoech@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__ulrike-henny-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
             <surname>Henny</surname>
             <forename>Ulrike</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>ulrike.henny@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__jose-calvo-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
             <surname>Calvo</surname>
             <forename>José</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>jose.calvo@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__daniel-schloer-informatik-uni-wuerzburg-de">
@@ -32,7 +31,7 @@
             <surname>Schlör</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>daniel.schloer@informatik.uni-wuerzburg.de</email>
         </author>
         <author ref="#person__stefanie-popp-uni-wuerzburg-de">
@@ -40,7 +39,7 @@
             <surname>Popp</surname>
             <forename>Stefanie</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>stefanie.popp@uni-wuerzburg.de</email>
         </author>
       </titleStmt>

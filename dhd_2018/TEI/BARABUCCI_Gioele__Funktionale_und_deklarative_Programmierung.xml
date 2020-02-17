@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> Funktionale und deklarative Programmierung-basierte Methode für nachhaltige, reproduzierbare und verifizierbare Datenkuration.</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__gioele-barabucci-uni-koeln-de">
                     <persName>
                         <surname>Barabucci</surname>
                         <forename>Gioele</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>gioele.barabucci@uni-koeln.de</email>
                 </author>
             </titleStmt>

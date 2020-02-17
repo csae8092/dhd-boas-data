@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title><title type="conf_year">2019</title>
-                <author ref="#person__annabusch-uni-potsdam-de">
+                <title>Skalierbare Exploration. Prototypenstudie zur Visualisierung einer Autorenbibliothek am Beispiel der ›Handbibliothek Theodor Fontanes‹</title><title type="conf_year">2019</title><author ref="#person__annabusch-uni-potsdam-de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Anna</forename>
                     </persName>
-                    <affiliation ref="#org__345">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__189">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>annabusch@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__mark-jan-bludau-fh-potsdam-de">
@@ -16,7 +15,7 @@
                         <surname>Bludau</surname>
                         <forename>Mark-Jan</forename>
                     </persName>
-                    <affiliation ref="#org__386">Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__190">Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>mark-jan.bludau@fh-potsdam.de</email>
                 </author>
                 <author ref="#person__viktoria-brueggemann-fh-potsdam-de">
@@ -24,7 +23,7 @@
                         <surname>Brüggemann</surname>
                         <forename>Viktoria</forename>
                     </persName>
-                    <affiliation ref="#org__386">Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__190">Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>viktoria.brueggemann@fh-potsdam.de</email>
                 </author>
                 <author ref="#person__doerk-fh-potsdam-de">
@@ -32,7 +31,7 @@
                         <surname>Dörk</surname>
                         <forename>Marian</forename>
                     </persName>
-                    <affiliation ref="#org__386">Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__190">Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>doerk@fh-potsdam.de</email>
                 </author>
                 <author ref="#person__kgenzel-uni-potsdam-de">
@@ -40,7 +39,7 @@
                         <surname>Genzel</surname>
                         <forename>Kristina</forename>
                     </persName>
-                    <affiliation ref="#org__345">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__189">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>kgenzel@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__klaus-peter-moeller-uni-potsdam-de">
@@ -48,7 +47,7 @@
                         <surname>Möller</surname>
                         <forename>Klaus-Peter</forename>
                     </persName>
-                    <affiliation ref="#org__345">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__189">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>klaus-peter.moeller@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__sabine-seifert-uni-potsdam-de">
@@ -56,7 +55,7 @@
                         <surname>Seifert</surname>
                         <forename>Sabine</forename>
                     </persName>
-                    <affiliation ref="#org__345">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__189">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>sabine.seifert@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__trilcke-uni-potsdam-de">
@@ -64,7 +63,7 @@
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
                     </persName>
-                    <affiliation ref="#org__345">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__189">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
                     <email>trilcke@uni-potsdam.de</email>
                 </author>
             </titleStmt>

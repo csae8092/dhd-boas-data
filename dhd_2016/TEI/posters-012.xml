@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>With a little help from my (HDC-)friends</title><title type="conf_year">2016</title>
-        <author ref="#person__claudia-engelhardt-sub-uni-goettingen-de">
+        <title>With a little help from my (HDC-)friends</title><title type="conf_year">2016</title><author ref="#person__claudia-engelhardt-sub-uni-goettingen-de">
           <name>
             <surname>Engelhardt</surname>
             <forename>Claudia</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
           <email>claudia.engelhardt@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__kurzawe-sub-uni-goettingen-de">
@@ -16,7 +15,7 @@
             <surname>Kurzawe</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
           <email>kurzawe@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__uwuttke-gwdg-de">
@@ -24,7 +23,7 @@
             <surname>Wuttke</surname>
             <forename>Ulrike</forename>
           </name>
-          <affiliation ref="#org__207">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__200">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
           <email>uwuttke@gwdg.de</email>
         </author>
         <author ref="#person__buddenbohm-mmg-mpg-de">
@@ -32,7 +31,7 @@
             <surname>Buddenbohm</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__355">Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften</affiliation>
+          <affiliation ref="#org__243">Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften</affiliation>
           <email>buddenbohm@mmg.mpg.de</email>
         </author>
       </titleStmt>

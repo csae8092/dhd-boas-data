@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Chancen und Grenzen von Digitalen Methoden zur Analyse der politischen Meinungsbildung in Sozialen Medien</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__svenjasimone-guhr-stud-uni-goettingen-de">
                     <persName>
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>svenjasimone.guhr@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__franziska-pannach-stud-uni-goettingen-de">
@@ -19,7 +18,7 @@
                         <surname>Pannach</surname>
                         <forename>Franziska</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>franziska.pannach@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__stefan-ziehe-stud-uni-goettingen-de">
@@ -27,7 +26,7 @@
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>stefan.ziehe@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__jknauth-uni-goettingen-de">
@@ -35,7 +34,7 @@
                         <surname>Knauth</surname>
                         <forename>Jürgen</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>jknauth@uni-goettingen.de</email>
                 </author>
                 <author ref="#person__carina-kauf-stud-uni-goettingen-de">
@@ -43,7 +42,7 @@
                         <surname>Kauf</surname>
                         <forename>Carina</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>carina.kauf@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__csporled-gwdg-de">
@@ -51,7 +50,7 @@
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
-                    <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
                     <email>csporled@gwdg.de</email>
                 </author>
             </titleStmt>

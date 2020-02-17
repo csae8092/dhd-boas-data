@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Font Group Recognition in Early Printed Books</title><title type="conf_year">2019</title>
-                <author ref="#person__weichsel-uni-mainz-de">
+                <title>Automatic Font Group Recognition in Early Printed Books</title><title type="conf_year">2019</title><author ref="#person__weichsel-uni-mainz-de">
                     <persName>
                         <surname>Weichselbaumer</surname>
                         <forename>Nikolaus</forename>
                     </persName>
-                    <affiliation ref="#org__414">JGU Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__151">JGU Mainz, Deutschland</affiliation>
                     <email>weichsel@uni-mainz.de</email>
                 </author>
                 <author ref="#person__mathias-seuret-fau-de">
@@ -16,7 +15,7 @@
                         <surname>Seuret</surname>
                         <forename>Mathias</forename>
                     </persName>
-                    <affiliation ref="#org__8">FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__152">FAU Erlangen, Deutschland</affiliation>
                     <email>mathias.seuret@fau.de</email>
                 </author>
                 <author ref="#person__limbach-uni-mainz-de">
@@ -24,7 +23,7 @@
                         <surname>Limbach</surname>
                         <forename>Saskia</forename>
                     </persName>
-                    <affiliation ref="#org__414">JGU Mainz, Deutschland</affiliation>
+                    <affiliation ref="#org__151">JGU Mainz, Deutschland</affiliation>
                     <email>limbach@uni-mainz.de</email>
                 </author>
                 <author ref="#person__vincent-christlein-fau-de">
@@ -32,7 +31,7 @@
                         <surname>Christlein</surname>
                         <forename>Vincent</forename>
                     </persName>
-                    <affiliation ref="#org__8">FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__152">FAU Erlangen, Deutschland</affiliation>
                     <email>vincent.christlein@fau.de</email>
                 </author>
                 <author ref="#person__andreas-maier-fau-de">
@@ -40,7 +39,7 @@
                         <surname>Maier</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__8">FAU Erlangen, Deutschland</affiliation>
+                    <affiliation ref="#org__152">FAU Erlangen, Deutschland</affiliation>
                     <email>andreas.maier@fau.de</email>
                 </author>
             </titleStmt>

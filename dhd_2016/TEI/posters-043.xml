@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kein Gedanke ohne Gedächtnis: Aspekte der Kooperation zwischen digitaler Geisteswissenschaft und BAM-Institutionen </title><title type="conf_year">2016</title>
-        <author ref="#person__elisabeth-steiner-uni-graz-at">
+        <title>Kein Gedanke ohne Gedächtnis: Aspekte der Kooperation zwischen digitaler Geisteswissenschaft und BAM-Institutionen </title><title type="conf_year">2016</title><author ref="#person__elisabeth-steiner-uni-graz-at">
           <name>
             <surname>Steiner</surname>
             <forename>Elisabeth</forename>
           </name>
-          <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+          <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
           <email>elisabeth.steiner@uni-graz.at</email>
         </author>
 
@@ -17,7 +16,7 @@
             <surname>Koch</surname>
             <forename>Carina</forename>
           </name>
-          <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+          <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
           <email>carina.koch@uni-graz.at</email>
         </author>
       </titleStmt>

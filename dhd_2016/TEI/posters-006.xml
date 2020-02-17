@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Das Dortmunder Chat-Korpus in CLARIN-D: Modellierung und Mehrwerte</title><title type="conf_year">2016</title>
-        <author ref="#person__michael-beisswenger-tu-dortmund-de">
+        <title>Das Dortmunder Chat-Korpus in CLARIN-D: Modellierung und Mehrwerte</title><title type="conf_year">2016</title><author ref="#person__michael-beisswenger-tu-dortmund-de">
           <name>
             <surname>Beißwenger</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__309">TU Dortmund, Deutschland</affiliation>
+          <affiliation ref="#org__261">TU Dortmund, Deutschland</affiliation>
           <email>michael.beisswenger@tu-dortmund.de</email>
         </author>
         <author ref="#person__herold-bbaw-de">
@@ -16,7 +15,7 @@
             <surname>Axel</surname>
             <forename>Herold</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>herold@bbaw.de</email>
         </author>
         <author ref="#person__luengen-ids-mannheim-de">
@@ -24,7 +23,7 @@
             <surname>Harald</surname>
             <forename>Lüngen</forename>
           </name>
-          <affiliation ref="#org__32">Institut für deutsche Sprache, Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__15">Institut für deutsche Sprache, Mannheim, Deutschland</affiliation>
           <email>luengen@ids-mannheim.de</email>
         </author>
         <author ref="#person__astorrer-mail-uni-mannheim-de">
@@ -32,7 +31,7 @@
             <surname>Angelika</surname>
             <forename>Storrer</forename>
           </name>
-          <affiliation ref="#org__34">Universität Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__31">Universität Mannheim, Deutschland</affiliation>
           <email>astorrer@mail.uni-mannheim.de</email>
         </author>
       </titleStmt>

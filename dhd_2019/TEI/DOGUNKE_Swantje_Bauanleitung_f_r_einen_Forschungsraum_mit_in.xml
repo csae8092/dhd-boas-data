@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bauanleitung für einen Forschungsraum mit institutionellem Fundament: Erfahrungen aus fünf Jahren Infrastrukturentwicklung im Forschungsverbund MWW</title><title type="conf_year">2019</title>
-                <author ref="#person__swantje-dogunke-klassik-stiftung-de">
+                <title>Bauanleitung für einen Forschungsraum mit institutionellem Fundament: Erfahrungen aus fünf Jahren Infrastrukturentwicklung im Forschungsverbund MWW</title><title type="conf_year">2019</title><author ref="#person__swantje-dogunke-klassik-stiftung-de">
                     <persName>
                         <surname>Dogunke</surname>
                         <forename>Swantje</forename>
                     </persName>
-                    <affiliation ref="#org__394">Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
+                    <affiliation ref="#org__108">Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
                     <email>swantje.dogunke@klassik-stiftung.de</email>
                 </author>
                 <author ref="#person__steyer-hab-de">
@@ -16,7 +15,7 @@
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation ref="#org__29">Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__49">Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
             </titleStmt>

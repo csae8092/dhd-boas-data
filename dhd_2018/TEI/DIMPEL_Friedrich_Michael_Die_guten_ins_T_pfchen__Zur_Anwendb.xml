@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die guten ins Töpfchen: Zur Anwendbarkeit von Burrows’ Delta bei kurzen mittelhochdeutschen Texten nebst eines Attributionstests zu Konrads ‚Halber Birne‘</title><title type="conf_year">2018</title>
-                <author ref="#person__mail-dimpel-de">
+                <title>Die guten ins Töpfchen: Zur Anwendbarkeit von Burrows’ Delta bei kurzen mittelhochdeutschen Texten nebst eines Attributionstests zu Konrads ‚Halber Birne‘</title><title type="conf_year">2018</title><author ref="#person__mail-dimpel-de">
                     <persName>
                         <surname>Dimpel</surname>
                         <forename>Friedrich Michael</forename>
                     </persName>
-                    <affiliation ref="#org__8">FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</affiliation>
+                    <affiliation ref="#org__53">FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik</affiliation>
                     <email>mail@dimpel.de</email>
                 </author>
             </titleStmt>

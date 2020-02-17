@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CFDB: eine paläographische Datenbank neu- und spätbabylonischer Keilschriftzeichen</title><title type="conf_year">2016</title>
-        <author ref="#person__daniel-schopper-oeaw-ac-at">
+        <title>CFDB: eine paläographische Datenbank neu- und spätbabylonischer Keilschriftzeichen</title><title type="conf_year">2016</title><author ref="#person__daniel-schopper-oeaw-ac-at">
           <name>
             <surname>Schopper</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+          <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
           <email>daniel.schopper@oeaw.ac.at</email>
         </author>
         <author ref="#person__reinhard-pirngruber-univie-ac-at">
@@ -16,7 +15,7 @@
             <surname>Pirgruber</surname>
             <forename>Reinhard</forename>
           </name>
-          <affiliation ref="#org__10">Universität Wien, Österreich</affiliation>
+          <affiliation ref="#org__1">Universität Wien, Österreich</affiliation>
           <email>reinhard.pirngruber@univie.ac.at</email>
         </author>
         <author ref="#person__michael-jursa-univie-ac-at">
@@ -24,7 +23,7 @@
             <surname>Jursa</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__10">Universität Wien, Österreich</affiliation>
+          <affiliation ref="#org__1">Universität Wien, Österreich</affiliation>
           <email>michael.jursa@univie.ac.at</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Der falsche Quijote? Autorschaftsattribution für spanische Prosa der frühen Neuzeit.</title><title type="conf_year">2016</title>
-        <author ref="#person__nanette-rissler-pipka-gmx-de">
+        <title>Der falsche Quijote? Autorschaftsattribution für spanische Prosa der frühen Neuzeit.</title><title type="conf_year">2016</title><author ref="#person__nanette-rissler-pipka-gmx-de">
           <name>
             <surname>Rißler-Pipka</surname>
             <forename>Nanette</forename>
           </name>
-          <affiliation ref="#org__212">Universität Siegen, Deutschland</affiliation>
+          <affiliation ref="#org__1">Universität Siegen, Deutschland</affiliation>
           <email>nanette.rissler-pipka@gmx.de</email>
         </author>
       </titleStmt>

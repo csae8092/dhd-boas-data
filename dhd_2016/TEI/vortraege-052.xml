@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Korpushermeneutik - Ansatz und Werkzeug zur Analyse großer Textkorpora</title><title type="conf_year">2016</title>
-        <author ref="#person__jan-ruediger-uni-kassel-de">
+        <title>Korpushermeneutik - Ansatz und Werkzeug zur Analyse großer Textkorpora</title><title type="conf_year">2016</title><author ref="#person__jan-ruediger-uni-kassel-de">
           <name>
             <surname>Rüdiger</surname>
             <forename>Jan Oliver</forename>
           </name>
-          <affiliation ref="#org__14">Universität Kassel, Deutschland</affiliation>
+          <affiliation ref="#org__5">Universität Kassel, Deutschland</affiliation>
           <email>jan.ruediger@uni-kassel.de</email>
         </author>
       </titleStmt>

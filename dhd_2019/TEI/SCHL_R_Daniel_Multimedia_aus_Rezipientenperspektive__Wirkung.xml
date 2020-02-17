@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Multimedia aus Rezipientenperspektive: Wirkungsmessung anhand von Biofeedback</title><title type="conf_year">2019</title>
-                <author ref="#person__daniel-schloer-informatik-uni-wuerzburg-de">
+                <title>Multimedia aus Rezipientenperspektive: Wirkungsmessung anhand von Biofeedback</title><title type="conf_year">2019</title><author ref="#person__daniel-schloer-informatik-uni-wuerzburg-de">
                     <persName>
                         <surname>Schlör</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>daniel.schloer@informatik.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__blerta-veseli-stud-mail-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
                         <surname>Veseli</surname>
                         <forename>Blerta</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>blerta.veseli@stud-mail.uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__hotho-informatik-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
                         <surname>Hotho</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>hotho@informatik.uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

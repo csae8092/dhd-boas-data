@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Menschen und Monumente im Fokus. Semantische Modellierung im Baedeker Corpus</title><title type="conf_year">2016</title>
-          <author ref="#person__ulrike-czeitschner-oeaw-ac-at">
+        <title>Menschen und Monumente im Fokus. Semantische Modellierung im Baedeker Corpus</title><title type="conf_year">2016</title><author ref="#person__ulrike-czeitschner-oeaw-ac-at">
             <name>
               <surname>Czeitschner</surname>
               <forename>Ulrike</forename>
             </name>
-            <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, ACDH</affiliation>
+            <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, ACDH</affiliation>
             <email>ulrike.czeitschner@oeaw.ac.at</email>
           </author>
         </titleStmt>

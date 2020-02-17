@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Multimediale Modelle multimodaler Kommunikation</title>
-                    <title type="sub">Motion-Capturing in der computergestützten Gestenforschung</title><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub">Motion-Capturing in der computergestützten Gestenforschung</title><title type="conf_year">2019</title></title>
                 <author ref="#person__schueller-humtec-rwth-aachen-de">
                     <persName>
                         <surname>Schüller</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__249">RWTH Aachen, Deutschland</affiliation>
+                    <affiliation ref="#org__125">RWTH Aachen, Deutschland</affiliation>
                     <email>schueller@humtec.rwth-aachen.de</email>
                 </author>
                 <author ref="#person__mittelberg-humtec-rwth-aachen-de">
@@ -19,7 +18,7 @@
                         <surname>Mittelberg</surname>
                         <forename>Irene</forename>
                     </persName>
-                    <affiliation ref="#org__249">RWTH Aachen, Deutschland</affiliation>
+                    <affiliation ref="#org__125">RWTH Aachen, Deutschland</affiliation>
                     <email>mittelberg@humtec.rwth-aachen.de</email>
                 </author>
             </titleStmt>

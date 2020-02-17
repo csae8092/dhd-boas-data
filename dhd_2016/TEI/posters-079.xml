@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>RuCoCo: Automatische Koreferenzannotationen für Russisch</title><title type="conf_year">2016</title>
-        <author ref="#person__desi-cis-uni-muenchen-de">
+        <title>RuCoCo: Automatische Koreferenzannotationen für Russisch</title><title type="conf_year">2016</title><author ref="#person__desi-cis-uni-muenchen-de">
           <name>
             <surname>Zhekova</surname>
             <forename>Desislava</forename>
           </name>
-          <affiliation ref="#org__241">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
+          <affiliation ref="#org__244">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
           <email>desi@cis.uni-muenchen.de</email>
         </author>
         <author ref="#person__mikhaylovaa-hotmail-com">
@@ -16,7 +15,7 @@
             <surname>Mikhaylova</surname>
             <forename>Alena</forename>
           </name>
-          <affiliation ref="#org__241">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
+          <affiliation ref="#org__244">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
           <email>mikhaylovaa@hotmail.com</email>
         </author>
       </titleStmt>

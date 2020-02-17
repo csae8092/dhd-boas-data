@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Eine musikwissenschaftli-che Edition in virtueller Umgebung: Die Einbindung der Anton Webern-Gesamtausgabe in SALSAH </title><title type="conf_year">2016</title>
-        <author ref="#person__stefan-muennich-unibas-ch">
+        <title>Eine musikwissenschaftli-che Edition in virtueller Umgebung: Die Einbindung der Anton Webern-Gesamtausgabe in SALSAH </title><title type="conf_year">2016</title><author ref="#person__stefan-muennich-unibas-ch">
           <name>
             <surname>Münnich</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__3">Universität Basel, Schweiz</affiliation>
+          <affiliation ref="#org__260">Universität Basel, Schweiz</affiliation>
           <email>stefan.muennich@unibas.ch</email>
         </author>
       </titleStmt>

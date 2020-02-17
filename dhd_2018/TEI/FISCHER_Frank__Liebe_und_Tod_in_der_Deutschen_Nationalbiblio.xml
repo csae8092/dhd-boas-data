@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> Liebe und Tod in der Deutschen Nationalbibliothek</title>
-                    <title type="sub">Der DNB-Katalog als Forschungsobjekt der digitalen Literaturwissenschaft</title><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub">Der DNB-Katalog als Forschungsobjekt der digitalen Literaturwissenschaft</title><title type="conf_year">2018</title></title>
                 <author ref="#person__ffischer-hse-ru">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__61">Higher School of Economics, Moskau</affiliation>
+                    <affiliation ref="#org__75">Higher School of Economics, Moskau</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
                 <author ref="#person__r-jaschke-sheffield-ac-uk">
@@ -19,7 +18,7 @@
                         <surname>Jäschke</surname>
                         <forename>Robert</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität, Berlin</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität, Berlin</affiliation>
                     <email>r.jaschke@sheffield.ac.uk</email>
                 </author>
             </titleStmt>

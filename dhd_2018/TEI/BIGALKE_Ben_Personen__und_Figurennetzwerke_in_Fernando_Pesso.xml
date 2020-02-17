@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Personen- und Figurennetzwerke in Fernando Pessoas Publikationsplänen</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__bbigalke-smail-uni-koeln-de">
                     <persName>
                         <surname>Bigalke</surname>
                         <forename>Ben</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>bbigalke@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__sdrach-smail-uni-koeln-de">
@@ -19,7 +18,7 @@
                         <surname>Drach</surname>
                         <forename>Sviatoslav</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>sdrach@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__ulrike-henny-uni-wuerzburg-de">
@@ -27,7 +26,7 @@
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__pmpsepulveda-gmail-com">
@@ -35,7 +34,7 @@
                         <surname>Sepúlveda</surname>
                         <forename>Pedro</forename>
                     </persName>
-                    <affiliation ref="#org__114">Neue Universität Lissabon, Portugal</affiliation>
+                    <affiliation ref="#org__414">Neue Universität Lissabon, Portugal</affiliation>
                     <email>pmpsepulveda@gmail.com</email>
                 </author>
                 <author ref="#person__ctheise2-uni-koeln-de">
@@ -43,7 +42,7 @@
                         <surname>Theisen</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>ctheise2@uni-koeln.de</email>
                 </author>
             </titleStmt>

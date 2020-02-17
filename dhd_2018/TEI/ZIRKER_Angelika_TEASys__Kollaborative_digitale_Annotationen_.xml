@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEASys: Kollaboratives digitales Annotieren als Lehr- und Lernprozess </title><title type="conf_year">2018</title>
-                <author ref="#person__angelika-zirker-uni-tuebingen-de">
+                <title>TEASys: Kollaboratives digitales Annotieren als Lehr- und Lernprozess </title><title type="conf_year">2018</title><author ref="#person__angelika-zirker-uni-tuebingen-de">
                     <persName>
                         <surname>Zirker</surname>
                         <forename>Angelika</forename>
                     </persName>
-                    <affiliation ref="#org__38 #org__65">Humboldt Universität zu Berlin; Eberhard Karls Universität Tübingen</affiliation>
+                    <affiliation ref="#org__78 #org__86">Humboldt Universität zu Berlin; Eberhard Karls Universität Tübingen</affiliation>
                     <email>angelika.zirker@uni-tuebingen.de</email>
                 </author>
                 <author ref="#person__m-bauer-uni-tuebingen-de">
@@ -16,7 +15,7 @@
                         <surname>Bauer</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__65">Eberhard Karls Universität Tübingen</affiliation>
+                    <affiliation ref="#org__86">Eberhard Karls Universität Tübingen</affiliation>
                     <email>m.bauer@uni-tuebingen.de</email>
                 </author>
                 <author ref="#person__leonie-kirchhoff-uni-tuebingen-de">
@@ -24,7 +23,7 @@
                         <surname>Kirchhoff</surname>
                         <forename>Leonie</forename>
                     </persName>
-                    <affiliation ref="#org__65">Eberhard Karls Universität Tübingen</affiliation>
+                    <affiliation ref="#org__86">Eberhard Karls Universität Tübingen</affiliation>
                     <email>leonie.kirchhoff@uni-tuebingen.de</email>
                 </author>
                 <author ref="#person__miriam-lahrsow-uni-tuebingen-de">
@@ -32,7 +31,7 @@
                         <surname>Lahrsow</surname>
                         <forename>Miriam</forename>
                     </persName>
-                    <affiliation ref="#org__65">Eberhard Karls Universität Tübingen</affiliation>
+                    <affiliation ref="#org__86">Eberhard Karls Universität Tübingen</affiliation>
                     <email>miriam.lahrsow@uni-tuebingen.de</email>
                 </author>
             </titleStmt>

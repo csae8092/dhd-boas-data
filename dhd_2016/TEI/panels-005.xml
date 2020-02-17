@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Fachwissenschaftliche Nutzungsszenarien der CLARIN-D Infrastruktur</title><title type="conf_year">2016</title>
-        <author ref="#person__gregor-wiedemann-uni-leipzig-de">
+        <title>Fachwissenschaftliche Nutzungsszenarien der CLARIN-D Infrastruktur</title><title type="conf_year">2016</title><author ref="#person__gregor-wiedemann-uni-leipzig-de">
           <name>
             <surname>Wiedemann</surname>
             <forename>Gregor</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig</affiliation>
           <email>gregor.wiedemann@uni-leipzig.de</email>
         </author>
         <author ref="#person__thomas-gloning-germanistik-uni-giessen-de">
@@ -16,7 +15,7 @@
             <surname>Gloning</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__221">Universität Gießen</affiliation>
+          <affiliation ref="#org__1">Universität Gießen</affiliation>
           <email>thomas.gloning@germanistik.uni-giessen.de</email>
         </author>
         <author ref="#person__andreas-blaette-uni-due-de">
@@ -24,7 +23,7 @@
             <surname>Blätte</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__73">Universität Duisburg/Essen</affiliation>
+          <affiliation ref="#org__26">Universität Duisburg/Essen</affiliation>
           <email>andreas.blaette@uni-due.de</email>
         </author>
         <author ref="#person__keller-gei-de">
@@ -32,7 +31,7 @@
             <surname>Keller</surname>
             <forename>Maret</forename>
           </name>
-          <affiliation ref="#org__63">Georg-Eckert-Institut Braunschweig</affiliation>
+          <affiliation ref="#org__236">Georg-Eckert-Institut Braunschweig</affiliation>
           <email>keller@gei.de</email>
         </author>
         <author ref="#person__haaf-bbaw-de">
@@ -40,7 +39,7 @@
             <surname>Haaf</surname>
             <forename>Susanne</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
           <email>haaf@bbaw.de</email>
         </author>
         <author ref="#person__wuerzner-bbaw-de">
@@ -48,7 +47,7 @@
             <surname>Würzner</surname>
             <forename>Kay-Michael</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
           <email>wuerzner@bbaw.de</email>
         </author>
       </titleStmt>

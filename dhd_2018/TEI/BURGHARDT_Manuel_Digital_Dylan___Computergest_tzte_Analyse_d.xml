@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digital Dylan – Computergestützte Analyse der Liedtexte von Bob Dylan (1962 – 2016)</title><title type="conf_year">2018</title>
-                <author ref="#person__colin-sippl-stud-uni-regensburg-de">
+                <title>Digital Dylan – Computergestützte Analyse der Liedtexte von Bob Dylan (1962 – 2016)</title><title type="conf_year">2018</title><author ref="#person__colin-sippl-stud-uni-regensburg-de">
                     <persName>
                         <surname>Sippl</surname>
                         <forename>Colin</forename>
                     </persName>
-                    <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>Colin.Sippl@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__florian-fuchs-stud-uni-regensburg-de">
@@ -16,7 +15,7 @@
                         <surname>Fuchs</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>Florian.Fuchs@stud.uni-regensburg.de</email>
                 </author>
                 <author ref="#person__manuel-burghardt-ur-de">
@@ -24,7 +23,7 @@
                         <surname>Burghardt</surname>
                         <forename>Manuel</forename>
                     </persName>
-                    <affiliation ref="#org__98">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
+                    <affiliation ref="#org__28">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
                     <email>manuel.burghardt@ur.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Monasterium. Benutzerintegration in einem DH-Großprojekt</title><title type="conf_year">2016</title>
-        <author ref="#person__martina-buergermeister-uni-graz-at">
+        <title>Monasterium. Benutzerintegration in einem DH-Großprojekt</title><title type="conf_year">2016</title><author ref="#person__martina-buergermeister-uni-graz-at">
           <name>
             <surname>Bürgermeister</surname>
             <forename>Martina</forename>
           </name>
-          <affiliation ref="#org__11">ZIM, Universität Graz, Österreich</affiliation>
+          <affiliation ref="#org__307">ZIM, Universität Graz, Österreich</affiliation>
           <email>martina.buergermeister@uni-graz.at</email>
         </author>
         <author ref="#person__stephan-makowski-uni-koeln-de">
@@ -16,7 +15,7 @@
             <surname>Makowski</surname>
             <forename>Stephan</forename>
           </name>
-          <affiliation ref="#org__195">CCeH, Universität Köln, Deutschland</affiliation>
+          <affiliation ref="#org__316">CCeH, Universität Köln, Deutschland</affiliation>
           <email>stephan.makowski@uni-koeln.de</email>
         </author>
         <author ref="#person__bernhard-strecker-uni-koeln-de">
@@ -24,7 +23,7 @@
             <surname>Strecker</surname>
             <forename>Bernhard</forename>
           </name>
-          <affiliation ref="#org__195">CCeH, Universität Köln, Deutschland</affiliation>
+          <affiliation ref="#org__316">CCeH, Universität Köln, Deutschland</affiliation>
           <email>bernhard.strecker@uni-koeln.de</email>
         </author>
         <author ref="#person__daniel-jeller-icar-us-eu">
@@ -32,7 +31,7 @@
             <surname>Jeller</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__196">ICARUS, Wien, Österreich</affiliation>
+          <affiliation ref="#org__318">ICARUS, Wien, Österreich</affiliation>
           <email>daniel.jeller@icar-us.eu</email>
         </author>
         <author ref="#person__gerlinde-schneider-uni-graz-at">
@@ -40,7 +39,7 @@
             <surname>Schneider</surname>
             <forename>Gerlinde</forename>
           </name>
-          <affiliation ref="#org__11">ZIM, Universität Graz, Österreich</affiliation>
+          <affiliation ref="#org__307">ZIM, Universität Graz, Österreich</affiliation>
           <email>gerlinde.schneider@uni-graz.at</email>
         </author>
         <author ref="#person__jan-bigalke-uni-koeln-de">
@@ -48,7 +47,7 @@
             <surname>Bigalke</surname>
             <forename>Jan</forename>
           </name>
-          <affiliation ref="#org__195">CCeH, Universität Köln, Deutschland</affiliation>
+          <affiliation ref="#org__316">CCeH, Universität Köln, Deutschland</affiliation>
           <email>jan.bigalke@uni-koeln.de</email>
         </author>
       </titleStmt>

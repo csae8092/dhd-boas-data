@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> Visualisierung von Ortsnamen im Deutschen Textarchiv</title><title type="conf_year">2016</title>
-        <author ref="#person__adrien-barbaresi-oeaw-ac-at">
+        <title> Visualisierung von Ortsnamen im Deutschen Textarchiv</title><title type="conf_year">2016</title><author ref="#person__adrien-barbaresi-oeaw-ac-at">
           <name>
             <surname>Barbaresi</surname>
             <forename>Adrien</forename>
           </name>
-          <affiliation ref="#org__26 #org__43">Österreichische Akademie der Wissenschaften, Österreich; Berlin-Branbenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+          <affiliation ref="#org__72 #org__47">Österreichische Akademie der Wissenschaften, Österreich; Berlin-Branbenburgische Akademie der Wissenschaften, Deutschland</affiliation>
           <email>adrien.barbaresi@oeaw.ac.at</email>
         </author>
       </titleStmt>

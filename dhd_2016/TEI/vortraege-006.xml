@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Automatische Textanalysen in der Geschichtswissen-schaft – Auswertung, Interpretation und Relevanz </title><title type="conf_year">2016</title>
-        <author ref="#person__fiedler-gei-de">
+        <title>Automatische Textanalysen in der Geschichtswissen-schaft – Auswertung, Interpretation und Relevanz </title><title type="conf_year">2016</title><author ref="#person__fiedler-gei-de">
           <name>
             <surname>Fiedler</surname>
             <forename>Maik</forename>
           </name>
-          <affiliation ref="#org__63">Georg Eckert Institut für internationale Schulbuchforschung, Deutschland</affiliation>
+          <affiliation ref="#org__336">Georg Eckert Institut für internationale Schulbuchforschung, Deutschland</affiliation>
           <email>fiedler@gei.de</email>
         </author>
         <author ref="#person__weiss-gei-de">
@@ -16,7 +15,7 @@
             <surname>Weiß</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__63">Georg Eckert Institut für internationale Schulbuchforschung, Deutschland</affiliation>
+          <affiliation ref="#org__336">Georg Eckert Institut für internationale Schulbuchforschung, Deutschland</affiliation>
           <email>weiss@gei.de</email>
         </author>
         <author ref="#person__heuwing-uni-hildesheim-de">
@@ -24,7 +23,7 @@
             <surname>Heuwing</surname>
             <forename>Ben</forename>
           </name>
-          <affiliation ref="#org__222">Institut für Informationswissenschaft &amp; Sprachtechnologie, Universität Hildesheim</affiliation>
+          <affiliation ref="#org__338">Institut für Informationswissenschaft &amp; Sprachtechnologie, Universität Hildesheim</affiliation>
           <email>heuwing@uni-hildesheim.de</email>
         </author>
         <author ref="#person__schnober-ukp-informatik-tu-darmstadt-de">
@@ -32,7 +31,7 @@
             <surname>Schnober</surname>
             <forename>Carsten</forename>
           </name>
-          <affiliation ref="#org__223">Ubiquitous Knowledge Processing Lab, Deutsches Institut für Internationale Pädagogische Forschung / Technische Universität Darmstadt</affiliation>
+          <affiliation ref="#org__339">Ubiquitous Knowledge Processing Lab, Deutsches Institut für Internationale Pädagogische Forschung / Technische Universität Darmstadt</affiliation>
           <email>schnober@ukp.informatik.tu-darmstadt.de</email>
         </author>
       </titleStmt>

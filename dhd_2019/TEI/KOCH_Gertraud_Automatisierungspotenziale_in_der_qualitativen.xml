@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatisierungspotenziale in der qualitativen Diskursanalyse. Das Prinzip des „Filterns“</title><title type="conf_year">2019</title>
-                <author ref="#person__gertraud-koch-uni-hamburg-de">
+                <title>Automatisierungspotenziale in der qualitativen Diskursanalyse. Das Prinzip des „Filterns“</title><title type="conf_year">2019</title><author ref="#person__gertraud-koch-uni-hamburg-de">
                     <persName>
                         <surname>Koch</surname>
                         <forename>Gertraud</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>gertraud.koch@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__lina-franken-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Franken</surname>
                         <forename>Lina</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>lina.franken@uni-hamburg.de</email>
                 </author>
             </titleStmt>

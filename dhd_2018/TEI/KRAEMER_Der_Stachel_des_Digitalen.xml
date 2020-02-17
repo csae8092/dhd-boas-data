@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der ‚Stachel des Digitalen‘ -  ein Anreiz zur Selbstreflexion in den Geisteswissenschaften?</title><title type="conf_year">2018</title>
-                <author ref="#person__sybkram-zedat-fu-berlin-de">
+                <title>Der ‚Stachel des Digitalen‘ -  ein Anreiz zur Selbstreflexion in den Geisteswissenschaften?</title><title type="conf_year">2018</title><author ref="#person__sybkram-zedat-fu-berlin-de">
                     <persName>
                         <surname>Krämer</surname>
                         <forename>Sybille</forename>
                     </persName>
-                    <affiliation ref="#org__37">Freie Universität Berlin, Deutschland, Institut für Philosophie</affiliation>
+                    <affiliation ref="#org__7">Freie Universität Berlin, Deutschland, Institut für Philosophie</affiliation>
                     <email>sybkram@zedat.fu-berlin.de</email>
                 </author>
             </titleStmt>

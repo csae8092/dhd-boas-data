@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Principles Aiding in Reading Abbreviations in OldGeorgian and Latin</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__hoenen-em-uni-frankfurt-de">
                     <persName>
                         <surname>Hoenen</surname>
                         <forename>Armin</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt, Germany</affiliation>
+                    <affiliation ref="#org__436">Goethe Universität Frankfurt, Germany</affiliation>
                     <email>hoenen@em.uni-frankfurt.de</email>
                 </author>
                 <author ref="#person__samushia-em-uni-frankfurt-de">
@@ -19,7 +18,7 @@
                         <surname>Samushia</surname>
                         <forename>Lela</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt, Germany</affiliation>
+                    <affiliation ref="#org__436">Goethe Universität Frankfurt, Germany</affiliation>
                     <email>samushia@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

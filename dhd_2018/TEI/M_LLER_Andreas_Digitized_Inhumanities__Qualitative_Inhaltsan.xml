@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digitized Inhumanities: Qualitative Inhaltsanalyse von Hexenprozessakten mit MAXQDA</title><title type="conf_year">2018</title>
-                <author ref="#person__andreas-w-mueller-outlook-com">
+                <title>Digitized Inhumanities: Qualitative Inhaltsanalyse von Hexenprozessakten mit MAXQDA</title><title type="conf_year">2018</title><author ref="#person__andreas-w-mueller-outlook-com">
                     <persName>
                         <surname>Müller</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__1">Universität Wien, Österreich</affiliation>
                     <email>andreas.w.mueller@outlook.com</email>
                 </author>
             </titleStmt>

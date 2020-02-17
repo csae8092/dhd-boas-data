@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>„Jesus ist keine App“ - Fachsprachliche Konzeptualisierungen des ›Computers‹ und Ansätze computergestützter Fachsprachenlinguistik am Beispiel der Domänen Medizin und Theologie</title><title type="conf_year">2016</title>
-        <author ref="#person__friedemann-vogel-medienkultur-uni-freiburg-de">
+        <title>„Jesus ist keine App“ - Fachsprachliche Konzeptualisierungen des ›Computers‹ und Ansätze computergestützter Fachsprachenlinguistik am Beispiel der Domänen Medizin und Theologie</title><title type="conf_year">2016</title><author ref="#person__friedemann-vogel-medienkultur-uni-freiburg-de">
           <name>
             <surname>Vogel</surname>
             <forename>Friedemann</forename>
           </name>
-          <affiliation ref="#org__319">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
+          <affiliation ref="#org__87">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
           <email>friedemann.vogel@medienkultur.uni-freiburg.de</email>
         </author>
       </titleStmt>

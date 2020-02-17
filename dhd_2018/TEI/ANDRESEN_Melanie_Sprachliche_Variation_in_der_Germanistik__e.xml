@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sprachliche Variation in der Germanistik: eine n-Gramm-basierte Stilanalyse</title><title type="conf_year">2018</title>
-                <author ref="#person__melanie-andresen-uni-hamburg-de">
+                <title>Sprachliche Variation in der Germanistik: eine n-Gramm-basierte Stilanalyse</title><title type="conf_year">2018</title><author ref="#person__melanie-andresen-uni-hamburg-de">
                     <persName>
                         <surname>Andresen</surname>
                         <forename>Melanie</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>Melanie.Andresen@uni-hamburg.de</email>
                 </author>
             </titleStmt>

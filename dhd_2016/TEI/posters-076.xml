@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> Die Schule von Salamanca. Ansätze für vernetzte und visualisierbare Daten </title><title type="conf_year">2016</title>
-        <author ref="#person__andreas-wagner-em-uni-frankfurt-de">
+        <title> Die Schule von Salamanca. Ansätze für vernetzte und visualisierbare Daten </title><title type="conf_year">2016</title><author ref="#person__andreas-wagner-em-uni-frankfurt-de">
           <name>
             <surname>Wagner</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+          <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
           <email>andreas.wagner@em.uni-frankfurt.de</email>
         </author>
         <author ref="#person__caesar-rg-mpg-de">
@@ -16,7 +15,7 @@
             <surname>Caesar</surname>
             <forename>Ingo</forename>
           </name>
-          <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+          <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
           <email>caesar@rg.mpg.de</email>
         </author>
       </titleStmt>

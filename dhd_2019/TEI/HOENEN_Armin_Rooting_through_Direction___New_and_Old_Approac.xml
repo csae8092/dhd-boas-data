@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Rooting through Direction – New and Old Approaches</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__hoenen-em-uni-frankfurt-de">
                     <persName>
                         <surname>Hoenen</surname>
                         <forename>Armin</forename>
                     </persName>
-                    <affiliation ref="#org__9">Goethe Universität Frankfurt, Deutschland</affiliation>
+                    <affiliation ref="#org__44">Goethe Universität Frankfurt, Deutschland</affiliation>
                     <email>hoenen@em.uni-frankfurt.de</email>
                 </author>
             </titleStmt>

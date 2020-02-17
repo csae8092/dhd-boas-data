@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ähnlichkeitssuche in den Digital Humanities: Semi-automatische Identifikation von Kostümmustern </title><title type="conf_year">2016</title>
-        <author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
+        <title>Ähnlichkeitssuche in den Digital Humanities: Semi-automatische Identifikation von Kostümmustern </title><title type="conf_year">2016</title><author ref="#person__johanna-barzen-iaas-uni-stuttgart-de">
           <name>
             <surname>Barzen</surname>
             <forename>Johanna</forename>
           </name>
-          <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
           <email>johanna.barzen@iaas.uni-stuttgart.de</email>
         </author>
         <author ref="#person__falkenthal-iaas-uni-stuttgart-de">
@@ -16,7 +15,7 @@
             <surname>Falkenthal</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
           <email>Falkenthal@iaas.uni-stuttgart.de</email>
         </author>
         <author ref="#person__frank-hentschel-uni-koeln-de">
@@ -24,7 +23,7 @@
             <surname>Hentschel</surname>
             <forename>Frank</forename>
           </name>
-          <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+          <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
           <email>Frank.Hentschel@uni-koeln.de</email>
         </author>
         <author ref="#person__leymann-iaas-uni-stuttgart-de">
@@ -32,7 +31,7 @@
             <surname>Leymann</surname>
             <forename>Frank</forename>
           </name>
-          <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+          <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
           <email>Leymann@iaas.uni-stuttgart.de</email>
         </author>
         <author ref="#person__tino-strehl-student-reutlingen-university-de">
@@ -40,7 +39,7 @@
             <surname>Strehl</surname>
             <forename>Tino</forename>
           </name>
-          <affiliation ref="#org__71">Hochschule Reutlingen, Deutschland</affiliation>
+          <affiliation ref="#org__354">Hochschule Reutlingen, Deutschland</affiliation>
           <email>Tino.Strehl@student.reutlingen-university.de</email>
         </author>
       </titleStmt>

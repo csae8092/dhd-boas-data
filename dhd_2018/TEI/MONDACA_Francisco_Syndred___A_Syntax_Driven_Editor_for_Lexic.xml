@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Syndred - A Syntax-Driven Editor for Lexical Resources</title><title type="conf_year">2018</title>
-                <author ref="#person__f-mondaca-uni-koeln-de">
+                <title>Syndred - A Syntax-Driven Editor for Lexical Resources</title><title type="conf_year">2018</title><author ref="#person__f-mondaca-uni-koeln-de">
                     <persName>
                         <surname>Mondaca</surname>
                         <forename>Francisco</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>f.mondaca@uni-koeln.de</email>
                 </author>
                 <author ref="#person__rols-spinfo-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Rolshoven</surname>
                         <forename>Jürgen</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>rols@spinfo.uni-koeln.de</email>
                 </author>
                 <author ref="#person__philip-schildkamp-uni-koeln-de">
@@ -24,7 +23,7 @@
                         <surname>Schildkamp</surname>
                         <forename>Philip</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>philip.schildkamp@uni-koeln.de</email>
                 </author>
                 <author ref="#person__vogt-andreas-uni-koeln-de">
@@ -32,7 +31,7 @@
                         <surname>Vogt</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>vogt.andreas@uni-koeln.de</email>
                 </author>
             </titleStmt>

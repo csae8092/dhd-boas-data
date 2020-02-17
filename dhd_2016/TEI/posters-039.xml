@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>WissKI – Wissenschaftliche Kommunikations-Infrastruktur</title><title type="conf_year">2016</title>
-        <author ref="#person__dorian-merz-fau-de">
+        <title>WissKI – Wissenschaftliche Kommunikations-Infrastruktur</title><title type="conf_year">2016</title><author ref="#person__dorian-merz-fau-de">
           <name>
             <surname>Merz</surname>
             <forename>Dorian</forename>
           </name>
-          <affiliation ref="#org__44">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__69">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>dorian.merz@fau.de</email>
         </author>
         <author ref="#person__m-fichtner-wiss-ki-eu">
@@ -16,7 +15,7 @@
             <surname>Fichtner</surname>
             <forename>Mark</forename>
           </name>
-          <affiliation ref="#org__42">Germanisches Nationalmuseum Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__39">Germanisches Nationalmuseum Nürnberg, Deutschland</affiliation>
           <email>m.fichtner@wiss-ki.eu</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Das Tool LAKomp und seine Anwendung auf Texte nichtstandardisierter Sprachstufen</title><title type="conf_year">2016</title>
-        <author ref="#person__barbara-aehnlich-uni-jena-de">
+        <title>Das Tool LAKomp und seine Anwendung auf Texte nichtstandardisierter Sprachstufen</title><title type="conf_year">2016</title><author ref="#person__barbara-aehnlich-uni-jena-de">
           <name>
             <surname>Aehnlich</surname>
             <forename>Barbara</forename>
           </name>
-          <affiliation ref="#org__45">Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
+          <affiliation ref="#org__66">Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
           <email>Barbara.Aehnlich@uni-jena.de</email>
         </author>
         <author ref="#person__sylwia-koesser-germanistik-uni-halle-de">
@@ -16,7 +15,7 @@
             <surname>Kösser</surname>
             <forename>Sylwia</forename>
           </name>
-          <affiliation ref="#org__7">Martin-Luther-Universität Halle-Wittenberg</affiliation>
+          <affiliation ref="#org__65">Martin-Luther-Universität Halle-Wittenberg</affiliation>
           <email>sylwia.koesser@germanistik.uni-halle.de</email>
         </author>
       </titleStmt>

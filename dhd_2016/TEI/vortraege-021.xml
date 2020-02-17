@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitale Editionen als Web-Services </title><title type="conf_year">2016</title>
-        <author ref="#person__immanuel-normann-pagina-tuebingen-de">
+        <title>Digitale Editionen als Web-Services </title><title type="conf_year">2016</title><author ref="#person__immanuel-normann-pagina-tuebingen-de">
           <name>
             <surname>Normann</surname>
             <forename>Immanuel</forename>
           </name>
-          <affiliation ref="#org__256">pagina GmbH, Deutschland</affiliation>
+          <affiliation ref="#org__203">pagina GmbH, Deutschland</affiliation>
           <email>immanuel.normann@pagina-tuebingen.de</email>
         </author>
       </titleStmt>

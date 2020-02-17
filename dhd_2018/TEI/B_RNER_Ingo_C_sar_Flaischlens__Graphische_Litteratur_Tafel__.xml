@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cäsar Flaischlens „Graphische Litteratur-Tafel“ – digitale Erschließung einer großformatigen Karte zur Deutschen Literatur</title><title type="conf_year">2018</title>
-                <author ref="#person__ingo-boerner-univie-ac-at">
+                <title>Cäsar Flaischlens „Graphische Litteratur-Tafel“ – digitale Erschließung einer großformatigen Karte zur Deutschen Literatur</title><title type="conf_year">2018</title><author ref="#person__ingo-boerner-univie-ac-at">
                     <persName>
                         <surname>Börner</surname>
                         <forename>Ingo</forename>
                     </persName>
-                    <affiliation ref="#org__10">Universität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__1">Universität Wien, Österreich</affiliation>
                     <email>ingo.boerner@univie.ac.at</email>
                 </author>
                 <author ref="#person__ffischer-hse-ru">
@@ -16,7 +15,7 @@
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__62">National Research University Higher School of Economics, Moskau, Russland</affiliation>
+                    <affiliation ref="#org__76">National Research University Higher School of Economics, Moskau, Russland</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
                 <author ref="#person__angelika-hechtl-wu-ac-at">
@@ -24,7 +23,7 @@
                         <surname>Hechtl</surname>
                         <forename>Angelika</forename>
                     </persName>
-                    <affiliation ref="#org__167">Wirtschaftsuniversität Wien, Österreich</affiliation>
+                    <affiliation ref="#org__452">Wirtschaftsuniversität Wien, Österreich</affiliation>
                     <email>angelika.hechtl@wu.ac.at</email>
                 </author>
                 <author ref="#person__r-jaschke-sheffield-ac-uk">
@@ -32,7 +31,7 @@
                         <surname>Jäschke</surname>
                         <forename>Robert</forename>
                     </persName>
-                    <affiliation ref="#org__168">University of Sheffield, UK</affiliation>
+                    <affiliation ref="#org__453">University of Sheffield, UK</affiliation>
                     <email>r.jaschke@sheffield.ac.uk</email>
                 </author>
                 <author ref="#person__trilcke-uni-potsdam-de">
@@ -40,7 +39,7 @@
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>trilcke@uni-potsdam.de</email>
                 </author>
             </titleStmt>

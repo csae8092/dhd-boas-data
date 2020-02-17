@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Deutsche Geschichte-Digital: Ergebnisse der TEI-Konvertierung und Integration in Pilotprojekten</title><title type="conf_year">2018</title>
-                <author ref="#person__hiebert-ghi-dc-org">
+                <title>Deutsche Geschichte-Digital: Ergebnisse der TEI-Konvertierung und Integration in Pilotprojekten</title><title type="conf_year">2018</title><author ref="#person__hiebert-ghi-dc-org">
                     <persName>
                         <surname>Hiebert</surname>
                         <forename>Matthew</forename>
                     </persName>
-                    <affiliation ref="#org__172">German Historical Institute Washington</affiliation>
+                    <affiliation ref="#org__458">German Historical Institute Washington</affiliation>
                     <email>hiebert@ghi-dc.org</email>
                 </author>
                 <author ref="#person__laessigs-ghi-dc-org">
@@ -16,7 +15,7 @@
                         <surname>Lässig</surname>
                         <forename>Simone</forename>
                     </persName>
-                    <affiliation ref="#org__172">German Historical Institute Washington</affiliation>
+                    <affiliation ref="#org__458">German Historical Institute Washington</affiliation>
                     <email>laessigs@ghi-dc.org</email>
                 </author>
                 <author ref="#person__andreas-witt-uni-koeln-de">
@@ -24,7 +23,7 @@
                         <surname>Witt</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln</affiliation>
+                    <affiliation ref="#org__23">Universität zu Köln</affiliation>
                     <email>andreas.witt@uni-koeln.de</email>
                 </author>
             </titleStmt>

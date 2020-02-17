@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Versionskontrolle mit Git + Kollaboratives Arbeiten im Web mit GitHub</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__stephan-druskat-hu-berlin-de">
                     <persName>
                         <surname>Druskat</surname>
                         <forename>Stephan</forename>
                     </persName>
-                    <affiliation ref="#org__38">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <affiliation ref="#org__77">Humboldt-Universität zu Berlin, Deutschland</affiliation>
                     <email>stephan.druskat@hu-berlin.de</email>
                 </author>
                 <author ref="#person__annika-rockenberger-nb-no">
@@ -19,7 +18,7 @@
                         <surname>Rockenberger</surname>
                         <forename>Annika</forename>
                     </persName>
-                    <affiliation ref="#org__409">Nasjonalbiblioteket, Oslo, Norwegen</affiliation>
+                    <affiliation ref="#org__182">Nasjonalbiblioteket, Oslo, Norwegen</affiliation>
                     <email>annika.rockenberger@nb.no</email>
                 </author>
             </titleStmt>

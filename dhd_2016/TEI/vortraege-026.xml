@@ -2,14 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tambora: Erkenntnisgewinne durch kartographische Visualisierungen von Forschungsdaten aus der historischen Klimatologie</title><title type="conf_year">2016</title>
-        <author ref="#person__s-specht-ifl-leipzig-de">
+        <title>Tambora: Erkenntnisgewinne durch kartographische Visualisierungen von Forschungsdaten aus der historischen Klimatologie</title><title type="conf_year">2016</title><author ref="#person__s-specht-ifl-leipzig-de">
           <name>
             <surname>Specht</surname>
             <forename>Sebastian</forename>
 
           </name>
-          <affiliation ref="#org__291">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
+          <affiliation ref="#org__358">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
           <email>s_specht@ifl-leipzig.de</email>
         </author>
         <author ref="#person__c-hanewinkel-ifl-leipzig-de">
@@ -17,7 +16,7 @@
             <surname>Christian</surname>
             <forename>Hanewinkel</forename>
           </name>
-          <affiliation ref="#org__291">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
+          <affiliation ref="#org__358">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
           <email>c_hanewinkel@ifl-leipzig.de</email>
         </author>
         <author ref="#person__s-koslitz-ifl-leipzig-de">
@@ -25,7 +24,7 @@
             <surname>Sebastian</surname>
             <forename>Koslitz</forename>
           </name>
-          <affiliation ref="#org__291">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
+          <affiliation ref="#org__358">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
           <email>s_koslitz@ifl-leipzig.de</email>
         </author>
         <author ref="#person__h-steller-ifl-leipzig-de">
@@ -33,7 +32,7 @@
             <surname>Heike</surname>
             <forename>Steller</forename>
           </name>
-          <affiliation ref="#org__291">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
+          <affiliation ref="#org__358">Leibniz-Institut für Länderkunde, Deutschland</affiliation>
           <email>h_steller@ifl-leipzig.de</email>
         </author>
       </titleStmt>

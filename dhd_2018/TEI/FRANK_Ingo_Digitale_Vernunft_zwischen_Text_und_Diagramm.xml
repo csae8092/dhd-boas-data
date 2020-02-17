@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Digitale Vernunft zwischen Text und Diagramm</title>
-                    <title type="sub">Digital Mapmaking als Hilfsmittel zur Erklärung historischer Ereignisse</title><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub">Digital Mapmaking als Hilfsmittel zur Erklärung historischer Ereignisse</title><title type="conf_year">2018</title></title>
                 <author ref="#person__frank-ios-regensburg-de">
                     <persName>
                         <surname>Frank</surname>
                         <forename>Ingo</forename>
                     </persName>
-                    <affiliation ref="#org__127">Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)</affiliation>
+                    <affiliation ref="#org__389">Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)</affiliation>
                     <email>frank@ios-regensburg.de</email>
                 </author>
             </titleStmt>

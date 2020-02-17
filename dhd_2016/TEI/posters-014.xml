@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Distant-Reading-Showcase: 200 Jahre deutscher Dramengeschichte auf einen Blick</title><title type="conf_year">2016</title>
-        <author ref="#person__frank-fischer-zentr-uni-goettingen-de">
+        <title>Distant-Reading-Showcase: 200 Jahre deutscher Dramengeschichte auf einen Blick</title><title type="conf_year">2016</title><author ref="#person__frank-fischer-zentr-uni-goettingen-de">
           <name>
             <surname>Fischer</surname>
             <forename>Frank</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>frank.fischer@zentr.uni-goettingen.de</email>
         </author>
         <author ref="#person__andrea-uccello-gmail-com">
@@ -16,7 +15,7 @@
             <surname>Vogel</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig</affiliation>
           <email>andrea.uccello@gmail.com</email>
         </author>
         <author ref="#person__goebel-sub-uni-goettingen-de">
@@ -24,7 +23,7 @@
             <surname>Göbel</surname>
             <forename>Mathias</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>goebel@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__trilcke-phil-uni-goettingen-de">
@@ -32,7 +31,7 @@
             <surname>Trilcke</surname>
             <forename>Peer</forename>
           </name>
-          <affiliation ref="#org__5">Georg-August-Universität Göttingen</affiliation>
+          <affiliation ref="#org__61">Georg-August-Universität Göttingen</affiliation>
           <email>trilcke@phil.uni-goettingen.de</email>
         </author>
         <author ref="#person__kampkaspar-hab-de">
@@ -40,7 +39,7 @@
             <surname>Kampkaspar</surname>
             <forename>Dario</forename>
           </name>
-          <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel</affiliation>
+          <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel</affiliation>
           <email>kampkaspar@hab.de</email>
         </author>
         <author ref="#person__c-kittel-edu-uni-graz-at">
@@ -48,7 +47,7 @@
             <surname>Kittel</surname>
             <forename>Christopher</forename>
           </name>
-          <affiliation ref="#org__12">Karl-Franzens-Universität Graz</affiliation>
+          <affiliation ref="#org__173">Karl-Franzens-Universität Graz</affiliation>
           <email>c.kittel@edu.uni-graz.at</email>
         </author>
       </titleStmt>

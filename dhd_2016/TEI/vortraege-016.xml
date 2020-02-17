@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> HistStadt4D - Multimodale Zugänge zu historischen Bildrepositorien zur Unterstützung stadt- und baugeschichtlicher Forschung und Vermittlung </title><title type="conf_year">2016</title>
-        <author ref="#person__sander-muenster-tu-dresden-de">
+        <title> HistStadt4D - Multimodale Zugänge zu historischen Bildrepositorien zur Unterstützung stadt- und baugeschichtlicher Forschung und Vermittlung </title><title type="conf_year">2016</title><author ref="#person__sander-muenster-tu-dresden-de">
           <name>
             <surname>Münster</surname>
             <forename>Sander</forename>
           </name>
-          <affiliation ref="#org__133">Medienzentrum/TU Dresden, Deutschland</affiliation>
+          <affiliation ref="#org__204">Medienzentrum/TU Dresden, Deutschland</affiliation>
           <email>sander.muenster@tu-dresden.de</email>
         </author>
         <author ref="#person__florian-niebling-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
             <surname>Niebling</surname>
             <forename>Florian</forename>
           </name>
-          <affiliation ref="#org__35">Lehrstuhl HCI/Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__205">Lehrstuhl HCI/Universität Würzburg, Deutschland</affiliation>
           <email>florian.niebling@uni-wuerzburg.de</email>
         </author>
       </titleStmt>

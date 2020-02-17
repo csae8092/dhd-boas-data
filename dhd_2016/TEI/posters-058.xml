@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Romantik im Wandel der Zeit – eine quantitative Untersuchung </title><title type="conf_year">2016</title>
-        <author ref="#person__johannes-hellrich-uni-jena-de">
+        <title>Romantik im Wandel der Zeit – eine quantitative Untersuchung </title><title type="conf_year">2016</title><author ref="#person__johannes-hellrich-uni-jena-de">
           <name>
             <surname>Hellrich</surname>
             <forename>Johannes</forename>
           </name>
-          <affiliation ref="#org__60">Jena University Language &amp; Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
+          <affiliation ref="#org__85">Jena University Language &amp; Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
           <email>johannes.hellrich@uni-jena.de</email>
         </author>
         <author ref="#person__udo-hahn-uni-jena-de">
@@ -16,7 +15,7 @@
             <surname>Hahn</surname>
             <forename>Udo</forename>
           </name>
-          <affiliation ref="#org__60">Jena University Language &amp; Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
+          <affiliation ref="#org__85">Jena University Language &amp; Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
           <email>udo.hahn@uni-jena.de</email>
         </author>
       </titleStmt>

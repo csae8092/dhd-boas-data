@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Perspektiven auf ein Korpus. Kombinationen quantitativ-qualitativer Analysemethoden zur Ermittlung von Textgliederungsprinzipien </title><title type="conf_year">2018</title>
-                <author ref="#person__haaf-bbaw-de">
+                <title> Perspektiven auf ein Korpus. Kombinationen quantitativ-qualitativer Analysemethoden zur Ermittlung von Textgliederungsprinzipien </title><title type="conf_year">2018</title><author ref="#person__haaf-bbaw-de">
                     <persName>
                         <surname>Haaf</surname>
                         <forename>Susanne</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wisesnschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wisesnschaften, Deutschland</affiliation>
                     <email>haaf@bbaw.de</email>
                 </author>
             </titleStmt>

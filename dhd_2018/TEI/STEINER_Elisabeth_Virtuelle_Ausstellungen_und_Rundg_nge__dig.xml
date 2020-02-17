@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virtuelle Ausstellungen und Rundgänge: digitalisiertes Kulturerbe vermitteln und präsentieren</title><title type="conf_year">2018</title>
-                <author ref="#person__elisabeth-steiner-uni-graz-at">
+                <title>Virtuelle Ausstellungen und Rundgänge: digitalisiertes Kulturerbe vermitteln und präsentieren</title><title type="conf_year">2018</title><author ref="#person__elisabeth-steiner-uni-graz-at">
                     <persName>
                         <surname>Steiner</surname>
                         <forename>Elisabeth</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>elisabeth.steiner@uni-graz.at</email>
                 </author>
             </titleStmt>

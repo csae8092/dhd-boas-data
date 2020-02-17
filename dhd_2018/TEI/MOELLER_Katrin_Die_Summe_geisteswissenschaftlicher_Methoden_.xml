@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Summe geisteswissenschaftlicher Methoden? Fachspezifisches Datenmanagement als Voraussetzung zukunftsorientierten Forschens</title><title type="conf_year">2018</title>
-                <author ref="#person__katrin-moeller-geschichte-uni-halle-de">
+                <title>Die Summe geisteswissenschaftlicher Methoden? Fachspezifisches Datenmanagement als Voraussetzung zukunftsorientierten Forschens</title><title type="conf_year">2018</title><author ref="#person__katrin-moeller-geschichte-uni-halle-de">
                     <persName>
                         <surname>Moeller</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__101">Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
+                    <affiliation ref="#org__511">Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg, Deutschland</affiliation>
                     <email>katrin.moeller@geschichte.uni-halle.de</email>
                 </author>
                 <author ref="#person__matej-durco-oeaw-ac-at">
@@ -16,7 +15,7 @@
                         <surname>Ďurčo</surname>
                         <forename>Matej</forename>
                     </persName>
-                    <affiliation ref="#org__102">Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__74">Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>matej.durco@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__barbara-ebert-rfii-de">
@@ -24,7 +23,7 @@
                         <surname>Ebert</surname>
                         <forename>Barbara</forename>
                     </persName>
-                    <affiliation ref="#org__103">Leiterin des Rats für Informationsinfrastrukturen (RfII), Geschäftsstelle Göttingen</affiliation>
+                    <affiliation ref="#org__512">Leiterin des Rats für Informationsinfrastrukturen (RfII), Geschäftsstelle Göttingen</affiliation>
                     <email>barbara.ebert@rfii.de</email>
                 </author>
                 <author ref="#person__esciences-uni-trier-de">
@@ -32,7 +31,7 @@
                         <surname>Lemaire</surname>
                         <forename>Marina</forename>
                     </persName>
-                    <affiliation ref="#org__104">Servicezentrum eSciences, Universität Trier, Deutschland</affiliation>
+                    <affiliation ref="#org__513">Servicezentrum eSciences, Universität Trier, Deutschland</affiliation>
                     <email>esciences@uni-trier.de</email>
                 </author>
                 <author ref="#person__lukas-rosenthaler-unibas-ch">
@@ -40,7 +39,7 @@
                         <surname>Rosenthaler</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation ref="#org__105">and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften, Schweiz</affiliation>
+                    <affiliation ref="#org__514">and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften, Schweiz</affiliation>
                     <email>lukas.rosenthaler@unibas.ch</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -48,7 +47,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__4">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__10">Data Center for the Humanities (DCH), Universität zu Köln, Deutschland</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
                 <author ref="#person__ulrike-wuttke-gmx-net">
@@ -56,7 +55,7 @@
                         <surname>Wuttke</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation ref="#org__106">Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich Informationswissenschaften, Fachhochschule Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__515">Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich Informationswissenschaften, Fachhochschule Potsdam, Deutschland</affiliation>
                     <email>Ulrike.Wuttke@gmx.net</email>
                 </author>
                 <author ref="#person__jwettla-gwdg-de">
@@ -64,7 +63,7 @@
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation ref="#org__107">Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__516">Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen, Deutschland</affiliation>
                     <email>jwettla@gwdg.de</email>
                 </author>
             </titleStmt>

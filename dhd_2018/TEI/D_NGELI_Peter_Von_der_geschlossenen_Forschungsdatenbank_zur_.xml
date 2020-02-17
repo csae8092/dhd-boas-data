@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vom geschützt zugänglichen Datenbankverbund zur offenen Editions- und Forschungsplattform: kritischer Rückblick auf halber Strecke</title><title type="conf_year">2018</title>
-                <author ref="#person__christian-forney-hist-unibe-ch">
+                <title>Vom geschützt zugänglichen Datenbankverbund zur offenen Editions- und Forschungsplattform: kritischer Rückblick auf halber Strecke</title><title type="conf_year">2018</title><author ref="#person__christian-forney-hist-unibe-ch">
                     <persName>
                         <surname>Forney</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__1">Universität Bern, Historisches Institut</affiliation>
+                    <affiliation ref="#org__417">Universität Bern, Historisches Institut</affiliation>
                     <email>christian.forney@hist.unibe.ch</email>
                 </author>
                 <author ref="#person__arojasca-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Rojas Castro</surname>
                         <forename>Antonio</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__23">Universität zu Köln, Cologne Center for eHumanities</affiliation>
                     <email>arojasca@uni-koeln.de</email>
                 </author>
                 <author ref="#person__p-daengeli-uni-koeln-de">
@@ -24,7 +23,7 @@
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__1 #org__0">Universität Bern, Historisches Institut; Universität zu Köln, Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__417 #org__23">Universität Bern, Historisches Institut; Universität zu Köln, Cologne Center for eHumanities</affiliation>
                     <email>p.daengeli@uni-koeln.de</email>
                 </author>
             </titleStmt>

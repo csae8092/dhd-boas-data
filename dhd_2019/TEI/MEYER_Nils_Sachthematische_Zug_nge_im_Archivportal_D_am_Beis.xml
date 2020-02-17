@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sachthematische Zugänge im Archivportal-D am Beispiel Weimarer Republik</title><title type="conf_year">2019</title>
-                <author ref="#person__nils-meyer-la-bw-de">
+                <title>Sachthematische Zugänge im Archivportal-D am Beispiel Weimarer Republik</title><title type="conf_year">2019</title><author ref="#person__nils-meyer-la-bw-de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Nils</forename>
                     </persName>
-                    <affiliation ref="#org__440">Landesarchiv Baden-Württemberg, Deutschland</affiliation>
+                    <affiliation ref="#org__156">Landesarchiv Baden-Württemberg, Deutschland</affiliation>
                     <email>nils.meyer@la-bw.de</email>
                 </author>
             </titleStmt>

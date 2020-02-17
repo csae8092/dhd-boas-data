@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Wer bist Du, Nutzer?</title><title type="conf_year">2016</title>
-        <author ref="#person__fandrych-rz-uni-leipzig-de">
+        <title>Wer bist Du, Nutzer?</title><title type="conf_year">2016</title><author ref="#person__fandrych-rz-uni-leipzig-de">
           <name>
             <surname>Fandrych</surname>
             <forename>Christian</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>fandrych@rz.uni-leipzig.de</email>
         </author>
         <author ref="#person__frick-ids-mannheim-de">
@@ -16,7 +15,7 @@
             <surname>Frick</surname>
             <forename>Elena</forename>
           </name>
-          <affiliation ref="#org__33">IDS Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__80">IDS Mannheim, Deutschland</affiliation>
           <email>frick@ids-mannheim.de</email>
         </author>
         <author ref="#person__hanna-hedeland-uni-hamburg-de">
@@ -24,7 +23,7 @@
             <surname>Hedeland</surname>
             <forename>Hanna</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>hanna.hedeland@uni-hamburg.de</email>
         </author>
         <author ref="#person__annailiash-fm-gmail-com">
@@ -32,7 +31,7 @@
             <surname>Iliash</surname>
             <forename>Anna</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>annailiash.fm@gmail.com</email>
         </author>
         <author ref="#person__daniel-jettka-uni-hamburg-de">
@@ -40,7 +39,7 @@
             <surname>Jettka</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>daniel.jettka@uni-hamburg.de</email>
         </author>
         <author ref="#person__cordula-meissner-uni-leipzig-de">
@@ -48,7 +47,7 @@
             <surname>Meißner</surname>
             <forename>Cordula</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>cordula.meissner@uni-leipzig.de</email>
         </author>
         <author ref="#person__thomas-schmidt-ids-mannheim-de">
@@ -56,7 +55,7 @@
             <surname>Schmidt</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__33">IDS Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__80">IDS Mannheim, Deutschland</affiliation>
           <email>thomas.schmidt@ids-mannheim.de</email>
         </author>
         <author ref="#person__f-wallner-rz-uni-leipzig-de">
@@ -64,7 +63,7 @@
             <surname>Wallner</surname>
             <forename>Franziska</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>f.wallner@rz.uni-leipzig.de</email>
         </author>
         <author ref="#person__kw59kahe-studserv-uni-leipzig-de">
@@ -72,7 +71,7 @@
             <surname>Weigert</surname>
             <forename>Kathrin</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>kw59kahe@studserv.uni-leipzig.de</email>
         </author>
       </titleStmt>

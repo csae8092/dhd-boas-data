@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Technical and social Infrastructures for the Humanities: The Example of the Dagaare-English-Cantonese Dictionary</title><title type="conf_year">2016</title>
-        <author ref="#person__adams-bodomo-univie-ac-at">
+        <title>Technical and social Infrastructures for the Humanities: The Example of the Dagaare-English-Cantonese Dictionary</title><title type="conf_year">2016</title><author ref="#person__adams-bodomo-univie-ac-at">
           <name>
             <surname>Bodomo</surname>
             <forename>Adams</forename>
           </name>
-          <affiliation ref="#org__10">Universität Wien, Institut für Afrikawissenschaften; AT</affiliation>
+          <affiliation ref="#org__206">Universität Wien, Institut für Afrikawissenschaften; AT</affiliation>
           <email>adams.bodomo@univie.ac.at</email>
         </author>
         <author ref="#person__eveline-wandl-vogt-oeaw-ac-at">
@@ -16,7 +15,7 @@
             <surname>Wandl-Vogt</surname>
             <forename>Eveline</forename>
           </name>
-          <affiliation ref="#org__295">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT</affiliation>
+          <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT</affiliation>
           <email>eveline.wandl-vogt@oeaw.ac.at</email>
         </author>
         <author ref="#person__karlheinz-moerth-oeaw-ac-at">
@@ -24,7 +23,7 @@
             <surname>Mörth</surname>
             <forename>Karlheinz</forename>
           </name>
-          <affiliation ref="#org__295">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT</affiliation>
+          <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT</affiliation>
           <email>karlheinz.moerth@oeaw.ac.at</email>
         </author>
       </titleStmt>

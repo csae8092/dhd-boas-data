@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Editionsportal (nicht nur) für Thüringen</title><title type="conf_year">2019</title>
-                <author ref="#person__martin-prell-uni-jena-de">
+                <title>Ein Editionsportal (nicht nur) für Thüringen</title><title type="conf_year">2019</title><author ref="#person__martin-prell-uni-jena-de">
                     <persName>
                         <surname>Prell</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__45">Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__66">Friedrich-Schiller-Universität Jena, Deutschland</affiliation>
                     <email>martin.prell@uni-jena.de</email>
                 </author>
             </titleStmt>

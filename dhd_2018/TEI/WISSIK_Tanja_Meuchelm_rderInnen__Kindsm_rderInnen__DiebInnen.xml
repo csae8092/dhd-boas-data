@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MeuchelmörderInnen, KindsmörderInnen, DiebInnen und die dazugehörigen Tatbestände: Erstellung eines Thesaurus für das österreichische Strafrecht des 18. Jahrhunderts zur Erschließung einer Flugblattsammlung</title><title type="conf_year">2018</title>
-                <author ref="#person__tanja-wissik-oeaw-ac-at">
+                <title>MeuchelmörderInnen, KindsmörderInnen, DiebInnen und die dazugehörigen Tatbestände: Erstellung eines Thesaurus für das österreichische Strafrecht des 18. Jahrhunderts zur Erschließung einer Flugblattsammlung</title><title type="conf_year">2018</title><author ref="#person__tanja-wissik-oeaw-ac-at">
                     <persName>
                         <surname>Wissik</surname>
                         <forename>Tanja</forename>
                     </persName>
-                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>Tanja.Wissik@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__claudia-resch-oeaw-ac-at">
@@ -16,7 +15,7 @@
                         <surname>Resch</surname>
                         <forename>Claudia</forename>
                     </persName>
-                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>Claudia.Resch@oeaw.ac.at</email>
                 </author>
             </titleStmt>

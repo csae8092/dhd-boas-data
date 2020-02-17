@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Modellierung von Forschungsdaten durch Annotation </title><title type="conf_year">2016</title>
-        <author ref="#person__heike-zinsmeister-uni-hamburg-de">
+        <title>Modellierung von Forschungsdaten durch Annotation </title><title type="conf_year">2016</title><author ref="#person__heike-zinsmeister-uni-hamburg-de">
           <name>
             <surname>Zinsmeister</surname>
             <forename>Heike</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>heike.zinsmeister@uni-hamburg.de</email>
         </author>
       </titleStmt>

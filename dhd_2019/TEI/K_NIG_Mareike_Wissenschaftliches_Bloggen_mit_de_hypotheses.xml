@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wissenschaftliches Bloggen mit de.hypotheses</title><title type="conf_year">2019</title>
-                <author ref="#person__mkoenig-dhi-paris-fr">
+                <title>Wissenschaftliches Bloggen mit de.hypotheses</title><title type="conf_year">2019</title><author ref="#person__mkoenig-dhi-paris-fr">
                     <persName>
                         <surname>König</surname>
                         <forename>Mareike</forename>
                     </persName>
-                    <affiliation ref="#org__328">Deutsches Historisches Institut Paris, Frankreich</affiliation>
+                    <affiliation ref="#org__97">Deutsches Historisches Institut Paris, Frankreich</affiliation>
                     <email>mkoenig@dhi-paris.fr</email>
                 </author>
                 <author ref="#person__menke-maxweberstiftung-de">
@@ -16,7 +15,7 @@
                         <surname>Menke</surname>
                         <forename>Ulla</forename>
                     </persName>
-                    <affiliation ref="#org__58">Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__40">Max Weber Stiftung</affiliation>
                     <email>menke@maxweberstiftung.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die computergestützte Erschließung und Visualisierung historischer Itinerare</title><title type="conf_year">2016</title>
-        <author ref="#person__daniel-blank-uni-bamberg-de">
+        <title>Die computergestützte Erschließung und Visualisierung historischer Itinerare</title><title type="conf_year">2016</title><author ref="#person__daniel-blank-uni-bamberg-de">
           <name>
             <surname>Blank</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__19">Universität Bamberg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Bamberg, Deutschland</affiliation>
           <email>daniel.blank@uni-bamberg.de</email>
         </author>
         <author ref="#person__andreas-henrich-uni-bamberg-de">
@@ -16,7 +15,7 @@
             <surname>Henrich</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__19">Universität Bamberg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Bamberg, Deutschland</affiliation>
           <email>andreas.henrich@uni-bamberg.de</email>
         </author>
       </titleStmt>

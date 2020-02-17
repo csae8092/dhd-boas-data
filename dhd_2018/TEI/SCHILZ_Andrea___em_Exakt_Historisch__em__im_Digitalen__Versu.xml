@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> 'Exakt Historisch' im Digitalen? Versuch einer Anleihe</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__andrea-schilz-uni-passau-de">
                     <persName>
                         <surname>Schilz</surname>
                         <forename>Andrea</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Passau, Deutschland</affiliation>
                     <email>andrea.schilz@uni-passau.de</email>
                 </author>
             </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Horizontales Lesen: Das "Verdi-Requiem" und die deutsche Kritik</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__mail-torstenroeder-de">
                     <persName>
                         <surname>Roeder</surname>
                         <forename>Torsten</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>mail@torstenroeder.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CATMA - Eine Plattform zum kollaborativen und automatisierten Annotieren und Analysieren von Texten</title><title type="conf_year">2016</title>
-        <author ref="#person__thomas-boegel-informatik-uni-heidelberg-de">
+        <title>CATMA - Eine Plattform zum kollaborativen und automatisierten Annotieren und Analysieren von Texten</title><title type="conf_year">2016</title><author ref="#person__thomas-boegel-informatik-uni-heidelberg-de">
           <name>
             <surname>Bögel</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__21">Universität Heidelberg, Deutschland</affiliation>
+          <affiliation ref="#org__20">Universität Heidelberg, Deutschland</affiliation>
           <email>thomas.boegel@informatik.uni-heidelberg.de</email>
         </author>
         <author ref="#person__evelyn-gius-uni-hamburg-de">
@@ -16,7 +15,7 @@
             <surname>Gius</surname>
             <forename>Evelyn</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>evelyn.gius@uni-hamburg.de</email>
         </author>
         <author ref="#person__marco-petris-uni-hamburg-de">
@@ -24,7 +23,7 @@
             <surname>Petris</surname>
             <forename>Marco</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>marco.petris@uni-hamburg.de</email>
         </author>
         <author ref="#person__jannik-stroetgen-mpi-inf-mpg-de">
@@ -32,7 +31,7 @@
             <surname>Strötgen</surname>
             <forename>Jannik</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Informatik Saarbrücken, Deutschland</affiliation>
+          <affiliation ref="#org__56">Max-Planck-Institut für Informatik Saarbrücken, Deutschland</affiliation>
           <email>jannik.stroetgen@mpi-inf.mpg.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Grundzüge einer visuellen Stilometrie</title><title type="conf_year">2019</title>
-                <author ref="#person__laubrock-uni-potsdam-de">
+                <title>Grundzüge einer visuellen Stilometrie</title><title type="conf_year">2019</title><author ref="#person__laubrock-uni-potsdam-de">
                     <persName>
                         <surname>Laubrock</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>laubrock@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__ddubray-uni-potsdam-de">
@@ -16,7 +15,7 @@
                         <surname>Dubray</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>ddubray@uni-potsdam.de</email>
                 </author>
             </titleStmt>

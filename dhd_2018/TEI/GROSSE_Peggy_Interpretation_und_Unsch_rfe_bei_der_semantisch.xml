@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Interpretation und Unschärfe bei der semantischen Erschließung von historischen Quellen</title><title type="conf_year">2018</title>
-                <author ref="#person__j-hamisch-gnm-de">
+                <title>Interpretation und Unschärfe bei der semantischen Erschließung von historischen Quellen</title><title type="conf_year">2018</title><author ref="#person__j-hamisch-gnm-de">
                     <persName>
                         <surname>Hamisch</surname>
                         <forename>Juliane</forename>
                     </persName>
-                    <affiliation ref="#org__42">Germanisches Nationalmuseum, Nürnberg</affiliation>
+                    <affiliation ref="#org__39">Germanisches Nationalmuseum, Nürnberg</affiliation>
                     <email>j.hamisch@gnm.de</email>
                 </author>
                 <author ref="#person__p-grosse-gnm-de">
@@ -16,7 +15,7 @@
                         <surname>Große</surname>
                         <forename>Peggy</forename>
                     </persName>
-                    <affiliation ref="#org__42">Germanisches Nationalmuseum, Nürnberg</affiliation>
+                    <affiliation ref="#org__39">Germanisches Nationalmuseum, Nürnberg</affiliation>
                     <email>p.grosse@gnm.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title><title type="conf_year">2019</title>
-                <author ref="#person__moisich-gmail-com">
+                <title>Multimedia Markup Editor (M3): Semi-Automatische Annotationssoftware für statische Bild-Text Medien</title><title type="conf_year">2019</title><author ref="#person__moisich-gmail-com">
                     <persName>
                         <surname>Moisich</surname>
                         <forename>Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>moisich@gmail.com</email>
                 </author>
                 <author ref="#person__rst-upb-de">
@@ -16,7 +15,7 @@
                         <surname>Hartel</surname>
                         <forename>Rita</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>rst@upb.de</email>
                 </author>
             </titleStmt>

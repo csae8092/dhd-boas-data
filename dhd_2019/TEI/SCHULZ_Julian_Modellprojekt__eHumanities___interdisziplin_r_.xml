@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title><title type="conf_year">2019</title>
-                <author ref="#person__julian-schulz-lmu-de">
+                <title>Modellprojekt "eHumanities - interdisziplinär": Forschungsdatenmanagement im Rahmen des "Digitalen Campus Bayern"</title><title type="conf_year">2019</title><author ref="#person__julian-schulz-lmu-de">
                     <persName>
                         <surname>Schulz</surname>
                         <forename>Julian</forename>
                     </persName>
-                    <affiliation ref="#org__22">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+                    <affiliation ref="#org__60">Ludwig-Maximilians-Universität München, Deutschland</affiliation>
                     <email>julian.schulz@lmu.de</email>
                 </author>
             </titleStmt>

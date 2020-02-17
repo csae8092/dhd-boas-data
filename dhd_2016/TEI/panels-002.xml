@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Der Modelle Tugend 2.0 – Vom digitalen 3D-Datensatz zum wissenschaftlichen Informationsmodell</title><title type="conf_year">2016</title>
-        <author ref="#person__email-stephan-hoppe-de">
+        <title>Der Modelle Tugend 2.0 – Vom digitalen 3D-Datensatz zum wissenschaftlichen Informationsmodell</title><title type="conf_year">2016</title><author ref="#person__email-stephan-hoppe-de">
           <name>
             <surname>Hoppe</surname>
             <forename>Stephan</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig-Maximilians-Universität München</affiliation>
+          <affiliation ref="#org__60">Ludwig-Maximilians-Universität München</affiliation>
           <email>email@stephan-hoppe.de</email>
         </author>
         <author ref="#person__pfarr-dg-tu-darmstadt-de">
@@ -16,7 +15,7 @@
             <surname>Pfarr-Harfst</surname>
             <forename>Mieke</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt</affiliation>
           <email>pfarr@dg.tu-darmstadt.de</email>
         </author>
         <author ref="#person__sander-muenster-tu-dresden-de">
@@ -24,7 +23,7 @@
             <surname>Münster</surname>
             <forename>Sander</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Dresden</affiliation>
+          <affiliation ref="#org__12">Technische Universität Dresden</affiliation>
           <email>sander.muenster@tu-dresden.de</email>
         </author>
         <author ref="#person__piotr-kuroczynski-herder-institut-de">
@@ -32,7 +31,7 @@
             <surname>Kuroczyński</surname>
             <forename>Piotr</forename>
           </name>
-          <affiliation ref="#org__74">Herder-Institut Marburg</affiliation>
+          <affiliation ref="#org__88">Herder-Institut Marburg</affiliation>
           <email>piotr.kuroczynski@herder-institut.de</email>
         </author>
         <author ref="#person__ina-bluemel-tib-uni-hannover-de">
@@ -40,7 +39,7 @@
             <surname>Blümel</surname>
             <forename>Ina</forename>
           </name>
-          <affiliation ref="#org__237">Technische Informationsbibliothek Hannover</affiliation>
+          <affiliation ref="#org__291">Technische Informationsbibliothek Hannover</affiliation>
           <email>ina.bluemel@tib.uni-hannover.de</email>
         </author>
         <author ref="#person__oha-raumdarstellung-org">
@@ -48,7 +47,7 @@
             <surname>Hauck</surname>
             <forename>Oliver</forename>
           </name>
-          <affiliation ref="#org__238">Institut für Raumdarstellung</affiliation>
+          <affiliation ref="#org__292">Institut für Raumdarstellung</affiliation>
           <email>oha@raumdarstellung.org</email>
         </author>
         <author ref="#person__j-lutteroth-googlemail-com">
@@ -56,7 +55,7 @@
             <surname>Lutteroth</surname>
             <forename>Jan</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt</affiliation>
           <email>j.lutteroth@googlemail.com</email>
         </author>
       </titleStmt>

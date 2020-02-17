@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Aufbau und Annotation des Kafka/Referenzkorpus </title><title type="conf_year">2016</title>
-        <author ref="#person__bherrma1-gwdg-de">
+        <title>Aufbau und Annotation des Kafka/Referenzkorpus </title><title type="conf_year">2016</title><author ref="#person__bherrma1-gwdg-de">
           <name>
             <surname>Herrmann</surname>
             <forename>J. Berenike</forename>
           </name>
-          <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
           <email>bherrma1@gwdg.de</email>
         </author>
         <author ref="#person__gehard-lauer-phil-uni-goettingen-de">
@@ -16,7 +15,7 @@
             <surname>Lauer</surname>
             <forename>Gerhard</forename>
           </name>
-          <affiliation ref="#org__56">Universität Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__0">Universität Göttingen, Deutschland</affiliation>
           <email>gehard.lauer@phil.uni-goettingen.de</email>
         </author>
       </titleStmt>

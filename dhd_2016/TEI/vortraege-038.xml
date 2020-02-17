@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sprachwandel im Sanskrit? Eine Corpusstudie zum Einfluss Pāṇinis auf die Lexik des Sanskrit</title><title type="conf_year">2016</title>
-        <author ref="#person__hellwig7-gmx-de">
+        <title>Sprachwandel im Sanskrit? Eine Corpusstudie zum Einfluss Pāṇinis auf die Lexik des Sanskrit</title><title type="conf_year">2016</title><author ref="#person__hellwig7-gmx-de">
           <name>
             <surname>Hellwig</surname>
             <forename>Oliver</forename>
           </name>
-          <affiliation ref="#org__52">Universität Düsseldorf, Deutschland</affiliation>
+          <affiliation ref="#org__372">Universität Düsseldorf, Deutschland</affiliation>
           <email>hellwig7@gmx.de</email>
         </author>
         <author ref="#person__petersen-phil-uni-duesseldorf-de">
@@ -16,7 +15,7 @@
             <surname>Petersen</surname>
             <forename>Wiebke</forename>
           </name>
-          <affiliation ref="#org__52">Universität Düsseldorf, Deutschland</affiliation>
+          <affiliation ref="#org__372">Universität Düsseldorf, Deutschland</affiliation>
           <email>petersen@phil.uni-duesseldorf.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Netzwerkanalyse für Historiker. Probleme und Lösungen am Beispiel eines Promotionsvorhabens</title><title type="conf_year">2019</title>
-                <author ref="#person__toscano-r-outlook-de">
+                <title>Netzwerkanalyse für Historiker. Probleme und Lösungen am Beispiel eines Promotionsvorhabens</title><title type="conf_year">2019</title><author ref="#person__toscano-r-outlook-de">
                     <persName>
                         <surname>Toscano</surname>
                         <forename>Roberta</forename>
                     </persName>
-                    <affiliation ref="#org__51">Universität Stuttgart, Deutschland</affiliation>
+                    <affiliation ref="#org__14">Universität Stuttgart, Deutschland</affiliation>
                     <email>toscano-r@outlook.de</email>
                 </author>
             </titleStmt>

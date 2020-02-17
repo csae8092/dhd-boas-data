@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> Dramen als small worlds? Netzwerkdaten zur Geschichte und Typologie deutschsprachiger Dramen 1730-1930 </title><title type="conf_year">2016</title>
-        <author ref="#person__trilcke-phil-uni-goettingen-de">
+        <title> Dramen als small worlds? Netzwerkdaten zur Geschichte und Typologie deutschsprachiger Dramen 1730-1930 </title><title type="conf_year">2016</title><author ref="#person__trilcke-phil-uni-goettingen-de">
           <name>
             <surname>Trilcke</surname>
             <forename>Peer</forename>
           </name>
-          <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland</affiliation>
           <email>trilcke@phil.uni-goettingen.de</email>
         </author>
         <author ref="#person__frank-fischer-sub-uni-goettingen-de">
@@ -16,7 +15,7 @@
             <surname>Fischer</surname>
             <forename>Frank</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>frank.fischer@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__goebel-sub-uni-goettingen-de">
@@ -24,7 +23,7 @@
             <surname>Göbel</surname>
             <forename>Mathias</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>goebel@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__kampkaspar-hab-de">
@@ -32,7 +31,7 @@
             <surname>Kampkaspar</surname>
             <forename>Dario</forename>
           </name>
-          <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel</affiliation>
+          <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel</affiliation>
           <email>kampkaspar@hab.de</email>
         </author>
       </titleStmt>

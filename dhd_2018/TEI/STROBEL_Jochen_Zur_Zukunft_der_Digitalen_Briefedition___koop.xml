@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Zur Zukunft der Digitalen Briefedition – kooperative Lösungen im kulturwissenschaftlichen Forschungsdaten-management </title><title type="conf_year">2018</title>
-                <author ref="#person__strobel-staff-uni-marburg-de">
+                <title>Zur Zukunft der Digitalen Briefedition – kooperative Lösungen im kulturwissenschaftlichen Forschungsdaten-management </title><title type="conf_year">2018</title><author ref="#person__strobel-staff-uni-marburg-de">
                     <persName>
                         <surname>Strobel</surname>
                         <forename>Jochen</forename>
                     </persName>
-                    <affiliation ref="#org__85">Philipps-Universität Marburg, Deutschland</affiliation>
+                    <affiliation ref="#org__90">Philipps-Universität Marburg, Deutschland</affiliation>
                     <email>strobel@staff.uni-marburg.de</email>
                 </author>
                 <author ref="#person__buerger-slub-dresden-de">
@@ -16,7 +15,7 @@
                         <surname>Bürger</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__24">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</affiliation>
+                    <affiliation ref="#org__43">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</affiliation>
                     <email>buerger@slub-dresden.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Neue Wahlverwandtschaften</title><title type="conf_year">2018</title>
-                <author ref="#person__daniel-althof-bbaw-de">
+                <title> Neue Wahlverwandtschaften</title><title type="conf_year">2018</title><author ref="#person__daniel-althof-bbaw-de">
                     <persName>
                         <surname>Althof</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__66">BBAW, Deutschland</affiliation>
+                    <affiliation ref="#org__96">BBAW, Deutschland</affiliation>
                     <email>daniel.althof@bbaw.de</email>
                 </author>
             </titleStmt>

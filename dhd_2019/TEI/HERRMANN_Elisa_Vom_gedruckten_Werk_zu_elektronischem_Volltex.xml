@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Vom gedruckten Werk zu elektronischem Volltext als Forschungsgrundlage</title>
-                    <title type="sub"> Lorem ipsum</title><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"> Lorem ipsum</title><title type="conf_year">2019</title></title>
                 <author ref="#person__boenig-bbaw-de">
                     <persName>
                         <surname>Boenig</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>boenig@bbaw.de</email>
                 </author>
                 <author ref="#person__elisa-herrmann-hab-de">
@@ -19,7 +18,7 @@
                         <surname>Herrmann</surname>
                         <forename>Elisa</forename>
                     </persName>
-                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>elisa.herrmann@hab.de</email>
                 </author>
                 <author ref="#person__volker-hartmann-kit-edu">
@@ -27,7 +26,7 @@
                         <surname>Hartmann</surname>
                         <forename>Volker</forename>
                     </persName>
-                    <affiliation ref="#org__435">Steinbuch Centre for Computing / KIT</affiliation>
+                    <affiliation ref="#org__104">Steinbuch Centre for Computing / KIT</affiliation>
                     <email>volker.hartmann@kit.edu</email>
                 </author>
             </titleStmt>

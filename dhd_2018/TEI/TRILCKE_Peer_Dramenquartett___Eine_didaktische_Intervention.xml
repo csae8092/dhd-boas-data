@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dramenquartett – Eine didaktische Intervention</title><title type="conf_year">2018</title>
-                <author ref="#person__ffischer-hse-ru">
+                <title>Dramenquartett – Eine didaktische Intervention</title><title type="conf_year">2018</title><author ref="#person__ffischer-hse-ru">
                     <persName>
                         <surname>Fischer</surname>
                         <forename>Frank</forename>
                     </persName>
-                    <affiliation ref="#org__61">Higher School of Economics, Moskau</affiliation>
+                    <affiliation ref="#org__75">Higher School of Economics, Moskau</affiliation>
                     <email>ffischer@hse.ru</email>
                 </author>
                 <author ref="#person__contact-christopherkittel-eu">
@@ -16,7 +15,7 @@
                         <surname>Kittel</surname>
                         <forename>Christopher</forename>
                     </persName>
-                    <affiliation ref="#org__12 #org__190">Karl-Franzens-Universität Graz; Open Knowledge Forum Österreich</affiliation>
+                    <affiliation ref="#org__173 #org__400">Karl-Franzens-Universität Graz; Open Knowledge Forum Österreich</affiliation>
                     <email>contact@christopherkittel.eu</email>
                 </author>
                 <author ref="#person__cmil-hashtable-de">
@@ -24,7 +23,7 @@
                         <surname>Milling</surname>
                         <forename>Carsten</forename>
                     </persName>
-                    <affiliation ref="#org__191">Berlin</affiliation>
+                    <affiliation ref="#org__174">Berlin</affiliation>
                     <email>cmil@hashtable.de</email>
                 </author>
                 <author ref="#person__trilcke-uni-potsdam-de">
@@ -32,7 +31,7 @@
                         <surname>Trilcke</surname>
                         <forename>Peer</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>trilcke@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__jana-a-wolf-hotmail-com">
@@ -40,7 +39,7 @@
                         <surname>Wolf</surname>
                         <forename>Jana</forename>
                     </persName>
-                    <affiliation ref="#org__192">Mittelbayerische Zeitung Regensburg</affiliation>
+                    <affiliation ref="#org__402">Mittelbayerische Zeitung Regensburg</affiliation>
                     <email>jana_a_wolf@hotmail.com</email>
                 </author>
             </titleStmt>

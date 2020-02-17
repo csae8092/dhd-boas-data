@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Über den Mehrwert der Vernetzung von OCR-Verfahren zur Erfassung von Texten des 17. Jahrhunderts</title><title type="conf_year">2016</title>
-        <author ref="#person__boenig-bbaw-de">
+        <title>Über den Mehrwert der Vernetzung von OCR-Verfahren zur Erfassung von Texten des 17. Jahrhunderts</title><title type="conf_year">2016</title><author ref="#person__boenig-bbaw-de">
           <name>
             <surname>Boenig</surname>
             <forename>Matthias</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland</affiliation>
           <email>boenig@bbaw.de</email>
         </author>
         <author ref="#person__wuerzner-bbaw-de">
@@ -16,7 +15,7 @@
             <surname>Würzner</surname>
             <forename>Kay-Michael</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland</affiliation>
           <email>wuerzner@bbaw.de</email>
         </author>
         <author ref="#person__binder-informatik-hu-berlin-de">
@@ -24,7 +23,7 @@
             <surname>Binder</surname>
             <forename>Arne</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland</affiliation>
           <email>binder@informatik.hu-berlin.de</email>
         </author>
         <author ref="#person__springmann-cis-uni-muenchen-de">
@@ -32,7 +31,7 @@
             <surname>Springmann</surname>
             <forename>Uwe</forename>
           </name>
-          <affiliation ref="#org__310">Centrum für Informations- und Sprachverarbeitung - Ludwig-Maximilians-Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__374">Centrum für Informations- und Sprachverarbeitung - Ludwig-Maximilians-Universität München, Deutschland</affiliation>
           <email>springmann@cis.uni-muenchen.de</email>
         </author>
       </titleStmt>

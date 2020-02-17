@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitale Workflows in Langzeitprojekten am Beispiel einer Infrastruktur zur Dokumentation indigener nordeurasischer Sprachen (INEL)</title><title type="conf_year">2016</title>
-        <author ref="#person__hanna-hedeland-uni-hamburg-de">
+        <title>Digitale Workflows in Langzeitprojekten am Beispiel einer Infrastruktur zur Dokumentation indigener nordeurasischer Sprachen (INEL)</title><title type="conf_year">2016</title><author ref="#person__hanna-hedeland-uni-hamburg-de">
           <name>
             <surname>Hedeland</surname>
             <forename>Hanna</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>hanna.hedeland@uni-hamburg.de</email>
         </author>
         <author ref="#person__timm-lehmberg-uni-hamburg-de">
@@ -16,7 +15,7 @@
             <surname>Lehmberg</surname>
             <forename>Timm</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>timm.lehmberg@uni-hamburg.de</email>
         </author>
         <author ref="#person__beata-wagner-nagy-uni-hamburg-de">
@@ -24,7 +23,7 @@
             <surname>Wagner-Nagy</surname>
             <forename>Beata</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>beata.wagner-nagy@uni-hamburg.de</email>
         </author>
       </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Leistungsfähige und einfache Suchen in lexikografischen Datennetzen</title>
-                    <title type="sub">Ein interaktiv-visueller Query Builder für Property-Graphen</title><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub">Ein interaktiv-visueller Query Builder für Property-Graphen</title><title type="conf_year">2019</title></title>
                 <author ref="#person__meyer-ids-mannheim-de">
                     <persName>
                         <surname>Meyer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>meyer@ids-mannheim.de</email>
                 </author>
             </titleStmt>

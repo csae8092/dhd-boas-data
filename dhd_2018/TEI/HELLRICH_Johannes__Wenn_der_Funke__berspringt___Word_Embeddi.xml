@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Wenn der Funke überspringt – Word Embeddings im Dienst der Wissenschaftsgeschichte</title><title type="conf_year">2018</title>
-                <author ref="#person__johannes-hellrich-uni-jena-de">
+                <title> Wenn der Funke überspringt – Word Embeddings im Dienst der Wissenschaftsgeschichte</title><title type="conf_year">2018</title><author ref="#person__johannes-hellrich-uni-jena-de">
                     <persName>
                         <surname>Hellrich</surname>
                         <forename>Johannes</forename>
                     </persName>
-                    <affiliation ref="#org__161 #org__60">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland; Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__408 #org__85">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland; Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
                     <email>johannes.hellrich@uni-jena.de</email>
                 </author>
                 <author ref="#person__alexander-stoeger-uni-jena-de">
@@ -16,7 +15,7 @@
                         <surname>Stöger</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__161">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__408">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
                     <email>alexander.stoeger@uni-jena.de</email>
                 </author>
                 <author ref="#person__udo-hahn-uni-jena-de">
@@ -24,7 +23,7 @@
                         <surname>Hahn</surname>
                         <forename>Udo</forename>
                     </persName>
-                    <affiliation ref="#org__60">Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
+                    <affiliation ref="#org__85">Jena University Language &amp; Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
                     <email>udo.hahn@uni-jena.de</email>
                 </author>
             </titleStmt>

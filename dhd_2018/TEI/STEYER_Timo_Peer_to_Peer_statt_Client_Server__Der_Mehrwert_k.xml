@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Peer-to-Peer statt Client-Server: Der Mehrwert kollegialer Beratung und agiler DH-Treffen</title><title type="conf_year">2018</title>
-                <author ref="#person__steyer-hab-de">
+                <title>Peer-to-Peer statt Client-Server: Der Mehrwert kollegialer Beratung und agiler DH-Treffen</title><title type="conf_year">2018</title><author ref="#person__steyer-hab-de">
                     <persName>
                         <surname>Steyer</surname>
                         <forename>Timo</forename>
                     </persName>
-                    <affiliation ref="#org__28 #org__27">Forschungsverbund Marbach Weimar Wolfenbüttel; Herzog August Bibliothek Wolfenbüttel</affiliation>
+                    <affiliation ref="#org__50 #org__48">Forschungsverbund Marbach Weimar Wolfenbüttel; Herzog August Bibliothek Wolfenbüttel</affiliation>
                     <email>steyer@hab.de</email>
                 </author>
                 <author ref="#person__swantje-dogunke-klassik-stiftung-de">
@@ -16,7 +15,7 @@
                         <surname>Dogunke</surname>
                         <forename>Swantje</forename>
                     </persName>
-                    <affiliation ref="#org__28 #org__138">Forschungsverbund Marbach Weimar Wolfenbüttel; Klassik Stiftung Weimar</affiliation>
+                    <affiliation ref="#org__50 #org__419">Forschungsverbund Marbach Weimar Wolfenbüttel; Klassik Stiftung Weimar</affiliation>
                     <email>swantje.dogunke@klassik-stiftung.de</email>
                 </author>
                 <author ref="#person__corinna-mayer-dla-marbach-de">
@@ -24,7 +23,7 @@
                         <surname>Mayer</surname>
                         <forename>Corinna</forename>
                     </persName>
-                    <affiliation ref="#org__28 #org__139">Forschungsverbund Marbach Weimar Wolfenbüttel; Deutsches Literaturarchiv Marbach</affiliation>
+                    <affiliation ref="#org__50 #org__420">Forschungsverbund Marbach Weimar Wolfenbüttel; Deutsches Literaturarchiv Marbach</affiliation>
                     <email>corinna.mayer@dla-marbach.de</email>
                 </author>
                 <author ref="#person__neumann-maxweberstiftung-de">
@@ -32,7 +31,7 @@
                         <surname>Neumann</surname>
                         <forename>Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__58">Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__40">Max Weber Stiftung</affiliation>
                     <email>Neumann@MaxWeberStiftung.de</email>
                 </author>
                 <author ref="#person__cremer-maxweberstiftung-de">
@@ -40,7 +39,7 @@
                         <surname>Cremer</surname>
                         <forename>Fabian</forename>
                     </persName>
-                    <affiliation ref="#org__58">Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__40">Max Weber Stiftung</affiliation>
                     <email>Cremer@MaxWeberStiftung.de</email>
                 </author>
                 <author ref="#person__twuebbena-dfk-paris-org">
@@ -48,7 +47,7 @@
                         <surname>Wübbena</surname>
                         <forename>Thorsten</forename>
                     </persName>
-                    <affiliation ref="#org__58">Max Weber Stiftung</affiliation>
+                    <affiliation ref="#org__40">Max Weber Stiftung</affiliation>
                     <email>twuebbena@dfk-paris.org</email>
                 </author>
             </titleStmt>

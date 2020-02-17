@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitales Arbeiten in den Geisteswissenschaften stärken – wissenschaftliche Begleitforschung in DARIAH-DE</title><title type="conf_year">2016</title>
-        <author ref="#person__gnadt-sub-uni-goettingen-de">
+        <title>Digitales Arbeiten in den Geisteswissenschaften stärken – wissenschaftliche Begleitforschung in DARIAH-DE</title><title type="conf_year">2016</title><author ref="#person__gnadt-sub-uni-goettingen-de">
           <name>
             <surname>Gnadt</surname>
             <forename>Timo</forename>
           </name>
-          <affiliation ref="#org__50">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__67">Niedersächsische Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>gnadt@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__jstiller-mpiwg-berlin-mpg-de">
@@ -16,7 +15,7 @@
             <surname>Stiller</surname>
             <forename>Juliane</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
           <email>jstiller@mpiwg-berlin.mpg.de</email>
         </author>
 
@@ -25,7 +24,7 @@
             <surname>Thoden</surname>
             <forename>Klaus</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland</affiliation>
           <email>kthoden@mpiwg-berlin.mpg.de</email>
         </author>
       </titleStmt>

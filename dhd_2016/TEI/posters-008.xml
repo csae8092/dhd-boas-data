@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>"Bleeding Edge" – Datenmodellierung, Softwareentwicklung und die Freuden und Leiden forschungsgetriebener Entwicklung am Beispiel der Datenbank der Islamic Scientific Manuscript Initiative (ISMI)</title><title type="conf_year">2016</title>
-        <author ref="#person__casties-mpiwg-berlin-mpg-de">
+        <title>"Bleeding Edge" – Datenmodellierung, Softwareentwicklung und die Freuden und Leiden forschungsgetriebener Entwicklung am Beispiel der Datenbank der Islamic Scientific Manuscript Initiative (ISMI)</title><title type="conf_year">2016</title><author ref="#person__casties-mpiwg-berlin-mpg-de">
           <name>
             <surname>Casties</surname>
             <forename>Robert</forename>
           </name>
-          <affiliation ref="#org__248">MPI für Wissenschaftsgeschichte, Deutschland</affiliation>
+          <affiliation ref="#org__266">MPI für Wissenschaftsgeschichte, Deutschland</affiliation>
           <email>casties@mpiwg-berlin.mpg.de</email>
         </author>
       </titleStmt>

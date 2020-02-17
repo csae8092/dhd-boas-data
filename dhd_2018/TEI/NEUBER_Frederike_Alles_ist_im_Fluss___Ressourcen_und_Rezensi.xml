@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Alles ist im Fluss - Ressourcen und Rezensionen in den Digital Humanities.</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__neuber-frederike-gmail-com">
                     <persName>
                         <surname>Neuber</surname>
                         <forename>Frederike</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__43">Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__22 #org__47">Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>neuber.frederike@gmail.com</email>
                 </author>
                 <author ref="#person__ulrike-henny-uni-wuerzburg-de">
@@ -19,7 +18,7 @@
                         <surname>Henny-Krahmer</surname>
                         <forename>Ulrike</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__35">Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</affiliation>
+                    <affiliation ref="#org__22 #org__24">Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</affiliation>
                     <email>ulrike.henny@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -27,7 +26,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__0">Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
+                    <affiliation ref="#org__22 #org__23">Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
                 <author ref="#person__franz-fischer-uni-koeln-de">
@@ -35,7 +34,7 @@
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__0">Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
+                    <affiliation ref="#org__22 #org__23">Institut für Dokumentologie und Editorik e.V.; Universität zu Köln/CCeH</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
             </titleStmt>

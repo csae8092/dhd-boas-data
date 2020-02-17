@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hinterlistig – schelmisch – treulos – Sentiment Analyse in Texten des 19. Jahrhunderts: Eine exemplarische Analyse für Länder und Ethnien</title><title type="conf_year">2018</title>
-                <author ref="#person__wodausch-uni-hildesheim-de">
+                <title>Hinterlistig – schelmisch – treulos – Sentiment Analyse in Texten des 19. Jahrhunderts: Eine exemplarische Analyse für Länder und Ethnien</title><title type="conf_year">2018</title><author ref="#person__wodausch-uni-hildesheim-de">
                     <persName>
                         <surname>Wodausch</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__157">Universität Hildesheim, Deutschland</affiliation>
                     <email>wodausch@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__fiedler-gei-de">
@@ -16,7 +15,7 @@
                         <surname>Fiedler</surname>
                         <forename>Maik</forename>
                     </persName>
-                    <affiliation ref="#org__63">Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
+                    <affiliation ref="#org__83">Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI)</affiliation>
                     <email>fiedler@gei.de</email>
                 </author>
                 <author ref="#person__heuwing-uni-hildesheim-de">
@@ -24,7 +23,7 @@
                         <surname>Heuwing</surname>
                         <forename>Ben</forename>
                     </persName>
-                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__157">Universität Hildesheim, Deutschland</affiliation>
                     <email>heuwing@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__mandl-uni-hildesheim-de">
@@ -32,7 +31,7 @@
                         <surname>Mandl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__157">Universität Hildesheim, Deutschland</affiliation>
                     <email>mandl@uni-hildesheim.de</email>
                 </author>
             </titleStmt>

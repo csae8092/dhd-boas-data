@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Lizenzauswahlwerk-zeuge für die digitalen Geisteswissenschaften</title><title type="conf_year">2016</title>
-        <author ref="#person__pawel-kamocki-gmail-com">
+        <title>Lizenzauswahlwerk-zeuge für die digitalen Geisteswissenschaften</title><title type="conf_year">2016</title><author ref="#person__pawel-kamocki-gmail-com">
           <name>
             <surname>Kamocki</surname>
             <forename>Pawel</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__15">Institut für Deutsche Sprache Mannheim, Deutschland</affiliation>
           <email>pawel.kamocki@gmail.com</email>
         </author>
         <author ref="#person__ketzan-ids-mannheim-de">
@@ -16,7 +15,7 @@
             <surname>Ketzan</surname>
             <forename>Erik</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__15">Institut für Deutsche Sprache Mannheim, Deutschland</affiliation>
           <email>ketzan@ids-mannheim.de</email>
         </author>
         <author ref="#person__witt-ids-mannheim-de">
@@ -24,7 +23,7 @@
             <surname>Witt</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__32">Institut für Deutsche Sprache Mannheim, Deutschland</affiliation>
+          <affiliation ref="#org__15">Institut für Deutsche Sprache Mannheim, Deutschland</affiliation>
           <email>witt@ids-mannheim.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ein Mehrebenen-Tagging-Modell für die Annotation altäthiopischer Texte</title><title type="conf_year">2016</title>
-        <author ref="#person__cristina-vertan-uni-hamburg-de">
+        <title>Ein Mehrebenen-Tagging-Modell für die Annotation altäthiopischer Texte</title><title type="conf_year">2016</title><author ref="#person__cristina-vertan-uni-hamburg-de">
           <name>
             <surname>Vertan</surname>
             <forename>Cristina</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>cristina.vertan@uni-hamburg.de</email>
         </author>
         <author ref="#person__andreas-ellwardt-uni-hamburg-de">
@@ -16,7 +15,7 @@
             <surname>Ellwardt</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>andreas.ellwardt@uni-hamburg.de</email>
         </author>
         <author ref="#person__sanne-hummel-gmx-de">
@@ -24,7 +23,7 @@
             <surname>Hummerl</surname>
             <forename>Susanne</forename>
           </name>
-          <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+          <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
           <email>sanne.hummel@gmx.de</email>
         </author>
       </titleStmt>

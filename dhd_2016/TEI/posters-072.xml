@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Gegenwärtige dialektspezifische Daten und deren Anwendung in der Dialektometrie</title><title type="conf_year">2016</title>
-        <author ref="#person__desi-cis-uni-muenchen-de">
+        <title>Gegenwärtige dialektspezifische Daten und deren Anwendung in der Dialektometrie</title><title type="conf_year">2016</title><author ref="#person__desi-cis-uni-muenchen-de">
           <name>
             <surname>Zhekova</surname>
             <forename>Desislava</forename>
           </name>
-          <affiliation ref="#org__241">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
+          <affiliation ref="#org__244">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
           <email>desi@cis.uni-muenchen.de</email>
         </author>
         <author ref="#person__thomas-krefeld-lmu-de">
@@ -16,7 +15,7 @@
             <surname>Krefeld</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__241">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
+          <affiliation ref="#org__244">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
           <email>thomas.krefeld@lmu.de</email>
         </author>
         <author ref="#person__simeon-herteis-gmail-com">
@@ -24,7 +23,7 @@
             <surname>Herteis</surname>
             <forename>Simeon</forename>
           </name>
-          <affiliation ref="#org__241">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
+          <affiliation ref="#org__244">Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München</affiliation>
           <email>simeon.herteis@gmail.com</email>
         </author>
       </titleStmt>

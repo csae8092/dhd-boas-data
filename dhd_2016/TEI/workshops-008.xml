@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Es geht auch ohne Formeln – der Einsatz von TeX in den Digital Humanities am Beispiel kritischer Editionen</title><title type="conf_year">2016</title>
-        <author ref="#person__sievers-uni-trier-de">
+        <title>Es geht auch ohne Formeln – der Einsatz von TeX in den Digital Humanities am Beispiel kritischer Editionen</title><title type="conf_year">2016</title><author ref="#person__sievers-uni-trier-de">
           <name>
             <surname>Sievers</surname>
             <forename>Martin</forename>
           </name>
-          <affiliation ref="#org__59">Universität Trier, Deutschland</affiliation>
+          <affiliation ref="#org__25">Universität Trier, Deutschland</affiliation>
           <email>sievers@uni-trier.de</email>
         </author>
       </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Auf der Suche nach der verlorenen Materialität. </title>
-                    <title type="sub">Kodikologie und Restaurierungswissen-schaft im Zeitalter der (Massen-) Digitalisierung.</title><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub">Kodikologie und Restaurierungswissen-schaft im Zeitalter der (Massen-) Digitalisierung.</title><title type="conf_year">2018</title></title>
                 <author ref="#person__buschh-uni-trier-de">
                     <persName>
                         <surname>Busch</surname>
                         <forename>Hannah</forename>
                     </persName>
-                    <affiliation ref="#org__158">Center for Digital Humanities, Universität Trier, Deutschland</affiliation>
+                    <affiliation ref="#org__426">Center for Digital Humanities, Universität Trier, Deutschland</affiliation>
                     <email>buschh@uni-trier.de</email>
                 </author>
                 <author ref="#person__ef-fa-web-de">
@@ -19,7 +18,7 @@
                         <surname>Bös</surname>
                         <forename>Eva</forename>
                     </persName>
-                    <affiliation ref="#org__159">Buchbinderei Mohr, Trier, Deutschland</affiliation>
+                    <affiliation ref="#org__427">Buchbinderei Mohr, Trier, Deutschland</affiliation>
                     <email>ef_fa@web.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Konsequenzen automatischer Texterkennung – Ein Aufriss zur Texterkennung mit Machine Learning</title><title type="conf_year">2018</title>
-                <author ref="#person__tobias-hodel-hist-uzh-ch">
+                <title>Konsequenzen automatischer Texterkennung – Ein Aufriss zur Texterkennung mit Machine Learning</title><title type="conf_year">2018</title><author ref="#person__tobias-hodel-hist-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation ref="#org__174">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__127">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                     <email>tobias.hodel@hist.uzh.ch</email>
                 </author>
             </titleStmt>

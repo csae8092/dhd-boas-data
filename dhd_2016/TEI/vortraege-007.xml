@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus</title><title type="conf_year">2016</title>
-        <author ref="#person__mathiasgoebel-web-de">
+        <title>Play(s): Crowdbasierte Anreicherung eines literarischen Volltext-Korpus</title><title type="conf_year">2016</title><author ref="#person__mathiasgoebel-web-de">
           <name>
             <surname>Göbel</surname>
             <forename>Mathias</forename>
           </name>
-          <affiliation ref="#org__322">Universität Göttingen, Seminar für Deutsche Philologie</affiliation>
+          <affiliation ref="#org__240">Universität Göttingen, Seminar für Deutsche Philologie</affiliation>
           <email>mathiasgoebel@web.de</email>
         </author>
         <author ref="#person__h-l-meiners-gmx-de">
@@ -16,7 +15,7 @@
             <surname>Meiners</surname>
             <forename>Hanna-Lena</forename>
           </name>
-          <affiliation ref="#org__322">Universität Göttingen, Seminar für Deutsche Philologie</affiliation>
+          <affiliation ref="#org__240">Universität Göttingen, Seminar für Deutsche Philologie</affiliation>
           <email>h-l.meiners@gmx.de</email>
         </author>
       </titleStmt>

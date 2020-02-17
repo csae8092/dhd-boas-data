@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mapping the Moralized Geography of 'Paradise Lost': Prototypenbildung am Beispiel einer geo-kritischen Erschließung von Miltons Werk</title><title type="conf_year">2019</title>
-                <author ref="#person__m-schaeben-uni-koeln-de">
+                <title>Mapping the Moralized Geography of 'Paradise Lost': Prototypenbildung am Beispiel einer geo-kritischen Erschließung von Miltons Werk</title><title type="conf_year">2019</title><author ref="#person__m-schaeben-uni-koeln-de">
                     <persName>
                         <surname>Schaeben</surname>
                         <forename>Marcel</forename>
                     </persName>
-                    <affiliation ref="#org__2">Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__51">Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland</affiliation>
                     <email>m.schaeben@uni-koeln.de</email>
                 </author>
                 <author ref="#person__elkhatib-randa-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>El Khatib</surname>
                         <forename>Randa</forename>
                     </persName>
-                    <affiliation ref="#org__446">Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
+                    <affiliation ref="#org__105">Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
                     <email>elkhatib.randa@gmail.com</email>
                 </author>
             </titleStmt>

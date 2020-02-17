@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Netzwerkanalyse narrativer Informationsvermittlung in Dramen</title><title type="conf_year">2019</title>
-                <author ref="#person__michael-vauth-tuhh-de">
+                <title>Netzwerkanalyse narrativer Informationsvermittlung in Dramen</title><title type="conf_year">2019</title><author ref="#person__michael-vauth-tuhh-de">
                     <persName>
                         <surname>Vauth</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation ref="#org__15">Technische Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__18">Technische Universität Hamburg, Deutschland</affiliation>
                     <email>michael.vauth@tuhh.de</email>
                 </author>
             </titleStmt>

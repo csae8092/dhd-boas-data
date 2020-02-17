@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitale Forschungsaktivitäten multilingual: TaDiRAH für die deutschsprachige DH-Community</title><title type="conf_year">2016</title>
-        <author ref="#person__borek-linglit-tu-darmstadt-de">
+        <title>Digitale Forschungsaktivitäten multilingual: TaDiRAH für die deutschsprachige DH-Community</title><title type="conf_year">2016</title><author ref="#person__borek-linglit-tu-darmstadt-de">
           <name>
             <surname>Borek</surname>
             <forename>Luise</forename>
           </name>
-          <affiliation ref="#org__15">Technische Universität Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__12">Technische Universität Darmstadt, Deutschland</affiliation>
           <email>borek@linglit.tu-darmstadt.de</email>
         </author>
         <author ref="#person__christof-schoech-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
             <surname>Schöch</surname>
             <forename>Christof</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg</affiliation>
+          <affiliation ref="#org__24">Universität Würzburg</affiliation>
           <email>christof.schoech@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__kthoden-mpiwg-berlin-mpg-de">
@@ -24,7 +23,7 @@
             <surname>Thoden</surname>
             <forename>Klaus</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Wissenschaftsgeschichte</affiliation>
+          <affiliation ref="#org__55">Max-Planck-Institut für Wissenschaftsgeschichte</affiliation>
           <email>kthoden@mpiwg-berlin.mpg.de</email>
         </author>
       </titleStmt>

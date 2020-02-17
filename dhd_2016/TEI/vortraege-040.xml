@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Attribuierung direkter Reden in deutschen Romanen des 18.-20. Jahrhunderts. Methoden zur Bestimmung des Sprechers und des Angesprochenen</title><title type="conf_year">2016</title>
-        <author ref="#person__markus-krug-uni-wuerzburg-de">
+        <title>Attribuierung direkter Reden in deutschen Romanen des 18.-20. Jahrhunderts. Methoden zur Bestimmung des Sprechers und des Angesprochenen</title><title type="conf_year">2016</title><author ref="#person__markus-krug-uni-wuerzburg-de">
           <name>
             <surname>Krug</surname>
             <forename>Markus</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>markus.krug@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
             <surname>Jannidis</surname>
             <forename>Fotis</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>fotis.jannidis@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__isabella-reger-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
             <surname>Reger</surname>
             <forename>Isabella</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>isabella.reger@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__luisa-macharowsky-stud-mail-uni-wuerzburg-de">
@@ -32,7 +31,7 @@
             <surname>Macharowsky</surname>
             <forename>Luisa</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>luisa.macharowsky@stud-mail.uni-wuerzburg.de</email>
         </author>
         <author ref="#person__lukas-weimer-stud-mail-uni-wuerzburg-de">
@@ -40,7 +39,7 @@
             <surname>Weimer</surname>
             <forename>Lukas</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>lukas.weimer@stud-mail.uni-wuerzburg.de</email>
         </author>
         <author ref="#person__frank-puppe-uni-wuerzburg-de">
@@ -48,7 +47,7 @@
             <surname>Puppe</surname>
             <forename>Frank</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>frank.puppe@uni-wuerzburg.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Darf wissenschaftliches Design in DH-Projekten emotional ansprechen? </title><title type="conf_year">2016</title>
-        <author ref="#person__lambertz-uni-trier-de">
+        <title>Darf wissenschaftliches Design in DH-Projekten emotional ansprechen? </title><title type="conf_year">2016</title><author ref="#person__lambertz-uni-trier-de">
           <name>
             <surname>Lambertz</surname>
             <forename>Michael</forename>
           </name>
-          <affiliation ref="#org__59">Universität Trier (Trier Center for Digital Humanities), Deutschland</affiliation>
+          <affiliation ref="#org__27">Universität Trier (Trier Center for Digital Humanities), Deutschland</affiliation>
           <email>lambertz@uni-trier.de</email>
         </author>
       </titleStmt>

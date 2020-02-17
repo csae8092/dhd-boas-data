@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>DARIAH-DKPro-Wrapper</title><title type="conf_year">2016</title>
-        <author ref="#person__reimers-ukp-informatik-tu-darmstadt-de">
+        <title>DARIAH-DKPro-Wrapper</title><title type="conf_year">2016</title><author ref="#person__reimers-ukp-informatik-tu-darmstadt-de">
           <name>
             <surname>Reimer</surname>
             <forename>Nils</forename>
           </name>
-          <affiliation ref="#org__254">TU Darmstadt, Deutschland</affiliation>
+          <affiliation ref="#org__255">TU Darmstadt, Deutschland</affiliation>
           <email>reimers@ukp.informatik.tu-darmstadt.de</email>
         </author>
         <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
@@ -17,7 +16,7 @@
             <surname>Jannidis</surname>
             <forename>Fotis</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>fotis.jannidis@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__pielstroem-biozentrum-uni-wuerzburg-de">
@@ -25,7 +24,7 @@
             <surname>Pielström</surname>
             <forename>Steffen</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>pielstroem@biozentrum.uni-wuerzburg.de</email>
         </author>
         <author ref="#person__stefan-pernes-uni-wuerzburg-de">
@@ -33,7 +32,7 @@
             <surname>Pernes</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>stefan.pernes@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__isabella-reger-uni-wuerzburg-de">
@@ -41,7 +40,7 @@
             <surname>Reger</surname>
             <forename>Isabella</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>isabella.reger@uni-wuerzburg.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Praktische Tagger-Kritik. Zur Evaluation des POS-Tagging des Deutschen Textarchivs </title><title type="conf_year">2018</title>
-                <author ref="#person__berenike-herrmann-unibas-ch">
+                <title>Praktische Tagger-Kritik. Zur Evaluation des POS-Tagging des Deutschen Textarchivs </title><title type="conf_year">2018</title><author ref="#person__berenike-herrmann-unibas-ch">
                     <persName>
                         <surname>Herrmann</surname>
                         <forename>J. Berenike</forename>
                     </persName>
-                    <affiliation ref="#org__3">Universität Basel, Schweiz</affiliation>
+                    <affiliation ref="#org__260">Universität Basel, Schweiz</affiliation>
                     <email>berenike.herrmann@unibas.ch</email>
                 </author>
             </titleStmt>

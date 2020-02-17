@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Excerpta Constantiniana: vom Palimpsest zur Edition einer mittelalterlichen Enzyklopädie</title><title type="conf_year">2016</title>
-        <author ref="#person__dariya-rafiyenko-uni-leipzig-de">
+        <title>Excerpta Constantiniana: vom Palimpsest zur Edition einer mittelalterlichen Enzyklopädie</title><title type="conf_year">2016</title><author ref="#person__dariya-rafiyenko-uni-leipzig-de">
           <name>
             <surname>Rafiyenko</surname>
             <forename>Dariya</forename>
           </name>
-          <affiliation ref="#org__17">Universität Leipzig, Deutschland</affiliation>
+          <affiliation ref="#org__9">Universität Leipzig, Deutschland</affiliation>
           <email>dariya.rafiyenko@uni-leipzig.de</email>
         </author>
       </titleStmt>

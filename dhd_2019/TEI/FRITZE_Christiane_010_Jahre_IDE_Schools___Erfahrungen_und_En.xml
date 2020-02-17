@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>010 Jahre IDE-Schools – Erfahrungen und Entwicklungen in der außeruniversitären DH-Ausbildung</title><title type="conf_year">2019</title>
-                <author ref="#person__christiane-fritze-onb-ac-at">
+                <title>010 Jahre IDE-Schools – Erfahrungen und Entwicklungen in der außeruniversitären DH-Ausbildung</title><title type="conf_year">2019</title><author ref="#person__christiane-fritze-onb-ac-at">
                     <persName>
                         <surname>Fritze</surname>
                         <forename>Christiane</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__88">Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
+                    <affiliation ref="#org__22 #org__179">Institut für Dokumentologie und Editorik (IDE); Österreichische Nationalbibliothek</affiliation>
                     <email>christiane.fritze@onb.ac.at</email>
                 </author>
                 <author ref="#person__franz-fischer-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Fischer</surname>
                         <forename>Franz</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+                    <affiliation ref="#org__22 #org__23">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>franz.fischer@uni-koeln.de</email>
                 </author>
                 <author ref="#person__georg-vogeler-uni-graz-at">
@@ -24,7 +23,7 @@
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__12">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__22 #org__173">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
                 <author ref="#person__schnoepf-i-d-e-de">
@@ -32,7 +31,7 @@
                         <surname>Schnöpf</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__43">Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+                    <affiliation ref="#org__22 #org__47">Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
                     <email>schnoepf@i-d-e.de</email>
                 </author>
                 <author ref="#person__martina-scholger-uni-graz-at">
@@ -40,7 +39,7 @@
                         <surname>Scholger</surname>
                         <forename>Martina</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__12">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
+                    <affiliation ref="#org__22 #org__173">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität Graz</affiliation>
                     <email>martina.scholger@uni-graz.at</email>
                 </author>
                 <author ref="#person__sahle-uni-koeln-de">
@@ -48,7 +47,7 @@
                         <surname>Sahle</surname>
                         <forename>Patrick</forename>
                     </persName>
-                    <affiliation ref="#org__68 #org__0">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+                    <affiliation ref="#org__22 #org__23">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
                     <email>sahle@uni-koeln.de</email>
                 </author>
             </titleStmt>

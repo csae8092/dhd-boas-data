@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Delta vs. N-Gram-Tracing: Wie robust ist die Autorschafts-attribuierung?</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__thomas-proisl-fau-de">
                     <persName>
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
                 <author ref="#person__stefan-evert-fau-de">
@@ -19,7 +18,7 @@
                         <surname>Evert</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__44">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>stefan.evert@fau.de</email>
                 </author>
             </titleStmt>

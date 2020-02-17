@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Software-Einsatz in der geisteswissenschaftli-chen Forschungspraxis: Ergebnisse einer Umfrage</title><title type="conf_year">2016</title>
-        <author ref="#person__clmb-inf-fu-berlin-de">
+        <title>Software-Einsatz in der geisteswissenschaftli-chen Forschungspraxis: Ergebnisse einer Umfrage</title><title type="conf_year">2016</title><author ref="#person__clmb-inf-fu-berlin-de">
           <name>
             <surname>Müller-Birn</surname>
             <forename>Claudia</forename>
           </name>
-          <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
           <email>clmb@inf.fu-berlin.de</email>
         </author>
         <author ref="#person__alexa-schlegel-inf-fu-berlin-de">
@@ -16,7 +15,7 @@
             <surname>Schlegel</surname>
             <forename>Alexa</forename>
           </name>
-          <affiliation ref="#org__37">Freie Universität Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__7">Freie Universität Berlin, Deutschland</affiliation>
           <email>alexa.schlegel@inf.fu-berlin.de</email>
         </author>
         <author ref="#person__anne-baillot-hu-berlin-de">
@@ -24,7 +23,7 @@
             <surname>Baillot</surname>
             <forename>Anne</forename>
           </name>
-          <affiliation ref="#org__38">Humboldt-Universität zu Berlin</affiliation>
+          <affiliation ref="#org__77">Humboldt-Universität zu Berlin</affiliation>
           <email>anne.baillot@hu-berlin.de</email>
         </author>
         <author ref="#person__klawitter-bbaw-de">
@@ -32,7 +31,7 @@
             <surname>Klawitter</surname>
             <forename>Jana</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
+          <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
           <email>klawitter@bbaw.de</email>
         </author>
       </titleStmt>

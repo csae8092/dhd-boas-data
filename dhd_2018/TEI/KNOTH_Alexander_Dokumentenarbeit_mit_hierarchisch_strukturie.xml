@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dokumentenarbeit mit hierarchisch strukturierten Texten: Eine historisch vergleichende Analyse von Verfassungen</title><title type="conf_year">2018</title>
-                <author ref="#person__alexander-knoth-uni-potsdam-de">
+                <title>Dokumentenarbeit mit hierarchisch strukturierten Texten: Eine historisch vergleichende Analyse von Verfassungen</title><title type="conf_year">2018</title><author ref="#person__alexander-knoth-uni-potsdam-de">
                     <persName>
                         <surname>Knoth</surname>
                         <forename>Alexander</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>alexander.knoth@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__stede-uni-potsdam-de">
@@ -16,7 +15,7 @@
                         <surname>Stede</surname>
                         <forename>Manfred</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>stede@uni-potsdam.de</email>
                 </author>
                 <author ref="#person__haegert-uni-potsdam-de">
@@ -24,7 +23,7 @@
                         <surname>Hägert</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation ref="#org__53">Universität Potsdam, Deutschland</affiliation>
+                    <affiliation ref="#org__13">Universität Potsdam, Deutschland</affiliation>
                     <email>haegert@uni-potsdam.de</email>
                 </author>
             </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Multimodales Zusammenspiel von Text und erlebter Stimme – Analyse der Lautstärkesignale in direkter Rede</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__svenjasimone-guhr-stud-uni-goettingen-de">
                     <persName>
                         <surname>Guhr</surname>
                         <forename>Svenja</forename>
                     </persName>
-                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>svenjasimone.guhr@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__hanna-varachkina-stud-uni-goettingen-de">
@@ -19,7 +18,7 @@
                         <surname>Varachkina</surname>
                         <forename>Hanna</forename>
                     </persName>
-                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>hanna.varachkina@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__geumbi-lee-stud-uni-goettingen-de">
@@ -27,7 +26,7 @@
                         <surname>Lee</surname>
                         <forename>Geumbi</forename>
                     </persName>
-                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>geumbi.lee@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__csporled-gwdg-de">
@@ -35,7 +34,7 @@
                         <surname>Sporleder</surname>
                         <forename>Caroline</forename>
                     </persName>
-                    <affiliation ref="#org__56">GCDH, Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__0">GCDH, Universität Göttingen, Deutschland</affiliation>
                     <email>csporled@gwdg.de</email>
                 </author>
             </titleStmt>

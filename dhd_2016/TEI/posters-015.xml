@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ontologie-basierte Modellierung, Vernetzung und Visualisierung geschichtswissen-schaftlichen, wirtschaftswissen-schaftlichen und politikwissen-schaftlichen Wissens zur Unterstützung multiperspektivischer Konfliktforschung</title><title type="conf_year">2016</title>
-        <author ref="#person__frank-ios-regensburg-de">
+        <title>Ontologie-basierte Modellierung, Vernetzung und Visualisierung geschichtswissen-schaftlichen, wirtschaftswissen-schaftlichen und politikwissen-schaftlichen Wissens zur Unterstützung multiperspektivischer Konfliktforschung</title><title type="conf_year">2016</title><author ref="#person__frank-ios-regensburg-de">
           <name>
             <surname>Frank</surname>
             <forename>Ingo</forename>
           </name>
-          <affiliation ref="#org__247">Institut für Ost- und Südosteuropaforschung, Regensburg</affiliation>
+          <affiliation ref="#org__357">Institut für Ost- und Südosteuropaforschung, Regensburg</affiliation>
           <email>frank@ios-regensburg.de</email>
         </author>
       </titleStmt>

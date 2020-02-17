@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> Lexikographie: Explizite und implizite Verortung in den Digital Humanities</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__david-lindemann-uni-hildesheim-de">
                     <persName>
                         <surname>Lindemann</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__157">Universität Hildesheim, Deutschland</affiliation>
                     <email>david.lindemann@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__fritz-kliche-uni-hildesheim-de">
@@ -19,7 +18,7 @@
                         <surname>Kliche</surname>
                         <forename>Fritz</forename>
                     </persName>
-                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__157">Universität Hildesheim, Deutschland</affiliation>
                     <email>fritz.kliche@uni-hildesheim.de</email>
                 </author>
                 <author ref="#person__kutzner-uni-hildesheim-de">
@@ -27,7 +26,7 @@
                         <surname>Kutzner</surname>
                         <forename>Kristin</forename>
                     </persName>
-                    <affiliation ref="#org__78">Universität Hildesheim, Deutschland</affiliation>
+                    <affiliation ref="#org__157">Universität Hildesheim, Deutschland</affiliation>
                     <email>kutzner@uni-hildesheim.de</email>
                 </author>
             </titleStmt>

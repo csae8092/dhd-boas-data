@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>CorpusExplorer v2.0 - Seminartauglich in einem halben Tag</title><title type="conf_year">2018</title>
-                <author ref="#person__jan-ruediger-uni-kassel-de">
+                <title>CorpusExplorer v2.0 - Seminartauglich in einem halben Tag</title><title type="conf_year">2018</title><author ref="#person__jan-ruediger-uni-kassel-de">
                     <persName>
                         <surname>Rüdiger</surname>
                         <forename>Jan Oliver</forename>
                     </persName>
-                    <affiliation ref="#org__14">Universität Kassel, Deutschland</affiliation>
+                    <affiliation ref="#org__5">Universität Kassel, Deutschland</affiliation>
                     <email>jan.ruediger@uni-kassel.de</email>
                 </author>
             </titleStmt>

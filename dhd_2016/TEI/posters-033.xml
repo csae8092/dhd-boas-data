@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Stefan George Digital</title><title type="conf_year">2016</title>
-        <author ref="#person__frederike-neuber-uni-graz-at">
+        <title>Stefan George Digital</title><title type="conf_year">2016</title><author ref="#person__frederike-neuber-uni-graz-at">
           <name>
             <surname>Neuber</surname>
             <forename>Frederike</forename>
           </name>
-          <affiliation ref="#org__11">ZIM, Universität Graz, Österreich</affiliation>
+          <affiliation ref="#org__307">ZIM, Universität Graz, Österreich</affiliation>
           <email>frederike.neuber@uni-graz.at</email>
         </author>
       </titleStmt>

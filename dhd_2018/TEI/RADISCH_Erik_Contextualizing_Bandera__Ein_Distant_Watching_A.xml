@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Contextualizing Bandera: Ein Distant Watching Ansatz</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__bernhard-bermeitinger-uni-passau-de">
                     <persName>
                         <surname>Bermeitinger</surname>
                         <forename>Bernhard</forename>
                     </persName>
-                    <affiliation ref="#org__187">Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web Information Systems, Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__380">Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web Information Systems, Universität Passau, Deutschland</affiliation>
                     <email>Bernhard.Bermeitinger@uni-passau.de</email>
                 </author>
                 <author ref="#person__gernot-howanitz-uni-passau-de">
@@ -19,7 +18,7 @@
                         <surname>Howanitz</surname>
                         <forename>Gernot</forename>
                     </persName>
-                    <affiliation ref="#org__188">Lehrstuhl für Slavische Literaturen und Kulturen, Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__381">Lehrstuhl für Slavische Literaturen und Kulturen, Universität Passau, Deutschland</affiliation>
                     <email>Gernot.Howanitz@uni-passau.De</email>
                 </author>
                 <author ref="#person__erik-radisch-uni-passau-de">
@@ -27,7 +26,7 @@
                         <surname>Radisch</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation ref="#org__189">Lehrstuhl für Digital Humanities, Universität Passau, Deutschland</affiliation>
+                    <affiliation ref="#org__382">Lehrstuhl für Digital Humanities, Universität Passau, Deutschland</affiliation>
                     <email>Erik.Radisch@uni-passau.de</email>
                 </author>
             </titleStmt>

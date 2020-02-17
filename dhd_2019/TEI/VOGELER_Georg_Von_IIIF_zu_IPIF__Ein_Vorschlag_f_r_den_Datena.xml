@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Von IIIF zu IPIF? Ein Vorschlag für den Datenaustausch über Personen</title><title type="conf_year">2019</title>
-                <author ref="#person__georg-vogeler-uni-graz-at">
+                <title>Von IIIF zu IPIF? Ein Vorschlag für den Datenaustausch über Personen</title><title type="conf_year">2019</title><author ref="#person__georg-vogeler-uni-graz-at">
                     <persName>
                         <surname>Vogeler</surname>
                         <forename>Georg</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>georg.vogeler@uni-graz.at</email>
                 </author>
                 <author ref="#person__gunter-vasold-uni-graz-at">
@@ -16,7 +15,7 @@
                         <surname>Vasold</surname>
                         <forename>Gunter</forename>
                     </persName>
-                    <affiliation ref="#org__11">Universität Graz, Österreich</affiliation>
+                    <affiliation ref="#org__3">Universität Graz, Österreich</affiliation>
                     <email>gunter.vasold@uni-graz.at</email>
                 </author>
                 <author ref="#person__matthias-schloegl-oeaw-ac-at">
@@ -24,7 +23,7 @@
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__26">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
+                    <affiliation ref="#org__72">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
                     <email>matthias.schloegl@oeaw.ac.at</email>
                 </author>
             </titleStmt>

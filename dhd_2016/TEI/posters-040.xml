@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Entwicklung einer digitalen Brief-Edition und eines Forschungsportals zu Theodor Fontane</title><title type="conf_year">2016</title>
-        <author ref="#person__sabine-seifert-uni-potsdam-de">
+        <title>Entwicklung einer digitalen Brief-Edition und eines Forschungsportals zu Theodor Fontane</title><title type="conf_year">2016</title><author ref="#person__sabine-seifert-uni-potsdam-de">
           <name>
             <surname>Seifert</surname>
             <forename>Sabine</forename>
           </name>
-          <affiliation ref="#org__345">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
+          <affiliation ref="#org__189">Theodor-Fontane-Archiv, Universität Potsdam, Deutschland</affiliation>
           <email>sabine.seifert@uni-potsdam.de</email>
         </author>
       </titleStmt>

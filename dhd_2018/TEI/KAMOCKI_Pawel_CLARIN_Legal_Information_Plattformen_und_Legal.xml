@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>CLARIN Legal Information Plattformen und Legal Helpdesk</title><title type="conf_year">2018</title>
-                <author ref="#person__pawel-kamocki-gmail-com">
+                <title>CLARIN Legal Information Plattformen und Legal Helpdesk</title><title type="conf_year">2018</title><author ref="#person__pawel-kamocki-gmail-com">
                     <persName>
                         <surname>Kamocki</surname>
                         <forename>Pawel</forename>
                     </persName>
-                    <affiliation ref="#org__89 #org__33 #org__90">WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
+                    <affiliation ref="#org__405 #org__80 #org__406">WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
                     <email>pawel.kamocki@gmail.com</email>
                 </author>
                 <author ref="#person__eketzan-gmail-com">
@@ -16,7 +15,7 @@
                         <surname>Ketzan</surname>
                         <forename>Erik</forename>
                     </persName>
-                    <affiliation ref="#org__91">Birkbeck, University of Lonfon</affiliation>
+                    <affiliation ref="#org__407">Birkbeck, University of Lonfon</affiliation>
                     <email>eketzan@gmail.com</email>
                 </author>
                 <author ref="#person__j-wildgans-googlemail-com">
@@ -24,7 +23,7 @@
                         <surname>Wildgans</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation ref="#org__33 #org__34">IDS Mannheim; Universität Mannheim</affiliation>
+                    <affiliation ref="#org__80 #org__31">IDS Mannheim; Universität Mannheim</affiliation>
                     <email>j.wildgans@googlemail.com</email>
                 </author>
                 <author ref="#person__witt-ids-mannheim-de">
@@ -32,7 +31,7 @@
                         <surname>Witt</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__33 #org__0">IDS Mannheim; Universität zu Köln</affiliation>
+                    <affiliation ref="#org__80 #org__23">IDS Mannheim; Universität zu Köln</affiliation>
                     <email>witt@ids-mannheim.de</email>
                 </author>
             </titleStmt>

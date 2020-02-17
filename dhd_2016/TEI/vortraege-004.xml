@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Kunst als Ganzes. Heterogene Bilddatensätze als Herausforderung für die Kunstgeschichte und die Computer Vision.</title><title type="conf_year">2016</title>
-        <author ref="#person__lisa-dieckmann-uni-koeln-de">
+        <title>Die Kunst als Ganzes. Heterogene Bilddatensätze als Herausforderung für die Kunstgeschichte und die Computer Vision.</title><title type="conf_year">2016</title><author ref="#person__lisa-dieckmann-uni-koeln-de">
           <name>
             <surname>Dieckmann</surname>
             <forename>Lisa</forename>
           </name>
-          <affiliation ref="#org__0">Universität zu Köln, Kunsthistorisches Institut</affiliation>
+          <affiliation ref="#org__248">Universität zu Köln, Kunsthistorisches Institut</affiliation>
           <email>lisa.dieckmann@uni-koeln.de</email>
         </author>
         <author ref="#person__bell-uni-heidelberg-de">
@@ -16,7 +15,7 @@
             <surname>Bell</surname>
             <forename>Peter</forename>
           </name>
-          <affiliation ref="#org__23">Ruprecht-Karls-Universität Heidelberg, Heidelberg Collaboratory for Image Processing (HCI)</affiliation>
+          <affiliation ref="#org__59">Ruprecht-Karls-Universität Heidelberg, Heidelberg Collaboratory for Image Processing (HCI)</affiliation>
           <email>bell@uni-heidelberg.de</email>
         </author>
       </titleStmt>

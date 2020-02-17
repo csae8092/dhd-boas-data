@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Text Mining und Computersimulation zur Analyse autobiographischer Texte: Einflüsse auf das literarische Schaffen Klaus Manns</title><title type="conf_year">2018</title>
-                <author ref="#person__hess-uni-trier-de">
+                <title>Text Mining und Computersimulation zur Analyse autobiographischer Texte: Einflüsse auf das literarische Schaffen Klaus Manns</title><title type="conf_year">2018</title><author ref="#person__hess-uni-trier-de">
                     <persName>
                         <surname>Hess</surname>
                         <forename>Jan</forename>
                     </persName>
-                    <affiliation ref="#org__209 #org__59">Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
+                    <affiliation ref="#org__527 #org__25">Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
                     <email>hess@uni-trier.de</email>
                 </author>
                 <author ref="#person__lebherz-uni-trier-de">
@@ -16,7 +15,7 @@
                         <surname>Lebherz</surname>
                         <forename>Daniel</forename>
                     </persName>
-                    <affiliation ref="#org__210 #org__59">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
+                    <affiliation ref="#org__528 #org__25">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>lebherz@uni-trier.de</email>
                 </author>
                 <author ref="#person__zeyen-uni-trier-de">
@@ -24,7 +23,7 @@
                         <surname>Zeyen</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__210 #org__59">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
+                    <affiliation ref="#org__528 #org__25">Center for Informatics Research and Technology (CIRT); Universität Trier</affiliation>
                     <email>zeyen@uni-trier.de</email>
                 </author>
             </titleStmt>

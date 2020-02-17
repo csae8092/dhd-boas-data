@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic recognition of direct speech without quotation marks. A rule-based approach</title><title type="conf_year">2019</title>
-                <author ref="#person__tu-ids-mannheim-de">
+                <title>Automatic recognition of direct speech without quotation marks. A rule-based approach</title><title type="conf_year">2019</title><author ref="#person__tu-ids-mannheim-de">
                     <persName>
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>tu@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__markus-krug-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
                         <surname>Krug</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>markus.krug@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__brunner-ids-mannheim-de">
@@ -24,7 +23,7 @@
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>brunner@ids-mannheim.de</email>
                 </author>
             </titleStmt>

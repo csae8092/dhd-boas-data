@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Strings&amp;Structures</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__rols-spinfo-uni-koeln-de">
                     <persName>
                         <surname>Rolshoven</surname>
                         <forename>Jürgen</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>rols@spinfo.uni-koeln.de</email>
                 </author>
                 <author ref="#person__vetemi-smail-uni-koeln-de">
@@ -19,7 +18,7 @@
                         <surname>Etimi</surname>
                         <forename>Valmir</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>vetemi@smail.uni-koeln.de</email>
                 </author>
                 <author ref="#person__pseipel1-uni-koeln-de">
@@ -27,7 +26,7 @@
                         <surname>Seipel</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>pseipel1@uni-koeln.de</email>
                 </author>
                 <author ref="#person__twiehe-uni-koeln-de">
@@ -35,7 +34,7 @@
                         <surname>Wiehe</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__0">Universität zu Köln, Deutschland</affiliation>
+                    <affiliation ref="#org__4">Universität zu Köln, Deutschland</affiliation>
                     <email>twiehe@uni-koeln.de</email>
                 </author>
             </titleStmt>

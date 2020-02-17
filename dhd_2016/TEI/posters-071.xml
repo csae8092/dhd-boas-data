@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Das digitale Handbuch der Höfe und Residenzen im spätmittelalterlichen Reich. Eine suchoptimierte Präsentation von strukturierten und verlinkten XML-TEI Daten.</title><title type="conf_year">2016</title>
-        <author ref="#person__jwettla-gwdg-de">
+        <title>Das digitale Handbuch der Höfe und Residenzen im spätmittelalterlichen Reich. Eine suchoptimierte Präsentation von strukturierten und verlinkten XML-TEI Daten.</title><title type="conf_year">2016</title><author ref="#person__jwettla-gwdg-de">
           <name>
             <surname>Wettlaufer</surname>
             <forename>Jörg</forename>
           </name>
-          <affiliation ref="#org__207">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__200">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
           <email>jwettla@gwdg.de</email>
         </author>
         <author ref="#person__tech-sub-uni-goettingen-de">
@@ -16,7 +15,7 @@
             <surname>Tech</surname>
             <forename>Maike</forename>
           </name>
-          <affiliation ref="#org__49">Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__68">Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
           <email>tech@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__naegle-sub-uni-goettingen-de">
@@ -24,7 +23,7 @@
             <surname>Naegle</surname>
             <forename>Sibylle</forename>
           </name>
-          <affiliation ref="#org__49">Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+          <affiliation ref="#org__68">Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
           <email>naegle@sub.uni-goettingen.de</email>
         </author>
       </titleStmt>

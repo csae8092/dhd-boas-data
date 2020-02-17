@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Das Redewiedergabe-Korpus</title>
-                    <title type="sub">Eine neue Ressource</title><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub">Eine neue Ressource</title><title type="conf_year">2019</title></title>
                 <author ref="#person__brunner-ids-mannheim-de">
                     <persName>
                         <surname>Brunner</surname>
                         <forename>Annelen</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>brunner@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__lukas-weimer-uni-wuerzburg-de">
@@ -19,7 +18,7 @@
                         <surname>Weimer</surname>
                         <forename>Lukas</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>lukas.weimer@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__tu-ids-mannheim-de">
@@ -27,7 +26,7 @@
                         <surname>Tu</surname>
                         <forename>Ngoc Duyen Tanja</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>tu@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__engelberg-ids-mannheim-de">
@@ -35,7 +34,7 @@
                         <surname>Engelberg</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__32">Institut für Deutsche Sprache, Deutschland</affiliation>
+                    <affiliation ref="#org__19">Institut für Deutsche Sprache, Deutschland</affiliation>
                     <email>engelberg@ids-mannheim.de</email>
                 </author>
                 <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
@@ -43,7 +42,7 @@
                         <surname>Jannidis</surname>
                         <forename>Fotis</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>fotis.jannidis@uni-wuerzburg.de</email>
                 </author>
             </titleStmt>

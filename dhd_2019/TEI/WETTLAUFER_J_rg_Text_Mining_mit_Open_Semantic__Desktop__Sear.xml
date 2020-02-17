@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Text Mining mit Open Semantic (Desktop) Search – eine digitalen Such- und Annotationsumgebung für informationsgetriebene Fragestellungen in den Geisteswissenschaften.</title><title type="conf_year">2019</title>
-                <author ref="#person__jwettla-gwdg-de">
+                <title>Text Mining mit Open Semantic (Desktop) Search – eine digitalen Such- und Annotationsumgebung für informationsgetriebene Fragestellungen in den Geisteswissenschaften.</title><title type="conf_year">2019</title><author ref="#person__jwettla-gwdg-de">
                     <persName>
                         <surname>Wettlaufer</surname>
                         <forename>Jörg</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>jwettla@gwdg.de</email>
                 </author>
                 <author ref="#person__stefan-ziehe-stud-uni-goettingen-de">
@@ -16,7 +15,7 @@
                         <surname>Ziehe</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__5">Georg-August-Universität Göttingen, Deutschland</affiliation>
+                    <affiliation ref="#org__61">Georg-August-Universität Göttingen, Deutschland</affiliation>
                     <email>stefan.ziehe@stud.uni-goettingen.de</email>
                 </author>
                 <author ref="#person__info-opensemanticsearch-org">
@@ -24,7 +23,7 @@
                         <surname>Mandalka</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__418">Freier Journalist und Informatiker, Berlin</affiliation>
+                    <affiliation ref="#org__162">Freier Journalist und Informatiker, Berlin</affiliation>
                     <email>info@opensemanticsearch.org</email>
                 </author>
             </titleStmt>

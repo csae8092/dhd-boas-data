@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Uwe Johnson-Werkausgabe</title><title type="conf_year">2016</title>
-        <author ref="#person__fabian-kassner-uni-rostock-de">
+        <title>Die Uwe Johnson-Werkausgabe</title><title type="conf_year">2016</title><author ref="#person__fabian-kassner-uni-rostock-de">
           <name>
             <surname>Kaßner</surname>
             <forename>Fabian</forename>
           </name>
-          <affiliation ref="#org__52">Universität Rostock, Deutschland</affiliation>
+          <affiliation ref="#org__249">Universität Rostock, Deutschland</affiliation>
           <email>fabian.kassner@uni-rostock.de</email>
         </author>
         <author ref="#person__andre-kischel-uni-rostock-de">
@@ -16,7 +15,7 @@
             <surname>Kischel</surname>
             <forename>André</forename>
           </name>
-          <affiliation ref="#org__52">Universität Rostock, Deutschland</affiliation>
+          <affiliation ref="#org__249">Universität Rostock, Deutschland</affiliation>
           <email>andre.kischel@uni-rostock.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Potentielle Privatsphäreverletzungen aufdecken und automatisiert sichtbar machen</title><title type="conf_year">2019</title>
-                <author ref="#person__fbaeumer-mail-upb-de">
+                <title>Potentielle Privatsphäreverletzungen aufdecken und automatisiert sichtbar machen</title><title type="conf_year">2019</title><author ref="#person__fbaeumer-mail-upb-de">
                     <persName>
                         <surname>Bäumer</surname>
                         <forename>Frederik Simon</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>fbaeumer@mail.upb.de</email>
                 </author>
                 <author ref="#person__bbuff-mail-upb-de">
@@ -16,7 +15,7 @@
                         <surname>Buff</surname>
                         <forename>Bianca</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>bbuff@mail.upb.de</email>
                 </author>
                 <author ref="#person__geierhos-mail-upb-de">
@@ -24,7 +23,7 @@
                         <surname>Geierhos</surname>
                         <forename>Michaela</forename>
                     </persName>
-                    <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+                    <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
                     <email>geierhos@mail.upb.de</email>
                 </author>
             </titleStmt>

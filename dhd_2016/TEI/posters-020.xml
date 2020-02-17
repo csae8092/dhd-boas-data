@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mit der FinderApp durch Goethes Faust: Treffer im Faksimile visuell hervorgehoben und multimediale Ausgabe in Videoaufführung und Hörbuch.</title><title type="conf_year">2016</title>
-        <author ref="#person__maximilian-cis-uni-muenchen-de">
+        <title>Mit der FinderApp durch Goethes Faust: Treffer im Faksimile visuell hervorgehoben und multimediale Ausgabe in Videoaufführung und Hörbuch.</title><title type="conf_year">2016</title><author ref="#person__maximilian-cis-uni-muenchen-de">
           <name>
             <surname>Hadersbeck</surname>
             <forename>Maximilian</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>maximilian@cis.uni-muenchen.de</email>
         </author>
         <author ref="#person__e-eder-campus-lmu-de">
@@ -16,7 +15,7 @@
             <surname>Eder</surname>
             <forename>Elisabeth</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>e.eder@campus.lmu.de</email>
         </author>
         <author ref="#person__r-capsamun-campus-lmu-de">
@@ -24,7 +23,7 @@
             <surname>Capsamun</surname>
             <forename>Roman</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>r.capsamun@campus.lmu.de</email>
         </author>
         <author ref="#person__nora-eichfeldt-campus-lmu-de">
@@ -32,7 +31,7 @@
             <surname>Eichfeldt</surname>
             <forename>Nora</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>nora.eichfeldt@campus.lmu.de</email>
         </author>
         <author ref="#person__s-herteis-campus-lmu-de">
@@ -40,7 +39,7 @@
             <surname>Herteis</surname>
             <forename>Simeon</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>s.herteis@campus.lmu.de</email>
         </author>
         <author ref="#person__m-lindinger-live-de">
@@ -48,7 +47,7 @@
             <surname>Lindinger</surname>
             <forename>Matthias</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>m.lindinger@live.de</email>
         </author>
         <author ref="#person__r-hoeps-campus-lmu-de">
@@ -56,7 +55,7 @@
             <surname>Höps</surname>
             <forename>Raphael</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>R.Hoeps@campus.lmu.de</email>
         </author>
         <author ref="#person__stefan-schweter-eu">
@@ -64,7 +63,7 @@
             <surname>Schweter</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__22">Ludwig Maximilians Universität München, Deutschland</affiliation>
+          <affiliation ref="#org__60">Ludwig Maximilians Universität München, Deutschland</affiliation>
           <email>stefan@schweter.eu</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Brief – zwei Perspektiven. Stellenkommentare in digitalen Briefeditionen über APIs austauschen</title><title type="conf_year">2018</title>
-                <author ref="#person__dumont-bbaw-de">
+                <title>Ein Brief – zwei Perspektiven. Stellenkommentare in digitalen Briefeditionen über APIs austauschen</title><title type="conf_year">2018</title><author ref="#person__dumont-bbaw-de">
                     <persName>
                         <surname>Dumont</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__43">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__47">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>dumont@bbaw.de</email>
                 </author>
             </titleStmt>

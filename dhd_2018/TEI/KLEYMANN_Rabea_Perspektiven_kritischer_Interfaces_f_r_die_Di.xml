@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Perspektiven kritischer Interfaces für die Digital Humanities im 3DH-Projekt</title><title type="conf_year">2018</title>
-                <author ref="#person__rabea-kleymann-uni-hamburg-de">
+                <title>Perspektiven kritischer Interfaces für die Digital Humanities im 3DH-Projekt</title><title type="conf_year">2018</title><author ref="#person__rabea-kleymann-uni-hamburg-de">
                     <persName>
                         <surname>Kleymann</surname>
                         <forename>Rabea</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>Rabea.Kleymann@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-c-meister-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Meister</surname>
                         <forename>Jan Christoph</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>jan-c-meister@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__jan-erik-stange-uni-hamburg-de">
@@ -24,7 +23,7 @@
                         <surname>Stange</surname>
                         <forename>Jan-Erik</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>jan-erik.stange@uni-hamburg.de</email>
                 </author>
             </titleStmt>

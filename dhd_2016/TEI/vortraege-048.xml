@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> LERA - Explorative Analyse komplexer Textvarianten in Editionsphilologie und Diskursanalyse </title><title type="conf_year">2016</title>
-        <author ref="#person__susanne-schuetz-romanistik-uni-halle-de">
+        <title> LERA - Explorative Analyse komplexer Textvarianten in Editionsphilologie und Diskursanalyse </title><title type="conf_year">2016</title><author ref="#person__susanne-schuetz-romanistik-uni-halle-de">
           <name>
             <surname>Schütz</surname>
             <forename>Susanne</forename>
           </name>
-          <affiliation ref="#org__7">Martin-Luther-Universität Halle-Wittenberg</affiliation>
+          <affiliation ref="#org__65">Martin-Luther-Universität Halle-Wittenberg</affiliation>
           <email>susanne.schuetz@romanistik.uni-halle.de</email>
         </author>
         <author ref="#person__marcus-poeckelmann-informatik-uni-halle-de">
@@ -16,7 +15,7 @@
             <surname>Pöckelmann</surname>
             <forename>Marcus</forename>
           </name>
-          <affiliation ref="#org__7">Martin-Luther-Universität Halle-Wittenberg</affiliation>
+          <affiliation ref="#org__65">Martin-Luther-Universität Halle-Wittenberg</affiliation>
           <email>marcus.poeckelmann@informatik.uni-halle.de</email>
         </author>
       </titleStmt>

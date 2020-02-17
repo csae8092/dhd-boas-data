@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>An den Grenzen der Interoperabilität: Eine kritische Reflexion über digitale Forschungsdaten und -anwendungen in der Online-Edition des Projekts "Die Schule von Salamanca"</title><title type="conf_year">2018</title>
-                <author ref="#person__wagner-rg-mpg-de">
+                <title>An den Grenzen der Interoperabilität: Eine kritische Reflexion über digitale Forschungsdaten und -anwendungen in der Online-Edition des Projekts "Die Schule von Salamanca"</title><title type="conf_year">2018</title><author ref="#person__wagner-rg-mpg-de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__39">Max-Planck-Institut für europäische Rechtsgeschichte, Frankfurt am Main</affiliation>
+                    <affiliation ref="#org__508">Max-Planck-Institut für europäische Rechtsgeschichte, Frankfurt am Main</affiliation>
                     <email>wagner@rg.mpg.de</email>
                 </author>
                 <author ref="#person__glueck-rg-mpg-de">
@@ -16,7 +15,7 @@
                         <surname>Glück</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__40 #org__206">Akademie der Wissenschaften und der Literatur, Mainz; Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
+                    <affiliation ref="#org__36 #org__112">Akademie der Wissenschaften und der Literatur, Mainz; Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
                     <email>glueck@rg.mpg.de</email>
                 </author>
             </titleStmt>

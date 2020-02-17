@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Datenzentren für die nachhaltige Forschung in den Digital Humanities</title><title type="conf_year">2016</title>
-        <author ref="#person__sahle-uni-koeln-de">
+        <title>Datenzentren für die nachhaltige Forschung in den Digital Humanities</title><title type="conf_year">2016</title><author ref="#person__sahle-uni-koeln-de">
           <name>
             <surname>Sahle</surname>
             <forename>Patrick</forename>
           </name>
-          <affiliation ref="#org__4">Data Center for the Humanities, Universität zu Köln</affiliation>
+          <affiliation ref="#org__10">Data Center for the Humanities, Universität zu Köln</affiliation>
           <email>sahle@uni-koeln.de</email>
         </author>
         <author ref="#person__thorsten-trippel-uni-tuebingen-de">
@@ -16,7 +15,7 @@
             <surname>Trippel</surname>
             <forename>Thorsten</forename>
           </name>
-          <affiliation ref="#org__285">CLARIN-D, Universität Tübingen</affiliation>
+          <affiliation ref="#org__325">CLARIN-D, Universität Tübingen</affiliation>
           <email>thorsten.trippel@uni-tuebingen.de</email>
         </author>
         <author ref="#person__gneumann-bbaw-de">
@@ -24,7 +23,7 @@
             <surname>Neumann</surname>
             <forename>Gerald</forename>
           </name>
-          <affiliation ref="#org__43">Berlin-Brandenburger Akademie der Wissenschaften</affiliation>
+          <affiliation ref="#org__326">Berlin-Brandenburger Akademie der Wissenschaften</affiliation>
           <email>gneumann@bbaw.de</email>
         </author>
         <author ref="#person__claudia-engelhardt-sub-uni-goettingen-de">
@@ -32,7 +31,7 @@
             <surname>Engelhardt</surname>
             <forename>Claudia</forename>
           </name>
-          <affiliation ref="#org__286">Humanities Data Center, Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__327">Humanities Data Center, Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>claudia.engelhardt@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__kurzawe-sub-uni-goettingen-de">
@@ -40,7 +39,7 @@
             <surname>Kurzawe</surname>
             <forename>Daniel</forename>
           </name>
-          <affiliation ref="#org__286">Humanities Data Center, Staats- und Universitätsbibliothek Göttingen</affiliation>
+          <affiliation ref="#org__327">Humanities Data Center, Staats- und Universitätsbibliothek Göttingen</affiliation>
           <email>kurzawe@sub.uni-goettingen.de</email>
         </author>
         <author ref="#person__felix-schaefer-dainst-de">
@@ -48,7 +47,7 @@
             <surname>Schäfer</surname>
             <forename>Felix</forename>
           </name>
-          <affiliation ref="#org__46">IANUS, Deutsches Archäologisches Institut</affiliation>
+          <affiliation ref="#org__329">IANUS, Deutsches Archäologisches Institut</affiliation>
           <email>felix.schaefer@dainst.de</email>
         </author>
         <author ref="#person__kai-woerner-uni-hamburg-de">
@@ -56,7 +55,7 @@
             <surname>Wörner</surname>
             <forename>Kai</forename>
           </name>
-          <affiliation ref="#org__288">Geisteswissenschaftliche Infrastruktur für Nachhaltigkeit (gwin), Universität Hamburg</affiliation>
+          <affiliation ref="#org__330">Geisteswissenschaftliche Infrastruktur für Nachhaltigkeit (gwin), Universität Hamburg</affiliation>
           <email>kai.woerner@uni-hamburg.de</email>
         </author>
       </titleStmt>

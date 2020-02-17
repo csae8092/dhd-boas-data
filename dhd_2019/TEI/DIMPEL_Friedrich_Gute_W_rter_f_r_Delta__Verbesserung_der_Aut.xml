@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Gute Wörter für Delta: Verbesserung der Autorschaftsattribution durch autorspezifische distinktive Wörter</title><title type="conf_year">2019</title>
-                <author ref="#person__mail-dimpel-de">
+                <title>Gute Wörter für Delta: Verbesserung der Autorschaftsattribution durch autorspezifische distinktive Wörter</title><title type="conf_year">2019</title><author ref="#person__mail-dimpel-de">
                     <persName>
                         <surname>Dimpel</surname>
                         <forename>Friedrich</forename>
                     </persName>
-                    <affiliation ref="#org__76">Universität Erlangen</affiliation>
+                    <affiliation ref="#org__21">Universität Erlangen</affiliation>
                     <email>mail@dimpel.de</email>
                 </author>
                 <author ref="#person__thomas-proisl-fau-de">
@@ -16,7 +15,7 @@
                         <surname>Proisl</surname>
                         <forename>Thomas</forename>
                     </persName>
-                    <affiliation ref="#org__76">Universität Erlangen</affiliation>
+                    <affiliation ref="#org__21">Universität Erlangen</affiliation>
                     <email>thomas.proisl@fau.de</email>
                 </author>
             </titleStmt>

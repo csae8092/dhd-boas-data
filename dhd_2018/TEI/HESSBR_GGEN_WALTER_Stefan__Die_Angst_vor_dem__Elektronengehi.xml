@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main"> Die Angst vor dem „Elektronengehirn“: Topoi der Kybernetik-Kritik in der bundesdeutschen Nachkriegsphilosophie</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__shessbru-hse-ru">
                     <persName>
                         <surname>Heßbrüggen-Walter</surname>
                         <forename>Stefan</forename>
                     </persName>
-                    <affiliation ref="#org__62">National Research University Higher School of Economics, Russland</affiliation>
+                    <affiliation ref="#org__76">National Research University Higher School of Economics, Russland</affiliation>
                     <email>shessbru@hse.ru</email>
                 </author>
             </titleStmt>

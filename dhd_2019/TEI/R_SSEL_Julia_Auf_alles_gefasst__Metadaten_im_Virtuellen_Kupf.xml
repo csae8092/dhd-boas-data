@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Auf alles gefasst? Metadaten im Virtuellen Kupferstichkabinett</title><title type="conf_year">2019</title>
-                <author ref="#person__roessel-hab-de">
+                <title>Auf alles gefasst? Metadaten im Virtuellen Kupferstichkabinett</title><title type="conf_year">2019</title><author ref="#person__roessel-hab-de">
                     <persName>
                         <surname>Rössel</surname>
                         <forename>Julia</forename>
                     </persName>
-                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>roessel@hab.de</email>
                 </author>
                 <author ref="#person__maus-hab-de">
@@ -16,7 +15,7 @@
                         <surname>Maus</surname>
                         <forename>David</forename>
                     </persName>
-                    <affiliation ref="#org__27">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+                    <affiliation ref="#org__48">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
                     <email>maus@hab.de</email>
                 </author>
             </titleStmt>

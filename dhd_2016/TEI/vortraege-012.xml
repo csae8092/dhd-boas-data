@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Modellierung: eine Begriffsbestimmung</title><title type="conf_year">2016</title>
-        <author ref="#person__shessbru-hse-ru">
+        <title>Modellierung: eine Begriffsbestimmung</title><title type="conf_year">2016</title><author ref="#person__shessbru-hse-ru">
           <name>
             <surname>Heßbrüggen-Walter</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__62">National Research University - Higher School of Economics, Russland</affiliation>
+          <affiliation ref="#org__76">National Research University - Higher School of Economics, Russland</affiliation>
           <email>shessbru@hse.ru</email>
         </author>
       </titleStmt>

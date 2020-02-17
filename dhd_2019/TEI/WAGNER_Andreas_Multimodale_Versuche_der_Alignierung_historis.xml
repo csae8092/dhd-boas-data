@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Multimodale Versuche der Alignierung historischer Texte</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__wagner-rg-mpg-de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Andreas</forename>
                     </persName>
-                    <affiliation ref="#org__39">Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__106">Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
                     <email>wagner@rg.mpg.de</email>
                 </author>
                 <author ref="#person__bragagnolo-rg-mpg-de">
@@ -19,7 +18,7 @@
                         <surname>Bragagnolo</surname>
                         <forename>Manuela</forename>
                     </persName>
-                    <affiliation ref="#org__39">Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
+                    <affiliation ref="#org__106">Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland</affiliation>
                     <email>bragagnolo@rg.mpg.de</email>
                 </author>
             </titleStmt>

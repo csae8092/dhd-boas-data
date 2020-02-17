@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Positivistischer Methodenfetischismus als Anathema der digitalen Geisteswissenschaften</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__arnold-badw-de">
                     <persName>
                         <surname>Arnold</surname>
                         <forename>Eckhart</forename>
                     </persName>
-                    <affiliation ref="#org__96">Bayerische Akademie der Wissenschaften, Deutschland</affiliation>
+                    <affiliation ref="#org__93">Bayerische Akademie der Wissenschaften, Deutschland</affiliation>
                     <email>arnold@badw.de</email>
                 </author>
             </titleStmt>

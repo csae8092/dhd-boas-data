@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Gernika – Visualisierung der Interkonnektivität medialer Öffentlichkeiten in Europa</title><title type="conf_year">2016</title>
-        <author ref="#person__loebel-bitgilde-de">
+        <title>Gernika – Visualisierung der Interkonnektivität medialer Öffentlichkeiten in Europa</title><title type="conf_year">2016</title><author ref="#person__loebel-bitgilde-de">
           <name>
             <surname>Loebel</surname>
             <forename>Jens-Martin</forename>
           </name>
-          <affiliation ref="#org__368">Angewandte Medienwissenschaft (Digitale Medien), Universität Bayreuth / bitGilde IT Solutions UG</affiliation>
+          <affiliation ref="#org__268">Angewandte Medienwissenschaft (Digitale Medien), Universität Bayreuth / bitGilde IT Solutions UG</affiliation>
           <email>loebel@bitgilde.de</email>
         </author>
         <author ref="#person__eva-holly-uni-duesseldorf-de">
@@ -16,7 +15,7 @@
             <surname>Holly</surname>
             <forename>Eva Maria</forename>
           </name>
-          <affiliation ref="#org__369">Lehrstuhl für Neuere Geschichte, Geschichtswissenschaften, Heinrich-Heine-Universität Düsseldorf</affiliation>
+          <affiliation ref="#org__269">Lehrstuhl für Neuere Geschichte, Geschichtswissenschaften, Heinrich-Heine-Universität Düsseldorf</affiliation>
           <email>eva.holly@uni-duesseldorf.de</email>
         </author>
       </titleStmt>

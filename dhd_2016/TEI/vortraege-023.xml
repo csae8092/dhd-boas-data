@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sonification: Vermittlungsansätze zwischen Klang und Information</title><title type="conf_year">2016</title>
-        <author ref="#person__torsten-roeder-uni-wuerzburg-de">
+        <title>Sonification: Vermittlungsansätze zwischen Klang und Information</title><title type="conf_year">2016</title><author ref="#person__torsten-roeder-uni-wuerzburg-de">
           <name>
             <surname>Roeder</surname>
             <forename>Torsten</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>torsten.roeder@uni-wuerzburg.de</email>
         </author>
       </titleStmt>

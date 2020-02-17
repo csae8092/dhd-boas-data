@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ambiguität und Annotation: Herausforderungen von Automatisierung und Digitalität </title><title type="conf_year">2018</title>
-                <author ref="#person__angelika-zirker-uni-tuebingen-de">
+                <title>Ambiguität und Annotation: Herausforderungen von Automatisierung und Digitalität </title><title type="conf_year">2018</title><author ref="#person__angelika-zirker-uni-tuebingen-de">
                     <persName>
                         <surname>Zirker</surname>
                         <forename>Angelika</forename>
                     </persName>
-                    <affiliation ref="#org__65 #org__38">Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität zu Berlin</affiliation>
+                    <affiliation ref="#org__86 #org__78">Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität zu Berlin</affiliation>
                     <email>angelika.zirker@uni-tuebingen.de</email>
                 </author>
             </titleStmt>

@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">HistoGIS: Vom Punkt zur Fläche in Raum und Zeit</title>
-                    <title type="sub"/><title type="conf_year">2019</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2019</title></title>
                 <author ref="#person__matthias-schloegl-oeaw-ac-at">
                     <persName>
                         <surname>Schlögl</surname>
                         <forename>Matthias</forename>
                     </persName>
-                    <affiliation ref="#org__26">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__72">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>matthias.schloegl@oeaw.ac.at</email>
                 </author>
                 <author ref="#person__peter-andorfer-oeaw-ac-at">
@@ -19,7 +18,7 @@
                         <surname>Andorfer</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__26">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
+                    <affiliation ref="#org__72">:sterreichische Akademie der Wissenschaften, Österreich</affiliation>
                     <email>peter.andorfer@oeaw.ac.at</email>
                 </author>
             </titleStmt>

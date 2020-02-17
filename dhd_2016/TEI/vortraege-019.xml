@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa</title><title type="conf_year">2016</title>
-        <author ref="#person__melanie-mihm-germanistik-uni-giessen-de">
+        <title>Weibliches Erzählen im Expressionismus? Eine Stilometrie von Mela Hartwigs Prosa</title><title type="conf_year">2016</title><author ref="#person__melanie-mihm-germanistik-uni-giessen-de">
           <name>
             <surname>Mihm</surname>
             <forename>Melanie</forename>
           </name>
-          <affiliation ref="#org__239">Justus-Liebig-Universität Gießen, Deutschland</affiliation>
+          <affiliation ref="#org__282">Justus-Liebig-Universität Gießen, Deutschland</affiliation>
           <email>Melanie.Mihm@germanistik.uni-giessen.de</email>
         </author>
       </titleStmt>

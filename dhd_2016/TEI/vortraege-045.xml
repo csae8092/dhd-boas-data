@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Die Lehre der digitalen Visualisierung am Beispiel der Architektur</title><title type="conf_year">2016</title>
-        <author ref="#person__lengyel-tu-cottbus-de">
+        <title>Die Lehre der digitalen Visualisierung am Beispiel der Architektur</title><title type="conf_year">2016</title><author ref="#person__lengyel-tu-cottbus-de">
           <name>
             <surname>Lengyel</surname>
             <forename>Dominik</forename>
           </name>
-          <affiliation ref="#org__257">Brandenburgische Technische Universität Cottbus-Senftenberg, Deutschland</affiliation>
+          <affiliation ref="#org__375">Brandenburgische Technische Universität Cottbus-Senftenberg, Deutschland</affiliation>
           <email>lengyel@tu-cottbus.de</email>
         </author>
         <author ref="#person__toulouse-tu-cottbus-de">
@@ -16,7 +15,7 @@
             <surname>Toulouse</surname>
             <forename>Catherine</forename>
           </name>
-          <affiliation ref="#org__257">Brandenburgische Technische Universität Cottbus-Senftenberg, Deutschland</affiliation>
+          <affiliation ref="#org__375">Brandenburgische Technische Universität Cottbus-Senftenberg, Deutschland</affiliation>
           <email>toulouse@tu-cottbus.de</email>
         </author>
       </titleStmt>

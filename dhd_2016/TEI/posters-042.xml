@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Digitale Dokumentation des Kulturerbes im internationalen Verbund. Das Projekt Forschungsinfrastruk-tur Kunstdenkmäler in Ostmitteleuropa (FoKO)</title><title type="conf_year">2016</title>
-        <author ref="#person__ksenia-stanicka-herder-institut-de">
+        <title>Digitale Dokumentation des Kulturerbes im internationalen Verbund. Das Projekt Forschungsinfrastruk-tur Kunstdenkmäler in Ostmitteleuropa (FoKO)</title><title type="conf_year">2016</title><author ref="#person__ksenia-stanicka-herder-institut-de">
           <name>
             <surname>Stanicka-Brzezicka</surname>
             <forename>Ksenia</forename>
           </name>
-          <affiliation ref="#org__246">Herder-Institut für historische Ostmitteleuropaforschung – Institut der Leibniz-Gemeinschaft</affiliation>
+          <affiliation ref="#org__88">Herder-Institut für historische Ostmitteleuropaforschung – Institut der Leibniz-Gemeinschaft</affiliation>
           <email>ksenia.stanicka@herder-institut.de</email>
         </author>
       </titleStmt>

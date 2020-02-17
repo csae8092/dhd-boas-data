@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Metaphern digital – Auf dem Weg von der Annotation zur automatischen Detektion</title><title type="conf_year">2016</title>
-        <author ref="#person__dodinh-kdsl-informatik-tu-darmstadt-de">
+        <title>Metaphern digital – Auf dem Weg von der Annotation zur automatischen Detektion</title><title type="conf_year">2016</title><author ref="#person__dodinh-kdsl-informatik-tu-darmstadt-de">
           <name>
             <surname>Do Dinh</surname>
             <forename>Erik-Lân</forename>
           </name>
-          <affiliation ref="#org__356">UKP Lab, TU Darmstadt</affiliation>
+          <affiliation ref="#org__293">UKP Lab, TU Darmstadt</affiliation>
           <email>dodinh@kdsl.informatik.tu-darmstadt.de</email>
         </author>
         <author ref="#person__gerloff-kdsl-informatik-tu-darmstadt-de">
@@ -16,7 +15,7 @@
             <surname>Gerloff</surname>
             <forename>Malte</forename>
           </name>
-          <affiliation ref="#org__357">Institut für Philosophie, TU Darmstadt</affiliation>
+          <affiliation ref="#org__294">Institut für Philosophie, TU Darmstadt</affiliation>
           <email>gerloff@kdsl.informatik.tu-darmstadt.de</email>
         </author>
         <author ref="#person__nunez-kdsl-informatik-tu-darmstadt-de">
@@ -24,7 +23,7 @@
             <surname>Núñez</surname>
             <forename>Alexandra</forename>
           </name>
-          <affiliation ref="#org__358">Institut für Sprach- und Literaturwissenschaft, TU Darmstadt</affiliation>
+          <affiliation ref="#org__295">Institut für Sprach- und Literaturwissenschaft, TU Darmstadt</affiliation>
           <email>nunez@kdsl.informatik.tu-darmstadt.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Besucherexperimente im Science Center: Welche Einsichten in die Herstellung von Wissen in Interaktion werden erst durch die Zusammenschau von Audio-, Video- und Eye-Tracking-Daten möglich?</title><title type="conf_year">2019</title>
-                <author ref="#person__wolfgang-kesselheim-ds-uzh-ch">
+                <title>Besucherexperimente im Science Center: Welche Einsichten in die Herstellung von Wissen in Interaktion werden erst durch die Zusammenschau von Audio-, Video- und Eye-Tracking-Daten möglich?</title><title type="conf_year">2019</title><author ref="#person__wolfgang-kesselheim-ds-uzh-ch">
                     <persName>
                         <surname>Kesselheim</surname>
                         <forename>Wolfgang</forename>
                     </persName>
-                    <affiliation ref="#org__97">Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__135">Universität Zürich, Schweiz</affiliation>
                     <email>wolfgang.kesselheim@ds.uzh.ch</email>
                 </author>
                 <author ref="#person__christoph-hottiger-access-uzh-ch">
@@ -16,7 +15,7 @@
                         <surname>Hottiger</surname>
                         <forename>Christoph</forename>
                     </persName>
-                    <affiliation ref="#org__97">Universität Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__135">Universität Zürich, Schweiz</affiliation>
                     <email>christoph.hottiger@access.uzh.ch</email>
                 </author>
             </titleStmt>

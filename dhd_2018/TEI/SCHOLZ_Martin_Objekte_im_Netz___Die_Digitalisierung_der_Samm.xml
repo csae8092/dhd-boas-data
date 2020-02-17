@@ -4,14 +4,13 @@
             <titleStmt>
                 <title type="full">
                     <title type="main">Objekte im Netz – Die Digitalisierung der Sammlungen der Universität Erlangen-Nürnberg als Gegenstand und Methode.</title>
-                    <title type="sub"/><title type="conf_year">2018</title>
-                </title>
+                    <title type="sub"/><title type="conf_year">2018</title></title>
                 <author ref="#person__s-wagner-gnm-de">
                     <persName>
                         <surname>Wagner</surname>
                         <forename>Sarah</forename>
                     </persName>
-                    <affiliation ref="#org__42">Germanisches Nationalmuseum, Deutschland</affiliation>
+                    <affiliation ref="#org__449">Germanisches Nationalmuseum, Deutschland</affiliation>
                     <email>s.wagner@gnm.de</email>
                 </author>
                 <author ref="#person__martin-scholz-fau-de">
@@ -19,7 +18,7 @@
                         <surname>Scholz</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__44">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>martin.scholz@fau.de</email>
                 </author>
                 <author ref="#person__udo-andraschke-fau-de">
@@ -27,7 +26,7 @@
                         <surname>Andraschke</surname>
                         <forename>Udo</forename>
                     </persName>
-                    <affiliation ref="#org__44">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
+                    <affiliation ref="#org__69">Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland</affiliation>
                     <email>udo.andraschke@fau.de</email>
                 </author>
             </titleStmt>

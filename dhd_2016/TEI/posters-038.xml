@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ziele und Aktivitäten der Arbeitsgruppe Digitale Romanistik</title><title type="conf_year">2016</title>
-        <author ref="#person__christof-schoech-uni-wuerzburg-de">
+        <title>Ziele und Aktivitäten der Arbeitsgruppe Digitale Romanistik</title><title type="conf_year">2016</title><author ref="#person__christof-schoech-uni-wuerzburg-de">
           <name>
             <surname>Schöch</surname>
             <forename>Christof</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>christof.schoech@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__isabel-vonehrlich-lrz-uni-muenchen-de">
@@ -17,7 +16,7 @@
             <surname>von Ehrlich</surname>
             <forename>Isabel</forename>
           </name>
-          <affiliation ref="#org__342">LMU München, Deutschland</affiliation>
+          <affiliation ref="#org__163">LMU München, Deutschland</affiliation>
           <email>Isabel.vonEhrlich@lrz.uni-muenchen.de</email>
         </author>
         <author ref="#person__hanno-ehrlicher-phil-uni-augsburg-de">
@@ -25,7 +24,7 @@
             <surname>Ehrlicher</surname>
             <forename>Hanno</forename>
           </name>
-          <affiliation ref="#org__16">Universität Augsburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Augsburg, Deutschland</affiliation>
           <email>hanno.ehrlicher@phil.uni-augsburg.de</email>
         </author>
         <author ref="#person__gerstenberg-zedat-fu-berlin-de">
@@ -33,7 +32,7 @@
             <surname>Gerstenberg</surname>
             <forename>Annette</forename>
           </name>
-          <affiliation ref="#org__48">FU Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__232">FU Berlin, Deutschland</affiliation>
           <email>gerstenberg@zedat.fu-berlin.de</email>
         </author>
         <author ref="#person__kraft-bbaw-de">
@@ -41,7 +40,7 @@
             <surname>Kraft</surname>
             <forename>Tobias</forename>
           </name>
-          <affiliation ref="#org__66">BBAW Berlin, Deutschland</affiliation>
+          <affiliation ref="#org__233">BBAW Berlin, Deutschland</affiliation>
           <email>kraft@bbaw.de</email>
         </author>
         <author ref="#person__nanette-rissler-gmail-com">
@@ -49,7 +48,7 @@
             <surname>Rißler-Pipka</surname>
             <forename>Nanette</forename>
           </name>
-          <affiliation ref="#org__212">Universität Siegen, Deutschland</affiliation>
+          <affiliation ref="#org__1">Universität Siegen, Deutschland</affiliation>
           <email>nanette.rissler@gmail.com</email>
         </author>
         <author ref="#person__harald-voelker-gmx-net">
@@ -57,7 +56,7 @@
             <surname>Völker</surname>
             <forename>Harald</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Schweiz</affiliation>
+          <affiliation ref="#org__24">Universität Würzburg, Schweiz</affiliation>
           <email>harald_voelker@gmx.net</email>
         </author>
         <author ref="#person__muehlschlegel-iai-spk-berlin-de">
@@ -65,7 +64,7 @@
             <surname>Mühlschlegel</surname>
             <forename>Ulrike</forename>
           </name>
-          <affiliation ref="#org__344">Ibero-Amerikanisches Institut, Deutschland</affiliation>
+          <affiliation ref="#org__234">Ibero-Amerikanisches Institut, Deutschland</affiliation>
           <email>Muehlschlegel@iai.spk-berlin.de</email>
         </author>
       </titleStmt>

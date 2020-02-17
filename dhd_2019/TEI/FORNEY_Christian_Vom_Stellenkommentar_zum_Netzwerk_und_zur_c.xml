@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vom Stellenkommentar zum Netzwerk und zurück: grosse Quellenkorpora und tief erschlossene Strukturdaten auf hallerNet</title><title type="conf_year">2019</title>
-                <author ref="#person__martin-stuber-hist-unibe-ch">
+                <title>Vom Stellenkommentar zum Netzwerk und zurück: grosse Quellenkorpora und tief erschlossene Strukturdaten auf hallerNet</title><title type="conf_year">2019</title><author ref="#person__martin-stuber-hist-unibe-ch">
                     <persName>
                         <surname>Stuber</surname>
                         <forename>Martin</forename>
                     </persName>
-                    <affiliation ref="#org__3">Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__122">Universität Bern, Schweiz</affiliation>
                     <email>martin.stuber@hist.unibe.ch</email>
                 </author>
                 <author ref="#person__p-daengeli-uni-koeln-de">
@@ -16,7 +15,7 @@
                         <surname>Dängeli</surname>
                         <forename>Peter</forename>
                     </persName>
-                    <affiliation ref="#org__3 #org__2">Universität Bern, Schweiz; Cologne Center for eHumanities</affiliation>
+                    <affiliation ref="#org__122 #org__51">Universität Bern, Schweiz; Cologne Center for eHumanities</affiliation>
                     <email>p.daengeli@uni-koeln.de</email>
                 </author>
                 <author ref="#person__christian-forney-hist-unibe-ch">
@@ -24,7 +23,7 @@
                         <surname>Forney</surname>
                         <forename>Christian</forename>
                     </persName>
-                    <affiliation ref="#org__3">Universität Bern, Schweiz</affiliation>
+                    <affiliation ref="#org__122">Universität Bern, Schweiz</affiliation>
                     <email>christian.forney@hist.unibe.ch</email>
                 </author>
             </titleStmt>

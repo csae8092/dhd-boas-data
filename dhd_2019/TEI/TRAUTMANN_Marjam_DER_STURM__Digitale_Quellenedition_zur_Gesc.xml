@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>DER STURM. Digitale Quellenedition zur Geschichte der internationalen Avantgarde. Drei Forschungsansätze.</title><title type="conf_year">2019</title>
-                <author ref="#person__anne-lorenz-adwmainz-de">
+                <title>DER STURM. Digitale Quellenedition zur Geschichte der internationalen Avantgarde. Drei Forschungsansätze.</title><title type="conf_year">2019</title><author ref="#person__anne-lorenz-adwmainz-de">
                     <persName>
                         <surname>Lorenz</surname>
                         <forename>Anne Katrin</forename>
                     </persName>
-                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>anne.lorenz@adwmainz.de</email>
                 </author>
                 <author ref="#person__lea-mueller-dannhausen-gmx-de">
@@ -16,7 +15,7 @@
                         <surname>Müller-Dannhausen</surname>
                         <forename>Lea</forename>
                     </persName>
-                    <affiliation ref="#org__70">Johannes Gutenberg-Universität Mainz</affiliation>
+                    <affiliation ref="#org__41">Johannes Gutenberg-Universität Mainz</affiliation>
                     <email>lea.mueller-dannhausen@gmx.de</email>
                 </author>
                 <author ref="#person__marjam-trautmann-adwmainz-de">
@@ -24,7 +23,7 @@
                         <surname>Trautmann</surname>
                         <forename>Marjam</forename>
                     </persName>
-                    <affiliation ref="#org__40">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
+                    <affiliation ref="#org__36">Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
                     <email>marjam.trautmann@adwmainz.de</email>
                 </author>
             </titleStmt>

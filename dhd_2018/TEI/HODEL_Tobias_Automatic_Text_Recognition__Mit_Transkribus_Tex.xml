@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title><title type="conf_year">2018</title>
-                <author ref="#person__tobias-hodel-hist-uzh-ch">
+                <title>Automatic Text Recognition: Mit Transkribus Texterkennung trainieren und anwenden</title><title type="conf_year">2018</title><author ref="#person__tobias-hodel-hist-uzh-ch">
                     <persName>
                         <surname>Hodel</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation ref="#org__174">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
+                    <affiliation ref="#org__127">Staatsarchiv des Kantons Zürich, Schweiz</affiliation>
                     <email>tobias.hodel@hist.uzh.ch</email>
                 </author>
                 <author ref="#person__tobias-strauss-uni-rostock-de">
@@ -16,7 +15,7 @@
                         <surname>Strauß</surname>
                         <forename>Tobias</forename>
                     </persName>
-                    <affiliation ref="#org__201">Universität Rostock CITLab</affiliation>
+                    <affiliation ref="#org__184">Universität Rostock CITLab</affiliation>
                     <email>tobias.strauss@uni-rostock.de</email>
                 </author>
                 <author ref="#person__diem-caa-tuwien-ac-at">
@@ -24,7 +23,7 @@
                         <surname>Diem</surname>
                         <forename>Markus</forename>
                     </persName>
-                    <affiliation ref="#org__202">Vienna University of Technology, Computer Vision Lab</affiliation>
+                    <affiliation ref="#org__185">Vienna University of Technology, Computer Vision Lab</affiliation>
                     <email>diem@caa.tuwien.ac.at</email>
                 </author>
             </titleStmt>

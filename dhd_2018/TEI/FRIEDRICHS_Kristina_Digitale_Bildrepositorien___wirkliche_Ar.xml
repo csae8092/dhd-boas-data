@@ -2,13 +2,12 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Digitale Bildrepositorien – wirkliche Arbeitserleichterung oder zeitraubend?</title><title type="conf_year">2018</title>
-                <author ref="#person__kristina-friedrichs-tu-dresden-de">
+                <title>Digitale Bildrepositorien – wirkliche Arbeitserleichterung oder zeitraubend?</title><title type="conf_year">2018</title><author ref="#person__kristina-friedrichs-tu-dresden-de">
                     <persName>
                         <surname>Friedrichs</surname>
                         <forename>Kristina</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>kristina.friedrichs@tu-dresden.de</email>
                 </author>
                 <author ref="#person__sander-muenster-tu-dresden-de">
@@ -16,7 +15,7 @@
                         <surname>Münster</surname>
                         <forename>Sander</forename>
                     </persName>
-                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__148">TU Dresden, Deutschland</affiliation>
                     <email>sander.muenster@tu-dresden.de</email>
                 </author>
                 <author ref="#person__florian-niebling-uni-wuerzburg-de">
@@ -24,7 +23,7 @@
                         <surname>Niebling</surname>
                         <forename>Florian</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>florian.niebling@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__ferdinand-maiwald-tu-dresden-de">
@@ -32,7 +31,7 @@
                         <surname>Maiwald</surname>
                         <forename>Ferdinand</forename>
                     </persName>
-                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__148">TU Dresden, Deutschland</affiliation>
                     <email>ferdinand.maiwald@tu-dresden.de</email>
                 </author>
                 <author ref="#person__jonas-bruschke-uni-wuerzburg-de">
@@ -40,7 +39,7 @@
                         <surname>Bruschke</surname>
                         <forename>Jonas</forename>
                     </persName>
-                    <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+                    <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
                     <email>jonas.bruschke@uni-wuerzburg.de</email>
                 </author>
                 <author ref="#person__kristina-barthel-tu-dresden-de">
@@ -48,7 +47,7 @@
                         <surname>Barthel</surname>
                         <forename>Kristina</forename>
                     </persName>
-                    <affiliation ref="#org__120">TU Dresden, Deutschland</affiliation>
+                    <affiliation ref="#org__148">TU Dresden, Deutschland</affiliation>
                     <email>kristina.barthel@tu-dresden.de</email>
                 </author>
             </titleStmt>

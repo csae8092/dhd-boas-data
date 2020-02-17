@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>"Delta" in der stilometrischen Autorschaftsattribution</title><title type="conf_year">2016</title>
-        <author ref="#person__stefan-evert-fau-de">
+        <title>"Delta" in der stilometrischen Autorschaftsattribution</title><title type="conf_year">2016</title><author ref="#person__stefan-evert-fau-de">
           <name>
             <surname>Evert</surname>
             <forename>Stefan</forename>
           </name>
-          <affiliation ref="#org__76">Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__21">Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>stefan.evert@fau.de</email>
         </author>
         <author ref="#person__fotis-jannidis-uni-wuerzburg-de">
@@ -16,7 +15,7 @@
             <surname>Jannidis</surname>
             <forename>Fotis</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>fotis.jannidis@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__friedrich-m-dimpel-fau-de">
@@ -24,7 +23,7 @@
             <surname>Dimpel</surname>
             <forename>Friedrich Michael</forename>
           </name>
-          <affiliation ref="#org__76">Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__21">Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>friedrich.m.dimpel@fau.de</email>
         </author>
         <author ref="#person__christof-schoech-uni-wuerzburg-de">
@@ -32,7 +31,7 @@
             <surname>Schöch</surname>
             <forename>Christof</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>christof.schoech@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__pielstroem-biozentrum-uni-wuerzburg-de">
@@ -40,7 +39,7 @@
             <surname>Pielström</surname>
             <forename>Steffen</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>pielstroem@biozentrum.uni-wuerzburg.de</email>
         </author>
         <author ref="#person__thorsten-vitt-uni-wuerzburg-de">
@@ -48,7 +47,7 @@
             <surname>Vitt</surname>
             <forename>Thorsten</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>thorsten.vitt@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__isabella-reger-uni-wuerzburg-de">
@@ -56,7 +55,7 @@
             <surname>Reger</surname>
             <forename>Isabella</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>isabella.reger@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__andreas-buettner-uni-wuerzburg-de">
@@ -64,7 +63,7 @@
             <surname>Büttner</surname>
             <forename>Andreas</forename>
           </name>
-          <affiliation ref="#org__35">Universität Würzburg, Deutschland</affiliation>
+          <affiliation ref="#org__8">Universität Würzburg, Deutschland</affiliation>
           <email>andreas.buettner@uni-wuerzburg.de</email>
         </author>
         <author ref="#person__thomas-proisl-fau-de">
@@ -72,7 +71,7 @@
             <surname>Proisl</surname>
             <forename>Thomas</forename>
           </name>
-          <affiliation ref="#org__76">Universität Erlangen-Nürnberg, Deutschland</affiliation>
+          <affiliation ref="#org__21">Universität Erlangen-Nürnberg, Deutschland</affiliation>
           <email>thomas.proisl@fau.de</email>
         </author>
       </titleStmt>

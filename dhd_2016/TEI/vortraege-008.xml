@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Das juristische Referenzkorpus (JuReko) - Computergestützte Rechtslinguistik als empirischer Beitrag zu Gesetzgebung und Justiz</title><title type="conf_year">2016</title>
-        <author ref="#person__isabelle-gauer-medienkultur-uni-freiburg-de">
+        <title>Das juristische Referenzkorpus (JuReko) - Computergestützte Rechtslinguistik als empirischer Beitrag zu Gesetzgebung und Justiz</title><title type="conf_year">2016</title><author ref="#person__isabelle-gauer-medienkultur-uni-freiburg-de">
           <name>
             <surname>Gauer</surname>
             <forename>Isabelle</forename>
           </name>
-          <affiliation ref="#org__319">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
+          <affiliation ref="#org__87">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
           <email>isabelle.gauer@medienkultur.uni-freiburg.de</email>
         </author>
         <author ref="#person__hamann-coll-mpg-de">
@@ -16,7 +15,7 @@
             <surname>Hamann</surname>
             <forename>Hanjo</forename>
           </name>
-          <affiliation ref="#org__39">Max-Planck-Institut für Gemeinschaftsgüter, Deutschland</affiliation>
+          <affiliation ref="#org__267">Max-Planck-Institut für Gemeinschaftsgüter, Deutschland</affiliation>
           <email>hamann@coll.mpg.de</email>
         </author>
         <author ref="#person__friedemann-vogel-medienkultur-uni-freiburg-de">
@@ -24,7 +23,7 @@
             <surname>Vogel</surname>
             <forename>Friedemann</forename>
           </name>
-          <affiliation ref="#org__319">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
+          <affiliation ref="#org__87">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
           <email>friedemann.vogel@medienkultur.uni-freiburg.de</email>
         </author>
       </titleStmt>

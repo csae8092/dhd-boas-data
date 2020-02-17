@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Erstellung und Visualisierung von Topic-Modellen in WebLicht</title><title type="conf_year">2016</title>
-        <author ref="#person__marie-hinrichs-uni-tuebingen-de">
+        <title>Erstellung und Visualisierung von Topic-Modellen in WebLicht</title><title type="conf_year">2016</title><author ref="#person__marie-hinrichs-uni-tuebingen-de">
           <name>
             <surname>Hinrichs</surname>
             <forename>Marie</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland</affiliation>
           <email>marie.hinrichs@uni-tuebingen.de</email>
         </author>
         <author ref="#person__cagri-coeltekin-uni-tuebingen-de">
@@ -16,7 +15,7 @@
             <surname>Coltekin</surname>
             <forename>Cagri</forename>
           </name>
-          <affiliation ref="#org__57">Universität Tübingen, Deutschland</affiliation>
+          <affiliation ref="#org__32">Universität Tübingen, Deutschland</affiliation>
           <email>cagri.coeltekin@uni-tuebingen.de</email>
         </author>
       </titleStmt>

@@ -2,13 +2,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title><title type="conf_year">2019</title>
-                <author ref="#person__adelmann-informatik-uni-hamburg-de">
+                <title>Die Generierung von Wortfeldern und ihre Nutzung als Findeheuristik. Ein Erfahrungsbericht zum Wortfeld „medizinisches Personal“</title><title type="conf_year">2019</title><author ref="#person__adelmann-informatik-uni-hamburg-de">
                     <persName>
                         <surname>Adelmann</surname>
                         <forename>Benedikt</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>adelmann@informatik.uni-hamburg.de</email>
                 </author>
                 <author ref="#person__lina-franken-uni-hamburg-de">
@@ -16,7 +15,7 @@
                         <surname>Franken</surname>
                         <forename>Lina</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>lina.franken@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__evelyn-gius-uni-hamburg-de">
@@ -24,7 +23,7 @@
                         <surname>Gius</surname>
                         <forename>Evelyn</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>evelyn.gius@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__katharina-krueger-uni-hamburg-de">
@@ -32,7 +31,7 @@
                         <surname>Krüger</surname>
                         <forename>Katharina</forename>
                     </persName>
-                    <affiliation ref="#org__16">Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__6">Universität Hamburg, Deutschland</affiliation>
                     <email>katharina.krueger@uni-hamburg.de</email>
                 </author>
                 <author ref="#person__michael-vauth-tuhh-de">
@@ -40,7 +39,7 @@
                         <surname>Vauth</surname>
                         <forename>Michael</forename>
                     </persName>
-                    <affiliation ref="#org__15">Technische Universität Hamburg, Deutschland</affiliation>
+                    <affiliation ref="#org__18">Technische Universität Hamburg, Deutschland</affiliation>
                     <email>michael.vauth@tuhh.de</email>
                 </author>
             </titleStmt>

@@ -2,13 +2,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Nutzerorientierte Softwareentwicklung revised – Die Perspektive der Editorinnen und Editoren in digitalen Musik und Medieneditionen </title><title type="conf_year">2016</title>
-        <author ref="#person__bianca-meise-upb-de">
+        <title>Nutzerorientierte Softwareentwicklung revised – Die Perspektive der Editorinnen und Editoren in digitalen Musik und Medieneditionen </title><title type="conf_year">2016</title><author ref="#person__bianca-meise-upb-de">
           <name>
             <surname>Meise</surname>
             <forename>Bianca</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>bianca.meise@upb.de</email>
         </author>
         <author ref="#person__franzi-margarete-gmail-com">
@@ -16,7 +15,7 @@
             <surname>Schloots</surname>
             <forename>Franziska</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>franzi.margarete@gmail.com</email>
         </author>
         <author ref="#person__dm-ex-uni-paderborn-de">
@@ -24,7 +23,7 @@
             <surname>Meister</surname>
             <forename>Dorothee</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>dm@ex.uni-paderborn.de</email>
         </author>
         <author ref="#person__jml-mail-upb-de">
@@ -32,7 +31,7 @@
             <surname>Müller-Lietzkow</surname>
             <forename>Jörg</forename>
           </name>
-          <affiliation ref="#org__55">Universität Paderborn, Deutschland</affiliation>
+          <affiliation ref="#org__2">Universität Paderborn, Deutschland</affiliation>
           <email>jml@mail.upb.de</email>
         </author>
       </titleStmt>

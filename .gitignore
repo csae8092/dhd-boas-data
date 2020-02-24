@@ -10,3 +10,6 @@ hansi.xml
 /myenv
 /process/learned_settings
 process/training.json
+process/*.json
+*.corpus
+/cache

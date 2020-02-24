@@ -154,6 +154,9 @@ class TeiReader():
         return self.tree.xpath('//tei:addrLine', namespaces=self.ns_tei)
 
     def extract_md(self):
+        xml_id = self.tree.xpath(
+            './@xml:id', namespaces=self.ns_tei
+        )
         authors = self.tree.xpath(
             '//tei:titleStmt//tei:author', namespaces=self.ns_tei
         )
@@ -170,6 +173,10 @@ class TeiReader():
             '//tei:keywords[@n="topics"]/tei:term/text()', namespaces=self.ns_tei
         )
         md = {}
+        try:
+            md['xml_id'] = xml_id[0]
+        except IndexError:
+            md['xml_id'] = ""
         md['authors'] = []
         md['nr_of_authors'] = len(authors)
         for x in authors:

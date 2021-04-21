@@ -76,7 +76,7 @@ ptyprocess==0.6.0
 py==1.10.0
 pycparser==2.19
 pyemd==0.5.1
-Pygments==2.5.2
+Pygments==2.7.4
 pyhacrf-datamade==0.2.5
 PyLBFGS==0.2.0.13
 pyLDAvis==2.1.2

@@ -8,7 +8,7 @@ BTrees==4.6.1
 cachetools==4.0.0
 catalogue==1.0.0
 categorical-distance==1.9
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 csvdedupe==0.1.18
